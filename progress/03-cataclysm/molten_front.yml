@@ -1,0 +1,96 @@
+name: "Molten Front"
+groups:
+
+- name: "The Invasion"
+  currencies: [416]
+  icon: "currency/416" # Mark of the World Tree
+  lookup: none
+  type: quest
+  data:
+    0:
+      - name: "Opening the Door"
+        id: 29145
+
+      - name: "A Ritual of Flame"
+        id: 29195
+
+      - name: "To the Sanctuary!"
+        id: 29196
+
+      - name: "Caught Unawares"
+        id: 29197
+
+      - name: "The Sanctuary Must Not Fall"
+        id: 29198
+
+- name: "The Sanctuary of Malorne"
+  currencies: [416]
+  icon: "achievement/5870" # Fireside Chat
+  lookup: none
+  type: quest
+  data:
+    0:
+      - name: "Calling for Reinforcements"
+        id: 29199
+        description: "Collect {price:20|416}" # Mark of the World Tree
+
+      - name: "Leyara"
+        id: 29200
+
+      - name: "Through the Gates of Hell"
+        id: 29201
+
+- name: "The Molten Front"
+  currencies: [416]
+  icon: "achievement/5861" # The Fiery Lords of Sethria's Roost
+  lookup: none
+  type: quest
+  data:
+    0:
+      - name: "Druids of the Talon"
+        id: 29181
+        description: "Collect {price:150|416}" # Mark of the World Tree
+
+      - name: "Flight of the Storm Crows"
+        id: 29182
+      
+      - name: separator
+      
+      - name: "The Shadow Wardens"
+        id: 29214
+        description: "Collect {price:150|416}" # Mark of the World Tree
+
+      - name: "The Hunt Begins"
+        id: 29215
+
+- name: "Additional Supplies"
+  currencies: [416]
+  icon: "item/71631" # Zen'Vorka's Cache
+  lookup: none
+  type: quest
+  data:
+    0:
+      - name: "Additional Armaments"
+        id: 29281
+        description: "Collect {price:125|416}" # Mark of the World Tree
+
+      - name: "Well Armed"
+        id: 29282
+      
+      - name: separator
+
+      - name: "Calling the Ancients"
+        id: 29283
+        description: "Collect {price:125|416}" # Mark of the World Tree
+      
+      - name: "Aid of the Ancients"
+        id: 29284
+
+      - name: separator
+
+      - name: "Filling the Moonwell"
+        id: 29279
+        description: "Collect {price:125|416}" # Mark of the World Tree
+
+      - name: "Nourishing Waters"
+        id: 29280
