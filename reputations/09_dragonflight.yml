@@ -51,3 +51,7 @@ reputations:
   - both:
       id: 2517 # Wrathion
       icon: "achievement/8030" # A Test of Valor
+
+  - both:
+      id: 2526 # Winterpelt Furbolg
+      icon: "achievement/17427" # Winterpelt Conversationalist
