@@ -1,0 +1,41 @@
+name: "Isle of Thunder"
+groups:
+
+- name: "Isle of Thunder"
+  icon: "achievement/8121" # Stormbreaker
+  lookup: faction
+  type: quest
+  data:
+    alliance:
+      - name: "The Storm Gathers"
+        id: 32681
+        description: "Rewards {item:95567}"
+
+      - name: "Allies in the Shadows"
+        id: 32706
+        description: "Unlocks daily quests"
+
+      - name: "Secrets in the Isle of Thunder"
+        id: 32707
+        description: "Unlocks Champions of the Thunder King weekly"
+
+      - name: "Treasures of the Thunder King"
+        id: 32296
+        description: "Complete Troves of the Thunder King scenario"
+
+    horde:
+      - name: "The Storm Gathers"
+        id: 32680
+        description: "Rewards {item:95568}"
+
+      - name: "Allies in the Shadows"
+        id: 32709
+        description: "Unlocks daily quests"
+
+      - name: "Secrets in the Isle of Thunder"
+        id: 32707
+        description: "Unlocks Champions of the Thunder King weekly quest"
+
+      - name: "Treasures of the Thunder King"
+        id: 32296
+        description: "Complete Troves of the Thunder King scenario"
