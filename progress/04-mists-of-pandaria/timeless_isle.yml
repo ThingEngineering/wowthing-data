@@ -1,0 +1,113 @@
+name: "Timeless Isle"
+groups:
+
+- name: "Discover the Timeless Isle"
+  icon: "achievement/8723" # Legend of the Past
+  lookup: faction
+  type: quest
+  data:
+    alliance:
+      - name: "A Flash of Bronze"
+        id: 33229
+
+      - name: "Journey to the Timeless Isle"
+        id: 33231
+
+      - name: "Time Keeper Kairoz"
+        id: 33160
+
+      - name: "Time In Your Hands"
+        id: 33228
+        description: "Collect {price:1000|777}" # Timeless Coin
+
+    horde:
+      - name: "A Flash of Bronze"
+        id: 33230
+
+      - name: "Journey to the Timeless Isle"
+        id: 33232
+
+      - name: "Time Keeper Kairoz"
+        id: 33156
+
+      - name: "Time In Your Hands"
+        id: 33228
+        description: "Need {price:1000|777}" # Timeless Coin
+
+- name: "Time-Worn Journal"
+  icon: "item/103977" # Time-Worn Journal
+  lookup: none
+  type: quest
+  data:
+    0:
+      - name: "Hints From The Past"
+        id: 33332
+        description: "Needs {price:500|777}"
+
+      - name: "Timeless Treasures"
+        id: 33333
+        description: "Rewards {price:500|777}"
+
+- name: "Vision of Time"
+  icon: "item/105930" # Vision of Time
+  lookup: none
+  type: quest
+  data:
+    0:
+      - name: "A Timeless Tour"
+        id: 33161
+        description: "Rewards {price:500|777}"
+
+      - name: "The Essence of Time"
+        id: 33336
+        description: "Rewards {price:1000|777}"
+
+      - name: "A Vision in Time"
+        id: 33337
+        description: "Rewards {price:1000|777}"
+
+      - name: "Refining the Vision"
+        id: 33375
+        description: "Rewards {price:1000|777}"
+
+      - name: "Seeking Fate"
+        id: 33376
+        description: "Rewards {price:1000|777}"
+
+      - name: "Hidden Threads"
+        id: 33377
+        description: "Rewards {price:1000|777}"
+
+      - name: "Courting Destiny"
+        id: 33378
+        description: "Rewards {price:1000|777}"
+
+      - name: "One Final Turn"
+        id: 33379
+        description: "Rewards {price:5000|777}"
+
+- name: "Emperor Shaohao"
+  icon: "item/105930" # Vision of Time
+  lookup: none
+  type: quest
+  data:
+    0:
+      - name: "The Last Emperor"
+        id: 33161
+        description: "Rewards {price:500|777}"
+
+      - name: "Timeless Nutriment"
+        id: 33336
+        description: "Rewards {price:250|777}"
+
+      - name: "Wayshrines of the Celestials"
+        id: 33341
+        description: "Rewards {price:250|777}"
+
+      - name: "Drive Back the Flame"
+        id: 33342
+        description: "Reach Honored with Emperor Shaohao"
+
+      - name: "The Archiereus of Flame"
+        id: 33343
+        description: "Rewards {price:2500|777} + {item:103982}"
