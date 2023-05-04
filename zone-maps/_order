@@ -139,6 +139,10 @@
     08-shadowlands/oribos_1.yml
 
 09-dragonflight/_.yml
+    09-dragonflight/zaralek_cavern.yml
+    -
+    09-dragonflight/forbidden_reach.yml
+    -
     09-dragonflight/azure_span.yml
     09-dragonflight/ohnahran_plains.yml
     09-dragonflight/thaldraszus.yml
