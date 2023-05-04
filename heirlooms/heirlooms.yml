@@ -167,6 +167,8 @@
       faction: horde
 
     - id: 122530 # Inherited Mark of Tyranny
+    
+    - id: 199686 # Unstable Elemental Confluence
 
 - name: "Weapons"
   items:
