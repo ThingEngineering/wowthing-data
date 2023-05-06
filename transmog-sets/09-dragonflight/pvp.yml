@@ -1,6 +1,22 @@
 name: "PvP"
 
 groups:
+  - name: "Season 2"
+    matchTags:
+      - "pvp:season-32"
+    matchType: "all"
+    prefix: "S32"
+    sets:
+      - name: "*Elite"
+        modifier: 160
+        tags:
+          - "set:gladiator"
+      
+      - name: "Gladiator"
+        modifier: 159
+        tags:
+          - "set:gladiator"
+
   - name: "Season 1"
     matchTags:
       - "pvp:season-31"

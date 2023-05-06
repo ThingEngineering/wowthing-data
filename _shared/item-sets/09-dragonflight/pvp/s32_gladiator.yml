@@ -1,0 +1,188 @@
+tags:
+  - "expansion:dragonflight"
+  - "pvp:season-32"
+  - "set:gladiator"
+
+sets:
+
+  - name: "transmog:2913" # Obsidian Gladiator's Plate Armor
+    tags:
+      - "class:death-knight"
+    items:
+      - 205479 # Head
+      - 205483 # Shoulders
+      - 205673 # Back
+      - 205473 # Chest
+      - 205487 # Wrists
+      - 205477 # Hands
+      - 205485 # Waist
+      - 205481 # Legs
+      - 205475 # Feet
+
+  - name: "transmog:2919" # Obsidian Gladiator's Leather Armor
+    tags:
+      - "class:demon-hunter"
+    items:
+      - 205527 # Head
+      - 205531 # Shoulders
+      - 205655 # Back
+      - 205521 # Chest
+      - 205535 # Wrists
+      - 205525 # Hands
+      - 205533 # Waist
+      - 205529 # Legs
+      - 205523 # Feet
+
+  - name: "transmog:2921" # Obsidian Gladiator's Leather Armor
+    tags:
+      - "class:druid"
+    items:
+      - 205543 # Head
+      - 205547 # Shoulders
+      - 205658 # Back
+      - 205537 # Chest
+      - 205551 # Wrists
+      - 205541 # Hands
+      - 205549 # Waist
+      - 205545 # Legs
+      - 205539 # Feet
+
+  - name: "transmog:2910" # Obsidian Gladiator's Chain Armor
+    tags:
+      - "class:evoker"
+    items:
+      - 205397 # Head
+      - 205401 # Shoulders
+      - 205407 # Back
+      - 205391 # Chest
+      - 205405 # Wrists
+      - 205395 # Hands
+      - 205403 # Waist
+      - 205399 # Legs
+      - 205393 # Feet
+
+  - name: "transmog:2927" # Obsidian Gladiator's Chain Armor
+    tags:
+      - "class:hunter"
+    items:
+      - 205591 # Head
+      - 205595 # Shoulders
+      - 205667 # Back
+      - 205585 # Chest
+      - 205599 # Wrists
+      - 205589 # Hands
+      - 205597 # Waist
+      - 205593 # Legs
+      - 205587 # Feet
+
+  - name: "transmog:2935" # Obsidian Gladiator's Silk Armor
+    tags:
+      - "class:mage"
+    items:
+      - 205381 # Head
+      - 205385 # Shoulders
+      - 205446 # Back
+      - 205375 # Chest
+      - 205389 # Wrists
+      - 205379 # Hands
+      - 205387 # Waist
+      - 205383 # Legs
+      - 205377 # Feet
+
+  - name: "transmog:2923" # Obsidian Gladiator's Leather Armor
+    tags:
+      - "class:monk"
+    items:
+      - 205559 # Head
+      - 205563 # Shoulders
+      - 205661 # Back
+      - 205553 # Chest
+      - 205567 # Wrists
+      - 205557 # Hands
+      - 205565 # Waist
+      - 205561 # Legs
+      - 205555 # Feet
+
+  - name: "transmog:2931" # Obsidian Gladiator's Plate Armor
+    tags:
+      - "class:paladin"
+    items:
+      - 205622 # Head
+      - 205626 # Shoulders
+      - 205676 # Back
+      - 205616 # Chest
+      - 205630 # Wrists
+      - 205620 # Hands
+      - 205628 # Waist
+      - 205624 # Legs
+      - 205618 # Feet
+
+  - name: "transmog:2915" # Obsidian Gladiator's Silk Armor
+    tags:
+      - "class:priest"
+    items:
+      - 205495 # Head
+      - 205499 # Shoulders
+      - 205649 # Back
+      - 205489 # Chest
+      - 205503 # Wrists
+      - 205493 # Hands
+      - 205501 # Waist
+      - 205497 # Legs
+      - 205491 # Feet
+
+  - name: "transmog:2925" # Obsidian Gladiator's Leather Armor
+    tags:
+      - "class:rogue"
+    items:
+      - 205575 # Head
+      - 205579 # Shoulders
+      - 205664 # Back
+      - 205569 # Chest
+      - 205583 # Wrists
+      - 205573 # Hands
+      - 205581 # Waist
+      - 205577 # Legs
+      - 205571 # Feet
+
+  - name: "transmog:2929" # Obsidian Gladiator's Chain Armor
+    tags:
+      - "class:shaman"
+    items:
+      - 205607 # Head
+      - 205611 # Shoulders
+      - 205670 # Back
+      - 205601 # Chest
+      - 205615 # Wrists
+      - 205605 # Hands
+      - 205613 # Waist
+      - 205609 # Legs
+      - 205603 # Feet
+
+  - name: "transmog:2917" # Obsidian Gladiator's Silk Armor
+    tags:
+      - "class:warlock"
+    items:
+      - 205511 # Head
+      - 205515 # Shoulders
+      - 205652 # Back
+      - 205505 # Chest
+      - 205519 # Wrists
+      - 205509 # Hands
+      - 205517 # Waist
+      - 205513 # Legs
+      - 205507 # Feet
+
+  - name: "transmog:2933" # Obsidian Gladiator's Plate Armor
+    tags:
+      - "class:warrior"
+    items:
+      - 205638 # Head
+      - 205642 # Shoulders
+      - 205679 # Back
+      - 205632 # Chest
+      - 205646 # Wrists
+      - 205636 # Hands
+      - 205644 # Waist
+      - 205640 # Legs
+      - 205634 # Feet
