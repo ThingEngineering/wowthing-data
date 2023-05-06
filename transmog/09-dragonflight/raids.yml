@@ -1,6 +1,735 @@
 name: Raids
 groups:
 
+- name: "Aberrus, the Shadowed Crucible"
+  tag: T24
+  type: class
+  sets:
+  - Mythic
+  - Heroic
+  - Normal
+  - Raid Finder
+  data:
+    death-knight:
+      # Mythic set=2896
+      - name: "Lingering Phantom's Encasement"
+        wowheadSetId:
+        items:
+          1:  80442 # Head
+          3:  80443 # Shoulders
+          5:  80435 80435 # Chest
+          6:  80436 # Waist
+          7:  80437 # Legs
+          8:  80438 80438 # Feet
+          9:  80439 # Wrists
+          10: 80440 # Hands
+
+      # Heroic set=2895
+      - name: "Lingering Phantom's Encasement"
+        wowheadSetId:
+        items:
+          1:  80444 # Head
+          3:  80445 # Shoulders
+          5:  80446 80446 # Chest
+          6:  80447 # Waist
+          7:  80448 # Legs
+          8:  80449 80449 # Feet
+          9:  80450 # Wrists
+          10: 80451 # Hands
+
+      # Normal set=2870
+      - name: "Lingering Phantom's Encasement"
+        wowheadSetId:
+        items:
+          1:  80400 # Head
+          3:  80401 # Shoulders
+          5:  80402 80402 # Chest
+          6:  80403 80403 # Waist
+          7:  80404 # Legs
+          8:  80405 80405 # Feet
+          9:  80406 # Wrists
+          10: 80407 # Hands
+
+      # Raid Finder set=2897
+      - name: "Lingering Phantom's Encasement"
+        wowheadSetId:
+        items:
+          1:  80411 # Head
+          3:  80412 # Shoulders
+          5:  80413 80413 # Chest
+          6:  80414 # Waist
+          7:  80415 # Legs
+          8:  80416 80416 # Feet
+          9:  80417 # Wrists
+          10: 80418 # Hands
+
+    demon-hunter:
+      # Mythic set=2902
+      - name: "Kinslayer's Burdens"
+        wowheadSetId:
+        items:
+          1:  80578 # Head
+          3:  80579 80579 # Shoulders
+          5:  80571 80571 # Chest
+          6:  80572 80572 # Waist
+          7:  80573 # Legs
+          8:  80574 # Feet
+          9:  80575 80575 # Wrists
+          10: 80576 80576 80576 # Hands
+          16: 80577 # Back
+
+      # Heroic set=2901
+      - name: "Kinslayer's Burdens"
+        wowheadSetId:
+        items:
+          1:  80580 # Head
+          3:  80581 80581 # Shoulders
+          5:  80582 80582 # Chest
+          6:  80583 80583 # Waist
+          7:  80584 # Legs
+          8:  80585 # Feet
+          9:  80586 80586 # Wrists
+          10: 80587 80587 # Hands
+          16: 80588 # Back
+
+      # Normal set=2869
+      - name: "Kinslayer's Burdens"
+        # Missing appearance 185574
+        wowheadSetId:
+        items:
+          1:  80536 # Head
+          3:  80537 80537 # Shoulders
+          5:  80538 80538 # Chest
+          6:  80539 80539 # Waist
+          7:  80540 # Legs
+          8:  80541 # Feet
+          9:  80542 80542 # Wrists
+          10: 80543 80543 # Hands
+
+      # Raid Finder set=2903
+      - name: "Kinslayer's Burdens"
+        wowheadSetId:
+        items:
+          1:  80547 # Head
+          3:  80548 80548 # Shoulders
+          5:  80549 80549 # Chest
+          6:  80550 80550 # Waist
+          7:  80551 # Legs
+          8:  80552 # Feet
+          9:  80553 80553 # Wrists
+          10: 80554 80554 # Hands
+          16: 80555 # Back
+
+    druid:
+      # Mythic set=2893
+      - name: "Strands of the Autumn Blaze"
+        wowheadSetId:
+        items:
+          1:  78921 # Head
+          3:  78922 78922 78922 # Shoulders
+          5:  78914 # Chest
+          6:  78923 # Waist
+          7:  78916 # Legs
+          8:  78917 78917 # Feet
+          9:  78918 78918 # Wrists
+          10: 78919 # Hands
+
+      # Heroic set=2892
+      - name: "Strands of the Autumn Blaze"
+        # Missing appearance 186647
+        wowheadSetId:
+        items:
+          1:  78924 # Head
+          3:  78925 78925 # Shoulders
+          5:  78926 # Chest
+          6:  78927 # Waist
+          7:  78928 # Legs
+          8:  78929 78929 # Feet
+          9:  78930 78930 # Wrists
+          10: 78931 # Hands
+
+      # Normal set=2868
+      - name: "Strands of the Autumn Blaze"
+        # Missing appearance 185575
+        wowheadSetId:
+        items:
+          1:  78876 # Head
+          3:  78877 78877 # Shoulders
+          5:  78878 78878 # Chest
+          6:  78879 # Waist
+          7:  78880 # Legs
+          8:  78881 78881 # Feet
+          9:  78882 78882 # Wrists
+          10: 78883 # Hands
+
+      # Raid Finder set=2894
+      - name: "Strands of the Autumn Blaze"
+        # Missing appearance 186649
+        wowheadSetId:
+        items:
+          1:  78936 # Head
+          3:  78937 78937 # Shoulders
+          5:  78938 # Chest
+          6:  78939 # Waist
+          7:  78940 # Legs
+          8:  78941 78941 # Feet
+          9:  78942 78942 # Wrists
+          10: 78943 # Hands
+
+    evoker:
+      # Mythic set=2905
+      - name: "Legacy of Obsidian Secrets"
+        wowheadSetId:
+        items:
+          1:  80647 80647 # Head
+          3:  80813 # Shoulders
+          5:  80640 80640 80640 # Chest
+          6:  80648 80648 # Waist
+          7:  80642 80642 # Legs
+          8:  80643 80643 # Feet
+          9:  80644 80644 # Wrists
+          10: 80645 # Hands
+
+      # Heroic set=2904
+      - name: "Legacy of Obsidian Secrets"
+        # Missing appearance 186517
+        wowheadSetId:
+        items:
+          1:  80649 80649 # Head
+          3:  80650 # Shoulders
+          5:  80651 80651 # Chest
+          6:  80652 80652 # Waist
+          7:  80653 80653 # Legs
+          8:  80654 80654 # Feet
+          9:  80655 80655 # Wrists
+          10: 80656 # Hands
+
+      # Normal set=2867
+      - name: "Legacy of Obsidian Secrets"
+        # Missing appearance 185578
+        wowheadSetId:
+        items:
+          1:  80591 80591 # Head
+          3:  80592 # Shoulders
+          5:  80593 80593 # Chest
+          6:  80594 80594 # Waist
+          7:  80595 80595 # Legs
+          8:  80596 80596 # Feet
+          9:  80597 80597 # Wrists
+          10: 80598 # Hands
+
+      # Raid Finder set=2906
+      - name: "Legacy of Obsidian Secrets"
+        # Missing appearance 186519
+        wowheadSetId:
+        items:
+          1:  80615 80615 # Head
+          3:  80616 # Shoulders
+          5:  80617 80617 # Chest
+          6:  80618 80618 # Waist
+          7:  80619 80619 # Legs
+          8:  80620 80620 # Feet
+          9:  80621 80621 # Wrists
+          10: 80622 # Hands
+
+    hunter:
+      # Mythic set=2890
+      - name: "Ashen Predator's Scaleform"
+        wowheadSetId:
+        items:
+          1:  79956 # Head
+          3:  79957 79957 # Shoulders
+          5:  79949 79949 # Chest
+          6:  79950 79950 # Waist
+          7:  79951 # Legs
+          8:  79952 # Feet
+          9:  79953 # Wrists
+          10: 79954 # Hands
+
+      # Heroic set=2889
+      - name: "Ashen Predator's Scaleform"
+        wowheadSetId:
+        items:
+          1:  79958 # Head
+          3:  79959 79959 # Shoulders
+          5:  79960 79960 # Chest
+          6:  79961 79961 # Waist
+          7:  79962 # Legs
+          8:  79963 # Feet
+          9:  79964 # Wrists
+          10: 79965 # Hands
+
+      # Normal set=2866
+      - name: "Ashen Predator's Scaleform"
+        wowheadSetId:
+        items:
+          1:  79903 # Head
+          3:  79904 79904 # Shoulders
+          5:  79905 79905 # Chest
+          6:  79906 79906 # Waist
+          7:  79907 # Legs
+          8:  79908 # Feet
+          9:  79909 # Wrists
+          10: 79910 # Hands
+
+      # Raid Finder set=2891
+      - name: "Ashen Predator's Scaleform"
+        wowheadSetId:
+        items:
+          1:  79925 # Head
+          3:  79926 79926 # Shoulders
+          5:  79927 79927 # Chest
+          6:  79928 79928 # Waist
+          7:  79929 # Legs
+          8:  79930 # Feet
+          9:  79931 # Wrists
+          10: 79932 # Hands
+
+    mage:
+      # Mythic set=2908
+      - name: "Underlight Conjurer's Brilliance"
+        wowheadSetId:
+        items:
+          1:  80811 # Head
+          3:  80513 # Shoulders
+          5:  80507 # Chest
+          6:  80514 80514 # Waist
+          7:  80509 80509 # Legs
+          8:  80510 # Feet
+          9:  80511 80511 80511 # Wrists
+          10: 80512 # Hands
+
+      # Heroic set=2907
+      - name: "Underlight Conjurer's Brilliance"
+        # Missing appearance 186478
+        wowheadSetId:
+        items:
+          1:  80466 80466 # Head
+          3:  80467 # Shoulders
+          5:  80468 # Chest
+          6:  80469 80469 # Waist
+          7:  80470 80470 # Legs
+          8:  80471 # Feet
+          9:  80472 80472 # Wrists
+          10: 80473 # Hands
+
+      # Normal set=2865
+      - name: "Underlight Conjurer's Brilliance"
+        # Missing appearance 185571
+        wowheadSetId:
+        items:
+          1:  80515 80515 # Head
+          3:  80516 # Shoulders
+          5:  80517 # Chest
+          6:  80518 80518 # Waist
+          7:  80519 80519 # Legs
+          8:  80520 # Feet
+          9:  80521 80521 # Wrists
+          10: 80522 # Hands
+
+      # Raid Finder set=2909
+      - name: "Underlight Conjurer's Brilliance"
+        # Missing appearance 186480
+        wowheadSetId:
+        items:
+          1:  80496 80496 # Head
+          3:  80497 # Shoulders
+          5:  80498 # Chest
+          6:  80499 80499 # Waist
+          7:  80500 80500 # Legs
+          8:  80501 # Feet
+          9:  80502 80502 # Wrists
+          10: 80503 # Hands
+
+    monk:
+      # Mythic set=2887
+      - name: "Fangs of the Vermillion Forge"
+        wowheadSetId:
+        items:
+          1:  79644 # Head
+          3:  79645 # Shoulders
+          5:  79638 # Chest
+          6:  79639 79639 # Waist
+          7:  79640 # Legs
+          8:  79641 # Feet
+          9:  79642 # Wrists
+          10: 79643 79643 # Hands
+
+      # Heroic set=2886
+      - name: "Fangs of the Vermillion Forge"
+        wowheadSetId:
+        items:
+          1:  79646 # Head
+          3:  79647 # Shoulders
+          5:  79648 # Chest
+          6:  79649 79649 # Waist
+          7:  79650 # Legs
+          8:  79651 # Feet
+          9:  79652 # Wrists
+          10: 79653 79653 # Hands
+
+      # Normal set=2864
+      - name: "Fangs of the Vermillion Forge"
+        wowheadSetId:
+        items:
+          1:  79606 # Head
+          3:  79607 # Shoulders
+          5:  79608 # Chest
+          6:  79609 79609 # Waist
+          7:  79610 # Legs
+          8:  79611 # Feet
+          9:  79612 # Wrists
+          10: 79613 79613 # Hands
+
+      # Raid Finder set=2888
+      - name: "Fangs of the Vermillion Forge"
+        wowheadSetId:
+        items:
+          1:  79656 # Head
+          3:  79657 # Shoulders
+          5:  79658 # Chest
+          6:  79659 79659 # Waist
+          7:  79660 # Legs
+          8:  79661 # Feet
+          9:  79662 # Wrists
+          10: 79663 79663 # Hands
+
+    paladin:
+      # Mythic set=2872
+      - name: "Heartfire Sentinel's Authority"
+        wowheadSetId:
+        items:
+          1:  79065 79065 79065 # Head
+          3:  79066 79066 # Shoulders
+          5:  79064 # Chest
+          6:  79059 79059 # Waist
+          7:  79060 # Legs
+          8:  79061 79061 79061 # Feet
+          9:  79062 79062 # Wrists
+          10: 79063 # Hands
+
+      # Heroic set=2871
+      - name: "Heartfire Sentinel's Authority"
+        # Missing appearance 186695
+        # Missing appearance 186662
+        wowheadSetId:
+        items:
+          1:  79078 79078 # Head
+          3:  79079 79079 # Shoulders
+          5:  79086 # Chest
+          6:  79081 79081 # Waist
+          7:  79082 # Legs
+          8:  79083 79083 # Feet
+          9:  79084 79084 # Wrists
+          10: 79085 # Hands
+
+      # Normal set=2859
+      - name: "Heartfire Sentinel's Authority"
+        # Missing appearance 185585
+        # Missing appearance 185586
+        wowheadSetId:
+        items:
+          1:  79089 79089 # Head
+          3:  79090 79090 # Shoulders
+          5:  79097 # Chest
+          6:  79092 79092 # Waist
+          7:  79093 # Legs
+          8:  79094 79094 # Feet
+          9:  79095 79095 # Wrists
+          10: 79096 # Hands
+
+      # Raid Finder set=2873
+      - name: "Heartfire Sentinel's Authority"
+        # Missing appearance 186697
+        # Missing appearance 186664
+        wowheadSetId:
+        items:
+          1:  79067 79067 # Head
+          3:  79068 79068 # Shoulders
+          5:  79075 # Chest
+          6:  79070 79070 # Waist
+          7:  79071 # Legs
+          8:  79072 79072 # Feet
+          9:  79073 79073 # Wrists
+          10: 79074 # Hands
+
+    priest:
+      # Mythic set=2884
+      - name: "The Furnace Seraph's Verdict"
+        wowheadSetId:
+        items:
+          1:  79215 # Head
+          3:  79207 79207 79207 # Shoulders
+          5:  79208 # Chest
+          6:  79209 # Waist
+          7:  79210 79210 # Legs
+          8:  79211 79211 # Feet
+          9:  79212 79212 # Wrists
+          10: 79213 # Hands
+          16: 79214 79214 # Back
+
+      # Heroic set=2883
+      - name: "The Furnace Seraph's Verdict"
+        # Missing appearance 186496
+        wowheadSetId:
+        items:
+          1:  79216 # Head
+          3:  79217 79217 # Shoulders
+          5:  79218 # Chest
+          6:  79219 # Waist
+          7:  79220 79220 # Legs
+          8:  79221 79221 # Feet
+          9:  79222 79222 # Wrists
+          10: 79223 # Hands
+          16: 79224 # Back
+
+      # Normal set=2863
+      - name: "The Furnace Seraph's Verdict"
+        # Missing appearance 185570
+        wowheadSetId:
+        items:
+          1:  79246 # Head
+          3:  79247 79247 # Shoulders
+          5:  79248 # Chest
+          6:  79249 # Waist
+          7:  79250 79250 # Legs
+          8:  79251 79251 # Feet
+          9:  79252 79252 # Wrists
+          10: 79253 # Hands
+
+      # Raid Finder set=2885
+      - name: "The Furnace Seraph's Verdict"
+        # Missing appearance 186498
+        wowheadSetId:
+        items:
+          1:  79196 # Head
+          3:  79197 79197 # Shoulders
+          5:  79198 # Chest
+          6:  79199 # Waist
+          7:  79200 79200 # Legs
+          8:  79201 79201 # Feet
+          9:  79202 79202 # Wrists
+          10: 79203 # Hands
+          16: 79204 # Back
+
+    rogue:
+      # Mythic set=2881
+      - name: "Lurking Specter's Shadeweave"
+        wowheadSetId:
+        items:
+          1:  78368 78368 # Head
+          3:  78377 # Shoulders
+          5:  78370 # Chest
+          6:  78371 # Waist
+          7:  78372 78372 # Legs
+          8:  78373 78373 # Feet
+          9:  78374 78374 # Wrists
+          10: 78375 # Hands
+
+      # Heroic set=2880
+      - name: "Lurking Specter's Shadeweave"
+        wowheadSetId:
+        items:
+          1:  78378 78378 # Head
+          3:  78379 # Shoulders
+          5:  78380 # Chest
+          6:  78381 # Waist
+          7:  78382 78382 # Legs
+          8:  78383 78383 # Feet
+          9:  78384 78384 # Wrists
+          10: 78385 # Hands
+
+      # Normal set=2862
+      - name: "Lurking Specter's Shadeweave"
+        wowheadSetId:
+        items:
+          1:  78398 78398 # Head
+          3:  78399 # Shoulders
+          5:  78400 # Chest
+          6:  78401 # Waist
+          7:  78402 78402 # Legs
+          8:  78403 78403 # Feet
+          9:  78404 78404 # Wrists
+          10: 78405 # Hands
+
+      # Raid Finder set=2882
+      - name: "Lurking Specter's Shadeweave"
+        wowheadSetId:
+        items:
+          1:  78388 78388 # Head
+          3:  78389 # Shoulders
+          5:  78390 # Chest
+          6:  78391 # Waist
+          7:  78392 78392 # Legs
+          8:  78393 78393 # Feet
+          9:  78394 # Wrists
+          10: 78395 # Hands
+
+    shaman:
+      # Mythic set=2878
+      - name: "Runes of the Cinderwolf"
+        wowheadSetId:
+        items:
+          1:  78993 78993 # Head
+          3:  78994 # Shoulders
+          5:  78986 # Chest
+          6:  78987 78987 78995 # Waist
+          7:  78988 # Legs
+          8:  78989 78989 # Feet
+          9:  78990 78990 # Wrists
+          10: 78991 78991 # Hands
+
+      # Heroic set=2877
+      - name: "Runes of the Cinderwolf"
+        # Missing appearance 186544
+        wowheadSetId:
+        items:
+          1:  78996 78996 # Head
+          3:  78997 # Shoulders
+          5:  78998 # Chest
+          6:  78999 78999 # Waist
+          7:  79000 # Legs
+          8:  79001 79001 # Feet
+          9:  79002 79002 # Wrists
+          10: 79003 79003 # Hands
+
+      # Normal set=2861
+      - name: "Runes of the Cinderwolf"
+        # Missing appearance 185579
+        wowheadSetId:
+        items:
+          1:  79008 79008 # Head
+          3:  79009 # Shoulders
+          5:  79010 # Chest
+          6:  79011 79011 # Waist
+          7:  79012 # Legs
+          8:  79013 79013 # Feet
+          9:  79014 79014 # Wrists
+          10: 79015 79015 # Hands
+
+      # Raid Finder set=2879
+      - name: "Runes of the Cinderwolf"
+        # Missing appearance 186546
+        wowheadSetId:
+        items:
+          1:  78972 78972 # Head
+          3:  78973 # Shoulders
+          5:  78974 # Chest
+          6:  78975 78975 # Waist
+          7:  78976 # Legs
+          8:  78977 78977 # Feet
+          9:  78978 78978 # Wrists
+          10: 78979 78979 # Hands
+
+    warlock:
+      # Mythic set=2875
+      - name: "Sinister Savant's Cursethreads"
+        wowheadSetId:
+        items:
+          1:  79564 # Head
+          3:  79565 79565 # Shoulders
+          5:  79556 79556 # Chest
+          6:  79557 79557 # Waist
+          7:  79558 # Legs
+          8:  79559 79559 # Feet
+          9:  79560 79560 # Wrists
+          10: 79561 79561 # Hands
+          16: 79562 # Back
+
+      # Heroic set=2874
+      - name: "Sinister Savant's Cursethreads"
+        wowheadSetId:
+        items:
+          1:  79567 # Head
+          3:  79568 79568 # Shoulders
+          5:  79569 79569 # Chest
+          6:  79570 79570 # Waist
+          7:  79571 # Legs
+          8:  79572 79572 # Feet
+          9:  79573 79573 # Wrists
+          10: 79574 79574 # Hands
+          16: 79575 # Back
+
+      # Normal set=2860
+      - name: "Sinister Savant's Cursethreads"
+        wowheadSetId:
+        items:
+          1:  79593 # Head
+          3:  79594 79594 # Shoulders
+          5:  79595 79595 # Chest
+          6:  79596 79596 # Waist
+          7:  79597 # Legs
+          8:  79598 79598 # Feet
+          9:  79599 79599 # Wrists
+          10: 79600 79600 # Hands
+
+      # Raid Finder set=2876
+      - name: "Sinister Savant's Cursethreads"
+        wowheadSetId:
+        items:
+          1:  79580 # Head
+          3:  79581 79581 # Shoulders
+          5:  79582 79582 # Chest
+          6:  79583 79583 # Waist
+          7:  79584 # Legs
+          8:  79585 79585 # Feet
+          9:  79586 79586 # Wrists
+          10: 79587 79587 # Hands
+
+    warrior:
+      # Mythic set=2899
+      - name: "Irons of the Onyx Crucible"
+        wowheadSetId:
+        items:
+          1:  80730 80730 # Head
+          3:  80731 # Shoulders
+          5:  80723 # Chest
+          6:  80724 80724 # Waist
+          7:  80725 80725 # Legs
+          8:  80726 80726 # Feet
+          9:  80727 80727 # Wrists
+          10: 80728 80728 # Hands
+
+      # Heroic set=2898
+      - name: "Irons of the Onyx Crucible"
+        wowheadSetId:
+        items:
+          1:  80673 80673 # Head
+          3:  80674 # Shoulders
+          5:  80675 # Chest
+          6:  80676 80676 # Waist
+          7:  80677 80677 # Legs
+          8:  80678 80678 # Feet
+          9:  80679 80679 # Wrists
+          10: 80680 80680 # Hands
+          16: 80681 # Back
+
+      # Normal set=2858
+      - name: "Irons of the Onyx Crucible"
+        wowheadSetId:
+        items:
+          1:  80661 80661 # Head
+          3:  80662 80662 # Shoulders
+          5:  80663 # Chest
+          6:  80664 80664 # Waist
+          7:  80665 80665 # Legs
+          8:  80666 80666 # Feet
+          9:  80667 80667 # Wrists
+          10: 80668 80668 # Hands
+
+      # Raid Finder set=2900
+      - name: "Irons of the Onyx Crucible"
+        wowheadSetId:
+        items:
+          1:  80709 80709 # Head
+          3:  80710 # Shoulders
+          5:  80711 # Chest
+          6:  80712 80712 # Waist
+          7:  80713 80713 # Legs
+          8:  80714 80714 # Feet
+          9:  80715 80715 # Wrists
+          10: 80716 80716 # Hands
+
 - name: Vault of the Incarnates
   tag: T23
   type: class
