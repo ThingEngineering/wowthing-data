@@ -1,0 +1,173 @@
+tags:
+  - "expansion:dragonflight"
+  - "raid:aberrus-the-shadowed-crucible"
+
+sets:
+  - name: "transmog:2870" # Lingering Phantom's Encasement
+    tags:
+      - "class:death-knight"
+    items:
+      - 202461 # Head
+      - 202459 # Shoulders
+      - 202464 # Chest
+      - 202457 # Wrists
+      - 202462 # Hands
+      - 202458 # Waist
+      - 202460 # Legs
+      - 202463 # Feet
+
+  - name: "transmog:2869" # Kinslayer's Burdens
+    tags:
+      - "class:demon-hunter"
+    items:
+      - 202524 # Head
+      - 202522 # Shoulders
+      - 202527 # Chest
+      - 202520 # Wrists
+      - 202525 # Hands
+      - 202521 # Waist
+      - 202523 # Legs
+      - 202526 # Feet
+
+  - name: "transmog:2868" # Strands of the Autumn Blaze
+    tags:
+      - "class:druid"
+    items:
+      - 202515 # Head
+      - 202513 # Shoulders
+      - 202518 # Chest
+      - 202511 # Wrists
+      - 202516 # Hands
+      - 202512 # Waist
+      - 202514 # Legs
+      - 202517 # Feet
+
+  - name: "transmog:2867" # Legacy of Obsidian Secrets
+    tags:
+      - "class:evoker"
+    items:
+      - 202488 # Head
+      - 202486 # Shoulders
+      - 202491 # Chest
+      - 202484 # Wrists
+      - 202489 # Hands
+      - 202485 # Waist
+      - 202487 # Legs
+      - 202490 # Feet
+
+  - name: "transmog:2866" # Ashen Predator's Scaleform
+    tags:
+      - "class:hunter"
+    items:
+      - 202479 # Head
+      - 202477 # Shoulders
+      - 202482 # Chest
+      - 202475 # Wrists
+      - 202480 # Hands
+      - 202476 # Waist
+      - 202478 # Legs
+      - 202481 # Feet
+
+  - name: "transmog:2865" # Underlight Conjurer's Brilliance
+    tags:
+      - "class:mage"
+    items:
+      - 202551 # Head
+      - 202549 # Shoulders
+      - 202554 # Chest
+      - 202547 # Wrists
+      - 202552 # Hands
+      - 202548 # Waist
+      - 202550 # Legs
+      - 202553 # Feet
+
+  - name: "transmog:2864" # Fangs of the Vermillion Forge
+    tags:
+      - "class:monk"
+    items:
+      - 202506 # Head
+      - 202504 # Shoulders
+      - 202509 # Chest
+      - 202502 # Wrists
+      - 202507 # Hands
+      - 202503 # Waist
+      - 202505 # Legs
+      - 202508 # Feet
+
+  - name: "transmog:2859" # Heartfire Sentinel's Authority
+    tags:
+      - "class:paladin"
+    items:
+      - 202452 # Head
+      - 202450 # Shoulders
+      - 202455 # Chest
+      - 202448 # Wrists
+      - 202453 # Hands
+      - 202449 # Waist
+      - 202451 # Legs
+      - 202454 # Feet
+
+  - name: "transmog:2863" # The Furnace Seraph's Verdict
+    tags:
+      - "class:priest"
+    items:
+      - 202542 # Head
+      - 202540 # Shoulders
+      - 205857 # Chest
+      - 202538 # Wrists
+      - 202543 # Hands
+      - 202539 # Waist
+      - 202541 # Legs
+      - 202544 # Feet
+
+  - name: "transmog:2862" # Lurking Specter's Shadeweave
+    tags:
+      - "class:rogue"
+    items:
+      - 202497 # Head
+      - 202495 # Shoulders
+      - 202500 # Chest
+      - 202493 # Wrists
+      - 202498 # Hands
+      - 202494 # Waist
+      - 202496 # Legs
+      - 202499 # Feet
+
+  - name: "transmog:2861" # Runes of the Cinderwolf
+    tags:
+      - "class:shaman"
+    items:
+      - 202470 # Head
+      - 202468 # Shoulders
+      - 202473 # Chest
+      - 202466 # Wrists
+      - 202471 # Hands
+      - 202467 # Waist
+      - 202469 # Legs
+      - 202472 # Feet
+
+  - name: "transmog:2860" # Sinister Savant's Cursethreads
+    tags:
+      - "class:warlock"
+    items:
+      - 202533 # Head
+      - 202531 # Shoulders
+      - 202536 # Chest
+      - 202529 # Wrists
+      - 202534 # Hands
+      - 202530 # Waist
+      - 202532 # Legs
+      - 202535 # Feet
+
+  - name: "transmog:2858" # Irons of the Onyx Crucible
+    tags:
+      - "class:warrior"
+    items:
+      - 202443 # Head
+      - 202441 # Shoulders
+      - 202446 # Chest
+      - 202439 # Wrists
+      - 202444 # Hands
+      - 202440 # Waist
+      - 202442 # Legs
+      - 202445 # Feet
