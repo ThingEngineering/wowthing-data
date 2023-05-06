@@ -1,0 +1,33 @@
+name: "Raid Skips"
+minimumLevel: 70
+groups:
+
+- name: "Vault of the Incarnates"
+  icon: "achievement/16343" # Vault of the Incarnates
+  iconText: "VoI"
+  type: raidSkip
+  data:
+    normal:
+    - name: "dfVault1Normal"
+
+    heroic:
+    - name: "dfVault1Heroic"
+
+    mythic:
+    - name: "dfVault1Mythic"
+
+- name: separator
+
+- name: "Aberrus, the Shadowed Crucible"
+  icon: "achievement/18160" # Aberrus, the Shadowed Crucible
+  iconText: "ASC"
+  type: raidSkip
+  data:
+    normal:
+    - name: "dfAberrus1Normal"
+
+    heroic:
+    - name: "dfAberrus1Heroic"
+
+    mythic:
+    - name: "dfAberrus1Mythic"

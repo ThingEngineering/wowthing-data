@@ -53,6 +53,8 @@
     09-dragonflight/professions.yml
     09-dragonflight/sparks.yml
     09-dragonflight/zaralek_cavern.yml
+    09-dragonflight/raid_skips.yml
+
 -
 
 world-events/_world_events.yml
@@ -71,6 +73,7 @@ raid_skips.yml
     06-legion/raid_skips.yml Legion
     07-battle-for-azeroth/raid_skips.yml Battle for Azeroth
     08-shadowlands/raid_skips.yml Shadowlands
+    09-dragonflight/raid_skips.yml
 
 travel.yml
     00-classic/travel.yml Classic
