@@ -1,9 +1,9 @@
-name: "Spark of Ingenuity"
+name: "Sparks"
 groups:
 
 - name: "Spark of Ingenuity"
-  icon: "achievement/15794"
-  iconText: "Spark"
+  icon: "item/190453"
+  iconText: "S1"
   lookup: none
   type: quest
   data:
@@ -25,3 +25,13 @@ groups:
     
       - name: "Fifth Challenge: Ingenuity"
         id: 70899
+
+- name: "Spark of Shadowflame"
+  icon: "item/204440"
+  iconText: "S2"
+  lookup: none
+  type: quest
+  data:
+    0:
+     - name: "Power Unified"
+       id: 75641

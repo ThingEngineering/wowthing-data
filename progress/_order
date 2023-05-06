@@ -51,8 +51,8 @@
     09-dragonflight/zone_storylines.yml
     09-dragonflight/zone_optional.yml
     09-dragonflight/professions.yml
-    09-dragonflight/spark_of_ingenuity.yml
-
+    09-dragonflight/sparks.yml
+    09-dragonflight/zaralek_cavern.yml
 -
 
 world-events/_world_events.yml
