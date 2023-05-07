@@ -1,0 +1,9 @@
+items:
+  
+  - type: transmog
+    id: 190846 # Shattered Voidspire
+    cost: 500
+
+  - type: transmog
+    id: 190439 # Merciless Trapper's Staff
+    cost: 150

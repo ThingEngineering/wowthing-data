@@ -1,0 +1,13 @@
+items:
+  
+  - type: transmog
+    id: 190217 # Fang of the Mountain
+    cost: 400
+
+  - type: transmog
+    id: 202248 # Frozen Shadow
+    cost: 400
+
+  - type: transmog
+    id: 190214 # Tiercel's Wing
+    cost: 200

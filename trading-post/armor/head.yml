@@ -1,0 +1,17 @@
+items:
+  
+  - type: transmog
+    id: 190899 # Crimson Bicorne
+    cost: 175
+  
+  - type: transmog
+    id: 189882 # Dread Admiral's Bicorne
+    cost: 175
+  
+  - type: transmog
+    id: 190215 # Lost Crown of the Arcane
+    cost: 200
+
+  - type: transmog
+    id: 190898 # Red Pith Helmet
+    cost: 175

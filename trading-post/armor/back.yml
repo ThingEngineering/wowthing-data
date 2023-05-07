@@ -1,0 +1,29 @@
+items:
+
+  - type: transmog
+    id: 190130 # Drape of Foreboding Mists
+    cost: 100
+
+  - type: transmog
+    id: 190063 # Greatcloak of the Virtuous Protector
+    cost: 50
+  
+  - type: transmog
+    id: 189897 # Infiltrator's Bandolier
+    cost: 250
+
+  - type: transmog
+    id: 190434 # Iridescent Warcloak
+    cost: 75
+
+  - type: transmog
+    id: 190599 # Operative's Bandolier
+    cost: 250
+
+  - type: transmog
+    id: 190808 # High Priestess's Ceremonial Drape
+    cost: 50
+
+  - type: transmog
+    id: 190155 # Trusty Treasure Trove
+    cost: 750

@@ -1,0 +1,25 @@
+items:
+  
+  - type: transmog
+    id: 190856 # Fetid Bouquet
+    cost: 100
+
+  - type: transmog
+    id: 189896 # Forsaken Crescent
+    cost: 100
+
+  - type: transmog
+    id: 190065 # Gnomish Liquid Transfer Apparatus
+    cost: 75
+  
+  - type: transmog
+    id: 190153 # Libram of Righteous Light
+    cost: 225
+
+  - type: transmog
+    id: 190154 # Tome of Sin'dorei Screts
+    cost: 225
+
+  - type: transmog
+    id: 189895 # Watchman's Flare
+    cost: 100

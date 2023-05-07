@@ -1,0 +1,9 @@
+items:
+  
+  - type: transmog
+    id: 190071 # Azure Scalesworn Longbow
+    cost: 200
+
+  - type: transmog
+    id: 190204 # Huntsman's Recurve Bow
+    cost: 50

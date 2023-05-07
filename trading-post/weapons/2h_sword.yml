@@ -1,0 +1,13 @@
+items:
+  
+  - type: transmog
+    id: 190133 # Honed Bastard Sword
+    cost: 100
+
+  - type: transmog
+    id: 190600 # Shadowy Blademaster's Greatsword
+    cost: 225
+
+  - type: transmog
+    id: 190092 # Triumphant Blademaster's Greatsword
+    cost: 225

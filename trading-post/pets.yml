@@ -1,0 +1,17 @@
+items:
+
+  - type: pet
+    id: 3250 # Egbob
+    cost: 600
+
+  - type: pet
+    id: 3252 # Garrlok
+    cost: 750
+
+  - type: pet
+    id: 248 # Pandaren Monk
+    cost: 650
+
+  - type: pet
+    id: 3243 # Pippin
+    cost: 600

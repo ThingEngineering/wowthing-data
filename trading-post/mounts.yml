@@ -1,0 +1,9 @@
+items:
+
+  - type: mount
+    id: 376 # Celestial Steed
+    cost: 900
+
+  - type: mount
+    id: 1573 # Magenta Cloud Serpent
+    cost: 900

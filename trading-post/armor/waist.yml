@@ -1,0 +1,9 @@
+items:
+
+  - type: transmog
+    id: 202311 # Sunbleached Grimskull Cinch
+    cost: 100
+  
+  - type: transmog
+    id: 190199 # Well-Worn Grimskull Cinch
+    cost: 100

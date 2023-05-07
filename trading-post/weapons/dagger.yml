@@ -1,0 +1,9 @@
+items:
+
+  - type: transmog
+    id: 190143 # Shard of Frozen Secrets
+    cost: 200
+  
+  - type: transmog
+    id: 190205 # Sharpened Shank
+    cost: 50

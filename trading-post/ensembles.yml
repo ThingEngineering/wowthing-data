@@ -1,0 +1,53 @@
+items:
+
+  - type: transmog
+    id: 200909 # Ensemble: Corrupted Runelord's Regalia
+    cost: 750
+
+  - type: transmog
+    id: 189938 # Ensemble: Fel-Automaton Exoplate
+    cost: 850
+
+  - type: transmog
+    id: 200884 # Ensemble: Glorious Dragonrider's Mail
+    cost: 750
+
+  - type: transmog
+    id: 201229 # Ensemble: Kvaldir Scout Leathers
+    cost: 750
+
+  - type: transmog
+    id: 190799 # Ensemble: Swashbuckling Buccaneer's Slops
+    cost: 650
+
+  - type: transmog
+    id: 190540 # Ensemble: Trapper's Munitions
+    cost: 500
+
+  - type: transmog
+    id: 190166 # Ensemble: Vagabond's Midnight Threads
+    cost: 100
+
+  - type: transmog
+    id: 202170 # Ensemble: Vagabond's Rosy Threads
+    cost: 100
+
+  - type: transmog
+    id: 190922 # Ensemble: Vagabond's Snowy Threads
+    cost: 100
+
+  - type: transmog
+    id: 190095 # Ensemble: Vestment of the Honored Valarjar
+    cost: 850
+
+  - type: transmog
+    id: 190377 # Ensemble: Wanderer's Midnight Trappings
+    cost: 100
+
+  - type: transmog
+    id: 202167 # Ensemble: Wanderer's Rosy Trappings
+    cost: 100
+
+  - type: transmog
+    id: 190921 # Ensemble: Wanderer's Snowy Trappings
+    cost: 100

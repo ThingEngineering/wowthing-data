@@ -1,0 +1,9 @@
+items:
+  
+  - type: transmog
+    id: 189898 # Fury of the Firelord
+    cost: 750
+
+  - type: transmog
+    id: 190145 # Gilded Drakkonid Morningstar
+    cost: 450
