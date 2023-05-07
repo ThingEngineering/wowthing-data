@@ -151,7 +151,7 @@ STANDING = {
 
 mapper_re = re.compile(r'var g_mapperData = (.*?)\;$', re.MULTILINE)
 npc_re = re.compile(r'^\$\.extend\(g_npcs\[\d+], (.*?)\)\;$', re.MULTILINE)
-sells_re = re.compile(r'^new Listview\(.*?id: \'sells\'.*?data: (.*?)\}\)\;$', re.MULTILINE)
+sells_re = re.compile(r'^new Listview\(.*?id: \'sells\'.*?data:\s*(.*?)\}\)\;$', re.MULTILINE)
 
 cache_path = os.path.join(os.path.dirname(__file__), '..', 'temp', 'requests_cache')
 requests_cache.install_cache(cache_path, expire_after=4 * 3600)
