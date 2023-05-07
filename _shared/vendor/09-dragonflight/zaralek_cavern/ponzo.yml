@@ -1,0 +1,144 @@
+id: 204693
+name: "Ponzo"
+note: "Barterer Extraordinaire"
+
+locations:
+  09-dragonflight/zaralek_cavern:
+    - 58 53.8
+
+sells:
+
+  - type: mount
+    id: 1736 # Boulder Hauler
+    costs:
+      1204985: 170 # Barter Brick
+
+  - type: pet
+    id: 3537 # Thimblerig
+    costs:
+      1204985: 85 # Barter Brick
+
+  # - type: transmog
+  #   id: 205440 # Bartered Alchemy Journal
+  #   costs:
+  #     1204985: 9 # Barter Brick
+
+  # - type: transmog
+  #   id: 205429 # Bartered Alchemy Notes
+  #   costs:
+  #     1204985: 3 # Barter Brick
+
+  # - type: transmog
+  #   id: 205439 # Bartered Blacksmithing Journal
+  #   costs:
+  #     1204985: 9 # Barter Brick
+
+  # - type: transmog
+  #   id: 205428 # Bartered Blacksmithing Notes
+  #   costs:
+  #     1204985: 3 # Barter Brick
+
+  # - type: transmog
+  #   id: 205438 # Bartered Enchanting Journal
+  #   costs:
+  #     1204985: 9 # Barter Brick
+
+  # - type: transmog
+  #   id: 205427 # Bartered Enchanting Notes
+  #   costs:
+  #     1204985: 3 # Barter Brick
+
+  # - type: transmog
+  #   id: 205436 # Bartered Engineering Journal
+  #   costs:
+  #     1204985: 9 # Barter Brick
+
+  # - type: transmog
+  #   id: 205425 # Bartered Engineering Notes
+  #   costs:
+  #     1204985: 3 # Barter Brick
+
+  # - type: transmog
+  #   id: 205445 # Bartered Herbalism Journal
+  #   costs:
+  #     1204985: 9 # Barter Brick
+
+  # - type: transmog
+  #   id: 205434 # Bartered Herbalism Notes
+  #   costs:
+  #     1204985: 3 # Barter Brick
+
+  # - type: transmog
+  #   id: 205441 # Bartered Inscription Journal
+  #   costs:
+  #     1204985: 9 # Barter Brick
+
+  # - type: transmog
+  #   id: 205430 # Bartered Inscription Notes
+  #   costs:
+  #     1204985: 3 # Barter Brick
+
+  # - type: transmog
+  #   id: 205435 # Bartered Jewelcrafting Journal
+  #   costs:
+  #     1204985: 9 # Barter Brick
+
+  # - type: transmog
+  #   id: 205424 # Bartered Jewelcrafting Notes
+  #   costs:
+  #     1204985: 3 # Barter Brick
+
+  # - type: transmog
+  #   id: 205437 # Bartered Leatherworking Journal
+  #   costs:
+  #     1204985: 9 # Barter Brick
+
+  # - type: transmog
+  #   id: 205426 # Bartered Leatherworking Notes
+  #   costs:
+  #     1204985: 3 # Barter Brick
+
+  # - type: transmog
+  #   id: 205443 # Bartered Mining Journal
+  #   costs:
+  #     1204985: 9 # Barter Brick
+
+  # - type: transmog
+  #   id: 205432 # Bartered Mining Notes
+  #   costs:
+  #     1204985: 3 # Barter Brick
+
+  # - type: transmog
+  #   id: 205444 # Bartered Skinning Journal
+  #   costs:
+  #     1204985: 9 # Barter Brick
+
+  # - type: transmog
+  #   id: 205433 # Bartered Skinning Notes
+  #   costs:
+  #     1204985: 3 # Barter Brick
+
+  # - type: transmog
+  #   id: 205442 # Bartered Tailoring Journal
+  #   costs:
+  #     1204985: 9 # Barter Brick
+
+  # - type: transmog
+  #   id: 205431 # Bartered Tailoring Notes
+  #   costs:
+  #     1204985: 3 # Barter Brick
+
+  - type: transmog
+    id: 203312 # Winding Slitherdrake: Cluster Chin Horn
+    costs:
+      1204985: 5 # Barter Brick
+
+  - type: transmog
+    id: 203346 # Winding Slitherdrake: Curled Nose
+    costs:
+      1204985: 5 # Barter Brick
+
+  - type: transmog
+    id: 203308 # Winding Slitherdrake: Hairy Brow
+    costs:
+      1204985: 5 # Barter Brick
