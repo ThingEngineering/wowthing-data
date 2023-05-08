@@ -2,3 +2,369 @@ name: "Zaralek Cavern"
 mapName: "09-dragonflight/zaralek_cavern"
 minimumLevel: 60
 farms:
+
+# Profession Treasure
+
+# - Alchemy
+
+- name: "{item:205212}"
+  location: 62.10 41.12
+  objectId: 401238
+  questId: 75649
+  reset: never
+  type: profession
+  drops:
+    - type: item
+      id: 205212 # Marrow-Ripened Slime
+      limit: profession alchemy 2823 25
+      note: "{price:3|2024}" # Alchemy Knowledge
+
+- name: "{item:205211}"
+  location: 52.68 18.30
+  objectId: 401236
+  questId: 75646
+  reset: never
+  type: profession
+  drops:
+    - type: item
+      id: 205211 # Nutrient Diluted Protofluid
+      limit: profession alchemy 2823 25
+      note: "{price:3|2024}" # Alchemy Knowledge
+
+- name: "{item:205213}"
+  location: 40.48 59.18
+  objectId: 401240
+  questId: 75651
+  reset: never
+  type: profession
+  drops:
+    - type: item
+      id: 205213 # Suspicious Mold
+      limit: profession alchemy 2823 25
+      note: "{price:3|2024}" # Alchemy Knowledge
+
+# - Blacksmithing
+
+- name: "{item:205987}"
+  location: 48.30 21.95
+  objectId: 402632
+  questId: 76079
+  reset: never
+  type: profession
+  drops:
+    - type: item
+      id: 205987 # Brimstone Rescue Ring
+      limit: profession blacksmithing 2822 25
+      note: "{price:3|2023}" # Blacksmithing Knowledge
+
+- name: "{item:205986}"
+  location: 57.15 54.64
+  objectId: 402627
+  questId: 76078
+  reset: never
+  type: profession
+  drops:
+    - type: item
+      id: 205986 # Well-Worn Kiln
+      limit: profession blacksmithing 2822 25
+      note: "{price:3|2023}" # Blacksmithing Knowledge
+
+- name: "{item:205988}"
+  location: 27.53 42.87
+  objectId: 402634
+  questId: 76080
+  reset: never
+  type: profession
+  drops:
+    - type: item
+      id: 205988 # Zaqali Elder Spear
+      limit: profession blacksmithing 2822 25
+      note: "{price:3|2023}" # Blacksmithing Knowledge
+
+# - Enchanting
+
+- name: "{item:204990}"
+  location: 48.00 17.00
+  objectId: 398793
+  questId: 75508
+  reset: never
+  type: profession
+  drops:
+    - type: item
+      id: 204990 # Lava-Drenched Shadow Crystal
+      limit: profession enchanting 2825 25
+      note: "{price:3|2030}" # Enchanting Knowledge
+
+- name: "{item:205001}"
+  location: 36.66 69.33
+  objectId: 398796
+  questId: 75510
+  reset: never
+  type: profession
+  drops:
+    - type: item
+      id: 205001 # Resonating Arcane Crystal
+      limit: profession enchanting 2825 25
+      note: "{price:3|2030}" # Enchanting Knowledge
+
+- name: "{item:204999}"
+  location: 62.39 53.80
+  objectId: 398794
+  questId: 75509
+  reset: never
+  type: profession
+  drops:
+    - type: item
+      id: 204999 # Shimmering Aqueous Orb
+      limit: profession enchanting 2825 25
+      note: "{price:3|2030}" # Enchanting Knowledge
+
+# - Engineering
+
+- name: "{item:204475}"
+  location: 37.82 58.83
+  objectId: 392587
+  questId: 75186
+  reset: never
+  type: profession
+  drops:
+    - type: item
+      id: 204475 # Busted Wyrmhole Generator
+      limit: profession engineering 2827 25
+      note: "{price:3|2027}" # Engineering Knowledge
+
+- name: "{item:204471}"
+  location: 50.51 47.93
+  objectId: 392582
+  questId: 75184
+  reset: never
+  type: profession
+  drops:
+    - type: item
+      id: 204471 # Defective Survival Pack
+      limit: profession engineering 2827 25
+      note: "{price:3|2027}" # Engineering Knowledge
+
+- name: "{item:204853}"
+  location: 49.44 79.01
+  objectId: 398135
+  questId: 75431
+  reset: never
+  type: profession
+  drops:
+    - type: item
+      id: 204853 # Discarded Dracothyst Drill
+      limit: profession engineering 2827 25
+      note: "{price:3|2027}" # Engineering Knowledge
+
+- name: "{item:204850}"
+  location: 57.65 73.94
+  objectId: 398133
+  questId: 75430
+  reset: never
+  type: profession
+  drops:
+    - type: item
+      id: 204850 # Handful of Khaz'gorite Bolts
+      limit: profession engineering 2827 25
+      note: "{price:3|2027}" # Engineering Knowledge
+
+- name: "{item:204470}"
+  location: 48.17 27.93
+  objectId: 392581
+  questId: 75183
+  reset: never
+  type: profession
+  drops:
+    - type: item
+      id: 204470 # Haphazardly Discarded Bomb
+      limit: profession engineering 2827 25
+      note: "{price:3|2027}" # Engineering Knowledge
+
+- name: "{item:204480}"
+  location: 49.87 59.25
+  objectId: 392593
+  questId: 75188
+  reset: never
+  type: profession
+  drops:
+    - type: item
+      id: 204480 # Inconspicuous Data Miner
+      limit: profession engineering 2827 25
+      note: "{price:3|2027}" # Engineering Knowledge
+
+- name: "{item:204469}"
+  location: 48.48 48.64
+  objectId: 392580
+  questId: 75180
+  reset: never
+  type: profession
+  drops:
+    - type: item
+      id: 204469 # Misplaced Aberrus Outflow Blueprints
+      limit: profession engineering 2827 25
+      note: "{price:3|2027}" # Engineering Knowledge
+
+- name: "{item:204855}"
+  location: 48.10 16.59
+  objectId: 398138
+  questId: 75433
+  reset: never
+  type: profession
+  drops:
+    - type: item
+      id: 204855 # Overclocked Determination Core
+      limit: profession engineering 2827 25
+      note: "{price:3|2027}" # Engineering Knowledge
+
+# - Inscription
+
+- name: "{item:206035}"
+  location: 54.57 20.21
+  objectId: 402892
+  questId: 76121
+  reset: never
+  type: profession
+  drops:
+    - type: item
+      id: 206035 # Ancient Research
+      limit: profession inscription 2828 25
+      note: "{price:3|2028}" # Inscription Knowledge
+
+- name: "{item:206034}"
+  location: 53.01 74.27
+  objectId: 402890
+  questId: 76120
+  reset: never
+  type: profession
+  drops:
+    - type: item
+      id: 206034 # Hissing Rune Draft
+      limit: profession inscription 2828 25
+      note: "{price:3|2028}" # Inscription Knowledge
+
+- name: "{item:206031}"
+  location: 36.73 46.32
+  objectId: 402888
+  questId: 76117
+  reset: never
+  type: profession
+  drops:
+    - type: item
+      id: 206031 # Intricate Zaqali Runes
+      limit: profession inscription 2828 25
+      note: "{price:3|2028}" # Inscription Knowledge
+
+# - Jewelcrafting
+
+- name: "{item:205219}"
+  location: 54.41 32.47
+  objectId: 401299
+  questId: 75654
+  reset: never
+  type: profession
+  drops:
+    - type: item
+      id: 205219 # Broken Barter Boulder
+      limit: profession jewelcrafting 2829 25
+      note: "{price:3|2029}" # Jewelcrafting Knowledge
+
+- name: "{item:205216}"
+  location: 34.47 45.43
+  objectId: 401292
+  questId: 75653
+  reset: never
+  type: profession
+  drops:
+    - type: item
+      id: 205216 # Gently Jostled Jewels
+      limit: profession jewelcrafting 2829 25
+      note: "{price:3|2029}" # Jewelcrafting Knowledge
+
+- name: "{item:205214}"
+  location: 40.37 80.66
+  objectId: 401241
+  questId: 75652
+  reset: never
+  type: profession
+  drops:
+    - type: item
+      id: 205214 # Snubbed Snail Shells
+      limit: profession jewelcrafting 2829 25
+      note: "{price:3|2029}" # Jewelcrafting Knowledge
+
+# - Leatherworking
+
+- name: "{item:204986}"
+  location: 41.16 48.81
+  objectId: 398783
+  questId: 75495
+  reset: never
+  type: profession
+  drops:
+    - type: item
+      id: 204986 # Flame-Infused Scale Oil
+      limit: profession leatherworking 2830 25
+      note: "{price:3|2025}" # Leatherworking Knowledge
+
+- name: "{item:204987}"
+  location: 45.25 21.12
+  objectId: 398785
+  questId: 75496
+  reset: never
+  type: profession
+  drops:
+    - type: item
+      id: 204987 # Lava-Forged Leatherworker's "Knife"
+      limit: profession leatherworking 2830 25
+      note: "{price:3|2025}" # Leatherworking Knowledge
+
+- name: "{item:204988}"
+  location: 49.56 54.80
+  objectId: 398791
+  questId: 75502
+  reset: never
+  type: profession
+  drops:
+    - type: item
+      id: 204988 # Sulfur-Soaked Skins
+      limit: profession leatherworking 2830 25
+      note: "{price:3|2025}" # Leatherworking Knowledge
+
+# - Tailoring
+
+- name: "{item:206019}"
+  location: 47.21 48.55
+  objectId: 402868
+  questId: 76102
+  reset: never
+  type: profession
+  drops:
+    - type: item
+      id: 206019 # Abandoned Reserve Chute
+      limit: profession tailoring 2831 25
+      note: "{price:3|2026}" # Alchemy Knowledge
+
+- name: "{item:206030}"
+  location: 44.52 15.65
+  objectId: 402887
+  questId: 76116
+  reset: never
+  type: profession
+  drops:
+    - type: item
+      id: 206030 # Exquisitely Embroidered Banner
+      limit: profession tailoring 2831 25
+      note: "{price:3|2026}" # Alchemy Knowledge
+
+- name: "{item:206025}"
+  location: 59.11 73.14
+  objectId: 402878
+  questId: 76110
+  reset: never
+  type: profession
+  drops:
+    - type: item
+      id: 206025 # Used Medical Wrap Kit
+      limit: profession tailoring 2831 25
+      note: "{price:3|2026}" # Alchemy Knowledge
