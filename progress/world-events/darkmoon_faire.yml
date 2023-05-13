@@ -1,0 +1,13 @@
+name: "Darkmoon Faire"
+groups:
+  
+- name: "Darkmoon Faire"
+  icon: "achievement/6019" # Come One, Come All!
+  iconText: "DMF"
+  lookup: none
+  type: quest
+  data:
+    0:
+      - id: 38934
+        name: "Silas' Secret Stash"
+        description: "{price:100|1124669} :arrow-right: {price:100|515}"
