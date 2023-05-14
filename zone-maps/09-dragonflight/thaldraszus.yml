@@ -274,6 +274,44 @@ farms:
       limit: profession enchanting 2825 25
       note: "{price:3|2030}" # Enchanting Knowledge
 
+# - Inscription
+
+- name: "{item:201015}"
+  location: 56.1 40.9
+  objectId: 380567
+  questId: 70287
+  reset: never
+  type: profession
+  drops:
+    - type: item
+      id: 201015 # Counterfeit Darkmoon Deck
+      limit: profession inscription 2828 25
+      note: "{price:3|2028}" # Inscription Knowledge
+
+- name: "Curious Glyph"
+  location: 47.1 40.1
+  objectId: 380570
+  questId: 70248
+  reset: never
+  type: profession
+  drops:
+    - type: item
+      id: 198659 # Forgetful Apprentice's Tome
+      limit: profession inscription 2828 25
+      note: "{price:3|2028}" # Inscription Knowledge
+
+- name: "{item:198659}"
+  location: 56.3 41.2
+  objectId: 380550
+  questId: 70264
+  reset: never
+  type: profession
+  drops:
+    - type: item
+      id: 198659 # Forgetful Apprentice's Tome
+      limit: profession inscription 2828 25
+      note: "{price:3|2028}" # Inscription Knowledge
+
 # - Jewelcrafting
 
 - name: "{item:198682}"

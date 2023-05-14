@@ -22,3 +22,17 @@ farms:
       id: 2026 # Dragon Isles Tailoring Knowledge
       amount: 5
       limit: profession tailoring
+
+# - Inscription
+
+- name: "{item:198669}"
+  location: 13.2 63.7
+  objectId: 380578
+  questId: 70281
+  reset: never
+  type: profession
+  drops:
+    - type: item
+      id: 198669 # How to Train Your Whelpling
+      limit: profession inscription 2828 25
+      note: "{price:3|2028}" # Inscription Knowledge
