@@ -392,6 +392,44 @@ farms:
       limit: profession jewelcrafting
       note: "{price:3|2029}" # Jewelcrafting Knowledge
 
+# - Leatherworking
+
+- name: "Crate of Treated Hides"
+  location: 57.5 41.3
+  objectId: 380587
+  questId: 70286
+  reset: never
+  type: profession
+  drops:
+    - type: item
+      id: 198683 # Treated Hides
+      limit: profession leatherworking 2830 25
+      note: "{price:3|2025}" # Leatherworking Knowledge
+
+- name: "{item:198658}"
+  location: 16.77 38.83
+  objectId: 380547
+  questId: 70266
+  reset: never
+  type: profession
+  drops:
+    - type: item
+      id: 198658 # Decay-Infused Tanning Oil
+      limit: profession leatherworking 2830 25
+      note: "{price:3|2025}" # Leatherworking Knowledge
+
+- name: "{item:201018}"
+  location: 12.5 49.4
+  objectId: 380554
+  questId: 70269
+  reset: never
+  type: profession
+  drops:
+    - type: item
+      id: 201018 # Well-Danced Drum
+      limit: profession leatherworking 2830 25
+      note: "{price:3|2025}" # Leatherworking Knowledge
+
 # - Tailoring
 
 - name: "{item:198702}"

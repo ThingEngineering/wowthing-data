@@ -533,6 +533,32 @@ farms:
       limit: profession jewelcrafting
       note: "{price:3|2029}" # Jewelcrafting Knowledge
 
+# - Leatherworking
+
+- name: "{item:198711}"
+  location: 39.4 86.3
+  objectId: 380615
+  questId: 70308
+  reset: never
+  type: profession
+  drops:
+    - type: item
+      id: 198711 # Poacher's Pack
+      limit: profession leatherworking 2830 25
+      note: "{price:3|2025}" # Leatherworking Knowledge
+
+- name: "{item:198667}"
+  location: 64.3 25.4
+  objectId: 380579
+  questId: 70280
+  reset: never
+  type: profession
+  drops:
+    - type: item
+      id: 198667 # Spare Djaradin Tools
+      limit: profession leatherworking 2830 25
+      note: "{price:3|2025}" # Leatherworking Knowledge
+
 # - Tailoring
 
 - name: "{item:198702}"

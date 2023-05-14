@@ -339,6 +339,20 @@ farms:
       limit: profession jewelcrafting
       note: "{price:3|2029}" # Jewelcrafting Knowledge
 
+# - Leatherworking
+
+- name: "{item:198690}"
+  location: 56.8 30.5
+  objectId: 380593
+  questId: 70294
+  reset: never
+  type: profession
+  drops:
+    - type: item
+      id: 198690 # Decayed Scales
+      limit: profession leatherworking 2830 25
+      note: "{price:3|2025}" # Leatherworking Knowledge
+
 # - Tailoring
 
 - name: "Ancient Dragonweave Loom"

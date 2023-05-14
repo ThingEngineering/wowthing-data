@@ -371,6 +371,20 @@ farms:
       limit: profession jewelcrafting
       note: "{price:3|2029}" # Jewelcrafting Knowledge
 
+# - Leatherworking
+
+- name: "{item:198696}"
+  location: 86.4 53.7
+  objectId: 380602
+  questId: 70300
+  reset: never
+  type: profession
+  drops:
+    - type: item
+      id: 198696 # Wind-Blessed Hide
+      limit: profession leatherworking 2830 25
+      note: "{price:3|2025}" # Leatherworking Knowledge
+
 # - Tailoring
 
 - name: "Battle Hardened Centaur Carpet"
