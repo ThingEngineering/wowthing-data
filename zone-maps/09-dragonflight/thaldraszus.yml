@@ -233,6 +233,19 @@ farms:
 
 # - Alchemy
 
+- name: "{item:198697}"
+  location: 59.5 38.4
+  note: "Hidden in some foliage, good luck"
+  objectId: 380605
+  questId: 70301
+  reset: never
+  type: profession
+  drops:
+    - type: item
+      id: 198697 # Contraband Concoction
+      limit: profession alchemy 2823 25
+      note: "{price:3|2024}" # Alchemy Knowledge
+
 - name: "Mysterious Cauldrons"
   location: 55.2 30.5
   note: "Drop a Discarded Toy in each cauldron"
