@@ -334,6 +334,32 @@ farms:
 
 # Profession Treasure
 
+# - Alchemy
+
+- name: "{item:198663}"
+  location: 55.0 81.0
+  objectId: 380559
+  questId: 70274
+  reset: never
+  type: profession
+  drops:
+    - type: item
+      id: 198663 # Frostforged Potion
+      limit: profession alchemy 2823 25
+      note: "{price:3|2024}" # Alchemy Knowledge
+
+- name: "{item:198685}"
+  location: 25.1 73.3
+  objectId: 380590
+  questId: 70289
+  reset: never
+  type: profession
+  drops:
+    - type: item
+      id: 198685 # Well Insulated Mug
+      limit: profession alchemy 2823 25
+      note: "{price:3|2024}" # Alchemy Knowledge
+
 # - Blacksmithing
 
 - name: "Ancient Monument"
@@ -398,6 +424,73 @@ farms:
       id: 201010 # Qalashi Weapon Diagram
       limit: profession blacksmithing
       note: "{price:3|2023}" # Blacksmithing Knowledge
+
+# - Enchanting
+
+- name: "{item:201012}"
+  location: 57.5 58.5
+  note: "Click the broom then follow it"
+  objectId: 380558
+  questId: 70272
+  reset: never
+  type: profession
+  drops:
+    - type: item
+      id: 201012 # Enchanted Debris
+      limit: profession enchanting 2825 25
+      note: "{price:3|2030}" # Enchanting Knowledge
+
+- name: "{item:198798}"
+  location: 57.5 83.6
+  objectId: 380643
+  questId: 70320
+  reset: never
+  type: profession
+  drops:
+    - type: item
+      id: 198798 # Flashfrozen Scroll
+      limit: profession enchanting 2825 25
+      note: "{price:3|2030}" # Enchanting Knowledge
+
+- name: "{item:198675}"
+  location: 57.5 58.5
+  objectId: 380580
+  questId: 70283
+  reset: never
+  type: profession
+  drops:
+    - type: item
+      id: 198675 # Lava-Infused Seed
+      limit: profession enchanting 2825 25
+      note: "{price:3|2030}" # Enchanting Knowledge
+
+# - Engineering
+
+- name: "{item:201014}"
+  location: 56.0 44.9
+  note: "Click the note then gather the parts nearby"
+  objectId: 380571
+  questId: 70270
+  reset: never
+  type: profession
+  drops:
+    - type: item
+      id: 201014 # Boomthyr Rocket
+      limit: profession engineering 2827 25
+      note: "{price:3|2027}" # Engineering Knowledge
+
+- name: "Disabled Tesla Coil"
+  location: 49.1 77.5
+  note: "Click on the three exposed things"
+  objectId: 380560
+  questId: 70275
+  reset: never
+  type: profession
+  drops:
+    - type: item
+      id: 198789 # Intact Coil Capacitor
+      limit: profession engineering 2827 25
+      note: "{price:3|2027}" # Engineering Knowledge
 
 # - Jewelcrafting
 

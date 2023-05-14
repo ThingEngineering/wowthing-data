@@ -215,12 +215,12 @@ farms:
     - type: item
       id: 190456 # Artisan's Mettle
       amount: 25
-      limit: profession engineering
+      limit: profession engineering 2827 25
     
     - type: currency
       id: 2027 # Dragon Isles Engineering Knowledge
       amount: 5
-      limit: profession engineering
+      limit: profession engineering 2827 25
 
 - name: "Lydiara Whisperfeather"
   location: 40.2 64.4
@@ -261,6 +261,32 @@ farms:
 
 # Profession Treasure
 
+# - Alchemy
+
+- name: "Experimental Decay Cauldron"
+  location: 16.4 38.5
+  objectId: 380457
+  questId: 70208
+  reset: never
+  type: profession
+  drops:
+    - type: item
+      id: 198599 # Experimental Decay Sample
+      limit: profession alchemy 2823 25
+      note: "{price:3|2024}" # Alchemy Knowledge
+
+- name: "Small Basket of Firewater Powder"
+  location: 67.0 13.2
+  objectId: 380616
+  questId: 70309
+  reset: never
+  type: profession
+  drops:
+    - type: item
+      id: 198712 # Firewater Powder Sample
+      limit: profession alchemy 2823 25
+      note: "{price:3|2024}" # Alchemy Knowledge
+
 # - Blacksmithing
 
 - name: "Spelltouched Tongs"
@@ -275,6 +301,44 @@ farms:
       id: 201011 # Spelltouched Tongs
       limit: profession blacksmithing
       note: "{price:3|2023}" # Blacksmithing Knowledge
+
+# - Enchanting
+
+- name: "{item:198694}"
+  location: 21.6 45.5
+  objectId: 380600
+  questId: 70298
+  reset: never
+  type: profession
+  drops:
+    - type: item
+      id: 198694 # Enriched Earthen Shard
+      limit: profession enchanting 2825 25
+      note: "{price:3|2030}" # Enchanting Knowledge
+
+- name: "{item:201013}"
+  location: 45.1 61.2
+  objectId: 380589
+  questId: 70290
+  reset: never
+  type: profession
+  drops:
+    - type: item
+      id: 201013 # Faintly Enchanted Remains
+      limit: profession enchanting 2825 25
+      note: "{price:3|2030}" # Enchanting Knowledge
+
+- name: "{item:198799}"
+  location: 38.5 59.2
+  objectId: 380647
+  questId: 70336
+  reset: never
+  type: profession
+  drops:
+    - type: item
+      id: 198799 # Forgotten Arcane Tome
+      limit: profession enchanting 2825 25
+      note: "{price:3|2030}" # Enchanting Knowledge
 
 # - Jewelcrafting
 

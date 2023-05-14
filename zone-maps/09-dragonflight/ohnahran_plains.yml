@@ -276,6 +276,20 @@ farms:
 
 # Profession Treasure
 
+# - Alchemy
+
+- name: "{item:198710}"
+  location: 79.2 83.8
+  objectId: 380611
+  questId: 70305
+  reset: never
+  type: profession
+  drops:
+    - type: item
+      id: 198710 # Experimental Decay Sample
+      limit: profession alchemy 2823 25
+      note: "{price:3|2024}" # Alchemy Knowledge
+
 # - Blacksmithing
 
 - name: "Ancient Spear Shards"
@@ -302,6 +316,20 @@ farms:
       id: 201009 # Falconer Gauntlet Drawings
       limit: profession blacksmithing
       note: "{price:3|2023}" # Blacksmithing Knowledge
+
+# - Enchanting
+
+- name: "{item:198689}"
+  location: 61.4 67.6
+  objectId: 380592
+  questId: 70291
+  reset: never
+  type: profession
+  drops:
+    - type: item
+      id: 198689 # Stormbound Horn
+      limit: profession enchanting 2825 25
+      note: "{price:3|2030}" # Enchanting Knowledge
 
 # - Jewelcrafting
 
