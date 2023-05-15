@@ -16,12 +16,12 @@ farms:
     - type: item
       id: 190456 # Artisan's Mettle
       amount: 25
-      limit: profession tailoring
+      limit: profession tailoring 2831 25
     
     - type: currency
       id: 2026 # Dragon Isles Tailoring Knowledge
       amount: 5
-      limit: profession tailoring
+      limit: profession tailoring 2831 25
 
 # - Inscription
 

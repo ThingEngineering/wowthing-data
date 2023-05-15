@@ -15,6 +15,16 @@ farms:
   location: 46.2 39.6
   type: group
 
+- name: "Professions 1"
+  groupId: 3
+  location: 44.6 61.2
+  type: group
+
+- name: "Professions 2"
+  groupId: 4
+  location: 16.4 38.5
+  type: group
+
 # Kill
 
 - name: "Beogoka"
@@ -233,12 +243,12 @@ farms:
     - type: item
       id: 190456 # Artisan's Mettle
       amount: 25
-      limit: profession inscription
+      limit: profession inscription 2828 25
     
     - type: currency
       id: 2028 # Dragon Isles Inscription Knowledge
       amount: 5
-      limit: profession inscription
+      limit: profession inscription 2828 25
 
 - name: "Pluutar"
   groupId: 2
@@ -252,18 +262,19 @@ farms:
     - type: item
       id: 190456 # Artisan's Mettle
       amount: 25
-      limit: profession jewelcrafting
+      limit: profession jewelcrafting 2829 25
     
     - type: currency
       id: 2029 # Dragon Isles Inscription Knowledge
       amount: 5
-      limit: profession jewelcrafting
+      limit: profession jewelcrafting 2829 25
 
 # Profession Treasure
 
 # - Alchemy
 
 - name: "Experimental Decay Cauldron"
+  groupId: 4
   location: 16.4 38.5
   objectId: 380457
   questId: 70208
@@ -299,7 +310,7 @@ farms:
   drops:
     - type: item
       id: 201011 # Spelltouched Tongs
-      limit: profession blacksmithing
+      limit: profession blacksmithing 2822 25
       note: "{price:3|2023}" # Blacksmithing Knowledge
 
 # - Enchanting
@@ -317,6 +328,7 @@ farms:
       note: "{price:3|2030}" # Enchanting Knowledge
 
 - name: "{item:201013}"
+  groupId: 3
   location: 45.1 61.2
   objectId: 380589
   questId: 70290
@@ -369,6 +381,7 @@ farms:
 # - Jewelcrafting
 
 - name: "{item:198664}"
+  groupId: 3
   location: 45.0 61.3
   objectId: 380569
   questId: 70277
@@ -377,10 +390,11 @@ farms:
   drops:
     - type: item
       id: 198664 # Crystalline Overgrowth
-      limit: profession jewelcrafting
+      limit: profession jewelcrafting 2829 25
       note: "{price:3|2029}" # Jewelcrafting Knowledge
 
 - name: "{item:201016}"
+  groupId: 3
   location: 44.6 61.2
   objectId: 380556
   questId: 70271
@@ -389,7 +403,7 @@ farms:
   drops:
     - type: item
       id: 201016 # Harmonic Crystal Harmonizer
-      limit: profession jewelcrafting
+      limit: profession jewelcrafting 2829 25
       note: "{price:3|2029}" # Jewelcrafting Knowledge
 
 # - Leatherworking
@@ -407,6 +421,7 @@ farms:
       note: "{price:3|2025}" # Leatherworking Knowledge
 
 - name: "{item:198658}"
+  groupId: 4
   location: 16.77 38.83
   objectId: 380547
   questId: 70266
@@ -433,6 +448,7 @@ farms:
 # - Tailoring
 
 - name: "{item:198702}"
+  groupId: 4
   location: 16.2 38.8
   objectId: 380583
   questId: 70284
@@ -441,7 +457,7 @@ farms:
   drops:
     - type: item
       id: 198702 # Decaying Brackenhide Blanket
-      limit: profession tailoring
+      limit: profession tailoring 2831 25
       note: "{price:3|2026}" # Tailoring Knowledge
 
 - name: "{item:198662}"
@@ -453,7 +469,7 @@ farms:
   drops:
     - type: item
       id: 198662 # Intriguing Bolt of Blue Cloth
-      limit: profession tailoring
+      limit: profession tailoring 2831 25
       note: "{price:3|2026}" # Tailoring Knowledge
 
 # Treasure

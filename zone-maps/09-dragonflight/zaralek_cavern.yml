@@ -343,7 +343,7 @@ farms:
     - type: item
       id: 206019 # Abandoned Reserve Chute
       limit: profession tailoring 2831 25
-      note: "{price:3|2026}" # Alchemy Knowledge
+      note: "{price:3|2026}" # Tailoring Knowledge
 
 - name: "{item:206030}"
   location: 44.52 15.65
@@ -355,7 +355,7 @@ farms:
     - type: item
       id: 206030 # Exquisitely Embroidered Banner
       limit: profession tailoring 2831 25
-      note: "{price:3|2026}" # Alchemy Knowledge
+      note: "{price:3|2026}" # Tailoring Knowledge
 
 - name: "{item:206025}"
   location: 59.11 73.14
@@ -367,4 +367,4 @@ farms:
     - type: item
       id: 206025 # Used Medical Wrap Kit
       limit: profession tailoring 2831 25
-      note: "{price:3|2026}" # Alchemy Knowledge
+      note: "{price:3|2026}" # Tailoring Knowledge

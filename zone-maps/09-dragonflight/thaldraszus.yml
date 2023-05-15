@@ -3,6 +3,13 @@ mapName: "09-dragonflight/thaldraszus"
 minimumLevel: 60
 farms:
 
+# Group
+
+- name: "Professions 1"
+  groupId: 1
+  location: 56 41
+  type: group
+
 # Kill
 
 - name: "Acrosoth"
@@ -222,12 +229,12 @@ farms:
     - type: item
       id: 190456 # Artisan's Mettle
       amount: 25
-      limit: profession mining
+      limit: profession mining 2833 25
     
     - type: currency
       id: 2035 # Dragon Isles Mining Knowledge
       amount: 10
-      limit: profession mining
+      limit: profession mining 2833 25
 
 # Profession Treasure
 
@@ -270,7 +277,7 @@ farms:
   drops:
     - type: item
       id: 201006 # Draconic Flux
-      limit: profession blacksmithing
+      limit: profession blacksmithing 2822 25
       note: "{price:3|2023}" # Blacksmithing Knowledge
 
 # - Enchanting
@@ -290,6 +297,7 @@ farms:
 # - Inscription
 
 - name: "{item:201015}"
+  groupId: 1
   location: 56.1 40.9
   objectId: 380567
   questId: 70287
@@ -314,6 +322,7 @@ farms:
       note: "{price:3|2028}" # Inscription Knowledge
 
 - name: "{item:198659}"
+  groupId: 1
   location: 56.3 41.2
   objectId: 380550
   questId: 70264
@@ -336,7 +345,7 @@ farms:
   drops:
     - type: item
       id: 198682 # Alexstraszite Cluster
-      limit: profession jewelcrafting
+      limit: profession jewelcrafting 2829 25
       note: "{price:3|2029}" # Jewelcrafting Knowledge
 
 - name: "{item:198656}"
@@ -349,7 +358,7 @@ farms:
   drops:
     - type: item
       id: 198656 # Painter's Pretty Jewel
-      limit: profession jewelcrafting
+      limit: profession jewelcrafting 2829 25
       note: "{price:3|2029}" # Jewelcrafting Knowledge
 
 # - Leatherworking
@@ -377,7 +386,7 @@ farms:
   drops:
     - type: item
       id: 201019 # Ancient Dragonweave Bolt
-      limit: profession tailoring
+      limit: profession tailoring 2831 25
       note: "{price:3|2026}" # Tailoring Knowledge
 
 - name: "{item:198684}"
@@ -389,5 +398,5 @@ farms:
   drops:
     - type: item
       id: 198684 # Miniature Bronze Dragonflight Banner
-      limit: profession tailoring
+      limit: profession tailoring 2831 25
       note: "{price:3|2026}" # Tailoring Knowledge

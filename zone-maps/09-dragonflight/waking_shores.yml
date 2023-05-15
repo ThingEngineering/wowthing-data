@@ -289,12 +289,12 @@ farms:
     - type: item
       id: 190456 # Artisan's Mettle
       amount: 25
-      limit: profession blacksmithing
+      limit: profession blacksmithing 2822 25
 
     - type: currency
       id: 2023 # Dragon Isles Blacksmithing Knowledge
       amount: 5
-      limit: profession blacksmithing
+      limit: profession blacksmithing 2822 25
 
 - name: "Grigori Vialtry"
   location: 60.9 75.8
@@ -307,12 +307,12 @@ farms:
     - type: item
       id: 190456 # Artisan's Mettle
       amount: 25
-      limit: profession alchemy
+      limit: profession alchemy 2823 25
 
     - type: currency
       id: 2024 # Dragon Isles Alchemy Knowledge
       amount: 5
-      limit: profession alchemy
+      limit: profession alchemy 2823 25
 
 - name: "Zenzi"
   location: 73.3 69.7
@@ -325,12 +325,12 @@ farms:
     - type: item
       id: 190456 # Artisan's Mettle
       amount: 25
-      limit: profession skinning
+      limit: profession skinning 2834 25
 
     - type: currency
       id: 2033 # Dragon Isles Skinning Knowledge
       amount: 10
-      limit: profession skinning
+      limit: profession skinning 2834 25
 
 # Profession Treasure
 
@@ -372,7 +372,7 @@ farms:
   drops:
     - type: item
       id: 201007 # Ancient Monument
-      limit: profession blacksmithing
+      limit: profession blacksmithing 2822 25
       note: "{price:3|2023}" # Blacksmithing Knowledge
 
 - name: "Curious Ingots"
@@ -384,7 +384,7 @@ farms:
   drops:
     - type: item
       id: 201005 # Curious Ingots
-      limit: profession blacksmithing
+      limit: profession blacksmithing 2822 25
       note: "{price:3|2023}" # Blacksmithing Knowledge
 
 - name: "Glimmer of Wisdom"
@@ -397,7 +397,7 @@ farms:
   drops:
     - type: item
       id: 198791 # Glimmer of Blacksmithing Wisdom
-      limit: profession blacksmithing
+      limit: profession blacksmithing 2822 25
       note: "{price:3|2023}" # Blacksmithing Knowledge
 
 - name: "Molten Ingot"
@@ -410,7 +410,7 @@ farms:
   drops:
     - type: item
       id: 201008 # Molten Ingot
-      limit: profession blacksmithing
+      limit: profession blacksmithing 2822 25
       note: "{price:3|2023}" # Blacksmithing Knowledge
 
 - name: "Qalashi Weapon Diagram"
@@ -422,7 +422,7 @@ farms:
   drops:
     - type: item
       id: 201010 # Qalashi Weapon Diagram
-      limit: profession blacksmithing
+      limit: profession blacksmithing 2822 25
       note: "{price:3|2023}" # Blacksmithing Knowledge
 
 # - Enchanting
@@ -494,6 +494,18 @@ farms:
 
 # - Inscription
 
+- name: "{item:198704}"
+  location: 67.9 58.0
+  objectId: 380610
+  questId: 70306
+  reset: never
+  type: profession
+  drops:
+    - type: item
+      id: 198704 # Pulsing Earth Rune
+      limit: profession inscription 2828 25
+      note: "{price:3|2028}" # Inscription Knowledge
+
 - name: "{item:198703}"
   location: 85.7 25.2
   objectId: 380612
@@ -517,7 +529,7 @@ farms:
   drops:
     - type: item
       id: 198687 # Closely Guarded Shiny
-      limit: profession jewelcrafting
+      limit: profession jewelcrafting 2829 25
       note: "{price:3|2029}" # Jewelcrafting Knowledge
 
 - name: "{item:201017}"
@@ -530,7 +542,7 @@ farms:
   drops:
     - type: item
       id: 201017 # Igneous Gem
-      limit: profession jewelcrafting
+      limit: profession jewelcrafting 2829 25
       note: "{price:3|2029}" # Jewelcrafting Knowledge
 
 # - Leatherworking
@@ -570,7 +582,7 @@ farms:
   drops:
     - type: item
       id: 198702 # Itinerant Singed Fabric
-      limit: profession tailoring
+      limit: profession tailoring 2831 25
       note: "{price:3|2026}" # Tailoring Knowledge
 
 - name: "{item:198699}"
@@ -582,7 +594,7 @@ farms:
   drops:
     - type: item
       id: 198699 # Mysterious Banner
-      limit: profession tailoring
+      limit: profession tailoring 2831 25
       note: "{price:3|2026}" # Tailoring Knowledge
 
 # Treasure
