@@ -17,13 +17,11 @@ farms:
 
 # Kill
 
-- name: "Amethyzar the Glittering"
-  location: 63.4 54.8
-  npcId: 193132
-  #questId: 
-  drops:
-    - type: xpquest
-      id: 69838
+# - name: "Amethyzar the Glittering"
+#   location: 63.4 54.8
+#   npcId: 193132
+#   #questId: 
+#   drops:
 
 - name: "Ancient Hornswog"
   location: 77.6 22.2
@@ -41,9 +39,6 @@ farms:
     - type: transmog
       id: 200259 # Forest Dweller's Shield [shield]
 
-    - type: xpquest
-      id: 69839
-
 - name: "Brundin the Dragonbane"
   location: 48.4 66.1
   npcId: 192738
@@ -55,6 +50,7 @@ farms:
 
 - name: "Captain Lancer"
   location: 26.9 76.1
+  note: "Spawns after Siege on Dragonbane Keep"
   npcId: 193198
   questId: 73075
   type: kill
@@ -65,9 +61,6 @@ farms:
 
     - type: transmog
       id: 200286 # Dragonbane Lance [strength polearm]
-
-    - type: xpquest
-      id: 72127
 
 - name: "Dragonhunter Igordan"
   location: 64.3 33.0
@@ -106,9 +99,6 @@ farms:
     - type: transmog
       id: 200252 # Molten Flak Cannon [gun]
 
-    - type: xpquest
-      id: 72128
-
 - name: "Firava the Rekindler"
   location: 56.9 25.3
   npcId: 195915
@@ -118,23 +108,19 @@ farms:
     - type: xpquest
       id: 70648
 
-- name: "Forgotten Gryphon"
-  location: 32.8 75.9
-  npcId: 193154
-  #questId:
-  type: kill
-  drops:
-    - type: xpquest
-      id: 72130
+# - name: "Forgotten Gryphon"
+#   location: 32.8 75.9
+#   npcId: 193154
+#   #questId:
+#   type: kill
+#   drops:
 
-- name: "Gorjo the Crab Shackler"
-  location: 78.6 50.0
-  npcId: 187209
-  #questId: 
-  type: kill
-  drops:
-    - type: xpquest
-      id: 69874
+# - name: "Gorjo the Crab Shackler"
+#   location: 78.6 50.0
+#   npcId: 187209
+#   #questId: 
+#   type: kill
+#   drops:
 
 - name: "Klozicc the Ascended"
   location: 54.7 82.3
@@ -145,40 +131,32 @@ farms:
     - type: xpquest
       id: 66960
 
-- name: "Lepidoralia the Resplendent"
-  location: 34.1 85.7
-  npcId: 193266
-  #questId: 
-  type: kill
-  drops:
-    - type: xpquest
-      id: 69891
+# - name: "Lepidoralia the Resplendent"
+#   location: 34.1 85.7
+#   npcId: 193266
+#   #questId: 
+#   type: kill
+#   drops:
 
-- name: "Magmaton"
-  location: 40.0 64.5
-  npcId: 186827
-  #questId: 
-  type: kill
-  drops:
-    - type: xpquest
-      id: 70979
+# - name: "Magmaton"
+#   location: 40.0 64.5
+#   npcId: 186827
+#   #questId: 
+#   type: kill
+#   drops:
 
-- name: "Massive Magmashell"
-  location: 21.7 76.2
-  npcId: 193152
-  #questId: 
-  type: kill
-  drops:
-    - type: xpquest
-      id: 69848
+# - name: "Massive Magmashell"
+#   location: 21.7 76.2
+#   npcId: 193152
+#   #questId: 
+#   type: kill
+#   drops:
 
-- name: "O'nank Shorescour"
-  location: 80.1 53.9
-  npcId: 184853
-  #questId: 
-  drops:
-    - type: xpquest
-      id: 70983
+# - name: "O'nank Shorescour"
+#   location: 80.1 53.9
+#   npcId: 184853
+#   #questId: 
+#   drops:
 
 - name: "Primal Scythid Queen"
   location: 81.3 37.7
@@ -188,32 +166,26 @@ farms:
     - type: xpquest
       id: 66074
 
-- name: "Shadeslash Trakken"
-  location: 47.2 73.6
-  npcId: 193271
-  #questId: 
-  type: kill
-  drops:
-    - type: xpquest
-      id: 70719
+# - name: "Shadeslash Trakken"
+#   location: 47.2 73.6
+#   npcId: 193271
+#   #questId: 
+#   type: kill
+#   drops:
 
-- name: "Slurpo, the Incredible Snail"
-  location: 34.5 89.7
-  npcId: 193175
-  #questId: 
-  type: kill
-  drops:
-    - type: xpquest
-      id: 72126
+# - name: "Slurpo, the Incredible Snail"
+#   location: 34.5 89.7
+#   npcId: 193175
+#   #questId: 
+#   type: kill
+#   drops:
 
-- name: "Smogswog the Firebreather"
-  location: 68.4 65.3
-  npcId: 193120
-  #questId: 
-  type: kill
-  drops:
-    - type: xpquest
-      id: 69668
+# - name: "Smogswog the Firebreather"
+#   location: 68.4 65.3
+#   npcId: 193120
+#   #questId: 
+#   type: kill
+#   drops:
 
 - name: "Terillod the Devout"
   location: 60.6 82.9

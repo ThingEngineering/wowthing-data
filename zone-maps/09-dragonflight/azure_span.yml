@@ -36,13 +36,11 @@ farms:
     - type: transmog
       id: 200254 # Totemic Cinch [mail waist]
 
-- name: "Blightfur"
-  location: 13.4 22.4
-  npcId: 193178
-  #questId: 
-  drops:
-    - type: xpquest
-      id: 69858
+# - name: "Blightfur"
+#   location: 13.4 22.4
+#   npcId: 193178
+#   #questId: 
+#   drops:
 
 - name: "Blisterhide"
   location: 14.1 31.0
@@ -82,13 +80,11 @@ farms:
     - type: transmog
       id: 200302 # Magmaforged Scimitar [1h agi sword]
 
-- name: "Fisherman Tinnak's Ghost"
-  location: 49.5 36.1
-  npcId: 193691
-  #questId:
-  drops:
-    - type: xpquest
-      id: 72254
+# - name: "Fisherman Tinnak's Ghost"
+#   location: 49.5 36.1
+#   npcId: 193691
+#   #questId:
+#   drops:
 
 - name: "Forgotten Creation"
   location: 38.2 59.0
@@ -110,13 +106,11 @@ farms:
     - type: transmog
       id: 200259 # Forest Dweller's Shield [shield]
 
-- name: "Grumbletrunk"
-  location: 19.1 43.6
-  npcId: 193269
-  #questId: 
-  drops:
-    - type: xpquest
-      id: 69892
+# - name: "Grumbletrunk"
+#   location: 19.1 43.6
+#   npcId: 193269
+#   #questId: 
+#   drops:
 
 - name: "Summoned Destroyer"
   location: 70.1 33.2
@@ -134,13 +128,11 @@ farms:
     - type: xpquest
       id: 67173
 
-- name: "Trilvarus Loreweaver"
-  location: 70.4 25.0
-  npcId: 193196
-  #questId: 
-  drops:
-    - type: xpquest
-      id: 69861
+# - name: "Trilvarus Loreweaver"
+#   location: 70.4 25.0
+#   npcId: 193196
+#   #questId: 
+#   drops:
 
 - name: "Vakril, the Strongest Tuskarr"
   location: 17.0 41.3
