@@ -56,3 +56,56 @@ groups:
 
       - name: "Six Hundred Feet Under"
         id: 75644
+
+- name: separator
+
+- name: "Snailspiration!"
+  icon: "item/205155"
+  lookup: none
+  type: quest
+  data:
+    0:
+      - name: "Snailsiration: Amethyst Softshell"
+        id: 74948
+
+      - name: "Snailspiration: Archetype of Vigilance"
+        id: 74949
+
+      - name: "Snailspiration: Blackchasm Crawler"
+        id: 74950
+
+      - name: "Snailspiration: Microlicid"
+        id: 74952
+
+      - name: "Snailspiration: Mudshell Conch"
+        id: 74959
+
+      - name: "Snailspiration: Predatory Helicid"
+        id: 74960
+
+      - name: "Snailspiration: Prismatic Softshell"
+        id: 74961
+
+      - name: "Snailspiration: Rapana Whelk"
+        id: 74962
+
+      - name: "Snailspiration: Rusty Snail"
+        id: 74963
+
+      - name: "Snailspiration: Scooter the Snail"
+        id: 74964
+
+      - name: "Snailspiration: Shelly"
+        id: 74965
+
+      - name: "Snailspiration: Shimmershell Snail"
+        id: 74786
+
+      - name: "Snailspiration: Silkbead Snail"
+        id: 74966
+
+      - name: "Snailspiration: Spireshell snail"
+        id: 74967
+
+      - name: "Snailspiration: Zoom"
+        id: 74968
