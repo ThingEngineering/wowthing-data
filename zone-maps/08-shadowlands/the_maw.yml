@@ -9,6 +9,7 @@ farms:
 - name: "Sanctum of Domination"
   instanceId: 1193
   location: 69.7 32.1
+  reset: weekly
   type: raid
 
 # Kill
