@@ -59,6 +59,30 @@ groups:
 
 - name: separator
 
+- name: "Side Quests"
+  icon: "achievement/17766" # Explore Zaralek Cavern
+  lookup: none
+  type: quest
+  data:
+    0:
+      - name: "Incense Gratification"
+        id: 72880
+        description: "{reputation:1000|2564}" # 1000 Loamm Niffen reputation
+
+      - name: "Marked Champion"
+        id: 73711
+        description: "{reputation:1000|2564}" # 1000 Loamm Niffen reputation
+
+      - name: "Mouse Rescuers"
+        id: 75462
+        description: "{reputation:1000|2564}" # 1000 Loamm Niffen reputation
+
+      - name: "Suss Out the Imposter"
+        id: 72886
+        description: "{reputation:1000|2564}" # 1000 Loamm Niffen reputation
+
+- name: separator
+
 - name: "Snailspiration!"
   icon: "item/205155"
   lookup: none
