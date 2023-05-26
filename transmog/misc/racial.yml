@@ -4,16 +4,58 @@ groups:
 - name: 'Alliance'
   type: all
   sets:
+  - Human 1
+  - Human 2
+  - Human 3
   - Dwarf
   - Gnome
   - Worgen
-  - Dark Iron Dwarf
-  - Kul Tiran Human
-  - Lightforged Draenei
-  - Mechagnome
   - Void Elf
+  - Lightforged Draenei
+  - Dark Iron Dwarf
+  - Kul Tiran
+  - Mechagnome
   data:
     all:
+    # description=0 (Alliance) set=2830
+    - name: Lion's Heritage
+      wowheadSetId:
+      items:
+        1:  78408 80349 # Head
+        3:  78409 # Shoulders
+        5:  78410 78416 # Chest
+        6:  78411 80351 # Waist
+        7:  78412 # Legs
+        8:  78413 # Feet
+        9:  78414 # Wrists
+        10: 78415 # Hands
+
+    # description=0 (Alliance) set=2830
+    - name: Lion's Heritage
+      wowheadSetId:
+      items:
+        1:  78417 80350 # Head
+        3:  78418 # Shoulders
+        5:  78419 78425 # Chest
+        6:  78420 80359 # Waist
+        7:  78421 # Legs
+        8:  78422 # Feet
+        9:  78423 # Wrists
+        10: 78424 # Hands
+
+    # description=0 (Alliance) set=2830
+    - name: Lion's Heritage
+      wowheadSetId:
+      items:
+        1:  78426 80348 # Head
+        3:  78427 # Shoulders
+        5:  78428 78434 # Chest
+        6:  78429 80358 # Waist
+        7:  78430 # Legs
+        8:  78431 # Feet
+        9:  78432 # Wrists
+        10: 78433 # Hands
+
     # description=0 set=1803
     - name: Heritage of the Bronzebeard
       wowheadSetId:
@@ -54,6 +96,33 @@ groups:
         9:  41401 # Wrists
         10: 41400 # Hands
 
+    # description=0 (Alliance) set=1524
+    - name: Heritage of the Ren'dorei
+      wowheadSetId:
+      items:
+        1:  36148 # Head
+        3:  36151 # Shoulders
+        5:  36147 # Chest
+        6:  36145 # Waist
+        7:  36150 # Legs
+        8:  36146 # Feet
+        9:  36152 # Wrists
+        10: 36149 # Hands
+        16: 36153 # Back
+
+    # description=0 (Alliance) set=1525
+    - name: Heritage of the Lightforged
+      wowheadSetId:
+      items:
+        1:  36123 # Head
+        3:  36127 # Shoulders
+        5:  36124 # Chest
+        6:  36121 # Waist
+        7:  36126 # Legs
+        8:  36122 # Feet
+        9:  36128 # Wrists
+        10: 36125 # Hands
+
     # description=0 (Alliance) set=1679
     - name: Heritage of the Dark Iron
       wowheadSetId:
@@ -80,19 +149,6 @@ groups:
         9:  38876 # Wrists
         10: 38872 # Hands
 
-    # description=0 (Alliance) set=1525
-    - name: Heritage of the Lightforged
-      wowheadSetId:
-      items:
-        1:  36123 # Head
-        3:  36127 # Shoulders
-        5:  36124 # Chest
-        6:  36121 # Waist
-        7:  36126 # Legs
-        8:  36122 # Feet
-        9:  36128 # Wrists
-        10: 36125 # Hands
-
     # description=0 (Alliance) set=1980
     - name: Heritage of the Mechagnome
       wowheadSetId:
@@ -104,35 +160,80 @@ groups:
         7:  41347 # Legs
         16: 41357 # Back
 
-    # description=0 (Alliance) set=1524
-    - name: Heritage of the Ren'dorei
-      wowheadSetId:
-      items:
-        1:  36148 # Head
-        3:  36151 # Shoulders
-        5:  36147 # Chest
-        6:  36145 # Waist
-        7:  36150 # Legs
-        8:  36146 # Feet
-        9:  36152 # Wrists
-        10: 36149 # Hands
-        16: 36153 # Back
-
 - name: 'Horde'
   type: all
   sets:
+  - Orc 1
+  - Orc 2
+  - Orc 3
+  - Tauren
   - Blood Elf
   - Goblin
-  - Tauren
+  - Nightborne
   - Highmountain Tauren
   - Mag'har Orc 1
   - Mag'har Orc 2
   - Mag'har Orc 3
-  - Nightborne
-  - Vulpera
   - Zandalari Troll
+  - Vulpera
   data:
     all:
+    # description=0 (Horde) set=2833
+    - name: Heritage of Draenor
+      wowheadSetId:
+      items:
+        1:  78435 # Head
+        3:  78436 # Shoulders
+        5:  78437 # Chest
+        6:  78438 # Waist
+        7:  78439 # Legs
+        8:  78440 # Feet
+        9:  78441 # Wrists
+        10: 78442 # Hands
+        16: 78460 # Back
+
+    # description=0 (Horde) set=2834
+    - name: Heritage of Draenor
+      wowheadSetId:
+      items:
+        1:  78443 # Head
+        3:  78444 # Shoulders
+        5:  78445 # Chest
+        6:  78446 # Waist
+        7:  78447 # Legs
+        8:  78448 # Feet
+        9:  78449 # Wrists
+        10: 78450 # Hands
+        16: 78461 # Back
+
+    # description=0 (Horde) set=2835
+    - name: Heritage of Draenor
+      wowheadSetId:
+      items:
+        1:  78451 # Head
+        3:  78452 # Shoulders
+        5:  78453 # Chest
+        6:  78454 # Waist
+        7:  78455 # Legs
+        8:  78456 # Feet
+        9:  78457 # Wrists
+        10: 78458 # Hands
+        16: 78462 # Back
+
+    # description=0 (Horde) set=1829
+    - name: Heritage of the Shu'halo
+      wowheadSetId:
+      items:
+        1:  39915 # Head
+        3:  39917 # Shoulders
+        5:  40748 # Chest
+        6:  39907 # Waist
+        7:  39916 # Legs
+        8:  39908 # Feet
+        9:  39918 # Wrists
+        10: 39914 # Hands
+        16: 40741 # Back
+
     # description=0 set=1804
     - name: Heritage of the Sin'dorei
       wowheadSetId:
@@ -160,19 +261,18 @@ groups:
         9:  41363 # Wrists
         10: 41364 # Hands
 
-    # description=0 (Horde) set=1829
-    - name: Heritage of the Shu'halo
+    # description=0 (Horde) set=1523
+    - name: Heritage of the Shal'dorei
       wowheadSetId:
       items:
-        1:  39915 # Head
-        3:  39917 # Shoulders
-        5:  40748 # Chest
-        6:  39907 # Waist
-        7:  39916 # Legs
-        8:  39908 # Feet
-        9:  39918 # Wrists
-        10: 39914 # Hands
-        16: 40741 # Back
+        1:  36097 # Head
+        3:  36100 # Shoulders
+        5:  36102 # Chest
+        6:  36094 # Waist
+        7:  36099 # Legs
+        8:  36095 # Feet
+        9:  36101 # Wrists
+        10: 36098 # Hands
 
     # description=0 (Horde) set=1522
     - name: Highmountain's Heritage
@@ -201,7 +301,7 @@ groups:
         10: 35926 # Hands
 
     # description=0 (Horde) set=1681
-    - name: "Heritage of the Blackrock"
+    - name: Heritage of the Blackrock
       wowheadSetId:
       items:
         1:  37930 # Head
@@ -214,7 +314,7 @@ groups:
         10: 37929 # Hands
 
     # description=0 (Horde) set=1682
-    - name: "Heritage of the Frostwolves"
+    - name: Heritage of the Frostwolves
       wowheadSetId:
       items:
         1:  37938 # Head
@@ -226,18 +326,18 @@ groups:
         9:  37941 # Wrists
         10: 37937 # Hands
 
-    # description=0 (Horde) set=1523
-    - name: Heritage of the Shal'dorei
+    # description=0 (Horde) set=1742
+    - name: Heritage of the Zandalari
       wowheadSetId:
       items:
-        1:  36097 # Head
-        3:  36100 # Shoulders
-        5:  36102 # Chest
-        6:  36094 # Waist
-        7:  36099 # Legs
-        8:  36095 # Feet
-        9:  36101 # Wrists
-        10: 36098 # Hands
+        1:  37768 # Head
+        3:  37770 # Shoulders
+        5:  37766 # Chest
+        6:  37764 # Waist
+        7:  37769 # Legs
+        8:  37765 # Feet
+        9:  37771 # Wrists
+        10: 37767 # Hands
 
     # description=0 (Horde) set=1981
     - name: Heritage of the Vulpera
@@ -252,19 +352,6 @@ groups:
         #9:  40284 # Wrists - everyone, wtf Blizzard
         10: 41351 # Hands
         16: 41525 # Back
-
-    # description=0 (Horde) set=1742
-    - name: Heritage of the Zandalari
-      wowheadSetId:
-      items:
-        1:  37768 # Head
-        3:  37770 # Shoulders
-        5:  37766 # Chest
-        6:  37764 # Waist
-        7:  37769 # Legs
-        8:  37765 # Feet
-        9:  37771 # Wrists
-        10: 37767 # Hands
 
 - name: 'Horde'
   type: class
