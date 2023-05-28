@@ -1,0 +1,45 @@
+requirements:
+  - "profession alchemy 2823 25"
+
+tags:
+  - "profession:alchemy"
+
+things:
+  - type: "object"
+    id: 401238
+    name: "{item:205212}"
+    reset: "never"
+    trackingQuestId: 75649
+    locations:
+      here:
+        - "62.10 41.12"
+    contents:
+      - type: "item"
+        id: 205212 # Marrow-Ripened Slime
+        note: "{price:3|2024}" # Alchemy Knowledge
+
+  - type: "object"
+    id: 401236
+    name: "{item:205211}"
+    reset: "never"
+    trackingQuestId: 75646
+    locations:
+      here:
+        - "52.68 18.30"
+    contents:
+      - type: "item"
+        id: 205211 # Nutrient Diluted Protofluid
+        note: "{price:3|2024}" # Alchemy Knowledge
+
+  - type: "object"
+    id: 401240
+    name: "{item:205213}"
+    reset: "never"
+    trackingQuestId: 75651
+    locations:
+      here:
+        - "40.48 59.18"
+    contents:
+      - type: "item"
+        id: 205213 # Suspicious Mold
+        note: "{price:3|2024}" # Alchemy Knowledge
