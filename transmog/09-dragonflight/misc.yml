@@ -518,3 +518,286 @@ groups:
           8:  77324 # Feet
           9:  77325 77325 # Wrists
           10: 77326 # Hands
+
+- name: "Expedition Gear"
+  type: armor
+  sets:
+    - "Quest Rewards"
+    - "Renown"
+    - "World Drops"
+    - "Primal Storms"
+    - "Professions"
+  data:
+    cloth:
+      # Quest Rewards set=2689
+      - name: "Trailblazer's Cloth Armor"
+        wowheadSetId:
+        items:
+          1:  69531 # Head
+          3:  69532 # Shoulders
+          5:  69533 # Chest
+          6:  69534 # Waist
+          7:  69535 # Legs
+          8:  69536 # Feet
+          9:  69537 # Wrists
+          10: 69538 # Hands
+          16: 70648 # Back
+
+      # Renown set=2489
+      - name: "Renowned Expeditioner's Cloth Armor"
+        wowheadSetId:
+        items:
+          1:  69504 # Head
+          3:  69505 # Shoulders
+          5:  69506 # Chest
+          6:  69507 # Waist
+          7:  69508 # Legs
+          8:  69509 # Feet
+          9:  69510 # Wrists
+          10: 69511 # Hands
+
+      # World Drops set=2693
+      - name: "Drakewatcher's Armor"
+        wowheadSetId:
+        items:
+          1:  69522 # Head
+          3:  69523 # Shoulders
+          5:  69524 # Chest
+          6:  69525 # Waist
+          7:  69526 # Legs
+          8:  69527 # Feet
+          9:  69528 # Wrists
+          10: 69529 # Hands
+
+      # Primal Storms set=2690
+      - name: "Cloudburst Regalia"
+        wowheadSetId:
+        items:
+          1:  69513 # Head
+          3:  69514 # Shoulders
+          5:  69515 # Chest
+          6:  69516 # Waist
+          7:  69517 # Legs
+          8:  69518 # Feet
+          9:  69519 # Wrists
+          10: 69520 # Hands
+          16: 70646 # Back
+
+      # Professions set=2691
+      - name: "Crimson Combatant's Wildercloth Regalia"
+        wowheadSetId:
+        items:
+          1:  69495 # Head
+          3:  69496 # Shoulders
+          5:  69497 69503 # Chest
+          6:  69498 # Waist
+          7:  69499 # Legs
+          8:  69500 # Feet
+          9:  69501 # Wrists
+          10: 69502 # Hands
+          16: 69540 # Back
+
+    leather:
+      # Quest Rewards set=2685
+      - name: "Trailblazer's Leather Armor"
+        wowheadSetId:
+        items:
+          1:  70259 # Head
+          3:  70260 # Shoulders
+          5:  70261 # Chest
+          6:  70262 # Waist
+          7:  70263 # Legs
+          8:  70264 # Feet
+          9:  70265 # Wrists
+          10: 70266 # Hands
+
+      # Renown set=2490
+      - name: "Renowned Expeditioner's Leather Armor"
+        wowheadSetId:
+        items:
+          1:  70277 # Head
+          3:  70278 # Shoulders
+          5:  70279 # Chest
+          6:  70280 # Waist
+          7:  70281 # Legs
+          8:  70282 # Feet
+          9:  70283 # Wrists
+          10: 70284 # Hands
+
+      # World Drops set=2686
+      - name: "Isle Trapper's Gear"
+        wowheadSetId:
+        items:
+          1:  70295 # Head
+          3:  70296 # Shoulders
+          5:  70297 # Chest
+          6:  70298 # Waist
+          7:  70299 # Legs
+          8:  70300 # Feet
+          9:  70301 # Wrists
+          10: 70302 # Hands
+          16: 70303 # Back
+
+      # Primal Storms set=2687
+      - name: "Dust Devil Armor"
+        wowheadSetId:
+        items:
+          1:  70268 # Head
+          3:  70269 # Shoulders
+          5:  70270 # Chest
+          6:  70271 # Waist
+          7:  70272 # Legs
+          8:  70273 # Feet
+          9:  70274 # Wrists
+          10: 70275 # Hands
+          16: 70276 # Back
+
+      # Professions set=2688
+      - name: "Crimson Combatant's Resilient Armor"
+        wowheadSetId:
+        items:
+          1:  70286 # Head
+          3:  70287 # Shoulders
+          5:  70288 # Chest
+          6:  70289 # Waist
+          7:  70290 # Legs
+          8:  70291 # Feet
+          9:  70292 # Wrists
+          10: 70293 # Hands
+
+    mail:
+      # Quest Rewards set=2692
+      - name: "Trailblazer's Mail Armor"
+        wowheadSetId:
+        items:
+          1:  70650 # Head
+          3:  70235 # Shoulders
+          5:  70236 # Chest
+          6:  70237 # Waist
+          7:  70238 # Legs
+          8:  70239 # Feet
+          9:  70240 # Wrists
+          10: 70241 # Hands
+          16: 70242 # Back
+
+      # Renown set=2491
+      - name: "Renowned Expeditioner's Mail Armor"
+        wowheadSetId:
+        items:
+          1:  70649 # Head
+          3:  70243 # Shoulders
+          5:  70244 # Chest
+          6:  70245 # Waist
+          7:  70246 # Legs
+          8:  70247 # Feet
+          9:  70248 # Wrists
+          10: 70249 # Hands
+
+      # World Drops set=2696
+      - name: "Hornstrider's Battlegear"
+        wowheadSetId:
+        items:
+          1:  70365 # Head
+          3:  70251 # Shoulders
+          5:  70252 # Chest
+          6:  70253 # Waist
+          7:  70254 # Legs
+          8:  70255 # Feet
+          9:  70256 # Wrists
+          10: 70257 # Hands
+          16: 70258 # Back
+
+      # Primal Storms set=2695
+      - name: "Cyclonic Battlegear"
+        wowheadSetId:
+        items:
+          1:  70652 # Head
+          3:  70219 # Shoulders
+          5:  70220 # Chest
+          6:  70221 # Waist
+          7:  70222 # Legs
+          8:  70223 # Feet
+          9:  70224 # Wrists
+          10: 70225 # Hands
+          16: 70226 # Back
+
+      # Professions set=2694
+      - name: "Crimson Combatant's Adamant Battlegear"
+        wowheadSetId:
+        items:
+          1:  70651 # Head
+          3:  70227 # Shoulders
+          5:  70228 # Chest
+          6:  70229 # Waist
+          7:  70230 # Legs
+          8:  70231 # Feet
+          9:  70232 # Wrists
+          10: 70233 # Hands
+
+    plate:
+      # Quest Rewards set=2697
+      - name: "Trailblazer's Plate Armor"
+        wowheadSetId:
+        items:
+          1:  70178 # Head
+          3:  70179 # Shoulders
+          5:  70186 # Chest
+          6:  70181 # Waist
+          7:  70182 # Legs
+          8:  70183 # Feet
+          9:  70184 # Wrists
+          10: 70185 # Hands
+          16: 70653 # Back
+
+      # Renown set=2492
+      - name: "Renowned Expeditioner's Plate Armor"
+        wowheadSetId:
+        items:
+          1:  70195 # Head
+          3:  70196 # Shoulders
+          5:  70197 # Chest
+          6:  70198 # Waist
+          7:  70199 # Legs
+          8:  70200 # Feet
+          9:  70201 # Wrists
+          10: 70202 # Hands
+
+      # World Drops set=2700
+      - name: "Shorebreaker's Armor"
+        wowheadSetId:
+        items:
+          1:  70211 # Head
+          3:  70212 # Shoulders
+          5:  70213 # Chest
+          6:  70214 # Waist
+          7:  70215 # Legs
+          8:  70216 # Feet
+          9:  70217 # Wrists
+          10: 70218 # Hands
+
+      # Primal Storms set=2699
+      - name: "Firestorm Armor"
+        wowheadSetId:
+        items:
+          1:  70203 # Head
+          3:  70204 # Shoulders
+          5:  70205 # Chest
+          6:  70206 # Waist
+          7:  70207 # Legs
+          8:  70208 # Feet
+          9:  70209 # Wrists
+          10: 70210 # Hands
+          16: 70656 # Back
+
+      # Professions set=2698
+      - name: "Crimson Combatant's Draconium Armor"
+        wowheadSetId:
+        items:
+          1:  70187 # Head
+          3:  70188 # Shoulders
+          5:  70189 # Chest
+          6:  70190 # Waist
+          7:  70191 # Legs
+          8:  70192 # Feet
+          9:  70193 # Wrists
+          10: 70194 # Hands
