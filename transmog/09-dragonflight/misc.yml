@@ -1,0 +1,520 @@
+name: "Misc"
+groups:
+
+- name: "Cavern Delver"
+  type: armor
+  sets:
+    - "Treasures and Unique Creatures"
+    - "World Quests and World Drops"
+    - "Suffusion Camps and PvP"
+    - "Campaign"
+  data:
+    cloth:
+      # Treasures and Unique Creatures set=3014
+      - name: "Zaralek Surveyor's Expedition Gear"
+        wowheadSetId:
+        items:
+          1:  79429 79429 # Head
+          3:  79430 79430 # Shoulders
+          5:  79431 79431 # Chest
+          6:  79432 79432 # Waist
+          7:  79433 79433 # Legs
+          8:  79434 79434 # Feet
+          9:  79435 79435 # Wrists
+          10: 79436 79436 # Hands
+          16: 79437 79437 # Back
+
+      # World Quests and World Drops set=3011
+      - name: "Moonless Vestiture"
+        wowheadSetId:
+        items:
+          1:  79402 # Head
+          3:  79403 # Shoulders
+          5:  79404 # Chest
+          6:  79405 # Waist
+          7:  79406 # Legs
+          8:  79407 # Feet
+          9:  79408 # Wrists
+          10: 79409 # Hands
+
+      # Suffusion Camps and PvP set=3013
+      - name: "Suffused Attire"
+        wowheadSetId:
+        items:
+          1:  79440 79440 # Head
+          3:  79441 79441 # Shoulders
+          5:  79442 79442 # Chest
+          6:  79443 79443 # Waist
+          7:  79444 79444 # Legs
+          8:  79445 79445 # Feet
+          9:  79446 79446 # Wrists
+          10: 79447 79447 # Hands
+          16: 79448 79448 # Back
+
+      # Campaign set=3012
+      - name: "Endowed Garb"
+        wowheadSetId:
+        items:
+          1:  79386 # Head
+          3:  79387 # Shoulders
+          5:  79388 # Chest
+          6:  79389 # Waist
+          7:  79390 # Legs
+          8:  79391 # Feet
+          9:  79392 # Wrists
+          10: 79393 # Hands
+          16: 79394 # Back
+
+    leather:
+      # Treasures and Unique Creatures set=3016
+      - name: "Zaralek Surveyor's Expedition Gear"
+        wowheadSetId:
+        items:
+          1:  80264 80264 # Head
+          3:  80265 80265 # Shoulders
+          5:  80266 80266 # Chest
+          6:  80267 80267 # Waist
+          7:  80268 80268 # Legs
+          8:  80269 80269 # Feet
+          9:  80270 80270 # Wrists
+          10: 80271 80271 # Hands
+          16: 80272 # Back
+
+      # World Quests and World Drops set=3015
+      - name: "Sunless Leathers"
+        wowheadSetId:
+        items:
+          1:  80242 # Head
+          3:  80243 # Shoulders
+          5:  80244 # Chest
+          6:  80245 # Waist
+          7:  80246 # Legs
+          8:  80247 # Feet
+          9:  80248 # Wrists
+          10: 80249 # Hands
+
+      # Suffusion Camps and PvP set=3017
+      - name: "Suffused Attire"
+        wowheadSetId:
+        items:
+          1:  80275 80275 # Head
+          3:  80276 80276 # Shoulders
+          5:  80277 80277 # Chest
+          6:  80278 80278 # Waist
+          7:  80279 80279 # Legs
+          8:  80280 80280 # Feet
+          9:  80281 80281 # Wrists
+          10: 80282 80282 # Hands
+          16: 80283 80283 # Back
+
+      # Campaign set=3018
+      - name: "Inherited Gear"
+        wowheadSetId:
+        items:
+          1:  80297 # Head
+          3:  80233 # Shoulders
+          5:  80234 # Chest
+          6:  80235 # Waist
+          7:  80236 # Legs
+          8:  80237 # Feet
+          9:  80238 # Wrists
+          10: 80239 # Hands
+          16: 80240 # Back
+
+    mail:
+      # Treasures and Unique Creatures set=3022
+      - name: "Zaralek Surveyor's Expedition Gear"
+        wowheadSetId:
+        items:
+          1:  80200 80200 # Head
+          3:  80201 80201 # Shoulders
+          5:  80202 80202 # Chest
+          6:  80203 80203 # Waist
+          7:  80204 80204 # Legs
+          8:  80205 80205 # Feet
+          9:  80206 80206 # Wrists
+          10: 80207 80207 # Hands
+          16: 80208 80208 # Back
+
+      # World Quests and World Drops set=3019
+      - name: "Skyless Scales"
+        wowheadSetId:
+        items:
+          1:  80178 # Head
+          3:  80179 # Shoulders
+          5:  80180 # Chest
+          6:  80181 # Waist
+          7:  80182 # Legs
+          8:  80183 # Feet
+          9:  80184 # Wrists
+          10: 80185 # Hands
+
+      # Suffusion Camps and PvP set=3021
+      - name: "Suffused Attire"
+        wowheadSetId:
+        items:
+          1:  80211 80211 # Head
+          3:  80212 80212 # Shoulders
+          5:  80213 80213 # Chest
+          6:  80214 80214 # Waist
+          7:  80215 80215 # Legs
+          8:  80216 80216 # Feet
+          9:  80217 80217 # Wrists
+          10: 80218 80218 # Hands
+          16: 80219 80219 # Back
+
+      # Campaign set=3020
+      - name: "Bequeathed Armor"
+        wowheadSetId:
+        items:
+          1:  80167 # Head
+          3:  80168 # Shoulders
+          5:  80169 # Chest
+          6:  80170 # Waist
+          7:  80171 # Legs
+          8:  80172 # Feet
+          9:  80173 # Wrists
+          10: 80174 # Hands
+          16: 80175 # Back
+
+    plate:
+      # Treasures and Unique Creatures set=3025
+      - name: "Zaralek Surveyor's Expedition Gear"
+        wowheadSetId:
+        items:
+          1:  80068 80068 # Head
+          3:  80069 80069 # Shoulders
+          5:  80070 80070 # Chest
+          6:  80071 80071 # Waist
+          7:  80072 80072 # Legs
+          8:  80073 80073 # Feet
+          9:  80074 80074 # Wrists
+          10: 80075 80075 # Hands
+          16: 80076 80076 # Back
+
+      # World Quests and World Drops set=3023
+      - name: "Starless Bulwark"
+        wowheadSetId:
+        items:
+          1:  80046 # Head
+          3:  80047 # Shoulders
+          5:  80048 # Chest
+          6:  80049 # Waist
+          7:  80050 # Legs
+          8:  80051 # Feet
+          9:  80052 # Wrists
+          10: 80053 # Hands
+
+      # Suffusion Camps and PvP set=3026
+      - name: "Suffused Attire"
+        wowheadSetId:
+        items:
+          1:  80079 80079 # Head
+          3:  80080 80080 # Shoulders
+          5:  80081 80081 # Chest
+          6:  80082 80082 # Waist
+          7:  80083 80083 # Legs
+          8:  80084 80084 # Feet
+          9:  80085 80085 # Wrists
+          10: 80086 80086 # Hands
+          16: 80087 80087 # Back
+
+      # Campaign set=3024
+      - name: "Bestowed Plate"
+        wowheadSetId:
+        items:
+          1:  80035 # Head
+          3:  80036 # Shoulders
+          5:  80037 # Chest
+          6:  80038 # Waist
+          7:  80039 # Legs
+          8:  80040 # Feet
+          9:  80041 # Wrists
+          10: 80042 # Hands
+          16: 80043 # Back
+
+- name: "Primal Elements"
+  type: armor
+  sets:
+    - "Primal Storms"
+    - "The Forbidden Reach"
+    - "Crafted"
+    - "War Mode"
+    - "World Drop"
+  data:
+    cloth:
+      # Primal Storms set=2661
+      - name: "Raging Tempest"
+        wowheadSetId:
+        items:
+          1:  77252 # Head
+          3:  77253 # Shoulders
+          5:  77254 # Chest
+          6:  77255 # Waist
+          7:  77256 # Legs
+          8:  77257 # Feet
+          9:  77258 # Wrists
+          10: 77259 # Hands
+          16: 77260 # Back
+
+      # The Forbidden Reach set=2853
+      - name: "Raging Tempest"
+        wowheadSetId:
+        items:
+          1:  77272 # Head
+          3:  77273 # Shoulders
+          5:  77274 # Chest
+          6:  77275 # Waist
+          7:  77276 # Legs
+          8:  77277 # Feet
+          9:  77278 # Wrists
+          10: 77279 # Hands
+          16: 77280 # Back
+
+      # Crafted set=2743
+      - name: "Vibrant Wildercloth"
+        wowheadSetId:
+        items:
+          1:  77282 # Head
+          3:  77283 # Shoulders
+          5:  77284 # Chest
+          6:  77285 # Waist
+          7:  77286 # Legs
+          8:  77287 # Feet
+          9:  77288 # Wrists
+          10: 77289 # Hands
+          16: 77290 # Back
+
+      # War Mode set=2662
+      - name: "Drakebreaker"
+        wowheadSetId:
+        items:
+          1:  77262 # Head
+          3:  77263 # Shoulders
+          5:  77264 # Chest
+          6:  77265 # Waist
+          7:  77266 # Legs
+          8:  77267 # Feet
+          9:  77268 # Wrists
+          10: 77269 # Hands
+          16: 77270 # Back
+
+      # World Drop set=2742
+      - name: "Verdant Wing"
+        wowheadSetId:
+        items:
+          1:  77272 # Head
+          3:  77273 # Shoulders
+          5:  77274 # Chest
+          6:  77275 # Waist
+          7:  77276 # Legs
+          8:  77277 # Feet
+          9:  77278 # Wrists
+          10: 77279 # Hands
+
+    leather:
+      # Primal Storms set=2665
+      - name: "Raging Tempest"
+        wowheadSetId:
+        items:
+          1:  77628 # Head
+          3:  77629 # Shoulders
+          5:  77630 # Chest
+          6:  77631 # Waist
+          7:  77632 # Legs
+          8:  77633 # Feet
+          9:  77634 # Wrists
+          10: 77635 # Hands
+          16: 77636 # Back
+
+      # The Forbidden Reach set=2854
+      - name: "Raging Tempest"
+        wowheadSetId:
+        items:
+          1:  77646 # Head
+          3:  77647 # Shoulders
+          5:  77648 # Chest
+          6:  77649 # Waist
+          7:  77650 # Legs
+          8:  77651 # Feet
+          9:  77652 # Wrists
+          10: 77653 # Hands
+          16: 77654 # Back
+
+      # Crafted set=2747
+      - name: "Life-Bound"
+        wowheadSetId:
+        items:
+          1:  77655 # Head
+          3:  77656 # Shoulders
+          5:  77657 # Chest
+          6:  77658 # Waist
+          7:  77659 # Legs
+          8:  77660 # Feet
+          9:  77661 # Wrists
+          10: 77662 # Hands
+
+      # War Mode set=2666
+      - name: "Drakebreaker"
+        wowheadSetId:
+        items:
+          1:  77637 # Head
+          3:  77638 # Shoulders
+          5:  77639 # Chest
+          6:  77640 # Waist
+          7:  77641 # Legs
+          8:  77642 # Feet
+          9:  77643 # Wrists
+          10: 77644 # Hands
+          16: 77645 # Back
+
+      # World Drop set=2746
+      - name: "Green Draketracker"
+        wowheadSetId:
+        items:
+          1:  77646 77646 # Head
+          3:  77647 77647 # Shoulders
+          5:  77648 77648 # Chest
+          6:  77649 # Waist
+          7:  77650 # Legs
+          8:  77651 # Feet
+          9:  77652 # Wrists
+          10: 77653 # Hands
+
+    mail:
+      # Primal Storms set=2663
+      - name: "Raging Tempest"
+        wowheadSetId:
+        items:
+          1:  77346 # Head
+          3:  77347 # Shoulders
+          5:  77348 # Chest
+          6:  77349 # Waist
+          7:  77350 # Legs
+          8:  77351 # Feet
+          9:  77352 # Wrists
+          10: 77353 # Hands
+          16: 77354 # Back
+
+      # The Forbidden Reach set=2855
+      - name: "Raging Tempest"
+        wowheadSetId:
+        items:
+          1:  77364 # Head
+          3:  77365 # Shoulders
+          5:  77366 # Chest
+          6:  77367 # Waist
+          7:  77368 # Legs
+          8:  77369 # Feet
+          9:  77370 # Wrists
+          10: 77371 # Hands
+          16: 77372 # Back
+
+      # Crafted set=2745
+      - name: "Flame-Touched"
+        wowheadSetId:
+        items:
+          1:  77373 # Head
+          3:  77374 # Shoulders
+          5:  77375 # Chest
+          6:  77376 # Waist
+          7:  77377 # Legs
+          8:  77378 # Feet
+          9:  77379 # Wrists
+          10: 77380 # Hands
+
+      # War Mode set=2664
+      - name: "Drakebreaker"
+        wowheadSetId:
+        items:
+          1:  77355 # Head
+          3:  77356 # Shoulders
+          5:  77357 # Chest
+          6:  77358 # Waist
+          7:  77359 # Legs
+          8:  77360 # Feet
+          9:  77361 # Wrists
+          10: 77362 # Hands
+          16: 77363 # Back
+
+      # World Drop set=2744
+      - name: "Emerald Scale"
+        wowheadSetId:
+        items:
+          1:  77364 # Head
+          3:  77365 # Shoulders
+          5:  77366 # Chest
+          6:  77367 # Waist
+          7:  77368 # Legs
+          8:  77369 # Feet
+          9:  77370 # Wrists
+          10: 77371 # Hands
+
+    plate:
+      # Primal Storms set=2667
+      - name: "Raging Tempest"
+        wowheadSetId:
+        items:
+          1:  77301 # Head
+          3:  77302 # Shoulders
+          5:  77303 # Chest
+          6:  77304 # Waist
+          7:  77305 # Legs
+          8:  77306 # Feet
+          9:  77307 # Wrists
+          10: 77308 # Hands
+          16: 77309 # Back
+
+      # The Forbidden Reach set=2856
+      - name: "Raging Tempest"
+        wowheadSetId:
+        items:
+          1:  77319 # Head
+          3:  77320 # Shoulders
+          5:  77321 # Chest
+          6:  77322 # Waist
+          7:  77323 # Legs
+          8:  77324 # Feet
+          9:  77325 # Wrists
+          10: 77326 # Hands
+          16: 77327 # Back
+
+      # Crafted set=2749
+      - name: "Primal Molten"
+        wowheadSetId:
+        items:
+          1:  77328 # Head
+          3:  77329 # Shoulders
+          5:  77330 # Chest
+          6:  77331 # Waist
+          7:  77332 # Legs
+          8:  77333 # Feet
+          9:  77334 # Wrists
+          10: 77335 # Hands
+
+      # War Mode set=2668
+      - name: "Drakebreaker"
+        wowheadSetId:
+        items:
+          1:  77310 # Head
+          3:  77311 # Shoulders
+          5:  77312 # Chest
+          6:  77313 # Waist
+          7:  77314 # Legs
+          8:  77315 # Feet
+          9:  77316 # Wrists
+          10: 77317 # Hands
+          16: 77318 # Back
+
+      # World Drop set=2748
+      - name: "Dreamfire"
+        wowheadSetId:
+        items:
+          1:  77319 77319 # Head
+          3:  77320 # Shoulders
+          5:  77321 77321 # Chest
+          6:  77322 # Waist
+          7:  77323 # Legs
+          8:  77324 # Feet
+          9:  77325 77325 # Wrists
+          10: 77326 # Hands
