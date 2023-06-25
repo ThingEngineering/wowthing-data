@@ -1,8 +1,392 @@
 name: PvP
 groups:
 
-- name: Dragonflight Season 1
-  tag: S31
+- name: "Dragonflight Season 2"
+  tag: "S32"
+  type: class
+  sets:
+  - "Elite*"
+  - "Gladiator"
+  data:
+    death-knight:
+      # Elite set=2914
+      - name: "Obsidian Gladiator's Plate Armor"
+        wowheadSetId:
+        items:
+          1:  80464 # Head
+          3:  80465 # Shoulders
+          5:  80457 # Chest
+          6:  80458 # Waist
+          7:  80459 # Legs
+          8:  80460 # Feet
+          9:  80461 # Wrists
+          10: 80462 # Hands
+          16: 80463 # Back
+
+      # Gladiator set=2913
+      - name: "Obsidian Gladiator's Plate Armor"
+        wowheadSetId:
+        items:
+          1:  80422 # Head
+          3:  80423 # Shoulders
+          5:  80424 # Chest
+          6:  80425 # Waist
+          7:  80426 # Legs
+          8:  80427 # Feet
+          9:  80428 # Wrists
+          10: 80429 # Hands
+          16: 80430 # Back
+
+    demon-hunter:
+      # Elite set=2920
+      - name: "Obsidian Gladiator's Leather Armor"
+        wowheadSetId:
+        items:
+          1:  80534 # Head
+          3:  80535 # Shoulders
+          5:  80527 # Chest
+          6:  80528 # Waist
+          7:  80529 # Legs
+          8:  80530 # Feet
+          9:  80531 # Wrists
+          10: 80532 # Hands
+          16: 80533 # Back
+
+      # Gladiator set=2919
+      - name: "Obsidian Gladiator's Leather Armor"
+        wowheadSetId:
+        items:
+          1:  80558 # Head
+          3:  80559 # Shoulders
+          5:  80560 # Chest
+          6:  80561 # Waist
+          7:  80562 # Legs
+          8:  80563 # Feet
+          9:  80564 # Wrists
+          10: 80565 # Hands
+          16: 80566 # Back
+
+    druid:
+      # Elite set=2922
+      - name: "Obsidian Gladiator's Leather Armor"
+        wowheadSetId:
+        items:
+          1:  78897 # Head
+          3:  78898 # Shoulders
+          5:  78890 # Chest
+          6:  78899 # Waist
+          7:  78892 # Legs
+          8:  78893 # Feet
+          9:  78894 # Wrists
+          10: 78895 # Hands
+          16: 78896 # Back
+
+      # Gladiator set=2921
+      - name: "Obsidian Gladiator's Leather Armor"
+        wowheadSetId:
+        items:
+          1:  78900 # Head
+          3:  78901 # Shoulders
+          5:  78902 # Chest
+          6:  78903 # Waist
+          7:  78904 # Legs
+          8:  78905 # Feet
+          9:  78906 # Wrists
+          10: 78907 # Hands
+          16: 78908 # Back
+
+    evoker:
+      # Elite set=2911
+      - name: "Obsidian Gladiator's Chain Armor"
+        wowheadSetId:
+        items:
+          1:  80612 # Head
+          3:  80613 # Shoulders
+          5:  80605 # Chest
+          6:  80614 # Waist
+          7:  80607 # Legs
+          8:  80608 # Feet
+          9:  80609 # Wrists
+          10: 80610 # Hands
+          16: 80611 # Back
+
+      # Gladiator set=2910
+      - name: "Obsidian Gladiator's Chain Armor"
+        wowheadSetId:
+        items:
+          1:  80627 # Head
+          3:  80628 # Shoulders
+          5:  80629 # Chest
+          6:  80630 # Waist
+          7:  80631 # Legs
+          8:  80632 # Feet
+          9:  80633 # Wrists
+          10: 80634 # Hands
+          16: 80635 # Back
+
+    hunter:
+      # Elite set=2928
+      - name: "Obsidian Gladiator's Chain Armor"
+        wowheadSetId:
+        items:
+          1:  79923 # Head
+          3:  79924 # Shoulders
+          5:  79916 # Chest
+          6:  79917 # Waist
+          7:  79918 # Legs
+          8:  79919 # Feet
+          9:  79920 # Wrists
+          10: 79921 # Hands
+          16: 79922 # Back
+
+      # Gladiator set=2927
+      - name: "Obsidian Gladiator's Chain Armor"
+        wowheadSetId:
+        items:
+          1:  79936 # Head
+          3:  79937 # Shoulders
+          5:  79938 # Chest
+          6:  79939 # Waist
+          7:  79940 # Legs
+          8:  79941 # Feet
+          9:  79942 # Wrists
+          10: 79943 # Hands
+          16: 79944 # Back
+
+    mage:
+      # Elite set=2936
+      - name: "Obsidian Gladiator's Silk Armor"
+        wowheadSetId:
+        items:
+          1:  80476 # Head
+          3:  80484 # Shoulders
+          5:  80478 # Chest
+          6:  80485 # Waist
+          7:  80480 # Legs
+          8:  80481 # Feet
+          9:  80482 # Wrists
+          10: 80483 # Hands
+          16: 80806 # Back
+
+      # Gladiator set=2935
+      - name: "Obsidian Gladiator's Silk Armor"
+        wowheadSetId:
+        items:
+          1:  80486 # Head
+          3:  80487 # Shoulders
+          5:  80488 # Chest
+          6:  80489 # Waist
+          7:  80490 # Legs
+          8:  80491 # Feet
+          9:  80492 # Wrists
+          10: 80493 # Hands
+          16: 80807 # Back
+
+    monk:
+      # Elite set=2924
+      - name: "Obsidian Gladiator's Leather Armor"
+        wowheadSetId:
+        items:
+          1:  79624 # Head
+          3:  79625 # Shoulders
+          5:  79618 # Chest
+          6:  79619 # Waist
+          7:  79620 # Legs
+          8:  79621 # Feet
+          9:  79622 # Wrists
+          10: 79623 # Hands
+          16: 80330 # Back
+
+      # Gladiator set=2923
+      - name: "Obsidian Gladiator's Leather Armor"
+        wowheadSetId:
+        items:
+          1:  79626 # Head
+          3:  79627 # Shoulders
+          5:  79628 # Chest
+          6:  79629 # Waist
+          7:  79630 # Legs
+          8:  79631 # Feet
+          9:  79632 # Wrists
+          10: 79633 # Hands
+          16: 80329 # Back
+
+    paladin:
+      # Elite set=2932
+      - name: "Obsidian Gladiator's Plate Armor"
+        wowheadSetId:
+        items:
+          1:  79044 # Head
+          3:  79527 # Shoulders
+          5:  79043 # Chest
+          6:  79038 # Waist
+          7:  79039 # Legs
+          8:  79040 # Feet
+          9:  79041 # Wrists
+          10: 79042 # Hands
+          16: 80301 # Back
+
+      # Gladiator set=2931
+      - name: "Obsidian Gladiator's Plate Armor"
+        wowheadSetId:
+        items:
+          1:  79045 # Head
+          3:  79046 # Shoulders
+          5:  79053 # Chest
+          6:  79048 # Waist
+          7:  79049 # Legs
+          8:  79050 # Feet
+          9:  79051 # Wrists
+          10: 79052 # Hands
+          16: 80302 # Back
+
+    priest:
+      # Elite set=2916
+      - name: "Obsidian Gladiator's Silk Armor"
+        wowheadSetId:
+        items:
+          1:  79245 # Head
+          3:  79237 # Shoulders
+          5:  79238 # Chest
+          6:  79239 # Waist
+          7:  79240 # Legs
+          8:  79241 # Feet
+          9:  79242 # Wrists
+          10: 79243 # Hands
+          16: 79244 # Back
+
+      # Gladiator set=2915
+      - name: "Obsidian Gladiator's Silk Armor"
+        wowheadSetId:
+        items:
+          1:  79226 # Head
+          3:  79227 # Shoulders
+          5:  79228 # Chest
+          6:  79229 # Waist
+          7:  79230 # Legs
+          8:  79231 # Feet
+          9:  79232 # Wrists
+          10: 79233 # Hands
+          16: 79234 # Back
+
+    rogue:
+      # Elite set=2926
+      - name: "Obsidian Gladiator's Leather Armor"
+        wowheadSetId:
+        items:
+          1:  78348 # Head
+          3:  78357 # Shoulders
+          5:  78350 # Chest
+          6:  78351 # Waist
+          7:  78352 # Legs
+          8:  78353 # Feet
+          9:  78354 # Wrists
+          10: 78355 # Hands
+          16: 78356 # Back
+
+      # Gladiator set=2925
+      - name: "Obsidian Gladiator's Leather Armor"
+        wowheadSetId:
+        items:
+          1:  78358 # Head
+          3:  78359 # Shoulders
+          5:  78360 # Chest
+          6:  78361 # Waist
+          7:  78362 # Legs
+          8:  78363 # Feet
+          9:  78364 # Wrists
+          10: 78365 # Hands
+          16: 78366 # Back
+
+    shaman:
+      # Elite set=2930
+      - name: "Obsidian Gladiator's Chain Armor"
+        wowheadSetId:
+        items:
+          1:  78957 # Head
+          3:  78958 # Shoulders
+          5:  78950 # Chest
+          6:  78959 # Waist
+          7:  78952 # Legs
+          8:  78953 # Feet
+          9:  78954 # Wrists
+          10: 78955 # Hands
+          16: 78956 # Back
+
+      # Gladiator set=2929
+      - name: "Obsidian Gladiator's Chain Armor"
+        wowheadSetId:
+        items:
+          1:  78960 # Head
+          3:  78961 # Shoulders
+          5:  78962 # Chest
+          6:  78963 # Waist
+          7:  78964 # Legs
+          8:  78965 # Feet
+          9:  78966 # Wrists
+          10: 78967 # Hands
+          16: 78968 # Back
+
+    warlock:
+      # Elite set=2918
+      - name: "Obsidian Gladiator's Silk Armor"
+        wowheadSetId:
+        items:
+          1:  79538 # Head
+          3:  79539 # Shoulders
+          5:  79530 # Chest
+          6:  79531 # Waist
+          7:  79532 # Legs
+          8:  79533 # Feet
+          9:  79534 # Wrists
+          10: 79535 # Hands
+          16: 79536 # Back
+
+      # Gladiator set=2917
+      - name: "Obsidian Gladiator's Silk Armor"
+        wowheadSetId:
+        items:
+          1:  79541 # Head
+          3:  79542 # Shoulders
+          5:  79543 # Chest
+          6:  79544 # Waist
+          7:  79545 # Legs
+          8:  79546 # Feet
+          9:  79547 # Wrists
+          10: 79548 # Hands
+          16: 79549 # Back
+
+    warrior:
+      # Elite set=2934
+      - name: "Obsidian Gladiator's Plate Armor"
+        wowheadSetId:
+        items:
+          1:  80706 # Head
+          3:  80707 # Shoulders
+          5:  80699 # Chest
+          6:  80700 # Waist
+          7:  80701 # Legs
+          8:  80702 # Feet
+          9:  80703 # Wrists
+          10: 80704 # Hands
+          16: 80705 # Back
+
+      # Gladiator set=2933
+      - name: "Obsidian Gladiator's Plate Armor"
+        wowheadSetId:
+        items:
+          1:  80685 # Head
+          3:  80686 # Shoulders
+          5:  80687 # Chest
+          6:  80688 # Waist
+          7:  80689 # Legs
+          8:  80690 # Feet
+          9:  80691 # Wrists
+          10: 80692 # Hands
+          16: 80693 # Back
+
+- name: "Dragonflight Season 1"
+  tag: "S31"
   type: class
   sets:
   - "Elite*"
@@ -385,8 +769,8 @@ groups:
           10: 76952 # Hands
           16: 78243 # Back
 
-- name: Dragonflight Season 1
-  tag: S31
+- name: "Dragonflight Season 1"
+  tag: "S31"
   type: armor
   sets:
   - "Aspirant"
