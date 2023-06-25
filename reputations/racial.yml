@@ -2,6 +2,13 @@ name: Racial
 reputations:
 
 - - alliance:
+      id: 2524 # Obsidian Warders
+      icon: "spell/372518" # Call for Zera
+    horde:
+      id: 2523 # Dark Talons
+      icon: "spell/372518" # Call for Zera
+
+- - alliance:
       id: 1353 # Tushui Pandaren
       icon: item/83079
     horde:
