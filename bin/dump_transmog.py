@@ -419,7 +419,7 @@ def print_items(appearance_ids, appearances, item_slot, output_items=False, set_
     if set_mode:
         print(f'    items:')
         for thing in sorted(ugh.items(), key=lambda u: SLOT_ORDER.index(u[0])):
-            strings = [str(s) for s in output_items and thing[1] or sorted(thing[1])]
+            strings = [str(s) for s in output_items and thing[1] or sorted(set(thing[1]))]
 
             print(f'      - {" ".join(strings)}', '#', SLOT_MAP[thing[0]])
     else:
@@ -427,7 +427,7 @@ def print_items(appearance_ids, appearances, item_slot, output_items=False, set_
         print(f'        items:')
         for thing in sorted(ugh.items()):#, key=lambda u: SLOT_ORDER.index(u[0])):
             s = thing[0] < 10 and '  ' or ' '
-            strings = [str(s) for s in output_items and thing[1] or sorted(thing[1])]
+            strings = [str(s) for s in output_items and thing[1] or sorted(set(thing[1]))]
 
             print(f'          {thing[0]}:{s}{" ".join(strings)}', '#', SLOT_MAP[thing[0]])
     
