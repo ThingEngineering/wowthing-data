@@ -111,8 +111,13 @@ DESCRIPTION_MAP = {
     13989: 'Quest Rewards',
     13990: 'World Drops',
     13991: 'Professions',
+    13992: 'World Drop',
     13993: 'Crafted',
-    13998: 'Dungeons,'
+    13998: 'Dungeons',
+    14009: 'The Forbidden Reach',
+    14016: 'World Quests and World Drops',
+    14017: 'Suffusion Camps and PvP',
+    14018: 'Treasures and Unique Creatures',
 }
 DESCRIPTION_ORDER = [
     13145, # Mythic
@@ -154,6 +159,7 @@ DESCRIPTION_ORDER = [
     13859, # Renown Quartermaster
 
     # Dragonflight
+    14009, # The Forbidden Reach
     13979, # Primal Storms
     13989, # Quest Rewards
     13987, # World and Weekly Quests
@@ -162,11 +168,16 @@ DESCRIPTION_ORDER = [
     13991, # Professions
     13993, # Crafted
     13990, # World Drops
+    13992, # World Drop
     13965, # Red
     13964, # Bronze
     13966, # Black
     13967, # Blue
     13968, # Green
+
+    14018, # 'Treasures and Unique Creatures',
+    14016, # 'World Quests and World Drops',
+    14017, # 'Suffusion Camps and PvP',
 
     0,
 ]
@@ -174,6 +185,11 @@ DESCRIPTION_ORDER = [
 
 def main():
     dumps_path = os.path.join(os.path.abspath(os.path.expanduser(os.environ['WOWTHING_DUMP_PATH'])), 'enUS')
+
+    inds = {}
+    with open(os.path.join(dumps_path, 'itemnamedescription.csv')) as csv_file:
+        for row in csv.DictReader(csv_file):
+            inds[int(row['ID'])] = row['Description_lang']
 
     groups = {}
     sets = {}
@@ -342,7 +358,7 @@ def main():
                 (
                     CLASS_MASK.get(sets[set_id]['class_mask'], ''),
                     ARMOR_MASK.get(sets[set_id]['class_mask'], ''),
-                    DESCRIPTION_ORDER.index(sets[set_id]['description_id']),
+                    get_description_order(inds, sets[set_id]['description_id']),
                     get_description(sets, set_id),
                     set_id,
                 ) for set_id in set_ids
@@ -355,6 +371,13 @@ def main():
 
                 print_items(set_items[set_id], appearances, item_slot, output_items)
 
+
+def get_description_order(inds, description_id):
+    if description_id in DESCRIPTION_ORDER:
+        return DESCRIPTION_ORDER.index(description_id)
+    else:
+        print('*** Not in DESCRIPTION_ORDER:', description_id, inds[description_id])
+        return description_id
 
 def get_description(sets, set_id):
     description_id = sets[set_id]['description_id']
