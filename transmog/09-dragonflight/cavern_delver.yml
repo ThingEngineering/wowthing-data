@@ -1,0 +1,234 @@
+name: "Cavern Delver"
+groups:
+  
+- name: "Cavern Delver"
+  type: armor
+  sets:
+    - "Treasures and Unique Creatures"
+    - "World Quests and World Drops"
+    - "Suffusion Camps and PvP"
+    - "Campaign"
+  data:
+    cloth:
+      # Treasures and Unique Creatures set=3014
+      - name: "Zaralek Surveyor's Expedition Gear"
+        wowheadSetId:
+        items:
+          1:  79429 79429 # Head
+          3:  79430 79430 # Shoulders
+          5:  79431 79431 # Chest
+          6:  79432 79432 # Waist
+          7:  79433 79433 # Legs
+          8:  79434 79434 # Feet
+          9:  79435 79435 # Wrists
+          10: 79436 79436 # Hands
+          16: 79437 79437 # Back
+
+      # World Quests and World Drops set=3011
+      - name: "Moonless Vestiture"
+        wowheadSetId:
+        items:
+          1:  79402 # Head
+          3:  79403 # Shoulders
+          5:  79404 # Chest
+          6:  79405 # Waist
+          7:  79406 # Legs
+          8:  79407 # Feet
+          9:  79408 # Wrists
+          10: 79409 # Hands
+
+      # Suffusion Camps and PvP set=3013
+      - name: "Suffused Attire"
+        wowheadSetId:
+        items:
+          1:  79440 79440 # Head
+          3:  79441 79441 # Shoulders
+          5:  79442 79442 # Chest
+          6:  79443 79443 # Waist
+          7:  79444 79444 # Legs
+          8:  79445 79445 # Feet
+          9:  79446 79446 # Wrists
+          10: 79447 79447 # Hands
+          16: 79448 79448 # Back
+
+      # Campaign set=3012
+      - name: "Endowed Garb"
+        wowheadSetId:
+        items:
+          1:  79386 # Head
+          3:  79387 # Shoulders
+          5:  79388 # Chest
+          6:  79389 # Waist
+          7:  79390 # Legs
+          8:  79391 # Feet
+          9:  79392 # Wrists
+          10: 79393 # Hands
+          16: 79394 # Back
+
+    leather:
+      # Treasures and Unique Creatures set=3016
+      - name: "Zaralek Surveyor's Expedition Gear"
+        wowheadSetId:
+        items:
+          1:  80264 80264 # Head
+          3:  80265 80265 # Shoulders
+          5:  80266 80266 # Chest
+          6:  80267 80267 # Waist
+          7:  80268 80268 # Legs
+          8:  80269 80269 # Feet
+          9:  80270 80270 # Wrists
+          10: 80271 80271 # Hands
+          16: 80272 # Back
+
+      # World Quests and World Drops set=3015
+      - name: "Sunless Leathers"
+        wowheadSetId:
+        items:
+          1:  80242 # Head
+          3:  80243 # Shoulders
+          5:  80244 # Chest
+          6:  80245 # Waist
+          7:  80246 # Legs
+          8:  80247 # Feet
+          9:  80248 # Wrists
+          10: 80249 # Hands
+
+      # Suffusion Camps and PvP set=3017
+      - name: "Suffused Attire"
+        wowheadSetId:
+        items:
+          1:  80275 80275 # Head
+          3:  80276 80276 # Shoulders
+          5:  80277 80277 # Chest
+          6:  80278 80278 # Waist
+          7:  80279 80279 # Legs
+          8:  80280 80280 # Feet
+          9:  80281 80281 # Wrists
+          10: 80282 80282 # Hands
+          16: 80283 80283 # Back
+
+      # Campaign set=3018
+      - name: "Inherited Gear"
+        wowheadSetId:
+        items:
+          1:  80297 # Head
+          3:  80233 # Shoulders
+          5:  80234 # Chest
+          6:  80235 # Waist
+          7:  80236 # Legs
+          8:  80237 # Feet
+          9:  80238 # Wrists
+          10: 80239 # Hands
+          16: 80240 # Back
+
+    mail:
+      # Treasures and Unique Creatures set=3022
+      - name: "Zaralek Surveyor's Expedition Gear"
+        wowheadSetId:
+        items:
+          1:  80200 80200 # Head
+          3:  80201 80201 # Shoulders
+          5:  80202 80202 # Chest
+          6:  80203 80203 # Waist
+          7:  80204 80204 # Legs
+          8:  80205 80205 # Feet
+          9:  80206 80206 # Wrists
+          10: 80207 80207 # Hands
+          16: 80208 80208 # Back
+
+      # World Quests and World Drops set=3019
+      - name: "Skyless Scales"
+        wowheadSetId:
+        items:
+          1:  80178 # Head
+          3:  80179 # Shoulders
+          5:  80180 # Chest
+          6:  80181 # Waist
+          7:  80182 # Legs
+          8:  80183 # Feet
+          9:  80184 # Wrists
+          10: 80185 # Hands
+
+      # Suffusion Camps and PvP set=3021
+      - name: "Suffused Attire"
+        wowheadSetId:
+        items:
+          1:  80211 80211 # Head
+          3:  80212 80212 # Shoulders
+          5:  80213 80213 # Chest
+          6:  80214 80214 # Waist
+          7:  80215 80215 # Legs
+          8:  80216 80216 # Feet
+          9:  80217 80217 # Wrists
+          10: 80218 80218 # Hands
+          16: 80219 80219 # Back
+
+      # Campaign set=3020
+      - name: "Bequeathed Armor"
+        wowheadSetId:
+        items:
+          1:  80167 # Head
+          3:  80168 # Shoulders
+          5:  80169 # Chest
+          6:  80170 # Waist
+          7:  80171 # Legs
+          8:  80172 # Feet
+          9:  80173 # Wrists
+          10: 80174 # Hands
+          16: 80175 # Back
+
+    plate:
+      # Treasures and Unique Creatures set=3025
+      - name: "Zaralek Surveyor's Expedition Gear"
+        wowheadSetId:
+        items:
+          1:  80068 80068 # Head
+          3:  80069 80069 # Shoulders
+          5:  80070 80070 # Chest
+          6:  80071 80071 # Waist
+          7:  80072 80072 # Legs
+          8:  80073 80073 # Feet
+          9:  80074 80074 # Wrists
+          10: 80075 80075 # Hands
+          16: 80076 80076 # Back
+
+      # World Quests and World Drops set=3023
+      - name: "Starless Bulwark"
+        wowheadSetId:
+        items:
+          1:  80046 # Head
+          3:  80047 # Shoulders
+          5:  80048 # Chest
+          6:  80049 # Waist
+          7:  80050 # Legs
+          8:  80051 # Feet
+          9:  80052 # Wrists
+          10: 80053 # Hands
+
+      # Suffusion Camps and PvP set=3026
+      - name: "Suffused Attire"
+        wowheadSetId:
+        items:
+          1:  80079 80079 # Head
+          3:  80080 80080 # Shoulders
+          5:  80081 80081 # Chest
+          6:  80082 80082 # Waist
+          7:  80083 80083 # Legs
+          8:  80084 80084 # Feet
+          9:  80085 80085 # Wrists
+          10: 80086 80086 # Hands
+          16: 80087 80087 # Back
+
+      # Campaign set=3024
+      - name: "Bestowed Plate"
+        wowheadSetId:
+        items:
+          1:  80035 # Head
+          3:  80036 # Shoulders
+          5:  80037 # Chest
+          6:  80038 # Waist
+          7:  80039 # Legs
+          8:  80040 # Feet
+          9:  80041 # Wrists
+          10: 80042 # Hands
+          16: 80043 # Back
