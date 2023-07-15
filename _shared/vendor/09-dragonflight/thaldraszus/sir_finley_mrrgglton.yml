@@ -1,0 +1,19 @@
+id: 208345
+name: "Sir Finley Mrrgglton"
+note: "Azmerloth Vendor"
+zoneMapsGroupId: 1
+
+locations:
+  thaldraszus:
+    - 51 56.6
+
+sets:
+  - name: "Azmerloth"
+    range: -1
+    sortKey: "tr06"
+
+sells:
+  - type: pet
+    id: 4257 # Gill'dan
+    costs:
+      2594: 2750
