@@ -1,0 +1,59 @@
+id: 208347
+name: "Provisioner Qorra"
+note: "Azq'roth Vendor"
+zoneMapsGroupId: 1
+
+locations:
+  thaldraszus:
+    - 51 56.6
+
+sets:
+  - name: "Azq'roth"
+    range: -1
+    sortKey: "tr05"
+
+sells:
+  - type: mount
+    id: 206678 # Sulfur Hound's Leash
+    costs:
+      2594: 3000
+
+  - type: pet
+    id: 4258 # Jeepers
+    costs:
+      2594: 2750
+
+  - type: transmog
+    id: 206799 # Pauldrons of the Fire Lord [cosmetic shoulders]
+    costs:
+      2594: 1100
+
+  - type: transmog
+    id: 206792 # Subjugator's Shield [shield]
+    costs:
+      2594: 1000
+
+  - type: transmog
+    id: 206776 # Heretical Gavel [1h mace]
+    costs:
+      2594: 1000
+
+  - type: transmog
+    id: 206769 # Unknown Horror's Arm [1h sword]
+    costs:
+      2594: 1000
+
+  - type: transmog
+    id: 206768 # Serrated Parasite [dagger]
+    costs:
+      2594: 1000
+
+  - type: transmog
+    id: 206770 # Consuming Claws [fist]
+    costs:
+      2594: 1000
+
+  - type: transmog
+    id: 206765 # Its Focused Gaze [staff]
+    costs:
+      2594: 1050
