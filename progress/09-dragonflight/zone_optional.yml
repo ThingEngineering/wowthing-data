@@ -130,3 +130,28 @@ groups:
 
       - name: "Misty Vale"
         id: 70879
+
+- name: "The Field of Ferocity"
+  icon: "achievement/4958" # The First Rule of Ring of Blood is You Don't Talk About Ring of Blood
+  iconText: "FoF"
+  lookup: none
+  type: quest
+  data:
+    0:
+      - name: "Terror of the Swamp!"
+        id: 66459
+
+      - name: "Lord of Decay!"
+        id: 66460
+
+      - name: "Foe from the Volcano!"
+        id: 66461
+
+      - name: "Lost in the Dream!"
+        id: 66462
+
+      - name: "Elemental Revenge Round!"
+        id: 66463
+
+      - name: "Master of the Hunt!"
+        id: 66464
