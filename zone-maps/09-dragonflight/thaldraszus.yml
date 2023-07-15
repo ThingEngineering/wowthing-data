@@ -10,6 +10,11 @@ farms:
   location: 56 41
   type: group
 
+- name: "Time Rifts"
+  groupId: 2
+  location: 51 56.6
+  type: group
+
 # Kill
 
 - name: "Acrosoth"
