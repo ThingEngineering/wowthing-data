@@ -1,0 +1,59 @@
+id: 208342
+name: "Gill the Drill"
+note: "A.Z.E.R.O.T.H Vendor"
+zoneMapsGroupId: 1
+
+locations:
+  thaldraszus:
+    - 51 56.6
+
+sets:
+  - name: "A.Z.E.R.O.T.H."
+    range: -1
+    sortKey: "tr04"
+
+sells:
+  - type: mount
+    id: 206679 # Perfected Juggernaut
+    costs:
+      2594: 3000
+
+  - type: pet
+    id: 4260 # Killbot 9000
+    costs:
+      2594: 2750
+
+  - type: transmog
+    id: 206779 # Steel-Lined Locking System [shield]
+    costs:
+      2594: 1000
+
+  - type: transmog
+    id: 206804 # Clockwork Mallet [1h mace]
+    costs:
+      2594: 1000
+
+  - type: transmog
+    id: 206785 # Defect Retirement Tool [2h sword]
+    costs:
+      2594: 1050
+
+  - type: transmog
+    id: 206807 # Order-Powered Mechblade [1h sword]
+    costs:
+      2594: 1000
+
+  - type: transmog
+    id: 206796 # Energetic Power Knife [dagger]
+    costs:
+      2594: 1000
+
+  - type: transmog
+    id: 206777 # Energy Projection Regulator [wand]
+    costs:
+      2594: 1000
+
+  - type: transmog
+    id: 206780 # Overclocked Hand Cannon [gun]
+    costs:
+      2594: 1050
