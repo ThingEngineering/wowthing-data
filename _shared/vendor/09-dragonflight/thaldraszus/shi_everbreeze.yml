@@ -1,0 +1,264 @@
+id: 208548
+name: "Shi Everbreeze"
+note: "Weapons and Armor"
+zoneMapsGroupId: 1
+
+locations:
+  thaldraszus:
+    - 51 56.6
+
+sets:
+  - name: "Time Rifts Gear"
+    range: -1
+    sortKey: "tr01"
+
+sells:
+  - type: transmog
+    id: 207598 # Anachronistic Hood [cloth head]
+    costs:
+      1207030: 1
+
+  - type: transmog
+    id: 207600 # Anachronistic Mantle [cloth shoulders]
+    costs:
+      1207030: 1
+
+  - type: transmog
+    id: 207595 # Anachronistic Robes [cloth chest]
+    costs:
+      1207030: 1
+
+  - type: transmog
+    id: 207602 # Anachronistic Bindings [cloth wrists]
+    costs:
+      1207030: 1
+
+  - type: transmog
+    id: 207597 # Anachronistic Mitts [cloth hands]
+    costs:
+      1207030: 1
+
+  - type: transmog
+    id: 207601 # Anachronistic Sash [cloth waist]
+    costs:
+      1207030: 1
+
+  - type: transmog
+    id: 207599 # Anachronistic Breeches [cloth legs]
+    costs:
+      1207030: 1
+
+  - type: transmog
+    id: 207596 # Anachronistic Slippers [cloth feet]
+    costs:
+      1207030: 1
+
+  - type: transmog
+    id: 207606 # Mask of Discontinuity [leather head]
+    costs:
+      1207030: 1
+
+  - type: transmog
+    id: 207608 # Epaulets of Discontinuity [leather shoulders]
+    costs:
+      1207030: 1
+
+  - type: transmog
+    id: 207603 # Raiment of Discontinuity [leather chest]
+    costs:
+      1207030: 1
+
+  - type: transmog
+    id: 207610 # Wristbands of Discontinuity [leather wrists]
+    costs:
+      1207030: 1
+
+  - type: transmog
+    id: 207605 # Gloves of Discontinuity [leather hands]
+    costs:
+      1207030: 1
+
+  - type: transmog
+    id: 207609 # Cincture of Discontinuity [leather waist]
+    costs:
+      1207030: 1
+
+  - type: transmog
+    id: 207607 # Leggings of Discontinuity [leather legs]
+    costs:
+      1207030: 1
+
+  - type: transmog
+    id: 207604 # Treads of Discontinuity [leather feet]
+    costs:
+      1207030: 1
+
+  - type: transmog
+    id: 207614 # Paradoxical Cowl [mail head]
+    costs:
+      1207030: 1
+
+  - type: transmog
+    id: 207616 # Paradoxical Spaulders [mail shoulders]
+    costs:
+      1207030: 1
+
+  - type: transmog
+    id: 207611 # Paradoxical Chainmail [mail chest]
+    costs:
+      1207030: 1
+
+  - type: transmog
+    id: 207618 # Paradoxical Bracers [mail wrists]
+    costs:
+      1207030: 1
+
+  - type: transmog
+    id: 207613 # Paradoxical Gauntlets [mail hands]
+    costs:
+      1207030: 1
+
+  - type: transmog
+    id: 207617 # Paradoxical Cinch [mail waist]
+    costs:
+      1207030: 1
+
+  - type: transmog
+    id: 207615 # Paradoxical Tassets [mail legs]
+    costs:
+      1207030: 1
+
+  - type: transmog
+    id: 208518 # Paradoxical Striders [mail feet]
+    costs:
+      1207030: 1
+
+  - type: transmog
+    id: 207622 # Anomalous Greathelm [plate head]
+    costs:
+      1207030: 1
+
+  - type: transmog
+    id: 207624 # Anomalous Pauldrons [plate shoulders]
+    costs:
+      1207030: 1
+
+  - type: transmog
+    id: 207619 # Anomalous Chestplate [plate chest]
+    costs:
+      1207030: 1
+
+  - type: transmog
+    id: 207626 # Anomalous Vambraces [plate wrists]
+    costs:
+      1207030: 1
+
+  - type: transmog
+    id: 207621 # Anomalous Crushers [plate hands]
+    costs:
+      1207030: 1
+
+  - type: transmog
+    id: 207625 # Anomalous Girdle [plate waist]
+    costs:
+      1207030: 1
+
+  - type: transmog
+    id: 207623 # Anomalous Greaves [plate legs]
+    costs:
+      1207030: 1
+
+  - type: transmog
+    id: 207620 # Anomalous Stompers [plate feet]
+    costs:
+      1207030: 1
+
+  - type: transmog
+    id: 207627 # Anachronistic Wrap [cloak]
+    costs:
+      1207030: 1
+
+  - type: transmog
+    id: 207628 # Anomalous Cape [cloak]
+    costs:
+      1207030: 1
+
+  - type: transmog
+    id: 207630 # Cloak of Discontinuity [cloak]
+    costs:
+      1207030: 1
+
+  - type: transmog
+    id: 207629 # Paradoxical Drape [cloak]
+    costs:
+      1207030: 1
+
+  - type: transmog
+    id: 207979 # Timespan Scepter [off-hand]
+    costs:
+      1207030: 1
+
+  - type: transmog
+    id: 207982 # Timeless Bulwark [shield]
+    costs:
+      1207030: 1
+
+  - type: transmog
+    id: 207993 # Spacetime Cleaver [1h ? axe]
+    costs:
+      1207030: 1
+
+  - type: transmog
+    id: 208043 # Bronzegift Mallet [1h ? mace]
+    costs:
+      1207030: 1
+
+  - type: transmog
+    id: 207998 # Hoursteel Mace [1h ? mace]
+    costs:
+      1207030: 1
+
+  - type: transmog
+    id: 207980 # Inevitable Claymore [2h ? sword]
+    costs:
+      1207030: 1
+
+  - type: transmog
+    id: 207981 # Time Slicer [2h ? sword]
+    costs:
+      1207030: 1
+
+  - type: transmog
+    id: 208042 # Edge of Tomorrow [? dagger]
+    costs:
+      1207030: 1
+
+  - type: transmog
+    id: 207976 # Chroniton Wand [wand]
+    costs:
+      1207030: 1
+
+  - type: transmog
+    id: 207977 # Rift Render [warglaive]
+    costs:
+      1207030: 1
+
+  - type: transmog
+    id: 207988 # Time Keeper's Polearm [polearm]
+    costs:
+      1207030: 1
+
+  - type: transmog
+    id: 207989 # Chronospire [staff]
+    costs:
+      1207030: 1
+
+  - type: transmog
+    id: 207990 # Temporal Battle Staff [staff]
+    costs:
+      1207030: 1
+
+  - type: transmog
+    id: 207985 # Ever-Repeating Rifle [gun]
+    costs:
+      1207030: 1
