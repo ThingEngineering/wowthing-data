@@ -14,7 +14,7 @@ sets:
 
 sells:
   - type: mount
-    id: 206679 # Perfected Juggernaut
+    id: 1782 # Perfected Juggernaut
     costs:
       2594: 3000
 

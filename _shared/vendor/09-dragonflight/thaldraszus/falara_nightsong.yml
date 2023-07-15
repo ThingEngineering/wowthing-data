@@ -14,7 +14,7 @@ sets:
 
 sells:
   - type: mount
-    id: 206676 # Felstorm Dragon
+    id: 1779 # Felstorm Dragon
     costs:
       2594: 3000
 

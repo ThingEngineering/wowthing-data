@@ -14,7 +14,7 @@ sets:
 
 sells:
   - type: mount
-    id: 206680 # Reins of the Scourgebound Vanquisher
+    id: 1783 # Reins of the Scourgebound Vanquisher
     costs:
       2594: 3000
 

@@ -14,12 +14,12 @@ sets:
 
 sells:
   - type: mount
-    id: 206673 # Horn of the White War Wolf
+    id: 1777 # Reins of the Ravenous Black Gryphon
     costs:
       2594: 3000
 
   - type: mount
-    id: 206674 # Reins of the Ravenous Black Gryphon
+    id: 1776 # Horn of the White War Wolf
     costs:
       2594: 3000
 

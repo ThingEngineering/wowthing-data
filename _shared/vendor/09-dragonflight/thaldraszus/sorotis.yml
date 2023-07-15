@@ -14,7 +14,7 @@ sets:
 
 sells:
   - type: mount
-    id: 206675 # Gold-Toed Albatross
+    id: 1778 # Gold-Toed Albatross
     costs:
       2594: 3000
 

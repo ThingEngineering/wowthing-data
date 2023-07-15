@@ -14,7 +14,7 @@ sets:
 
 sells:
   - type: mount
-    id: 206678 # Sulfur Hound's Leash
+    id: 1781 # Sulfur Hound's Leash
     costs:
       2594: 3000
 
