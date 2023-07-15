@@ -2,6 +2,12 @@ name: "Dragonflight"
 minimumLevel: 60
 reputations:
 
+# 10.1.5
+-
+  - both:
+      id: 2553 # Soridormi
+      icon: "achievement/18615" # Legend of the Multiverse
+
 # 10.1
 -
   - both:
