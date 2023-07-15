@@ -138,6 +138,71 @@ groups:
         9:  5982 # Wrists
         10: 5980 # Hands
 
+- name: Naxxramas
+  type: armor
+  sets:
+    - "Sapphiron's Bane"
+  data:
+    cloth:
+      # description=0 set=3055
+      - name: "Glacial Cloth"
+        wowheadSetId:
+        items:
+          1:  6129 # Head
+          3:  80970 # Shoulders
+          5:  6050 # Chest
+          6:  80971 # Waist
+          7:  6065 # Legs
+          8:  11102 # Feet
+          9:  6052 # Wrists
+          10: 6051 # Hands
+          16: 1693 # Back
+
+    leather:
+      # description=0 set=3056
+      - name: "Polar Leather"
+        wowheadSetId:
+        items:
+          1:  6125 # Head
+          3:  6105 # Shoulders
+          5:  6053 # Chest
+          6:  7238 # Waist
+          7:  6066 # Legs
+          8:  11103 # Feet
+          9:  6055 # Wrists
+          10: 80969 # Hands
+          16: 1693 # Back
+
+    mail:
+      # description=0 set=3057
+      - name: "Icy Scale Mail"
+        wowheadSetId:
+        items:
+          1:  6130 # Head
+          3:  6111 # Shoulders
+          5:  6056 # Chest
+          6:  80968 # Waist
+          7:  6067 # Legs
+          8:  80967 # Feet
+          9:  6057 # Wrists
+          10: 6058 # Hands
+          16: 1693 # Back
+
+    plate:
+      # description=0 set=3058
+      - name: "Icebane Plate"
+        wowheadSetId:
+        items:
+          1:  6124 # Head
+          3:  6104 # Shoulders
+          5:  6059 # Chest
+          6:  80972 # Waist
+          7:  6064 # Legs
+          8:  80965 # Feet
+          9:  6061 # Wrists
+          10: 6060 # Hands
+          16: 1693 # Back
+
 - name: Temple of Ahn'Qiraj
   tag: T2.5
   type: class
