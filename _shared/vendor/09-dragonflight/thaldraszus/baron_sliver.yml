@@ -1,0 +1,64 @@
+id: 208338
+name: "Baron Sliver"
+note: "Azmourne Vendor"
+zoneMapsGroupId: 1
+
+locations:
+  thaldraszus:
+    - 51 56.6
+
+sets:
+  - name: "Azmourne"
+    range: -1
+    sortKey: "tr02"
+
+sells:
+  - type: mount
+    id: 206680 # Reins of the Scourgebound Vanquisher
+    costs:
+      2594: 3000
+
+  - type: pet
+    id: 4262 # N'Ruby
+    costs:
+      2594: 2750
+
+  - type: transmog
+    id: 206786 # Scourge Victorious Tabard [tabard]
+    costs:
+      2594: 1500
+
+  - type: transmog
+    id: 206793 # Upraised Headstone [1h mace]
+    costs:
+      2594: 1000
+
+  - type: transmog
+    id: 206803 # Cursed Blade of the Scourge [1h sword]
+    costs:
+      2594: 1000
+
+  - type: transmog
+    id: 206783 # Bonegale Greataxe [2h axe]
+    costs:
+      2594: 1050
+
+  - type: transmog
+    id: 206797 # Frostspire [staff]
+    costs:
+      2594: 1050
+
+  - type: transmog
+    id: 206802 # Plague-Touched Stave [staff]
+    costs:
+      2594: 1050
+
+  - type: transmog
+    id: 206784 # Blighted Greatbow [bow]
+    costs:
+      2594: 1050
+
+  - type: transmog
+    id: 206778 # Northern Ballista [crossbow]
+    costs:
+      2594: 1050
