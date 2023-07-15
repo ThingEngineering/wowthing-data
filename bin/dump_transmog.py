@@ -118,6 +118,7 @@ DESCRIPTION_MAP = {
     14016: 'World Quests and World Drops',
     14017: 'Suffusion Camps and PvP',
     14018: 'Treasures and Unique Creatures',
+    14025: 'Time Rifts',
     14028: 'Time Rifts and Dawn of the Infinite',
     14029: 'Dawn of the Infinite',
 }
@@ -177,9 +178,13 @@ DESCRIPTION_ORDER = [
     13967, # Blue
     13968, # Green
 
-    14018, # 'Treasures and Unique Creatures',
-    14016, # 'World Quests and World Drops',
-    14017, # 'Suffusion Camps and PvP',
+    14017, # 'Suffusion Camps and PvP'
+    14018, # 'Treasures and Unique Creatures'
+    14016, # 'World Quests and World Drops'
+    14029, # 'Dawn of the Infinite'
+    14028, # 'Time Rifts and Dawn of the Infinite'
+
+    15025, # 'Time Rifts'
 
     0,
 ]
@@ -214,6 +219,7 @@ def main():
                 groups.setdefault(group_id, []).append(set_id)
 
     combine = False
+    group_mode = False
     output_items = False
     set_mode = False
     item_ids = []
@@ -254,6 +260,7 @@ def main():
         set_ids = sys.argv[2:]
     # sets v1 by group id
     elif sys.argv[1] == 'g':
+        group_mode = True
         set_ids = groups[int(sys.argv[2])]
     # sets v1 by set id
     else:
@@ -284,7 +291,38 @@ def main():
         for row in csv.DictReader(csv_file):
             item_slot[int(row['ID'])] = int(row['InventoryType'])
 
-    if set_mode:
+    if group_mode:
+        sort_me = [
+            (
+                CLASS_MASK.get(sets[set_id]['class_mask'], ''),
+                ARMOR_MASK.get(sets[set_id]['class_mask'], ''),
+                get_description_order(inds, sets[set_id]['description_id']),
+                get_description(sets, set_id),
+                set_id,
+            ) for set_id in set_ids
+        ]
+        sort_me.sort()
+
+        old_mask = None
+        for (_, _, _, description, set_id) in sort_me:
+            mask = sets[set_id]['class_mask']
+            if mask in CLASS_MASK and mask != old_mask:
+                print(f'    {CLASS_MASK[mask]}:')
+                old_mask = mask
+            else:
+                for armor_type, masks in ARMOR_MASKS.items():
+                    if mask in masks:
+                        if mask != old_mask:
+                            print(f'    {armor_type}:')
+                            old_mask = mask
+                        break
+
+            print(f'      # {sets[set_id]["name"]} [{description}]')
+            print(f'      - transmogSetId: {set_id}')
+            print(f'        wowheadSetId:')
+            print()
+
+    elif set_mode:
         sort_me = [
             (
                 CLASS_MASK.get(sets[set_id]['class_mask'], ''),
