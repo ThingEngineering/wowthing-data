@@ -4,7 +4,7 @@ note: "A.Z.E.R.O.T.H Vendor"
 zoneMapsGroupId: 1
 
 locations:
-  thaldraszus:
+  09-dragonflight/thaldraszus:
     - 51 56.6
 
 sets:

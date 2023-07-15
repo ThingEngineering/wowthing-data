@@ -4,7 +4,7 @@ note: "Azmourne Vendor"
 zoneMapsGroupId: 1
 
 locations:
-  thaldraszus:
+  09-dragonflight/thaldraszus:
     - 51 56.6
 
 sets:
