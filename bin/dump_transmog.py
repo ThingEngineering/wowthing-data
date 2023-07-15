@@ -118,6 +118,8 @@ DESCRIPTION_MAP = {
     14016: 'World Quests and World Drops',
     14017: 'Suffusion Camps and PvP',
     14018: 'Treasures and Unique Creatures',
+    14028: 'Time Rifts and Dawn of the Infinite',
+    14029: 'Dawn of the Infinite',
 }
 DESCRIPTION_ORDER = [
     13145, # Mythic
@@ -330,14 +332,7 @@ def main():
             print_items(appearance_ids, appearances, item_slot)
 
     else:
-        mask = sets[set_ids[0]]['class_mask']
-        if mask in CLASS_MASK:
-            print(f'    {CLASS_MASK[mask]}:')
-        else:
-            for armor_type, masks in ARMOR_MASKS.items():
-                if mask in masks:
-                    print(f'    {armor_type}:')
-                    break
+        old_mask = None
 
         if combine:
             set_ids.sort()
@@ -366,6 +361,18 @@ def main():
             sort_me.sort()
 
             for (_, _, _, description, set_id) in sort_me:
+                mask = sets[set_id]['class_mask']
+                if mask in CLASS_MASK and mask != old_mask:
+                    print(f'    {CLASS_MASK[mask]}:')
+                    old_mask = mask
+                else:
+                    for armor_type, masks in ARMOR_MASKS.items():
+                        if mask in masks:
+                            if mask != old_mask:
+                                print(f'    {armor_type}:')
+                                old_mask = mask
+                            break
+
                 print(f'      # {description} set={set_id}')
                 print(f'      - name: "{sets[set_id]["name"]}"')
 
