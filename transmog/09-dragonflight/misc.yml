@@ -1,6 +1,65 @@
 name: "Misc"
 groups:
 
+- name: "Time Rifts"
+  type: armor
+  sets:
+    - "Ulderoth"
+    - ":alliance: Time Rifts"
+    - ":horde: Time Rifts"
+  data:
+    cloth:
+      # description=14025 set=3069
+      - transmogSetId: 3069
+        wowheadSetId:
+
+      # description=0 (Alliance) set=3065
+      - transmogSetId: 3065
+        wowheadSetId:
+
+      # description=0 (Horde) set=3061
+      - transmogSetId: 3061
+        wowheadSetId:
+
+    leather:
+      # description=0 set=3070
+      - transmogSetId: 3070
+        wowheadSetId:
+
+      # description=0 (Alliance) set=3066
+      - transmogSetId: 3066
+        wowheadSetId:
+
+      # description=0 (Horde) set=3062
+      - transmogSetId: 3062
+        wowheadSetId:
+
+    mail:
+      # description=0 set=3071
+      - transmogSetId: 3071
+        wowheadSetId:
+
+      # description=0 (Alliance) set=3067
+      - transmogSetId: 3067
+        wowheadSetId:
+
+      # description=0 (Horde) set=3063
+      - transmogSetId: 3063
+        wowheadSetId:
+
+    plate:
+      # description=0 set=3072
+      - transmogSetId: 3072
+        wowheadSetId:
+
+      # description=0 (Alliance) set=3068
+      - transmogSetId: 3068
+        wowheadSetId:
+
+      # description=0 (Horde) set=3064
+      - transmogSetId: 3064
+        wowheadSetId:
+
 - name: "Cavern Delver"
   type: armor
   sets:
@@ -8,6 +67,8 @@ groups:
     - "World Quests and World Drops"
     - "Suffusion Camps and PvP"
     - "Campaign"
+    - "Dawn of the Infinite"
+    - "Time Rifts and Dawn of the Infinite"
   data:
     cloth:
       # Treasures and Unique Creatures set=3014
@@ -65,6 +126,14 @@ groups:
           10: 79393 # Hands
           16: 79394 # Back
 
+      # Dawn of the Infinite set=3091
+      - transmogSetId: 3091
+        wowheadSetId:
+
+      # Time Rifts and Dawn of the Infinite set=3087
+      - transmogSetId: 3087
+        wowheadSetId:
+
     leather:
       # Treasures and Unique Creatures set=3016
       - name: "Zaralek Surveyor's Expedition Gear"
@@ -120,6 +189,14 @@ groups:
           9:  80238 # Wrists
           10: 80239 # Hands
           16: 80240 # Back
+
+      # Dawn of the Infinite set=3092
+      - transmogSetId: 3092
+        wowheadSetId:
+
+      # Time Rifts and Dawn of the Infinite set=3088
+      - transmogSetId: 3088
+        wowheadSetId:
 
     mail:
       # Treasures and Unique Creatures set=3022
@@ -177,6 +254,14 @@ groups:
           10: 80174 # Hands
           16: 80175 # Back
 
+      # Dawn of the Infinite set=3093
+      - transmogSetId: 3093
+        wowheadSetId:
+
+      # Time Rifts and Dawn of the Infinite set=3089
+      - transmogSetId: 3089
+        wowheadSetId:
+
     plate:
       # Treasures and Unique Creatures set=3025
       - name: "Zaralek Surveyor's Expedition Gear"
@@ -232,6 +317,14 @@ groups:
           9:  80041 # Wrists
           10: 80042 # Hands
           16: 80043 # Back
+
+      # Dawn of the Infinite set=3094
+      - transmogSetId: 3094
+        wowheadSetId:
+
+      # Time Rifts and Dawn of the Infinite set=3090
+      - transmogSetId: 3090
+        wowheadSetId:
 
 - name: "Primal Elements"
   type: armor
