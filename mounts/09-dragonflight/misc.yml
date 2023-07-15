@@ -3,13 +3,15 @@ groups:
 
 - name: "PvP"
   things:
-  - 1688 1689 # Vicious Sabertooth [A]
-  - 1689 1688 # Vicious Sabertooth [H]
+    - 1740 1741 # Vicious War Snail [A] (Season 2)
+    - 1741 1740 # Vicious War Snail [H] (Season 2)
 
 - name: "Treasures"
   things:
-  - 1469 # Magmashell
+    - 1469 # Magmashell
 
 - name: "World Events"
   things:
-  - 1635 # Plainswalker Bearer
+    - 1735 # Cataloged Shalewing (Researchers Under Fire)
+    - 1627 # Gooey Snailemental (Primal Storm, Forbidden Reach)
+    - 1635 # Plainswalker Bearer (Grand Hunts)

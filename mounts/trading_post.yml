@@ -1,0 +1,19 @@
+name: "Trading Post"
+groups:
+
+- name: "Trading Post"
+  things:
+    - 1583 # Armored Siege Kodo
+    - 1586 # Armored Golden Pterrordax
+    - 1577 # Ash'adar, Harbinger of Dawn
+    - 376 # Celestial Steed
+    - 1595 # Cerulean Marsh Hopper
+    - 1579 # Coral-Stalker Waveray
+    - 1574 # Crusty Crawler
+    - 1742 # Felcrystal Scorpion
+    - 1744 # Grotto Netherwing Drake
+    - 1573 # Magenta Cloud Serpent
+    - 1575 # Quawks
+    - 1784 # Royal Swarmer
+    - 1582 # Savage Green Battle Turtle
+    - 439 # Tyrael's Charger (Annual Pass)

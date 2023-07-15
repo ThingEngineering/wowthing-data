@@ -1,6 +1,16 @@
 name: "Unavailable"
 groups:
 
+- name: "Achievements"
+  things:
+    - 1681 # Hailstorm Armoredon (KSM Season 1)
+
 - name: "Arena"
   things:
-  - 1660 # Crimson Gladiator's Drake
+    - 1660 # Crimson Gladiator's Drake (Season 1)
+    - 1739 # Obsidian Gladiator's Slitherdrake (Season 2)
+
+- name: "PvP"
+  things:
+    - 1688 1689 # Vicious Sabertooth [A] (Season 1)
+    - 1689 1688 # Vicious Sabertooth [H] (Season 1)

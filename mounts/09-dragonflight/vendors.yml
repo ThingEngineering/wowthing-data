@@ -15,3 +15,17 @@ groups:
   things:
   - 1612 # Loyal Magmammoth
   - 1629 # Scrappy Worldsnail
+
+- name: "Forbidden Reach, The"
+  things:
+    - 1467 # Noble Bruffalon (Storykeeper Ashekh)
+
+- name: "Primalist Future, The"
+  things:
+    - 1478 # Skyskin Hornstrider
+
+- name: "Zaralek Cavern"
+  things:
+    - 1736 # Boulder Hauler (Ponzo)
+    - 1730 # Igneous Shalewing (Sacratros)
+    - 1603 # Subterranean Magmammoth (Sacratros)

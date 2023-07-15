@@ -8,3 +8,11 @@ groups:
 - name: "Ohn'ahran Plains"
   things:
     - 1672 # Zenet Hatchling (Zenet Egg)
+
+- name: "Forbidden Reach, The"
+  things:
+    - 1619 # Ancient Salamanther (rares)
+
+- name: "Zaralek Cavern"
+  things:
+    - 1732 # Cobalt Shalewing (Karoktra)

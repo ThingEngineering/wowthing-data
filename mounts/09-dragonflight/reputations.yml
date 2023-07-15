@@ -17,3 +17,7 @@ groups:
 - name: "Maruuk Centaur"
   things:
   - 1545 # Divine Kiss of Ohn'ahra (Renown 25)
+
+- name: "Loamm Niffen"
+  things:
+    - 1738 # Morsel Sniffer (Renown 18)
