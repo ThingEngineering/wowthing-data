@@ -8,9 +8,26 @@ locations:
     - 51 56.6
 
 sets:
-  - name: "Time Rifts Gear"
+  - name: "Time Rifts - Cloth"
+    range: 9
+    sortKey: "tr01-1"
+
+  - name: "Time Rifts - Leather"
+    range: 9
+    sortKey: "tr01-2"
+
+  - name: "Time Rifts - Mail"
+    range: 9
+    sortKey: "tr01-3"
+
+  - name: "Time Rifts - Plate"
+    range: 9
+    sortKey: "tr01-4"
+
+  - name: "Time Rifts - Weapons"
     range: -1
-    sortKey: "tr01"
+    sortKey: "tr01-5"
+
 
 sells:
   - type: transmog
@@ -20,6 +37,11 @@ sells:
 
   - type: transmog
     id: 207600 # Anachronistic Mantle [cloth shoulders]
+    costs:
+      1207030: 1
+
+  - type: transmog
+    id: 207627 # Anachronistic Wrap [cloak]
     costs:
       1207030: 1
 
@@ -64,6 +86,11 @@ sells:
       1207030: 1
 
   - type: transmog
+    id: 207630 # Cloak of Discontinuity [cloak]
+    costs:
+      1207030: 1
+
+  - type: transmog
     id: 207603 # Raiment of Discontinuity [leather chest]
     costs:
       1207030: 1
@@ -100,6 +127,11 @@ sells:
 
   - type: transmog
     id: 207616 # Paradoxical Spaulders [mail shoulders]
+    costs:
+      1207030: 1
+
+  - type: transmog
+    id: 207629 # Paradoxical Drape [cloak]
     costs:
       1207030: 1
 
@@ -144,6 +176,11 @@ sells:
       1207030: 1
 
   - type: transmog
+    id: 207628 # Anomalous Cape [cloak]
+    costs:
+      1207030: 1
+
+  - type: transmog
     id: 207619 # Anomalous Chestplate [plate chest]
     costs:
       1207030: 1
@@ -170,36 +207,6 @@ sells:
 
   - type: transmog
     id: 207620 # Anomalous Stompers [plate feet]
-    costs:
-      1207030: 1
-
-  - type: transmog
-    id: 207627 # Anachronistic Wrap [cloak]
-    costs:
-      1207030: 1
-
-  - type: transmog
-    id: 207628 # Anomalous Cape [cloak]
-    costs:
-      1207030: 1
-
-  - type: transmog
-    id: 207630 # Cloak of Discontinuity [cloak]
-    costs:
-      1207030: 1
-
-  - type: transmog
-    id: 207629 # Paradoxical Drape [cloak]
-    costs:
-      1207030: 1
-
-  - type: transmog
-    id: 207979 # Timespan Scepter [off-hand]
-    costs:
-      1207030: 1
-
-  - type: transmog
-    id: 207982 # Timeless Bulwark [shield]
     costs:
       1207030: 1
 
@@ -260,5 +267,15 @@ sells:
 
   - type: transmog
     id: 207985 # Ever-Repeating Rifle [gun]
+    costs:
+      1207030: 1
+
+  - type: transmog
+    id: 207979 # Timespan Scepter [off-hand]
+    costs:
+      1207030: 1
+
+  - type: transmog
+    id: 207982 # Timeless Bulwark [shield]
     costs:
       1207030: 1
