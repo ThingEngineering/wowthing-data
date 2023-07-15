@@ -1,0 +1,74 @@
+id: 208343
+name: "Sorotis"
+note: "Ulderoth Vendor"
+zoneMapsGroupId: 1
+
+locations:
+  thaldraszus:
+    - 51 56.6
+
+sets:
+  - name: "Ulderoth"
+    range: -1
+    sortKey: "tr07"
+
+sells:
+  - type: mount
+    id: 206675 # Gold-Toed Albatross
+    costs:
+      2594: 3000
+
+  - type: pet
+    id: 4255 # Briarhorn Hatchling
+    costs:
+      2594: 2750
+
+  - type: transmog
+    id: 207049 # Ensemble: Decorous Garments
+    costs:
+      2594: 2500
+
+  - type: transmog
+    id: 207048 # Ensemble: Lifegiver's Garms
+    costs:
+      2594: 2500
+
+  - type: transmog
+    id: 207046 # Ensemble: Valhalas Ceremonial Armor
+    costs:
+      2594: 2500
+
+  - type: transmog
+    id: 207047 # Ensemble: Hauberk of Discipline
+    costs:
+      2594: 2500
+
+  - type: transmog
+    id: 206788 # Utopian Tabard [tabard]
+    costs:
+      2594: 1500
+
+  - type: transmog
+    id: 206782 # Titanic Hourglass [off-hand]
+    costs:
+      2594: 1000
+
+  - type: transmog
+    id: 206767 # Valhalas Peacekeeper [1h axe]
+    costs:
+      2594: 1000
+
+  - type: transmog
+    id: 206795 # Titan Watcher's Shortblade [1h sword]
+    costs:
+      2594: 1000
+
+  - type: transmog
+    id: 206794 # Hand of Order [fist]
+    costs:
+      2594: 1000
+
+  - type: transmog
+    id: 206798 # Valhalas Heartstriker [polearm]
+    costs:
+      2594: 1050
