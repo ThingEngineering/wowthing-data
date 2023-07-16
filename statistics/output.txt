@@ -1579,6 +1579,12 @@
   16: 16389 # Mythic
   17: 16362 # Raid Finder
 
+2482: # Sennarth, the Cold Breath
+  14: 16374 # Normal
+  15: 16382 # Heroic
+  16: 16390 # Mythic
+  17: 16366 # Raid Finder
+
 2502: # Dathea, Ascended
   14: 16375 # Normal
   15: 16383 # Heroic
@@ -1596,6 +1602,12 @@
   15: 16385 # Heroic
   16: 16393 # Mythic
   17: 16369 # Raid Finder
+
+2499: # Raszageth
+  14: 16378 # Normal
+  15: 16386 # Heroic
+  16: 16394 # Mythic
+  17: 16370 # Raid Finder
 
 ##################################################
 # 1201 Algeth'ar Academy

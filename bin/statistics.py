@@ -20,6 +20,10 @@ DIFFICULTIES = [
     [17, 'Raid Finder'],
 ]
 
+ENCOUNTER_NAME_OVERRIDES = {
+    'Raszageth the Storm-Eater': 'Raszageth',
+}
+
 
 def main():
     dumps_path = os.path.join(os.path.abspath(os.path.expanduser(os.environ['WOWTHING_DUMP_PATH'])), 'enUS')
@@ -30,7 +34,7 @@ def main():
             id = int(row['ID'])
             title = row['Title_lang']
             if ' kills ' in title:
-                achievements[title] = id
+                achievements[title.lower()] = id
 
     difficulties = {}
     with open(os.path.join(dumps_path, 'difficulty.csv')) as csv_file:
@@ -55,7 +59,11 @@ def main():
             instance_id = int(row['JournalInstanceID'])
             order_index = int(row['OrderIndex'])
             name = row['Name_lang']
-            instance_encounters.setdefault(instance_id, []).append([order_index, id, name])
+            instance_encounters.setdefault(instance_id, []).append([
+                order_index,
+                id,
+                ENCOUNTER_NAME_OVERRIDES.get(name, name),
+            ])
     
     encounter_difficulties = {}
     with open(os.path.join(dumps_path, 'journalencounterxdifficulty.csv')) as csv_file:
@@ -76,7 +84,7 @@ def main():
                 else:
                     stat_title = f'{encounter_name} kills ({difficulty_name} {instance_name})'
 
-                if stat_title in achievements:
+                if stat_title.lower() in achievements:
                     if not printed_instance:
                         printed_instance = True
                         print()
@@ -89,7 +97,7 @@ def main():
                         print()
                         print(f'{encounter_id}: # {encounter_name}')
 
-                    print(f'  {difficulty}: {achievements[stat_title]} # {difficulty_name}')
+                    print(f'  {difficulty}: {achievements[stat_title.lower()]} # {difficulty_name}')
                     
             #for difficulty in sorted(encounter_difficulties.get(encounter_id, [])):
             #    if difficulty not in difficulties:
