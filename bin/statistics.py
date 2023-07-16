@@ -31,10 +31,11 @@ def main():
     achievements = {}
     with open(os.path.join(dumps_path, 'achievement.csv')) as csv_file:
         for row in csv.DictReader(csv_file):
+            flags = int(row['Flags'])
             id = int(row['ID'])
-            title = row['Title_lang'].lower()
-            if ' kills ' in title:
-                achievements[title] = id
+            title = row['Title_lang']
+            if (flags & 1) == 1:
+                achievements[title.lower()] = id
 
     difficulties = {}
     with open(os.path.join(dumps_path, 'difficulty.csv')) as csv_file:
@@ -79,12 +80,21 @@ def main():
         for [order, encounter_id, encounter_name] in encounters:
             printed_encounter = False
             for [difficulty, difficulty_name] in DIFFICULTIES:
+                stat_title = None
                 if difficulty_name == '40 player':
                     stat_title = f'{encounter_name} kills ({instance_name})'
                 else:
                     stat_title = f'{encounter_name} kills ({difficulty_name} {instance_name})'
 
-                if stat_title.lower() in achievements:
+                achievement_id = achievements.get(stat_title.lower()) or \
+                    achievements.get(stat_title.replace(' kills ', ' ').lower())
+
+                if not achievement_id and ', ' in encounter_name:
+                    stat_title = stat_title.replace(encounter_name, encounter_name.split(', ')[0])
+                    achievement_id = achievements.get(stat_title.lower()) or \
+                        achievements.get(stat_title.replace(' kills ', ' ').lower())
+
+                if achievement_id:
                     if not printed_instance:
                         printed_instance = True
                         print()
@@ -97,7 +107,7 @@ def main():
                         print()
                         print(f'{encounter_id}: # {encounter_name}')
 
-                    print(f'  {difficulty}: {achievements[stat_title.lower()]} # {difficulty_name}')
+                    print(f'  {difficulty}: {achievement_id} # {difficulty_name}')
                     
             #for difficulty in sorted(encounter_difficulties.get(encounter_id, [])):
             #    if difficulty not in difficulties:

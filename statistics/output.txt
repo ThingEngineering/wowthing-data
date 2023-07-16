@@ -39,6 +39,22 @@
   15: 5737 # Heroic
 
 ##################################################
+# 70 Halls of Origination
+##################################################
+
+130: # Rajh, Construct of Sun
+  9: 5734 # 40 player
+  15: 5735 # Heroic
+
+##################################################
+# 71 Grim Batol
+##################################################
+
+134: # Erudax, the Duke of Below
+  9: 5732 # 40 player
+  15: 5733 # Heroic
+
+##################################################
 # 73 Blackwing Descent
 ##################################################
 
@@ -71,6 +87,9 @@
 140: # Occu'thar
   9: 5981 # 40 player
 
+339: # Alizabal, Mistress of Hate
+  9: 6170 # 40 player
+
 ##################################################
 # 77 Zul'Aman
 ##################################################
@@ -93,6 +112,9 @@
 
 195: # Shannox
   9: 5968 # 40 player
+
+196: # Baleroc, the Gatekeeper
+  9: 5972 # 40 player
 
 198: # Ragnaros
   9: 5976 # 40 player
@@ -706,6 +728,13 @@
   5: 8630 # 10-player Heroic
   6: 8631 # 25-player Heroic
   7: 8626 # LFR
+
+869: # Garrosh Hellscream
+  3: 8635 # 10-player Normal
+  4: 8636 # 25-player Normal
+  5: 8637 # 10-player Heroic
+  6: 8638 # 25-player Heroic
+  7: 8632 # LFR
 
 ##################################################
 # 385 Bloodmaul Slag Mines
@@ -1347,6 +1376,18 @@
   16: 13331 # Mythic
   17: 13328 # Raid Finder
 
+2325: # Grong, the Jungle Lord
+  14: 13333 # Normal
+  15: 13334 # Heroic
+  16: 13336 # Mythic
+  17: 13332 # Raid Finder
+
+2340: # Grong, the Revenant
+  14: 13333 # Normal
+  15: 13334 # Heroic
+  16: 13336 # Mythic
+  17: 13332 # Raid Finder
+
 2342: # Opulence
   14: 13359 # Normal
   15: 13361 # Heroic
@@ -1445,6 +1486,12 @@
   16: 14120 # Mythic
   17: 14117 # Raid Finder
 
+2374: # Il'gynoth, Corruption Reborn
+  14: 14208 # Normal
+  15: 14210 # Heroic
+  16: 14211 # Mythic
+  17: 14207 # Raid Finder
+
 2370: # Vexiona
   14: 14124 # Normal
   15: 14125 # Heroic
@@ -1504,6 +1551,24 @@
   14: 14390 # Normal
   15: 14391 # Heroic
   16: 14392 # Mythic
+
+##################################################
+# 1186 Spires of Ascension
+##################################################
+
+2412: # Devos, Paragon of Doubt
+  14: 14399 # Normal
+  15: 14400 # Heroic
+  16: 14401 # Mythic
+
+##################################################
+# 1187 Theater of Pain
+##################################################
+
+2417: # Mordretha, the Endless Empress
+  14: 14405 # Normal
+  15: 14406 # Heroic
+  16: 14407 # Mythic
 
 ##################################################
 # 1189 Sanguine Depths
@@ -1645,6 +1710,64 @@
 
 2455: # So'leah
   9: 15168 # 40 player
+
+##################################################
+# 1195 Sepulcher of the First Ones
+##################################################
+
+2458: # Vigilant Guardian
+  14: 15425 # Normal
+  15: 15426 # Heroic
+  16: 15427 # Mythic
+  17: 15424 # Raid Finder
+
+2465: # Skolex, the Insatiable Ravener
+  14: 15429 # Normal
+  15: 15430 # Heroic
+  16: 15431 # Mythic
+  17: 15428 # Raid Finder
+
+2470: # Artificer Xy'mox
+  14: 15433 # Normal
+  15: 15434 # Heroic
+  16: 15435 # Mythic
+  17: 15432 # Raid Finder
+
+2459: # Dausegne, the Fallen Oracle
+  14: 15437 # Normal
+  15: 15438 # Heroic
+  16: 15439 # Mythic
+  17: 15436 # Raid Finder
+
+2460: # Prototype Pantheon
+  14: 15441 # Normal
+  15: 15442 # Heroic
+  16: 15443 # Mythic
+  17: 15440 # Raid Finder
+
+2461: # Lihuvim, Principal Architect
+  14: 15445 # Normal
+  15: 15446 # Heroic
+  16: 15447 # Mythic
+  17: 15444 # Raid Finder
+
+2457: # Lords of Dread
+  14: 15457 # Normal
+  15: 15458 # Heroic
+  16: 15459 # Mythic
+  17: 15456 # Raid Finder
+
+2467: # Rygelon
+  14: 15461 # Normal
+  15: 15462 # Heroic
+  16: 15463 # Mythic
+  17: 15460 # Raid Finder
+
+2464: # The Jailer
+  14: 15465 # Normal
+  15: 15466 # Heroic
+  16: 15467 # Mythic
+  17: 15464 # Raid Finder
 
 ##################################################
 # 1196 Brackenhide Hollow
