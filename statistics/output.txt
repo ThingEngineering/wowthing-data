@@ -1515,6 +1515,131 @@
   16: 14205 # Mythic
 
 ##################################################
+# 1190 Castle Nathria
+##################################################
+
+2393: # Shriekwing
+  14: 14419 # Normal
+  15: 14420 # Heroic
+  16: 14421 # Mythic
+  17: 14422 # Raid Finder
+
+2429: # Huntsman Altimor
+  14: 14423 # Normal
+  15: 14424 # Heroic
+  16: 14425 # Mythic
+  17: 14426 # Raid Finder
+
+2422: # Sun King's Salvation
+  14: 14435 # Normal
+  15: 14436 # Heroic
+  16: 14437 # Mythic
+  17: 14438 # Raid Finder
+
+2418: # Artificer Xy'mox
+  14: 14431 # Normal
+  15: 14432 # Heroic
+  16: 14433 # Mythic
+  17: 14434 # Raid Finder
+
+2428: # Hungering Destroyer
+  14: 14427 # Normal
+  15: 14428 # Heroic
+  16: 14429 # Mythic
+  17: 14430 # Raid Finder
+
+2420: # Lady Inerva Darkvein
+  14: 14439 # Normal
+  15: 14440 # Heroic
+  16: 14441 # Mythic
+  17: 14442 # Raid Finder
+
+2426: # The Council of Blood
+  14: 14443 # Normal
+  15: 14444 # Heroic
+  16: 14445 # Mythic
+  17: 14446 # Raid Finder
+
+2394: # Sludgefist
+  14: 14447 # Normal
+  15: 14448 # Heroic
+  16: 14449 # Mythic
+  17: 14450 # Raid Finder
+
+2425: # Stone Legion Generals
+  14: 14451 # Normal
+  15: 14452 # Heroic
+  16: 14453 # Mythic
+  17: 14454 # Raid Finder
+
+2424: # Sire Denathrius
+  14: 14455 # Normal
+  15: 14456 # Heroic
+  16: 14457 # Mythic
+  17: 14458 # Raid Finder
+
+##################################################
+# 1193 Sanctum of Domination
+##################################################
+
+2435: # The Tarragrue
+  14: 15137 # Normal
+  15: 15138 # Heroic
+  16: 15139 # Mythic
+  17: 15136 # Raid Finder
+
+2442: # The Eye of the Jailer
+  14: 15141 # Normal
+  15: 15142 # Heroic
+  16: 15143 # Mythic
+  17: 15140 # Raid Finder
+
+2439: # The Nine
+  17: 15144 # Raid Finder
+
+2444: # Remnant of Ner'zhul
+  14: 15149 # Normal
+  15: 15150 # Heroic
+  16: 15151 # Mythic
+  17: 15148 # Raid Finder
+
+2445: # Soulrender Dormazain
+  14: 15153 # Normal
+  15: 15154 # Heroic
+  16: 15155 # Mythic
+  17: 15152 # Raid Finder
+
+2443: # Painsmith Raznal
+  14: 15157 # Normal
+  15: 15158 # Heroic
+  16: 15159 # Mythic
+  17: 15156 # Raid Finder
+
+2446: # Guardian of the First Ones
+  14: 15161 # Normal
+  15: 15162 # Heroic
+  16: 15163 # Mythic
+  17: 15160 # Raid Finder
+
+2447: # Fatescribe Roh-Kalo
+  14: 15165 # Normal
+  15: 15166 # Heroic
+  16: 15167 # Mythic
+  17: 15164 # Raid Finder
+
+2440: # Kel'Thuzad
+  14: 15170 # Normal
+  15: 15171 # Heroic
+  16: 15172 # Mythic
+  17: 15169 # Raid Finder
+
+2441: # Sylvanas Windrunner
+  14: 15174 # Normal
+  15: 15175 # Heroic
+  16: 15176 # Mythic
+  17: 15173 # Raid Finder
+
+##################################################
 # 1194 Tazavesh, the Veiled Market
 ##################################################
 

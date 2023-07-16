@@ -32,9 +32,9 @@ def main():
     with open(os.path.join(dumps_path, 'achievement.csv')) as csv_file:
         for row in csv.DictReader(csv_file):
             id = int(row['ID'])
-            title = row['Title_lang']
+            title = row['Title_lang'].lower()
             if ' kills ' in title:
-                achievements[title.lower()] = id
+                achievements[title] = id
 
     difficulties = {}
     with open(os.path.join(dumps_path, 'difficulty.csv')) as csv_file:
