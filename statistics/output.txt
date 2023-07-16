@@ -1,0 +1,1683 @@
+
+##################################################
+# 63 Deadmines
+##################################################
+
+95: # Vanessa VanCleef
+  15: 5738 # Heroic
+
+##################################################
+# 64 Shadowfang Keep
+##################################################
+
+100: # Lord Godfrey
+  9: 1092 # 40 player
+  15: 5739 # Heroic
+
+##################################################
+# 65 Throne of the Tides
+##################################################
+
+104: # Ozumat
+  9: 5726 # 40 player
+  15: 5727 # Heroic
+
+##################################################
+# 66 Blackrock Caverns
+##################################################
+
+109: # Ascendant Lord Obsidius
+  9: 5724 # 40 player
+  15: 5725 # Heroic
+
+##################################################
+# 69 Lost City of the Tol'vir
+##################################################
+
+122: # Siamat
+  9: 5736 # 40 player
+  15: 5737 # Heroic
+
+##################################################
+# 73 Blackwing Descent
+##################################################
+
+170: # Magmaw
+  9: 5555 # 40 player
+
+171: # Atramedes
+  9: 5561 # 40 player
+
+172: # Chimaeron
+  9: 5564 # 40 player
+
+173: # Maloriak
+  9: 5559 # 40 player
+
+##################################################
+# 74 Throne of the Four Winds
+##################################################
+
+155: # Al'Akir
+  9: 5576 # 40 player
+
+##################################################
+# 75 Baradin Hold
+##################################################
+
+139: # Argaloth
+  9: 5578 # 40 player
+
+140: # Occu'thar
+  9: 5981 # 40 player
+
+##################################################
+# 77 Zul'Aman
+##################################################
+
+191: # Daakara
+  15: 5773 # Heroic
+
+##################################################
+# 78 Firelands
+##################################################
+
+192: # Beth'tilac
+  9: 5964 # 40 player
+
+193: # Lord Rhyolith
+  9: 5966 # 40 player
+
+194: # Alysrazor
+  9: 5970 # 40 player
+
+195: # Shannox
+  9: 5968 # 40 player
+
+198: # Ragnaros
+  9: 5976 # 40 player
+
+##################################################
+# 184 End Time
+##################################################
+
+289: # Murozond
+  9: 6150 # 40 player
+
+##################################################
+# 186 Hour of Twilight
+##################################################
+
+341: # Archbishop Benedictus
+  9: 6152 # 40 player
+
+##################################################
+# 187 Dragon Soul
+##################################################
+
+311: # Morchok
+  9: 6153 # 40 player
+
+324: # Warlord Zon'ozz
+  9: 6155 # 40 player
+
+325: # Yor'sahj the Unsleeping
+  9: 6157 # 40 player
+
+317: # Hagara the Stormbinder
+  9: 6159 # 40 player
+
+331: # Ultraxion
+  9: 6161 # 40 player
+
+332: # Warmaster Blackhorn
+  9: 6163 # 40 player
+
+##################################################
+# 226 Ragefire Chasm
+##################################################
+
+697: # Lava Guard Gordoth
+  9: 6135 # 40 player
+
+##################################################
+# 227 Blackfathom Deeps
+##################################################
+
+444: # Aku'mai
+  9: 6137 # 40 player
+
+##################################################
+# 228 Blackrock Depths
+##################################################
+
+387: # Emperor Dagran Thaurissan
+  9: 1095 # 40 player
+
+##################################################
+# 229 Lower Blackrock Spire
+##################################################
+
+396: # Overlord Wyrmthalak
+  9: 6145 # 40 player
+
+##################################################
+# 230 Dire Maul
+##################################################
+
+417: # King Gordok
+  9: 6146 # 40 player
+
+##################################################
+# 231 Gnomeregan
+##################################################
+
+422: # Mekgineer Thermaplugg
+  9: 6140 # 40 player
+
+##################################################
+# 232 Maraudon
+##################################################
+
+431: # Princess Theradras
+  9: 6143 # 40 player
+
+##################################################
+# 233 Razorfen Downs
+##################################################
+
+1141: # Amnennar the Coldbringer
+  9: 6141 # 40 player
+
+##################################################
+# 234 Razorfen Kraul
+##################################################
+
+901: # Charlga Razorflank
+  9: 6139 # 40 player
+
+##################################################
+# 239 Uldaman
+##################################################
+
+473: # Archaedas
+  9: 6142 # 40 player
+
+##################################################
+# 240 Wailing Caverns
+##################################################
+
+481: # Mutanus the Devourer
+  9: 6136 # 40 player
+
+##################################################
+# 241 Zul'Farrak
+##################################################
+
+489: # Chief Ukorz Sandscalp
+  9: 1094 # 40 player
+
+##################################################
+# 246 Scholomance
+##################################################
+
+684: # Darkmaster Gandling
+  15: 6787 # Heroic
+
+##################################################
+# 247 Auchenai Crypts
+##################################################
+
+524: # Exarch Maladaar
+  9: 1073 # 40 player
+
+##################################################
+# 248 Hellfire Ramparts
+##################################################
+
+528: # Omor the Unscarred
+  9: 6147 # 40 player
+
+##################################################
+# 252 Sethekk Halls
+##################################################
+
+543: # Talon King Ikiss
+  9: 1074 # 40 player
+
+##################################################
+# 253 Shadow Labyrinth
+##################################################
+
+547: # Murmur
+  9: 1075 # 40 player
+
+##################################################
+# 254 The Arcatraz
+##################################################
+
+551: # Harbinger Skyriss
+  9: 1081 # 40 player
+
+##################################################
+# 256 The Blood Furnace
+##################################################
+
+557: # Keli'dan the Breaker
+  9: 1068 # 40 player
+
+##################################################
+# 257 The Botanica
+##################################################
+
+562: # Warp Splinter
+  9: 1080 # 40 player
+
+##################################################
+# 258 The Mechanar
+##################################################
+
+565: # Pathaleon the Calculator
+  9: 1079 # 40 player
+
+##################################################
+# 259 The Shattered Halls
+##################################################
+
+569: # Warchief Kargath Bladefist
+  9: 1078 # 40 player
+
+##################################################
+# 261 The Steamvault
+##################################################
+
+575: # Warlord Kalithresh
+  9: 1077 # 40 player
+
+##################################################
+# 271 Ahn'kahet: The Old Kingdom
+##################################################
+
+584: # Herald Volazj
+  9: 1233 # 40 player
+
+##################################################
+# 272 Azjol-Nerub
+##################################################
+
+587: # Anub'arak
+  9: 1232 # 40 player
+  15: 1506 # Heroic
+
+##################################################
+# 273 Drak'Tharon Keep
+##################################################
+
+591: # The Prophet Tharon'ja
+  9: 1234 # 40 player
+  15: 1508 # Heroic
+
+##################################################
+# 274 Gundrak
+##################################################
+
+596: # Gal'darah
+  9: 1236 # 40 player
+  15: 1510 # Heroic
+
+##################################################
+# 275 Halls of Lightning
+##################################################
+
+600: # Loken
+  9: 1238 # 40 player
+  15: 1512 # Heroic
+
+##################################################
+# 276 Halls of Reflection
+##################################################
+
+601: # Falric
+  9: 4722 # 40 player
+  15: 4723 # Heroic
+
+602: # Marwyn
+  9: 4724 # 40 player
+  15: 4725 # Heroic
+
+##################################################
+# 277 Halls of Stone
+##################################################
+
+607: # Sjonnir the Ironshaper
+  9: 1237 # 40 player
+  15: 1511 # Heroic
+
+##################################################
+# 278 Pit of Saron
+##################################################
+
+608: # Forgemaster Garfrost
+  9: 4717 # 40 player
+  15: 4728 # Heroic
+
+610: # Scourgelord Tyrannus
+  9: 4720 # 40 player
+  15: 4721 # Heroic
+
+##################################################
+# 281 The Nexus
+##################################################
+
+621: # Keristrasza
+  9: 1231 # 40 player
+
+##################################################
+# 282 The Oculus
+##################################################
+
+625: # Ley-Guardian Eregos
+  9: 1239 # 40 player
+
+##################################################
+# 283 The Violet Hold
+##################################################
+
+632: # Cyanigosa
+  9: 1235 # 40 player
+
+##################################################
+# 284 Trial of the Champion
+##################################################
+
+637: # The Black Knight
+  9: 4026 # 40 player
+  15: 4027 # Heroic
+
+##################################################
+# 285 Utgarde Keep
+##################################################
+
+640: # Ingvar the Plunderer
+  9: 1242 # 40 player
+  15: 1504 # Heroic
+
+##################################################
+# 286 Utgarde Pinnacle
+##################################################
+
+644: # King Ymiron
+  9: 1240 # 40 player
+  15: 1514 # Heroic
+
+##################################################
+# 302 Stormstout Brewery
+##################################################
+
+670: # Yan-Zhu the Uncasked
+  9: 6777 # 40 player
+  15: 6779 # Heroic
+
+##################################################
+# 303 Gate of the Setting Sun
+##################################################
+
+649: # Raigonn
+  15: 6783 # Heroic
+
+##################################################
+# 311 Scarlet Halls
+##################################################
+
+656: # Flameweaver Koegler
+  9: 6786 # 40 player
+  15: 6784 # Heroic
+
+##################################################
+# 313 Temple of the Jade Serpent
+##################################################
+
+335: # Sha of Doubt
+  9: 6775 # 40 player
+  15: 6776 # Heroic
+
+##################################################
+# 316 Scarlet Monastery
+##################################################
+
+674: # High Inquisitor Whitemane
+  9: 1093 # 40 player
+  15: 6785 # Heroic
+
+##################################################
+# 317 Mogu'shan Vaults
+##################################################
+
+689: # Feng the Accursed
+  3: 6791 # 10-player Normal
+  4: 7917 # 25-player Normal
+  5: 6792 # 10-player Heroic
+  6: 7918 # 25-player Heroic
+  7: 6984 # LFR
+
+682: # Gara'jal the Spiritbinder
+  3: 6793 # 10-player Normal
+  4: 7919 # 25-player Normal
+  5: 6794 # 10-player Heroic
+  6: 7920 # 25-player Heroic
+  7: 6985 # LFR
+
+726: # Elegon
+  3: 6797 # 10-player Normal
+  4: 7923 # 25-player Normal
+  5: 6798 # 10-player Heroic
+  6: 7924 # 25-player Heroic
+  7: 6987 # LFR
+
+677: # Will of the Emperor
+  3: 6799 # 10-player Normal
+  4: 7926 # 25-player Normal
+  5: 6800 # 10-player Heroic
+  6: 7927 # 25-player Heroic
+
+##################################################
+# 320 Terrace of Endless Spring
+##################################################
+
+683: # Protectors of the Endless
+  3: 6813 # 10-player Normal
+  4: 7965 # 25-player Normal
+  5: 6814 # 10-player Heroic
+  6: 7966 # 25-player Heroic
+  7: 6997 # LFR
+
+709: # Sha of Fear
+  3: 6819 # 10-player Normal
+  4: 7971 # 25-player Normal
+  5: 6820 # 10-player Heroic
+  6: 7972 # 25-player Heroic
+  7: 7000 # LFR
+
+##################################################
+# 321 Mogu'shan Palace
+##################################################
+
+698: # Xin the Weaponmaster
+  9: 6778 # 40 player
+  15: 6780 # Heroic
+
+##################################################
+# 324 Siege of Niuzao Temple
+##################################################
+
+727: # Wing Leader Ner'onok
+  15: 6788 # Heroic
+
+##################################################
+# 330 Heart of Fear
+##################################################
+
+745: # Imperial Vizier Zor'lok
+  3: 6801 # 10-player Normal
+  4: 7951 # 25-player Normal
+  5: 6802 # 10-player Heroic
+  6: 7953 # 25-player Heroic
+  7: 6991 # LFR
+
+744: # Blade Lord Ta'yak
+  3: 6803 # 10-player Normal
+  4: 7954 # 25-player Normal
+  5: 6804 # 10-player Heroic
+  6: 7955 # 25-player Heroic
+  7: 6992 # LFR
+
+713: # Garalon
+  3: 6805 # 10-player Normal
+  4: 7956 # 25-player Normal
+  5: 6806 # 10-player Heroic
+  6: 7957 # 25-player Heroic
+  7: 6993 # LFR
+
+741: # Wind Lord Mel'jarak
+  3: 6807 # 10-player Normal
+  4: 7958 # 25-player Normal
+  5: 6808 # 10-player Heroic
+  6: 7960 # 25-player Heroic
+  7: 6994 # LFR
+
+737: # Amber-Shaper Un'sok
+  3: 6809 # 10-player Normal
+  4: 7961 # 25-player Normal
+  5: 6810 # 10-player Heroic
+  6: 7962 # 25-player Heroic
+  7: 6995 # LFR
+
+743: # Grand Empress Shek'zeer
+  3: 6811 # 10-player Normal
+  4: 7963 # 25-player Normal
+  5: 6812 # 10-player Heroic
+  6: 7964 # 25-player Heroic
+  7: 6996 # LFR
+
+##################################################
+# 362 Throne of Thunder
+##################################################
+
+827: # Jin'rokh the Breaker
+  3: 8142 # 10-player Normal
+  4: 8143 # 25-player Normal
+  5: 8144 # 10-player Heroic
+  6: 8145 # 25-player Heroic
+  7: 8141 # LFR
+
+819: # Horridon
+  3: 8149 # 10-player Normal
+  4: 8150 # 25-player Normal
+  5: 8151 # 10-player Heroic
+  6: 8152 # 25-player Heroic
+  7: 8148 # LFR
+
+816: # Council of Elders
+  3: 8154 # 10-player Normal
+  4: 8155 # 25-player Normal
+  5: 8156 # 10-player Heroic
+  6: 8157 # 25-player Heroic
+  7: 8153 # LFR
+
+825: # Tortos
+  3: 8159 # 10-player Normal
+  4: 8160 # 25-player Normal
+  5: 8162 # 10-player Heroic
+  6: 8161 # 25-player Heroic
+  7: 8158 # LFR
+
+821: # Megaera
+  3: 8164 # 10-player Normal
+  4: 8165 # 25-player Normal
+  5: 8166 # 10-player Heroic
+  6: 8167 # 25-player Heroic
+  7: 8163 # LFR
+
+828: # Ji-Kun
+  3: 8169 # 10-player Normal
+  4: 8170 # 25-player Normal
+  5: 8171 # 10-player Heroic
+  6: 8172 # 25-player Heroic
+  7: 8168 # LFR
+
+818: # Durumu the Forgotten
+  3: 8174 # 10-player Normal
+  4: 8175 # 25-player Normal
+  5: 8176 # 10-player Heroic
+  6: 8177 # 25-player Heroic
+  7: 8173 # LFR
+
+820: # Primordius
+  3: 8179 # 10-player Normal
+  4: 8182 # 25-player Normal
+  5: 8181 # 10-player Heroic
+  6: 8180 # 25-player Heroic
+  7: 8178 # LFR
+
+824: # Dark Animus
+  3: 8184 # 10-player Normal
+  4: 8185 # 25-player Normal
+  5: 8186 # 10-player Heroic
+  6: 8187 # 25-player Heroic
+  7: 8183 # LFR
+
+817: # Iron Qon
+  3: 8189 # 10-player Normal
+  4: 8190 # 25-player Normal
+  5: 8191 # 10-player Heroic
+  6: 8192 # 25-player Heroic
+  7: 8188 # LFR
+
+832: # Lei Shen
+  3: 8199 # 10-player Normal
+  4: 8200 # 25-player Normal
+  5: 8202 # 10-player Heroic
+  6: 8201 # 25-player Heroic
+  7: 8198 # LFR
+
+##################################################
+# 369 Siege of Orgrimmar
+##################################################
+
+867: # Sha of Pride
+  3: 8569 # 10-player Normal
+  4: 8570 # 25-player Normal
+  5: 8571 # 10-player Heroic
+  6: 8573 # 25-player Heroic
+  7: 8567 # LFR
+
+868: # Galakras
+  3: 8576 # 10-player Normal
+  4: 8577 # 25-player Normal
+  5: 8578 # 10-player Heroic
+  6: 8579 # 25-player Heroic
+  7: 8574 # LFR
+
+881: # Galakras
+  3: 8576 # 10-player Normal
+  4: 8577 # 25-player Normal
+  5: 8578 # 10-player Heroic
+  6: 8579 # 25-player Heroic
+  7: 8574 # LFR
+
+864: # Iron Juggernaut
+  3: 8582 # 10-player Normal
+  4: 8583 # 25-player Normal
+  5: 8584 # 10-player Heroic
+  6: 8585 # 25-player Heroic
+  7: 8580 # LFR
+
+850: # General Nazgrim
+  3: 8595 # 10-player Normal
+  4: 8596 # 25-player Normal
+  5: 8597 # 10-player Heroic
+  6: 8598 # 25-player Heroic
+  7: 8593 # LFR
+
+846: # Malkorok
+  3: 8601 # 10-player Normal
+  4: 8602 # 25-player Normal
+  5: 8603 # 10-player Heroic
+  6: 8604 # 25-player Heroic
+  7: 8599 # LFR
+
+851: # Thok the Bloodthirsty
+  3: 8616 # 10-player Normal
+  4: 8617 # 25-player Normal
+  5: 8618 # 10-player Heroic
+  6: 8619 # 25-player Heroic
+  7: 8614 # LFR
+
+865: # Siegecrafter Blackfuse
+  3: 8622 # 10-player Normal
+  4: 8623 # 25-player Normal
+  5: 8624 # 10-player Heroic
+  6: 8625 # 25-player Heroic
+  7: 8620 # LFR
+
+853: # Paragons of the Klaxxi
+  3: 8628 # 10-player Normal
+  4: 8629 # 25-player Normal
+  5: 8630 # 10-player Heroic
+  6: 8631 # 25-player Heroic
+  7: 8626 # LFR
+
+##################################################
+# 385 Bloodmaul Slag Mines
+##################################################
+
+889: # Gug'rokk
+  9: 9258 # 40 player
+  15: 9259 # Heroic
+  16: 10192 # Mythic
+
+##################################################
+# 457 Blackrock Foundry
+##################################################
+
+1202: # Oregorger
+  14: 9321 # Normal
+  15: 9322 # Heroic
+  16: 9323 # Mythic
+  17: 9320 # Raid Finder
+
+1155: # Hans'gar and Franzok
+  14: 9327 # Normal
+  15: 9328 # Heroic
+  16: 9329 # Mythic
+  17: 9324 # Raid Finder
+
+1122: # Beastlord Darmac
+  14: 9336 # Normal
+  15: 9337 # Heroic
+  16: 9338 # Mythic
+  17: 9334 # Raid Finder
+
+1161: # Gruul
+  14: 9317 # Normal
+  15: 9318 # Heroic
+  16: 9319 # Mythic
+  17: 9316 # Raid Finder
+
+1123: # Flamebender Ka'graz
+  14: 9331 # Normal
+  15: 9332 # Heroic
+  16: 9333 # Mythic
+  17: 9330 # Raid Finder
+
+1147: # Operator Thogar
+  14: 9340 # Normal
+  15: 9341 # Heroic
+  16: 9342 # Mythic
+  17: 9339 # Raid Finder
+
+1162: # Kromog
+  14: 9355 # Normal
+  15: 9356 # Heroic
+  16: 9357 # Mythic
+  17: 9354 # Raid Finder
+
+##################################################
+# 476 Skyreach
+##################################################
+
+968: # High Sage Viryx
+  9: 9266 # 40 player
+  15: 9267 # Heroic
+  16: 10195 # Mythic
+
+##################################################
+# 477 Highmaul
+##################################################
+
+971: # The Butcher
+  14: 9287 # Normal
+  15: 9288 # Heroic
+  16: 9289 # Mythic
+  17: 9286 # Raid Finder
+
+1195: # Tectus
+  14: 9292 # Normal
+  15: 9293 # Heroic
+  16: 9294 # Mythic
+  17: 9290 # Raid Finder
+
+1196: # Brackenspore
+  14: 9297 # Normal
+  15: 9298 # Heroic
+  16: 9300 # Mythic
+  17: 9295 # Raid Finder
+
+1148: # Twin Ogron
+  14: 9302 # Normal
+  15: 9303 # Heroic
+  16: 9304 # Mythic
+  17: 9301 # Raid Finder
+
+1153: # Ko'ragh
+  14: 9308 # Normal
+  15: 9310 # Heroic
+  16: 9311 # Mythic
+  17: 9306 # Raid Finder
+
+1197: # Imperator Mar'gok
+  14: 9313 # Normal
+  15: 9314 # Heroic
+  16: 9315 # Mythic
+  17: 9312 # Raid Finder
+
+##################################################
+# 536 Grimrail Depot
+##################################################
+
+1133: # Skylord Tovra
+  9: 9268 # 40 player
+  15: 9269 # Heroic
+  16: 10196 # Mythic
+
+##################################################
+# 537 Shadowmoon Burial Grounds
+##################################################
+
+1160: # Ner'zhul
+  9: 9273 # 40 player
+  15: 9274 # Heroic
+  16: 10198 # Mythic
+
+##################################################
+# 547 Auchindoun
+##################################################
+
+1225: # Teron'gor
+  9: 9262 # 40 player
+  15: 9263 # Heroic
+  16: 10194 # Mythic
+
+##################################################
+# 556 The Everbloom
+##################################################
+
+1210: # Yalnu
+  9: 9271 # 40 player
+  15: 9272 # Heroic
+  16: 10197 # Mythic
+
+##################################################
+# 558 Iron Docks
+##################################################
+
+1238: # Skulloc
+  9: 9260 # 40 player
+  15: 9261 # Heroic
+  16: 10193 # Mythic
+
+##################################################
+# 559 Upper Blackrock Spire
+##################################################
+
+1234: # Warlord Zaela
+  9: 9275 # 40 player
+  15: 9276 # Heroic
+  16: 10199 # Mythic
+
+##################################################
+# 669 Hellfire Citadel
+##################################################
+
+1425: # Iron Reaver
+  14: 10206 # Normal
+  15: 10207 # Heroic
+  16: 10208 # Mythic
+  17: 10205 # Raid Finder
+
+1392: # Kormrok
+  14: 10210 # Normal
+  15: 10211 # Heroic
+  16: 10212 # Mythic
+  17: 10209 # Raid Finder
+
+1432: # Hellfire High Council
+  14: 10214 # Normal
+  15: 10215 # Heroic
+  16: 10216 # Mythic
+  17: 10213 # Raid Finder
+
+1396: # Kilrogg Deadeye
+  14: 10218 # Normal
+  15: 10219 # Heroic
+  16: 10220 # Mythic
+  17: 10217 # Raid Finder
+
+1372: # Gorefiend
+  14: 10222 # Normal
+  15: 10223 # Heroic
+  16: 10224 # Mythic
+  17: 10221 # Raid Finder
+
+1433: # Shadow-Lord Iskar
+  14: 10226 # Normal
+  15: 10227 # Heroic
+  16: 10228 # Mythic
+  17: 10225 # Raid Finder
+
+1427: # Socrethar the Eternal
+  14: 10230 # Normal
+  15: 10231 # Heroic
+  16: 10232 # Mythic
+  17: 10229 # Raid Finder
+
+1391: # Fel Lord Zakuun
+  14: 10234 # Normal
+  15: 10235 # Heroic
+  16: 10236 # Mythic
+  17: 10233 # Raid Finder
+
+1447: # Xhul'horac
+  14: 10238 # Normal
+  15: 10239 # Heroic
+  16: 10240 # Mythic
+  17: 10237 # Raid Finder
+
+1394: # Tyrant Velhari
+  14: 10242 # Normal
+  15: 10243 # Heroic
+  16: 10244 # Mythic
+  17: 10241 # Raid Finder
+
+1395: # Mannoroth
+  14: 10246 # Normal
+  15: 10247 # Heroic
+  16: 10248 # Mythic
+  17: 10245 # Raid Finder
+
+1438: # Archimonde
+  14: 10250 # Normal
+  15: 10251 # Heroic
+  16: 10252 # Mythic
+  17: 10249 # Raid Finder
+
+##################################################
+# 707 Vault of the Wardens
+##################################################
+
+1470: # Cordana Felsong
+  14: 10896 # Normal
+  15: 10897 # Heroic
+  16: 10898 # Mythic
+
+##################################################
+# 716 Eye of Azshara
+##################################################
+
+1492: # Wrath of Azshara
+  14: 10878 # Normal
+  15: 10879 # Heroic
+  16: 10880 # Mythic
+
+##################################################
+# 741 Molten Core
+##################################################
+
+1528: # Ragnaros
+  9: 1099 # 40 player
+
+##################################################
+# 742 Blackwing Lair
+##################################################
+
+1536: # Nefarian
+  9: 1100 # 40 player
+
+##################################################
+# 744 Temple of Ahn'Qiraj
+##################################################
+
+1551: # C'Thun
+  9: 1101 # 40 player
+
+##################################################
+# 745 Karazhan
+##################################################
+
+1563: # Prince Malchezaar
+  9: 1083 # 40 player
+
+##################################################
+# 747 Magtheridon's Lair
+##################################################
+
+1566: # Magtheridon
+  9: 1086 # 40 player
+
+##################################################
+# 748 Serpentshrine Cavern
+##################################################
+
+1572: # Lady Vashj
+  9: 1087 # 40 player
+
+##################################################
+# 752 Sunwell Plateau
+##################################################
+
+1596: # Kil'jaeden
+  9: 1090 # 40 player
+
+##################################################
+# 760 Onyxia's Lair
+##################################################
+
+1651: # Onyxia
+  9: 1098 # 40 player
+
+##################################################
+# 762 Darkheart Thicket
+##################################################
+
+1657: # Shade of Xavius
+  14: 10881 # Normal
+  15: 10882 # Heroic
+  16: 10883 # Mythic
+
+##################################################
+# 777 Assault on Violet Hold
+##################################################
+
+1697: # Sael'orn
+  14: 10893 # Normal
+  15: 10894 # Heroic
+  16: 10895 # Mythic
+
+1711: # Fel Lord Betrug
+  14: 10890 # Normal
+  15: 10891 # Heroic
+  16: 10892 # Mythic
+
+##################################################
+# 800 Court of Stars
+##################################################
+
+1720: # Advisor Melandrus
+  16: 10910 # Mythic
+
+##################################################
+# 860 Return to Karazhan
+##################################################
+
+1838: # Viz'aduum the Watcher
+  9: 11406 # 40 player
+
+##################################################
+# 861 Trial of Valor
+##################################################
+
+1830: # Guarm
+  14: 11412 # Normal
+  15: 11413 # Heroic
+  16: 11414 # Mythic
+  17: 11411 # Raid Finder
+
+1829: # Helya
+  14: 11416 # Normal
+  15: 11417 # Heroic
+  16: 11418 # Mythic
+  17: 11415 # Raid Finder
+
+##################################################
+# 875 Tomb of Sargeras
+##################################################
+
+1862: # Goroth
+  14: 11878 # Normal
+  15: 11879 # Heroic
+  16: 11880 # Mythic
+  17: 11877 # Raid Finder
+
+1867: # Demonic Inquisition
+  14: 11882 # Normal
+  15: 11883 # Heroic
+  16: 11884 # Mythic
+  17: 11881 # Raid Finder
+
+1856: # Harjatan
+  14: 11886 # Normal
+  15: 11887 # Heroic
+  16: 11888 # Mythic
+  17: 11885 # Raid Finder
+
+1903: # Sisters of the Moon
+  14: 11890 # Normal
+  15: 11891 # Heroic
+  16: 11892 # Mythic
+  17: 11889 # Raid Finder
+
+1861: # Mistress Sassz'ine
+  14: 11894 # Normal
+  15: 11895 # Heroic
+  16: 11896 # Mythic
+  17: 11893 # Raid Finder
+
+1896: # The Desolate Host
+  14: 11898 # Normal
+  15: 11899 # Heroic
+  16: 11900 # Mythic
+  17: 11897 # Raid Finder
+
+1897: # Maiden of Vigilance
+  14: 11902 # Normal
+  15: 11903 # Heroic
+  16: 11904 # Mythic
+  17: 11901 # Raid Finder
+
+1873: # Fallen Avatar
+  14: 11906 # Normal
+  15: 11907 # Heroic
+  16: 11908 # Mythic
+  17: 11905 # Raid Finder
+
+1898: # Kil'jaeden
+  14: 11910 # Normal
+  15: 11911 # Heroic
+  16: 11912 # Mythic
+  17: 11909 # Raid Finder
+
+##################################################
+# 900 Cathedral of Eternal Night
+##################################################
+
+1878: # Mephistroth
+  15: 12610 # Heroic
+  16: 12611 # Mythic
+
+##################################################
+# 945 Seat of the Triumvirate
+##################################################
+
+1982: # L'ura
+  15: 12612 # Heroic
+  16: 12613 # Mythic
+
+##################################################
+# 946 Antorus, the Burning Throne
+##################################################
+
+1992: # Garothi Worldbreaker
+  14: 11954 # Normal
+  15: 11955 # Heroic
+  16: 11956 # Mythic
+  17: 12117 # Raid Finder
+
+1997: # Antoran High Command
+  14: 11960 # Normal
+  15: 11961 # Heroic
+  16: 11962 # Mythic
+  17: 12119 # Raid Finder
+
+1985: # Portal Keeper Hasabel
+  14: 11963 # Normal
+  15: 11964 # Heroic
+  16: 11965 # Mythic
+  17: 12120 # Raid Finder
+
+2009: # Imonar the Soulhunter
+  14: 11969 # Normal
+  15: 11970 # Heroic
+  16: 11971 # Mythic
+  17: 12122 # Raid Finder
+
+2004: # Kin'garoth
+  14: 11972 # Normal
+  15: 11973 # Heroic
+  16: 11974 # Mythic
+  17: 12123 # Raid Finder
+
+1983: # Varimathras
+  14: 11975 # Normal
+  15: 11976 # Heroic
+  16: 11977 # Mythic
+  17: 12124 # Raid Finder
+
+1986: # The Coven of Shivarra
+  14: 11978 # Normal
+  15: 11979 # Heroic
+  16: 11980 # Mythic
+  17: 12125 # Raid Finder
+
+1984: # Aggramar
+  14: 11981 # Normal
+  15: 11982 # Heroic
+  16: 11983 # Mythic
+  17: 12126 # Raid Finder
+
+2031: # Argus the Unmaker
+  14: 11984 # Normal
+  15: 11985 # Heroic
+  16: 11986 # Mythic
+  17: 12127 # Raid Finder
+
+##################################################
+# 968 Atal'Dazar
+##################################################
+
+2030: # Yazma
+  14: 12720 # Normal
+  15: 12748 # Heroic
+  16: 12749 # Mythic
+
+##################################################
+# 1001 Freehold
+##################################################
+
+2095: # Harlan Sweete
+  14: 12750 # Normal
+  15: 12751 # Heroic
+  16: 12752 # Mythic
+
+##################################################
+# 1002 Tol Dagor
+##################################################
+
+2096: # Overseer Korgus
+  14: 12780 # Normal
+  15: 12781 # Heroic
+  16: 12782 # Mythic
+
+##################################################
+# 1012 The MOTHERLODE!!
+##################################################
+
+2116: # Mogul Razdunk
+  14: 12777 # Normal
+  15: 12778 # Heroic
+  16: 12779 # Mythic
+
+##################################################
+# 1021 Waycrest Manor
+##################################################
+
+2129: # Gorak Tul
+  14: 12783 # Normal
+  15: 12784 # Heroic
+  16: 12785 # Mythic
+
+##################################################
+# 1022 The Underrot
+##################################################
+
+2158: # Unbound Abomination
+  14: 12728 # Normal
+  15: 12729 # Heroic
+  16: 12745 # Mythic
+
+##################################################
+# 1023 Siege of Boralus
+##################################################
+
+2140: # Viq'Goth
+  16: 12773 # Mythic
+
+##################################################
+# 1030 Temple of Sethraliss
+##################################################
+
+2145: # Avatar of Sethraliss
+  14: 12774 # Normal
+  15: 12775 # Heroic
+  16: 12776 # Mythic
+
+##################################################
+# 1031 Uldir
+##################################################
+
+2168: # Taloc
+  14: 12787 # Normal
+  15: 12788 # Heroic
+  16: 12789 # Mythic
+  17: 12786 # Raid Finder
+
+2167: # MOTHER
+  14: 12791 # Normal
+  15: 12792 # Heroic
+  16: 12793 # Mythic
+  17: 12790 # Raid Finder
+
+2146: # Fetid Devourer
+  14: 12795 # Normal
+  15: 12796 # Heroic
+  16: 12797 # Mythic
+  17: 12794 # Raid Finder
+
+2169: # Zek'voz, Herald of N'Zoth
+  14: 12799 # Normal
+  15: 12800 # Heroic
+  16: 12801 # Mythic
+  17: 12798 # Raid Finder
+
+2166: # Vectis
+  14: 12803 # Normal
+  15: 12804 # Heroic
+  16: 12805 # Mythic
+  17: 12802 # Raid Finder
+
+2195: # Zul, Reborn
+  14: 12809 # Normal
+  15: 12810 # Heroic
+  16: 12811 # Mythic
+  17: 12808 # Raid Finder
+
+2194: # Mythrax the Unraveler
+  14: 12814 # Normal
+  15: 12815 # Heroic
+  16: 12816 # Mythic
+  17: 12813 # Raid Finder
+
+2147: # G'huun
+  14: 12818 # Normal
+  15: 12819 # Heroic
+  16: 12820 # Mythic
+  17: 12817 # Raid Finder
+
+##################################################
+# 1036 Shrine of the Storm
+##################################################
+
+2156: # Vol'zith the Whisperer
+  14: 12766 # Normal
+  15: 12767 # Heroic
+  16: 12768 # Mythic
+
+##################################################
+# 1176 Battle of Dazar'alor
+##################################################
+
+2333: # Champion of the Light
+  14: 13329 # Normal
+  15: 13330 # Heroic
+  16: 13331 # Mythic
+  17: 13328 # Raid Finder
+
+2344: # Champion of the Light
+  14: 13329 # Normal
+  15: 13330 # Heroic
+  16: 13331 # Mythic
+  17: 13328 # Raid Finder
+
+2342: # Opulence
+  14: 13359 # Normal
+  15: 13361 # Heroic
+  16: 13362 # Mythic
+  17: 13358 # Raid Finder
+
+2330: # Conclave of the Chosen
+  14: 13364 # Normal
+  15: 13365 # Heroic
+  16: 13366 # Mythic
+  17: 13363 # Raid Finder
+
+2335: # King Rastakhan
+  14: 13368 # Normal
+  15: 13369 # Heroic
+  16: 13370 # Mythic
+  17: 13367 # Raid Finder
+
+2337: # Stormwall Blockade
+  14: 13376 # Normal
+  15: 13377 # Heroic
+  16: 13378 # Mythic
+  17: 13375 # Raid Finder
+
+2343: # Lady Jaina Proudmoore
+  14: 13380 # Normal
+  15: 13381 # Heroic
+  16: 13382 # Mythic
+  17: 13379 # Raid Finder
+
+##################################################
+# 1177 Crucible of Storms
+##################################################
+
+2328: # The Restless Cabal
+  14: 13405 # Normal
+  15: 13406 # Heroic
+  16: 13407 # Mythic
+  17: 13404 # Raid Finder
+
+2332: # Uu'nat, Harbinger of the Void
+  14: 13411 # Normal
+  15: 13412 # Heroic
+  16: 13413 # Mythic
+  17: 13408 # Raid Finder
+
+##################################################
+# 1178 Operation: Mechagon
+##################################################
+
+2331: # King Mechagon
+  16: 13620 # Mythic
+
+##################################################
+# 1180 Ny'alotha, the Waking City
+##################################################
+
+2368: # Wrathion, the Black Emperor
+  14: 14079 # Normal
+  15: 14080 # Heroic
+  16: 14082 # Mythic
+  17: 14078 # Raid Finder
+
+2365: # Maut
+  14: 14091 # Normal
+  15: 14093 # Heroic
+  16: 14094 # Mythic
+  17: 14089 # Raid Finder
+
+2369: # The Prophet Skitra
+  14: 14096 # Normal
+  15: 14097 # Heroic
+  16: 14098 # Mythic
+  17: 14095 # Raid Finder
+
+2377: # Dark Inquisitor Xanesh
+  14: 14102 # Normal
+  15: 14104 # Heroic
+  16: 14105 # Mythic
+  17: 14101 # Raid Finder
+
+2372: # The Hivemind
+  15: 14109 # Heroic
+  16: 14110 # Mythic
+  17: 14107 # Raid Finder
+
+2367: # Shad'har the Insatiable
+  14: 14112 # Normal
+  15: 14114 # Heroic
+  16: 14115 # Mythic
+  17: 14111 # Raid Finder
+
+2373: # Drest'agath
+  14: 14118 # Normal
+  15: 14119 # Heroic
+  16: 14120 # Mythic
+  17: 14117 # Raid Finder
+
+2370: # Vexiona
+  14: 14124 # Normal
+  15: 14125 # Heroic
+  16: 14126 # Mythic
+  17: 14123 # Raid Finder
+
+2364: # Ra-den the Despoiled
+  14: 14128 # Normal
+  15: 14129 # Heroic
+  16: 14130 # Mythic
+  17: 14127 # Raid Finder
+
+2366: # Carapace of N'Zoth
+  14: 14132 # Normal
+  15: 14133 # Heroic
+  16: 14134 # Mythic
+  17: 14131 # Raid Finder
+
+2375: # N'Zoth the Corruptor
+  14: 14136 # Normal
+  15: 14137 # Heroic
+  16: 14138 # Mythic
+  17: 14135 # Raid Finder
+
+##################################################
+# 1182 The Necrotic Wake
+##################################################
+
+2396: # Nalthor the Rimebinder
+  14: 14402 # Normal
+  15: 14403 # Heroic
+  16: 14404 # Mythic
+
+##################################################
+# 1183 Plaguefall
+##################################################
+
+2404: # Margrave Stradama
+  14: 14396 # Normal
+  15: 14397 # Heroic
+  16: 14398 # Mythic
+
+##################################################
+# 1184 Mists of Tirna Scithe
+##################################################
+
+2405: # Tred'ova
+  14: 14393 # Normal
+  15: 14394 # Heroic
+  16: 14395 # Mythic
+
+##################################################
+# 1185 Halls of Atonement
+##################################################
+
+2413: # Lord Chamberlain
+  14: 14390 # Normal
+  15: 14391 # Heroic
+  16: 14392 # Mythic
+
+##################################################
+# 1189 Sanguine Depths
+##################################################
+
+2407: # General Kaal
+  14: 14201 # Normal
+  15: 14202 # Heroic
+  16: 14205 # Mythic
+
+##################################################
+# 1194 Tazavesh, the Veiled Market
+##################################################
+
+2455: # So'leah
+  9: 15168 # 40 player
+
+##################################################
+# 1196 Brackenhide Hollow
+##################################################
+
+2474: # Decatriarch Wratheye
+  14: 16074 # Normal
+  15: 16075 # Heroic
+  16: 16076 # Mythic
+
+##################################################
+# 1197 Uldaman: Legacy of Tyr
+##################################################
+
+2479: # Chrono-Lord Deios
+  14: 16095 # Normal
+  15: 16096 # Heroic
+  16: 16097 # Mythic
+
+##################################################
+# 1198 The Nokhud Offensive
+##################################################
+
+2477: # Balakar Khan
+  14: 16092 # Normal
+  15: 16093 # Heroic
+  16: 16094 # Mythic
+
+##################################################
+# 1199 Neltharus
+##################################################
+
+2501: # Warlord Sargha
+  14: 16080 # Normal
+  15: 16081 # Heroic
+  16: 16082 # Mythic
+
+##################################################
+# 1200 Vault of the Incarnates
+##################################################
+
+2480: # Eranog
+  14: 16371 # Normal
+  15: 16379 # Heroic
+  16: 16387 # Mythic
+  17: 16359 # Raid Finder
+
+2500: # Terros
+  14: 16372 # Normal
+  15: 16380 # Heroic
+  16: 16388 # Mythic
+  17: 16361 # Raid Finder
+
+2486: # The Primal Council
+  14: 16373 # Normal
+  15: 16381 # Heroic
+  16: 16389 # Mythic
+  17: 16362 # Raid Finder
+
+2502: # Dathea, Ascended
+  14: 16375 # Normal
+  15: 16383 # Heroic
+  16: 16391 # Mythic
+  17: 16367 # Raid Finder
+
+2491: # Kurog Grimtotem
+  14: 16376 # Normal
+  15: 16384 # Heroic
+  16: 16392 # Mythic
+  17: 16368 # Raid Finder
+
+2493: # Broodkeeper Diurna
+  14: 16377 # Normal
+  15: 16385 # Heroic
+  16: 16393 # Mythic
+  17: 16369 # Raid Finder
+
+##################################################
+# 1201 Algeth'ar Academy
+##################################################
+
+2514: # Echo of Doragosa
+  14: 16086 # Normal
+  15: 16087 # Heroic
+  16: 16088 # Mythic
+
+##################################################
+# 1202 Ruby Life Pools
+##################################################
+
+2503: # Kyrakka and Erkhart Stormvein
+  14: 16083 # Normal
+  15: 16084 # Heroic
+  16: 16085 # Mythic
+
+##################################################
+# 1204 Halls of Infusion
+##################################################
+
+2511: # Primal Tsunami
+  14: 16077 # Normal
+  15: 16078 # Heroic
+  16: 16079 # Mythic
+
+##################################################
+# 1208 Aberrus, the Shadowed Crucible
+##################################################
+
+2522: # Kazzara, the Hellforged
+  14: 18189 # Normal
+  15: 18210 # Heroic
+  16: 18219 # Mythic
+  17: 18180 # Raid Finder
+
+2529: # The Amalgamation Chamber
+  14: 18190 # Normal
+  15: 18211 # Heroic
+  16: 18220 # Mythic
+  17: 18181 # Raid Finder
+
+2530: # The Forgotten Experiments
+  14: 18191 # Normal
+  15: 18212 # Heroic
+  16: 18221 # Mythic
+  17: 18182 # Raid Finder
+
+2524: # Assault of the Zaqali
+  14: 18192 # Normal
+  15: 18213 # Heroic
+  16: 18222 # Mythic
+  17: 18183 # Raid Finder
+
+2525: # Rashok, the Elder
+  14: 18194 # Normal
+  15: 18214 # Heroic
+  16: 18223 # Mythic
+  17: 18184 # Raid Finder
+
+2532: # The Vigilant Steward, Zskarn
+  14: 18195 # Normal
+  15: 18215 # Heroic
+  16: 18224 # Mythic
+  17: 18185 # Raid Finder
+
+2527: # Magmorax
+  14: 18196 # Normal
+  15: 18216 # Heroic
+  16: 18225 # Mythic
+  17: 18186 # Raid Finder
+
+2523: # Echo of Neltharion
+  14: 18197 # Normal
+  15: 18217 # Heroic
+  16: 18226 # Mythic
+  17: 18188 # Raid Finder
+
+2520: # Scalecommander Sarkareth
+  14: 18198 # Normal
+  15: 18218 # Heroic
+  16: 18227 # Mythic
+  17: 18187 # Raid Finder
