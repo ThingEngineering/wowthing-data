@@ -949,229 +949,69 @@ groups:
   - Raid Finder
   data:
     cloth:
-    # Mythic set=2161
-    - name: Depraved Beguiler's Visage
-      wowheadSetId: 11931
-      items:
-        1:  43845 # Head
-        3:  43846 # Shoulders
-        5:  43836 43847 # Chest
-        6:  43843 # Waist
-        7:  43840 # Legs
-        8:  43837 # Feet
-        9:  43844 # Wrists
-        10: 43838 # Hands
-        16: 44053 # Back
+      # Depraved Beguiler's Visage [Mythic]
+      - transmogSetId: 2161
+        wowheadSetId: 11931
 
-    # Heroic set=2160
-    - name: Depraved Beguiler's Visage
-      wowheadSetId: 11933
-      items:
-        1:  44002 # Head
-        3:  44004 # Shoulders
-        5:  43998 43999 # Chest
-        6:  44005 # Waist
-        7:  44003 # Legs
-        8:  44000 # Feet
-        9:  44006 # Wrists
-        10: 44001 # Hands
-        16: 44054 # Back
+      # Depraved Beguiler's Visage [Heroic]
+      - transmogSetId: 2160
+        wowheadSetId: 11933
 
-    # Normal set=2158
-    - name: Depraved Beguiler's Visage
-      wowheadSetId: 11935
-      items:
-        1:  44024 # Head
-        3:  44026 # Shoulders
-        5:  44020 44021 # Chest
-        6:  44027 # Waist
-        7:  44025 # Legs
-        8:  44022 # Feet
-        9:  44028 # Wrists
-        10: 44023 # Hands
-        16: 44056 # Back
+      # Depraved Beguiler's Visage [Normal]
+      - transmogSetId: 2158
+        wowheadSetId: 11935
 
-    # Raid Finder set=2159
-    - name: Depraved Beguiler's Visage
-      wowheadSetId: 11937
-      items:
-        1:  44035 # Head
-        3:  44037 # Shoulders
-        5:  44031 44032 # Chest
-        6:  44038 # Waist
-        7:  44036 # Legs
-        8:  44033 # Feet
-        9:  44039 # Wrists
-        10: 44034 # Hands
-        16: 44057 # Back
+      # Depraved Beguiler's Visage [Raid Finder]
+      - transmogSetId: 2159
+        wowheadSetId: 11937
 
     leather:
-    # Mythic set=2165
-    - name: Sin Slayer's Leathers
-      wowheadSetId: 11927
-      items:
-        1:  43884 # Head
-        3:  43883 # Shoulders
-        5:  43853 # Chest
-        6:  43859 # Waist
-        7:  43857 # Legs
-        8:  43854 # Feet
-        9:  43860 # Wrists
-        10: 43855 # Hands
-        16: 44071 # Back
+      # Sin Slayer's Leathers [Mythic]
+      - transmogSetId: 2165
+        wowheadSetId: 11927
 
-    # Heroic set=2164
-    - name: Sin Slayer's Leathers
-      wowheadSetId: 11928
-      items:
-        1:  44105 # Head
-        3:  44122 # Shoulders
-        5:  44103 # Chest
-        6:  44107 # Waist
-        7:  44106 # Legs
-        8:  44104 # Feet
-        9:  44108 # Wrists
-        10: 44125 # Hands
-        16: 44109 # Back
+      # Sin Slayer's Leathers [Heroic]
+      - transmogSetId: 2164
+        wowheadSetId: 11928
 
-    # Normal set=2162
-    - name: Sin Slayer's Leathers
-      wowheadSetId: 11929
-      items:
-        1:  44075 # Head
-        3:  44077 # Shoulders
-        5:  44072 # Chest
-        6:  44078 # Waist
-        7:  44076 # Legs
-        8:  44073 # Feet
-        9:  44079 # Wrists
-        10: 44074 # Hands
-        16: 44082 # Back
+      # Sin Slayer's Leathers [Normal]
+      - transmogSetId: 2162
+        wowheadSetId: 11929
 
-    # Raid Finder set=2163
-    - name: Sin Slayer's Leathers
-      wowheadSetId: 11930
-      items:
-        1:  44096 # Head
-        3:  44121 # Shoulders
-        5:  44094 # Chest
-        6:  44098 # Waist
-        7:  44097 # Legs
-        8:  44095 # Feet
-        9:  44099 # Wrists
-        10: 44124 # Hands
-        16: 44100 # Back
+      # Sin Slayer's Leathers [Raid Finder]
+      - transmogSetId: 2163
+        wowheadSetId: 11930
 
     mail:
-    # Mythic set=2157
-    - name: Inexorable Castigator's Guise
-      wowheadSetId: 11923
-      items:
-        1:  43948 # Head
-        3:  43947 # Shoulders
-        5:  43937 # Chest
-        6:  43943 # Waist
-        7:  43946 # Legs
-        8:  43939 # Feet
-        9:  43945 # Wrists
-        10: 43940 # Hands
-        16: 44060 # Back
+      # Inexorable Castigator's Guise [Mythic]
+      - transmogSetId: 2157
+        wowheadSetId: 11923
 
-    # Heroic set=2156
-    - name: Inexorable Castigator's Guise
-      wowheadSetId: 11924
-      items:
-        1:  43965 # Head
-        3:  43966 # Shoulders
-        5:  43961 # Chest
-        6:  43967 # Waist
-        7:  43970 # Legs
-        8:  43963 # Feet
-        9:  43969 # Wrists
-        10: 43964 # Hands
-        16: 44062 # Back
+      # Inexorable Castigator's Guise [Heroic]
+      - transmogSetId: 2156
+        wowheadSetId: 11924
 
-    # Normal set=2154
-    - name: Inexorable Castigator's Guise
-      wowheadSetId: 11925
-      items:
-        1:  43989 # Head
-        3:  43990 # Shoulders
-        5:  43985 # Chest
-        6:  43991 # Waist
-        7:  43994 # Legs
-        8:  43987 # Feet
-        9:  43993 # Wrists
-        10: 43988 # Hands
-        16: 44064 # Back
+      # Inexorable Castigator's Guise [Normal]
+      - transmogSetId: 2154
+        wowheadSetId: 11925
 
-    # Raid Finder set=2155
-    - name: Inexorable Castigator's Guise
-      wowheadSetId: 11926
-      items:
-        1:  43977 # Head
-        3:  43978 # Shoulders
-        5:  43973 # Chest
-        6:  43979 # Waist
-        7:  43982 # Legs
-        8:  43975 # Feet
-        9:  43981 # Wrists
-        10: 43976 # Hands
-        16: 44063 # Back
+      # Inexorable Castigator's Guise [Raid Finder]
+      - transmogSetId: 2155
+        wowheadSetId: 11926
 
     plate:
-    # Mythic set=2153
-    - name: Grand Sentinel's Greatplate
-      wowheadSetId: 11919
-      items:
-        1:  43880 # Head
-        3:  43879 # Shoulders
-        5:  43871 # Chest
-        6:  43877 # Waist
-        7:  43875 # Legs
-        8:  43872 # Feet
-        9:  43878 # Wrists
-        10: 43873 # Hands
-        16: 44065 # Back
+      # Grand Sentinel's Greatplate [Mythic]
+      - transmogSetId: 2153
+        wowheadSetId: 11919
 
-    # Heroic set=2152
-    - name: Grand Sentinel's Greatplate
-      wowheadSetId: 11920
-      items:
-        1:  43890 # Head
-        3:  43892 # Shoulders
-        5:  43887 # Chest
-        6:  43893 # Waist
-        7:  43891 # Legs
-        8:  43888 # Feet
-        9:  43894 # Wrists
-        10: 43889 # Hands
-        16: 44066 # Back
+      # Grand Sentinel's Greatplate [Heroic]
+      - transmogSetId: 2152
+        wowheadSetId: 11920
 
-    # Normal set=2150
-    - name: Grand Sentinel's Greatplate
-      wowheadSetId: 11921
-      items:
-        1:  43920 # Head
-        3:  43922 # Shoulders
-        5:  43917 # Chest
-        6:  43923 # Waist
-        7:  43921 # Legs
-        8:  43918 # Feet
-        9:  43924 # Wrists
-        10: 43919 # Hands
-        16: 44069 # Back
+      # Grand Sentinel's Greatplate [Normal]
+      - transmogSetId: 2150
+        wowheadSetId: 11921
 
-    # Raid Finder set=2151
-    - name: Grand Sentinel's Greatplate
-      wowheadSetId: 11922
-      items:
-        1:  43910 # Head
-        3:  43912 # Shoulders
-        5:  43907 # Chest
-        6:  43913 # Waist
-        7:  43911 # Legs
-        8:  43908 # Feet
-        9:  43914 # Wrists
-        10: 43909 # Hands
-        16: 44068 # Back
+      # Grand Sentinel's Greatplate [Raid Finder]
+      - transmogSetId: 2151
+        wowheadSetId: 11922
