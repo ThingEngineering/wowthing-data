@@ -1,0 +1,51 @@
+##################################################
+# 1200 Vault of the Incarnates
+##################################################
+
+2480: # Eranog
+  14: 16371 # Normal
+  15: 16379 # Heroic
+  16: 16387 # Mythic
+  17: 16359 # Raid Finder
+
+2500: # Terros
+  14: 16372 # Normal
+  15: 16380 # Heroic
+  16: 16388 # Mythic
+  17: 16361 # Raid Finder
+
+2486: # The Primal Council
+  14: 16373 # Normal
+  15: 16381 # Heroic
+  16: 16389 # Mythic
+  17: 16362 # Raid Finder
+
+2482: # Sennarth, the Cold Breath
+  14: 16374 # Normal
+  15: 16382 # Heroic
+  16: 16390 # Mythic
+  17: 16366 # Raid Finder
+
+2502: # Dathea, Ascended
+  14: 16375 # Normal
+  15: 16383 # Heroic
+  16: 16391 # Mythic
+  17: 16367 # Raid Finder
+
+2491: # Kurog Grimtotem
+  14: 16376 # Normal
+  15: 16384 # Heroic
+  16: 16392 # Mythic
+  17: 16368 # Raid Finder
+
+2493: # Broodkeeper Diurna
+  14: 16377 # Normal
+  15: 16385 # Heroic
+  16: 16393 # Mythic
+  17: 16369 # Raid Finder
+
+2499: # Raszageth
+  14: 16378 # Normal
+  15: 16386 # Heroic
+  16: 16394 # Mythic
+  17: 16370 # Raid Finder
