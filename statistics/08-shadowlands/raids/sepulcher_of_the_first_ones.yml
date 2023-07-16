@@ -1,0 +1,57 @@
+##################################################
+# 1195 Sepulcher of the First Ones
+##################################################
+
+2458: # Vigilant Guardian
+  14: 15425 # Normal
+  15: 15426 # Heroic
+  16: 15427 # Mythic
+  17: 15424 # Raid Finder
+
+2465: # Skolex, the Insatiable Ravener
+  14: 15429 # Normal
+  15: 15430 # Heroic
+  16: 15431 # Mythic
+  17: 15428 # Raid Finder
+
+2470: # Artificer Xy'mox
+  14: 15433 # Normal
+  15: 15434 # Heroic
+  16: 15435 # Mythic
+  17: 15432 # Raid Finder
+
+2459: # Dausegne, the Fallen Oracle
+  14: 15437 # Normal
+  15: 15438 # Heroic
+  16: 15439 # Mythic
+  17: 15436 # Raid Finder
+
+2460: # Prototype Pantheon
+  14: 15441 # Normal
+  15: 15442 # Heroic
+  16: 15443 # Mythic
+  17: 15440 # Raid Finder
+
+2461: # Lihuvim, Principal Architect
+  14: 15445 # Normal
+  15: 15446 # Heroic
+  16: 15447 # Mythic
+  17: 15444 # Raid Finder
+
+2457: # Lords of Dread
+  14: 15457 # Normal
+  15: 15458 # Heroic
+  16: 15459 # Mythic
+  17: 15456 # Raid Finder
+
+2467: # Rygelon
+  14: 15461 # Normal
+  15: 15462 # Heroic
+  16: 15463 # Mythic
+  17: 15460 # Raid Finder
+
+2464: # The Jailer
+  14: 15465 # Normal
+  15: 15466 # Heroic
+  16: 15467 # Mythic
+  17: 15464 # Raid Finder

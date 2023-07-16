@@ -1,0 +1,57 @@
+##################################################
+# 1176 Battle of Dazar'alor
+##################################################
+
+2333: # Champion of the Light
+  14: 13329 # Normal
+  15: 13330 # Heroic
+  16: 13331 # Mythic
+  17: 13328 # Raid Finder
+
+2344: # Champion of the Light
+  14: 13329 # Normal
+  15: 13330 # Heroic
+  16: 13331 # Mythic
+  17: 13328 # Raid Finder
+
+2325: # Grong, the Jungle Lord
+  14: 13333 13346 # Normal
+  15: 13334 13347 # Heroic
+  16: 13336 13348 # Mythic
+  17: 13332 13344 # Raid Finder
+
+2340: # Grong, the Revenant
+  14: 13333 13346 # Normal
+  15: 13334 13347 # Heroic
+  16: 13336 13348 # Mythic
+  17: 13332 13344 # Raid Finder
+
+2342: # Opulence
+  14: 13359 # Normal
+  15: 13361 # Heroic
+  16: 13362 # Mythic
+  17: 13358 # Raid Finder
+
+2330: # Conclave of the Chosen
+  14: 13364 # Normal
+  15: 13365 # Heroic
+  16: 13366 # Mythic
+  17: 13363 # Raid Finder
+
+2335: # King Rastakhan
+  14: 13368 # Normal
+  15: 13369 # Heroic
+  16: 13370 # Mythic
+  17: 13367 # Raid Finder
+
+2337: # Stormwall Blockade
+  14: 13376 # Normal
+  15: 13377 # Heroic
+  16: 13378 # Mythic
+  17: 13375 # Raid Finder
+
+2343: # Lady Jaina Proudmoore
+  14: 13380 # Normal
+  15: 13381 # Heroic
+  16: 13382 # Mythic
+  17: 13379 # Raid Finder

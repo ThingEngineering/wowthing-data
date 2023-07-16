@@ -1,0 +1,74 @@
+##################################################
+# 1180 Ny'alotha, the Waking City
+##################################################
+
+2368: # Wrathion, the Black Emperor
+  14: 14079 # Normal
+  15: 14080 # Heroic
+  16: 14082 # Mythic
+  17: 14078 # Raid Finder
+
+2365: # Maut
+  14: 14091 # Normal
+  15: 14093 # Heroic
+  16: 14094 # Mythic
+  17: 14089 # Raid Finder
+
+2369: # The Prophet Skitra
+  14: 14096 # Normal
+  15: 14097 # Heroic
+  16: 14098 # Mythic
+  17: 14095 # Raid Finder
+
+2377: # Dark Inquisitor Xanesh
+  14: 14102 # Normal
+  15: 14104 # Heroic
+  16: 14105 # Mythic
+  17: 14101 # Raid Finder
+
+2372: # The Hivemind
+  15: 14109 # Heroic
+  16: 14110 # Mythic
+  17: 14107 # Raid Finder
+
+2367: # Shad'har the Insatiable
+  14: 14112 # Normal
+  15: 14114 # Heroic
+  16: 14115 # Mythic
+  17: 14111 # Raid Finder
+
+2373: # Drest'agath
+  14: 14118 # Normal
+  15: 14119 # Heroic
+  16: 14120 # Mythic
+  17: 14117 # Raid Finder
+
+2374: # Il'gynoth, Corruption Reborn
+  14: 14208 # Normal
+  15: 14210 # Heroic
+  16: 14211 # Mythic
+  17: 14207 # Raid Finder
+
+2370: # Vexiona
+  14: 14124 # Normal
+  15: 14125 # Heroic
+  16: 14126 # Mythic
+  17: 14123 # Raid Finder
+
+2364: # Ra-den the Despoiled
+  14: 14128 # Normal
+  15: 14129 # Heroic
+  16: 14130 # Mythic
+  17: 14127 # Raid Finder
+
+2366: # Carapace of N'Zoth
+  14: 14132 # Normal
+  15: 14133 # Heroic
+  16: 14134 # Mythic
+  17: 14131 # Raid Finder
+
+2375: # N'Zoth the Corruptor
+  14: 14136 # Normal
+  15: 14137 # Heroic
+  16: 14138 # Mythic
+  17: 14135 # Raid Finder

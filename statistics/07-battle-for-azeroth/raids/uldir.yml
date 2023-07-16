@@ -1,0 +1,51 @@
+##################################################
+# 1031 Uldir
+##################################################
+
+2168: # Taloc
+  14: 12787 # Normal
+  15: 12788 # Heroic
+  16: 12789 # Mythic
+  17: 12786 # Raid Finder
+
+2167: # MOTHER
+  14: 12791 # Normal
+  15: 12792 # Heroic
+  16: 12793 # Mythic
+  17: 12790 # Raid Finder
+
+2146: # Fetid Devourer
+  14: 12795 # Normal
+  15: 12796 # Heroic
+  16: 12797 # Mythic
+  17: 12794 # Raid Finder
+
+2169: # Zek'voz, Herald of N'Zoth
+  14: 12799 # Normal
+  15: 12800 # Heroic
+  16: 12801 # Mythic
+  17: 12798 # Raid Finder
+
+2166: # Vectis
+  14: 12803 # Normal
+  15: 12804 # Heroic
+  16: 12805 # Mythic
+  17: 12802 # Raid Finder
+
+2195: # Zul, Reborn
+  14: 12809 # Normal
+  15: 12810 # Heroic
+  16: 12811 # Mythic
+  17: 12808 # Raid Finder
+
+2194: # Mythrax the Unraveler
+  14: 12814 # Normal
+  15: 12815 # Heroic
+  16: 12816 # Mythic
+  17: 12813 # Raid Finder
+
+2147: # G'huun
+  14: 12818 # Normal
+  15: 12819 # Heroic
+  16: 12820 # Mythic
+  17: 12817 # Raid Finder
