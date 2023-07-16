@@ -3,6 +3,7 @@ skipClasses:
 - evoker
 groups:
 
+# group 192
 - name: Sepulcher of the First Ones
   tag: T22
   type: class
@@ -13,689 +14,210 @@ groups:
   - Raid Finder
   data:
     death-knight:
-    # Mythic set=2351
-    - name: The First Eidolon's Soulsteel
-      wowheadSetId: 12084
-      items:
-        1:  56976 # Head
-        3:  56977 # Shoulders
-        5:  56978 # Chest
-        6:  56979 # Waist
-        7:  56980 # Legs
-        8:  56981 # Feet
-        9:  56982 # Wrists
-        10: 56983 # Hands
-        16: 56984 # Back
+      # The First Eidolon's Soulsteel [Mythic]
+      - transmogSetId: 2351
+        wowheadSetId: 12084
 
-    # Heroic set=2350
-    - name: The First Eidolon's Soulsteel
-      wowheadSetId: 12083
-      items:
-        1:  56985 # Head
-        3:  56986 # Shoulders
-        5:  56987 # Chest
-        6:  56988 # Waist
-        7:  56989 # Legs
-        8:  56990 # Feet
-        9:  56991 # Wrists
-        10: 56992 # Hands
-        16: 56993 # Back
+      # The First Eidolon's Soulsteel [Heroic]
+      - transmogSetId: 2350
+        wowheadSetId: 12083
 
-    # Normal set=2348
-    - name: The First Eidolon's Soulsteel
-      wowheadSetId: 12082
-      items:
-        1:  56994 # Head
-        3:  56995 # Shoulders
-        5:  56996 # Chest
-        6:  56997 # Waist
-        7:  56998 # Legs
-        8:  56999 # Feet
-        9:  57000 # Wrists
-        10: 57001 # Hands
-        16: 57002 # Back
+      # The First Eidolon's Soulsteel [Normal]
+      - transmogSetId: 2348
+        wowheadSetId: 12082
 
-    # Raid Finder set=2349
-    - name: The First Eidolon's Soulsteel
-      wowheadSetId: 12081
-      items:
-        1:  56967 # Head
-        3:  56968 # Shoulders
-        5:  56969 # Chest
-        6:  56970 # Waist
-        7:  56971 # Legs
-        8:  56972 # Feet
-        9:  56973 # Wrists
-        10: 56974 # Hands
-        16: 56975 # Back
+      # The First Eidolon's Soulsteel [Raid Finder]
+      - transmogSetId: 2349
+        wowheadSetId: 12081
 
     demon-hunter:
-    # Mythic set=2357
-    - name: Mercurial Punisher's Painweave
-      wowheadSetId: 12097
-      items:
-        1:  56284 # Head
-        3:  56285 # Shoulders
-        5:  56286 # Chest
-        6:  56287 # Waist
-        7:  56288 # Legs
-        8:  56289 # Feet
-        9:  56290 # Wrists
-        10: 56291 # Hands
-        16: 56292 # Back
+      # Mercurial Punisher's Painweave [Mythic]
+      - transmogSetId: 2357
+        wowheadSetId: 12097
 
-    # Heroic set=2356
-    - name: Mercurial Punisher's Painweave
-      wowheadSetId: 12096
-      items:
-        1:  56293 # Head
-        3:  56294 # Shoulders
-        5:  56295 # Chest
-        6:  56296 # Waist
-        7:  56297 # Legs
-        8:  56298 # Feet
-        9:  56299 # Wrists
-        10: 56300 # Hands
-        16: 56301 # Back
+      # Mercurial Punisher's Painweave [Heroic]
+      - transmogSetId: 2356
+        wowheadSetId: 12096
 
-    # Normal set=2354
-    - name: Mercurial Punisher's Painweave
-      wowheadSetId: 12095
-      items:
-        1:  56309 # Head
-        3:  56310 # Shoulders
-        5:  56302 # Chest
-        6:  56303 # Waist
-        7:  56304 # Legs
-        8:  56305 # Feet
-        9:  56306 # Wrists
-        10: 56307 # Hands
-        16: 56308 # Back
+      # Mercurial Punisher's Painweave [Normal]
+      - transmogSetId: 2354
+        wowheadSetId: 12095
 
-    # Raid Finder set=2355
-    - name: Mercurial Punisher's Painweave
-      wowheadSetId: 12094
-      items:
-        1:  56275 # Head
-        3:  56276 # Shoulders
-        5:  56277 # Chest
-        6:  56278 # Waist
-        7:  56279 # Legs
-        8:  56280 # Feet
-        9:  56281 # Wrists
-        10: 56282 # Hands
-        16: 56283 # Back
+      # Mercurial Punisher's Painweave [Raid Finder]
+      - transmogSetId: 2355
+        wowheadSetId: 12094
 
     druid:
-    # Mythic set=2363
-    - name: Tapestry of the Fixed Stars
-      wowheadSetId: 12076
-      items:
-        1:  56179 # Head
-        3:  56180 # Shoulders
-        5:  56181 # Chest
-        6:  56182 # Waist
-        7:  56183 # Legs
-        8:  56184 # Feet
-        9:  56185 # Wrists
-        10: 56186 # Hands
-        16: 56187 # Back
+      # Tapestry of the Fixed Stars [Mythic]
+      - transmogSetId: 2363
+        wowheadSetId: 12076
 
-    # Heroic set=2362
-    - name: Tapestry of the Fixed Stars
-      wowheadSetId: 12075
-      items:
-        1:  56189 # Head
-        3:  56190 # Shoulders
-        5:  56191 # Chest
-        6:  56192 # Waist
-        7:  56193 # Legs
-        8:  56194 # Feet
-        9:  56195 # Wrists
-        10: 56196 # Hands
-        16: 56197 # Back
+      # Tapestry of the Fixed Stars [Heroic]
+      - transmogSetId: 2362
+        wowheadSetId: 12075
 
-    # Normal set=2360
-    - name: Tapestry of the Fixed Stars
-      wowheadSetId: 12074
-      items:
-        1:  56199 # Head
-        3:  56200 # Shoulders
-        5:  56201 # Chest
-        6:  56202 # Waist
-        7:  56203 # Legs
-        8:  56204 # Feet
-        9:  56205 # Wrists
-        10: 56206 # Hands
-        16: 56207 # Back
+      # Tapestry of the Fixed Stars [Normal]
+      - transmogSetId: 2360
+        wowheadSetId: 12074
 
-    # Raid Finder set=2361
-    - name: Tapestry of the Fixed Stars
-      wowheadSetId: 12073
-      items:
-        1:  56169 # Head
-        3:  56170 # Shoulders
-        5:  56171 # Chest
-        6:  56172 # Waist
-        7:  56173 # Legs
-        8:  56174 # Feet
-        9:  56175 # Wrists
-        10: 56176 # Hands
-        16: 56177 # Back
+      # Tapestry of the Fixed Stars [Raid Finder]
+      - transmogSetId: 2361
+        wowheadSetId: 12073
 
     hunter:
-    # Mythic set=2369
-    - name: Godstalker's Battlegear
-      wowheadSetId: 12105
-      items:
-        1:  56338 # Head
-        3:  56339 # Shoulders
-        5:  56340 # Chest
-        6:  56341 # Waist
-        7:  56342 # Legs
-        8:  56343 # Feet
-        9:  56344 # Wrists
-        10: 56345 # Hands
-        16: 56346 # Back
+      # Godstalker's Battlegear [Mythic]
+      - transmogSetId: 2369
+        wowheadSetId: 12105
 
-    # Heroic set=2368
-    - name: Godstalker's Battlegear
-      wowheadSetId: 12104
-      items:
-        1:  56347 # Head
-        3:  56348 # Shoulders
-        5:  56349 # Chest
-        6:  56350 # Waist
-        7:  56351 # Legs
-        8:  56352 # Feet
-        9:  56353 # Wrists
-        10: 56354 # Hands
-        16: 56355 # Back
+      # Godstalker's Battlegear [Heroic]
+      - transmogSetId: 2368
+        wowheadSetId: 12104
 
-    # Normal set=2366
-    - name: Godstalker's Battlegear
-      wowheadSetId: 12103
-      items:
-        1:  56356 # Head
-        3:  56357 # Shoulders
-        5:  56358 # Chest
-        6:  56359 # Waist
-        7:  56360 # Legs
-        8:  56361 # Feet
-        9:  56362 # Wrists
-        10: 56363 # Hands
-        16: 56364 # Back
+      # Godstalker's Battlegear [Normal]
+      - transmogSetId: 2366
+        wowheadSetId: 12103
 
-    # Raid Finder set=2367
-    - name: Godstalker's Battlegear
-      wowheadSetId: 12102
-      items:
-        1:  56329 # Head
-        3:  56330 # Shoulders
-        5:  56331 # Chest
-        6:  56332 # Waist
-        7:  56333 # Legs
-        8:  56334 # Feet
-        9:  56335 # Wrists
-        10: 56336 # Hands
-        16: 56337 # Back
+      # Godstalker's Battlegear [Raid Finder]
+      - transmogSetId: 2367
+        wowheadSetId: 12102
 
     mage:
-    # Mythic set=2375
-    - name: Erudite Occultist's Vestments
-      wowheadSetId: 12068
-      items:
-        1:  56624 # Head
-        3:  56625 # Shoulders
-        5:  56626 # Chest
-        6:  56627 # Waist
-        7:  56628 # Legs
-        8:  56629 # Feet
-        9:  56630 # Wrists
-        10: 56631 # Hands
-        16: 56632 # Back
+      # Erudite Occultist's Vestments [Mythic]
+      - transmogSetId: 2375
+        wowheadSetId: 12068
 
-    # Heroic set=2374
-    - name: Erudite Occultist's Vestments
-      wowheadSetId: 12067
-      items:
-        1:  56654 # Head
-        3:  56655 # Shoulders
-        5:  56656 # Chest
-        6:  56657 # Waist
-        7:  56658 # Legs
-        8:  56659 # Feet
-        9:  56660 # Wrists
-        10: 56661 # Hands
-        16: 56662 # Back
+      # Erudite Occultist's Vestments [Heroic]
+      - transmogSetId: 2374
+        wowheadSetId: 12067
 
-    # Normal set=2372
-    - name: Erudite Occultist's Vestments
-      wowheadSetId: 12066
-      items:
-        1:  56664 # Head
-        3:  56665 # Shoulders
-        5:  56666 # Chest
-        6:  56667 # Waist
-        7:  56668 # Legs
-        8:  56669 # Feet
-        9:  56670 # Wrists
-        10: 56671 # Hands
-        16: 56672 # Back
+      # Erudite Occultist's Vestments [Normal]
+      - transmogSetId: 2372
+        wowheadSetId: 12066
 
-    # Raid Finder set=2373
-    - name: Erudite Occultist's Vestments
-      wowheadSetId: 12065
-      items:
-        1:  56634 # Head
-        3:  56635 # Shoulders
-        5:  56636 # Chest
-        6:  56637 # Waist
-        7:  56638 # Legs
-        8:  56639 # Feet
-        9:  56640 # Wrists
-        10: 56641 # Hands
-        16: 56642 # Back
+      # Erudite Occultist's Vestments [Raid Finder]
+      - transmogSetId: 2373
+        wowheadSetId: 12065
 
     monk:
-    # Mythic set=2381
-    - name: Garb of the Grand Upwelling
-      wowheadSetId: 12093
-      items:
-        1:  56503 # Head
-        3:  56504 # Shoulders
-        5:  56505 # Chest
-        6:  56506 # Waist
-        7:  56507 # Legs
-        8:  56508 # Feet
-        9:  56509 # Wrists
-        10: 56510 # Hands
-        16: 56511 # Back
+      # Garb of the Grand Upwelling [Mythic]
+      - transmogSetId: 2381
+        wowheadSetId: 12093
 
-    # Heroic set=2380
-    - name: Garb of the Grand Upwelling
-      wowheadSetId: 12092
-      items:
-        1:  56512 # Head
-        3:  56513 # Shoulders
-        5:  56514 # Chest
-        6:  56515 # Waist
-        7:  56516 # Legs
-        8:  56517 # Feet
-        9:  56518 # Wrists
-        10: 56519 # Hands
-        16: 56520 # Back
+      # Garb of the Grand Upwelling [Heroic]
+      - transmogSetId: 2380
+        wowheadSetId: 12092
 
-    # Normal set=2378
-    - name: Garb of the Grand Upwelling
-      wowheadSetId: 12091
-      items:
-        1:  56521 # Head
-        3:  56522 # Shoulders
-        5:  56523 # Chest
-        6:  56524 # Waist
-        7:  56525 # Legs
-        8:  56526 # Feet
-        9:  56527 # Wrists
-        10: 56528 # Hands
-        16: 56529 # Back
+      # Garb of the Grand Upwelling [Normal]
+      - transmogSetId: 2378
+        wowheadSetId: 12091
 
-    # Raid Finder set=2379
-    - name: Garb of the Grand Upwelling
-      wowheadSetId: 12090
-      items:
-        1:  56494 # Head
-        3:  56495 # Shoulders
-        5:  56496 # Chest
-        6:  56497 # Waist
-        7:  56498 # Legs
-        8:  56499 # Feet
-        9:  56500 # Wrists
-        10: 56501 # Hands
-        16: 56502 # Back
+      # Garb of the Grand Upwelling [Raid Finder]
+      - transmogSetId: 2379
+        wowheadSetId: 12090
 
     paladin:
-    # Mythic set=2387
-    - name: Luminous Chevalier's Gallantry
-      wowheadSetId: 12060
-      items:
-        1:  57086 # Head
-        3:  57087 # Shoulders
-        5:  57088 # Chest
-        6:  57089 # Waist
-        7:  57090 # Legs
-        8:  57091 # Feet
-        9:  57092 # Wrists
-        10: 57093 # Hands
-        16: 57094 # Back
+      # Luminous Chevalier's Gallantry [Mythic]
+      - transmogSetId: 2387
+        wowheadSetId: 12060
 
-    # Heroic set=2386
-    - name: Luminous Chevalier's Gallantry
-      wowheadSetId: 12059
-      items:
-        1:  57095 # Head
-        3:  57096 # Shoulders
-        5:  57097 # Chest
-        6:  57098 # Waist
-        7:  57099 # Legs
-        8:  57100 # Feet
-        9:  57101 # Wrists
-        10: 57102 # Hands
-        16: 57103 # Back
+      # Luminous Chevalier's Gallantry [Heroic]
+      - transmogSetId: 2386
+        wowheadSetId: 12059
 
-    # Normal set=2384
-    - name: Luminous Chevalier's Gallantry
-      wowheadSetId: 12057
-      items:
-        1:  57104 # Head
-        3:  57105 # Shoulders
-        5:  57106 # Chest
-        6:  57107 # Waist
-        7:  57108 # Legs
-        8:  57109 # Feet
-        9:  57110 # Wrists
-        10: 57111 # Hands
-        16: 57112 # Back
+      # Luminous Chevalier's Gallantry [Normal]
+      - transmogSetId: 2384
+        wowheadSetId: 12058
 
-    # Raid Finder set=2385
-    - name: Luminous Chevalier's Gallantry
-      wowheadSetId: 12058
-      items:
-        1:  57077 # Head
-        3:  57078 # Shoulders
-        5:  57079 # Chest
-        6:  57080 # Waist
-        7:  57081 # Legs
-        8:  57082 # Feet
-        9:  57083 # Wrists
-        10: 57084 # Hands
-        16: 57085 # Back
+      # Luminous Chevalier's Gallantry [Raid Finder]
+      - transmogSetId: 2385
+        wowheadSetId: 12057
 
     priest:
-    # Mythic set=2393
-    - name: Habiliments of the Empyrean
-      wowheadSetId: 12064
-      items:
-        1:  55882 # Head
-        3:  55883 # Shoulders
-        5:  55884 55891 # Chest
-        6:  55885 # Waist
-        7:  55886 # Legs
-        8:  55887 # Feet
-        9:  55888 # Wrists
-        10: 55889 # Hands
-        16: 69755 # Back
+      # Habiliments of the Empyrean [Mythic]
+      - transmogSetId: 2393
+        wowheadSetId: 12064
 
-    # Heroic set=2392
-    - name: Habiliments of the Empyrean
-      wowheadSetId: 12063
-      items:
-        1:  55892 # Head
-        3:  55893 # Shoulders
-        5:  55894 55901 # Chest
-        6:  55895 # Waist
-        7:  55896 # Legs
-        8:  55897 # Feet
-        9:  55898 # Wrists
-        10: 55899 # Hands
-        16: 69752 # Back
+      # Habiliments of the Empyrean [Heroic]
+      - transmogSetId: 2392
+        wowheadSetId: 12063
 
-    # Normal set=2390
-    - name: Habiliments of the Empyrean
-      wowheadSetId: 12062
-      items:
-        1:  55902 # Head
-        3:  55903 # Shoulders
-        5:  55904 55911 # Chest
-        6:  55905 # Waist
-        7:  55906 # Legs
-        8:  55907 # Feet
-        9:  55908 # Wrists
-        10: 55909 # Hands
-        16: 69753 # Back
+      # Habiliments of the Empyrean [Normal]
+      - transmogSetId: 2390
+        wowheadSetId: 12062
 
-    # Raid Finder set=2391
-    - name: Habiliments of the Empyrean
-      wowheadSetId: 12061
-      items:
-        1:  55872 # Head
-        3:  55873 # Shoulders
-        5:  55874 55881 # Chest
-        6:  55875 # Waist
-        7:  55876 # Legs
-        8:  55877 # Feet
-        9:  55878 # Wrists
-        10: 55879 # Hands
-        16: 69751 # Back
+      # Habiliments of the Empyrean [Raid Finder]
+      - transmogSetId: 2391
+        wowheadSetId: 12061
 
     rogue:
-    # Mythic set=2399
-    - name: Soulblade Shadowhide
-      wowheadSetId: 12089
-      items:
-        1:  56087 # Head
-        3:  56088 # Shoulders
-        5:  56089 # Chest
-        6:  56090 # Waist
-        7:  56091 # Legs
-        8:  56092 # Feet
-        9:  56093 # Wrists
-        10: 56094 # Hands
-        16: 69770 # Back
+      # Soulblade Shadowhide [Mythic]
+      - transmogSetId: 2399
+        wowheadSetId: 12089
 
-    # Heroic set=2398
-    - name: Soulblade Shadowhide
-      wowheadSetId: 12088
-      items:
-        1:  56063 # Head
-        3:  56064 # Shoulders
-        5:  56065 # Chest
-        6:  56066 # Waist
-        7:  56067 # Legs
-        8:  56068 # Feet
-        9:  56069 # Wrists
-        10: 56070 # Hands
-        16: 69771 # Back
+      # Soulblade Shadowhide [Heroic]
+      - transmogSetId: 2398
+        wowheadSetId: 12088
 
-    # Normal set=2396
-    - name: Soulblade Shadowhide
-      wowheadSetId: 12087
-      items:
-        1:  57003 # Head
-        3:  57004 # Shoulders
-        5:  56041 # Chest
-        6:  56042 # Waist
-        7:  56043 # Legs
-        8:  56044 # Feet
-        9:  56045 # Wrists
-        10: 56046 # Hands
-        16: 69768 # Back
+      # Soulblade Shadowhide [Normal]
+      - transmogSetId: 2396
+        wowheadSetId: 12087
 
-    # Raid Finder set=2397
-    - name: Soulblade Shadowhide
-      wowheadSetId: 12086
-      items:
-        1:  56047 # Head
-        3:  56048 # Shoulders
-        5:  56049 # Chest
-        6:  56050 # Waist
-        7:  56051 # Legs
-        8:  56052 # Feet
-        9:  56053 # Wrists
-        10: 56054 # Hands
-        16: 69769 # Back
+      # Soulblade Shadowhide [Raid Finder]
+      - transmogSetId: 2397
+        wowheadSetId: 12086
 
     shaman:
-    # Mythic set=2405
-    - name: Theurgic Starspeaker's Regalia
-      wowheadSetId: 12101
-      items:
-        1:  56746 # Head
-        3:  56747 # Shoulders
-        5:  56748 # Chest
-        6:  56749 # Waist
-        7:  56750 # Legs
-        8:  56751 # Feet
-        9:  56752 # Wrists
-        10: 56753 # Hands
-        16: 56754 # Back
+      # Theurgic Starspeaker's Regalia [Mythic]
+      - transmogSetId: 2405
+        wowheadSetId: 12101
 
-    # Heroic set=2404
-    - name: Theurgic Starspeaker's Regalia
-      wowheadSetId: 12100
-      items:
-        1:  56764 # Head
-        3:  56765 # Shoulders
-        5:  56766 # Chest
-        6:  56767 # Waist
-        7:  56768 # Legs
-        8:  56769 # Feet
-        9:  56770 # Wrists
-        10: 56771 # Hands
-        16: 56772 # Back
+      # Theurgic Starspeaker's Regalia [Heroic]
+      - transmogSetId: 2404
+        wowheadSetId: 12100
 
-    # Normal set=2402
-    - name: Theurgic Starspeaker's Regalia
-      wowheadSetId: 12099
-      items:
-        1:  56728 # Head
-        3:  56729 # Shoulders
-        5:  56730 # Chest
-        6:  56731 # Waist
-        7:  56732 # Legs
-        8:  56733 # Feet
-        9:  56734 # Wrists
-        10: 56735 # Hands
-        16: 56736 # Back
+      # Theurgic Starspeaker's Regalia [Normal]
+      - transmogSetId: 2402
+        wowheadSetId: 12099
 
-    # Raid Finder set=2403
-    - name: Theurgic Starspeaker's Regalia
-      wowheadSetId: 12098
-      items:
-        1:  56755 # Head
-        3:  56756 # Shoulders
-        5:  56757 # Chest
-        6:  56758 # Waist
-        7:  56759 # Legs
-        8:  56760 # Feet
-        9:  56761 # Wrists
-        10: 56762 # Hands
-        16: 56763 # Back
+      # Theurgic Starspeaker's Regalia [Raid Finder]
+      - transmogSetId: 2403
+        wowheadSetId: 12098
 
     warlock:
-    # Mythic set=2411
-    - name: Shroud of the Demon Star
-      wowheadSetId: 12080
-      items:
-        1:  56005 # Head
-        3:  56006 # Shoulders
-        5:  56007 # Chest
-        6:  56008 # Waist
-        7:  56009 # Legs
-        8:  56010 # Feet
-        9:  56011 # Wrists
-        10: 56012 # Hands
-        16: 69759 # Back
+      # Shroud of the Demon Star [Mythic]
+      - transmogSetId: 2411
+        wowheadSetId: 12080
 
-    # Heroic set=2410
-    - name: Shroud of the Demon Star
-      wowheadSetId: 12079
-      items:
-        1:  56014 # Head
-        3:  56015 # Shoulders
-        5:  56016 # Chest
-        6:  56017 # Waist
-        7:  56018 # Legs
-        8:  56019 # Feet
-        9:  56020 # Wrists
-        10: 56021 # Hands
-        16: 69760 # Back
+      # Shroud of the Demon Star [Heroic]
+      - transmogSetId: 2410
+        wowheadSetId: 12079
 
-    # Normal set=2408
-    - name: Shroud of the Demon Star
-      wowheadSetId: 12078
-      items:
-        1:  56023 # Head
-        3:  56024 # Shoulders
-        5:  56025 # Chest
-        6:  56026 # Waist
-        7:  56027 # Legs
-        8:  56028 # Feet
-        9:  56029 # Wrists
-        10: 56030 # Hands
-        16: 69761 # Back
+      # Shroud of the Demon Star [Normal]
+      - transmogSetId: 2408
+        wowheadSetId: 12078
 
-    # Raid Finder set=2409
-    - name: Shroud of the Demon Star
-      wowheadSetId: 12077
-      items:
-        1:  55996 # Head
-        3:  55997 # Shoulders
-        5:  55998 # Chest
-        6:  55999 # Waist
-        7:  56000 # Legs
-        8:  56001 # Feet
-        9:  56002 # Wrists
-        10: 56003 # Hands
-        16: 69758 # Back
+      # Shroud of the Demon Star [Raid Finder]
+      - transmogSetId: 2409
+        wowheadSetId: 12077
 
     warrior:
-    # Mythic set=2417
-    - name: Armaments of the Infinite Infantry
-      wowheadSetId: 12072
-      items:
-        1:  56392 # Head
-        3:  56393 # Shoulders
-        5:  56394 # Chest
-        6:  56395 # Waist
-        7:  56396 # Legs
-        8:  56397 # Feet
-        9:  56398 # Wrists
-        10: 56399 # Hands
-        16: 56400 # Back
+      # Armaments of the Infinite Infantry [Mythic]
+      - transmogSetId: 2417
+        wowheadSetId: 12072
 
-    # Heroic set=2416
-    - name: Armaments of the Infinite Infantry
-      wowheadSetId: 12071
-      items:
-        1:  56401 # Head
-        3:  56402 # Shoulders
-        5:  56403 # Chest
-        6:  56404 # Waist
-        7:  56405 # Legs
-        8:  56406 # Feet
-        9:  56407 # Wrists
-        10: 56408 # Hands
-        16: 56409 # Back
+      # Armaments of the Infinite Infantry [Heroic]
+      - transmogSetId: 2416
+        wowheadSetId: 12071
 
-    # Normal set=2414
-    - name: Armaments of the Infinite Infantry
-      wowheadSetId: 12070
-      items:
-        1:  56410 # Head
-        3:  56411 # Shoulders
-        5:  56412 # Chest
-        6:  56413 # Waist
-        7:  56414 # Legs
-        8:  56415 # Feet
-        9:  56416 # Wrists
-        10: 56417 # Hands
-        16: 56418 # Back
+      # Armaments of the Infinite Infantry [Normal]
+      - transmogSetId: 2414
+        wowheadSetId: 12070
 
-    # Raid Finder set=2415
-    - name: Armaments of the Infinite Infantry
-      wowheadSetId: 12069
-      items:
-        1:  56383 # Head
-        3:  56384 # Shoulders
-        5:  56385 # Chest
-        6:  56386 # Waist
-        7:  56387 # Legs
-        8:  56388 # Feet
-        9:  56389 # Wrists
-        10: 56390 # Hands
-        16: 56391 # Back
+      # Armaments of the Infinite Infantry [Raid Finder]
+      - transmogSetId: 2415
+        wowheadSetId: 12069
 
+# group 190
 - name: Sanctum of Domination
   type: armor
   sets:
@@ -705,241 +227,74 @@ groups:
   - Raid Finder
   data:
     cloth:
-    # Mythic set=2265
-    - name: Dark Supplicant's Garb
-      wowheadSetId: 12015
-      items:
-        1:  43819 # Head
-        3:  43817 # Shoulders
-        5:  43818 # Chest
-        6:  43816 # Waist
-        7:  43064 # Legs
-        8:  43061 # Feet
-        9:  43067 # Wrists
-        10: 43062 # Hands
-        16: 43060 # Back
+      # Dark Supplicant's Garb [Mythic]
+      - transmogSetId: 2265
+        wowheadSetId: 12015
 
-    # Heroic set=2264
-    - name: Dark Supplicant's Garb
-      wowheadSetId: 12014
-      items:
-        1:  43053 # Head
-        3:  43055 # Shoulders
-        5:  43048 # Chest
-        6:  43056 # Waist
-        7:  43054 # Legs
-        8:  43051 # Feet
-        9:  43057 # Wrists
-        10: 43052 # Hands
-        16: 43050 # Back
+      # Dark Supplicant's Garb [Heroic]
+      - transmogSetId: 2264
+        wowheadSetId: 12014
 
-    # Normal set=2262
-    - name: Dark Supplicant's Garb
-      wowheadSetId: 12013
-      items:
-        1:  43035 # Head
-        3:  43037 # Shoulders
-        5:  42995 # Chest
-        6:  43038 # Waist
-        7:  43036 # Legs
-        8:  43033 # Feet
-        9:  43039 # Wrists
-        10: 43034 # Hands
-        16: 43032 # Back
+      # Dark Supplicant's Garb [Normal]
+      - transmogSetId: 2262
+        wowheadSetId: 12013
 
-    # Raid Finder set=2263
-    - name: Dark Supplicant's Garb
-      wowheadSetId: 12012
-      items:
-        1:  42990 # Head
-        3:  42992 # Shoulders
-        5:  42985 # Chest
-        6:  42993 # Waist
-        7:  42991 # Legs
-        8:  42988 # Feet
-        9:  42994 # Wrists
-        10: 42989 # Hands
-        16: 42987 # Back
+      # Dark Supplicant's Garb [Raid Finder]
+      - transmogSetId: 2263
+        wowheadSetId: 12012
 
     leather:
-    # Mythic set=2261
-    - name: Sanctum Assailant's Trappings
-      # Missing appearance 145887
-      # Missing appearance 145891
-      wowheadSetId: 12011
-      items:
-        1:  44159 # Head
-        3:  44160 # Shoulders
-        5:  44150 # Chest
-        6:  44156 # Waist
-        7:  44154 # Legs
-        8:  44151 # Feet
-        9:  44157 # Wrists
-        10: 44152 # Hands
-        16: 44158 # Back
+      # Sanctum Assailant's Trappings [Mythic]
+      - transmogSetId: 2261
+        wowheadSetId: 12011
 
-    # Heroic set=2260
-    - name: Sanctum Assailant's Trappings
-      # Missing appearance 145886
-      # Missing appearance 145890
-      wowheadSetId: 12010
-      items:
-        1:  44174 # Head
-        3:  44176 # Shoulders
-        5:  44171 # Chest
-        6:  44177 # Waist
-        7:  44175 44182 # Legs
-        8:  44172 # Feet
-        9:  44178 # Wrists
-        10: 44173 # Hands
-        16: 44179 # Back
+      # Sanctum Assailant's Trappings [Heroic]
+      - transmogSetId: 2260
+        wowheadSetId: 12010
 
-    # Normal set=2258
-    - name: Sanctum Assailant's Trappings
-      wowheadSetId: 12009
-      items:
-        1:  43849 # Head
-        3:  43851 # Shoulders
-        5:  43793 # Chest
-        6:  43852 # Waist
-        7:  43850 # Legs
-        8:  43794 # Feet
-        9:  43792 # Wrists
-        10: 43848 # Hands
-        16: 44127 # Back
+      # Sanctum Assailant's Trappings [Normal]
+      - transmogSetId: 2258
+        wowheadSetId: 12009
 
-    # Raid Finder set=2259
-    - name: Sanctum Assailant's Trappings
-      # Missing appearance 145885
-      # Missing appearance 145889
-      wowheadSetId: 12008
-      items:
-        1:  44131 # Head
-        3:  44133 # Shoulders
-        5:  44128 # Chest
-        6:  44134 # Waist
-        7:  44132 # Legs
-        8:  44129 # Feet
-        9:  44135 # Wrists
-        10: 44130 # Hands
-        16: 44136 # Back
+      # Sanctum Assailant's Trappings [Raid Finder]
+      - transmogSetId: 2259
+        wowheadSetId: 12008
 
     mail:
-    # Mythic set=2257
-    - name: Tower Ascendant's Battlegear
-      # Missing appearance 145911
-      # Missing appearance 145919
-      wowheadSetId: 12019
-      items:
-        1:  43090 # Head
-        3:  43089 # Shoulders
-        5:  43080 # Chest
-        6:  43087 # Waist
-        7:  43085 # Legs
-        8:  43082 # Feet
-        9:  43088 # Wrists
-        10: 43083 # Hands
+      # Tower Ascendant's Battlegear [Mythic]
+      - transmogSetId: 2257
+        wowheadSetId: 12019
 
-    # Heroic set=2256
-    - name: Tower Ascendant's Battlegear
-      # Missing appearance 145910
-      wowheadSetId: 12018
-      items:
-        1:  43119 # Head
-        3:  43122 # Shoulders
-        5:  43114 # Chest
-        6:  43123 # Waist
-        7:  43120 # Legs
-        8:  43116 # Feet
-        9:  43124 # Wrists
-        10: 43117 # Hands
+      # Tower Ascendant's Battlegear [Heroic]
+      - transmogSetId: 2256
+        wowheadSetId: 12018
 
-    # Normal set=2254
-    - name: Tower Ascendant's Battlegear
-      wowheadSetId: 12017
-      items:
-        1:  43141 # Head
-        3:  43144 # Shoulders
-        5:  43136 # Chest
-        6:  43145 # Waist
-        7:  43142 # Legs
-        8:  43138 # Feet
-        9:  43146 # Wrists
-        10: 43139 # Hands
+      # Tower Ascendant's Battlegear [Normal]
+      - transmogSetId: 2254
+        wowheadSetId: 12017
 
-    # Raid Finder set=2255
-    - name: Tower Ascendant's Battlegear
-      # Missing appearance 145909
-      wowheadSetId: 12016
-      items:
-        1:  43108 # Head
-        3:  43111 # Shoulders
-        5:  43103 # Chest
-        6:  43112 # Waist
-        7:  43109 # Legs
-        8:  43105 # Feet
-        9:  43113 # Wrists
-        10: 43106 # Hands
+      # Tower Ascendant's Battlegear [Raid Finder]
+      - transmogSetId: 2255
+        wowheadSetId: 12016
 
-    # Soulforged Dreadplate
     plate:
-    # Mythic set=2253
-    - name: Soulforged Dreadplate
-      # Missing appearance 145935
-      # Missing appearance 145927
-      wowheadSetId: 12023
-      items:
-        1:  42829 # Head
-        3:  42823 # Shoulders
-        5:  42760 # Chest
-        6:  42818 # Waist
-        7:  42790 # Legs
-        8:  42841 # Feet
-        9:  42808 # Wrists
-        10: 42835 # Hands
+      # Soulforged Dreadplate [Mythic]
+      - transmogSetId: 2253
+        wowheadSetId: 12023
 
-    # Heroic set=2252
-    - name: Soulforged Dreadplate
-      # Missing appearance 145934
-      # Missing appearance 145926
-      wowheadSetId: 12022
-      items:
-        1:  42787 # Head
-        3:  42799 # Shoulders
-        5:  42763 # Chest
-        6:  42804 # Waist
-        7:  42793 # Legs
-        8:  42775 # Feet
-        9:  42811 # Wrists
-        10: 42781 # Hands
+      # Soulforged Dreadplate [Heroic]
+      - transmogSetId: 2252
+        wowheadSetId: 12022
 
-    # Normal set=2250
-    - name: Soulforged Dreadplate
-      wowheadSetId: 12021
-      items:
-        1:  42783 # Head
-        3:  42795 # Shoulders
-        5:  42759 # Chest
-        6:  42806 # Waist
-        7:  42789 # Legs
-        8:  42771 # Feet
-        9:  42807 # Wrists
-        10: 42777 # Hands
+      # Soulforged Dreadplate [Normal]
+      - transmogSetId: 2250
+        wowheadSetId: 12021
 
-    # Raid Finder set=2251
-    - name: Soulforged Dreadplate
-      # Missing appearance 145933
-      wowheadSetId: 12020
-      items:
-        1:  42786 # Head
-        3:  42798 # Shoulders
-        5:  42762 # Chest
-        6:  42803 # Waist
-        7:  42792 # Legs
-        8:  42774 # Feet
-        9:  42810 # Wrists
-        10: 42780 # Hands
+      # Soulforged Dreadplate [Raid Finder]
+      - transmogSetId: 2251
+        wowheadSetId: 12020
 
+# Group 183
 - name: Castle Nathria
   type: armor
   sets:
