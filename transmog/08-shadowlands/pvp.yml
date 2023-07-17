@@ -3,12 +3,175 @@ skipClasses:
 - evoker
 groups:
 
-- name: Shadowlands Season 3
+- name: "Shadowlands Season 4"
+  tag: S31
+  type: class
+  sets:
+    - "Elite Armor*"
+    - "Gladiator Armor"
+  data:
+    death-knight:
+      # Eternal Gladiator's Dreadplate Armor [Elite]
+      - transmogSetId: 2569
+        wowheadSetId:
+
+      # Eternal Gladiator's Dreadplate Armor [Gladiator]
+      - transmogSetId: 2498
+        wowheadSetId:
+
+    demon-hunter:
+      # Eternal Gladiator's Felskin Armor [Elite]
+      - transmogSetId: 2570
+        wowheadSetId:
+
+      # Eternal Gladiator's Felskin Armor [Gladiator]
+      - transmogSetId: 2504
+        wowheadSetId:
+
+    druid:
+      # Eternal Gladiator's Dragonhide Armor [Elite]
+      - transmogSetId: 2571
+        wowheadSetId:
+
+      # Eternal Gladiator's Dragonhide Armor [Gladiator]
+      - transmogSetId: 2510
+        wowheadSetId:
+
+    hunter:
+      # Eternal Gladiator's Chain Armor [Elite]
+      - transmogSetId: 2572
+        wowheadSetId:
+
+      # Eternal Gladiator's Chain Armor [Gladiator]
+      - transmogSetId: 2516
+        wowheadSetId:
+
+    mage:
+      # Eternal Gladiator's Silk Armor [Elite]
+      - transmogSetId: 2573
+        wowheadSetId:
+
+      # Eternal Gladiator's Silk Armor [Gladiator]
+      - transmogSetId: 2522
+        wowheadSetId:
+
+    monk:
+      # Eternal Gladiator's Ironskin Armor [Elite]
+      - transmogSetId: 2574
+        wowheadSetId:
+
+      # Eternal Gladiator's Ironskin Armor [Gladiator]
+      - transmogSetId: 2528
+        wowheadSetId:
+
+    paladin:
+      # Eternal Gladiator's Scaled Armor [Elite]
+      - transmogSetId: 2575
+        wowheadSetId:
+
+      # Eternal Gladiator's Scaled Armor [Gladiator]
+      - transmogSetId: 2534
+        wowheadSetId:
+
+    priest:
+      # Eternal Gladiator's Satin Armor [Elite]
+      - transmogSetId: 2576
+        wowheadSetId:
+
+      # Eternal Gladiator's Satin Armor [Gladiator]
+      - transmogSetId: 2540
+        wowheadSetId:
+
+    rogue:
+      # Eternal Gladiator's Leather Armor [Elite]
+      - transmogSetId: 2577
+        wowheadSetId:
+
+      # Eternal Gladiator's Leather Armor [Gladiator]
+      - transmogSetId: 2546
+        wowheadSetId:
+
+    shaman:
+      # Eternal Gladiator's Ringmail Armor [Elite]
+      - transmogSetId: 2578
+        wowheadSetId:
+
+      # Eternal Gladiator's Ringmail Armor [Gladiator]
+      - transmogSetId: 2552
+        wowheadSetId:
+
+    warlock:
+      # Eternal Gladiator's Felweave Armor [Elite]
+      - transmogSetId: 2579
+        wowheadSetId:
+
+      # Eternal Gladiator's Felweave Armor [Gladiator]
+      - transmogSetId: 2558
+        wowheadSetId:
+
+    warrior:
+      # Eternal Gladiator's Plate Armor [Elite]
+      - transmogSetId: 2580
+        wowheadSetId:
+
+      # Eternal Gladiator's Plate Armor [Gladiator]
+      - transmogSetId: 2564
+        wowheadSetId:
+
+- name: "Shadowlands Season 4"
+  tag: S31
+  type: all
+  sets:
+    - "Gladiator Weapons"
+  data:
+    all:
+      # Cosmic Gladiator's Arsenal [Gladiator]
+      - transmogSetId: 2750
+        wowheadSetId:
+
+- name: "Shadowlands Season 4"
+  tag: S31
+  type: armor
+  sets:
+    - "Aspirant Armor"
+  data:
+    cloth:
+      # Eternal Aspirant's Vestment [Aspirant]
+      - transmogSetId: 2565
+        wowheadSetId:
+
+    leather:
+      # Eternal Aspirant's Leathers [Aspirant]
+      - transmogSetId: 2566
+        wowheadSetId:
+
+    mail:
+      # Eternal Aspirant's Chain [Aspirant]
+      - transmogSetId: 2567
+        wowheadSetId:
+
+    plate:
+      # Eternal Aspirant's Plate [Aspirant]
+      - transmogSetId: 2568
+        wowheadSetId:
+
+- name: "Shadowlands Season 4"
+  tag: S31
+  type: all
+  sets:
+    - "Aspirant Weapons"
+  data:
+    all:
+      # Cosmic Aspirant's Arsenal [Aspirant]
+      - transmogSetId: 2751
+        wowheadSetId:
+
+- name: "Shadowlands Season 3"
   tag: S30
   type: class
   sets:
-  - Elite*
-  - Gladiator
+  - "Elite*"
+  - "Gladiator"
   data:
     death-knight:
     # Elite set=2353
