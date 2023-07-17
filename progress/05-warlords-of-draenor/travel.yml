@@ -10,15 +10,6 @@ groups:
         id: 128353
         description: ":rocket: Garrison Shipyard"
 
-- name: "Garrison Hearthstone"
-  icon: item/110560
-  type: item
-  data:
-    0:
-      - name: "Garrison Hearthstone"
-        id: 110560
-        description: ":rocket: Garrison"
-
 - name: "Relic"
   icon: item/118663 item/118662
   lookup: faction

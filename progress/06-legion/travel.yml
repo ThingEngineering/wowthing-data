@@ -1,15 +1,6 @@
 name: "Travel"
 groups:
 
-- name: "Dalaran Hearthstone"
-  icon: item/140192
-  type: item
-  data:
-    0:
-      - name: "Dalaran Hearthstone"
-        id: 140192
-        description: ":rocket: Dalaran"
-
 - name: "Empowered Ring of the Kirin Tor"
   icon: item/139599
   type: item
