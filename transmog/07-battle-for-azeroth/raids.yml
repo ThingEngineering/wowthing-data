@@ -3,6 +3,7 @@ skipClasses:
 - evoker
 groups:
 
+# group 176
 - name: Ny'alotha, the Waking City
   type: armor
   sets:
@@ -12,217 +13,74 @@ groups:
   - Raid Finder
   data:
     cloth:
-    # Mythic set=1997
-    - name: Oblivion Cultist's Robes
-      wowheadSetId: 11959
-      items:
-        1: 41069 # Head
-        3: 41073 # Shoulders
-        5: 41061 # Chest
-        6: 41075 # Waist
-        7: 41071 # Legs
-        8: 41065 # Feet
-        9: 41077 # Wrists
-        10: 41067 # Hands
+      # Oblivion Cultist's Robes [Mythic]
+      - transmogSetId: 1997
+        wowheadSetId: 11959
 
-    # Heroic set=1996
-    - name: Oblivion Cultist's Robes
-      wowheadSetId: 11958
-      items:
-        1: 41040 # Head
-        3: 41048 # Shoulders
-        5: 41024 # Chest
-        6: 41052 # Waist
-        7: 41044 # Legs
-        8: 41032 # Feet
-        9: 41056 # Wrists
-        10: 41036 # Hands
+      # Oblivion Cultist's Robes [Heroic]
+      - transmogSetId: 1996
+        wowheadSetId: 11958
 
-    # Normal set=1994
-    - name: Oblivion Cultist's Robes
-      wowheadSetId: 11957
-      items:
-        1: 41041 # Head
-        3: 41049 # Shoulders
-        5: 41025 # Chest
-        6: 41053 # Waist
-        7: 41045 # Legs
-        8: 41033 # Feet
-        9: 41057 # Wrists
-        10: 41037 # Hands
+      # Oblivion Cultist's Robes [Normal]
+      - transmogSetId: 1994
+        wowheadSetId: 11957
 
-    # Raid Finder set=1995
-    - name: Oblivion Cultist's Robes
-      wowheadSetId: 11956
-      items:
-        1: 41042 # Head
-        3: 41050 # Shoulders
-        5: 41026 # Chest
-        6: 41054 # Waist
-        7: 41046 # Legs
-        8: 41034 # Feet
-        9: 41058 # Wrists
-        10: 41038 # Hands
+      # Oblivion Cultist's Robes [Raid Finder]
+      - transmogSetId: 1995
+        wowheadSetId: 11956
 
     leather:
-    # Mythic set=1993
-    - name: Treacherous Schemer's Leathers
-      wowheadSetId: 11963
-      items:
-        1: 40909 # Head
-        3: 40931 # Shoulders
-        5: 40863 # Chest
-        6: 40942 # Waist
-        7: 40920 # Legs
-        8: 40887 # Feet
-        9: 40953 # Wrists
-        10: 40898 # Hands
+      # Treacherous Schemer's Leathers [Mythic]
+      - transmogSetId: 1993
+        wowheadSetId: 11963
 
-    # Heroic set=1992
-    - name: Treacherous Schemer's Leathers
-      wowheadSetId: 11962
-      items:
-        1: 40906 # Head
-        3: 40928 # Shoulders
-        5: 40859 # Chest
-        6: 40939 # Waist
-        7: 40917 # Legs
-        8: 40884 # Feet
-        9: 40950 # Wrists
-        10: 40895 # Hands
+      # Treacherous Schemer's Leathers [Heroic]
+      - transmogSetId: 1992
+        wowheadSetId: 11962
 
-    # Normal set=1990
-    - name: Treacherous Schemer's Leathers
-      wowheadSetId: 11961
-      items:
-        1: 40905 # Head
-        3: 40927 # Shoulders
-        5: 40858 # Chest
-        6: 40938 # Waist
-        7: 40916 # Legs
-        8: 40883 # Feet
-        9: 40949 # Wrists
-        10: 40894 # Hands
+      # Treacherous Schemer's Leathers [Normal]
+      - transmogSetId: 1990
+        wowheadSetId: 11961
 
-    # Raid Finder set=1991
-    - name: Treacherous Schemer's Leathers
-      wowheadSetId: 11960
-      items:
-        1: 40908 # Head
-        3: 40930 # Shoulders
-        5: 40862 # Chest
-        6: 40941 # Waist
-        7: 40919 # Legs
-        8: 40886 # Feet
-        9: 40952 # Wrists
-        10: 40897 # Hands
+      # Treacherous Schemer's Leathers [Raid Finder]
+      - transmogSetId: 1991
+        wowheadSetId: 11960
 
     mail:
-    # Mythic set=1989
-    - name: Lurking Defiler's Scalemail
-      wowheadSetId: 11967
-      items:
-        1: 40833 # Head
-        3: 40839 # Shoulders
-        5: 40823 40825 # Chest
-        6: 40841 # Waist
-        7: 40835 # Legs
-        8: 40829 # Feet
-        9: 40843 # Wrists
-        10: 40831 # Hands
+      # Lurking Defiler's Scalemail [Mythic]
+      - transmogSetId: 1989
+        wowheadSetId: 11967
 
-    # Heroic set=1988
-    - name: Lurking Defiler's Scalemail
-      wowheadSetId: 11966
-      items:
-        1: 40798 # Head
-        3: 40810 # Shoulders
-        5: 40782 40786 # Chest
-        6: 40814 # Waist
-        7: 40806 # Legs
-        8: 40790 # Feet
-        9: 40818 # Wrists
-        10: 40794 # Hands
+      # Lurking Defiler's Scalemail [Heroic]
+      - transmogSetId: 1988
+        wowheadSetId: 11966
 
-    # Normal set=1986
-    - name: Lurking Defiler's Scalemail
-      wowheadSetId: 11965
-      items:
-        1: 40797 # Head
-        3: 40809 # Shoulders
-        5: 40781 40785 # Chest
-        6: 40813 # Waist
-        7: 40805 # Legs
-        8: 40789 # Feet
-        9: 40817 # Wrists
-        10: 40793 # Hands
+      # Lurking Defiler's Scalemail [Normal]
+      - transmogSetId: 1986
+        wowheadSetId: 11965
 
-    # Raid Finder set=1987
-    - name: Lurking Defiler's Scalemail
-      wowheadSetId: 11965
-      items:
-        1: 40795 # Head
-        3: 40807 # Shoulders
-        5: 40779 40783 # Chest
-        6: 40811 # Waist
-        7: 40803 # Legs
-        8: 40787 # Feet
-        9: 40815 # Wrists
-        10: 40791 # Hands
+      # Lurking Defiler's Scalemail [Raid Finder]
+      - transmogSetId: 1987
+        wowheadSetId: 11964
 
     plate:
-    # Mythic set=1985
-    - name: Cosmic Aberration's Plate
-      wowheadSetId: 11971
-      items:
-        1: 41005 # Head
-        3: 41011 # Shoulders
-        5: 40996 # Chest
-        6: 41014 # Waist
-        7: 41008 # Legs
-        8: 40999 # Feet
-        9: 41017 # Wrists
-        10: 41002 # Hands
+      # Cosmic Aberration's Plate [Mythic]
+      - transmogSetId: 1985
+        wowheadSetId: 11971
 
-    # Heroic set=1984
-    - name: Cosmic Aberration's Plate
-      wowheadSetId: 11970
-      items:
-        1: 40974 # Head
-        3: 40982 # Shoulders
-        5: 40962 # Chest
-        6: 40986 # Waist
-        7: 40978 # Legs
-        8: 40966 # Feet
-        9: 40990 # Wrists
-        10: 40970 # Hands
+      # Cosmic Aberration's Plate [Heroic]
+      - transmogSetId: 1984
+        wowheadSetId: 11970
 
-    # Normal set=1982
-    - name: Cosmic Aberration's Plate
-      wowheadSetId: 11969
-      items:
-        1: 40973 # Head
-        3: 40981 # Shoulders
-        5: 40961 # Chest
-        6: 40985 # Waist
-        7: 40977 # Legs
-        8: 40965 # Feet
-        9: 40989 # Wrists
-        10: 40969 # Hands
+      # Cosmic Aberration's Plate [Normal]
+      - transmogSetId: 1982
+        wowheadSetId: 11969
 
-    # Raid Finder set=1983
-    - name: Cosmic Aberration's Plate
-      wowheadSetId: 11968
-      items:
-        1: 40971 # Head
-        3: 40979 # Shoulders
-        5: 40959 # Chest
-        6: 40983 # Waist
-        7: 40975 # Legs
-        8: 40963 # Feet
-        9: 40987 # Wrists
-        10: 40967 # Hands
+      # Cosmic Aberration's Plate [Raid Finder]
+      - transmogSetId: 1983
+        wowheadSetId: 11968
 
+# group 172
 - name: The Eternal Palace
   type: armor
   sets:
@@ -232,233 +90,74 @@ groups:
   - Raid Finder
   data:
     cloth:
-    # Mythic set=1841
-    - name: Frilled Harbinger's Vestments
-      wowheadSetId: 11940
-      items:
-        1: 40132 # Head
-        3: 40126 # Shoulders
-        5: 40128 # Chest
-        6: 40124 # Waist
-        7: 40130 # Legs
-        8: 40136 # Feet
-        9: 40122 # Wrists
-        10: 40134 # Hands
-        16: 40138 # Back
+      # Frilled Harbinger's Vestments [Mythic]
+      - transmogSetId: 1841
+        wowheadSetId: 11940
 
-    # Heroic set=1837
-    - name: Frilled Harbinger's Vestments
-      wowheadSetId: 11941
-      items:
-        1: 40149 # Head
-        3: 40143 # Shoulders
-        5: 40145 # Chest
-        6: 40141 # Waist
-        7: 40147 # Legs
-        8: 40153 # Feet
-        9: 40139 # Wrists
-        10: 40151 # Hands
-        16: 40155 # Back
+      # Frilled Harbinger's Vestments [Heroic]
+      - transmogSetId: 1837
+        wowheadSetId: 11941
 
-    # Normal set=1833
-    - name: Frilled Harbinger's Vestments
-      wowheadSetId: 11942
-      items:
-        1: 40075 # Head
-        3: 40081 # Shoulders
-        5: 40079 # Chest
-        6: 40083 # Waist
-        7: 40077 # Legs
-        8: 40071 # Feet
-        9: 40067 # Wrists
-        10: 40073 # Hands
-        16: 40069 # Back
+      # Frilled Harbinger's Vestments [Normal]
+      - transmogSetId: 1833
+        wowheadSetId: 11942
 
-    # Raid Finder set=1845
-    - name: Frilled Harbinger's Vestments
-      wowheadSetId: 11943
-      items:
-        1: 40092 # Head
-        3: 40098 # Shoulders
-        5: 40096 # Chest
-        6: 40100 # Waist
-        7: 40094 # Legs
-        8: 40088 # Feet
-        9: 40102 # Wrists
-        10: 40090 # Hands
-        16: 40086 # Back
+      # Frilled Harbinger's Vestments [Raid Finder]
+      - transmogSetId: 1845
+        wowheadSetId: 11943
 
     leather:
-    # Mythic set=1840
-    - name: Razorfin Regalia
-      wowheadSetId: 11944
-      items:
-        1: 40235 # Head
-        3: 40238 # Shoulders
-        5: 40231 # Chest
-        6: 40239 # Waist
-        7: 40236 # Legs
-        8: 40233 # Feet
-        9: 40240 # Wrists
-        10: 40234 # Hands
-        16: 40192 # Back
+      # Razorfin Regalia [Mythic]
+      - transmogSetId: 1840
+        wowheadSetId: 11944
 
-    # Heroic set=1836
-    - name: Razorfin Regalia
-      wowheadSetId: 11945
-      items:
-        1: 40205 # Head
-        3: 40208 # Shoulders
-        5: 40201 # Chest
-        6: 40209 # Waist
-        7: 40206 # Legs
-        8: 40203 # Feet
-        9: 40210 # Wrists
-        10: 40204 # Hands
-        16: 40192 # Back
+      # Razorfin Regalia [Heroic]
+      - transmogSetId: 1836
+        wowheadSetId: 11945
 
-    # Normal set=1832
-    - name: Razorfin Regalia
-      wowheadSetId: 11946
-      items:
-        1: 40195 # Head
-        3: 40198 # Shoulders
-        5: 40191 # Chest
-        6: 40199 # Waist
-        7: 40196 # Legs
-        8: 40193 # Feet
-        9: 40200 # Wrists
-        10: 40194 # Hands
-        16: 40192 # Back
+      # Razorfin Regalia [Normal]
+      - transmogSetId: 1832
+        wowheadSetId: 11946
 
-    # Raid Finder set=1844
-    - name: Razorfin Regalia
-      wowheadSetId: 11947
-      items:
-        1: 40176 # Head
-        3: 40178 # Shoulders
-        5: 40172 # Chest
-        6: 40179 # Waist
-        7: 40177 # Legs
-        8: 40174 # Feet
-        9: 40180 # Wrists
-        10: 40175 # Hands
-        16: 40192 # Back
+      # Razorfin Regalia [Raid Finder]
+      - transmogSetId: 1844
+        wowheadSetId: 11947
 
     mail:
-    # Mythic set=1839
-    - name: Queen's Guard Scalemail
-      wowheadSetId: 11948
-      items:
-        1:  40008 # Head
-        3:  40010 # Shoulders
-        5:  40003 40004 # Chest
-        6:  40011 # Waist
-        7:  40009 # Legs
-        8:  40006 # Feet
-        9:  40012 # Wrists
-        10: 40007 # Hands
-        16: 40005 # Back
+      # Queen's Guard Scalemail [Mythic]
+      - transmogSetId: 1839
+        wowheadSetId: 11948
 
-    # Heroic set=1835
-    - name: Queen's Guard Scalemail
-      wowheadSetId: 11949
-      items:
-        1:  40371 # Head
-        3:  40368 # Shoulders
-        5:  40369 40375 # Chest
-        6:  40367 # Waist
-        7:  40370 # Legs
-        8:  40373 # Feet
-        9:  40330 # Wrists
-        10: 40372 # Hands
-        16: 40374 # Back
+      # Queen's Guard Scalemail [Heroic]
+      - transmogSetId: 1835
+        wowheadSetId: 11949
 
-    # Normal set=1831
-    - name: Queen's Guard Scalemail
-      wowheadSetId: 11950
-      items:
-        1:  40322 # Head
-        3:  40319 # Shoulders
-        5:  40320 40326 # Chest
-        6:  40318 # Waist
-        7:  40321 # Legs
-        8:  40324 # Feet
-        9:  40308 # Wrists
-        10: 40323 # Hands
-        16: 40325 # Back
+      # Queen's Guard Scalemail [Normal]
+      - transmogSetId: 1831
+        wowheadSetId: 11950
 
-    # Raid Finder set=1843
-    - name: Queen's Guard Scalemail
-      wowheadSetId: 11951
-      items:
-        1:  40353 # Head
-        3:  40350 # Shoulders
-        5:  40351 40357 # Chest
-        6:  40349 # Waist
-        7:  40352 # Legs
-        8:  40355 # Feet
-        9:  40328 # Wrists
-        10: 40354 # Hands
-        16: 40356 # Back
+      # Queen's Guard Scalemail [Raid Finder]
+      - transmogSetId: 1843
+        wowheadSetId: 11951
 
     plate:
-    # Mythic set=1838
-    - name: Naga Lord's Warplate
-      wowheadSetId: 11952
-      items:
-        1:  39959 # Head
-        3:  39961 # Shoulders
-        5:  39955 # Chest
-        6:  39963 # Waist
-        7:  39960 # Legs
-        8:  39957 # Feet
-        9:  39962 # Wrists
-        10: 39958 # Hands
-        16: 39956 # Back
+      # Naga Lord's Warplate [Mythic]
+      - transmogSetId: 1838
+        wowheadSetId: 11952
 
-    # Heroic set=1834
-    - name: Naga Lord's Warplate
-      wowheadSetId: 11953
-      items:
-        1:  39977 # Head
-        3:  39979 # Shoulders
-        5:  39973 # Chest
-        6:  39981 # Waist
-        7:  39978 # Legs
-        8:  39975 # Feet
-        9:  39980 # Wrists
-        10: 39976 # Hands
-        16: 39974 # Back
+      # Naga Lord's Warplate [Heroic]
+      - transmogSetId: 1834
+        wowheadSetId: 11953
 
-    # Normal set=1830
-    - name: Naga Lord's Warplate
-      wowheadSetId: 11954
-      items:
-        1:  39968 # Head
-        3:  39966 # Shoulders
-        5:  39972 # Chest
-        6:  39964 # Waist
-        7:  39967 # Legs
-        8:  39970 # Feet
-        9:  39965 # Wrists
-        10: 39969 # Hands
-        16: 39971 # Back
+      # Naga Lord's Warplate [Normal]
+      - transmogSetId: 1830
+        wowheadSetId: 11954
 
-    # Raid Finder set=1842
-    - name: Naga Lord's Warplate
-      wowheadSetId: 11955
-      items:
-        1:  39986 # Head
-        3:  39984 # Shoulders
-        5:  39990 # Chest
-        6:  39982 # Waist
-        7:  39985 # Legs
-        8:  39988 # Feet
-        9:  39983 # Wrists
-        10: 39987 # Hands
-        16: 39989 # Back
+      # Naga Lord's Warplate [Raid Finder]
+      - transmogSetId: 1842
+        wowheadSetId: 11955
 
+# group 169
 - name: Battle of Dazar'alor
   type: armor
   sets:
@@ -468,233 +167,74 @@ groups:
   - Raid Finder
   data:
     cloth:
-    # Mythic set=1809
-    - name: Soul Reaper's Raiment
-      wowheadSetId: 2936
-      items:
-        1:  38782 # Head
-        3:  38814 # Shoulders
-        5:  38778 # Chest
-        6:  38786 # Waist
-        7:  38810 # Legs
-        8:  38790 # Feet
-        9:  38803 # Wrists
-        10: 38802 # Hands
-        16: 38798 # Back
+      # Soul Reaper's Raiment [Mythic]
+      - transmogSetId: 1809
+        wowheadSetId: 2936
 
-    # Heroic set=1808
-    - name: Soul Reaper's Raiment
-      wowheadSetId: 2935
-      items:
-        1:  38845 # Head
-        3:  38848 # Shoulders
-        5:  38847 # Chest
-        6:  38840 # Waist
-        7:  38811 # Legs
-        8:  38841 # Feet
-        9:  38807 # Wrists
-        10: 38804 # Hands
-        16: 38843 # Back
+      # Soul Reaper's Raiment [Heroic]
+      - transmogSetId: 1808
+        wowheadSetId: 2935
 
-    # Normal set=1806
-    - name: Soul Reaper's Raiment
-      wowheadSetId: 2934
-      items:
-        1:  38855 # Head
-        3:  38858 # Shoulders
-        5:  38857 # Chest
-        6:  38850 # Waist
-        7:  38812 # Legs
-        8:  38851 # Feet
-        9:  38808 # Wrists
-        10: 38805 # Hands
-        16: 38853 # Back
+      # Soul Reaper's Raiment [Normal]
+      - transmogSetId: 1806
+        wowheadSetId: 2934
 
-    # Raid Finder set=1807
-    - name: Soul Reaper's Raiment
-      wowheadSetId: 2937
-      items:
-        1:  38835 # Head
-        3:  38838 # Shoulders
-        5:  38837 # Chest
-        6:  38830 # Waist
-        7:  38813 # Legs
-        8:  38831 # Feet
-        9:  38809 # Wrists
-        10: 38806 # Hands
-        16: 38833 # Back
+      # Soul Reaper's Raiment [Raid Finder]
+      - transmogSetId: 1807
+        wowheadSetId: 2937
 
     leather:
-    # Mythic set=1813
-    - name: Boneblade Battlegear
-      wowheadSetId: 2940
-      items:
-        1:  39471 # Head
-        3:  39473 # Shoulders
-        5:  39467 39468 # Chest
-        6:  39474 # Waist
-        7:  39472 # Legs
-        8:  39469 # Feet
-        9:  39475 # Wrists
-        10: 39470 # Hands
-        16: 39478 # Back
+      # Boneblade Battlegear [Mythic]
+      - transmogSetId: 1813
+        wowheadSetId: 2940
 
-    # Heroic set=1812
-    - name: Boneblade Battlegear
-      wowheadSetId: 2939
-      items:
-        1:  39435 # Head
-        3:  39437 # Shoulders
-        5:  39431 39432 # Chest
-        6:  39438 # Waist
-        7:  39436 # Legs
-        8:  39433 # Feet
-        9:  39439 # Wrists
-        10: 39434 # Hands
-        16: 39477 # Back
+      # Boneblade Battlegear [Heroic]
+      - transmogSetId: 1812
+        wowheadSetId: 2939
 
-    # Normal set=1810
-    - name: Boneblade Battlegear
-      wowheadSetId: 2938
-      items:
-        1:  39266 # Head
-        3:  39268 # Shoulders
-        5:  39262 39263 # Chest
-        6:  39269 # Waist
-        7:  39267 # Legs
-        8:  39264 # Feet
-        9:  39270 # Wrists
-        10: 39265 # Hands
-        16: 39280 # Back
+      # Boneblade Battlegear [Normal]
+      - transmogSetId: 1810
+        wowheadSetId: 2938
 
-    # Raid Finder set=1811
-    - name: Boneblade Battlegear
-      wowheadSetId: 2941
-      items:
-        1:  39426 # Head
-        3:  39428 # Shoulders
-        5:  39422 39423 # Chest
-        6:  39429 # Waist
-        7:  39427 # Legs
-        8:  39424 # Feet
-        9:  39430 # Wrists
-        10: 39425 # Hands
-        16: 39476 # Back
+      # Boneblade Battlegear [Raid Finder]
+      - transmogSetId: 1811
+        wowheadSetId: 2941
 
     mail:
-    # Mythic set=1817
-    - name: Death-Devourer Vestments
-      wowheadSetId: 2944
-      items:
-        1:  39556 # Head
-        3:  39558 # Shoulders
-        5:  39544 39560 # Chest
-        6:  39559 # Waist
-        7:  39548 39557 # Legs
-        8:  39545 39554 # Feet
-        9:  39551 # Wrists
-        10: 39555 # Hands
-        16: 39552 # Back
+      # Death-Devourer Vestments [Mythic]
+      - transmogSetId: 1817
+        wowheadSetId: 2944
 
-    # Heroic set=1816
-    - name: Death-Devourer Vestments
-      wowheadSetId: 2943
-      items:
-        1:  39605 # Head
-        3:  39607 # Shoulders
-        5:  39601 39602 # Chest
-        6:  39608 # Waist
-        7:  39606 # Legs
-        8:  39603 # Feet
-        9:  39609 # Wrists
-        10: 39604 # Hands
-        16: 39610 # Back
+      # Death-Devourer Vestments [Heroic]
+      - transmogSetId: 1816
+        wowheadSetId: 2943
 
-    # Normal set=1814
-    - name: Death-Devourer Vestments
-      wowheadSetId: 2942
-      items:
-        1:  39621 # Head
-        3:  39623 # Shoulders
-        5:  39617 39618 # Chest
-        6:  39624 # Waist
-        7:  39622 # Legs
-        8:  39619 # Feet
-        9:  39625 # Wrists
-        10: 39620 # Hands
-        16: 39626 # Back
+      # Death-Devourer Vestments [Normal]
+      - transmogSetId: 1814
+        wowheadSetId: 2942
 
-    # Raid Finder set=1815
-    - name: Death-Devourer Vestments
-      wowheadSetId: 2945
-      items:
-        1:  39589 # Head
-        3:  39591 # Shoulders
-        5:  39585 39586 # Chest
-        6:  39592 # Waist
-        7:  39590 # Legs
-        8:  39587 # Feet
-        9:  39593 # Wrists
-        10: 39588 # Hands
-        16: 39594 # Back
+      # Death-Devourer Vestments [Raid Finder]
+      - transmogSetId: 1815
+        wowheadSetId: 2945
 
     plate:
-    # Mythic set=1821
-    - name: Gravelord's Direplate
-      wowheadSetId: 2948
-      items:
-        1:  39507 # Head
-        3:  39509 # Shoulders
-        5:  39496 # Chest
-        6:  39510 # Waist
-        7:  39508 # Legs
-        8:  39505 # Feet
-        9:  39503 # Wrists
-        10: 39506 # Hands
-        16: 39511 # Back
+      # Gravelord's Direplate [Mythic]
+      - transmogSetId: 1821
+        wowheadSetId: 2948
 
-    # Heroic set=1820
-    - name: Gravelord's Direplate
-      wowheadSetId: 2947
-      items:
-        1:  39531 # Head
-        3:  39533 # Shoulders
-        5:  39528 # Chest
-        6:  39534 # Waist
-        7:  39532 # Legs
-        8:  39529 # Feet
-        9:  39535 # Wrists
-        10: 39530 # Hands
-        16: 39536 # Back
+      # Gravelord's Direplate [Heroic]
+      - transmogSetId: 1820
+        wowheadSetId: 2947
 
-    # Normal set=1818
-    - name: Gravelord's Direplate
-      wowheadSetId: 2946
-      items:
-        1:  39482 # Head
-        3:  39484 # Shoulders
-        5:  39479 # Chest
-        6:  39485 # Waist
-        7:  39483 # Legs
-        8:  39480 # Feet
-        9:  39486 # Wrists
-        10: 39481 # Hands
-        16: 39487 # Back
+      # Gravelord's Direplate [Normal]
+      - transmogSetId: 1818
+        wowheadSetId: 2946
 
-    # Raid Finder set=1819
-    - name: Gravelord's Direplate
-      wowheadSetId: 2949
-      items:
-        1:  39515 # Head
-        3:  39517 # Shoulders
-        5:  39512 # Chest
-        6:  39518 # Waist
-        7:  39516 # Legs
-        8:  39513 # Feet
-        9:  39519 # Wrists
-        10: 39514 # Hands
-        16: 39520 # Back
+      # Gravelord's Direplate [Raid Finder]
+      - transmogSetId: 1819
+        wowheadSetId: 2949
 
+# group 166
 - name: Uldir
   type: armor
   sets:
@@ -704,227 +244,69 @@ groups:
   - Raid Finder
   data:
     cloth:
-    # Mythic set=1640
-    - name: Eternal Curator's Vestment
-      wowheadSetId: 2757
-      items:
-        1:  38380 # Head
-        3:  38382 # Shoulders
-        5:  38384 # Chest
-        6:  38376 # Waist
-        7:  38381 # Legs
-        8:  38377 # Feet
-        9:  38383 # Wrists
-        10: 38379 # Hands
-        16: 38385 # Back
+      # Eternal Curator's Vestment [Mythic]
+      - transmogSetId: 1640
+        wowheadSetId: 2757
 
-    # Heroic set=1639
-    - name: Eternal Curator's Vestment
-      wowheadSetId: 2756
-      items:
-        1:  38344 # Head
-        3:  38346 # Shoulders
-        5:  38351 # Chest
-        6:  38340 # Waist
-        7:  38345 # Legs
-        8:  38341 # Feet
-        9:  38347 # Wrists
-        10: 38343 # Hands
-        16: 38348 # Back
+      # Eternal Curator's Vestment [Heroic]
+      - transmogSetId: 1639
+        wowheadSetId: 2756
 
-    # Normal set=1638
-    - name: Eternal Curator's Vestment
-      wowheadSetId: 2755
-      items:
-        1:  38368 # Head
-        3:  38370 # Shoulders
-        5:  38372 # Chest
-        6:  38364 # Waist
-        7:  38369 # Legs
-        8:  38365 # Feet
-        9:  38371 # Wrists
-        10: 38367 # Hands
-        16: 38373 # Back
+      # Eternal Curator's Vestment [Normal]
+      - transmogSetId: 1638
+        wowheadSetId: 2755
 
-    # Raid Finder set=1641
-    - name: Eternal Curator's Vestment
-      wowheadSetId: 2758
-      items:
-        1:  38356 # Head
-        3:  38358 # Shoulders
-        5:  38360 # Chest
-        6:  38352 # Waist
-        7:  38357 # Legs
-        8:  38353 # Feet
-        9:  38359 # Wrists
-        10: 38355 # Hands
-        16: 38361 # Back
+      # Eternal Curator's Vestment [Raid Finder]
+      - transmogSetId: 1641
+        wowheadSetId: 2758
 
     leather:
-    # Mythic set=1644
-    - name: Eternal Curator's Garb
-      wowheadSetId: 2799
-      items:
-        1:  38472 # Head
-        3:  38474 # Shoulders
-        5:  38470 # Chest
-        6:  38468 # Waist
-        7:  38473 # Legs
-        8:  38469 # Feet
-        9:  38475 # Wrists
-        10: 38471 # Hands
-        16: 38476 # Back
+      # Eternal Curator's Garb [Mythic]
+      - transmogSetId: 1644
+        wowheadSetId: 2799
 
-    # Heroic set=1643
-    - name: Eternal Curator's Garb
-      wowheadSetId: 2798
-      items:
-        1:  38326 # Head
-        3:  38328 # Shoulders
-        5:  38324 # Chest
-        6:  38322 # Waist
-        7:  38327 # Legs
-        8:  38323 # Feet
-        9:  38329 # Wrists
-        10: 38325 38394 # Hands
-        16: 38449 # Back
+      # Eternal Curator's Garb [Heroic]
+      - transmogSetId: 1643
+        wowheadSetId: 2798
 
-    # Normal set=1642
-    - name: Eternal Curator's Garb
-      wowheadSetId: 2797
-      items:
-        1:  38464 # Head
-        3:  38466 # Shoulders
-        5:  38462 # Chest
-        6:  38460 # Waist
-        7:  38465 # Legs
-        8:  38461 # Feet
-        9:  38467 # Wrists
-        10: 38463 # Hands
-        16: 38488 # Back
+      # Eternal Curator's Garb [Normal]
+      - transmogSetId: 1642
+        wowheadSetId: 2797
 
-    # Raid Finder set=1645
-    - name: Eternal Curator's Garb
-      wowheadSetId: 2800
-      items:
-        1:  38456 # Head
-        3:  38458 # Shoulders
-        5:  38454 # Chest
-        6:  38452 # Waist
-        7:  38457 # Legs
-        8:  38453 # Feet
-        9:  38459 # Wrists
-        10: 38455 # Hands
-        16: 38485 # Back
+      # Eternal Curator's Garb [Raid Finder]
+      - transmogSetId: 1645
+        wowheadSetId: 2800
 
     mail:
-    # Mythic set=1648
-    - name: Eternal Curator's Chains
-      wowheadSetId: 2823
-      items:
-        1:  38296 # Head
-        3:  38298 # Shoulders
-        5:  38294 # Chest
-        6:  38292 # Waist
-        7:  38297 # Legs
-        8:  38293 # Feet
-        9:  38299 # Wrists
-        10: 38295 # Hands
-        16: 38309 # Back
+      # Eternal Curator's Chains [Mythic]
+      - transmogSetId: 1648
+        wowheadSetId: 2823
 
-    # Heroic set=1647
-    - name: Eternal Curator's Chains
-      wowheadSetId: 2822
-      items:
-        1:  38272 # Head
-        3:  38274 # Shoulders
-        5:  38270 # Chest
-        6:  38268 # Waist
-        7:  38273 # Legs
-        8:  38269 # Feet
-        9:  38275 # Wrists
-        10: 38271 # Hands
-        16: 38300 # Back
+      # Eternal Curator's Chains [Heroic]
+      - transmogSetId: 1647
+        wowheadSetId: 2822
 
-    # Normal set=1646
-    - name: Eternal Curator's Chains
-      wowheadSetId: 2821
-      items:
-        1:  38280 # Head
-        3:  38282 # Shoulders
-        5:  38278 # Chest
-        6:  38276 # Waist
-        7:  38281 # Legs
-        8:  38277 # Feet
-        9:  38283 # Wrists
-        10: 38279 # Hands
-        16: 38303 # Back
+      # Eternal Curator's Chains [Normal]
+      - transmogSetId: 1646
+        wowheadSetId: 2821
 
-    # Raid Finder set=1649
-    - name: Eternal Curator's Chains
-      wowheadSetId: 2824
-      items:
-        1:  38288 # Head
-        3:  38290 # Shoulders
-        5:  38286 # Chest
-        6:  38284 # Waist
-        7:  38289 # Legs
-        8:  38285 # Feet
-        9:  38291 # Wrists
-        10: 38287 # Hands
-        16: 38306 # Back
+      # Eternal Curator's Chains [Raid Finder]
+      - transmogSetId: 1649
+        wowheadSetId: 2824
 
     plate:
-    # Mythic set=1652
-    - name: Eternal Curator's Protectorate
-      wowheadSetId: 2847
-      items:
-        1:  38428 # Head
-        3:  38430 # Shoulders
-        5:  38426 # Chest
-        6:  38424 # Waist
-        7:  38429 # Legs
-        8:  38425 # Feet
-        9:  38431 # Wrists
-        10: 38427 # Hands
+      # Eternal Curator's Protectorate [Mythic]
+      - transmogSetId: 1652
+        wowheadSetId: 2847
 
-    # Heroic set=1651
-    - name: Eternal Curator's Protectorate
-      wowheadSetId: 2846
-      items:
-        1:  38395 # Head
-        3:  38397 # Shoulders
-        5:  38393 # Chest
-        6:  38391 # Waist
-        7:  38396 # Legs
-        8:  38392 # Feet
-        9:  38398 # Wrists
-        10: 38394 # Hands
+      # Eternal Curator's Protectorate [Heroic]
+      - transmogSetId: 1651
+        wowheadSetId: 2846
 
-    # Normal set=1650
-    - name: Eternal Curator's Protectorate
-      wowheadSetId: 2845
-      items:
-        1:  38417 # Head
-        3:  38419 # Shoulders
-        5:  38415 # Chest
-        6:  38413 # Waist
-        7:  38418 # Legs
-        8:  38414 # Feet
-        9:  38420 # Wrists
-        10: 38416 # Hands
-        16: 38421 # Back
+      # Eternal Curator's Protectorate [Normal]
+      - transmogSetId: 1650
+        wowheadSetId: 2845
 
-    # Raid Finder set=1653
-    - name: Eternal Curator's Protectorate
-      wowheadSetId: 2848
-      items:
-        1:  38406 # Head
-        3:  38408 # Shoulders
-        5:  38404 # Chest
-        6:  38402 # Waist
-        7:  38407 # Legs
-        8:  38403 # Feet
-        9:  38409 # Wrists
-        10: 38405 # Hands
-        16: 38410 # Back
+      # Eternal Curator's Protectorate [Raid Finder]
+      - transmogSetId: 1653
+        wowheadSetId: 2848
