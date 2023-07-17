@@ -7,9 +7,9 @@
 09-dragonflight/_.yml
 
 08-shadowlands/_.yml
-    08-shadowlands/covenants.yml
-    08-shadowlands/korthia.yml
     08-shadowlands/zereth_mortis.yml
+    08-shadowlands/korthia.yml
+    08-shadowlands/covenants.yml
 
 07-battle-for-azeroth/_.yml
 
