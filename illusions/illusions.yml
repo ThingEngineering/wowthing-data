@@ -5,6 +5,15 @@
     - id: 6262 # Unbreakable Resolve
     - id: 6263 # Wild Soul
 
+- name: "Crafted"
+  items:
+    - id: 6675 # Primal Air
+    - id: 6676 # Primal Earth
+    - id: 6677 # Primal Fire
+    - id: 6678 # Primal Frost
+    - id: 6672 # Primal Mastery
+    - id: 6686 # Primal Storm
+
 - name: "Holidays"
   items:
     - id: 3273 # Deathfrost [Midsummer, Ahune]
@@ -17,7 +26,7 @@
 
 - name: "PvP"
   items:
-    - id: 6378 # Eternal Flux [Shadowlands Season 4]
+    - id: 6836 # Shadow Flame [Dragonflight Season 2]
 
 - name: "Recruit-A-Friend"
   items:
@@ -149,3 +158,5 @@
     - id: 6266 # Sinful Flame [Shadowlands Season 1]
     - id: 6344 # Unchained Fury [Shadowlands Season 2]
     - id: 6351 # Cosmic Flow [Shadowlands Season 3]
+    - id: 6378 # Eternal Flux [Shadowlands Season 4]
+    - id: 6786 # Primal Storm [Dragonflight Season 1]
