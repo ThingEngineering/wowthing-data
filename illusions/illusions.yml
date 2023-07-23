@@ -12,7 +12,6 @@
     - id: 6677 # Primal Fire
     - id: 6678 # Primal Frost
     - id: 6672 # Primal Mastery
-    - id: 6686 # Primal Storm
 
 - name: "Holidays"
   items:
