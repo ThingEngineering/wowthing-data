@@ -7,18 +7,24 @@ groups:
 
 - name: "Engineering"
   things:
+    - 198173 # Atomic Recalibrator
     - 198264 # Centralized Precipitation Emitter
+    - 202309 # Defective Doomsday Device
+    - 202360 # Dented Can
     - 192443 # Element-Infused Rocket Helmet
     - 198206 # Environmental Emulator
     - 198227 # Giggle Goggles
+    - 201930 # H.E.L.P.
     - 192495 # Malfunctioning Stealthman 54
+    - 204818 # Mallard Mortar
     - 199554 # S.E.A.T.
     - 198156 # Wyrmhole Generator
 
 - name: "Jewelcrafting"
   things:
-    - 193032 # Jeweled Offering
+    - 205045 # B.B.F. Fist
     - 193033 # Convergent Prism
+    - 193032 # Jeweled Offering
 
 - name: "Leatherworking"
   things:

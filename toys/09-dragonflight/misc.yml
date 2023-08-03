@@ -3,5 +3,9 @@ groups:
 
 - name: "Achievements"
   things:
-  - 200630 # Ohn'ir Windsage's Hearthstone (Honor Our Ancestors)
-  - 198428 # Tuskarr Dinghy (River Rapids Wrangler)
+    - 208186 # Boffins (Temporal Acquisitions Specialist)
+    - 200630 # Ohn'ir Windsage's Hearthstone (Honor Our Ancestors)
+    - 207099 # Tiny Box of Tiny Rocks (Many Boxes, Many Rockses)
+    - 198428 # Tuskarr Dinghy (River Rapids Wrangler)
+    - 205904 # Vibrant Clacking Claw
+    - 197961 # Whelps on Strings

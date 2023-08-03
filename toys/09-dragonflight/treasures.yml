@@ -9,3 +9,7 @@ groups:
   things:
   - 200869 # Ohn Lite Branded Horn
   - 200878 # Wheeled Floaty Boaty Controller
+
+- name: "Zaralek Cavern"
+  things:
+    - 205418 # Blazing Shadowflame Cinder

@@ -3,4 +3,12 @@ groups:
 
 - name: "Achievements"
   things:
-  - 200631 # Happy Tuskarr Palooza (Brackenhide Hollow)
+    - 200631 # Happy Tuskarr Palooza (Brackenhide Hollow)
+
+- name: "Zskera Vaults"
+  things:
+    - 204256 # Holoviewer: The Scarlet Queen
+    - 204257 # Holoviewer: The Lady of Dreams
+    - 204262 # Holoviewer: The Timeless One
+    - 204687 # Obsidian Battle Horn
+    - 203852 # Spore-Bound Essence

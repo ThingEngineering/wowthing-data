@@ -1,0 +1,17 @@
+name: "Midsummer Fire Festival"
+groups:
+  
+- name: Midsummer Fire Festival
+  things:
+    -  34686 # Brazier of Dancing Flames
+    - 116440 # Burning Defender's Medallion
+    - 116435 # Cozy Bonfire
+    - 166746 # Fire Eater's Hearthstone
+    - 188701 # Fire Festival Batons
+    - 188699 # Insulated Dancing Insoles
+    - 141649 # Set of Matches
+    - 188695 # Summer Cranial Skillet
+
+- name: "Vendors"
+  things:
+    - 206038 # Flamin' Ring of Flashiness

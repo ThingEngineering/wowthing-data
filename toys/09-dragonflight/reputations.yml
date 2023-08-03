@@ -34,3 +34,17 @@ groups:
     - 199770 # Bronze Dragon Banner (Renown 26)
     - 199771 # Green Dragon Banner (Renown 26)
     - 199767 # Red Dragon Banner (Renown 26)
+
+- name: "Winterpelt Furbolg"
+  things:
+    - 202283 # Reading Glasses
+    - 203734 # Snow Blanket
+    - 202253 # Primal Stave of Claw and Fur
+
+- name: "Loamm Niffen"
+  things:
+    - 205963 # Sniffin' Salts
+
+- name: "Soridormi"
+  things:
+    - 208058 # Minute Glass

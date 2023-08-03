@@ -3,12 +3,20 @@ groups:
 
 - name: "Ohn'ahran Plains"
   things:
-  - 202042 # Aquatic Shades (The Great Swog)
+    - 202042 # Aquatic Shades (The Great Swog)
+
+- name: "Thaldraszus"
+  things:
+    - 201435 # Shuffling Sands
 
 - name: "Valdrakken"
   things:
-  - 202021 # Breaker's Flag of Victory
+    - 202021 # Breaker's Flag of Victory
 
 - name: "Waking Shores"
   things:
-  - 198646 # Ornate Dragon Statue
+    - 198646 # Ornate Dragon Statue
+
+- name: "Zaralek Cavern"
+  things:
+    - 205936 # New Niffen No-Sniffin' Tonic
