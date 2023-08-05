@@ -1,0 +1,35 @@
+##################################################
+# 187 Dragon Soul
+##################################################
+
+311: # Morchok
+  3: 6153 # 10 player
+  4: 6154 # 25 player
+
+324: # Warlord Zon'ozz
+  3: 6155 # 10 player
+  4: 6156 # 25 player
+
+325: # Yor'sahj the Unsleeping
+  3: 6157 # 10 player
+  4: 6158 # 25 player
+
+317: # Hagara the Stormbinder
+  3: 6159 # 10 player
+  4: 6160 # 25 player
+
+331: # Ultraxion
+  3: 6161 # 10 player
+  4: 6162 # 25 player
+
+332: # Warmaster Blackhorn
+  3: 6163 # 10 player
+  4: 6164 # 25 player
+
+318: # Spine of Deathwing
+  3: 6165 # 10 player
+  4: 6166 # 25 player
+
+333: # Madness of Deathwing
+  3: 6167 # 10 player
+  4: 6168 # 25 player

@@ -1,0 +1,27 @@
+##################################################
+# 73 Blackwing Descent
+##################################################
+
+170: # Omnotron Defense System
+  3: 5557 # 10 player
+  4: 5558 # 25 player
+
+170: # Magmaw
+  3: 5555 # 10 player
+  4: 5556 # 25 player
+
+171: # Atramedes
+  3: 5561 # 10 player
+  4: 5562 # 25 player
+
+172: # Chimaeron
+  3: 5564 # 10 player
+  4: 5563 # 25 player
+
+173: # Maloriak
+  3: 5559 # 10 player
+  4: 5560 # 25 player
+
+174: # Nefarian's End
+  3: 5565 # 25 player
+  4: 5566 # 25 player
