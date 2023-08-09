@@ -9,8 +9,24 @@ locations:
 
 sets:
   - name: "Warlands"
-    range: -1
-    sortKey: "tr08"
+    range: 5
+    sortKey: "tr08-0"
+  
+  - name: "Warlands - Cloth"
+    range: 12
+    sortKey: "tr08-1"
+
+  - name: "Warlands - Leather"
+    range: 12
+    sortKey: "tr08-2"
+
+  - name: "Warlands - Mail"
+    range: 12
+    sortKey: "tr08-3"
+
+  - name: "Warlands - Plate"
+    range: 12
+    sortKey: "tr08-4"
 
 sells:
   - type: mount
@@ -29,6 +45,33 @@ sells:
       2594: 2750
 
   - type: transmog
+    id: 207014 # Jingoist's Slicer [1h axe]
+    costs:
+      2594: 1000
+
+  - type: transmog
+    id: 207015 # Warmonger's Ripper [1h axe]
+    costs:
+      2594: 1000
+
+  # Cloth
+
+  - type: transmog
+    id: 206826 # Jingoist's Hood [cloth head]
+    costs:
+      2594: 1050
+
+  - type: transmog
+    id: 206821 # Jingoist's Robe [cloth chest]
+    costs:
+      2594: 1050
+
+  - type: transmog
+    id: 206825 # Jingoist's Leggings [cloth legs]
+    costs:
+      2594: 1050
+
+  - type: transmog
     id: 207082 # Jingoist's Cloth Armor Bag
     costs:
       2594: 1150
@@ -44,6 +87,53 @@ sells:
       2594: 1150
 
   - type: transmog
+    id: 206816 # Warmonger's Skullcap [cloth head]
+    costs:
+      2594: 1050
+
+  - type: transmog
+    id: 206808 # Warmonger's Robe [cloth chest]
+    costs:
+      2594: 1050
+
+  - type: transmog
+    id: 206814 # Warmonger's Leggings [cloth legs]
+    costs:
+      2594: 1050
+
+  - type: transmog
+    id: 207081 # Warmonger's Cloth Armor Bag
+    costs:
+      2594: 1150
+
+  - type: transmog
+    id: 207073 # Warmonger's Cloth Equipment Bag
+    costs:
+      2594: 1150
+
+  - type: transmog
+    id: 207074 # Warmonger's Cloth Gear Bag
+    costs:
+      2594: 1150
+
+  # Leather
+
+  - type: transmog
+    id: 206834 # Jingoist's Headcover [leather head]
+    costs:
+      2594: 1050
+
+  - type: transmog
+    id: 206839 # Jingoist's Cuirass [leather chest]
+    costs:
+      2594: 1050
+
+  - type: transmog
+    id: 206835 # Jingoist's Pantaloons [leather legs]
+    costs:
+      2594: 1050
+
+  - type: transmog
     id: 207080 # Jingoist's Leather Armor Bag
     costs:
       2594: 1150
@@ -57,6 +147,48 @@ sells:
     id: 207067 # Jingoist's Leather Gear Bag
     costs:
       2594: 1150
+
+  - type: transmog
+    id: 206846 # Warmonger's Headcover [leather head]
+    costs:
+      2594: 1050
+
+  - type: transmog
+    id: 206845 # Warmonger's Pantaloons [leather legs]
+    costs:
+      2594: 1050
+
+  - type: transmog
+    id: 207079 # Warmonger's Leather Armor Bag
+    costs:
+      2594: 1150
+
+  - type: transmog
+    id: 207069 # Warmonger's Leather Equipment Bag
+    costs:
+      2594: 1150
+
+  - type: transmog
+    id: 207070 # Warmonger's Leather Gear Bag
+    costs:
+      2594: 1150
+
+  - type: transmog
+    id: 207094 # Warmonger's Leather Suit Bag
+    costs:
+      2594: 1150
+
+  # Mail
+
+  - type: transmog
+    id: 206865 # Jingoist's Casque [mail head]
+    costs:
+      2594: 1050
+
+  - type: transmog
+    id: 206864 # Jingoist's Legguards [mail legs]
+    costs:
+      2594: 1050
 
   - type: transmog
     id: 207078 # Jingoist's Mail Armor Bag
@@ -79,54 +211,19 @@ sells:
       2594: 1150
 
   - type: transmog
-    id: 207075 # Jingoist's Plate Armor Bag
+    id: 206853 # Warmonger's Casque [mail head]
     costs:
-      2594: 1150
+      2594: 1050
 
   - type: transmog
-    id: 207052 # Jingoist's Plate Equipment Bag
+    id: 206858 # Warmonger's Chainmail [mail chest]
     costs:
-      2594: 1150
+      2594: 1050
 
   - type: transmog
-    id: 207053 # Jingoist's Plate Gear Bag
+    id: 206854 # Warmonger's Legguards [mail legs]
     costs:
-      2594: 1150
-
-  - type: transmog
-    id: 207081 # Warmonger's Cloth Armor Bag
-    costs:
-      2594: 1150
-
-  - type: transmog
-    id: 207073 # Warmonger's Cloth Equipment Bag
-    costs:
-      2594: 1150
-
-  - type: transmog
-    id: 207074 # Warmonger's Cloth Gear Bag
-    costs:
-      2594: 1150
-
-  - type: transmog
-    id: 207079 # Warmonger's Leather Armor Bag
-    costs:
-      2594: 1150
-
-  - type: transmog
-    id: 207069 # Warmonger's Leather Equipment Bag
-    costs:
-      2594: 1150
-
-  - type: transmog
-    id: 207070 # Warmonger's Leather Gear Bag
-    costs:
-      2594: 1150
-
-  - type: transmog
-    id: 207094 # Warmonger's Leather Suit Bag
-    costs:
-      2594: 1150
+      2594: 1050
 
   - type: transmog
     id: 207077 # Warmonger's Mail Armor Bag
@@ -143,6 +240,53 @@ sells:
     costs:
       2594: 1150
 
+  # Plate
+
+  - type: transmog
+    id: 206873 # Jingoist's Greathelm [plate head]
+    costs:
+      2594: 1050
+
+  - type: transmog
+    id: 206878 # Jingoist's Breastplate [plate chest]
+    costs:
+      2594: 1050
+
+  - type: transmog
+    id: 206874 # Jingoist's Legplates [plate legs]
+    costs:
+      2594: 1050
+
+  - type: transmog
+    id: 207075 # Jingoist's Plate Armor Bag
+    costs:
+      2594: 1150
+
+  - type: transmog
+    id: 207052 # Jingoist's Plate Equipment Bag
+    costs:
+      2594: 1150
+
+  - type: transmog
+    id: 207053 # Jingoist's Plate Gear Bag
+    costs:
+      2594: 1150
+
+  - type: transmog
+    id: 206884 # Warmonger's Greathelm [plate head]
+    costs:
+      2594: 1050
+
+  - type: transmog
+    id: 206879 # Warmonger's Breastplate [plate chest]
+    costs:
+      2594: 1050
+
+  - type: transmog
+    id: 206883 # Warmonger's Legplates [plate legs]
+    costs:
+      2594: 1050
+
   - type: transmog
     id: 207076 # Warmonger's Plate Armor Bag
     costs:
@@ -157,123 +301,3 @@ sells:
     id: 207050 # Warmonger's Plate Gear Bag
     costs:
       2594: 1150
-
-  - type: transmog
-    id: 206826 # Jingoist's Hood [cloth head]
-    costs:
-      2594: 1050
-
-  - type: transmog
-    id: 206816 # Warmonger's Skullcap [cloth head]
-    costs:
-      2594: 1050
-
-  - type: transmog
-    id: 206821 # Jingoist's Robe [cloth chest]
-    costs:
-      2594: 1050
-
-  - type: transmog
-    id: 206808 # Warmonger's Robe [cloth chest]
-    costs:
-      2594: 1050
-
-  - type: transmog
-    id: 206825 # Jingoist's Leggings [cloth legs]
-    costs:
-      2594: 1050
-
-  - type: transmog
-    id: 206814 # Warmonger's Leggings [cloth legs]
-    costs:
-      2594: 1050
-
-  - type: transmog
-    id: 206834 # Jingoist's Headcover [leather head]
-    costs:
-      2594: 1050
-
-  - type: transmog
-    id: 206846 # Warmonger's Headcover [leather head]
-    costs:
-      2594: 1050
-
-  - type: transmog
-    id: 206839 # Jingoist's Cuirass [leather chest]
-    costs:
-      2594: 1050
-
-  - type: transmog
-    id: 206835 # Jingoist's Pantaloons [leather legs]
-    costs:
-      2594: 1050
-
-  - type: transmog
-    id: 206845 # Warmonger's Pantaloons [leather legs]
-    costs:
-      2594: 1050
-
-  - type: transmog
-    id: 206865 # Jingoist's Casque [mail head]
-    costs:
-      2594: 1050
-
-  - type: transmog
-    id: 206853 # Warmonger's Casque [mail head]
-    costs:
-      2594: 1050
-
-  - type: transmog
-    id: 206858 # Warmonger's Chainmail [mail chest]
-    costs:
-      2594: 1050
-
-  - type: transmog
-    id: 206864 # Jingoist's Legguards [mail legs]
-    costs:
-      2594: 1050
-
-  - type: transmog
-    id: 206854 # Warmonger's Legguards [mail legs]
-    costs:
-      2594: 1050
-
-  - type: transmog
-    id: 206873 # Jingoist's Greathelm [plate head]
-    costs:
-      2594: 1050
-
-  - type: transmog
-    id: 206884 # Warmonger's Greathelm [plate head]
-    costs:
-      2594: 1050
-
-  - type: transmog
-    id: 206878 # Jingoist's Breastplate [plate chest]
-    costs:
-      2594: 1050
-
-  - type: transmog
-    id: 206879 # Warmonger's Breastplate [plate chest]
-    costs:
-      2594: 1050
-
-  - type: transmog
-    id: 206874 # Jingoist's Legplates [plate legs]
-    costs:
-      2594: 1050
-
-  - type: transmog
-    id: 206883 # Warmonger's Legplates [plate legs]
-    costs:
-      2594: 1050
-
-  - type: transmog
-    id: 207014 # Jingoist's Slicer [1h axe]
-    costs:
-      2594: 1000
-
-  - type: transmog
-    id: 207015 # Warmonger's Ripper [1h axe]
-    costs:
-      2594: 1000
