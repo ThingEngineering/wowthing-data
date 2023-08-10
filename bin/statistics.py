@@ -5,7 +5,18 @@ import re
 import sys
 
 
-DIFFICULTIES = [
+ENCOUNTER_NAME_OVERRIDES = {
+    'Raszageth the Storm-Eater': 'Raszageth',
+}
+
+DUNGEON_DIFFICULTIES = [
+    [1, 'Normal'],
+    [2, 'Heroic'],
+    [23, 'Mythic'],
+]
+DUNGEON_DIFFICULTY_MAP = {k: v for k, v in DUNGEON_DIFFICULTIES}
+
+RAID_DIFFICULTIES = [
     [3, '10-player Normal'],
     [4, '25-player Normal'],
     [5, '10-player Heroic'],
@@ -19,10 +30,7 @@ DIFFICULTIES = [
     [16, 'Mythic'],
     [17, 'Raid Finder'],
 ]
-
-ENCOUNTER_NAME_OVERRIDES = {
-    'Raszageth the Storm-Eater': 'Raszageth',
-}
+RAID_DIFFICULTY_MAP = {k: v for k, v in RAID_DIFFICULTIES}
 
 
 def main():
@@ -33,9 +41,10 @@ def main():
         for row in csv.DictReader(csv_file):
             flags = int(row['Flags'])
             id = int(row['ID'])
+            instance_id = int(row['Instance_ID'])
             title = row['Title_lang']
             if (flags & 1) == 1:
-                achievements[title.lower()] = id
+                achievements[title.lower()] = [id, instance_id]
 
     difficulties = {}
     with open(os.path.join(dumps_path, 'difficulty.csv')) as csv_file:
@@ -73,41 +82,60 @@ def main():
             encounter_id = int(row['JournalEncounterID'])
             encounter_difficulties.setdefault(encounter_id, []).append(difficulty)
     
+    maps = {}
+    with open(os.path.join(dumps_path, 'map.csv')) as csv_file:
+        for row in csv.DictReader(csv_file):
+            id = int(row['ID'])
+            instance_type = int(row['InstanceType'])
+            maps[id] = instance_type
 
     for [instance_id, instance_name] in instances:
         printed_instance = False
         encounters = sorted(instance_encounters.get(instance_id, []))
         for [order, encounter_id, encounter_name] in encounters:
             printed_encounter = False
-            for [difficulty, difficulty_name] in DIFFICULTIES:
+            for [difficulty, difficulty_name] in DUNGEON_DIFFICULTIES + RAID_DIFFICULTIES:
                 stat_title = None
                 if difficulty_name == '40 player':
                     stat_title = f'{encounter_name} kills ({instance_name})'
                 else:
                     stat_title = f'{encounter_name} kills ({difficulty_name} {instance_name})'
 
-                achievement_id = achievements.get(stat_title.lower()) or \
+                achievement_data = achievements.get(stat_title.lower()) or \
                     achievements.get(stat_title.replace(' kills ', ' ').lower())
 
-                if not achievement_id and ', ' in encounter_name:
+                if achievement_data is None and ', ' in encounter_name:
                     stat_title = stat_title.replace(encounter_name, encounter_name.split(', ')[0])
-                    achievement_id = achievements.get(stat_title.lower()) or \
+                    achievement_data = achievements.get(stat_title.lower()) or \
                         achievements.get(stat_title.replace(' kills ', ' ').lower())
 
-                if achievement_id:
-                    if not printed_instance:
-                        printed_instance = True
-                        print()
-                        print('#' * 50)
-                        print(f'# {instance_id} {instance_name}')
-                        print('#' * 50)
-                    
-                    if not printed_encounter:
-                        printed_encounter = True
-                        print()
-                        print(f'{encounter_id}: # {encounter_name}')
+                if achievement_data is None:
+                    continue
 
-                    print(f'  {difficulty}: {achievement_id} # {difficulty_name}')
+                achievement_id, map_id = achievement_data
+
+                if map_id > 0 and map_id in maps:
+                    map_type = maps[map_id]
+                    if map_type == 1 and difficulty not in DUNGEON_DIFFICULTY_MAP:
+                        # print(f'# not a dungeon?? achievement={achievement_id} map={map_id} instance={instance_name} difficulty={difficulty} type={map_type}')
+                        continue
+                    elif map_type == 2 and difficulty not in RAID_DIFFICULTY_MAP:
+                        # print(f'# not a raid?? achievement={achievement_id} map={map_id} instance={instance_name} difficulty={difficulty} type={map_type}')
+                        continue
+
+                if not printed_instance:
+                    printed_instance = True
+                    print()
+                    print('#' * 50)
+                    print(f'# {instance_id} {instance_name}')
+                    print('#' * 50)
+                
+                if not printed_encounter:
+                    printed_encounter = True
+                    print()
+                    print(f'{encounter_id}: # {encounter_name}')
+
+                print(f'  {difficulty}: {achievement_id} # {difficulty_name}')
                     
             #for difficulty in sorted(encounter_difficulties.get(encounter_id, [])):
             #    if difficulty not in difficulties:
