@@ -50,12 +50,16 @@
     09-dragonflight/intro.yml
     09-dragonflight/zone_storylines.yml
     09-dragonflight/zone_optional.yml
+    09-dragonflight/forbidden_reach.yml
+    09-dragonflight/zaralek_cavern.yml
     09-dragonflight/professions.yml
     09-dragonflight/sparks.yml
-    09-dragonflight/zaralek_cavern.yml
     09-dragonflight/raid_skips.yml
 
 -
+
+dragon-racing/_.yml
+    dragon-racing/waking_shores.yml
 
 world-events/_world_events.yml
     world-events/brewfest.yml

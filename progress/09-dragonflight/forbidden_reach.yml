@@ -1,0 +1,39 @@
+name: "Forbidden Reach"
+groups:
+  
+- name: "A Creche Divided"
+  icon: "achievement/16401"
+  iconText: "ACD"
+  lookup: none
+  type: quest
+  data:
+    0:
+      - name: "Hidden Legacies"
+        id: 74381
+
+      - name: "Return to the Reach"
+        id: 73076
+
+      - name: "The Best We Have"
+        id: 72712
+
+      - name: "Inheritance"
+        id: 72713
+
+      - name: "Creche Fallen"
+        id: 72545
+
+      - name: "Aiding the Expedition"
+        id: 73094
+
+      - name: "An Interdisciplinary Approach"
+        id: 72714
+
+      - name: "Keeping the Flame at Bay"
+        id: 72715
+
+      - name: "Chasing the Flame"
+        id: 73137
+
+      - name: "A Creche Divided"
+        id: 72717
