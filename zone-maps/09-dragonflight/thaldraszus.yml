@@ -373,3 +373,17 @@ farms:
       id: 198684 # Miniature Bronze Dragonflight Banner
       limit: profession tailoring 2831 25
       note: "{price:3|2026}" # Tailoring Knowledge
+
+# Treasure
+
+- name: "{item:203206}"
+  criteriaId: 137709 # achievement 16301
+  location: 60.24 41.64
+  minimumLevel: 64
+  objectId: 381094
+  reset: never
+  type: treasure
+  drops:
+    - type: item
+      id: 203206 # Elegant Canvas Brush
+      note: "Vendors for 2,112g"
