@@ -179,7 +179,7 @@ groups:
     - itemId: 197014 # Cliffside Wylderdrake: White Scales
       questId: 69214
 
-    - itemId: 208102 # Cliffside Wylderdrake: White Scales
+    - itemId: 208102 # Cliffside Wylderdrake: Infinite Scales
       questId: 77258
 
 - name: 'Tail'
