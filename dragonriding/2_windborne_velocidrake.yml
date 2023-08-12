@@ -144,6 +144,9 @@ groups:
     - itemId: 197616 # Windborne Velocidrake: White Scales
       questId: 69820
 
+    - itemId: 208105 # Windborne Velocidrake: Infinite Scales
+      questId: 77256
+
 - name: 'Skin Scale'
   things:
     - itemId: 197617 # Windborne Velocidrake: Heavy Scales

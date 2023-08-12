@@ -179,6 +179,9 @@ groups:
     - itemId: 197014 # Cliffside Wylderdrake: White Scales
       questId: 69214
 
+    - itemId: 208102 # Cliffside Wylderdrake: White Scales
+      questId: 77258
+
 - name: 'Tail'
   things:
     - itemId: 197019 # Cliffside Wylderdrake: Blunt Spiked Tail

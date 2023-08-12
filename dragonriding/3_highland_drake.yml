@@ -171,6 +171,9 @@ groups:
     - itemId: 197146 # Highland Drake: White Scales
       questId: 69347
 
+    - itemId: 208103 # Highland Drake: Infinite Scales
+      questId: 77257
+
 - name: 'Skin Scale'
   things:
     - itemId: 197147 # Highland Drake: Heavy Scales
