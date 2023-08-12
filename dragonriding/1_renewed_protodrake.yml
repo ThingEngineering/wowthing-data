@@ -159,6 +159,9 @@ groups:
     - itemId: 197393 # Renewed Proto-Drake: White Scales
       questId: 69594
 
+    - itemId: 208104 # Renewed Proto-Drake: Infinite Scales
+      questId: 77255
+
 - name: 'Skin Scale'
   things:
     - itemId: 197397 # Renewed Proto-Drake: Heavy Scales
