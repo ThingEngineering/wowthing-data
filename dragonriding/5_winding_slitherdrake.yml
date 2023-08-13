@@ -1,0 +1,235 @@
+name: 'Winding Slitherdrake'
+groups:
+
+- name: 'Full Transformation'
+  things:
+    - itemId: 205865 # Winding Slitherdrake: Embodiment of the Obsidian Gladiator
+      questId: 75941
+
+- name: 'Skin Color'
+  things:
+    - itemId: 203350 # Winding Slitherdrake: Blue Scales
+      questId: 73841
+
+    - itemId: 203351 # Winding Slitherdrake: Bronze Scales
+      questId: 73842
+
+    - itemId: 203352 # Winding Slitherdrake: Green Scales
+      questId: 73843
+
+    - itemId: 203353 # Winding Slitherdrake: Red Scales
+      questId: 73844
+
+#    - itemId: 203354 # Winding Slitherdrake: White Scales
+#      questId: 73845
+
+#    - itemId: 203355 # Winding Slitherdrake: Yellow Scales
+#      questId: 73846
+
+    - itemId: 208106 # Winding Slitherdrake: Infinite Scales
+      questId: 77259
+
+- name: 'Horns'
+  things:
+    - itemId: 203330 # Winding Slitherdrake: Swept Horns
+      questId: 73818
+
+    - itemId: 203331 # Winding Slitherdrake: Cluster Horns
+      questId: 73820
+
+    - itemId: 203332 # Winding Slitherdrake: Spiked Horns
+      questId: 73821
+
+    - itemId: 203333 # Winding Slitherdrake: Short Horns
+      questId: 73822
+
+    - itemId: 203334 # Winding Slitherdrake: Curled Horns
+      questId: 73824
+
+    - itemId: 203335 # Winding Slitherdrake: Curved Horns
+      questId: 73825
+
+    - itemId: 203336 # Winding Slitherdrake: Paired Horns
+      questId: 73826
+
+    - itemId: 203337 # Winding Slitherdrake: Thorn Horns
+      questId: 73827
+
+    - itemId: 203338 # Winding Slitherdrake: Antler Horns
+      questId: 73829
+
+    - itemId: 203339 # Winding Slitherdrake: Impaler Horns
+      questId: 73830
+
+- name: 'Horn Color'
+  things:
+    - itemId: 203327 # Winding Slitherdrake: Tan Horns
+      questId: 73815
+
+    - itemId: 203328 # Winding Slitherdrake: White Horns
+      questId: 73816
+
+- name: 'Throat'
+  things:
+    - itemId: 203363 # Winding Slitherdrake: Large Finned Throat
+      questId: 73855
+
+    - itemId: 203364 # Winding Slitherdrake: Small Finned Throat
+      questId: 73856
+
+    - itemId: 203365 # Winding Slitherdrake: Hairy Throat
+      questId: 73857
+
+- name: 'Crest'
+  things:
+    - itemId: 203315 # Winding Slitherdrake: Small Spiked Crest
+      questId: 73803
+
+    - itemId: 203316 # Winding Slitherdrake: Large Finned Crest
+      questId: 73804
+
+    - itemId: 203317 # Winding Slitherdrake: Small Finned Crest
+      questId: 73805
+
+    - itemId: 203318 # Winding Slitherdrake: Hairy Crest
+      questId: 73806
+
+- name: 'Skin Scale Type'
+  things:
+    - itemId: 205341 # Winding Slitherdrake: Heavy Scales
+      questId: 75743
+    
+- name: 'Chin'
+  things:
+    - itemId: 203309 # Winding Slitherdrake: Long Chin Horn
+      questId: 73797
+
+    - itemId: 203310 # Winding Slitherdrake: Grand Chin Thorn
+      questId: 73798
+
+    - itemId: 203311 # Winding Slitherdrake: Hairy Chin
+      questId: 73799
+
+    - itemId: 203312 # Winding Slitherdrake: Cluster Chin Horn
+      questId: 73800
+
+    - itemId: 203313 # Winding Slitherdrake: Spiked Chin
+      questId: 73801
+
+    - itemId: 203314 # Winding Slitherdrake: Curved Chin Horn
+      questId: 73802
+
+- name: 'Body Armor'
+  things:
+    
+- name: 'Head Armor'
+  things:
+
+- name: 'Armor Color'
+  things:
+    - itemId: 203299 # Winding Slitherdrake: Green and Bronze Armor
+      questId: 73787
+
+    - itemId: 203300 # Winding Slitherdrake: Blue and Silver Armor
+      questId: 73788
+
+    - itemId: 203303 # Winding Slitherdrake: Red and Gold Armor
+      questId: 73791
+
+    - itemId: 203304 # Winding Slitherdrake: Yellow and Silver Armor
+      questId: 73792
+
+- name: 'Tail'
+  things:
+    - itemId: 203357 # Winding Slitherdrake: Spiked Tail
+      questId: 73849
+
+    - itemId: 203358 # Winding Slitherdrake: Small Finned Tail
+      questId: 73850
+
+    - itemId: 203359 # Winding Slitherdrake: Shark Finned Tail
+      questId: 73851
+
+    - itemId: 203360 # Winding Slitherdrake: Large Finned Tail
+      questId: 73852
+
+    - itemId: 203361 # Winding Slitherdrake: Finned Tip Tail
+      questId: 73853
+
+    - itemId: 203362 # Winding Slitherdrake: Hairy Tail
+      questId: 73854
+
+- name: 'Fur Color'
+  things:
+    - itemId: 203322 # Winding Slitherdrake: Blonde Hair
+      questId: 73810
+
+    - itemId: 203323 # Winding Slitherdrake: Brown Hair
+      questId: 73811
+
+    - itemId: 203324 # Winding Slitherdrake: White Hair
+      questId: 73812
+
+    - itemId: 203325 # Winding Slitherdrake: Red Hair
+      questId: 73813
+
+- name: 'Brow'
+  things:
+    - itemId: 203306 # Winding Slitherdrake: Horned Brow
+      questId: 73794
+
+    - itemId: 203307 # Winding Slitherdrake: Plated Brow
+      questId: 73795
+
+    - itemId: 203308 # Winding Slitherdrake: Hairy Brow
+      questId: 73796
+
+- name: 'Ears'
+  things:
+    - itemId: 203319 # Winding Slitherdrake: Finned Cheek
+      questId: 73807
+
+    - itemId: 203320 # Winding Slitherdrake: Ears
+      questId: 73808
+
+    - itemId: 203321 # Winding Slitherdrake: Curled Cheek Horn
+      questId: 73809
+
+- name: 'Jaw'
+  things:
+    - itemId: 203340 # Winding Slitherdrake: Cluster Jaw Horns
+      questId: 73831
+
+    - itemId: 203341 # Winding Slitherdrake: Long Jaw Horns
+      questId: 73832
+
+    - itemId: 203342 # Winding Slitherdrake: Triple Jaw Horns
+      questId: 73833
+
+    - itemId: 203343 # Winding Slitherdrake: Hairy Jaw
+      questId: 73834
+
+    - itemId: 203344 # Winding Slitherdrake: Single Jaw Horn
+      questId: 73835
+
+    - itemId: 203345 # Winding Slitherdrake: Split Jaw Horns
+      questId: 73836
+
+- name: 'Nose'
+  things:
+    - itemId: 203346 # Winding Slitherdrake: Curled Nose
+      questId: 73837
+
+    - itemId: 203347 # Winding Slitherdrake: Large Spiked Nose
+      questId: 73838
+
+    - itemId: 203348 # Winding Slitherdrake: Pointed Nose
+      questId: 73839
+
+    - itemId: 203349 # Winding Slitherdrake: Curved Nose Horn
+      questId: 73840
+
+#- name: 'Horn Style'
+#  things:
+#    - itemId: 203329 # Winding Slitherdrake: Heavy Horns
+#      questId: 73817
