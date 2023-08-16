@@ -73,16 +73,19 @@ sells:
 
   - type: transmog
     id: 207082 # Jingoist's Cloth Armor Bag
+    appearanceId: 37224 37220 # shoulders back
     costs:
       2594: 1150
 
   - type: transmog
     id: 207072 # Jingoist's Cloth Equipment Bag
+    appearanceId: 37225 37221 # wrists hands
     costs:
       2594: 1150
 
   - type: transmog
     id: 207071 # Jingoist's Cloth Gear Bag
+    appearanceId: 37217 37218 # waist feet
     costs:
       2594: 1150
 
@@ -103,16 +106,19 @@ sells:
 
   - type: transmog
     id: 207081 # Warmonger's Cloth Armor Bag
+    appearanceId: 36806 36957 # shoulders back
     costs:
       2594: 1150
 
   - type: transmog
     id: 207073 # Warmonger's Cloth Equipment Bag
+    appearanceId: 37081 36768 # waist feet
     costs:
       2594: 1150
 
   - type: transmog
     id: 207074 # Warmonger's Cloth Gear Bag
+    appearanceId: 36771 37077 # wrists hands
     costs:
       2594: 1150
 
@@ -135,16 +141,19 @@ sells:
 
   - type: transmog
     id: 207080 # Jingoist's Leather Armor Bag
+    appearanceId: 36904 36871 # shoulders back
     costs:
       2594: 1150
 
   - type: transmog
     id: 207068 # Jingoist's Leather Equipment Bag
-    costs:
+    appearanceId: 36855 36859 # wrists hands
+    costs: #
       2594: 1150
 
   - type: transmog
     id: 207067 # Jingoist's Leather Gear Bag
+    appearanceId: 36898 36853 # waist feet
     costs:
       2594: 1150
 
@@ -160,21 +169,25 @@ sells:
 
   - type: transmog
     id: 207079 # Warmonger's Leather Armor Bag
+    appearanceId: 37404 37681 # shoulders back
     costs:
       2594: 1150
 
   - type: transmog
     id: 207069 # Warmonger's Leather Equipment Bag
+    appearanceId: 37402 37413 # waist feet
     costs:
       2594: 1150
 
   - type: transmog
     id: 207070 # Warmonger's Leather Gear Bag
+    appearanceId: 37374 37414 # wrists hands
     costs:
       2594: 1150
 
   - type: transmog
     id: 207094 # Warmonger's Leather Suit Bag
+    appearanceId: 37375 37377 # chest chest
     costs:
       2594: 1150
 
@@ -192,21 +205,25 @@ sells:
 
   - type: transmog
     id: 207078 # Jingoist's Mail Armor Bag
+    appearanceId: 37284 37269 # shoulders back
     costs:
       2594: 1150
 
   - type: transmog
     id: 207063 # Jingoist's Mail Equipment Bag
+    appearanceId: 37275 37270 # wrists hands
     costs:
       2594: 1150
 
   - type: transmog
     id: 207064 # Jingoist's Mail Gear Bag
+    appearanceId: 37282 37267 # waist feet
     costs:
       2594: 1150
 
   - type: transmog
     id: 207093 # Jingoist's Mail Suit Bag
+    appearanceId: 37268 37273 # chest chest
     costs:
       2594: 1150
 
@@ -227,16 +244,19 @@ sells:
 
   - type: transmog
     id: 207077 # Warmonger's Mail Armor Bag
+    appearanceId: 38061 38336 # shoulders back
     costs:
       2594: 1150
 
   - type: transmog
     id: 207066 # Warmonger's Mail Equipment Bag
+    appearanceId: 38059 38051 # waist feet
     costs:
       2594: 1150
 
   - type: transmog
     id: 207065 # Warmonger's Mail Gear Bag
+    appearanceId: 38057 38053 # wrists hands
     costs:
       2594: 1150
 
@@ -259,16 +279,19 @@ sells:
 
   - type: transmog
     id: 207075 # Jingoist's Plate Armor Bag
+    appearanceId: 37820 37854 # shoulders back
     costs:
       2594: 1150
 
   - type: transmog
     id: 207052 # Jingoist's Plate Equipment Bag
+    appearanceId: 37821 37817 # wrists hands
     costs:
       2594: 1150
 
   - type: transmog
     id: 207053 # Jingoist's Plate Gear Bag
+    appearanceId: 37814 37815 # waist feet
     costs:
       2594: 1150
 
@@ -289,15 +312,18 @@ sells:
 
   - type: transmog
     id: 207076 # Warmonger's Plate Armor Bag
+    appearanceId: 36952 36839 # shoulders back
     costs:
       2594: 1150
 
   - type: transmog
     id: 207051 # Warmonger's Plate Equipment Bag
+    appearanceId: 37097 37085 # waist feet
     costs:
       2594: 1150
 
   - type: transmog
     id: 207050 # Warmonger's Plate Gear Bag
+    appearanceId: 36842 37087 # wrists hands
     costs:
       2594: 1150
