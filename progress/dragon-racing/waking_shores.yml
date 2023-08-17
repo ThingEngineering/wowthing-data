@@ -1,0 +1,154 @@
+name: "Waking Shores"
+groups:
+
+- name: "Ruby Lifeshrine Loop"
+  icon: ""
+  iconText: "RLL"
+  lookup: none
+  type: dragon-racing
+  data:
+    0:
+      - id: 2042
+        name: "Normal"
+        value: 64
+      
+      - id: 2044
+        name: "Advanced"
+        value: 52
+      
+      - id: 2154
+        name: "Reverse"
+        value: 50
+
+- name: "Flashfrost Flyover"
+  icon: ""
+  iconText: "FF"
+  lookup: none
+  type: dragon-racing
+  data:
+    0:
+      - id: 2046
+        name: "Normal"
+        value: 63
+      
+      - id: 2047
+        name: "Advanced"
+        value: 61
+      
+      - id: 2181
+        name: "Reverse"
+        value: 60
+
+- name: "Wild Preserve Slalom"
+  icon: ""
+  iconText: "WPS"
+  lookup: none
+  type: dragon-racing
+  data:
+    0:
+      - id: 2048
+        name: "Normal"
+        value: 43
+      
+      - id: 2049
+        name: "Advanced"
+        value: 40
+      
+      - id: 2176
+        name: "Reverse"
+        value: 41
+
+- name: "Wild Preserve Circuit"
+  icon: ""
+  iconText: "WPC"
+  lookup: none
+  type: dragon-racing
+  data:
+    0:
+      - id: 2050
+        name: "Normal"
+        value: 41
+      
+      - id: 2051
+        name: "Advanced"
+        value: 38
+      
+      - id: 2182
+        name: "Reverse"
+        value: 41
+
+- name: "Apex Canopy River Run"
+  icon: ""
+  iconText: "ACRR"
+  lookup: none
+  type: dragon-racing
+  data:
+    0:
+      - id: 2054
+        name: "Normal"
+        value: 48
+      
+      - id: 2055
+        name: "Advanced"
+        value: 45
+      
+      - id: 2178
+        name: "Reverse"
+        value: 48
+
+- name: "Emberflow Flight"
+  icon: ""
+  iconText: "EF"
+  lookup: none
+  type: dragon-racing
+  data:
+    0:
+      - id: 2052
+        name: "Normal"
+        value: 47
+      
+      - id: 2053
+        name: "Advanced"
+        value: 44
+      
+      - id: 2177
+        name: "Reverse"
+        value: 45
+
+- name: Uktulut Coaster"
+  icon: ""
+  iconText: "UC"
+  lookup: none
+  type: dragon-racing
+  data:
+    0:
+      - id: 2056
+        name: "Normal"
+        value: 43
+      
+      - id: 2057
+        name: "Advanced"
+        value: 40
+      
+      - id: 2179
+        name: "Reverse"
+        value: 43
+
+- name: "Wingrest Roundabout"
+  icon: ""
+  iconText: "WR"
+  lookup: none
+  type: dragon-racing
+  data:
+    0:
+      - id: 2058
+        name: "Normal"
+        value: 53
+      
+      - id: 2059
+        name: "Advanced"
+        value: 53
+      
+      - id: 2180
+        name: "Reverse"
+        value: 56
