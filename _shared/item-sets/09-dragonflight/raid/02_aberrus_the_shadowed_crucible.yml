@@ -113,7 +113,8 @@ sets:
     items:
       - 202542 # Head
       - 202540 # Shoulders
-      - 205857 # Chest
+      - 202545 # Chest
+      - 205857 # Chest (normal only?)
       - 202538 # Wrists
       - 202543 # Hands
       - 202539 # Waist
