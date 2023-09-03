@@ -3,224 +3,225 @@ groups:
   - name: "Armor Color"
     things:
       - itemId: 203299 # Winding Slitherdrake: Green and Bronze Armor
-        questId: 399866
+        questId: 73787
 
       - itemId: 203300 # Winding Slitherdrake: Blue and Silver Armor
-        questId: 399867
+        questId: 73788
 
       - itemId: 203303 # Winding Slitherdrake: Red and Gold Armor
-        questId: 399870
+        questId: 73791
 
       - itemId: 203304 # Winding Slitherdrake: Yellow and Silver Armor
-        questId: 399871
+        questId: 73792
 
   - name: "Brow"
     things:
       - itemId: 203306 # Winding Slitherdrake: Horned Brow
-        questId: 399873
+        questId: 73794
 
       - itemId: 203307 # Winding Slitherdrake: Plated Brow
-        questId: 399874
+        questId: 73795
 
       - itemId: 203308 # Winding Slitherdrake: Hairy Brow
-        questId: 399875
+        questId: 73796
 
   - name: "Chin"
     things:
-      - itemId: 203309 # Winding Slitherdrake: Long Chin Horn
-        questId: 399876
-
-      - itemId: 203310 # Winding Slitherdrake: Grand Chin Thorn
-        questId: 399877
-
-      - itemId: 203311 # Winding Slitherdrake: Hairy Chin
-        questId: 399878
-
       - itemId: 203312 # Winding Slitherdrake: Cluster Chin Horn
-        questId: 399879
-
-      - itemId: 203313 # Winding Slitherdrake: Spiked Chin
-        questId: 399880
+        questId: 73800
 
       - itemId: 203314 # Winding Slitherdrake: Curved Chin Horn
-        questId: 399881
+        questId: 73802
+
+      - itemId: 203310 # Winding Slitherdrake: Grand Chin Thorn
+        questId: 73798
+
+      - itemId: 203311 # Winding Slitherdrake: Hairy Chin
+        questId: 73799
+
+      - itemId: 203309 # Winding Slitherdrake: Long Chin Horn
+        questId: 73797
+
+      - itemId: 203313 # Winding Slitherdrake: Spiked Chin
+        questId: 73801
 
   - name: "Crest"
     things:
-      - itemId: 203315 # Winding Slitherdrake: Small Spiked Crest
-        questId: 399882
+      - itemId: 203318 # Winding Slitherdrake: Hairy Crest
+        questId: 73806
 
       - itemId: 203316 # Winding Slitherdrake: Large Finned Crest
-        questId: 399883
+        questId: 73804
 
       - itemId: 203317 # Winding Slitherdrake: Small Finned Crest
-        questId: 399884
+        questId: 73805
 
-      - itemId: 203318 # Winding Slitherdrake: Hairy Crest
-        questId: 399885
+      - itemId: 203315 # Winding Slitherdrake: Small Spiked Crest
+        questId: 73803
 
   - name: "Ears"
     things:
-      - itemId: 203319 # Winding Slitherdrake: Finned Cheek
-        questId: 399886
-
-      - itemId: 203320 # Winding Slitherdrake: Ears
-        questId: 399887
 
       - itemId: 203321 # Winding Slitherdrake: Curled Cheek Horn
-        questId: 399888
+        questId: 73809
+
+      - itemId: 203320 # Winding Slitherdrake: Ears
+        questId: 73808
+
+      - itemId: 203319 # Winding Slitherdrake: Finned Cheek
+        questId: 73807
 
   - name: "Hair Color"
     things:
       - itemId: 203322 # Winding Slitherdrake: Blonde Hair
-        questId: 399889
+        questId: 73810
 
       - itemId: 203323 # Winding Slitherdrake: Brown Hair
-        questId: 399890
-
-      - itemId: 203324 # Winding Slitherdrake: White Hair
-        questId: 399891
+        questId: 73811
 
       - itemId: 203325 # Winding Slitherdrake: Red Hair
-        questId: 399892
+        questId: 73813
+
+      - itemId: 203324 # Winding Slitherdrake: White Hair
+        questId: 73812
 
   - name: "Horn Color"
     things:
       - itemId: 203327 # Winding Slitherdrake: Tan Horns
-        questId: 399894
+        questId: 73815
 
       - itemId: 203328 # Winding Slitherdrake: White Horns
-        questId: 399895
+        questId: 73816
 
   - name: "Horns"
     things:
-      - itemId: 203329 # Winding Slitherdrake: Heavy Horns
-        questId: 399896
-
-      - itemId: 203330 # Winding Slitherdrake: Swept Horns
-        questId: 399897
+      - itemId: 203338 # Winding Slitherdrake: Antler Horns
+        questId: 73829
 
       - itemId: 203331 # Winding Slitherdrake: Cluster Horns
-        questId: 399898
-
-      - itemId: 203332 # Winding Slitherdrake: Spiked Horns
-        questId: 399899
-
-      - itemId: 203333 # Winding Slitherdrake: Short Horns
-        questId: 399900
+        questId: 73820
 
       - itemId: 203334 # Winding Slitherdrake: Curled Horns
-        questId: 399901
+        questId: 73824
 
       - itemId: 203335 # Winding Slitherdrake: Curved Horns
-        questId: 399902
+        questId: 73825
 
-      - itemId: 203336 # Winding Slitherdrake: Paired Horns
-        questId: 399903
-
-      - itemId: 203337 # Winding Slitherdrake: Thorn Horns
-        questId: 399904
-
-      - itemId: 203338 # Winding Slitherdrake: Antler Horns
-        questId: 399905
+      - itemId: 203329 # Winding Slitherdrake: Heavy Horns
+        questId: 73817
 
       - itemId: 203339 # Winding Slitherdrake: Impaler Horns
-        questId: 399906
+        questId: 73830
+
+      - itemId: 203336 # Winding Slitherdrake: Paired Horns
+        questId: 73826
+
+      - itemId: 203333 # Winding Slitherdrake: Short Horns
+        questId: 73822
+
+      - itemId: 203332 # Winding Slitherdrake: Spiked Horns
+        questId: 73821
+
+      - itemId: 203330 # Winding Slitherdrake: Swept Horns
+        questId: 73818
+
+      - itemId: 203337 # Winding Slitherdrake: Thorn Horns
+        questId: 73827
 
   - name: "Jaw"
     things:
       - itemId: 203340 # Winding Slitherdrake: Cluster Jaw Horns
-        questId: 399907
-
-      - itemId: 203341 # Winding Slitherdrake: Long Jaw Horns
-        questId: 399908
-
-      - itemId: 203342 # Winding Slitherdrake: Triple Jaw Horns
-        questId: 399909
+        questId: 73831
 
       - itemId: 203343 # Winding Slitherdrake: Hairy Jaw
-        questId: 399910
+        questId: 73834
+
+      - itemId: 203341 # Winding Slitherdrake: Long Jaw Horns
+        questId: 73832
 
       - itemId: 203344 # Winding Slitherdrake: Single Jaw Horn
-        questId: 399911
+        questId: 73835
 
       - itemId: 203345 # Winding Slitherdrake: Split Jaw Horns
-        questId: 399912
+        questId: 73836
+
+      - itemId: 203342 # Winding Slitherdrake: Triple Jaw Horns
+        questId: 73833
 
   - name: "Nose"
     things:
       - itemId: 203346 # Winding Slitherdrake: Curled Nose
-        questId: 399913
-
-      - itemId: 203347 # Winding Slitherdrake: Large Spiked Nose
-        questId: 399914
-
-      - itemId: 203348 # Winding Slitherdrake: Pointed Nose
-        questId: 399915
+        questId: 73837
 
       - itemId: 203349 # Winding Slitherdrake: Curved Nose Horn
-        questId: 399916
+        questId: 73840
+
+      - itemId: 203347 # Winding Slitherdrake: Large Spiked Nose
+        questId: 73838
+
+      - itemId: 203348 # Winding Slitherdrake: Pointed Nose
+        questId: 73839
 
   - name: "Skin Color"
     things:
       - itemId: 203350 # Winding Slitherdrake: Blue Scales
-        questId: 399917
+        questId: 73841
 
       - itemId: 203351 # Winding Slitherdrake: Bronze Scales
-        questId: 399918
+        questId: 73842
 
       - itemId: 203352 # Winding Slitherdrake: Green Scales
-        questId: 399919
-
-      - itemId: 203353 # Winding Slitherdrake: Red Scales
-        questId: 399920
-
-      - itemId: 203354 # Winding Slitherdrake: White Scales
-        questId: 399921
-
-      - itemId: 203355 # Winding Slitherdrake: Yellow Scales
-        questId: 399922
+        questId: 73843
 
       - itemId: 208106 # Winding Slitherdrake: Infinite Scales
-        questId: 417877
+        questId: 77259
+
+      - itemId: 203353 # Winding Slitherdrake: Red Scales
+        questId: 73844
+
+      - itemId: 203354 # Winding Slitherdrake: White Scales
+        questId: 73845
+
+      - itemId: 203355 # Winding Slitherdrake: Yellow Scales
+        questId: 73846
 
   - name: "Skin Scale"
     things:
       - itemId: 205341 # Winding Slitherdrake: Heavy Scales
-        questId: 409482
+        questId: 75743
 
   - name: "Tail"
     things:
-      - itemId: 203357 # Winding Slitherdrake: Spiked Tail
-        questId: 399924
-
-      - itemId: 203358 # Winding Slitherdrake: Small Finned Tail
-        questId: 399925
-
-      - itemId: 203359 # Winding Slitherdrake: Shark Finned Tail
-        questId: 399926
-
-      - itemId: 203360 # Winding Slitherdrake: Large Finned Tail
-        questId: 399927
-
       - itemId: 203361 # Winding Slitherdrake: Finned Tip Tail
-        questId: 399928
+        questId: 73853
 
       - itemId: 203362 # Winding Slitherdrake: Hairy Tail
-        questId: 399929
+        questId: 73854
+
+      - itemId: 203360 # Winding Slitherdrake: Large Finned Tail
+        questId: 73852
+
+      - itemId: 203359 # Winding Slitherdrake: Shark Finned Tail
+        questId: 73851
+
+      - itemId: 203358 # Winding Slitherdrake: Small Finned Tail
+        questId: 73850
+
+      - itemId: 203357 # Winding Slitherdrake: Spiked Tail
+        questId: 73849
 
   - name: "Throat"
     things:
+      - itemId: 203365 # Winding Slitherdrake: Hairy Throat
+        questId: 73857
+
       - itemId: 203363 # Winding Slitherdrake: Large Finned Throat
-        questId: 399930
+        questId: 73855
 
       - itemId: 203364 # Winding Slitherdrake: Small Finned Throat
-        questId: 399931
-
-      - itemId: 203365 # Winding Slitherdrake: Hairy Throat
-        questId: 399932
+        questId: 73856
 
   - name: "Variation"
     things:
       - itemId: 205865 # Winding Slitherdrake: Embodiment of the Obsidian Gladiator
-        questId: 410722
+        questId: 75941
