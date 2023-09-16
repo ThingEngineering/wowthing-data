@@ -177,7 +177,6 @@ groups:
   type: armor
   sets:
     - "Crafted"
-    - "World Drop"
     - "War Mode"
     - "Primal Storms"
     - "The Forbidden Reach"
@@ -185,10 +184,6 @@ groups:
     cloth:
       # Vibrant Wildercloth [Crafted]
       - transmogSetId: 2743
-        wowheadSetId:
-
-      # Verdant Wing [World Drop]
-      - transmogSetId: 2742
         wowheadSetId:
 
       # Drakebreaker [War Mode]
@@ -208,10 +203,6 @@ groups:
       - transmogSetId: 2747
         wowheadSetId:
 
-      # Green Draketracker [World Drop]
-      - transmogSetId: 2746
-        wowheadSetId:
-
       # Drakebreaker [War Mode]
       - transmogSetId: 2666
         wowheadSetId:
@@ -229,10 +220,6 @@ groups:
       - transmogSetId: 2745
         wowheadSetId:
 
-      # Emerald Scale [World Drop]
-      - transmogSetId: 2744
-        wowheadSetId:
-
       # Drakebreaker [War Mode]
       - transmogSetId: 2664
         wowheadSetId:
@@ -248,10 +235,6 @@ groups:
     plate:
       # Primal Molten [Crafted]
       - transmogSetId: 2749
-        wowheadSetId:
-
-      # Dreamfire [World Drop]
-      - transmogSetId: 2748
         wowheadSetId:
 
       # Drakebreaker [War Mode]
