@@ -14,53 +14,53 @@ groups:
     death-knight:
       # Lingering Phantom's Encasement [Mythic]
       - transmogSetId: 2896
-        wowheadSetId:
+        wowheadSetId: 12312
 
       # Lingering Phantom's Encasement [Heroic]
       - transmogSetId: 2895
-        wowheadSetId:
+        wowheadSetId: 12311
 
       # Lingering Phantom's Encasement [Normal]
       - transmogSetId: 2870
-        wowheadSetId:
+        wowheadSetId: 12310
 
       # Lingering Phantom's Encasement [Raid Finder]
       - transmogSetId: 2897
-        wowheadSetId:
+        wowheadSetId: 12309
 
     demon-hunter:
       # Kinslayer's Burdens [Mythic]
       - transmogSetId: 2902
-        wowheadSetId:
+        wowheadSetId: 12285
 
       # Kinslayer's Burdens [Heroic]
       - transmogSetId: 2901
-        wowheadSetId:
+        wowheadSetId: 12284
 
       # Kinslayer's Burdens [Normal]
       - transmogSetId: 2869
-        wowheadSetId:
+        wowheadSetId: 12283
 
       # Kinslayer's Burdens [Raid Finder]
       - transmogSetId: 2903
-        wowheadSetId:
+        wowheadSetId: 12282
 
     druid:
       # Strands of the Autumn Blaze [Mythic]
       - transmogSetId: 2893
-        wowheadSetId:
+        wowheadSetId: 12281
 
       # Strands of the Autumn Blaze [Heroic]
       - transmogSetId: 2892
-        wowheadSetId:
+        wowheadSetId: 12280
 
       # Strands of the Autumn Blaze [Normal]
       - transmogSetId: 2868
-        wowheadSetId:
+        wowheadSetId: 12279
 
       # Strands of the Autumn Blaze [Raid Finder]
       - transmogSetId: 2894
-        wowheadSetId:
+        wowheadSetId: 12278
 
     evoker:
       # Legacy of Obsidian Secrets [Mythic]
@@ -69,168 +69,168 @@ groups:
 
       # Legacy of Obsidian Secrets [Heroic]
       - transmogSetId: 2904
-        wowheadSetId:
+        wowheadSetId: 12300
 
       # Legacy of Obsidian Secrets [Normal]
       - transmogSetId: 2867
-        wowheadSetId:
+        wowheadSetId: 12299
 
       # Legacy of Obsidian Secrets [Raid Finder]
       - transmogSetId: 2906
-        wowheadSetId:
+        wowheadSetId: 12298
 
     hunter:
       # Ashen Predator's Scaleform [Mythic]
       - transmogSetId: 2890
-        wowheadSetId:
+        wowheadSetId: 12304
 
       # Ashen Predator's Scaleform [Heroic]
       - transmogSetId: 2889
-        wowheadSetId:
+        wowheadSetId: 12303
 
       # Ashen Predator's Scaleform [Normal]
       - transmogSetId: 2866
-        wowheadSetId:
+        wowheadSetId: 12302
 
       # Ashen Predator's Scaleform [Raid Finder]
       - transmogSetId: 2891
-        wowheadSetId:
+        wowheadSetId: 12301
 
     mage:
       # Underlight Conjurer's Brilliance [Mythic]
       - transmogSetId: 2908
-        wowheadSetId:
+        wowheadSetId: 12273
 
       # Underlight Conjurer's Brilliance [Heroic]
       - transmogSetId: 2907
-        wowheadSetId:
+        wowheadSetId: 12272
 
       # Underlight Conjurer's Brilliance [Normal]
       - transmogSetId: 2865
-        wowheadSetId:
+        wowheadSetId: 12271
 
       # Underlight Conjurer's Brilliance [Raid Finder]
       - transmogSetId: 2909
-        wowheadSetId:
+        wowheadSetId: 12270
 
     monk:
       # Fangs of the Vermillion Forge [Mythic]
       - transmogSetId: 2887
-        wowheadSetId:
+        wowheadSetId: 12293
 
       # Fangs of the Vermillion Forge [Heroic]
       - transmogSetId: 2886
-        wowheadSetId:
+        wowheadSetId: 12292
 
       # Fangs of the Vermillion Forge [Normal]
       - transmogSetId: 2864
-        wowheadSetId:
+        wowheadSetId: 12291
 
       # Fangs of the Vermillion Forge [Raid Finder]
       - transmogSetId: 2888
-        wowheadSetId:
+        wowheadSetId: 12290
 
     paladin:
       # Heartfire Sentinel's Authority [Mythic]
       - transmogSetId: 2872
-        wowheadSetId:
+        wowheadSetId: 12308
 
       # Heartfire Sentinel's Authority [Heroic]
       - transmogSetId: 2871
-        wowheadSetId:
+        wowheadSetId: 12307
 
       # Heartfire Sentinel's Authority [Normal]
       - transmogSetId: 2859
-        wowheadSetId:
+        wowheadSetId: 12306
 
       # Heartfire Sentinel's Authority [Raid Finder]
       - transmogSetId: 2873
-        wowheadSetId:
+        wowheadSetId: 12305
 
     priest:
       # The Furnace Seraph's Verdict [Mythic]
       - transmogSetId: 2884
-        wowheadSetId:
+        wowheadSetId: 12269
 
       # The Furnace Seraph's Verdict [Heroic]
       - transmogSetId: 2883
-        wowheadSetId:
+        wowheadSetId: 12268
 
       # The Furnace Seraph's Verdict [Normal]
       - transmogSetId: 2863
-        wowheadSetId:
+        wowheadSetId: 12267
 
       # The Furnace Seraph's Verdict [Raid Finder]
       - transmogSetId: 2885
-        wowheadSetId:
+        wowheadSetId: 12266
 
     rogue:
       # Lurking Specter's Shadeweave [Mythic]
       - transmogSetId: 2881
-        wowheadSetId:
+        wowheadSetId: 12289
 
       # Lurking Specter's Shadeweave [Heroic]
       - transmogSetId: 2880
-        wowheadSetId:
+        wowheadSetId: 12288
 
       # Lurking Specter's Shadeweave [Normal]
       - transmogSetId: 2862
-        wowheadSetId:
+        wowheadSetId: 12287
 
       # Lurking Specter's Shadeweave [Raid Finder]
       - transmogSetId: 2882
-        wowheadSetId:
+        wowheadSetId: 12286
 
     shaman:
       # Runes of the Cinderwolf [Mythic]
       - transmogSetId: 2878
-        wowheadSetId:
+        wowheadSetId: 12297
 
       # Runes of the Cinderwolf [Heroic]
       - transmogSetId: 2877
-        wowheadSetId:
+        wowheadSetId: 12296
 
       # Runes of the Cinderwolf [Normal]
       - transmogSetId: 2861
-        wowheadSetId:
+        wowheadSetId: 12295
 
       # Runes of the Cinderwolf [Raid Finder]
       - transmogSetId: 2879
-        wowheadSetId:
+        wowheadSetId: 12294
 
     warlock:
       # Sinister Savant's Cursethreads [Mythic]
       - transmogSetId: 2875
-        wowheadSetId:
+        wowheadSetId: 12277
 
       # Sinister Savant's Cursethreads [Heroic]
       - transmogSetId: 2874
-        wowheadSetId:
+        wowheadSetId: 12276
 
       # Sinister Savant's Cursethreads [Normal]
       - transmogSetId: 2860
-        wowheadSetId:
+        wowheadSetId: 12275
 
       # Sinister Savant's Cursethreads [Raid Finder]
       - transmogSetId: 2876
-        wowheadSetId:
+        wowheadSetId: 12274
 
     warrior:
       # Irons of the Onyx Crucible [Mythic]
       - transmogSetId: 2899
-        wowheadSetId:
+        wowheadSetId: 12316
 
       # Irons of the Onyx Crucible [Heroic]
       - transmogSetId: 2898
-        wowheadSetId:
+        wowheadSetId: 12315
 
       # Irons of the Onyx Crucible [Normal]
       - transmogSetId: 2858
-        wowheadSetId:
+        wowheadSetId: 12314
 
       # Irons of the Onyx Crucible [Raid Finder]
       - transmogSetId: 2900
-        wowheadSetId:
+        wowheadSetId: 12313
 
 # group 195
 - name: "Vault of the Incarnates"
