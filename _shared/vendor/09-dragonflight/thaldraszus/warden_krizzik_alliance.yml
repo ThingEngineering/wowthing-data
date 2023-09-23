@@ -5,37 +5,32 @@ zoneMapsGroupId: 2
 
 locations:
   09-dragonflight/thaldraszus:
-    - 51 56.6
+    - 51 56.6 alliance
 
 sets:
   - name: "Warlands"
-    range: 5
+    range: 3
     sortKey: "tr08-0"
   
   - name: "Warlands - Cloth"
-    range: 12
+    range: 6
     sortKey: "tr08-1"
 
   - name: "Warlands - Leather"
-    range: 12
+    range: 6
     sortKey: "tr08-2"
 
   - name: "Warlands - Mail"
-    range: 12
+    range: 6
     sortKey: "tr08-3"
 
   - name: "Warlands - Plate"
-    range: 12
+    range: 6
     sortKey: "tr08-4"
 
 sells:
   - type: mount
     id: 1777 # Reins of the Ravenous Black Gryphon
-    costs:
-      2594: 3000
-
-  - type: mount
-    id: 1776 # Horn of the White War Wolf
     costs:
       2594: 3000
 
@@ -46,11 +41,6 @@ sells:
 
   - type: transmog
     id: 207014 # Jingoist's Slicer [1h axe]
-    costs:
-      2594: 1000
-
-  - type: transmog
-    id: 207015 # Warmonger's Ripper [1h axe]
     costs:
       2594: 1000
 
@@ -89,39 +79,6 @@ sells:
     costs:
       2594: 1150
 
-  - type: transmog
-    id: 206816 # Warmonger's Skullcap [cloth head]
-    costs:
-      2594: 1050
-
-  - type: transmog
-    id: 206808 # Warmonger's Robe [cloth chest]
-    costs:
-      2594: 1050
-
-  - type: transmog
-    id: 206814 # Warmonger's Leggings [cloth legs]
-    costs:
-      2594: 1050
-
-  - type: transmog
-    id: 207081 # Warmonger's Cloth Armor Bag
-    appearanceId: 36806 36957 # shoulders back
-    costs:
-      2594: 1150
-
-  - type: transmog
-    id: 207073 # Warmonger's Cloth Equipment Bag
-    appearanceId: 37081 36768 # waist feet
-    costs:
-      2594: 1150
-
-  - type: transmog
-    id: 207074 # Warmonger's Cloth Gear Bag
-    appearanceId: 36771 37077 # wrists hands
-    costs:
-      2594: 1150
-
   # Leather
 
   - type: transmog
@@ -154,40 +111,6 @@ sells:
   - type: transmog
     id: 207067 # Jingoist's Leather Gear Bag
     appearanceId: 36898 36853 # waist feet
-    costs:
-      2594: 1150
-
-  - type: transmog
-    id: 206846 # Warmonger's Headcover [leather head]
-    costs:
-      2594: 1050
-
-  - type: transmog
-    id: 206845 # Warmonger's Pantaloons [leather legs]
-    costs:
-      2594: 1050
-
-  - type: transmog
-    id: 207079 # Warmonger's Leather Armor Bag
-    appearanceId: 37404 37681 # shoulders back
-    costs:
-      2594: 1150
-
-  - type: transmog
-    id: 207069 # Warmonger's Leather Equipment Bag
-    appearanceId: 37402 37413 # waist feet
-    costs:
-      2594: 1150
-
-  - type: transmog
-    id: 207070 # Warmonger's Leather Gear Bag
-    appearanceId: 37374 37414 # wrists hands
-    costs:
-      2594: 1150
-
-  - type: transmog
-    id: 207094 # Warmonger's Leather Suit Bag
-    appearanceId: 37375 37377 # chest chest
     costs:
       2594: 1150
 
@@ -227,39 +150,6 @@ sells:
     costs:
       2594: 1150
 
-  - type: transmog
-    id: 206853 # Warmonger's Casque [mail head]
-    costs:
-      2594: 1050
-
-  - type: transmog
-    id: 206858 # Warmonger's Chainmail [mail chest]
-    costs:
-      2594: 1050
-
-  - type: transmog
-    id: 206854 # Warmonger's Legguards [mail legs]
-    costs:
-      2594: 1050
-
-  - type: transmog
-    id: 207077 # Warmonger's Mail Armor Bag
-    appearanceId: 38061 38336 # shoulders back
-    costs:
-      2594: 1150
-
-  - type: transmog
-    id: 207066 # Warmonger's Mail Equipment Bag
-    appearanceId: 38059 38051 # waist feet
-    costs:
-      2594: 1150
-
-  - type: transmog
-    id: 207065 # Warmonger's Mail Gear Bag
-    appearanceId: 38057 38053 # wrists hands
-    costs:
-      2594: 1150
-
   # Plate
 
   - type: transmog
@@ -292,38 +182,5 @@ sells:
   - type: transmog
     id: 207053 # Jingoist's Plate Gear Bag
     appearanceId: 37814 37815 # waist feet
-    costs:
-      2594: 1150
-
-  - type: transmog
-    id: 206884 # Warmonger's Greathelm [plate head]
-    costs:
-      2594: 1050
-
-  - type: transmog
-    id: 206879 # Warmonger's Breastplate [plate chest]
-    costs:
-      2594: 1050
-
-  - type: transmog
-    id: 206883 # Warmonger's Legplates [plate legs]
-    costs:
-      2594: 1050
-
-  - type: transmog
-    id: 207076 # Warmonger's Plate Armor Bag
-    appearanceId: 36952 36839 # shoulders back
-    costs:
-      2594: 1150
-
-  - type: transmog
-    id: 207051 # Warmonger's Plate Equipment Bag
-    appearanceId: 37097 37085 # waist feet
-    costs:
-      2594: 1150
-
-  - type: transmog
-    id: 207050 # Warmonger's Plate Gear Bag
-    appearanceId: 36842 37087 # wrists hands
     costs:
       2594: 1150
