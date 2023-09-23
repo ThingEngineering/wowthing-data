@@ -48,11 +48,13 @@ sells:
       1166: 25
 
   - type: transmog
+    faction: alliance
     id: 171999 # Coldstep Sandals [cloth feet]
     costs:
       1166: 25
 
   - type: transmog
+    faction: horde
     id: 171995 # Coldstep Slippers [cloth feet]
     costs:
       1166: 25
