@@ -12,11 +12,18 @@ sells:
     id: 1736 # Boulder Hauler
     costs:
       1204985: 170 # Barter Brick
+      1205188: 85 # Barter Boulder
 
   - type: pet
     id: 3537 # Thimblerig
     costs:
       1204985: 85 # Barter Brick
+      1205188: 45 # Barter Boulder
+
+  - type: transmog
+    id: 205421 # Ponzo's Scheming Topper
+    costs:
+      1205188: 249 # Barter Boulder
 
   # - type: transmog
   #   id: 205440 # Bartered Alchemy Journal
@@ -131,14 +138,17 @@ sells:
   - type: transmog
     id: 203312 # Winding Slitherdrake: Cluster Chin Horn
     costs:
-      1204985: 5 # Barter Brick
+      1204985: 55 # Barter Brick
+      1205188: 30 # Barter Boulder
 
   - type: transmog
     id: 203346 # Winding Slitherdrake: Curled Nose
     costs:
-      1204985: 5 # Barter Brick
+      1204985: 55 # Barter Brick
+      1205188: 30 # Barter Boulder
 
   - type: transmog
     id: 203308 # Winding Slitherdrake: Hairy Brow
     costs:
-      1204985: 5 # Barter Brick
+      1204985: 55 # Barter Brick
+      1205188: 30 # Barter Boulder
