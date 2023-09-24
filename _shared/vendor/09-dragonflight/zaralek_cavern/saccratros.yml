@@ -1,0 +1,23 @@
+id: 203615
+name: "Saccratros"
+note: "Coveted Bauble Exchange"
+
+locations:
+  09-dragonflight/zaralek_cavern:
+    - 55.8 55.4
+
+sells:
+  - type: mount
+    id: 1730 # Igneous Shalewing
+    costs:
+      1204727: 400 # Coveted Bauble
+
+  - type: mount
+    id: 1603 # Subterranean Magmammoth
+    costs:
+      1204727: 100 # Coveted Bauble
+
+  - type: pet
+    id: 3535 # Diamondshell
+    costs:
+      1204727: 50 # Coveted Bauble
