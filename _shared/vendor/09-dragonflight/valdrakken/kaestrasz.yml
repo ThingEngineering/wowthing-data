@@ -1,0 +1,217 @@
+id: 185561
+name: "Kaestrasz"
+note: "Stable Master"
+
+locations:
+  09-dragonflight/valdrakken:
+    - 46.8 78.8
+
+sets:
+  - name: "Renown 9 Drake Parts"
+    range: 4 16
+    sortKey: "va09"
+
+  - name: "Renown 15 Drake Parts"
+    range: 6
+    sortKey: "va15"
+
+  - name: "Renown 21 Drake Parts"
+    range: 4
+    sortKey: "va21"
+
+  - name: "Renown 26 Drake Parts"
+    range: 4
+    sortKey: "va26"
+
+sells:
+  # 0
+
+  - type: pet
+    id: 331 # Alliance Balloon
+    costs:
+      0: 1 # Gold
+
+  - type: pet
+    id: 216 # Argent Gruntling
+    costs:
+      0: 1 # Gold
+
+  - type: pet
+    id: 214 # Argent Squire
+    costs:
+      0: 1 # Gold
+
+  - type: pet
+    id: 259 # Blue Mini Jouster
+    costs:
+      0: 1 # Gold
+
+  - type: pet
+    id: 321 # Creepy Crate
+    costs:
+      0: 1 # Gold
+
+  - type: pet
+    id: 225 # Curious Oracle Hatchling
+    costs:
+      0: 1 # Gold
+
+  - type: pet
+    id: 226 # Curious Wolvar Pup
+    costs:
+      0: 1 # Gold
+
+  - type: pet
+    id: 260 # Gold Mini Jouster
+    costs:
+      0: 1 # Gold
+
+  - type: pet
+    id: 332 # Horde Balloon
+    costs:
+      0: 1 # Gold
+
+  - type: pet
+    id: 307 # Lashtail Hatchling
+    costs:
+      0: 1 # Gold
+
+  - type: pet
+    id: 149 # Miniwing
+    costs:
+      0: 1 # Gold
+
+  - type: pet
+    id: 301 # Panther Cub
+    costs:
+      0: 1 # Gold
+
+  - type: pet
+    id: 291 # Singing Sunflower
+    costs:
+      0: 1 # Gold
+
+  - type: pet
+    id: 287 # Tiny Flamefly
+    costs:
+      0: 1 # Gold
+
+  - type: pet
+    id: 220 # Withers
+    costs:
+      0: 1 # Gold
+
+  - type: toy
+    id: 37460 # Rope Pet Leash
+    costs:
+      0: 1 # Gold
+
+  # Renown 9
+
+  - type: accountTrackingQuest
+    id: 197015 # Cliffside Wylderdrake: Dark Skin Variation
+    costs:
+      2003: 50
+
+  - type: accountTrackingQuest
+    id: 196972 # Cliffside Wylderdrake: Plated Brow
+    costs:
+      2003: 50
+
+  - type: accountTrackingQuest
+    id: 197003 # Cliffside Wylderdrake: Spiked Cheek
+    costs:
+      2003: 50
+
+  - type: accountTrackingQuest
+    id: 196977 # Cliffside Wylderdrake: Split Head Horns
+    costs:
+      2003: 50
+
+  # Renown 15
+
+  - type: accountTrackingQuest
+    id: 196974 # Cliffside Wylderdrake: Four-Horned Chin
+    costs:
+      2003: 100
+
+  - type: accountTrackingQuest
+    id: 196998 # Cliffside Wylderdrake: Hook Horns
+    costs:
+      2003: 100
+
+  - type: accountTrackingQuest
+    id: 197009 # Cliffside Wylderdrake: Scaled Pattern
+    costs:
+      2003: 100
+
+  - type: accountTrackingQuest
+    id: 197020 # Cliffside Wylderdrake: Spear Tail
+    costs:
+      2003: 100
+
+  - type: accountTrackingQuest
+    id: 197004 # Cliffside Wylderdrake: Spiked Legs
+    costs:
+      2003: 100
+
+  - type: accountTrackingQuest
+    id: 196989 # Cliffside Wylderdrake: White Hair
+    costs:
+      2003: 100
+
+  # Renown 21
+
+  - type: accountTrackingQuest
+    id: 197145 # Highland Drake: Bronze Scales
+    costs:
+      2003: 400
+      1190324: 1
+
+  - type: accountTrackingQuest
+    id: 197391 # Renewed Proto-Drake: Bronze Scales
+    costs:
+      2003: 400
+      1190324: 1
+
+  - type: accountTrackingQuest
+    id: 197613 # Windborne Velocidrake: Bronze Scales
+    costs:
+      2003: 400
+      1190324: 1
+
+  - type: accountTrackingQuest
+    id: 203351 # Winding Slitherdrake: Bronze Scales
+    costs:
+      2003: 400
+      1190324: 1
+
+  # Renown 26
+
+  - type: accountTrackingQuest
+    id: 196962 # Cliffside Wylderdrake: Silver and Purple Armor
+    costs:
+      2003: 750
+      1188658: 20
+      1201404: 10
+
+  - type: accountTrackingQuest
+    id: 197093 # Highland Drake: Silver and Purple Armor
+    costs:
+      2003: 750
+      1188658: 20
+      1201404: 10
+
+  - type: accountTrackingQuest
+    id: 197350 # Renewed Proto-Drake: Silver and Purple Armor
+    costs:
+      2003: 750
+      1188658: 20
+      1201404: 10
+
+  - type: accountTrackingQuest
+    id: 197581 # Windborne Velocidrake: Silver and Purple Armor
+    costs:
+      2003: 750
+      1188658: 20
+      1201404: 10
