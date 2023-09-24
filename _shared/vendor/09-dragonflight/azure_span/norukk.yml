@@ -1,0 +1,97 @@
+id: 196544
+name: "Norukk"
+zoneMapsGroupId: 1
+
+locations:
+  09-dragonflight/azure_span:
+    - 12.8 48.6
+
+set:
+  - name: "Renown 7 Drake Parts"
+    range: 4
+    sortKey: "it07"
+
+  - name: "Renown 13 Drake Parts"
+    range: 3
+    sortKey: "it13"
+
+  - name: "Renown 19 Drake Parts"
+    range: 4
+    sortKey: "it19"
+
+sells:
+  # Renown 7
+
+  - type: accountTrackingQuest
+    id: 197101 # Highland Drake: Bushy Brow
+    costs:
+      2003: 50
+    reputation: 2511 renown-7
+
+  - type: accountTrackingQuest
+    id: 197155 # Highland Drake: Finned Neck
+    costs:
+      2003: 50
+    reputation: 2511 renown-7
+
+  - type: accountTrackingQuest
+    id: 197114 # Highland Drake: Multi-Horned Head
+    costs:
+      2003: 50
+    reputation: 2511 renown-7
+
+  - type: accountTrackingQuest
+    id: 197132 # Highland Drake: Spiked Cheek
+    costs:
+      2003: 50
+    reputation: 2511 renown-7
+
+  # Renown 13
+
+  - type: accountTrackingQuest
+    id: 197153 # Highland Drake: Bladed Tail
+    costs:
+      2003: 100
+    reputation: 2511 renown-13
+
+  - type: accountTrackingQuest
+    id: 197139 # Highland Drake: Large Spotted Pattern
+    costs:
+      2003: 100
+    reputation: 2511 renown-13
+
+  - type: accountTrackingQuest
+    id: 197123 # Highland Drake: Thorn Horns
+    costs:
+      2003: 100
+    reputation: 2511 renown-13
+
+  # Renown 19
+
+  - type: accountTrackingQuest
+    id: 197012 # Cliffside Wylderdrake: Blue Scales
+    costs:
+      2003: 400
+      1190329: 1
+    reputation: 2511 renown-19
+
+  - type: accountTrackingQuest
+    id: 197390 # Renewed Proto-Drake: Blue Scales
+    costs:
+      2003: 400
+      1190329: 1
+    reputation: 2511 renown-19
+
+  - type: accountTrackingQuest
+    id: 197612 # Windborne Velocidrake: Blue Scales
+    costs:
+      2003: 400
+      1190329: 1
+    reputation: 2511 renown-19
+
+  - type: accountTrackingQuest
+    id: 203350 # Winding Slitherdrake: Blue Scales
+    costs:
+      2003: 400
+      1190329: 1
+    reputation: 2511 renown-19

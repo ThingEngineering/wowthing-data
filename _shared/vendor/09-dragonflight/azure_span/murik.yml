@@ -16,6 +16,10 @@ sets:
     range: 8
     sortKey: "it06"
 
+  - name: "Renown 7 Drake Parts"
+    range: 4
+    sortKey: "it07"
+
   - name: "Renown 9 Pets"
     range: 2
     sortKey: "it09"
@@ -23,6 +27,10 @@ sets:
   - name: "Renown 12 Transmog"
     range: 2
     sortKey: "it12"
+
+  - name: "Renown 13 Drake Parts"
+    range: 3
+    sortKey: "it13"
 
   - name: "Renown 14 Gear"
     range: 4
@@ -35,6 +43,10 @@ sets:
   - name: "Renown 17 Toys"
     range: 2
     sortKey: "it17"
+
+  - name: "Renown 19 Drake Parts"
+    range: 4
+    sortKey: "it19"
 
   - name: "Renown 22 Gear"
     range: 4
@@ -161,6 +173,32 @@ sells:
       1193050: 20
     reputation: 2511 renown-6
 
+  # Renown 7
+
+  - type: accountTrackingQuest
+    id: 197101 # Highland Drake: Bushy Brow
+    costs:
+      2003: 50
+    reputation: 2511 renown-7
+
+  - type: accountTrackingQuest
+    id: 197155 # Highland Drake: Finned Neck
+    costs:
+      2003: 50
+    reputation: 2511 renown-7
+
+  - type: accountTrackingQuest
+    id: 197114 # Highland Drake: Multi-Horned Head
+    costs:
+      2003: 50
+    reputation: 2511 renown-7
+
+  - type: accountTrackingQuest
+    id: 197132 # Highland Drake: Spiked Cheek
+    costs:
+      2003: 50
+    reputation: 2511 renown-7
+
   - type: pet
     id: 3326 # Backswimmer Timbertooth
     costs:
@@ -192,6 +230,26 @@ sells:
       1201403: 2
       1193210: 20
     reputation: 2511 renown-12
+
+  # Renown 13
+
+  - type: accountTrackingQuest
+    id: 197153 # Highland Drake: Bladed Tail
+    costs:
+      2003: 100
+    reputation: 2511 renown-13
+
+  - type: accountTrackingQuest
+    id: 197139 # Highland Drake: Large Spotted Pattern
+    costs:
+      2003: 100
+    reputation: 2511 renown-13
+
+  - type: accountTrackingQuest
+    id: 197123 # Highland Drake: Thorn Horns
+    costs:
+      2003: 100
+    reputation: 2511 renown-13
 
   - type: transmog
     id: 199884 # Tuskarr Crafter's Bindings [cloth wrists]
@@ -328,6 +386,36 @@ sells:
       1194966: 5
       1197756: 10
     reputation: 2511 renown-17
+
+  # Renown 19
+
+  - type: accountTrackingQuest
+    id: 197012 # Cliffside Wylderdrake: Blue Scales
+    costs:
+      2003: 400
+      1190329: 1
+    reputation: 2511 renown-19
+
+  - type: accountTrackingQuest
+    id: 197390 # Renewed Proto-Drake: Blue Scales
+    costs:
+      2003: 400
+      1190329: 1
+    reputation: 2511 renown-19
+
+  - type: accountTrackingQuest
+    id: 197612 # Windborne Velocidrake: Blue Scales
+    costs:
+      2003: 400
+      1190329: 1
+    reputation: 2511 renown-19
+
+  - type: accountTrackingQuest
+    id: 203350 # Winding Slitherdrake: Blue Scales
+    costs:
+      2003: 400
+      1190329: 1
+    reputation: 2511 renown-19
 
   - type: transmog
     id: 199890 # Tuskarr Crafter's Mantle [cloth shoulders]
