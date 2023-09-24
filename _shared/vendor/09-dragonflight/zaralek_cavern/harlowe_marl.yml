@@ -1,0 +1,243 @@
+id: 202468
+name: "Harlowe Marl"
+note: "Loamm Niffen Quartermaster"
+
+locations:
+  09-dragonflight/zaralek_cavern:
+    - 56.4 55.6
+
+sets:
+  - name: "Renown 5"
+    range: 3
+    sortKey: "zz05"
+
+  - name: "Renown 8"
+    range: 4
+    sortKey: "zz08"
+
+  - name: "Renown 11"
+    range: 1
+    sortKey: "zz11"
+
+  - name: "Renown 13"
+    range: 3
+    sortKey: "zz13"
+
+  - name: "Renown 14"
+    range: 4
+    sortKey: "zz14"
+
+  - name: "Renown 15"
+    range: 2
+    sortKey: "zz15"
+
+  - name: "Renown 16"
+    range: 4
+    sortKey: "zz16"
+
+  - name: "Renown 18"
+    range: 3
+    sortKey: "zz18"
+
+  - name: "Renown 19"
+    range: 1
+    sortKey: "zz19"
+
+sells:
+  # Renown 5
+
+  - type: accountTrackingQuest
+    id: 203310 # Winding Slitherdrake: Grand Chin Thorn
+    costs:
+      2003: 150
+
+  - type: accountTrackingQuest
+    id: 203316 # Winding Slitherdrake: Large Finned Crest
+    costs:
+      2003: 150
+
+  - type: accountTrackingQuest
+    id: 203327 # Winding Slitherdrake: Tan Horns
+    costs:
+      2003: 150
+
+  # Renown 8
+  
+  - type: transmog
+    id: 205275 # Mycelial Fabric Tunic [cloth chest]
+    costs:
+      2003: 225
+
+  - type: transmog
+    id: 205272 # Scent-Masking Vest [leather chest]
+    costs:
+      2003: 225
+
+  - type: transmog
+    id: 205273 # Sulfuric Crystal Breastmail [mail chest]
+    costs:
+      2003: 225
+
+  - type: transmog
+    id: 205271 # Speleothemic Cataphract [plate chest]
+    costs:
+      2003: 225
+
+  # Renown 11
+
+  - type: toy
+    id: 205963 # Sniffin' Salts
+    costs:
+      2003: 200
+
+  # Renown 13
+
+  - type: accountTrackingQuest
+    id: 203323 # Winding Slitherdrake: Brown Hair
+    costs:
+      2003: 300
+
+  - type: accountTrackingQuest
+    id: 203335 # Winding Slitherdrake: Curved Horns
+    costs:
+      2003: 300
+
+  - type: accountTrackingQuest
+    id: 203341 # Winding Slitherdrake: Long Jaw Horns
+    costs:
+      2003: 300
+
+  # Renown 14
+
+  - type: transmog
+    id: 205270 # Mycelial Fabric Sandals [cloth feet]
+    costs:
+      2003: 225
+
+  - type: transmog
+    id: 205269 # Scent-Masking Moccasins [leather feet]
+    costs:
+      2003: 225
+
+  - type: transmog
+    id: 205265 # Sulfuric Crystal Boots [mail feet]
+    costs:
+      2003: 225
+
+  - type: transmog
+    id: 205264 # Speleothemic Footguards [plate feet]
+    costs:
+      2003: 225
+
+  # Renown 15
+
+  - type: pet
+    id: 3528 # Paulie
+    costs:
+      2003: 250
+
+  - type: pet
+    id: 3529 # Rango
+    costs:
+      2003: 250
+
+  # Renown 16
+
+  - type: accountTrackingQuest
+    id: 203362 # Winding Slitherdrake: Hairy Tail
+    costs:
+      2003: 600
+
+  - type: accountTrackingQuest
+    id: 203365 # Winding Slitherdrake: Hairy Throat
+    costs:
+      2003: 600
+
+  - type: accountTrackingQuest
+    id: 203347 # Winding Slitherdrake: Large Spiked Nose
+    costs:
+      2003: 600
+
+  - type: transmog
+    id: 205363 # Ensemble: Ornate Black Dragon Labwear
+    costs:
+      2003: 250
+
+  # Renown 18
+
+  - type: mount
+    id: 1738 # Morsel Sniffer
+    costs:
+      2003: 800
+
+  - type: transmog
+    id: 205971 # Rock Breaking Digger [1h ? axe]
+    costs:
+      2003: 200
+
+  - type: transmog
+    id: 205972 # Decorative Niffen Sword [1h ? sword]
+    costs:
+      2003: 200
+
+  # Renown 19
+
+  - type: accountTrackingQuest
+    id: 197120 # Highland Drake: Ornate Helm
+    costs:
+      2003: 1000
+
+  # - type: transmog
+  #   id: 205353 # Niffen Notebook of Alchemy Knowledge
+  #   costs:
+  #     2003: 300
+
+  # - type: transmog
+  #   id: 205352 # Niffen Notebook of Blacksmithing Knowledge
+  #   costs:
+  #     2003: 300
+
+  # - type: transmog
+  #   id: 205351 # Niffen Notebook of Enchanting Knowledge
+  #   costs:
+  #     2003: 300
+
+  # - type: transmog
+  #   id: 205349 # Niffen Notebook of Engineering Knowledge
+  #   costs:
+  #     2003: 300
+
+  # - type: transmog
+  #   id: 205358 # Niffen Notebook of Herbalism Knowledge
+  #   costs:
+  #     2003: 300
+
+  # - type: transmog
+  #   id: 205354 # Niffen Notebook of Inscription Knowledge
+  #   costs:
+  #     2003: 300
+
+  # - type: transmog
+  #   id: 205348 # Niffen Notebook of Jewelcrafting Knowledge
+  #   costs:
+  #     2003: 300
+
+  # - type: transmog
+  #   id: 205350 # Niffen Notebook of Leatherworking Knowledge
+  #   costs:
+  #     2003: 300
+
+  # - type: transmog
+  #   id: 205356 # Niffen Notebook of Mining Knowledge
+  #   costs:
+  #     2003: 300
+
+  # - type: transmog
+  #   id: 205357 # Niffen Notebook of Skinning Knowledge
+  #   costs:
+  #     2003: 300
+
+  # - type: transmog
+  #   id: 205355 # Niffen Notebook of Tailoring Knowledge
+  #   costs:
+  #     2003: 300
