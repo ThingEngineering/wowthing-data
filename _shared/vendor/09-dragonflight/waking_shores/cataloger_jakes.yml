@@ -20,6 +20,10 @@ sets:
     range: 3
     sortKey: "de07"
 
+  - name: "Renown 9 Drake Parts"
+    range: 4
+    sortKey: "de09"
+
   - name: "Renown 11 Pets"
     range: 2
     sortKey: "de11"
@@ -32,6 +36,10 @@ sets:
     range: 4
     sortKey: "de14"
 
+  - name: "Renown 15 Drake Parts"
+    range: 4
+    sortKey: "de15"
+
   - name: "Renown 17 Toys"
     range: 3
     sortKey: "de17"
@@ -43,6 +51,10 @@ sets:
   - name: "Renown 19 Banners"
     range: 2
     sortKey: "de19"
+
+  - name: "Renown 22 Drake Parts"
+    range: 4
+    sortKey: "de22"
 
   - name: "Renown 25 Mounts"
     range: 2
@@ -126,6 +138,32 @@ sells:
       1201405: 3
     reputation: 2507 renown-7
 
+  # Renown 9
+
+  - type: accountTrackingQuest
+    id: 197369 # Renewed Proto-Drake: Brown Hair
+    costs:
+      2003: 50
+    reputation: 2507 renown-9
+
+  - type: accountTrackingQuest
+    id: 197363 # Renewed Proto-Drake: Maned Crest
+    costs:
+      2003: 50
+    reputation: 2507 renown-9
+
+  - type: accountTrackingQuest
+    id: 197386 # Renewed Proto-Drake: Spiked Jaw
+    costs:
+      2003: 50
+    reputation: 2507 renown-9
+
+  - type: accountTrackingQuest
+    id: 197360 # Renewed Proto-Drake: Spined Brow
+    costs:
+      2003: 50
+    reputation: 2507 renown-9
+
   - type: pet
     id: 3380 # Black Skitterbug
     costs:
@@ -194,6 +232,32 @@ sells:
       1190396: 20
     reputation: 2507 renown-14
 
+  # Renown 15
+
+  - type: accountTrackingQuest
+    id: 197358 # Renewed Proto-Drake: Curved Spiked Brow
+    costs:
+      2003: 100
+    reputation: 2507 renown-15
+
+  - type: accountTrackingQuest
+    id: 197395 # Renewed Proto-Drake: Harrier Pattern
+    costs:
+      2003: 100
+    reputation: 2507 renown-15
+
+  - type: accountTrackingQuest
+    id: 197402 # Renewed Proto-Drake: Spiked Club Tail
+    costs:
+      2003: 100
+    reputation: 2507 renown-15
+
+  - type: accountTrackingQuest
+    id: 197374 # Renewed Proto-Drake: Swept Horns
+    costs:
+      2003: 100
+    reputation: 2507 renown-15
+
   - type: toy
     id: 198721 # Skinny Reliquary Pillow
     costs:
@@ -255,6 +319,36 @@ sells:
       2003: 150
       1193050: 20
     reputation: 2507 renown-19
+
+  # Renown 22
+
+  - type: accountTrackingQuest
+    id: 197010 # Cliffside Wylderdrake: Red Scales
+    costs:
+      2003: 400
+      1190321: 1
+    reputation: 2507 renown-22
+
+  - type: accountTrackingQuest
+    id: 197144 # Highland Drake: Red Scales
+    costs:
+      2003: 400
+      1190321: 1
+    reputation: 2507 renown-22
+
+  - type: accountTrackingQuest
+    id: 197614 # Windborne Velocidrake: Red Scales
+    costs:
+      2003: 400
+      1190321: 1
+    reputation: 2507 renown-22
+
+  - type: accountTrackingQuest
+    id: 203353 # Winding Slitherdrake: Red Scales
+    costs:
+      2003: 400
+      1190321: 1
+    reputation: 2507 renown-22
 
   - type: mount
     id: 1616 # Azure Skitterfly
