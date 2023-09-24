@@ -9,39 +9,39 @@ locations:
 sets:
   - name: "Renown 5"
     range: 3
-    sortKey: "zz05"
+    sortKey: "ln05"
 
   - name: "Renown 8"
     range: 4
-    sortKey: "zz08"
+    sortKey: "ln08"
 
   - name: "Renown 11"
     range: 1
-    sortKey: "zz11"
+    sortKey: "ln11"
 
   - name: "Renown 13"
     range: 3
-    sortKey: "zz13"
+    sortKey: "ln13"
 
   - name: "Renown 14"
     range: 4
-    sortKey: "zz14"
+    sortKey: "ln14"
 
   - name: "Renown 15"
     range: 2
-    sortKey: "zz15"
+    sortKey: "ln15"
 
   - name: "Renown 16"
     range: 4
-    sortKey: "zz16"
+    sortKey: "ln16"
 
   - name: "Renown 18"
     range: 3
-    sortKey: "zz18"
+    sortKey: "ln18"
 
   - name: "Renown 19"
     range: 1
-    sortKey: "zz19"
+    sortKey: "ln19"
 
 sells:
   # Renown 5
@@ -50,16 +50,19 @@ sells:
     id: 203310 # Winding Slitherdrake: Grand Chin Thorn
     costs:
       2003: 150
+    reputation: 2564 renown-5
 
   - type: accountTrackingQuest
     id: 203316 # Winding Slitherdrake: Large Finned Crest
     costs:
       2003: 150
+    reputation: 2564 renown-5
 
   - type: accountTrackingQuest
     id: 203327 # Winding Slitherdrake: Tan Horns
     costs:
       2003: 150
+    reputation: 2564 renown-5
 
   # Renown 8
   
@@ -67,21 +70,25 @@ sells:
     id: 205275 # Mycelial Fabric Tunic [cloth chest]
     costs:
       2003: 225
+    reputation: 2564 renown-8
 
   - type: transmog
     id: 205272 # Scent-Masking Vest [leather chest]
     costs:
       2003: 225
+    reputation: 2564 renown-8
 
   - type: transmog
     id: 205273 # Sulfuric Crystal Breastmail [mail chest]
     costs:
       2003: 225
+    reputation: 2564 renown-8
 
   - type: transmog
     id: 205271 # Speleothemic Cataphract [plate chest]
     costs:
       2003: 225
+    reputation: 2564 renown-8
 
   # Renown 11
 
@@ -89,6 +96,7 @@ sells:
     id: 205963 # Sniffin' Salts
     costs:
       2003: 200
+    reputation: 2564 renown-11
 
   # Renown 13
 
@@ -96,16 +104,19 @@ sells:
     id: 203323 # Winding Slitherdrake: Brown Hair
     costs:
       2003: 300
+    reputation: 2564 renown-13
 
   - type: accountTrackingQuest
     id: 203335 # Winding Slitherdrake: Curved Horns
     costs:
       2003: 300
+    reputation: 2564 renown-13
 
   - type: accountTrackingQuest
     id: 203341 # Winding Slitherdrake: Long Jaw Horns
     costs:
       2003: 300
+    reputation: 2564 renown-13
 
   # Renown 14
 
@@ -113,21 +124,25 @@ sells:
     id: 205270 # Mycelial Fabric Sandals [cloth feet]
     costs:
       2003: 225
+    reputation: 2564 renown-14
 
   - type: transmog
     id: 205269 # Scent-Masking Moccasins [leather feet]
     costs:
       2003: 225
+    reputation: 2564 renown-14
 
   - type: transmog
     id: 205265 # Sulfuric Crystal Boots [mail feet]
     costs:
       2003: 225
+    reputation: 2564 renown-14
 
   - type: transmog
     id: 205264 # Speleothemic Footguards [plate feet]
     costs:
       2003: 225
+    reputation: 2564 renown-14
 
   # Renown 15
 
@@ -135,11 +150,13 @@ sells:
     id: 3528 # Paulie
     costs:
       2003: 250
+    reputation: 2564 renown-15
 
   - type: pet
     id: 3529 # Rango
     costs:
       2003: 250
+    reputation: 2564 renown-15
 
   # Renown 16
 
@@ -147,21 +164,25 @@ sells:
     id: 203362 # Winding Slitherdrake: Hairy Tail
     costs:
       2003: 600
+    reputation: 2564 renown-16
 
   - type: accountTrackingQuest
     id: 203365 # Winding Slitherdrake: Hairy Throat
     costs:
       2003: 600
+    reputation: 2564 renown-16
 
   - type: accountTrackingQuest
     id: 203347 # Winding Slitherdrake: Large Spiked Nose
     costs:
       2003: 600
+    reputation: 2564 renown-16
 
   - type: transmog
     id: 205363 # Ensemble: Ornate Black Dragon Labwear
     costs:
       2003: 250
+    reputation: 2564 renown-16
 
   # Renown 18
 
@@ -169,16 +190,19 @@ sells:
     id: 1738 # Morsel Sniffer
     costs:
       2003: 800
+    reputation: 2564 renown-18
 
   - type: transmog
     id: 205971 # Rock Breaking Digger [1h ? axe]
     costs:
       2003: 200
+    reputation: 2564 renown-18
 
   - type: transmog
     id: 205972 # Decorative Niffen Sword [1h ? sword]
     costs:
       2003: 200
+    reputation: 2564 renown-18
 
   # Renown 19
 
@@ -186,6 +210,7 @@ sells:
     id: 197120 # Highland Drake: Ornate Helm
     costs:
       2003: 1000
+    reputation: 2564 renown-19
 
   # - type: transmog
   #   id: 205353 # Niffen Notebook of Alchemy Knowledge
