@@ -8,26 +8,26 @@
     treasures.yml
     vendors.yml
 
-00-classic/_.yml
+09-dragonflight/_.yml
 
-01-the-burning-crusade/_.yml
+08-shadowlands/_.yml
 
-02-wrath-of-the-lich-king/_.yml
+07-battle-for-azeroth/_.yml
 
-03-cataclysm/_.yml
-
-04-mists-of-pandaria/_.yml
+06-legion/_.yml
 
 05-warlords-of-draenor/_.yml
     05-warlords-of-draenor/garrisons.yml
 
-06-legion/_.yml
+04-mists-of-pandaria/_.yml
 
-07-battle-for-azeroth/_.yml
+03-cataclysm/_.yml
 
-08-shadowlands/_.yml
+02-wrath-of-the-lich-king/_.yml
 
-09-dragonflight/_.yml
+01-the-burning-crusade/_.yml
+
+00-classic/_.yml
 
 -
 
@@ -54,22 +54,22 @@ world_events/_world_events.yml
 -
 
 drops.yml
-    04-mists-of-pandaria/drops.yml Mists of Pandaria
-    05-warlords-of-draenor/drops.yml Warlords of Draenor
-    06-legion/drops.yml Legion
-    07-battle-for-azeroth/drops.yml Battle for Azeroth
     08-shadowlands/drops.yml Shadowlands
+    07-battle-for-azeroth/drops.yml Battle for Azeroth
+    06-legion/drops.yml Legion
+    05-warlords-of-draenor/drops.yml Warlords of Draenor
+    04-mists-of-pandaria/drops.yml Mists of Pandaria
 
 instances.yml
-    07-battle-for-azeroth/instances.yml Battle for Azeroth
     08-shadowlands/instances.yml Shadowlands
+    07-battle-for-azeroth/instances.yml Battle for Azeroth
 
 reputations.yml
-    04-mists-of-pandaria/reputations.yml Mists of Pandaria
-    05-warlords-of-draenor/reputations.yml Warlords of Draenor
-    06-legion/reputations.yml Legion
-    07-battle-for-azeroth/reputations.yml Battle for Azeroth
     08-shadowlands/reputations.yml Shadowlands
+    07-battle-for-azeroth/reputations.yml Battle for Azeroth
+    06-legion/reputations.yml Legion
+    05-warlords-of-draenor/reputations.yml Warlords of Draenor
+    04-mists-of-pandaria/reputations.yml Mists of Pandaria
 
 -
 
