@@ -1,6 +1,156 @@
 name: PvP
 groups:
 
+- name: "Dragonflight Season 3"
+  tag: "S34"
+  type: class
+  sets:
+    - "Elite*"
+    - "Gladiator"
+  data:
+    death-knight:
+      # Verdant Gladiator's Plate Armor [Elite]
+      - transmogSetId: 3216
+        wowheadSetId:
+
+      # Verdant Gladiator's Plate Armor [Gladiator]
+      - transmogSetId: 3215
+        wowheadSetId:
+
+    demon-hunter:
+      # Verdant Gladiator's Leather Armor [Elite]
+      - transmogSetId: 3204
+        wowheadSetId:
+
+      # Verdant Gladiator's Leather Armor [Gladiator]
+      - transmogSetId: 3203
+        wowheadSetId:
+
+    druid:
+      # Verdant Gladiator's Leather Armor [Elite]
+      - transmogSetId: 3202
+        wowheadSetId:
+
+      # Verdant Gladiator's Leather Armor [Gladiator]
+      - transmogSetId: 3201
+        wowheadSetId:
+
+    evoker:
+      # Verdant Gladiator's Chain Armor [Elite]
+      - transmogSetId: 3210
+        wowheadSetId:
+
+      # Verdant Gladiator's Chain Armor [Gladiator]
+      - transmogSetId: 3209
+        wowheadSetId:
+
+    hunter:
+      # Verdant Gladiator's Chain Armor [Elite]
+      - transmogSetId: 3212
+        wowheadSetId:
+
+      # Verdant Gladiator's Chain Armor [Gladiator]
+      - transmogSetId: 3211
+        wowheadSetId:
+
+    mage:
+      # Verdant Gladiator's Silk Armor [Elite]
+      - transmogSetId: 3196
+        wowheadSetId:
+
+      # Verdant Gladiator's Silk Armor [Gladiator]
+      - transmogSetId: 3195
+        wowheadSetId:
+
+    monk:
+      # Verdant Gladiator's Leather Armor [Elite]
+      - transmogSetId: 3206
+        wowheadSetId:
+
+      # Verdant Gladiator's Leather Armor [Gladiator]
+      - transmogSetId: 3205
+        wowheadSetId:
+
+    paladin:
+      # Verdant Gladiator's Plate Armor [Elite]
+      - transmogSetId: 3218
+        wowheadSetId:
+
+      # Verdant Gladiator's Plate Armor [Gladiator]
+      - transmogSetId: 3217
+        wowheadSetId:
+
+    priest:
+      # Verdant Gladiator's Silk Armor [Elite]
+      - transmogSetId: 3198
+        wowheadSetId:
+
+      # Verdant Gladiator's Silk Armor [Gladiator]
+      - transmogSetId: 3197
+        wowheadSetId:
+
+    rogue:
+      # Verdant Gladiator's Leather Armor [Elite]
+      - transmogSetId: 3208
+        wowheadSetId:
+
+      # Verdant Gladiator's Leather Armor [Gladiator]
+      - transmogSetId: 3207
+        wowheadSetId:
+
+    shaman:
+      # Verdant Gladiator's Chain Armor [Elite]
+      - transmogSetId: 3214
+        wowheadSetId:
+
+      # Verdant Gladiator's Chain Armor [Gladiator]
+      - transmogSetId: 3213
+        wowheadSetId:
+
+    warlock:
+      # Verdant Gladiator's Silk Armor [Elite]
+      - transmogSetId: 3200
+        wowheadSetId:
+
+      # Verdant Gladiator's Silk Armor [Gladiator]
+      - transmogSetId: 3199
+        wowheadSetId:
+
+    warrior:
+      # Verdant Gladiator's Plate Armor [Elite]
+      - transmogSetId: 3220
+        wowheadSetId:
+
+      # Verdant Gladiator's Plate Armor [Gladiator]
+      - transmogSetId: 3219
+        wowheadSetId:
+
+- name: "Dragonflight Season 3"
+  tag: "S34"
+  type: armor
+  sets:
+  - "Aspirant"
+  data:
+    cloth:
+      # Verdant Aspirant's Silk Vestments [Aspirant]
+      - transmogSetId: 3289
+        wowheadSetId:
+
+    leather:
+      # Verdant Aspirant's Battlegarb [Aspirant]
+      - transmogSetId: 3290
+        wowheadSetId:
+
+    mail:
+      # Verdant Aspirant's Chain Armor [Aspirant]
+      - transmogSetId: 3291
+        wowheadSetId:
+
+    plate:
+      # Verdant Aspirant's Plate Battlegear [Aspirant]
+      - transmogSetId: 3292
+        wowheadSetId:
+
 - name: "Dragonflight Season 2"
   tag: "S33"
   type: class

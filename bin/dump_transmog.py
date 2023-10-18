@@ -121,6 +121,8 @@ DESCRIPTION_MAP = {
     14025: 'Time Rifts',
     14028: 'Time Rifts and Dawn of the Infinite',
     14029: 'Dawn of the Infinite',
+    14034: 'Emerald Bounty',
+    14041: 'Superbloom',
 }
 DESCRIPTION_ORDER = [
     13145, # Mythic

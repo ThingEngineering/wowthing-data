@@ -1,6 +1,83 @@
 name: "Misc"
 groups:
 
+# group 224
+- name: "Dreamer's Enchantment"
+  type: armor
+  sets:
+    - "Quest Rewards"
+    - "World Drops"
+    - "Emerald Bounty"
+    - "Superbloom"
+  data:
+    cloth:
+      # Ceremonial Jacaranda Regalia [Quest Rewards]
+      - transmogSetId: 3296
+        wowheadSetId:
+
+      # Ceremonial Jacaranda Regalia [World Drops]
+      - transmogSetId: 3194
+        wowheadSetId:
+
+      # Ceremonial Jacaranda Regalia [Emerald Bounty]
+      - transmogSetId: 3131
+        wowheadSetId:
+
+      # Ceremonial Jacaranda Regalia [Superbloom]
+      - transmogSetId: 3300
+        wowheadSetId:
+
+    leather:
+      # Barkbloom Warleathers [Quest Rewards]
+      - transmogSetId: 3295
+        wowheadSetId:
+
+      # Barkbloom Warleathers [World Drops]
+      - transmogSetId: 3193
+        wowheadSetId:
+
+      # Barkbloom Warleathers [Emerald Bounty]
+      - transmogSetId: 3133
+        wowheadSetId:
+
+      # Barkbloom Warleathers [Superbloom]
+      - transmogSetId: 3299
+        wowheadSetId:
+
+    mail:
+      # Embrace of the Dreamfused Skull [Quest Rewards]
+      - transmogSetId: 3294
+        wowheadSetId:
+
+      # Embrace of the Dreamfused Skull [World Drops]
+      - transmogSetId: 3192
+        wowheadSetId:
+
+      # Embrace of the Dreamfused Skull [Emerald Bounty]
+      - transmogSetId: 3132
+        wowheadSetId:
+
+      # Embrace of the Dreamfused Skull [Superbloom]
+      - transmogSetId: 3298
+        wowheadSetId:
+
+    plate:
+      # Overgrown Freyan Warplate [Quest Rewards]
+      - transmogSetId: 3293
+        wowheadSetId:
+
+      # Overgrown Freyan Warplate [World Drops]
+      - transmogSetId: 3191
+        wowheadSetId:
+
+      # Overgrown Freyan Warplate [Emerald Bounty]
+      - transmogSetId: 3134
+        wowheadSetId:
+
+      # Overgrown Freyan Warplate [Superbloom]
+      - transmogSetId: 3297
+        wowheadSetId:
+
 # group 218
 - name: "Time Rifts"
   type: armor
