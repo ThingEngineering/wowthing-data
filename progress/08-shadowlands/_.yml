@@ -1,3 +1,4 @@
 name: Shadowlands
-requiredQuestId: 59770 # Stand as One
+minimumLevel: 50
+# requiredQuestId: 59770 # Stand as One
 groups:
