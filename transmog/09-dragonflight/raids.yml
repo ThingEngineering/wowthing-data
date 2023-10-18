@@ -1,6 +1,237 @@
 name: Raids
 groups:
 
+# group 225
+- name: "Amirdrassil, the Dream's Hope"
+  tag: T25
+  type: class
+  sets:
+  - Mythic
+  - Heroic
+  - Normal
+  - Raid Finder
+  data:
+    death-knight:
+      # Risen Nightmare's Gravemantle [Mythic]
+      - transmogSetId: 3164
+        wowheadSetId:
+
+      # Risen Nightmare's Gravemantle [Heroic]
+      - transmogSetId: 3161
+        wowheadSetId:
+
+      # Risen Nightmare's Gravemantle [Normal]
+      - transmogSetId: 3163
+        wowheadSetId:
+
+      # Risen Nightmare's Gravemantle [Raid Finder]
+      - transmogSetId: 3162
+        wowheadSetId:
+
+    demon-hunter:
+      # Screaming Torchfiend's Brutality [Mythic]
+      - transmogSetId: 3156
+        wowheadSetId:
+
+      # Screaming Torchfiend's Brutality [Heroic]
+      - transmogSetId: 3155
+        wowheadSetId:
+
+      # Screaming Torchfiend's Brutality [Normal]
+      - transmogSetId: 3153
+        wowheadSetId:
+
+      # Screaming Torchfiend's Brutality [Raid Finder]
+      - transmogSetId: 3154
+        wowheadSetId:
+
+    druid:
+      # Benevolent Embersage's Guidance [Mythic]
+      - transmogSetId: 3180
+        wowheadSetId:
+
+      # Benevolent Embersage's Guidance [Heroic]
+      - transmogSetId: 3178
+        wowheadSetId:
+
+      # Benevolent Embersage's Guidance [Normal]
+      - transmogSetId: 3177
+        wowheadSetId:
+
+      # Benevolent Embersage's Guidance [Raid Finder]
+      - transmogSetId: 3179
+        wowheadSetId:
+
+    evoker:
+      # Werynkeeper's Timeless Vigil [Mythic]
+      - transmogSetId: 3159
+        wowheadSetId:
+
+      # Werynkeeper's Timeless Vigil [Heroic]
+      - transmogSetId: 3158
+        wowheadSetId:
+
+      # Werynkeeper's Timeless Vigil [Normal]
+      - transmogSetId: 3157
+        wowheadSetId:
+
+      # Werynkeeper's Timeless Vigil [Raid Finder]
+      - transmogSetId: 3160
+        wowheadSetId:
+
+    hunter:
+      # Blazing Dreamstalker's Trophies [Mythic]
+      - transmogSetId: 3139
+        wowheadSetId:
+
+      # Blazing Dreamstalker's Trophies [Heroic]
+      - transmogSetId: 3140
+        wowheadSetId:
+
+      # Blazing Dreamstalker's Trophies [Normal]
+      - transmogSetId: 3137
+        wowheadSetId:
+
+      # Blazing Dreamstalker's Trophies [Raid Finder]
+      - transmogSetId: 3138
+        wowheadSetId:
+
+    mage:
+      # Wayward Chronomancer's Clockwork [Mythic]
+      - transmogSetId: 3188
+        wowheadSetId:
+
+      # Wayward Chronomancer's Clockwork [Heroic]
+      - transmogSetId: 3187
+        wowheadSetId:
+
+      # Wayward Chronomancer's Clockwork [Normal]
+      - transmogSetId: 3186
+        wowheadSetId:
+
+      # Wayward Chronomancer's Clockwork [Raid Finder]
+      - transmogSetId: 3185
+        wowheadSetId:
+
+    monk:
+      # Mystic Heron's Discipline [Mythic]
+      - transmogSetId: 3141
+        wowheadSetId:
+
+      # Mystic Heron's Discipline [Heroic]
+      - transmogSetId: 3143
+        wowheadSetId:
+
+      # Mystic Heron's Discipline [Normal]
+      - transmogSetId: 3144
+        wowheadSetId:
+
+      # Mystic Heron's Discipline [Raid Finder]
+      - transmogSetId: 3142
+        wowheadSetId:
+
+    paladin:
+      # Zealous Pyreknight's Ardor [Mythic]
+      - transmogSetId: 3145
+        wowheadSetId:
+
+      # Zealous Pyreknight's Ardor [Heroic]
+      - transmogSetId: 3146
+        wowheadSetId:
+
+      # Zealous Pyreknight's Ardor [Normal]
+      - transmogSetId: 3148
+        wowheadSetId:
+
+      # Zealous Pyreknight's Ardor [Raid Finder]
+      - transmogSetId: 3147
+        wowheadSetId:
+
+    priest:
+      # Blessings of Lunar Communion [Mythic]
+      - transmogSetId: 3182
+        wowheadSetId:
+
+      # Blessings of Lunar Communion [Heroic]
+      - transmogSetId: 3183
+        wowheadSetId:
+
+      # Blessings of Lunar Communion [Normal]
+      - transmogSetId: 3184
+        wowheadSetId:
+
+      # Blessings of Lunar Communion [Raid Finder]
+      - transmogSetId: 3181
+        wowheadSetId:
+
+    rogue:
+      # Lucid Shadewalker's Silence [Mythic]
+      - transmogSetId: 3166
+        wowheadSetId:
+
+      # Lucid Shadewalker's Silence [Heroic]
+      - transmogSetId: 3168
+        wowheadSetId:
+
+      # Lucid Shadewalker's Silence [Normal]
+      - transmogSetId: 3165
+        wowheadSetId:
+
+      # Lucid Shadewalker's Silence [Raid Finder]
+      - transmogSetId: 3167
+        wowheadSetId:
+
+    shaman:
+      # Vision of the Greatwolf Outcast [Mythic]
+      - transmogSetId: 3172
+        wowheadSetId:
+
+      # Vision of the Greatwolf Outcast [Heroic]
+      - transmogSetId: 3170
+        wowheadSetId:
+
+      # Vision of the Greatwolf Outcast [Normal]
+      - transmogSetId: 3169
+        wowheadSetId:
+
+      # Vision of the Greatwolf Outcast [Raid Finder]
+      - transmogSetId: 3171
+        wowheadSetId:
+
+    warlock:
+      # Devout Ashdevil's Pactweave [Mythic]
+      - transmogSetId: 3173
+        wowheadSetId:
+
+      # Devout Ashdevil's Pactweave [Heroic]
+      - transmogSetId: 3174
+        wowheadSetId:
+
+      # Devout Ashdevil's Pactweave [Normal]
+      - transmogSetId: 3175
+        wowheadSetId:
+
+      # Devout Ashdevil's Pactweave [Raid Finder]
+      - transmogSetId: 3176
+        wowheadSetId:
+
+    warrior:
+      # Molten Vanguard's Mortarplate [Mythic]
+      - transmogSetId: 3151
+        wowheadSetId:
+
+      # Molten Vanguard's Mortarplate [Heroic]
+      - transmogSetId: 3149
+        wowheadSetId:
+
+      # Molten Vanguard's Mortarplate [Normal]
+      - transmogSetId: 3150
+        wowheadSetId:
+
+      # Molten Vanguard's Mortarplate [Raid Finder]
+      - transmogSetId: 3152
+        wowheadSetId:
+
 # group 211
 - name: "Aberrus, the Shadowed Crucible"
   tag: T24
