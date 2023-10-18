@@ -1,11 +1,14 @@
-id: 198429
+id: 200559
 name: "Treysh"
+note: "Quartermaster"
 
 locations:
   09-dragonflight/forbidden_reach:
-    - 45.2 61.2
+    - 35.4 59.4
 
 sells:
+  # 0
+
   - type: mount
     id: 1667 # Armored Vorquin Leystrider
     costs:
@@ -45,3 +48,48 @@ sells:
     id: 1665 # Swift Armored Vorquin
     costs:
       0: 80 # Gold
+
+  - type: transmog
+    id: 202197 # Emboldened Dracthyr's Tabard [tabard]
+    costs:
+      0: 10 # Gold
+
+  - type: transmog
+    id: 194675 # Gilded Dracthyr's Tabard [tabard]
+    costs:
+      0: 10 # Gold
+
+  - type: transmog
+    id: 204563 # Morqut Club [1h ? mace]
+    costs:
+      2118: 5000
+
+  - type: transmog
+    id: 204562 # Maruuk Maul [2h ? mace]
+    costs:
+      2118: 5000
+
+  - type: transmog
+    id: 204570 # Valdrakken Pocketknife [? dagger]
+    costs:
+      2118: 5000
+
+  - type: transmog
+    id: 204569 # Valdrakken Talons [fist]
+    costs:
+      2118: 5000
+
+  - type: transmog
+    id: 204564 # Dragonscale Expeditioner's Rifle [gun]
+    costs:
+      2118: 5000
+
+  - type: transmog
+    id: 204566 # Journal of the Forbidden Reach [off-hand]
+    costs:
+      2118: 5000
+
+  - type: transmog
+    id: 204571 # Bulwark of the Forbidden Reach [shield]
+    costs:
+      2118: 5000
