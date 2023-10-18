@@ -2,6 +2,12 @@ name: "Dragonflight"
 minimumLevel: 60
 reputations:
 
+# 10.2
+-
+  - both:
+      id: 2574 # Dream Wardens
+      icon: "achievement/19235" # Warden of the Dream
+
 # 10.1.5
 -
   - both:
