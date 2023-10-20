@@ -3,6 +3,314 @@ mapName: "09-dragonflight/zaralek_cavern"
 minimumLevel: 60
 farms:
 
+# Kills
+
+- name: "Alcanon"
+  location: 56.2 73.9
+  npcId: 203515
+  questId: 75284
+  type: kill
+  drops:
+  - type: item
+    id: 203307 # WindingSlitherdrake > PlatedBrow
+
+  - type: transmog
+    id: 205318 # Guardian Golems Legplates [plate ?]
+
+  - type: transmog
+    id: 205309 # Loyal Attendant's Gaze [mail ?]
+
+- name: "Aquifon"
+  location: 48.4 75.1
+  npcId: 203468
+  questId: 75270
+  type: kill
+  drops:
+  - type: pet
+    id: 3548 # Aquapo
+
+  - type: transmog
+    id: 205306 # Aquiferous Raiment [mail ?]
+
+  - type: transmog
+    id: 205295 # Sediment Sifters [cloth ?]
+
+- name: "Brulsef the Stronk"
+  location: 41.5 86.1
+  npcId: 203621
+  questId: 75325
+  type: kill
+  drops:
+  - type: pet
+    id: 3533 # Brul
+
+  - type: transmog
+    id: 205313 # Brullo's Wristbraces [mail ?]
+
+- name: "Colossian"
+  location: 48.4 23.8
+  npcId: 204093
+  questId: 75475
+  type: kill
+  drops:
+  - type: item
+    id: 197364 # WindingSlitherdrake > ShortSpikedCrest
+
+  - type: transmog
+    id: 205315 # Colossian Cuirass [plate ?]
+
+  - type: transmog
+    id: 205332 # Fist of the Demolisher [1h_mace ?]
+
+- name: "Emberdusk"
+  location: 31.8 50.6
+  npcId: 203664
+  questId: 75361
+  type: kill
+  drops:
+  - type: transmog
+    id: 205293 # Emberdusk's Embrace [cloth ?]
+
+- name: "Flowfy"
+  location: 36.3 44.8
+  npcId: 203660
+  questId: 75357
+  type: kill
+  drops:
+  - type: transmog
+    id: 205303 # Leggings of Flowing Flame [leather ?]
+
+- name: "General Zskorro"
+  location: 41.9 18.6
+  npcId: 203592
+  questId: 75295
+  type: kill
+  drops:
+  - type: item
+    id: 203334 # WindingSlitherdrake > CurledHorns
+
+  - type: transmog
+    id: 205321 # Brimstone Bracers [plate ?]
+
+  - type: transmog
+    id: 205291 # Garrison General's Cape [cloak ?]
+
+  - type: transmog
+    id: 205331 # Zskorran Cleaver [1h_axe ?]
+
+- name: "Goopal"
+  location: 68.7 45.9
+  npcId: 203477
+  questId: 75273
+  type: kill
+  drops:
+  - type: transmog
+    id: 205296 # Goopal's Visage [cloth ?]
+
+  - type: transmog
+    id: 205317 # Crystalpod Gauntlets [plate ?]
+
+- name: "Invoq"
+  location: 45.7 33.3
+  npcId: 203627
+  questId: 75335
+  type: kill
+  drops:
+  - type: toy
+    id: 205796 #  -- Molten Lava Pack
+
+  - type: transmog
+    id: 205297 # Flamewielder's Trousers [cloth ?]
+
+- name: "Jrumm"
+  location: 28.5 51.2
+  npcId: 203646
+  questId: 75352
+  type: kill
+  drops:
+  - type: item
+    id: 203320 # WindingSlitherdrake > Ears
+
+  - type: toy
+    id: 205419 #  -- Jrumm's Drum
+
+  - type: transmog
+    id: 205299 # Rudiment Cuffs [cloth ?]
+
+  - type: transmog
+    id: 205304 # Snareguard Sash [leather ?]
+
+- name: "Kaprachu"
+  location: 59.6 39.5
+  npcId: 203466
+  questId: 75268
+  type: kill
+  drops:
+  - type: item
+    id: 205341 # WindingSlitherdrake > HeavyScales
+
+  - type: transmog
+    id: 205319 # Deepflayer Shoulderguards [plate ?]
+
+  - type: transmog
+    id: 205310 # Legguards of Kaprachu [mail ?]
+
+- name: "Karokta"
+  location: 42.2 65.2
+  npcId: 203625
+  questId: 75333
+  type: kill
+  drops:
+  - type: item
+    id: 203358 # WindingSlitherdrake > SmallFinnedTail
+
+  - type: mount
+    id: 1732 # Cobalt Shalewing
+
+  - type: pet
+    id: 3541 # Ridged Shalewing
+
+  - type: transmog
+    id: 205298 # Belt of Floating Stone [cloth ?]
+
+  - type: transmog
+    id: 205292 # Kairoktra's Mane [cloak ?]
+
+- name: "Klakatak"
+  location: 54.1 41.6
+  npcId: 203618
+  questId: 75321
+  type: kill
+  drops:
+  - type: transmog
+    id: 205308 # Clacking Clawguards [mail ?]
+
+- name: "Kob'rok"
+  location: 65.4 55.9
+  npcId: 203462
+  questId: 75266
+  type: kill
+  drops:
+  - type: item
+    id: 197021 # CliffsideWylderdrake > SpikedClubTail
+
+  - type: pet
+    id: 3546 # Skaarn
+
+  - type: transmog
+    id: 205323 # Rock-Lined Pauldrons [leather ?]
+
+  - type: transmog
+    id: 205307 # Kob'rok's Scale Sabatons [mail ?]
+
+- name: "Magmanesha"
+  location: 40.8 38.2
+  npcId: 200111
+  questId: 75339
+  type: kill
+  drops:
+  - type: item
+    id: 203339 # WindingSlitherdrake > ImpalerHorns
+
+  - type: transmog
+    id: 205300 # Magma Waders [leather ?]
+
+  - type: transmog
+    id: 205311 # Magmascale Pauldrons [mail ?]
+
+- name: "Professor Gastrinax"
+  location: 55.8 19.0
+  npcId: 203521
+  questId: 75291
+  type: kill
+  drops:
+  - type: item
+    id: 203331 # WindingSlitherdrake > ClusterHorns
+
+  - type: transmog
+    id: 205322 # Algeth'ar Exile's Frock [leather ?]
+
+- name: "Skornak"
+  location: 36.2 53.0
+  npcId: 203643
+  questId: 75348
+  type: kill
+  drops:
+  - type: item
+    id: 203321 # WindingSlitherdrake > CurledCheekHorn
+
+  - type: transmog
+    id: 205294 # Sandals of Molten Scorn [cloth ?]
+
+  - type: transmog
+    id: 205301 # Hardened Lava Handwraps [leather ?]
+
+- name: "Spinmarrow"
+  location: 53.1 64.2
+  npcId: 203480
+  questId: 75275
+  type: kill
+  drops:
+  - type: item
+    id: 203318 # WindingSlitherdrake > HairyCrest
+
+  - type: transmog
+    id: 205305 # Zaralek Arachnid Armbands [leather ?]
+
+  - type: transmog
+    id: 205290 # Greatcloak of Spun Marrow [cloak ?]
+
+  - type: transmog
+    id: 205326 # Crystalweb Chelicera [dagger ?]
+
+- name: "Subterrax"
+  location: 38.4 46.5
+  npcId: 203662
+  questId: 75359
+  type: kill
+  drops:
+  - type: item
+    id: 203338 # WindingSlitherdrake > AntlerHorns
+
+  - type: transmog
+    id: 205312 # Subterrax's Stout Waistguard [mail ?]
+
+  - type: transmog
+    id: 205314 # Greathelm of the Emissary [plate ?]
+
+  - type: transmog
+    id: 205328 # Earthen Emissasry's Edge [2h_sword ?]
+
+- name: "Underlight Queen"
+  location: 57.8 69.1
+  npcId: 203593
+  questId: 75297
+  type: kill
+  drops:
+  - type: pet
+    id: 3551 # Teardrop Moth
+
+  - type: transmog
+    id: 205324 # Moth Queen Mantle [cloth ?]
+
+  - type: transmog
+    id: 205302 # Underlight Headwrap [leather ?]
+
+  - type: transmog
+    id: 205325 # Crystal Wing Shield [shield ?]
+
+- name: "Viridian King"
+  location: 38.9 71.5
+  npcId: 201029
+  questId: 75365
+  type: kill
+  drops:
+  - type: transmog
+    id: 205316 # Crystal Stompers [plate ?]
+
+  - type: transmog
+    id: 205327 # Shard of the Veridian King [dagger ?]
+
 # Profession Treasure
 
 # - Alchemy
