@@ -1,6 +1,7 @@
 id: 202468
 name: "Harlowe Marl"
 note: "Loamm Niffen Quartermaster"
+zoneMapsGroupId: 1
 
 locations:
   09-dragonflight/zaralek_cavern:

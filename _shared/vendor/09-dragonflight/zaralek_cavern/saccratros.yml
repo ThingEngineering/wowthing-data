@@ -1,6 +1,7 @@
 id: 203615
 name: "Saccratros"
 note: "Coveted Bauble Exchange"
+zoneMapsGroupId: 1
 
 locations:
   09-dragonflight/zaralek_cavern:

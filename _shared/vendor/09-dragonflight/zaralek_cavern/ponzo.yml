@@ -1,6 +1,7 @@
 id: 204693
 name: "Ponzo"
 note: "Barterer Extraordinaire"
+zoneMapsGroupId: 1
 
 locations:
   09-dragonflight/zaralek_cavern:

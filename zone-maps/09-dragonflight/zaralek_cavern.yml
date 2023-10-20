@@ -3,6 +3,13 @@ mapName: "09-dragonflight/zaralek_cavern"
 minimumLevel: 60
 farms:
 
+# Group
+
+- name: "Loamm"
+  groupId: 1
+  location: 57 55
+  type: group
+
 # Kills
 
 - name: "Alcanon"
@@ -366,6 +373,7 @@ farms:
       note: "{price:3|2023}" # Blacksmithing Knowledge
 
 - name: "{item:205986}"
+  groupId: 1
   location: 57.15 54.64
   objectId: 402627
   questId: 76078
