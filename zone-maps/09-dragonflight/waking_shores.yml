@@ -15,38 +15,738 @@ farms:
   location: 46.0 81.6
   type: group
 
-# Kill
+# Kills
 
-# - name: "Amethyzar the Glittering"
-#   location: 63.4 54.8
-#   npcId: 193132
-#   #questId: 
-#   drops:
+- name: "Amethyzar the Glittering"
+  location: 63.7 55.1
+  npcId: 193132
+  questId: 73981
+  type: kill
+  drops:
+    - &cliffsidewylderdrake-blackhorns
+      type: item
+      id: 196991 # CliffsideWylderdrake > BlackHorns
+
+    - &windbornevelocidrake-clubtail
+      type: item
+      id: 197624 # WindborneVelocidrake > ClubTail
+
+    - &enchanted-muckstompers
+      type: transmog
+      id: 200244 # Enchanted Muckstompers [leather ?]
+
+    - &legguards-of-the-deep-strata
+      type: transmog
+      id: 200683 # Legguards of the Deep Strata [plate ?]
+
+    - &lost-delving-lamp
+      type: transmog
+      id: 200246 # Lost Delving Lamp [staff ?]
 
 - name: "Ancient Hornswog"
-  location: 77.6 22.2
+  location: 77.3 22.0
   npcId: 187111
-  #questId: 
+  questId: 72835
+  type: kill
   drops:
+    - &cliffsidewylderdrake-headmane
+      type: item
+      id: 196976 # CliffsideWylderdrake > HeadMane
+
+    - &cliffsidewylderdrake-heavyhorns
+      type: item
+      id: 196992 # CliffsideWylderdrake > HeavyHorns
+
+    - &highlanddrake-manedhead
+      type: item
+      id: 197111 # HighlandDrake > ManedHead
+
+    - &renewedprotodrake-clubtail
+      type: item
+      id: 197403 # RenewedProtoDrake > ClubTail
+
+    - &mages-chewed-wand
+      type: toy
+      id: 200249 # Mage's Chewed Wand
+
     - type: xpquest
       id: 66076
 
-- name: "Azra's Prized Peony"
-  location: 54.9 71.1
-  npcId: 193135
+    - &manafrond-sandals
+      type: transmog
+      id: 200193 # Manafrond Sandals [cloth ?]
+
+    - &basilisk-hide-jerkin
+      type: transmog
+      id: 200442 # Basilisk Hide Jerkin [leather ?]
+
+    - &bonesigil-shoulderguards
+      type: transmog
+      id: 200174 # Bonesigil Shoulderguards [leather ?]
+
+    - &amberquill-shroud
+      type: transmog
+      id: 200186 # Amberquill Shroud [mail ?]
+
+    - type: transmog
+      id: 200682 # Hardened Scale Shoulderguards [plate ?]
+
+    - &thunderscale-legguards
+      type: transmog
+      id: 200195 # Thunderscale Legguards [plate ?]
+
+    - &reclaimed-survivalists-dagger
+      type: transmog
+      id: 200131 # Reclaimed Survivalist's Dagger [dagger ?]
+
+    - &raptor-talonglaive
+      type: transmog
+      id: 200232 # Raptor Talonglaive [warglaive ?]
+
+    - &aegis-of-scales
+      type: transmog
+      id: 200165 # Aegis of Scales [shield ?]
+
+- name: "Anhydros the Tidetaker"
+  location: 58.6 40.2
+  npcId: 187945
+  questId: 73865
   type: kill
   drops:
-    - type: transmog
-      id: 200259 # Forest Dweller's Shield [shield]
+    - &cliffsidewylderdrake-finnedcheek
+      type: item
+      id: 197001 # CliffsideWylderdrake > FinnedCheek
 
-- name: "Brundin the Dragonbane"
-  location: 48.4 66.1
+    - &highlanddrake-finnedback
+      type: item
+      id: 197098 # HighlandDrake > FinnedBack
+
+    - &leviathan-lure
+      type: transmog
+      id: 200245 # Leviathan Lure [2h_mace ?]
+
+- name: "Azra's Prized Peony"
+  location: 54.5 71.7
+  npcId: 193135
+  questId: 73984
+  type: kill
+  drops:
+    - type: item
+      id: 197121 # HighlandDrake > TanHorns
+
+    - type: item
+      id: 197398 # RenewedProtoDrake > SnubSnout
+
+    - type: transmog
+      id: 200229 # Slightly Digested Leggings [cloth ?]
+
+    - type: transmog
+      id: 200267 # Reinforced Garden Tenders [plate ?]
+
+    - type: transmog
+      id: 200259 # Forest Dweller's Shield [shield ?]
+
+- name: "Brundin the Dragonbane (Qalashi War Party)"
+  location: 52.9 65.3
   npcId: 192738
   questId: 73890
   type: kill
   drops:
+    - *cliffsidewylderdrake-headmane # CliffsideWylderdrake > HeadMane
+
+    - *highlanddrake-manedhead # HighlandDrake > ManedHead
+
+    - &highlanddrake-toothymouth
+      type: item
+      id: 197135 # HighlandDrake > ToothyMouth
+
+    - &renewedprotodrake-impalerhorns
+      type: item
+      id: 197379 # RenewedProtoDrake > ImpalerHorns
+
+    - &volcanic-chakram
+      type: transmog
+      id: 200133 # Volcanic Chakram [fist ?]
+
+- name: "Dragonhunter Igordan"
+  location: 64.2 32.9
+  npcId: 191611
+  questId: 72838
+  type: kill
+  drops:
+    - type: item
+      id: 197019 # CliffsideWylderdrake > BluntSpikedTail
+
+    - type: item
+      id: 197005 # CliffsideWylderdrake > HornedNose
+
+    - type: xpquest
+      id: 66956
+
+    - type: transmog
+      id: 200757 # Qalashi War-Helm [plate ?]
+
+    - type: transmog
+      id: 200169 # Protector's Molten Cudgel [1h_mace ?]
+
+- name: "Drakewing"
+  location: 60.2 45.4
+  npcId: 193217
+  questId: 73874
+  type: kill
+  drops:
+    - *cliffsidewylderdrake-headmane # CliffsideWylderdrake > HeadMane
+
+    - *highlanddrake-manedhead # HighlandDrake > ManedHead
+
+    - *mages-chewed-wand # Mage's Chewed Wand
+
+    - *manafrond-sandals # Manafrond Sandals [cloth ?]
+
+    - *basilisk-hide-jerkin # Basilisk Hide Jerkin [leather ?]
+
+    - *bonesigil-shoulderguards # Bonesigil Shoulderguards [leather ?]
+
+    - *amberquill-shroud # Amberquill Shroud [mail ?]
+
+    - *thunderscale-legguards # Thunderscale Legguards [plate ?]
+
+    - type: transmog
+      id: 200219 # Dangerous Drapery [cloak ?]
+
+    - *reclaimed-survivalists-dagger # Reclaimed Survivalist's Dagger [dagger ?]
+
+    - *raptor-talonglaive # Raptor Talonglaive [warglaive ?]
+
+- name: "Firava the Rekindler"
+  location: 54.6 21.4
+  npcId: 195915
+  questId: 70648
+  type: kill
+  drops:
+    - *highlanddrake-toothymouth # HighlandDrake > ToothyMouth
+
+    - *renewedprotodrake-impalerhorns # RenewedProtoDrake > ImpalerHorns
+
+    - type: xpquest
+      id: 70648
+
+    - &inextinguishable-gavel
+      type: transmog
+      id: 200247 # Inextinguishable Gavel [1h_mace ?]
+
+    - *volcanic-chakram # Volcanic Chakram [fist ?]
+
+    - &molten-flak-cannon
+      type: transmog
+      id: 200252 # Molten Flak Cannon [gun ?]
+
+- name: "Gushgut the Beaksinker"
+  location: 52.3 58.3
+  npcId: 196056
+  questId: 73879
+  type: kill
+  drops:
+    - *cliffsidewylderdrake-finnedcheek # CliffsideWylderdrake > FinnedCheek
+
+    - *highlanddrake-finnedback # HighlandDrake > FinnedBack
+
+    - *leviathan-lure # Leviathan Lure [2h_mace ?]
+
+    - &rod-of-glacial-force
+      type: transmog
+      id: 200187 # Rod of Glacial Force [staff ?]
+
+- name: "Harkyn Grymstone"
+  location: 42.2 39.6
+  npcId: 186200
+  questId: 74000
+  type: kill
+  drops:
+    - type: item
+      id: 197131 # HighlandDrake > HairyCheek
+
+    - type: transmog
+      id: 200243 # Titanic Scholar's Finery [cloth ?]
+
+    - type: transmog
+      id: 200171 # Grymheart Blade [1h_sword ?]
+
+    - type: transmog
+      id: 200175 # Repurposed Anvil [2h_mace ?]
+
+- name: "Klozicc the Ascended"
+  location: 54.7 82.2
+  npcId: 187209
+  questId: 72841
+  type: kill
+  drops:
+    - *cliffsidewylderdrake-blackhorns # CliffsideWylderdrake > BlackHorns
+
+    - type: item
+      id: 197023 # CliffsideWylderdrake > ManedNeck
+
+    - &renewedprotodrake-heavyhorns
+      type: item
+      id: 197383 # RenewedProtoDrake > HeavyHorns
+
+    - *windbornevelocidrake-clubtail # WindborneVelocidrake > ClubTail
+
+    - &windbornevelocidrake-clusterhorns
+      type: item
+      id: 197602 # WindborneVelocidrake > ClusterHorns
+
+    - &primalist-prison
+      type: toy
+      id: 200198 # Primalist Prison
+
+    - type: xpquest
+      id: 66960
+
+    - *enchanted-muckstompers # Enchanted Muckstompers [leather ?]
+
+    - type: transmog
+      id: 200199 # Elements' Burden [mail ?]
+
+    - type: transmog
+      id: 200294 # Primal Chain Hauberk [mail ?]
+
+    - type: transmog
+      id: 200254 # Totemic Cinch [mail ?]
+
+    - &cragforge-pauldrons
+      type: transmog
+      id: 200292 # Cragforge Pauldrons [plate ?]
+
+    - *legguards-of-the-deep-strata # Legguards of the Deep Strata [plate ?]
+
+    - &earthen-protoscale-drape
+      type: transmog
+      id: 200313 # Earthen Protoscale Drape [cloak ?]
+
+    - type: transmog
+      id: 200253 # Snowspring Incanter's Knife [dagger ?]
+
+    - type: transmog
+      id: 200293 # Primal Scion's Twinblade [warglaive ?]
+
+    - *lost-delving-lamp # Lost Delving Lamp [staff ?]
+
+    - type: transmog
+      id: 200439 # Earthpact Scepter [offhand ?]
+
+- name: "Lepidoralia the Resplendent"
+  location: 34.6 82.8
+  npcId: 193266
+  questId: 74065
+  type: kill
+  drops:
+    - *cliffsidewylderdrake-headmane # CliffsideWylderdrake > HeadMane
+
+    - *highlanddrake-manedhead # HighlandDrake > ManedHead
+
+    - *mages-chewed-wand # Mage's Chewed Wand
+
+    - *manafrond-sandals # Manafrond Sandals [cloth ?]
+
+    - *basilisk-hide-jerkin # Basilisk Hide Jerkin [leather ?]
+
+    - *bonesigil-shoulderguards # Bonesigil Shoulderguards [leather ?]
+
+    - *amberquill-shroud # Amberquill Shroud [mail ?]
+
+    - *thunderscale-legguards # Thunderscale Legguards [plate ?]
+
+    - *reclaimed-survivalists-dagger # Reclaimed Survivalist's Dagger [dagger ?]
+
+    - *raptor-talonglaive # Raptor Talonglaive [warglaive ?]
+
+- name: "Magmaton"
+  location: 39.6 63.5
+  npcId: 186827
+  questId: 74010
+  type: kill
+  drops:
+    - &highlanddrake-clubtail
+      type: item
+      id: 197149 # HighlandDrake > ClubTail
+
+    - *renewedprotodrake-impalerhorns # RenewedProtoDrake > ImpalerHorns
+
+    - &windbornevelocidrake-grayhorns
+      type: item
+      id: 197608 # WindborneVelocidrake > GrayHorns
+
+    - &repurposed-giants-thimble
+      type: transmog
+      id: 200203 # Repurposed Giant's Thimble [mail ?]
+
+    - *inextinguishable-gavel # Inextinguishable Gavel [1h_mace ?]
+
+    - *volcanic-chakram # Volcanic Chakram [fist ?]
+
+    - &emerald-tailbone
+      type: transmog
+      id: 200684 # Emerald Tailbone [2h_sword ?]
+
+    - *molten-flak-cannon # Molten Flak Cannon [gun ?]
+
+- name: "Nulltheria the Void Gazer"
+  location: 56.0 45.9
+  npcId: 193256
+  questId: 73888
+  type: kill
+  drops:
+    - *cliffsidewylderdrake-heavyhorns # CliffsideWylderdrake > HeavyHorns
+
+    - type: item
+      id: 196985 # CliffsideWylderdrake > HornedJaw
+
+    - *renewedprotodrake-clubtail # RenewedProtoDrake > ClubTail
+
+    - type: item
+      id: 197382 # RenewedProtoDrake > WhiteHorns
+
+    - *aegis-of-scales # Aegis of Scales [shield ?]
+
+    - type: transmog
+      id: 200310 # Stole of the Iron Phantom [cloak]
+
+    - type: transmog
+      id: 200256 # Darkmaul Soul Horn [offhand ?]
+
+- name: "O'nank Shorescour"
+  location: 81.5 50.8
+  npcId: 193118
+  questId: 74017
+  type: kill
+  drops:
+    - &cliffsidewylderdrake-finnedneck
+      type: item
+      id: 197022 # CliffsideWylderdrake > FinnedNeck
+
+    - *highlanddrake-clubtail # HighlandDrake > ClubTail
+
+    - *windbornevelocidrake-grayhorns # WindborneVelocidrake > GrayHorns
+
+    - &windbornevelocidrake-largeheadfin
+      type: item
+      id: 197589 # WindborneVelocidrake > LargeHeadFin
+
+    - &brackish-breeches
+      type: transmog
+      id: 200435 # Brackish Breeches [cloth ?]
+
+    - *repurposed-giants-thimble # Repurposed Giant's Thimble [mail ?]
+
+    - &seamist-blade
+      type: transmog
+      id: 200151 # Seamist Blade [1h_sword ?]
+
+    - *emerald-tailbone # Emerald Tailbone [2h_sword ?]
+
+- name: "Penumbrus"
+  location: 24.1 53.9
+  npcId: 189289
+  questId: 74019
+  type: kill
+  drops:
+    - *cliffsidewylderdrake-blackhorns # CliffsideWylderdrake > BlackHorns
+
+    - *windbornevelocidrake-clubtail # WindborneVelocidrake > ClubTail
+
+    - *enchanted-muckstompers # Enchanted Muckstompers [leather ?]
+
+    - *legguards-of-the-deep-strata # Legguards of the Deep Strata [plate ?]
+
+    - *lost-delving-lamp # Lost Delving Lamp [staff ?]
+
+- name: "Possessive Hornswog"
+  location: 64.7 69.4
+  npcId: 192362
+  questId: 70864
+  type: kill
+  drops:
+    - type: pet
+      id: 3365 # Roseate Hopper
+
+- name: "Primal Scythid Queen"
+  location: 81.1 37.9
+  npcId: 184853
+  questId: 72843
+  type: kill
+  drops:
+    - *cliffsidewylderdrake-headmane # CliffsideWylderdrake > HeadMane
+
+    - *highlanddrake-manedhead # HighlandDrake > ManedHead
+
+    - *mages-chewed-wand # Mage's Chewed Wand
+
+    - type: xpquest
+      id: 66074
+
+    - *manafrond-sandals # Manafrond Sandals [cloth ?]
+
+    - *basilisk-hide-jerkin # Basilisk Hide Jerkin [leather ?]
+
+    - *bonesigil-shoulderguards # Bonesigil Shoulderguards [leather ?]
+
+    - *enchanted-muckstompers # Enchanted Muckstompers [leather ?]
+
+    - *amberquill-shroud # Amberquill Shroud [mail ?]
+
+    - *thunderscale-legguards # Thunderscale Legguards [plate ?]
+
+    - *reclaimed-survivalists-dagger # Reclaimed Survivalist's Dagger [dagger ?]
+
+    - *raptor-talonglaive # Raptor Talonglaive [warglaive ?]
+
+- name: "Shadeslash Trakken"
+  location: 47.0 73.3
+  npcId: 193271
+  questId: 74076
+  type: kill
+  drops:
+    - type: item
+      id: 196999 # CliffsideWylderdrake > SweptHorns
+
+    - type: item
+      id: 197116 # HighlandDrake > Ears
+
+    - type: transmog
+      id: 200297 # Hastily Cobbled Maul [1h_mace ?]
+
+    - type: transmog
+      id: 200152 # Gleaming Blade of Insight [1h_sword ?]
+
+- name: "Skald the Impaler"
+  location: 33.9 64.5
+  npcId: 193708
+  questId: 74078
+  type: kill
+  drops:
+    - *highlanddrake-manedhead # HighlandDrake > ManedHead
+
+    - *basilisk-hide-jerkin # Basilisk Hide Jerkin [leather ?]
+
+    - *thunderscale-legguards # Thunderscale Legguards [plate ?]
+
+    - *inextinguishable-gavel # Inextinguishable Gavel [1h_mace ?]
+
+    - *volcanic-chakram # Volcanic Chakram [fist ?]
+
+- name: "Skewersnout"
+  location: 42.9 28.3
+  npcId: 193181
+  questId: 73895
+  type: kill
+  drops:
+    - *cliffsidewylderdrake-finnedneck # CliffsideWylderdrake > FinnedNeck
+
+    - *windbornevelocidrake-largeheadfin # WindborneVelocidrake > LargeHeadFin
+
+    - *manafrond-sandals # Manafrond Sandals [cloth ?]
+
+    - *basilisk-hide-jerkin # Basilisk Hide Jerkin [leather ?]
+
+    - *amberquill-shroud # Amberquill Shroud [mail ?]
+
+    - *thunderscale-legguards # Thunderscale Legguards [plate ?]
+
+    - *seamist-blade # Seamist Blade [1h_sword ?]
+
+    - *reclaimed-survivalists-dagger # Reclaimed Survivalist's Dagger [dagger ?]
+
+    - type: transmog
+      id: 200132 # Skewer's Snout [dagger ?]
+
+- name: "Slurpo, the Incredible Snail"
+  location: 34.6 89.5
+  npcId: 193175
+  questId: 74079
+  type: kill
+  drops:
+    - *highlanddrake-finnedback # HighlandDrake > FinnedBack
+
+    - type: transmog
+      id: 200189 # Hydroforged Shell Helm [plate ?]
+
+    - *leviathan-lure # Leviathan Lure [2h_mace ?]
+
+    - *rod-of-glacial-force # Rod of Glacial Force [staff ?]
+
+- name: "Smogswog the Firebreather"
+  location: 69.5 66.5
+  npcId: 193120
+  questId: 74031
+  type: kill
+  drops:
+    - *bonesigil-shoulderguards # Bonesigil Shoulderguards [leather ?]
+
+    - *manafrond-sandals # Manafrond Sandals [cloth ?]
+
+    - type: transmog
+      id: 200209 # Firebreather's Cowl [mail ?]
+
+    - *inextinguishable-gavel # Inextinguishable Gavel [1h_mace ?]
+
+    - *volcanic-chakram # Volcanic Chakram [fist ?]
+
+    - *molten-flak-cannon # Molten Flak Cannon [gun ?]
+
+- name: "Snappy (Gorjo the Crab Shackler)"
+  location: 78.5 50.0
+  npcId: 193228
+  questId: 73997
+  type: kill
+  drops:
+    - *cliffsidewylderdrake-finnedneck # CliffsideWylderdrake > FinnedNeck
+
+    - *windbornevelocidrake-largeheadfin # WindborneVelocidrake > LargeHeadFin
+
+    - *brackish-breeches # Brackish Breeches [cloth ?]
+
+    - *seamist-blade # Seamist Blade [1h_sword ?]
+
+    - type: transmog
+      id: 200281 # Gorjo's Riding Crop [offhand ?]
+
+- name: "Terillod the Devout"
+  location: 60.6 82.8
+  npcId: 193171
+  questId: 72850
+  type: kill
+  drops:
+    - *renewedprotodrake-heavyhorns # RenewedProtoDrake > HeavyHorns
+
+    - type: item
+      id: 197372 # RenewedProtoDrake > PurpleHair
+
+    - *windbornevelocidrake-clusterhorns # WindborneVelocidrake > ClusterHorns
+
+    - type: item
+      id: 197606 # WindborneVelocidrake > SweptHorns
+
+    - *primalist-prison # Primalist Prison
+
+    - type: xpquest
+      id: 70751
+
+    - type: transmog
+      id: 200208 # Cloud Coalescing Handwraps [cloth ?]
+
+    - type: transmog
+      id: 200314 # Skyspeaker's Envelope [cloth ?]
+
+    - *cragforge-pauldrons # Cragforge Pauldrons [plate ?]
+
+    - *earthen-protoscale-drape # Earthen Protoscale Drape [cloak ?]
+
+    - type: transmog
+      id: 200306 # Tempest Shawl [cloak ?]
+
+- name: "Thunderous Matriarch"
+  location: 45.5 35.4
+  npcId: 193148
+  questId: 73899
+  type: kill
+  drops:
+    - *cliffsidewylderdrake-headmane # CliffsideWylderdrake > HeadMane
+
+    - *highlanddrake-manedhead # HighlandDrake > ManedHead
+
+    - *mages-chewed-wand # Mage's Chewed Wand
+
+    - *manafrond-sandals # Manafrond Sandals [cloth ?]
+
+    - *basilisk-hide-jerkin # Basilisk Hide Jerkin [leather ?]
+
+    - *bonesigil-shoulderguards # Bonesigil Shoulderguards [leather ?]
+
+    - *amberquill-shroud # Amberquill Shroud [mail ?]
+
+    - *thunderscale-legguards # Thunderscale Legguards [plate ?]
+
+    - *reclaimed-survivalists-dagger # Reclaimed Survivalist's Dagger [dagger ?]
+
+    - *raptor-talonglaive # Raptor Talonglaive [warglaive ?]
+
+# Treasures
+
+- name: "Bubble Drifter"
+  location: 40.5 41.4
+  questId: 70599
+  reset: never
+  type: treasure
+  drops:
+    - type: pet
+      id: 3269 # Azure Frillfish
+
+- name: "Dead Man's Chestplate"
+  location: 69.3 46.5
+  objectId: 380654
+  questId: 70346
+  reset: never
+  type: treasure
+  drops:
+    - type: transmog
+      id: 202193 # Dead Man's Tunic [cosmetic cloth chest]
+      limit: armor cloth
+
+    - type: transmog
+      id: 202192 # Dead Man's Leathers [cosmetic leather chest]
+      limit: armor leather
+
+    - type: transmog
+      id: 202190 # Dead Man's Chains [cosmetic mail chest]
+      limit: armor mail
+
+    - type: transmog
+      id: 202191 # Dead Man's Breastplate [cosmetic plate chest]
+      limit: armor plate
+
+- name: "Golden Dragon Goblet"
+  location: 65.8 41.8
+  note: "Costs 1x {item:198854} to open"
+  objectId: 381045
+  questId: 70600
+  reset: never
+  type: treasure
+  drops:
     - type: toy
-      id: 200857 # Talisman of Sargha
+      id: 202019 # Golden Dragon Goblet
+
+- name: "Lost Obsidian Cache"
+  location: 44.6 70.1
+  questId: 70018
+  reset: never
+  type: treasure
+  drops:
+    - type: toy
+      id: 201933 # Black Dragon's Challenge Dummy
+
+- name: "Misty Treasure Chest"
+  location: 58.6 53.1
+  note: "Behind the waterfall"
+  objectId: 375668
+  questId: 65646
+  reset: never
+  type: treasure
+  drops:
+    - type: item
+      id: 202194 # Misty Satchel
+
+- name: "Yennu's Kite"
+  location: 46.7 31.2
+  objectId: 380653
+  questId: 70345
+  reset: never
+  type: treasure
+  drops:
+    - type: toy
+      id: 202022 # Yennu's Kite
+
+# OLD
 
 - name: "Captain Lancer"
   location: 26.9 76.1
@@ -61,140 +761,6 @@ farms:
 
     - type: transmog
       id: 200286 # Dragonbane Lance [strength polearm]
-
-- name: "Dragonhunter Igordan"
-  location: 64.3 33.0
-  npcId: 191611
-  questId: 72838
-  type: kill
-  drops:
-    - *qalashi-war-helm
-
-    - type: xpquest
-      id: 66956
-
-- name: "Drakewing"
-  location: 72.8 47.0
-  npcId: 193217
-  type: kill
-  drops:
-    - type: transmog
-      id: 200219 # Dangerous Drapery [cloak]
-
-- name: "Enkine the Voracious"
-  location: 21.6 64.8
-  npcId: 193134
-  questId: 73072
-  type: kill
-  drops:
-    - type: transmog
-      id: 200167 # Regurgitated Stone Handaxe [1h str axe]
-
-    - type: transmog
-      id: 200247 # Inextinguihable Gavel [1h int mace]
-
-    - type: transmog
-      id: 200133 # Volcanic Chakram [agi fist]
-
-    - type: transmog
-      id: 200252 # Molten Flak Cannon [gun]
-
-- name: "Firava the Rekindler"
-  location: 56.9 25.3
-  npcId: 195915
-  #questId: 
-  type: kill
-  drops:
-    - type: xpquest
-      id: 70648
-
-# - name: "Forgotten Gryphon"
-#   location: 32.8 75.9
-#   npcId: 193154
-#   #questId:
-#   type: kill
-#   drops:
-
-# - name: "Gorjo the Crab Shackler"
-#   location: 78.6 50.0
-#   npcId: 187209
-#   #questId: 
-#   type: kill
-#   drops:
-
-- name: "Klozicc the Ascended"
-  location: 54.7 82.3
-  npcId: 187209
-  #questId: 
-  type: kill
-  drops:
-    - type: xpquest
-      id: 66960
-
-# - name: "Lepidoralia the Resplendent"
-#   location: 34.1 85.7
-#   npcId: 193266
-#   #questId: 
-#   type: kill
-#   drops:
-
-# - name: "Magmaton"
-#   location: 40.0 64.5
-#   npcId: 186827
-#   #questId: 
-#   type: kill
-#   drops:
-
-# - name: "Massive Magmashell"
-#   location: 21.7 76.2
-#   npcId: 193152
-#   #questId: 
-#   type: kill
-#   drops:
-
-# - name: "O'nank Shorescour"
-#   location: 80.1 53.9
-#   npcId: 184853
-#   #questId: 
-#   drops:
-
-- name: "Primal Scythid Queen"
-  location: 81.3 37.7
-  npcId: 184853
-  #questId: 
-  drops:
-    - type: xpquest
-      id: 66074
-
-# - name: "Shadeslash Trakken"
-#   location: 47.2 73.6
-#   npcId: 193271
-#   #questId: 
-#   type: kill
-#   drops:
-
-# - name: "Slurpo, the Incredible Snail"
-#   location: 34.5 89.7
-#   npcId: 193175
-#   #questId: 
-#   type: kill
-#   drops:
-
-# - name: "Smogswog the Firebreather"
-#   location: 68.4 65.3
-#   npcId: 193120
-#   #questId: 
-#   type: kill
-#   drops:
-
-- name: "Terillod the Devout"
-  location: 60.6 82.9
-  npcId: 193171
-  #questId: 
-  type: kill
-  drops:
-    - type: xpquest
-      id: 70751
 
 # Achievement
 
@@ -556,60 +1122,3 @@ farms:
       id: 198699 # Mysterious Banner
       limit: profession tailoring 2831 25
       note: "{price:3|2026}" # Tailoring Knowledge
-
-# Treasure
-
-- name: "Dead Man's Chestplate"
-  location: 69.3 46.5
-  objectId: 380654
-  questId: 70346
-  reset: never
-  type: treasure
-  drops:
-    - type: transmog
-      id: 202193 # Dead Man's Tunic [cosmetic cloth chest]
-      limit: armor cloth
-
-    - type: transmog
-      id: 202192 # Dead Man's Leathers [cosmetic leather chest]
-      limit: armor leather
-
-    - type: transmog
-      id: 202190 # Dead Man's Chains [cosmetic mail chest]
-      limit: armor mail
-
-    - type: transmog
-      id: 202191 # Dead Man's Breastplate [cosmetic plate chest]
-      limit: armor plate
-
-- name: "Golden Dragon Goblet"
-  location: 65.8 41.8
-  note: "Costs 1x {item:198854} to open"
-  objectId: 381045
-  questId: 70600
-  reset: never
-  type: treasure
-  drops:
-    - type: toy
-      id: 202019 # Golden Dragon Goblet
-
-- name: "Misty Treasure Chest"
-  location: 58.6 53.1
-  note: "Behind the waterfall"
-  objectId: 375668
-  questId: 65646
-  reset: never
-  type: treasure
-  drops:
-    - type: item
-      id: 202194 # Misty Satchel
-
-- name: "Yennu's Kite"
-  location: 46.8 31.2
-  objectId: 380653
-  questId: 70345
-  reset: never
-  type: treasure
-  drops:
-    - type: toy
-      id: 202022 # Yannu's Kite
