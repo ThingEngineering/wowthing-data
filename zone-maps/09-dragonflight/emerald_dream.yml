@@ -2,3 +2,124 @@ name: "Emerald Dream"
 mapName: "09-dragonflight/emerald_dream"
 minimumLevel: 60
 farms:
+
+# Kills
+
+- name: "Balboan"
+  location: 22.7 32.3
+  npcId: 210559
+  questId: 78039
+  type: kill
+  drops:
+    - type: transmog
+      id: 210105 # Autumn Druid Belt [leather ?]
+
+- name: "Bloodstripe Great Ray"
+  location: 51.3 31.3
+  npcId: 210050
+  questId: 77942
+  type: kill
+  drops:
+    - type: item
+      id: 203311 # WindingSlitherdrake > HairyChin
+
+- name: "Firebrand Fystia"
+  location: 29.9 20.8
+  npcId: 209893
+  questId: 78015
+  type: kill
+  drops:
+    - type: item
+      id: 210172 # Formula: Enchanted Wyrm's Dreaming Crest
+      limit: profession enchanting 2825 45
+
+- name: "Fruitface"
+  location: 62.9 73.0
+  npcId: 209913
+  questId: 77846
+  type: kill
+  drops:
+    - type: item
+      id: 210171 # Formula: Enchanted Aspect's Dreaming Crest
+      limit: profession enchanting 2825 50
+
+    - type: transmog
+      id: 208372 # Trickster's Tip Toers [leather ?]
+
+- name: "Henri Snufftail"
+  location: 47.1 29.7
+  npcId: 210075
+  questId: 77944
+  type: kill
+  drops:
+    - type: transmog
+      id: 208357 # Henri's Warm Coat [cloak ?]
+
+- name: "Keen-eyed Cian"
+  location: 40.3 49.2
+  npcId: 210046
+  questId: 78211
+  type: kill
+  drops:
+    - type: item
+      id: 210173 # Formula: Enchanted Whelpling's Dreaming Crest
+      limit: profession enchanting 2825 35
+
+    - type: transmog
+      id: 210128 # Autumn Defender's Claymore [2h_sword ?]
+
+- name: "Reefbreaker Moruud"
+  location: 64.2 84.0
+  npcId: 209898
+  questId: 77867
+  type: kill
+  drops:
+    - type: transmog
+      id: 208327 # Maruud's Piercing Hands [leather ?]
+
+# Treasures
+
+- name: "Hidden Moonkin Stash"
+  location: 47.5 34.8
+  questId: 77858
+  reset: never
+  type: treasure
+  drops:
+    - type: toy
+      id: 210725 # Owl Post
+
+- name: "Pineshrew Cache"
+  location: 37.3 30.7
+  questId: 78120
+  reset: never
+  type: treasure
+  drops:
+    - type: toy
+      id: 210411 # Fast Growing Seed
+
+- name: "Reliquary of Aviana"
+  location: 64.2 19.3
+  questId: 78360
+  reset: never
+  type: treasure
+  drops:
+    - type: transmog
+      id: 210659 # Branch of Aviana [cosmetic ?]
+
+- name: "Reliquary of Goldrinn"
+  location: 32.9 83.2
+  questId: 78361
+  reset: never
+  type: treasure
+  drops:
+    - type: transmog
+      id: 210660 # Claw of Lo'Gosh [cosmetic ?]
+
+- name: "Reliquary of Ursol"
+  location: 47.1 53.1
+  questId: 78107
+  reset: never
+  type: treasure
+  drops:
+    - type: transmog
+      id: 210434 # Visage of Ursoc [cosmetic ?]
