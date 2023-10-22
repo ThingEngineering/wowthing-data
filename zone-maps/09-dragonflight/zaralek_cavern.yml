@@ -18,14 +18,34 @@ farms:
   questId: 75284
   type: kill
   drops:
-  - type: item
-    id: 203307 # WindingSlitherdrake > PlatedBrow
+    - &formula-aspect
+      type: item
+      id: 205340 # Formula: Enchanted Aspect's Shadowflame Crest
+      limit: profession enchanting 2825 50
 
-  - type: transmog
-    id: 205318 # Guardian Golems Legplates [plate ?]
+    - &formula-wyrm
+      type: item
+      id: 205339 # Formula: Enchanted Wyrm's Shadowflame Crest
+      limit: profession enchanting 2825 45
 
-  - type: transmog
-    id: 205309 # Loyal Attendant's Gaze [mail ?]
+    - &formula-whelpling
+      type: item
+      id: 205338 # Formula: Enchanted Whelpling's Shadowflame Crest
+      limit: profession enchanting 2825 35
+    
+    - &formula-titan-v
+      type: item
+      id: 205337 # Formula: Titan Training Matrix V
+      limit: profession enchanting 2825 25
+
+    - type: item
+      id: 203307 # WindingSlitherdrake > PlatedBrow
+
+    - type: transmog
+      id: 205318 # Guardian Golems Legplates [plate ?]
+
+    - type: transmog
+      id: 205309 # Loyal Attendant's Gaze [mail ?]
 
 - name: "Aquifon"
   location: 48.4 75.1
@@ -33,6 +53,11 @@ farms:
   questId: 75270
   type: kill
   drops:
+  - *formula-aspect
+  - *formula-wyrm
+  - *formula-whelpling
+  - *formula-titan-v
+
   - type: pet
     id: 3548 # Aquapo
 
@@ -48,6 +73,11 @@ farms:
   questId: 75325
   type: kill
   drops:
+  - *formula-aspect
+  - *formula-wyrm
+  - *formula-whelpling
+  - *formula-titan-v
+
   - type: pet
     id: 3533 # Brul
 
@@ -60,6 +90,11 @@ farms:
   questId: 75475
   type: kill
   drops:
+  - *formula-aspect
+  - *formula-wyrm
+  - *formula-whelpling
+  - *formula-titan-v
+
   - type: item
     id: 197364 # WindingSlitherdrake > ShortSpikedCrest
 
@@ -75,6 +110,11 @@ farms:
   questId: 75361
   type: kill
   drops:
+  - *formula-aspect
+  - *formula-wyrm
+  - *formula-whelpling
+  - *formula-titan-v
+
   - type: transmog
     id: 205293 # Emberdusk's Embrace [cloth ?]
 
@@ -84,6 +124,11 @@ farms:
   questId: 75357
   type: kill
   drops:
+  - *formula-aspect
+  - *formula-wyrm
+  - *formula-whelpling
+  - *formula-titan-v
+
   - type: transmog
     id: 205303 # Leggings of Flowing Flame [leather ?]
 
@@ -93,6 +138,11 @@ farms:
   questId: 75295
   type: kill
   drops:
+  - *formula-aspect
+  - *formula-wyrm
+  - *formula-whelpling
+  - *formula-titan-v
+
   - type: item
     id: 203334 # WindingSlitherdrake > CurledHorns
 
@@ -111,6 +161,11 @@ farms:
   questId: 75273
   type: kill
   drops:
+  - *formula-aspect
+  - *formula-wyrm
+  - *formula-whelpling
+  - *formula-titan-v
+
   - type: transmog
     id: 205296 # Goopal's Visage [cloth ?]
 
@@ -123,6 +178,11 @@ farms:
   questId: 75335
   type: kill
   drops:
+  - *formula-aspect
+  - *formula-wyrm
+  - *formula-whelpling
+  - *formula-titan-v
+
   - type: toy
     id: 205796 #  -- Molten Lava Pack
 
@@ -135,6 +195,11 @@ farms:
   questId: 75352
   type: kill
   drops:
+  - *formula-aspect
+  - *formula-wyrm
+  - *formula-whelpling
+  - *formula-titan-v
+
   - type: item
     id: 203320 # WindingSlitherdrake > Ears
 
@@ -153,6 +218,11 @@ farms:
   questId: 75268
   type: kill
   drops:
+  - *formula-aspect
+  - *formula-wyrm
+  - *formula-whelpling
+  - *formula-titan-v
+
   - type: item
     id: 205341 # WindingSlitherdrake > HeavyScales
 
@@ -168,6 +238,11 @@ farms:
   questId: 75333
   type: kill
   drops:
+  - *formula-aspect
+  - *formula-wyrm
+  - *formula-whelpling
+  - *formula-titan-v
+
   - type: item
     id: 203358 # WindingSlitherdrake > SmallFinnedTail
 
@@ -189,6 +264,11 @@ farms:
   questId: 75321
   type: kill
   drops:
+  - *formula-aspect
+  - *formula-wyrm
+  - *formula-whelpling
+  - *formula-titan-v
+
   - type: transmog
     id: 205308 # Clacking Clawguards [mail ?]
 
@@ -198,6 +278,11 @@ farms:
   questId: 75266
   type: kill
   drops:
+  - *formula-aspect
+  - *formula-wyrm
+  - *formula-whelpling
+  - *formula-titan-v
+
   - type: item
     id: 197021 # CliffsideWylderdrake > SpikedClubTail
 
@@ -216,6 +301,11 @@ farms:
   questId: 75339
   type: kill
   drops:
+  - *formula-aspect
+  - *formula-wyrm
+  - *formula-whelpling
+  - *formula-titan-v
+
   - type: item
     id: 203339 # WindingSlitherdrake > ImpalerHorns
 
@@ -231,6 +321,11 @@ farms:
   questId: 75291
   type: kill
   drops:
+  - *formula-aspect
+  - *formula-wyrm
+  - *formula-whelpling
+  - *formula-titan-v
+
   - type: item
     id: 203331 # WindingSlitherdrake > ClusterHorns
 
@@ -243,6 +338,11 @@ farms:
   questId: 75348
   type: kill
   drops:
+  - *formula-aspect
+  - *formula-wyrm
+  - *formula-whelpling
+  - *formula-titan-v
+
   - type: item
     id: 203321 # WindingSlitherdrake > CurledCheekHorn
 
@@ -258,6 +358,11 @@ farms:
   questId: 75275
   type: kill
   drops:
+  - *formula-aspect
+  - *formula-wyrm
+  - *formula-whelpling
+  - *formula-titan-v
+
   - type: item
     id: 203318 # WindingSlitherdrake > HairyCrest
 
@@ -276,6 +381,11 @@ farms:
   questId: 75359
   type: kill
   drops:
+  - *formula-aspect
+  - *formula-wyrm
+  - *formula-whelpling
+  - *formula-titan-v
+
   - type: item
     id: 203338 # WindingSlitherdrake > AntlerHorns
 
@@ -294,6 +404,11 @@ farms:
   questId: 75297
   type: kill
   drops:
+  - *formula-aspect
+  - *formula-wyrm
+  - *formula-whelpling
+  - *formula-titan-v
+
   - type: pet
     id: 3551 # Teardrop Moth
 
@@ -312,6 +427,11 @@ farms:
   questId: 75365
   type: kill
   drops:
+  - *formula-aspect
+  - *formula-wyrm
+  - *formula-whelpling
+  - *formula-titan-v
+
   - type: transmog
     id: 205316 # Crystal Stompers [plate ?]
 
