@@ -11,8 +11,23 @@ farms:
   questId: 78039
   type: kill
   drops:
+    - &formula-aspect
+      type: item
+      id: 210171 # Formula: Enchanted Aspect's Dreaming Crest
+      limit: profession enchanting 2825 50
+
+    - &formula-wyrm
+      type: item
+      id: 210172 # Formula: Enchanted Wyrm's Dreaming Crest
+      limit: profession enchanting 2825 45
+
+    - &formula-whelpling
+      type: item
+      id: 210173 # Formula: Enchanted Whelpling's Dreaming Crest
+      limit: profession enchanting 2825 35
+    
     - type: transmog
-      id: 210105 # Autumn Druid Belt [leather ?]
+      id: 210105 # Autumn Druid Belt [leather waist]
 
 - name: "Bloodstripe Great Ray"
   location: 51.3 31.3
@@ -20,8 +35,32 @@ farms:
   questId: 77942
   type: kill
   drops:
+    - *formula-aspect
+    - *formula-wyrm
+    - *formula-whelpling
+
     - type: item
       id: 203311 # WindingSlitherdrake > HairyChin
+
+- name: "Crabtankerous"
+  location: 66.0 63.2
+  npcId: 209909
+  questId: 77862
+  type: kill
+  drops:
+    - *formula-aspect
+    - *formula-wyrm
+    - *formula-whelpling
+
+- name: "Envoy of Winter"
+  location: 34.7 63.2
+  npcId: 209929
+  questId: 77878
+  type: kill
+  drops:
+    - *formula-aspect
+    - *formula-wyrm
+    - *formula-whelpling
 
 - name: "Firebrand Fystia"
   location: 29.9 20.8
@@ -29,9 +68,9 @@ farms:
   questId: 78015
   type: kill
   drops:
-    - type: item
-      id: 210172 # Formula: Enchanted Wyrm's Dreaming Crest
-      limit: profession enchanting 2825 45
+    - *formula-aspect
+    - *formula-wyrm
+    - *formula-whelpling
 
 - name: "Fruitface"
   location: 62.9 73.0
@@ -39,12 +78,22 @@ farms:
   questId: 77846
   type: kill
   drops:
-    - type: item
-      id: 210171 # Formula: Enchanted Aspect's Dreaming Crest
-      limit: profession enchanting 2825 50
+    - *formula-aspect
+    - *formula-wyrm
+    - *formula-whelpling
 
     - type: transmog
       id: 208372 # Trickster's Tip Toers [leather ?]
+
+- name: "Greedy Gessie"
+  location: 54.0 41.4
+  npcId: 209936
+  questId: 77982
+  type: kill
+  drops:
+    - *formula-aspect
+    - *formula-wyrm
+    - *formula-whelpling
 
 - name: "Henri Snufftail"
   location: 47.1 29.7
@@ -52,8 +101,29 @@ farms:
   questId: 77944
   type: kill
   drops:
+    - *formula-aspect
+    - *formula-wyrm
+    - *formula-whelpling
+
     - type: transmog
       id: 208357 # Henri's Warm Coat [cloak ?]
+
+- name: "Ignit the Firebranded"
+  location: 58.8 51.2
+  npcId: 209620
+  questId: 77864
+  type: kill
+  drops:
+
+- name: "Isaqa"
+  location: 37.4 31.7
+  npcId: 209919
+  questId: 77989
+  type: kill
+  drops:
+    - *formula-aspect
+    - *formula-wyrm
+    - *formula-whelpling
 
 - name: "Keen-eyed Cian"
   location: 40.3 49.2
@@ -61,12 +131,76 @@ farms:
   questId: 78211
   type: kill
   drops:
+    - *formula-aspect
+    - *formula-wyrm
+    - *formula-whelpling
+
     - type: item
-      id: 210173 # Formula: Enchanted Whelpling's Dreaming Crest
-      limit: profession enchanting 2825 35
+      id: 210491 # Technique: Winding Slitherdrake: Hairy Chin
+      limit: profession inscription 2828 25
 
     - type: transmog
       id: 210128 # Autumn Defender's Claymore [2h_sword ?]
+
+- name: "Matriarch Keevah"
+  location: 41.1 73.3
+  npcId: 210051
+  questId: 78213
+  type: kill
+  drops:
+
+- name: "Molten Leadspike"
+  location: 63.8 36.2
+  npcId: 210064
+  questId: 77943
+  type: kill
+  drops:
+    - *formula-aspect
+    - *formula-wyrm
+    - *formula-whelpling
+
+- name: "Moltenbinder's Disciple"
+  location: 45.8 18.8
+  npcId: 208658
+  questId: 77941
+  type: kill
+  drops:
+    - *formula-aspect
+    - *formula-wyrm
+    - *formula-whelpling
+
+    - type: toy
+      id: 205463 # Molten Lava Ball
+
+- name: "Moragh the Slothful"
+  location: 40.5 72.6
+  npcId: 210045
+  questId: 78210
+  type: kill
+  drops:
+    - *formula-aspect
+    - *formula-wyrm
+    - *formula-whelpling
+
+- name: "Mosa Umbramane"
+  location: 55.0 36.7
+  npcId: 210070
+  questId: 77940
+  type: kill
+  drops:
+    - *formula-aspect
+    - *formula-wyrm
+    - *formula-whelpling
+
+- name: "Nuoberon"
+  location: 61.7 71.9
+  npcId: 209113
+  questId: 77570
+  type: kill
+  drops:
+    - *formula-aspect
+    - *formula-wyrm
+    - *formula-whelpling
 
 - name: "Reefbreaker Moruud"
   location: 64.2 84.0
@@ -74,8 +208,62 @@ farms:
   questId: 77867
   type: kill
   drops:
+    - *formula-aspect
+    - *formula-wyrm
+    - *formula-whelpling
+
     - type: transmog
       id: 208327 # Maruud's Piercing Hands [leather ?]
+
+- name: "Ristar, the Rabid"
+  location: 44.5 39.3
+  npcId: 210161
+  questId: 77890
+  type: kill
+  drops:
+    - *formula-aspect
+    - *formula-wyrm
+    - *formula-whelpling
+
+- name: "Somnambulant Ori"
+  location: 43.5 47.0
+  npcId: 210047
+  questId: 78212
+  type: kill
+  drops:
+    - *formula-aspect
+    - *formula-wyrm
+    - *formula-whelpling
+
+- name: "Splinterlimb"
+  location: 61.8 52.2
+  npcId: 209365
+  questId: 77863
+  type: kill
+  drops:
+    - *formula-aspect
+    - *formula-wyrm
+    - *formula-whelpling
+
+- name: "The Apostle"
+  location: 26.0 26.6
+  npcId: 209911
+  questId: 77990
+  type: kill
+  drops:
+    - *formula-aspect
+    - *formula-wyrm
+    - *formula-whelpling
+
+- name: "Voracious Mikanji"
+  location: 38.4 62.1
+  npcId: 210508
+  questId: 78214
+  type: kill
+  drops:
+    - *formula-aspect
+    - *formula-wyrm
+    - *formula-whelpling
 
 # Treasures
 
