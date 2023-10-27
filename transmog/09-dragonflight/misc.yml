@@ -254,17 +254,13 @@ groups:
   type: armor
   sets:
     - "Crafted"
-    - "War Mode"
     - "Primal Storms"
     - "The Forbidden Reach"
+    - "War Mode"
   data:
     cloth:
       # Vibrant Wildercloth [Crafted]
       - transmogSetId: 2743
-        wowheadSetId:
-
-      # Drakebreaker [War Mode]
-      - transmogSetId: 2662
         wowheadSetId:
 
       # Raging Tempest [Primal Storms]
@@ -275,13 +271,13 @@ groups:
       - transmogSetId: 2853
         wowheadSetId:
 
+      # Drakebreaker [War Mode]
+      - transmogSetId: 2662
+        wowheadSetId:
+
     leather:
       # Life-Bound [Crafted]
       - transmogSetId: 2747
-        wowheadSetId:
-
-      # Drakebreaker [War Mode]
-      - transmogSetId: 2666
         wowheadSetId:
 
       # Raging Tempest [Primal Storms]
@@ -292,13 +288,13 @@ groups:
       - transmogSetId: 2854
         wowheadSetId:
 
+      # Drakebreaker [War Mode]
+      - transmogSetId: 2666
+        wowheadSetId:
+
     mail:
       # Flame-Touched [Crafted]
       - transmogSetId: 2745
-        wowheadSetId:
-
-      # Drakebreaker [War Mode]
-      - transmogSetId: 2664
         wowheadSetId:
 
       # Raging Tempest [Primal Storms]
@@ -309,13 +305,13 @@ groups:
       - transmogSetId: 2855
         wowheadSetId:
 
+      # Drakebreaker [War Mode]
+      - transmogSetId: 2664
+        wowheadSetId:
+
     plate:
       # Primal Molten [Crafted]
       - transmogSetId: 2749
-        wowheadSetId:
-
-      # Drakebreaker [War Mode]
-      - transmogSetId: 2668
         wowheadSetId:
 
       # Raging Tempest [Primal Storms]
@@ -324,6 +320,10 @@ groups:
 
       # Raging Tempest [The Forbidden Reach]
       - transmogSetId: 2856
+        wowheadSetId:
+
+      # Drakebreaker [War Mode]
+      - transmogSetId: 2668
         wowheadSetId:
 
 # group 203
