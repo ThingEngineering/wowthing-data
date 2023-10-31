@@ -41,12 +41,14 @@ groups:
   - 2185 # Cap'n Crackers
   - 316 # Cenarion Hatchling
   - 1117 # Cinder Kitten
+  - 3253 # Crushhoof
   - 2780 # Daisy
   - 2623 # Dottie
   - 245 # Gryphon Hatchling
   - 311 # Guardian Cub
   - 3248 # Ichabod
   - 249 # Lil' K.T.
+  - 4267 # Lil' Maggz
   - 297 # Lil' Ragnaros
   - 3249 # Lil' Ursoc
   - 256 # Lil' XT
@@ -56,6 +58,7 @@ groups:
   - 248 # Pandaren Monk
   - 2062 # Shadow
   - 347 # Soul of the Aspects
+  - 2890 # Sunny
   - 2051 # Twilight
   - 2184 # Whomper
   - 246 # Wind Rider Cub

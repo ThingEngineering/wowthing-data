@@ -1,0 +1,23 @@
+name: "Trading Post"
+groups:
+  
+- name: "Trading Post"
+  things:
+    - 3251 # Buzzworth
+    - 3250 # Egbob
+    - 3252 # Garrlok
+    - 249 # Lil' K.T.
+    - 4311 # Mitzy
+    - 248 # Pandaren Monk
+    - 3243 # Pippin
+    - 4253 # Slyvy
+    - 242 # Spectral Tiger Cub
+    - 179 # Spirit of Competition - Beijing Olympics 2008
+
+- name: "NYI"
+  things:
+    - 3255 # Buttercup
+    - 3244 # Drazka'zet the Wrathful
+    - 3242 # Lil' Maka'jin
+    - 297 # Lil' Ragnaros
+    - 3254 # Watcher of the Huntress

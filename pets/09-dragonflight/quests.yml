@@ -23,3 +23,16 @@ groups:
 - name: "Waking Shores, The"
   things:
     - 3342 # Spyragos
+
+- name: "Whelp Daycare"
+  things:
+    - 3515 # Annuna
+    - 3590 # Belastrasza
+    - 3588 # Iggy
+    - 3600 # Pallibrius
+    - 3601 # Posidriss
+    - 3597 # Princess Vorquistrasza
+    - 3589 # Rusziona
+    - 3602 # Somnius
+    - 3599 # Zalethgos
+    - 3598 # Zhusadormu

@@ -50,6 +50,7 @@ challenge_dungeons.yml
 misc.yml
 money.yml
 professions.yml
+trading_post.yml
 vendors.yml
 
 world_events/_world_events.yml

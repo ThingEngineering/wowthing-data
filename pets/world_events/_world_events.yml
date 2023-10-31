@@ -30,6 +30,7 @@ groups:
 
 - name: Hallow's End
   things:
+  - 3491 # Arfus
   - 321 # Creepy Crate
   - 1521 # Cursed Birman
   - 319 # Feline Familiar
@@ -68,6 +69,10 @@ groups:
   things:
   - 1516 # Bush Chicken
   - 201 # Plump Turkey
+
+- name: "Secrets of Azeroth"
+  things:
+    - 4263 # Tobias
 
 - name: Timewalking
   things:

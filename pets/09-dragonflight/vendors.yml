@@ -20,3 +20,44 @@ groups:
   things:
     - 3376 # Chip (Yries Lightfingers)
     - 3414 # Obsidian Proto-Whelp (Lorena Belle)
+
+- name: "Zaralek Cavern"
+  things:
+    - 3535 # Diamondshell
+    - 3530 # Miloh
+    - 3528 # Paulie
+    - 3529 # Rango
+    - 3537 # Thimblerig
+
+- name: "Time Rifts"
+  things:
+    - 4255 # Briarhorn Hatchling
+    - 4259 # Doomrubble
+    - 4257 # Gill'dan
+    - 4258 # Jeepers
+    - 4260 # Killbot 9000
+    - 4261 # Obsidian Warwhelp
+    - 4262 # N'Ruby
+
+- name: "Dreamsurge"
+  things:
+    - 3523 # Cheddar
+    - 3516 # Crimson Swoglet
+
+- name: "Emerald Dream"
+  things:
+    - 4289 # Dreamborne Scarab
+    - 4290 # Dreamhoof
+    - 4309 # Drowsey
+    - 4299 # Dustite
+    - 4306 # Elmer
+    - 4308 # Juniper
+    - 4292 # Memorie
+    - 4295 # Napps
+    - 4287 # Reverie
+    - 4298 # Seedle
+    - 4305 # Snoots
+    - 4296 # Snoozles
+    - 4310 # Snorr
+    - 4300 # Somnolet
+    - 4307 # Spruce

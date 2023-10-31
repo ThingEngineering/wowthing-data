@@ -12,3 +12,17 @@ groups:
     - 3299 # Echo of the Depths
     - 3310 # Echo of the Heights
     - 3289 # Echo of the Inferno
+
+- name: "Forbidden Reach"
+  things:
+    - 3285 # Luvvy (Luttrok)
+    - 3291 # Scruffles (Vraken the Hunter)
+    - 3261 # Wakyn (Warden Entrix)
+
+- name: "Zaralek Cavern"
+  things:
+    - 3548 # Aquapo (Aquifon)
+    - 3533 # Brul (Brullo?)
+    - 3541 # Ridged Shalewing (Kob'rok)
+    - 3546 # Skaarn (Kob'rok)
+    - 3551 # Teardrop Moth (Underlight Queen)

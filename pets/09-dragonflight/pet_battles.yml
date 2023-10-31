@@ -83,3 +83,32 @@ groups:
     - 3318 # Thunderfoot Calf
     - 3336 # Vorquin Runt
     - 3301 # Wild Duckling
+
+- name: "Zaralek Cavern"
+  things:
+    - 3483 # Boulderfang
+    - 3482 # Cobbleshell
+    - 3488 # Deepridger
+    - 3490 # Ebonwing Moth
+    - 3480 # Endmite
+    - 3485 # Hollow Moth
+    - 3486 # Lithengale
+    - 3477 # Puddlehopper
+    - 3478 # Rock Martin
+    - 3487 # Scarlapod
+    - 3484 # Slabwing
+    - 3481 # Stonewhisker
+    - 3489 # Sunglow Cobra
+    - 3479 # Yellabon
+
+- name: "Emerald Dream"
+  things:
+    - 4304 # Dream Badger
+    - 4275 # Flooftalon
+    - 4276 # Fol'ya Pup
+    - 4278 # Leyhart
+    - 4302 # Pale Slumbertooth
+    - 4280 # Pewling
+    - 4279 # Slumbertooth
+    - 4303 # Snaggletoof
+    - 4277 # Sapnibbler
