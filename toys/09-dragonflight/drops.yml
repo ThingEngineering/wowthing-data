@@ -20,6 +20,7 @@ groups:
 
 - name: "Thaldraszus"
   things:
+    - 206993 # Investi-gator's Pocketwatch
     - 200999 # The Super Shellkhan Gang
 
 - name: "Zaralek Cavern"

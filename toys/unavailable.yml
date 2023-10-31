@@ -18,3 +18,15 @@ groups:
     - 187957 # Encrypted Banner of the Opportune (MDI thing #2)
     - 203716 # Thundering Banner of the Aspects (WoW Esports: Dragonflight Season 1)
     - 208057 # Smoldering Banner of the Aspects (WoW Esports: Dragonflight Season 2)
+    - 201931 # Warcraft Rumble Toy: Maiev
+    - 202862 # Warcraft Rumble Toy: Murloc
+    - 202851 # Warcraft Rumble Toy: Night Elf Huntress
+    - 202261 # Warcraft Rumble Toy: Sneed
+    - 202856 # Warcraft Rumble Toy: Stonehoof Tauren
+    - 202859 # Warcraft Rumble Toy: Undead Ghoul
+    - 202865 # Warcraft Rumble Toy: Whelp Egg
+ 
+- name: "PvP"
+  things:
+    - 206343 # Crimson Legend's Pennant (Legend: Dragonflight Season 1)
+    - 206267 # Obsidian Legend's Pennant (Legend: Dragonflight Season 2)

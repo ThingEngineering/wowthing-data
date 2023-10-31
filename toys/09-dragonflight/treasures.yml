@@ -3,13 +3,23 @@ groups:
 
 - name: "Azure Span"
   things:
-  - 201927 # Gleaming Arcanocrystal
+    - 201927 # Gleaming Arcanocrystal
+    - 202711 # Lost Compass
 
 - name: "Ohn'ahran Plains"
   things:
-  - 200869 # Ohn Lite Branded Horn
-  - 200878 # Wheeled Floaty Boaty Controller
+    - 200869 # Ohn Lite Branded Horn
+    - 200878 # Wheeled Floaty Boaty Controller
+
+- name: "Waking Shores"
+  things:
+    - 202022 # Yennu's Kite
 
 - name: "Zaralek Cavern"
   things:
     - 205418 # Blazing Shadowflame Cinder
+
+- name: "Emerald Dream"
+  things:
+    - 210411 # Fast Growing Seed
+    - 210725 # Owl Post

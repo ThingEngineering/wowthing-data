@@ -20,3 +20,8 @@ groups:
 - name: "Zaralek Cavern"
   things:
     - 205936 # New Niffen No-Sniffin' Tonic
+
+- name: "Dreamsurge"
+  things:
+    - 209858 # Dreamsurge Remnant
+    - 209944 # Friendsurge Defenders

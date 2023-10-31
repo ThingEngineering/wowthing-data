@@ -40,6 +40,8 @@ professions/_professions.yml
     professions/engineering.yml
     professions/fishing.yml
 
+trading_post.yml
+
 world_events/_world_events.yml
     world_events/argent_tournament.yml
     world_events/brewfest.yml

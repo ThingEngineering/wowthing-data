@@ -5,6 +5,10 @@ groups:
   things:
     - 200631 # Happy Tuskarr Palooza (Brackenhide Hollow)
 
+- name: "Raids"
+  things:
+    - 209035 # Hearthstone of the Flame
+
 - name: "Zskera Vaults"
   things:
     - 204256 # Holoviewer: The Scarlet Queen
