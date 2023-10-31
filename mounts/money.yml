@@ -36,10 +36,12 @@ groups:
   - 376 # Celestial Steed
   - 1051 # The Dreadwake
   - 551 # Enchanted Fey Dragon
+  - 1797 # Ginormous Grrloc
   - 594 # Grinning Reaver
   - 446 # Heart of the Aspects
   - 1221 # Hogrus, Swine of Good Fortune
   - 571 # Iron Skyreaver
+  - 1594 # Jade, Bright Foreseer
   - 1291 # Lucky Yun
   - 949 # Luminous Starseeker
   - 741 # Mystic Runesaber
@@ -54,6 +56,7 @@ groups:
   - 593 # Warforged Nightmare
   - 1531 # Wen Lo, the River's Edge
   - 421 # Winged Guardian
+  - 1692 # Wondrous Wavewhisker
 
 - name: TCG
   things:

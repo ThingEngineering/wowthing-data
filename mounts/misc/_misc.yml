@@ -19,6 +19,7 @@ groups:
   things:
   - 1288 # Explorer's Dunetrekker
   - 1287 # Explorer's Jungle Hopper
+  - 1698 # Rocket Shredder 9001
 
 - name: World Drops?
   things:

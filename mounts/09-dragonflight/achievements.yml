@@ -1,26 +1,13 @@
 name: "Achievements"
 groups:
 
-- name: "Dragonriding"
-  things:
-    - 1786 # Riders of Azeroth Proto-Drake
-    - 1787 # Riders of Azeroth Velocidrake
-    - 1788 # Riders of Azeroth Wylderdrake
-    - 1789 # Riders of Azeroth Slitherdrake
-
 - name: "Dungeons"
   things:
-    - 1725 # Inferno Armoredon (KSM Season 2)
     - 1626 # Shellack
+    - 1801 # Verdant Armoredon (KSM Season 3)
 
 - name: "Raids"
   things:
     - 1644 # Raging Magmammoth (Glory of the Vault Raider)
     - 1734 # Shadowflame Shalewing (Glory of the Aberrus Raider)
-
-- name: "Quests"
-  things:
-    - 1591 # Cliffside Wylderdrake (Dragon Isles: Cliffsyde Wylderdrake)
-    - 1563 # Highland Drake (Dragon Isles: Highland Drake)
-    - 1589 # Renewed Proto-Drake (Dragon Isles: A New Friend)
-    - 1590 # Windborne Velocidrake (Dragon Isles: Windborne Velocidrake)
+    - 1814 # Shadow Dusk Dreamsaber (Glory of the Dream Raider)

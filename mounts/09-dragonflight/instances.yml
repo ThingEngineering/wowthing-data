@@ -1,0 +1,10 @@
+name: "Instances"
+groups:
+  
+- name: "Raids"
+  things:
+    - 1818 # Anu'relos, Flame's Guidance (Mythic Fyrakk, Amirdrassil)
+
+- name: "Zskera Vaults"
+  things:
+    - 1634 # Mossy Mammoth

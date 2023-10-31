@@ -1,6 +1,14 @@
 name: "Quests"
 groups:
 
+- name: "Quests"
+  things:
+    - 1591 # Cliffside Wylderdrake (Dragon Isles: Cliffsyde Wylderdrake)
+    - 1563 # Highland Drake (Dragon Isles: Highland Drake)
+    - 1589 # Renewed Proto-Drake (Dragon Isles: A New Friend)
+    - 1590 # Windborne Velocidrake (Dragon Isles: Windborne Velocidrake)
+    - 1830 # Flourishing Whimsydrake (Emerald Welcome)
+
 - name: "Ohn'ahran Plains"
   things:
   - 1639 # Lizi, Thunderspine Tramper

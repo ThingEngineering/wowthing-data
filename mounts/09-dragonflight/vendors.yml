@@ -7,6 +7,16 @@ groups:
   - 1658 # Ivory Trader's Ottuk
   - 1674 # Temperamental Skyclaw
 
+- name: "Thaldraszus"
+  things:
+  - 1776 # White War Wolf
+  - 1777 # Ravenous Black Gryphon
+  - 1778 # Gold-Toed Albatross
+  - 1779 # Felstorm Dragon
+  - 1781 # Sulfur Hound
+  - 1782 # Perfected Juggernaut
+  - 1783 # Scourgebound Vanquisher
+
 - name: "Valdrakken"
   things:
   - 1622 # Stormhide Salamanther
@@ -29,3 +39,20 @@ groups:
     - 1736 # Boulder Hauler (Ponzo)
     - 1730 # Igneous Shalewing (Sacratros)
     - 1603 # Subterranean Magmammoth (Sacratros)
+
+- name: "Emerald Dream"
+  things:
+    - 1808 # Blossoming Dreamstag
+    - 1811 # Lunar Dreamstag
+    - 1810 # Rekindled Dreamstag
+    - 1809 # Suntouched Dreamstag
+    - 1816 # Evening Sun Dreamsaber
+    - 1817 # Morning Flourish Dreamsaber
+    - 1835 # Snowfluff Dreamtalon
+    - 1833 # Springtide Dreamtalon
+    - 1837 # Delugen
+    - 1939 # Imagiwing
+    - 1938 # Mammyth
+    - 1940 # Salatrancer
+    - 1839 # Stargrazer
+    - 1838 # Talont

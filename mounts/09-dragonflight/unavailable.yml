@@ -1,16 +1,24 @@
 name: "Unavailable"
 groups:
 
-- name: "Achievements"
-  things:
-    - 1681 # Hailstorm Armoredon (KSM Season 1)
-
 - name: "Arena"
   things:
     - 1660 # Crimson Gladiator's Drake (Season 1)
     - 1739 # Obsidian Gladiator's Slitherdrake (Season 2)
+    - 1831 # Verdant Gladiator's Slitherdrake (Season 3)
+
+- name: "Misc"
+  things:
+    - 1737 # Sandy Shalewing (Timewalking thing)
+
+- name: "Mythic+"
+  things:
+    - 1681 # Hailstorm Armoredon (KSM Season 1)
+    - 1725 # Inferno Armoredon (KSM Season 2)
 
 - name: "PvP"
   things:
     - 1688 1689 # Vicious Sabertooth [A] (Season 1)
     - 1689 1688 # Vicious Sabertooth [H] (Season 1)
+    - 1740 1741 # Vicious War Snail [A] (Season 2)
+    - 1741 1740 # Vicious War Snail [H] (Season 2)

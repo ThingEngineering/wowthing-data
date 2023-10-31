@@ -3,15 +3,19 @@ groups:
 
 - name: "PvP"
   things:
-    - 1740 1741 # Vicious War Snail [A] (Season 2)
-    - 1741 1740 # Vicious War Snail [H] (Season 2)
+    - 1819 # Vicious Moonbeast [H] (Season 3)
+    - 1820 # Vicious Moonbeast [H] (Season 3)
 
 - name: "Treasures"
   things:
     - 1469 # Magmashell
+    - 1815 # Winter Night Dreamsaber (Dreamseed Cache, Emerald Dream)
 
 - name: "World Events"
   things:
-    - 1735 # Cataloged Shalewing (Researchers Under Fire)
-    - 1627 # Gooey Snailemental (Primal Storm, Forbidden Reach)
     - 1635 # Plainswalker Bearer (Grand Hunts)
+    - 1627 # Gooey Snailemental (Primal Storm, Forbidden Reach)
+    - 1735 # Cataloged Shalewing (Researchers Under Fire)
+    - 1813 # Mimiron's Jumpjets (Secrets of Azeroth)
+    - 1794 # Pattie (Secrets of Azeroth)
+    - 1645 # Renewed Magmammoth (Dreamsurges)

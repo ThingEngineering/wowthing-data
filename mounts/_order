@@ -77,6 +77,7 @@ drops.yml
     02-wrath-of-the-lich-king/drops.yml Wrath of the Lich King
 
 instances.yml
+    09-dragonflight/instances.yml Dragonflight
     08-shadowlands/instances.yml Shadowlands
     07-battle-for-azeroth/instances.yml Battle for Azeroth
     06-legion/instances.yml Legion
