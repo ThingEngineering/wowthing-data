@@ -1,6 +1,10 @@
 name: World Events
 groups:
 
+- name: "Misc"
+  things:
+    - 1737 # Sandy Shalewing (Timewalking thing)
+
 - name: Achievements
   things:
   - 267 # Violet Proto-Drake (world events)

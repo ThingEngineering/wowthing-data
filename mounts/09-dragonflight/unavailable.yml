@@ -7,10 +7,6 @@ groups:
     - 1739 # Obsidian Gladiator's Slitherdrake (Season 2)
     - 1831 # Verdant Gladiator's Slitherdrake (Season 3)
 
-- name: "Misc"
-  things:
-    - 1737 # Sandy Shalewing (Timewalking thing)
-
 - name: "Mythic+"
   things:
     - 1681 # Hailstorm Armoredon (KSM Season 1)

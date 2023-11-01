@@ -23,4 +23,7 @@ groups:
     - 1575 # Quawks
     - 1784 # Royal Swarmer
     - 1582 # Savage Green Battle Turtle
+    - 440 441 # Spectral Gryphon/Spectral Wind Rider (Scroll of Resurrection)
+    - 441 440 # ^ reversed
+    - 224 # Swift Zhevra
     - 439 # Tyrael's Charger (Annual Pass)
