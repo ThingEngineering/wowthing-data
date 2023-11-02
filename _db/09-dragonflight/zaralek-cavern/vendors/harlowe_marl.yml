@@ -1,0 +1,335 @@
+things:
+  - type: "vendor"
+    id: 202468
+    name: "Harlowe Marl"
+    note: "Loamm Niffen Quartermaster"
+    zoneMapsGroupId: 1
+    
+    locations:
+      here:
+        - "56.4 55.6"
+    
+    groups:
+      - name: "Renown 5"
+        range: 3
+        sortKey: "ln05"
+
+      - name: "Renown 8"
+        range: 4
+        sortKey: "ln08"
+
+      - name: "Renown 11"
+        range: 1
+        sortKey: "ln11"
+
+      - name: "Renown 12"
+        range: 11
+        sortKey: "ln12"
+
+      - name: "Renown 13"
+        range: 3
+        sortKey: "ln13"
+
+      - name: "Renown 14"
+        range: 4
+        sortKey: "ln14"
+
+      - name: "Renown 15"
+        range: 2
+        sortKey: "ln15"
+
+      - name: "Renown 16"
+        range: 4
+        sortKey: "ln16"
+
+      - name: "Renown 18"
+        range: 3
+        sortKey: "ln18"
+
+      - name: "Renown 19"
+        range: 1
+        sortKey: "ln19"
+
+    contents:
+      # Renown 5
+
+      - type: item
+        id: 203310 # Winding Slitherdrake: Grand Chin  Thorn
+        costs:
+          2003: 150 # Dragon Isle Supplies
+        requirements:
+          - "reputation 2564 renown-5"
+
+      - type: item
+        id: 203316 # Winding Slitherdrake: Large Finned Crest
+        costs:
+          2003: 150 # Dragon Isle Supplies
+        requirements:
+          - "reputation 2564 renown-5"
+
+      - type: item
+        id: 203327 # Winding Slitherdrake: Tan Horns
+        costs:
+          2003: 150 # Dragon Isle Supplies
+        requirements:
+          - "reputation 2564 renown-5"
+
+      # Renown 8
+      
+      - type: item
+        id: 205275 # Mycelial Fabric Tunic [cloth chest]
+        costs:
+          2003: 225 # Dragon Isle Supplies
+        requirements:
+          - "reputation 2564 renown-8"
+
+      - type: item
+        id: 205272 # Scent-Masking Vest [leather chest]
+        costs:
+          2003: 225 # Dragon Isle Supplies
+        requirements:
+          - "reputation 2564 renown-8"
+
+      - type: item
+        id: 205273 # Sulfuric Crystal Breastmail [mail chest]
+        costs:
+          2003: 225 # Dragon Isle Supplies
+        requirements:
+          - "reputation 2564 renown-8"
+
+      - type: item
+        id: 205271 # Speleothemic Cataphract [plate chest]
+        costs:
+          2003: 225 # Dragon Isle Supplies
+        requirements:
+          - "reputation 2564 renown-8"
+
+      # Renown 11
+
+      - type: item
+        id: 205963 # Sniffin' Salts [toy]
+        costs:
+          2003: 200 # Dragon Isle Supplies
+        requirements:
+          - "reputation 2564 renown-11"
+
+      # Renown 12
+
+      - type: item
+        id: 205353 # Niffen Notebook of Alchemy Knowledge
+        costs:
+          2003: 300 # Dragon Isle Supplies
+        requirements:
+          - "profession alchemy 2823 25"
+          - "reputation 2564 renown-12"
+
+      - type: item
+        id: 205352 # Niffen Notebook of Blacksmithing Knowledge
+        costs:
+          2003: 300 # Dragon Isle Supplies
+        requirements:
+          - "profession blacksmithing 2822 25"
+          - "reputation 2564 renown-12"
+
+      - type: item
+        id: 205351 # Niffen Notebook of Enchanting Knowledge
+        costs:
+          2003: 300 # Dragon Isle Supplies
+        requirements:
+          - "profession enchanting 2825 25"
+          - "reputation 2564 renown-12"
+
+      - type: item
+        id: 205349 # Niffen Notebook of Engineering Knowledge
+        costs:
+          2003: 300 # Dragon Isle Supplies
+        requirements:
+          - "profession engineering 2827 25"
+          - "reputation 2564 renown-12"
+
+      - type: item
+        id: 205358 # Niffen Notebook of Herbalism Knowledge
+        costs:
+          2003: 300 # Dragon Isle Supplies
+        requirements:
+          - "profession herbalism 2832 25"
+          - "reputation 2564 renown-12"
+
+      - type: item
+        id: 205354 # Niffen Notebook of Inscription Knowledge
+        costs:
+          2003: 300 # Dragon Isle Supplies
+        requirements:
+          - "profession inscription 2828 25"
+          - "reputation 2564 renown-12"
+
+      - type: item
+        id: 205348 # Niffen Notebook of Jewelcrafting Knowledge
+        costs:
+          2003: 300 # Dragon Isle Supplies
+        requirements:
+          - "profession jewelcrafting 2829 25"
+          - "reputation 2564 renown-12"
+
+      - type: item
+        id: 205350 # Niffen Notebook of Leatherworking Knowledge
+        costs:
+          2003: 300 # Dragon Isle Supplies
+        requirements:
+          - "reputation 2564 renown-12"
+          - "profession leatherworking 2830 25"
+
+      - type: item
+        id: 205356 # Niffen Notebook of Mining Knowledge
+        costs:
+          2003: 300 # Dragon Isle Supplies
+        requirements:
+          - "profession mining 2833 25"
+          - "reputation 2564 renown-12"
+
+      - type: item
+        id: 205357 # Niffen Notebook of Skinning Knowledge
+        costs:
+          2003: 300 # Dragon Isle Supplies
+        requirements:
+          - "profession skinning 2834 25"
+          - "reputation 2564 renown-12"
+
+      - type: item
+        id: 205355 # Niffen Notebook of Tailoring Knowledge
+        costs:
+          2003: 300 # Dragon Isle Supplies
+        requirements:
+          - "profession tailoring 2831 25"
+          - "reputation 2564 renown-12"
+
+      # Renown 13
+
+      - type: item
+        id: 203323 # Winding Slitherdrake: Brown Hair
+        costs:
+          2003: 300 # Dragon Isle Supplies
+        requirements:
+          - "reputation 2564 renown-13"
+
+      - type: item
+        id: 203335 # Winding Slitherdrake: Curved Horns
+        costs:
+          2003: 300 # Dragon Isle Supplies
+        requirements:
+          - "reputation 2564 renown-13"
+
+      - type: item
+        id: 203341 # Winding Slitherdrake: Long Jaw Horns
+        costs:
+          2003: 300 # Dragon Isle Supplies
+        requirements:
+          - "reputation 2564 renown-13"
+
+      # Renown 14
+
+      - type: item
+        id: 205270 # Mycelial Fabric Sandals [cloth feet]
+        costs:
+          2003: 225 # Dragon Isle Supplies
+        requirements:
+          - "reputation 2564 renown-14"
+
+      - type: item
+        id: 205269 # Scent-Masking Moccasins [leather feet]
+        costs:
+          2003: 225 # Dragon Isle Supplies
+        requirements:
+          - "reputation 2564 renown-14"
+
+      - type: item
+        id: 205265 # Sulfuric Crystal Boots [mail feet]
+        costs:
+          2003: 225 # Dragon Isle Supplies
+        requirements:
+          - "reputation 2564 renown-14"
+
+      - type: item
+        id: 205264 # Speleothemic Footguards [plate feet]
+        costs:
+          2003: 225 # Dragon Isle Supplies
+        requirements:
+          - "reputation 2564 renown-14"
+
+      # Renown 15
+
+      - type: item
+        id: 205050 # Paulie [pet]
+        costs:
+          2003: 250 # Dragon Isle Supplies
+        requirements:
+          - "reputation 2564 renown-15"
+
+      - type: item
+        id: 205051 # Rango [pet]
+        costs:
+          2003: 250 # Dragon Isle Supplies
+        requirements:
+          - "reputation 2564 renown-15"
+
+      # Renown 16
+
+      - type: item
+        id: 203362 # Winding Slitherdrake: Hairy Tail
+        costs:
+          2003: 600 # Dragon Isle Supplies
+        requirements:
+          - "reputation 2564 renown-16"
+
+      - type: item
+        id: 203365 # Winding Slitherdrake: Hairy Throat
+        costs:
+          2003: 600 # Dragon Isle Supplies
+        requirements:
+          - "reputation 2564 renown-16"
+
+      - type: item
+        id: 203347 # Winding Slitherdrake: Large Spiked Nose
+        costs:
+          2003: 600 # Dragon Isle Supplies
+        requirements:
+          - "reputation 2564 renown-16"
+
+      - type: item
+        id: 205363 # Ensemble: Ornate Black Dragon Labwear
+        costs:
+          2003: 250 # Dragon Isle Supplies
+        requirements:
+          - "reputation 2564 renown-16"
+
+      # Renown 18
+
+      - type: item
+        id: 205207 # Morsel Sniffer Reins [mount]
+        costs:
+          2003: 800 # Dragon Isle Supplies
+        requirements:
+          - "reputation 2564 renown-18"
+
+      - type: item
+        id: 205971 # Rock Breaking Digger [1h ? axe]
+        costs:
+          2003: 200 # Dragon Isle Supplies
+        requirements:
+          - "reputation 2564 renown-18"
+
+      - type: item
+        id: 205972 # Decorative Niffen Sword [1h ? sword]
+        costs:
+          2003: 200 # Dragon Isle Supplies
+        requirements:
+          - "reputation 2564 renown-18"
+
+      # Renown 19
+
+      - type: item
+        id: 197120 # Highland Drake: Ornate Helm
+        costs:
+          2003: 1000 # Dragon Isle Supplies
+        requirements:
+          - "reputation 2564 renown-19"

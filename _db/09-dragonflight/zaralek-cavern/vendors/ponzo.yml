@@ -1,0 +1,234 @@
+things:
+  - type: "vendor"
+    id: 204693
+    name: "Ponzo"
+    note: "Barterer Extraordinaire"
+    zoneMapsGroupId: 1
+
+    locations:
+      here:
+        - 58 53.8
+
+    groups:
+      - name: "Profession Notes"
+        range: 11 6
+        sortKey: "barter01"
+
+      - name: "Profession Journals"
+        range: 11
+        sortKey: "barter02"
+
+    contents:
+
+      - type: item
+        id: 205209 # Boulder Hauler Reins [mount]
+        costs:
+          1204985: 170 # Barter Brick
+          1205188: 85 # Barter Boulder
+
+      - type: item
+        id: 205120 # Thimblerig [pet]
+        costs:
+          1204985: 85 # Barter Brick
+          1205188: 45 # Barter Boulder
+
+      - type: item
+        id: 203312 # Winding Slitherdrake: Cluster Chin Horn
+        costs:
+          1204985: 55 # Barter Brick
+          1205188: 30 # Barter Boulder
+
+      - type: item
+        id: 203346 # Winding Slitherdrake: Curled Nose
+        costs:
+          1204985: 55 # Barter Brick
+          1205188: 30 # Barter Boulder
+
+      - type: item
+        id: 203308 # Winding Slitherdrake: Hairy Brow
+        costs:
+          1204985: 55 # Barter Brick
+          1205188: 30 # Barter Boulder
+
+      - type: item
+        id: 205421 # Ponzo's Scheming Topper
+        costs:
+          1205188: 249 # Barter Boulder
+
+      # Profession notes
+      - type: item
+        id: 205429 # Bartered Alchemy Notes
+        costs:
+          1204985: 35 # Barter Brick
+          1205188: 25 # Barter Boulder
+        requirements:
+          - "profession alchemy 2823 25"
+
+      - type: item
+        id: 205428 # Bartered Blacksmithing Notes
+        costs:
+          1204985: 35 # Barter Brick
+          1205188: 25 # Barter Boulder
+        requirements:
+          - "profession blacksmithing 2822 25"
+
+      - type: item
+        id: 205427 # Bartered Enchanting Notes
+        costs:
+          1204985: 35 # Barter Brick
+          1205188: 25 # Barter Boulder
+        requirements:
+          - "profession enchanting 2825 25"
+
+      - type: item
+        id: 205425 # Bartered Engineering Notes
+        costs:
+          1204985: 35 # Barter Brick
+          1205188: 25 # Barter Boulder
+        requirements:
+          - "profession engineering 2827 25"
+
+      - type: item
+        id: 205434 # Bartered Herbalism Notes
+        costs:
+          1204985: 35 # Barter Brick
+          1205188: 25 # Barter Boulder
+        requirements:
+          - "profession herbalism 2832 25"
+
+      - type: item
+        id: 205430 # Bartered Inscription Notes
+        costs:
+          1204985: 35 # Barter Brick
+          1205188: 25 # Barter Boulder
+        requirements:
+          - "profession inscription 2828 25"
+
+      - type: item
+        id: 205424 # Bartered Jewelcrafting Notes
+        costs:
+          1204985: 35 # Barter Brick
+          1205188: 25 # Barter Boulder
+        requirements:
+          - "profession jewelcrafting 2829 25"
+
+      - type: item
+        id: 205426 # Bartered Leatherworking Notes
+        costs:
+          1204985: 35 # Barter Brick
+          1205188: 25 # Barter Boulder
+        requirements:
+          - "profession leatherworking 2830 25"
+
+      - type: item
+        id: 205432 # Bartered Mining Notes
+        costs:
+          1204985: 35 # Barter Brick
+          1205188: 25 # Barter Boulder
+        requirements:
+          - "profession mining 2833 25"
+
+      - type: item
+        id: 205433 # Bartered Skinning Notes
+        costs:
+          1204985: 35 # Barter Brick
+          1205188: 25 # Barter Boulder
+        requirements:
+          - "profession skinning 2834 25"
+
+      - type: item
+        id: 205431 # Bartered Tailoring Notes
+        costs:
+          1204985: 35 # Barter Brick
+          1205188: 25 # Barter Boulder
+        requirements:
+          - "profession tailoring 2831 25"
+
+      # Profession journals
+      - type: item
+        id: 205440 # Bartered Alchemy Journal
+        costs:
+          1204985: 90 # Barter Brick
+          1205188: 40 # Barter Boulder
+        requirements:
+          - "profession alchemy 2823 25"
+
+      - type: item
+        id: 205439 # Bartered Blacksmithing Journal
+        costs:
+          1204985: 90 # Barter Brick
+          1205188: 40 # Barter Boulder
+        requirements:
+          - "profession blacksmithing 2822 25"
+
+      - type: item
+        id: 205438 # Bartered Enchanting Journal
+        costs:
+          1204985: 90 # Barter Brick
+          1205188: 40 # Barter Boulder
+        requirements:
+          - "profession enchanting 2825 25"
+
+      - type: item
+        id: 205436 # Bartered Engineering Journal
+        costs:
+          1204985: 90 # Barter Brick
+          1205188: 40 # Barter Boulder
+        requirements:
+          - "profession engineering 2827 25"
+
+      - type: item
+        id: 205445 # Bartered Herbalism Journal
+        costs:
+          1204985: 90 # Barter Brick
+          1205188: 40 # Barter Boulder
+        requirements:
+          - "profession herbalism 2832 25"
+
+      - type: item
+        id: 205441 # Bartered Inscription Journal
+        costs:
+          1204985: 90 # Barter Brick
+          1205188: 40 # Barter Boulder
+        requirements:
+          - "profession inscription 2828 25"
+
+      - type: item
+        id: 205435 # Bartered Jewelcrafting Journal
+        costs:
+          1204985: 90 # Barter Brick
+          1205188: 40 # Barter Boulder
+        requirements:
+          - "profession jewelcrafting 2829 25"
+
+      - type: item
+        id: 205437 # Bartered Leatherworking Journal
+        costs:
+          1204985: 90 # Barter Brick
+          1205188: 40 # Barter Boulder
+        requirements:
+          - "profession leatherworking 2830 25"
+
+      - type: item
+        id: 205443 # Bartered Mining Journal
+        costs:
+          1204985: 90 # Barter Brick
+          1205188: 40 # Barter Boulder
+        requirements:
+          - "profession mining 2833 25"
+
+      - type: item
+        id: 205444 # Bartered Skinning Journal
+        costs:
+          1204985: 90 # Barter Brick
+          1205188: 40 # Barter Boulder
+        requirements:
+          - "profession skinning 2834 25"
+
+      - type: item
+        id: 205442 # Bartered Tailoring Journal
+        costs:
+          1204985: 90 # Barter Brick
+          1205188: 40 # Barter Boulder
+        requirements:
+          - "profession tailoring 2831 25"

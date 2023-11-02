@@ -1,0 +1,26 @@
+things:
+  - type: "vendor"
+    id: 203615
+    name: "Saccratros"
+    note: "Coveted Bauble Exchange"
+    zoneMapsGroupId: 1
+
+    locations:
+      here:
+        - 55.8 55.4
+
+    contents:
+      - type: item
+        id: 205197 # Igneous Shalewing [mount]
+        costs:
+          1204727: 400 # Coveted Bauble
+
+      - type: item
+        id: 191838 # Subterranean Magmammoth [mount]
+        costs:
+          1204727: 100 # Coveted Bauble
+
+      - type: item
+        id: 205118 # Diamondshell [pet]
+        costs:
+          1204727: 50 # Coveted Bauble
