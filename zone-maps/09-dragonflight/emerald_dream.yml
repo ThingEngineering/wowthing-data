@@ -311,3 +311,309 @@ farms:
   drops:
     - type: transmog
       id: 210434 # Visage of Ursoc [cosmetic ?]
+
+# Profession Treasure
+
+# - Alchemy
+
+- name: "{item:210184}"
+  location: 54.0 32.6
+  objectId: 410426
+  questId: 78264
+  reset: never
+  type: profession
+  drops:
+    - type: item
+      id: 210184 # Half-Filled Dreamless Sleep Potion
+      limit: profession alchemy 2823 25
+      note: "{price:3|2024}" # Alchemy Knowledge
+
+- name: "Root of the Problem"
+  location: 36.2 46.6
+  objectId: 410442
+  questId: 78275
+  reset: never
+  type: profession
+  drops:
+    - type: item
+      id: 205211 # Blazeroot
+      limit: profession alchemy 2823 25
+      note: "{price:3|2024}" # Alchemy Knowledge
+
+- name: "{item:210185}"
+  location: 50.9 49.7
+  objectId: 410434
+  questId: 75651
+  reset: never
+  type: profession
+  drops:
+    - type: item
+      id: 210185 # Splash Potion of Narcolepsy
+      limit: profession alchemy 2823 25
+      note: "{price:3|2024}" # Alchemy Knowledge
+
+# - Blacksmithing
+
+- name: "{item:210464}"
+  location: 49.8 63.0
+  objectId: 411179
+  questId: 78417
+  reset: never
+  type: profession
+  drops:
+    - type: item
+      id: 210464 # Amirdrassil Defender's Shield
+      limit: profession blacksmithing 2822 25
+      note: "{price:3|2023}" # Blacksmithing Knowledge
+
+- name: "{item:210465}"
+  location: 36.34 46.79
+  objectId: 411180
+  questId: 76078
+  reset: never
+  type: profession
+  drops:
+    - type: item
+      id: 210465 # Deathstalker Chassis
+      limit: profession blacksmithing 2822 25
+      note: "{price:3|2023}" # Blacksmithing Knowledge
+
+- name: "{item:210466}"
+  location: 37.27 22.94
+  objectId: 411181
+  questId: 78419
+  reset: never
+  type: profession
+  drops:
+    - type: item
+      id: 210466 # Flamesworn Render
+      limit: profession blacksmithing 2822 25
+      note: "{price:3|2023}" # Blacksmithing Knowledge
+
+# - Enchanting
+
+- name: "{item:210234}"
+  location: 66.3 74.2
+  objectId: 410582
+  questId: 78310
+  reset: never
+  type: profession
+  drops:
+    - type: item
+      id: 210234 # Essence of Dreams
+      limit: profession enchanting 2825 25
+      note: "{price:3|2030}" # Enchanting Knowledge
+
+- name: "{item:210231}"
+  location: 46.1 20.5
+  objectId: 410575
+  questId: 78309
+  reset: never
+  type: profession
+  drops:
+    - type: item
+      id: 210231 # Everburning Core
+      limit: profession enchanting 2825 25
+      note: "{price:3|2030}" # Enchanting Knowledge
+
+- name: "{item:210228}"
+  location: 38.3 30.1
+  objectId: 410574
+  questId: 78308
+  reset: never
+  type: profession
+  drops:
+    - type: item
+      id: 210228 # Pure Dream Water
+      limit: profession enchanting 2825 25
+      note: "{price:3|2030}" # Enchanting Knowledge
+
+# - Engineering
+
+- name: "{item:210193}"
+  location: 39.5 52.2
+  objectId: 410456
+  questId: 78278
+  reset: never
+  type: profession
+  drops:
+    - type: item
+      id: 210193 # Experimental Dreamcatcher
+      limit: profession engineering 2827 25
+      note: "{price:3|2027}" # Engineering Knowledge
+
+- name: "{item:210194}"
+  location: 49.4 69.2
+  objectId: 410458
+  questId: 75184
+  reset: never
+  type: profession
+  drops:
+    - type: item
+      id: 210194 # Insomniotron
+      limit: profession engineering 2827 25
+      note: "{price:3|2027}" # Engineering Knowledge
+
+- name: "{item:210197}"
+  location: 62.6 36.2
+  objectId: 410469
+  questId: 78281
+  reset: never
+  type: profession
+  drops:
+    - type: item
+      id: 210197 # Unhatched Battery
+      limit: profession engineering 2827 25
+      note: "{price:3|2027}" # Engineering Knowledge
+
+# - Inscription
+
+- name: "{item:210459}"
+  location: 63.4 71.5
+  objectId: 411169
+  questId: 78412
+  reset: never
+  type: profession
+  drops:
+    - type: item
+      id: 210459 # Grove Keeper's Pillar
+      limit: profession inscription 2828 25
+      note: "{price:3|2028}" # Inscription Knowledge
+
+- name: "{item:210460}"
+  location: 36.0 46.6
+  objectId: 411170
+  questId: 78413
+  reset: never
+  type: profession
+  drops:
+    - type: item
+      id: 210460 # Primalist Shadowbinding Rune
+      limit: profession inscription 2828 25
+      note: "{price:3|2028}" # Inscription Knowledge
+
+- name: "{item:210458}"
+  location: 55.6 27.5
+  objectId: 411168
+  questId: 78411
+  reset: never
+  type: profession
+  drops:
+    - type: item
+      id: 210458 # Winnie's Notes on Flora and Fauna
+      limit: profession inscription 2828 25
+      note: "{price:3|2028}" # Inscription Knowledge
+
+# - Jewelcrafting
+
+- name: "{item:210202}"
+  location: 54.41 32.47
+  objectId: 410484
+  questId: 78285
+  reset: never
+  type: profession
+  drops:
+    - type: item
+      id: 210202 # Coalesced Dreamstone
+      limit: profession jewelcrafting 2829 25
+      note: "{price:3|2029}" # Jewelcrafting Knowledge
+
+- name: "{item:210200}"
+  location: 33.2 46.5
+  objectId: 410475
+  questId: 78282
+  reset: never
+  type: profession
+  drops:
+    - type: item
+      id: 210200 # Petrified Hope
+      limit: profession jewelcrafting 2829 25
+      note: "{price:3|2029}" # Jewelcrafting Knowledge
+
+- name: "{item:210201}"
+  location: 43.4 33.3
+  objectId: 410479
+  questId: 75652
+  reset: never
+  type: profession
+  drops:
+    - type: item
+      id: 210201 # Unpolished Blemish
+      limit: profession jewelcrafting 2829 25
+      note: "{price:3|2029}" # Jewelcrafting Knowledge
+
+# - Leatherworking
+
+- name: "{item:210215}"
+  location: 34.0 29.7
+  objectId: 410550
+  questId: 78305
+  reset: never
+  type: profession
+  drops:
+    - type: item
+      id: 210215 # Dreamtalon Claw
+      limit: profession leatherworking 2830 25
+      note: "{price:3|2025}" # Leatherworking Knowledge
+
+- name: "{item:210211}"
+  location: 37.4 71.0
+  objectId: 410534
+  questId: 78299
+  reset: never
+  type: profession
+  drops:
+    - type: item
+      id: 210211 # Molted Faerie Dragon Scales
+      limit: profession leatherworking 2830 25
+      note: "{price:3|2025}" # Leatherworking Knowledge
+
+- name: "{item:210208}"
+  location: 41.7 66.4
+  objectId: 410529
+  questId: 78298
+  reset: never
+  type: profession
+  drops:
+    - type: item
+      id: 210208 # Tuft of Dreamsaber Fur
+      limit: profession leatherworking 2830 25
+      note: "{price:3|2025}" # Leatherworking Knowledge
+
+# - Tailoring
+
+- name: "{item:210461}"
+  location: 53.2 27.9
+  objectId: 411171
+  questId: 78414
+  reset: never
+  type: profession
+  drops:
+    - type: item
+      id: 210461 # Exceedingly Soft Wildercloth
+      limit: profession tailoring 2831 25
+      note: "{price:3|2026}" # Tailoring Knowledge
+
+- name: "{item:210462}"
+  location: 49.8 61.4
+  objectId: 411176
+  questId: 78415
+  reset: never
+  type: profession
+  drops:
+    - type: item
+      id: 210462 # Plush Pillow
+      limit: profession tailoring 2831 25
+      note: "{price:3|2026}" # Tailoring Knowledge
+
+- name: "{item:210463}"
+  location: 40.7 86.1
+  objectId: 411177
+  questId: 78416
+  reset: never
+  type: profession
+  drops:
+    - type: item
+      id: 210463 # Snuggle Buddy
+      limit: profession tailoring 2831 25
+      note: "{price:3|2026}" # Tailoring Knowledge
