@@ -3,6 +3,13 @@ mapName: "09-dragonflight/emerald_dream"
 minimumLevel: 60
 farms:
 
+# Group
+
+- name: "Smoldering Copse Stuff"
+  groupId: 1
+  location: 36.0 46.6
+  type: group
+
 # Kills
 
 - name: "Balboan"
@@ -329,6 +336,7 @@ farms:
       note: "{price:3|2024}" # Alchemy Knowledge
 
 - name: "Root of the Problem"
+  groupId: 1
   location: 36.2 46.6
   objectId: 410442
   questId: 78275
@@ -343,7 +351,7 @@ farms:
 - name: "{item:210185}"
   location: 50.9 49.7
   objectId: 410434
-  questId: 75651
+  questId: 78269
   reset: never
   type: profession
   drops:
@@ -367,9 +375,10 @@ farms:
       note: "{price:3|2023}" # Blacksmithing Knowledge
 
 - name: "{item:210465}"
+  groupId: 1
   location: 36.34 46.79
   objectId: 411180
-  questId: 76078
+  questId: 78418
   reset: never
   type: profession
   drops:
@@ -445,7 +454,7 @@ farms:
 - name: "{item:210194}"
   location: 49.4 69.2
   objectId: 410458
-  questId: 75184
+  questId: 78279
   reset: never
   type: profession
   drops:
@@ -481,6 +490,7 @@ farms:
       note: "{price:3|2028}" # Inscription Knowledge
 
 - name: "{item:210460}"
+  groupId: 1
   location: 36.0 46.6
   objectId: 411170
   questId: 78413
@@ -533,7 +543,7 @@ farms:
 - name: "{item:210201}"
   location: 43.4 33.3
   objectId: 410479
-  questId: 75652
+  questId: 78283
   reset: never
   type: profession
   drops:
