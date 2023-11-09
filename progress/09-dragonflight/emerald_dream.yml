@@ -1,0 +1,70 @@
+name: "Emerald Dream"
+groups:
+
+- name: "The Coalition of Flames"
+  icon: "achievement/19026"
+  iconText: "ED1"
+  lookup: none
+  type: quest
+  data:
+    0:
+      - name: "Fire Season"
+        id: 75918
+
+      - name: "Dousing the Wards"
+        id: 75919
+
+      - name: "Eyes of Fire"
+        id: 75920
+
+      - name: "Through the Flames"
+        id: 75921
+
+      - name: "Inflammatory Information"
+        id: 75922
+
+      - name: "Raise the Alarm"
+        id: 75923
+
+- name: "Enter the Dream"
+  icon: "achievement/19026"
+  iconText: "ED2"
+  lookup: none
+  type: quest
+  data:
+    0:
+      - name: "Call of the Dream"
+        id: 76317
+
+      - name: "Emerald Welcome"
+        id: 76318
+
+      - name: "Feast or Flaming"
+        id: 76319
+
+      - name: "Wild Gods in Our Midst"
+        id: 76320
+
+      - name: "Burning Assault"
+        id: 76321
+
+      - name: "The Face of Our Enemies"
+        id: 76322
+
+      - name: "The Cruel"
+        id: 77818
+
+      - name: "Amirdrassil"
+        id: 76323
+
+      - name: "Lost to the Flame"
+        id: 76324
+
+      - name: "Between Fyrakk and a Hard Place"
+        id: 76325
+
+      - name: "Home in the Dream"
+        id: 76326
+
+      - name: "A Multi-Front Battle"
+        id: 77283
