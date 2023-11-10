@@ -7,7 +7,6 @@ reputations:
   - both:
       id: 2574 # Dream Wardens
       icon: "achievement/19235" # Warden of the Dream
-    major: true
 
 # 10.1.5
 -
@@ -20,7 +19,6 @@ reputations:
   - both:
       id: 2564 # Loamm Niffen
       icon: "achievement/17763" # There's No Place Like Loamm
-    major: true
   
   - both:
       id: 2568 # Glimmerogg Racer
@@ -31,22 +29,18 @@ reputations:
   - both:
       id: 2507 # Dragonscale Expedition
       icon: "achievement/16522" # A True Explorer
-    major: true
 
   - both:
       id: 2511 # Iskaara Tuskarr
       icon: "achievement/16529" # Joining the Community
-    major: true
   
   - both:
       id: 2503 # Maruuk Centaur
       icon: "achievement/16528" # Joining the Khansguard
-    major: true
   
   - both:
       id: 2510 # Valdrakken Accord
       icon: "achievement/16530" # Ally of the Flights
-    major: true
 
 # 10.0 Friends
 -
