@@ -787,3 +787,44 @@ farms:
       id: 210463 # Snuggle Buddy
       limit: profession tailoring 2831 25
       note: "{price:3|2026}" # Tailoring Knowledge
+
+# World Boss
+
+- name: "Aurostor, the Hibernator"
+  location: 37.1 55.2
+  npcId: 209574
+  questId: 76367
+  reset: weekly
+  type: killBig
+  drops:
+    - type: transmog
+      id: 208440 # Aurostor's Sleeping Knickers [cloth legs]
+
+    - type: transmog
+      id: 208441 # Restful Dozer's Shoes [cloth feet]
+
+    - type: transmog
+      id: 208438 # Grasps of Awakened Fury [leather hands]
+
+    - type: transmog
+      id: 208439 # Rousing Earth Striders [leather feet]
+
+    - type: transmog
+      id: 208437 # Crown of Freya's Chosen [mail head]
+
+    - type: transmog
+      id: 208429 # Mossen Rage Waistguard [mail waist]
+
+    - type: transmog
+      id: 208436 # Flame-Etched Breastplate [plate chest]
+
+    - type: transmog
+      id: 208435 # Forgotten Jalgar's Girdle [plate waist]
+
+# Instance
+
+- name: "Amirdrassil, the Dream's Hope"
+  instanceId: 1207
+  location: 27.3 31.1
+  reset: weekly
+  type: raid
