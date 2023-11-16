@@ -68,3 +68,63 @@ groups:
 
       - name: "A Multi-Front Battle"
         id: 77283
+
+- name: separator
+
+- name: "Side Quests"
+  icon: "achievement/19309" # Explore the Emerald Dream
+  lookup: none
+  type: quest
+  data:
+    0:
+      - name: "Merithra Says"
+        id: 77318
+        description: "{reputation:250|2574}" # 250 Dream Wardens reputation
+
+      - name: "The Answers You've Earned"
+        id: 78066
+        description: "{reputation:~770|2574}" # 770ish Dream Wardens reputation
+
+      - name: "Druid-Guardian Conference"
+        id: 76569
+        description: "{reputation:250|2574}" # 250 Dream Wardens reputation
+
+      - name: "Sleepy Druid in Emerald Dream"
+        id: 77958
+        description: "{reputation:500|2574}" # 500 Dream Wardens reputation
+
+      - name: "What Do I Call You?"
+        id: 77802
+        description: "{reputation:500|2574}" # 500 Dream Wardens reputation
+
+      - name: "One Last Step"
+        id: 77664
+        description: "{reputation:250|2574}" # 250 Dream Wardens reputation
+
+      - name: "A Better Future, Together"
+        id: 77675
+        description: "{reputation:750|2574}" # 750 Dream Wardens reputation
+
+      - name: "Ashphodel Research Notes"
+        id: 77788
+        description: "{reputation:250|2574}" # 250 Dream Wardens reputation
+
+      - name: "Overseer Oversight"
+        id: 78046
+        description: "{reputation:750|2574}" # 750 Dream Wardens reputation
+
+      - name: "Requiem in a Dream"
+        id: 77314
+        description: "{reputation:750|2574}" # 750 Dream Wardens reputation
+
+      - name: "Ancient Memories"
+        id: 77315
+        description: "{reputation:750|2574}" # 750 Dream Wardens reputation
+
+      - name: "Home in Time for Tea"
+        id: 77198
+        description: "{reputation:250|2574}" # 250 Dream Wardens reputation
+
+      - name: "Dragon Keeping"
+        id: 76465
+        description: "{reputation:750|2574}" # 750 Dream Wardens reputation
