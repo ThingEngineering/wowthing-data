@@ -124,3 +124,7 @@ groups:
       - name: "Home in Time for Tea"
         id: 77198
         description: "{reputation:250|2574}" # 250 Dream Wardens reputation
+
+      - name: "Dragon Keeping"
+        id: 76465
+        description: "{reputation:750|2574}" # 750 Dream Wardens reputation
