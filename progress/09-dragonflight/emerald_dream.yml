@@ -83,7 +83,7 @@ groups:
 
       - name: "The Answers You've Earned"
         id: 78066
-        description: "{reputation:~770|2574}" # 770ish Dream Wardens reputation
+        description: "{reputation:770|2574}" # 770ish Dream Wardens reputation
 
       - name: "Druid-Guardian Conference"
         id: 76569
