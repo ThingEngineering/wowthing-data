@@ -47,9 +47,6 @@ farms:
     - *formula-whelpling
 
     - type: transmog
-      id: 208323 # Nature's Firebathed Robes [cloth chest]
-
-    - type: transmog
       id: 208349 # Burning Leather Cuffs [leather wrist]
 
     - type: transmog
@@ -78,9 +75,6 @@ farms:
       id: 208341 # Fire-Runed Spaulders [mail shoulders]
 
     - type: transmog
-      id: 208334 # Legplates of the Krakken [plate legs]
-
-    - type: transmog
       id: 208364 # Falling Leaf Saber [1h sword]
 
 - name: "Envoy of Winter"
@@ -93,11 +87,25 @@ farms:
     - *formula-wyrm
     - *formula-whelpling
 
+    - &technique-grotto-spiked-jaw
+      type: item
+      id: 210493 # Technique: Grotto Netherwing Drake: Spiked Jaw
+      limit: profession inscription 2828 25
+
+    - type: transmog
+      id: 208340 # Stag's Flourishing Mantle [cloth shoulder]
+
     - type: transmog
       id: 208337 # Leaf Steward's Leggings [leather head]
 
     - type: transmog
       id: 208332 # Horns of the Envoy [mail head]
+    
+    - type: transmog
+      id: 209948 # Spring's Keeper [str polearm]
+
+    - type: transmog
+      id: 208365 # Winter's Stand [str polearm]
 
 - name: "Firebrand Fystia"
   location: 29.9 20.8
@@ -109,6 +117,9 @@ farms:
     - *formula-wyrm
     - *formula-whelpling
     
+    - type: transmog
+      id: 208331 # Cowl of the Flame
+
     - type: transmog
       id: 208371 # Fire Assassin's Boots [mail feet]
 
@@ -209,11 +220,18 @@ farms:
       id: 210491 # Technique: Winding Slitherdrake: Hairy Chin
       limit: profession inscription 2828 25
 
-    - type: transmog
-      id: 208342 # Girdle of Nature's Fury
+    - type: item
+      id: 210650 # Mark of the Keen-Eyed Dreamsaber
+      limit: class druid
 
     - type: transmog
-      id: 208363 # Twinfang of the Cian
+      id: 208336 # Legguards of the Dreamsaber [mail legs]
+
+    - type: transmog
+      id: 208342 # Girdle of Nature's Fury [plate waist]
+
+    - type: transmog
+      id: 208363 # Twinfang of the Cian [warglaive]
 
 - name: "Matriarch Keevah"
   location: 41.1 73.3
@@ -221,6 +239,14 @@ farms:
   questId: 78213
   type: kill
   drops:
+    - *formula-aspect
+    - *formula-wyrm
+    - *formula-whelpling
+
+    - type: item
+      id: 210683 # Mark of the Dreamtalon Matriarch
+      limit: class druid
+
     - type: transmog
       id: 208343 # Matriarch's Flowery Band [cloth waist]
 
@@ -239,6 +265,9 @@ farms:
     - *formula-aspect
     - *formula-wyrm
     - *formula-whelpling
+
+    - type: transmog
+      id: 208323 # Nature's Firebathed Robes [cloth chest]
 
     - type: transmog
       id: 208358 # Sunset's Bulwark [shield]
@@ -266,6 +295,10 @@ farms:
     - *formula-wyrm
     - *formula-whelpling
 
+    - type: item
+      id: 210729 # Mark of the Verdant Bristlebruin
+      limit: class druid
+
     - type: transmog
       id: 208329 # Warm Grasp of the Dream [cloth hands]
 
@@ -286,6 +319,10 @@ farms:
       id: 210492 # Technique: Grotto Netherwing Drake: Chin Tendrils
       limit: profession inscription 2828 25
 
+    - type: item
+      id: 210647 # Mark of the Umbramane
+      limit: class druid
+
     - type: transmog
       id: 208375 # Owlbear's Decisive Strike [1h mace]
 
@@ -298,6 +335,9 @@ farms:
     - *formula-aspect
     - *formula-wyrm
     - *formula-whelpling
+    
+    - type: transmog
+      id: 209880 # Curve of Starry Dusks [bow]
 
 - name: "Reefbreaker Moruud"
   location: 64.2 84.0
@@ -313,6 +353,9 @@ farms:
       id: 208327 # Maruud's Piercing Hands [leather hands]
 
     - type: transmog
+      id: 208334 # Legplates of the Krakken [plate legs]
+
+    - type: transmog
       id: 209882 # Maruud's Undertow [2h sword]
 
 - name: "Ristar, the Rabid"
@@ -324,6 +367,10 @@ farms:
     - *formula-aspect
     - *formula-wyrm
     - *formula-whelpling
+
+    - type: item
+      id: 210674 # Mark of the Sable Dreamtalon (CI!)
+      limit: class druid
 
     - type: transmog
       id: 208322 # Treads of the Nightclaw [plate feet]
@@ -340,10 +387,7 @@ farms:
     - *formula-aspect
     - *formula-wyrm
     - *formula-whelpling
-
-    - type: item
-      id: 210493 # Technique: Grotto Netherwing Drake: Spiked Jaw
-      limit: profession inscription 2828 25
+    - *technique-grotto-spiked-jaw
 
 - name: "Splinterlimb"
   location: 61.8 52.2
@@ -360,6 +404,43 @@ farms:
 
     - type: transmog
       id: 208361 # Splinterlimb's Branch [stave]
+
+- name: "Surging Lasher"
+  location: 60.0 63.3 59.0 71.9 57.1 52.5
+  note: "Spawns during Emerald Frenzy"
+  questId: 78263
+  drops:
+    - *formula-aspect
+    - *formula-wyrm
+    - *formula-whelpling
+
+    - type: transmog
+      id: 208335 # Vibrant Fall Leggings [cloth legs]
+
+    - type: transmog
+      id: 208330 # Piercing Touch of the Vine [mail hands]
+
+    - type: transmog
+      id: 208367 # Lasher's Red Thorn [agi dagger]
+
+- name: "Talthonei Ashwhisper"
+  location: 61.5 67.5 59.2 43.7 62.8 52.1 63.8 69.9 35.1 22.6
+  note: "Can spawn after killing fiery druids"
+  questId: 77994
+  drops:
+    - *formula-aspect
+    - *formula-wyrm
+    - *formula-whelpling
+    
+    - type: item
+      id: 210736 # Mark of the Smoldering Dreamstag
+      limit: class druid
+
+    - type: transmog
+      id: 208369 # Druid's Vengeful Gaze [plate head]
+    
+    - type: transmog
+      id: 208374 # Talthornei's Wrath [int staff]
 
 - name: "The Apostle"
   location: 26.0 26.6
