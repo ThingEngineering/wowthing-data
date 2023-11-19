@@ -1,50 +1,47 @@
-name: 'Druid Forms'
-groups:
-  
 - name: ':druid-bear: Bristlebruin'
-  things:
+  items:
     - 210727 # Pollenfused Bristlebruin Fur Sample (Ashen Bristlebruin)
     - 210729 # Mark of the Verdant Bristlebruin
 
 - name: ':druid-bear: Runebear'
-  things:
+  items:
     - 210751 # Mark of the Hibernating Runebear
 
 - name: ':druid-bear: Umbraclaw'
-  things:
+  items:
     - 210647 # Mark of the Umbramane (Dark Umbraclaw)
     - 210738 # Mark of the Loamy Umbraclaw
     - 210739 # Mark of the Snowy Umbraclaw
     
 - name: ':druid-cat: Dreamsaber'
-  things:
+  items:
     - 210669 # Mark of the Evergreen Dreamsaber
     - 210650 # Mark of the Keen-Eyed Dreamsaber
     - 210728 # Moon-Blessed Claw (Moon-Blessed Dreamsaber)
 
 - name: ':druid-moonkin: Misc'
-  things:
+  items:
     - 211280 # Feather of the Smoke Red Moon (Fire Moonkin)
 
 - name: ':druid-travel: Dreamstag'
-  things:
+  items:
     - 210735 # Mark of the Auric Dreamstag
     - 210731 # Mark of the Lush Dreamstag
     - 210736 # Mark of the Smoldering Dreamstag
 
 - name: ':druid-travel: Dreamtalon'
-  things:
+  items:
     - 211081 # Mark of the Auroral Dreamtalon
     - 211080 # Mark of the Boreal Dreamtalon
     - 210683 # Mark of the Dreamtalon Matriarch
     - 210684 # Mark of the Thriving Dreamtalon
 
 - name: ':druid-flight: Somnowl'
-  things:
+  items:
     - 210645 # Feather of Friends (Azure Somnowl)
     - 210754 # Feather of the Blazing Somnowl
     - 210535 # Mark of the Slumbering Somnowl
 
 - name: ':druid-aquatic: Fishy'
-  things:
+  items:
     - 210753 # Scale of the Prismatic Whiskerfish
