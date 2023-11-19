@@ -7,7 +7,22 @@ farms:
 
 - name: "Smoldering Copse Stuff"
   groupId: 1
-  location: 36.0 46.6
+  location: 36.0 46.5
+  type: group
+
+- name: "SE Cave"
+  groupId: 2
+  location: 62.5 76.0
+  type: group
+
+- name: "Druid Things"
+  groupId: 3
+  location: 40.0 73.5
+  type: group
+
+- name: "NW Cave"
+  groupId: 4
+  location: 37.3 30.7
   type: group
 
 # Kills
@@ -130,7 +145,9 @@ farms:
       id: 209881 # Fystia's Fiery Kris [dagger]
 
 - name: "Fruitface"
+  groupId: 2
   location: 62.9 73.0
+  note: "Talk to Mylune, pick up fruit, chase the Podling until he jumps in the water"
   npcId: 209913
   questId: 77846
   type: kill
@@ -191,6 +208,7 @@ farms:
       id: 208383 # Pommel of Fire [1h mace]
 
 - name: "Isaqa"
+  groupId: 4
   location: 37.4 31.7
   npcId: 209919
   questId: 77989
@@ -234,6 +252,7 @@ farms:
       id: 208363 # Twinfang of the Cian [warglaive]
 
 - name: "Matriarch Keevah"
+  groupId: 3
   location: 41.1 73.3
   npcId: 210051
   questId: 78213
@@ -286,6 +305,7 @@ farms:
       id: 205463 # Molten Lava Ball
 
 - name: "Moragh the Slothful"
+  groupId: 3
   location: 40.5 72.6
   npcId: 210045
   questId: 78210
@@ -327,6 +347,7 @@ farms:
       id: 208375 # Owlbear's Decisive Strike [1h mace]
 
 - name: "Nuoberon"
+  groupId: 2
   location: 61.7 71.9
   npcId: 209113
   questId: 77570
@@ -481,7 +502,9 @@ farms:
       id: 210725 # Owl Post
 
 - name: "Pineshrew Cache"
+  groupId: 4
   location: 37.3 30.7
+  note: "Above the cave, next to a rock"
   objectId: 409440
   questId: 78120
   reset: never
@@ -491,17 +514,19 @@ farms:
       id: 210411 # Fast Growing Seed
 
 - name: "Reliquary of Ashamane"
+  groupId: 2
   location: 63.4 72.9
-  note: "Need Mark of Ashamane buff or druid cat form"
+  note: "In the cave. Need Mark of Ashamane buff or druid cat form."
   objectId: 411065
   questId: 78359
+  type: treasure
   drops:
     - type: transmog
       id: 210631 # Branch of Ashamane [cosmetic staff]
 
 - name: "Reliquary of Aviana"
   location: 64.2 19.3
-  note: "Need Mark of Avianna or druid flight form"
+  note: "Need Mark of Avianna buff or druid flight form"
   questId: 78360
   reset: never
   type: treasure
@@ -592,7 +617,9 @@ farms:
       note: "{price:3|2024}" # Alchemy Knowledge
 
 - name: "{item:210185}"
+  groupId: 2
   location: 50.9 49.7
+  note: "In the cave"
   objectId: 410434
   questId: 78269
   reset: never
@@ -646,6 +673,7 @@ farms:
 
 - name: "{item:210234}"
   location: 66.3 74.2
+  note: "In a floating tree"
   objectId: 410582
   questId: 78310
   reset: never
@@ -669,7 +697,9 @@ farms:
       note: "{price:3|2030}" # Enchanting Knowledge
 
 - name: "{item:210228}"
+  groupId: 4
   location: 38.3 30.1
+  note: "Above the cave, tiny glowing thing next to waterfall"
   objectId: 410574
   questId: 78308
   reset: never
@@ -721,7 +751,9 @@ farms:
 # - Inscription
 
 - name: "{item:210459}"
+  groupId: 2
   location: 63.4 71.5
+  note: "Just outside the cave"
   objectId: 411169
   questId: 78412
   reset: never
@@ -914,6 +946,53 @@ farms:
 
     - type: transmog
       id: 208435 # Forgotten Jalgar's Girdle [plate waist]
+
+# Event
+
+- name: "Superbloom"
+  location: 43.8 71.8
+  minimumLevel: 70
+  type: eventBig
+  drops:
+    - type: item
+      id: 207762 # Grotto Netherwing Drake: Chin Spike
+
+    - type: item
+      id: 207774 # Grotto Netherwing Drake: Finned Jaw
+
+    - type: item
+      id: 207763 # Grotto Netherwing Drake: Single Horned Crest
+
+    - type: item
+      id: 207767 # Grotto Netherwing Drake: Tempestuous Pattern
+
+    - type: item
+      id: 197371 # Renewed Proto-Drake: Green Hair
+
+    - type: item
+      id: 203340 # Winding Slitherdrake: Cluster Jaw Horns
+
+    - type: item
+      id: 203329 # Winding Slitherdrake: Heavy Horns
+
+    - type: item
+      id: 203344 # Winding Slitherdrake: Single Jaw Horn
+
+    - type: transmog
+      id: 210663 # Circlet of the Mother Tree [cosmetic back]
+
+    - type: transmog
+      id: 210666 # Crest of the Seething Flamekeeper [cosmetic back]
+
+    - type: transmog
+      id: 210661 # Dreamcatcher's Crescent [cosmetic back]
+
+    - type: transmog
+      id: 210664 # Frost Sapling's Adornment [cosmetic back]
+
+    - type: transmog
+      id: 210662 # Ochre Ornament of the Grove [cosmetic back]
+
 
 # Instance
 
