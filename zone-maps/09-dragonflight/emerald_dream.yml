@@ -794,11 +794,22 @@ farms:
 
 - name: "Aurostor, the Hibernator"
   location: 37.1 55.2
+  minimumLevel: 70
   npcId: 209574
   questId: 76367
   reset: weekly
   type: killBig
   drops:
+    - type: item
+      id: 210480 # Flourishing Whimsydrake: Sunrise Scales
+
+    - type: item
+      id: 210751 # Mark of the Hibernating Runebear [bear customization]
+      limit: class druid
+
+    - type: transmog
+      id: 210433 # Visage of Aurostor [cosmetic]
+
     - type: transmog
       id: 208440 # Aurostor's Sleeping Knickers [cloth legs]
 
