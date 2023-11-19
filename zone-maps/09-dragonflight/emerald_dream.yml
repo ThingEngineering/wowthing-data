@@ -725,7 +725,9 @@ farms:
       note: "{price:3|2027}" # Engineering Knowledge
 
 - name: "{item:210194}"
+  groupId: 2
   location: 49.4 69.2
+  note: "In the cave"
   objectId: 410458
   questId: 78279
   reset: never
@@ -792,7 +794,7 @@ farms:
 # - Jewelcrafting
 
 - name: "{item:210202}"
-  location: 54.41 32.47
+  location: 58.9 53.8
   objectId: 410484
   questId: 78285
   reset: never
@@ -817,6 +819,7 @@ farms:
 
 - name: "Unpolished Blemish"
   location: 43.4 33.3
+  note: "On the left side of the statue"
   objectId: 410479
   questId: 78283
   reset: never
