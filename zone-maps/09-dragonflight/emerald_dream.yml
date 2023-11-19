@@ -284,6 +284,7 @@ farms:
 
     - type: item
       id: 210492 # Technique: Grotto Netherwing Drake: Chin Tendrils
+      limit: profession inscription 2828 25
 
     - type: transmog
       id: 208375 # Owlbear's Decisive Strike [1h mace]
@@ -342,6 +343,7 @@ farms:
 
     - type: item
       id: 210493 # Technique: Grotto Netherwing Drake: Spiked Jaw
+      limit: profession inscription 2828 25
 
 - name: "Splinterlimb"
   location: 61.8 52.2
