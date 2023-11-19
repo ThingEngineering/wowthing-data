@@ -839,5 +839,6 @@ farms:
 - name: "Amirdrassil, the Dream's Hope"
   instanceId: 1207
   location: 27.3 31.1
+  minimumLevel: 70
   reset: weekly
   type: raid
