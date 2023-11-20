@@ -1,0 +1,39 @@
+name: "Flourishing Whimsydrake"
+groups:
+  - name: "AUTO"
+    things:
+      - itemId: 210482 # Flourishing Whimsydrake: Back Fins
+        # questId: 78400
+
+      - itemId: 210471 # Flourishing Whimsydrake: Body Armor
+        # questId: 78401
+
+      - itemId: 210478 # Flourishing Whimsydrake: Gold and Pink Armor
+        # questId: 78399
+
+      - itemId: 210476 # Flourishing Whimsydrake: Helmet
+        # questId: 78402
+
+      - itemId: 210486 # Flourishing Whimsydrake: Horns
+        # questId: 78406
+
+      - itemId: 210485 # Flourishing Whimsydrake: Long Snout
+        # questId: 78405
+
+      - itemId: 210487 # Flourishing Whimsydrake: Neck Fins
+        # questId: 78407
+
+      - itemId: 210479 # Flourishing Whimsydrake: Night Scales
+        # questId: 78408
+
+      - itemId: 210483 # Flourishing Whimsydrake: Ridged Brow
+        # questId: 78403
+
+      - itemId: 210480 # Flourishing Whimsydrake: Sunrise Scales
+        # questId: 78409
+
+      - itemId: 210481 # Flourishing Whimsydrake: Sunset Scales
+        # questId: 78410
+
+      - itemId: 210484 # Flourishing Whimsydrake: Underbite Snout
+        # questId: 78404

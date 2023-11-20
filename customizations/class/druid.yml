@@ -1,0 +1,43 @@
+name: 'Druid'
+groups:
+
+- name: 'AUTO'
+  things:
+    # Bear/Bristlebruin
+    - itemId: 210727 # Pollenfused Bristlebruin Fur Sample (Ash)
+    - itemId: 210729 # Mark of the Verdant Bristlebruin (Green)
+
+    # Bear/Runebear
+    - itemId: 210751 # Mark of the Hibernating Runebear (Yellow)
+
+    # Bear/Umbraclaw
+    - itemId: 210647 # Mark of the Umbramane (Black)
+    - itemId: 210738 # Mark of the Loamy Umbraclaw (Brown)
+    - itemId: 210739 # Mark of the Snowy Umbraclaw (White)
+    
+    # Cat/Dreamsaber
+    - itemId: 210728 # Moon-Blessed Claw (Blue)
+    - itemId: 210669 # Mark of the Evergreen Dreamsaber (Green)
+    - itemId: 210650 # Mark of the Keen-Eyed Dreamsaber (Purple)
+
+    # Moonkin
+    - itemId: 211280 # Feather of the Smoke Red Moon (Fire Moonkin)
+
+    # Travel/Aquatic/Fishy
+    - itemId: 210753 # Scale of the Prismatic Whiskerfish (Dreaming Nae'dra)
+
+    # Travel/Flight/Somnowl
+    - itemId: 210754 # Feather of the Blazing Somnowl (Anu'relos, Flames Guidance)
+    - itemId: 210645 # Feather of Friends
+    - itemId: 210535 # Mark of the Slumbering Somnowl
+
+    # Travel/Ground/Dreamtalon
+    - itemId: 211080 # Mark of the Boreal Dreamtalon (Blue)
+    - itemId: 210683 # Mark of the Dreamtalon Matriarch (Green/Red)
+    - itemId: 211081 # Mark of the Auroral Dreamtalon (Purple/Blue)
+    - itemId: 210684 # Mark of the Thriving Dreamtalon (White/Green)
+
+    # Travel/Ground/Gladehart
+    - itemId: 210736 # Mark of the Smoldering Dreamstag (Ashes)
+    - itemId: 210735 # Mark of the Auric Dreamstag (Golden)
+    - itemId: 210731 # Mark of the Lush Dreamstag (Green)

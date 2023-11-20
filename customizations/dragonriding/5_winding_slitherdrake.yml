@@ -1,0 +1,72 @@
+name: "Winding Slitherdrake"
+groups:
+  - name: "AUTO"
+    things:
+      - itemId: 203338 # Winding Slitherdrake: Antler Horns
+      - itemId: 203322 # Winding Slitherdrake: Blonde Hair
+      - itemId: 203300 # Winding Slitherdrake: Blue and Silver Armor
+      - itemId: 203350 # Winding Slitherdrake: Blue Scales
+      - itemId: 203351 # Winding Slitherdrake: Bronze Scales
+      - itemId: 203323 # Winding Slitherdrake: Brown Hair
+      - itemId: 203312 # Winding Slitherdrake: Cluster Chin Horn
+      - itemId: 203331 # Winding Slitherdrake: Cluster Horns
+      - itemId: 203340 # Winding Slitherdrake: Cluster Jaw Horns
+      - itemId: 203321 # Winding Slitherdrake: Curled Cheek Horn
+      - itemId: 203334 # Winding Slitherdrake: Curled Horns
+      - itemId: 203346 # Winding Slitherdrake: Curled Nose
+      - itemId: 203314 # Winding Slitherdrake: Curved Chin Horn
+      - itemId: 203335 # Winding Slitherdrake: Curved Horns
+      - itemId: 203349 # Winding Slitherdrake: Curved Nose Horn
+      - itemId: 203320 # Winding Slitherdrake: Ears
+      - itemId: 203319 # Winding Slitherdrake: Finned Cheek
+      - itemId: 203361 # Winding Slitherdrake: Finned Tip Tail
+      - itemId: 203310 # Winding Slitherdrake: Grand Chin Thorn
+      - itemId: 203299 # Winding Slitherdrake: Green and Bronze Armor
+      - itemId: 203352 # Winding Slitherdrake: Green Scales
+      - itemId: 203308 # Winding Slitherdrake: Hairy Brow
+      - itemId: 203311 # Winding Slitherdrake: Hairy Chin
+      - itemId: 203318 # Winding Slitherdrake: Hairy Crest
+      - itemId: 203343 # Winding Slitherdrake: Hairy Jaw
+      - itemId: 203362 # Winding Slitherdrake: Hairy Tail
+      - itemId: 203365 # Winding Slitherdrake: Hairy Throat
+      - itemId: 203329 # Winding Slitherdrake: Heavy Horns
+      - itemId: 205341 # Winding Slitherdrake: Heavy Scales
+      - itemId: 203306 # Winding Slitherdrake: Horned Brow
+      - itemId: 203339 # Winding Slitherdrake: Impaler Horns
+      - itemId: 208106 # Winding Slitherdrake: Infinite Scales
+      - itemId: 203316 # Winding Slitherdrake: Large Finned Crest
+      - itemId: 203360 # Winding Slitherdrake: Large Finned Tail
+      - itemId: 203363 # Winding Slitherdrake: Large Finned Throat
+      - itemId: 203347 # Winding Slitherdrake: Large Spiked Nose
+      - itemId: 203309 # Winding Slitherdrake: Long Chin Horn
+      - itemId: 203341 # Winding Slitherdrake: Long Jaw Horns
+      - itemId: 203336 # Winding Slitherdrake: Paired Horns
+      - itemId: 203307 # Winding Slitherdrake: Plated Brow
+      - itemId: 203348 # Winding Slitherdrake: Pointed Nose
+      - itemId: 203303 # Winding Slitherdrake: Red and Gold Armor
+      - itemId: 203325 # Winding Slitherdrake: Red Hair
+      - itemId: 203353 # Winding Slitherdrake: Red Scales
+      - itemId: 203359 # Winding Slitherdrake: Shark Finned Tail
+      - itemId: 203333 # Winding Slitherdrake: Short Horns
+      - itemId: 203344 # Winding Slitherdrake: Single Jaw Horn
+      - itemId: 203317 # Winding Slitherdrake: Small Finned Crest
+      - itemId: 203358 # Winding Slitherdrake: Small Finned Tail
+      - itemId: 203364 # Winding Slitherdrake: Small Finned Throat
+      - itemId: 203315 # Winding Slitherdrake: Small Spiked Crest
+      - itemId: 203313 # Winding Slitherdrake: Spiked Chin
+      - itemId: 203332 # Winding Slitherdrake: Spiked Horns
+      - itemId: 203357 # Winding Slitherdrake: Spiked Tail
+      - itemId: 203345 # Winding Slitherdrake: Split Jaw Horns
+      - itemId: 203330 # Winding Slitherdrake: Swept Horns
+      - itemId: 203327 # Winding Slitherdrake: Tan Horns
+      - itemId: 203337 # Winding Slitherdrake: Thorn Horns
+      - itemId: 203342 # Winding Slitherdrake: Triple Jaw Horns
+      - itemId: 203324 # Winding Slitherdrake: White Hair
+      - itemId: 203328 # Winding Slitherdrake: White Horns
+      - itemId: 203354 # Winding Slitherdrake: White Scales
+      - itemId: 203304 # Winding Slitherdrake: Yellow and Silver Armor
+      - itemId: 203355 # Winding Slitherdrake: Yellow Scales
+  
+  # - name: 'Unavailable'
+  #   things:
+  #     - itemId: 205865 # Winding Slitherdrake: Embodiment of the Obsidian Gladiator

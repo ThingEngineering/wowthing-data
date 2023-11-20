@@ -1,0 +1,28 @@
+name: "Grotto Netherwing Drake"
+groups:
+  - name: "AUTO"
+    things:
+      - itemId: 207760 # Grotto Netherwing Drake: Armor
+      - itemId: 207779 # Grotto Netherwing Drake: Barbed Tail
+      - itemId: 207776 # Grotto Netherwing Drake: Black Scales
+      - itemId: 207762 # Grotto Netherwing Drake: Chin Spike
+      - itemId: 207761 # Grotto Netherwing Drake: Chin Tendrils
+      - itemId: 207759 # Grotto Netherwing Drake: Cluster Spiked Back
+      - itemId: 207765 # Grotto Netherwing Drake: Cluster Spiked Crest
+      - itemId: 207778 # Grotto Netherwing Drake: Double Finned Tail
+      - itemId: 207774 # Grotto Netherwing Drake: Finned Jaw
+      - itemId: 207764 # Grotto Netherwing Drake: Head Spike
+      - itemId: 207770 # Grotto Netherwing Drake: Helm
+      - itemId: 207772 # Grotto Netherwing Drake: Long Horns
+      - itemId: 207769 # Grotto Netherwing Drake: Outcast Pattern
+      - itemId: 207757 # Grotto Netherwing Drake: Purple and Silver Armor
+      - itemId: 207771 # Grotto Netherwing Drake: Short Horns
+      - itemId: 207763 # Grotto Netherwing Drake: Single Horned Crest
+      - itemId: 207758 # Grotto Netherwing Drake: Spiked Back
+      - itemId: 207773 # Grotto Netherwing Drake: Spiked Jaw
+      - itemId: 207775 # Grotto Netherwing Drake: Teal Scales
+      - itemId: 207767 # Grotto Netherwing Drake: Tempestuous Pattern
+      - itemId: 207766 # Grotto Netherwing Drake: Triple Spiked Crest
+      - itemId: 211381 # Grotto Netherwing Drake: Violet Scales
+      - itemId: 207768 # Grotto Netherwing Drake: Volatile Pattern
+      - itemId: 207777 # Grotto Netherwing Drake: Yellow Scales
