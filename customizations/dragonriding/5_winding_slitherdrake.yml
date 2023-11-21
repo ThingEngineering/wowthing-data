@@ -18,6 +18,7 @@ groups:
       - itemId: 203335 # Winding Slitherdrake: Curved Horns
       - itemId: 203349 # Winding Slitherdrake: Curved Nose Horn
       - itemId: 203320 # Winding Slitherdrake: Ears
+      - itemId: 205865 # Winding Slitherdrake: Embodiment of the Obsidian Gladiator
       - itemId: 203319 # Winding Slitherdrake: Finned Cheek
       - itemId: 203361 # Winding Slitherdrake: Finned Tip Tail
       - itemId: 203310 # Winding Slitherdrake: Grand Chin Thorn
@@ -66,7 +67,3 @@ groups:
       - itemId: 203354 # Winding Slitherdrake: White Scales
       - itemId: 203304 # Winding Slitherdrake: Yellow and Silver Armor
       - itemId: 203355 # Winding Slitherdrake: Yellow Scales
-  
-  # - name: 'Unavailable'
-  #   things:
-  #     - itemId: 205865 # Winding Slitherdrake: Embodiment of the Obsidian Gladiator

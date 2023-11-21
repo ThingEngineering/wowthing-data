@@ -8,6 +8,7 @@ groups:
     - itemId: 210729 # Mark of the Verdant Bristlebruin (Green)
 
     # Bear/Runebear
+    # - questId: 45905 # The Highlord's Return [Legion TW Mage Tower]
     - itemId: 210751 # Mark of the Hibernating Runebear (Yellow)
 
     # Bear/Umbraclaw
@@ -20,16 +21,38 @@ groups:
     - itemId: 210669 # Mark of the Evergreen Dreamsaber (Green)
     - itemId: 210650 # Mark of the Keen-Eyed Dreamsaber (Purple)
 
+    # Cat/Fiery?
+    # - itemId: 94604 # Burning Seed - achievement 19451
+
     # Moonkin
     - itemId: 211280 # Feather of the Smoke Red Moon (Fire Moonkin)
 
-    # Travel/Aquatic/Fishy
+    # Travel/Aquatic
+    - itemId: 162022 # Glyph of the Dolphin
+    - itemId: 40919 # Glyph of the Orca
+    - itemId: 162027 # Glyph of the Tideskipper
     - itemId: 210753 # Scale of the Prismatic Whiskerfish (Dreaming Nae'dra)
+
+    # Travel/Flight/Misc
+    - itemId: 162029 # Glyph of the Humble Flyer
+    - itemId: 129021 # Glyph of the Sentinel
+    - itemId: 187933 # Mark of the Duskwing Raven
+    - itemId: 187887 # Mark of the Gloomstalker Dredbat
+    - itemId: 187931 # Mark of the Regal Dredbat
+    - itemId: 187936 # Mark of the Sable Ardenmoth
+    - itemId: 187888 # Mark of the Shimmering Ardenmoth
 
     # Travel/Flight/Somnowl
     - itemId: 210754 # Feather of the Blazing Somnowl (Anu'relos, Flames Guidance)
     - itemId: 210645 # Feather of Friends
     - itemId: 210535 # Mark of the Slumbering Somnowl
+
+    # Travel/Ground/Misc
+    - itemId: 89868 # Glyph of the Cheetah
+    - itemId: 140630 # Glyph of the Doe
+    - itemId: 187934 # Mark of the Midnight Runestag
+    - itemId: 187884 # Mark of the Twilight Runestag
+    - itemId: 136789 # Tome of the Wilds: Mount Form
 
     # Travel/Ground/Dreamtalon
     - itemId: 211080 # Mark of the Boreal Dreamtalon (Blue)
@@ -41,3 +64,9 @@ groups:
     - itemId: 210736 # Mark of the Smoldering Dreamstag (Ashes)
     - itemId: 210735 # Mark of the Auric Dreamstag (Golden)
     - itemId: 210731 # Mark of the Lush Dreamstag (Green)
+
+    #- questId: # Nightwing Raven
+    - questId: 46319 # You Can't Take the Sky from Me (Lunarwing)
+
+    # Treant
+    - itemId: 136787 # Tome of the Wilds: Treant Form
