@@ -428,6 +428,7 @@ farms:
 
 - name: "Surging Lasher"
   location: 60.0 63.3 59.0 71.9 57.1 52.5
+  npcId: 210111
   note: "Spawns during Emerald Frenzy"
   questId: 78263
   drops:
