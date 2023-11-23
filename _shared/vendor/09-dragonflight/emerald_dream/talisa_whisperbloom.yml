@@ -1,0 +1,380 @@
+id: 212797
+name: "Talisa Whisperbloom"
+note: "Dreamseed Botanist"
+
+locations:
+  09-dragonflight/emerald_dream:
+    - 49.8 62.2
+
+sets:
+  - name: "Druids"
+    range: 3
+    sortKey: "0druid"
+  
+  - name: "Mounts"
+    range: 6
+    sortKey: "0mounts"
+
+  - name: "Pets"
+    range: 6
+    sortKey: "0pets"
+
+  - name: "Cloth Armor"
+    range: 9
+    sortKey: "1-1"
+
+  - name: "Leather Armor"
+    range: 9
+    sortKey: "1-2"
+
+  - name: "Mail Armor"
+    range: 9
+    sortKey: "1-3"
+
+  - name: "Plate Armor"
+    range: 9
+    sortKey: "1-4"
+  
+  - name: "Weapons"
+    range: -1
+    sortKey: "2-1"
+
+sells:
+
+  # Druid
+
+  - type: item
+    id: 211081 # Mark of the Auroral Dreamtalon
+    costs:
+      1211376: 1
+
+  - type: item
+    id: 211080 # Mark of the Boreal Dreamtalon
+    costs:
+      1211376: 1
+
+  - type: item
+    id: 210739 # Mark of the Snowy Umbraclaw
+    costs:
+      1211376: 1
+
+  # Mounts
+
+  - type: mount
+    #id: 210058 # Reins of the Evening Sun Dreamsaber
+    id: 1816
+    costs:
+      1211376: 1
+
+  - type: mount
+    #id: 210057 # Reins of the Morning Flourish Dreamsaber
+    id: 1817
+    costs:
+      1211376: 1
+
+  - type: mount
+    #id: 209947 # Reins of the Blossoming Dreamstag
+    id: 1808
+    costs:
+      1211376: 1
+
+  - type: mount
+    #id: 209950 # Reins of the Rekindled Dreamstag
+    id: 1810
+    costs:
+      1211376: 1
+
+  - type: mount
+    #id: 210775 # Reins of the Snowfluff Dreamtalon
+    id: 1835
+    costs:
+      1211376: 1
+
+  - type: mount
+    #id: 210769 # Reins of the Springtide Dreamtalon
+    id: 1833
+    costs:
+      1211376: 1
+
+  # Pets
+
+  - type: pet
+    #id: 210651 # Dustite
+    id: 4299
+    costs:
+      1211376: 1
+
+  - type: pet
+    #id: 210690 # Elmer
+    id: 4306
+    costs:
+      1211376: 1
+
+  - type: pet
+    #id: 210570 # Napps
+    id: 4295
+    costs:
+      1211376: 1
+
+  - type: pet
+    #id: 210648 # Seedle
+    id: 4298
+    costs:
+      1211376: 1
+
+  - type: pet
+    #id: 210689 # Snoots
+    id: 4305
+    costs:
+      1211376: 1
+
+  - type: pet
+    #id: 210571 # Snoozles
+    id: 4296
+    costs:
+      1211376: 1
+
+  # 0
+
+  - type: transmog
+    id: 209964 # Ceremonial Jacaranda Crown [cloth head]
+    costs:
+      1211376: 1
+
+  - type: transmog
+    id: 209966 # Ceremonial Jacaranda Branches [cloth shoulders]
+    costs:
+      1211376: 1
+
+  - type: transmog
+    id: 209961 # Ceremonial Jacaranda Cape [cloak]
+    costs:
+      1211376: 1
+
+  - type: transmog
+    id: 209960 # Ceremonial Jacaranda Gown [cloth chest]
+    costs:
+      1211376: 1
+
+  - type: transmog
+    id: 209968 # Ceremonial Jacaranda Wraps [cloth wrists]
+    costs:
+      1211376: 1
+
+  - type: transmog
+    id: 209963 # Ceremonial Jacaranda Gloves [cloth hands]
+    costs:
+      1211376: 1
+
+  - type: transmog
+    id: 209967 # Ceremonial Jacaranda Belt [cloth waist]
+    costs:
+      1211376: 1
+
+  - type: transmog
+    id: 209965 # Ceremonial Jacaranda Pantaloons [cloth legs]
+    costs:
+      1211376: 1
+
+  - type: transmog
+    id: 209962 # Ceremonial Jacaranda Sandals [cloth feet]
+    costs:
+      1211376: 1
+
+  # Leather Armor
+
+  - type: transmog
+    id: 209982 # Barkbloom Mask [leather head]
+    costs:
+      1211376: 1
+
+  - type: transmog
+    id: 209984 # Barkbloom Shoulderpads [leather shoulders]
+    costs:
+      1211376: 1
+
+  - type: transmog
+    id: 209979 # Barkbloom Cloak [cloak]
+    costs:
+      1211376: 1
+
+  - type: transmog
+    id: 209978 # Barkbloom Tunic [leather chest]
+    costs:
+      1211376: 1
+
+  - type: transmog
+    id: 209986 # Barkbloom Wristguards [leather wrists]
+    costs:
+      1211376: 1
+
+  - type: transmog
+    id: 209981 # Barkbloom Claws [leather hands]
+    costs:
+      1211376: 1
+
+  - type: transmog
+    id: 209985 # Barkbloom Sash [leather waist]
+    costs:
+      1211376: 1
+
+  - type: transmog
+    id: 209983 # Barkbloom Breeches [leather legs]
+    costs:
+      1211376: 1
+
+  - type: transmog
+    id: 209980 # Barkbloom Talons [leather feet]
+    costs:
+      1211376: 1
+
+  # Mail Armor
+
+  - type: transmog
+    id: 209973 # Visage of the Dreamfused Skull [mail head]
+    costs:
+      1211376: 1
+
+  - type: transmog
+    id: 209975 # Pauldrons of the Dreamfused Skull [mail shoulders]
+    costs:
+      1211376: 1
+
+  - type: transmog
+    id: 209970 # Pelt of the Dreamfused Skull [cloak]
+    costs:
+      1211376: 1
+
+  - type: transmog
+    id: 209969 # Vest of the Dreamfused Skull [mail chest]
+    costs:
+      1211376: 1
+
+  - type: transmog
+    id: 209977 # Bracers of the Dreamfused Skull [mail wrists]
+    costs:
+      1211376: 1
+
+  - type: transmog
+    id: 209972 # Grips of the Dreamfused Skull [mail hands]
+    costs:
+      1211376: 1
+
+  - type: transmog
+    id: 209976 # Buckle of the Dreamfused Skull [mail waist]
+    costs:
+      1211376: 1
+
+  - type: transmog
+    id: 209974 # Leggings of the Dreamfused Skull [mail legs]
+    costs:
+      1211376: 1
+
+  - type: transmog
+    id: 209971 # Clogs of the Dreamfused Skull [mail feet]
+    costs:
+      1211376: 1
+
+  # Plate Armor
+
+  - type: transmog
+    id: 209991 # Overgrown Freyan Helm [plate head]
+    costs:
+      1211376: 1
+
+  - type: transmog
+    id: 209993 # Overgrown Freyan Shoulderguards [plate shoulders]
+    costs:
+      1211376: 1
+
+  - type: transmog
+    id: 209988 # Overgrown Freyan Drape [cloak]
+    costs:
+      1211376: 1
+
+  - type: transmog
+    id: 209987 # Overgrown Freyan Plate [plate chest]
+    costs:
+      1211376: 1
+
+  - type: transmog
+    id: 209995 # Overgrown Freyan Vambraces [plate wrists]
+    costs:
+      1211376: 1
+
+  - type: transmog
+    id: 209990 # Overgrown Freyan Handguards [plate hands]
+    costs:
+      1211376: 1
+
+  - type: transmog
+    id: 209994 # Overgrown Freyan Girdle [plate waist]
+    costs:
+      1211376: 1
+
+  - type: transmog
+    id: 209992 # Overgrown Freyan Legguards [plate legs]
+    costs:
+      1211376: 1
+
+  - type: transmog
+    id: 209989 # Overgrown Freyan Boots [plate feet]
+    costs:
+      1211376: 1
+
+  # Weapons
+
+  - type: transmog
+    id: 210029 # Overgrown Freyan Hatchet [1h ? axe]
+    costs:
+      1211376: 1
+
+  - type: transmog
+    id: 210033 # Essence of the Dreamfused Skull [1h ? mace]
+    costs:
+      1211376: 1
+
+  - type: transmog
+    id: 210032 # Overgrown Freyan Smasher [1h ? mace]
+    costs:
+      1211376: 1
+
+  - type: transmog
+    id: 210037 # Ceremonial Jacaranda Slab [2h ? sword]
+    costs:
+      1211376: 1
+
+  - type: transmog
+    id: 210036 # Barkbloom Saber [1h ? sword]
+    costs:
+      1211376: 1
+
+  - type: transmog
+    id: 210031 # Spike of the Dreamfused Skull [? dagger]
+    costs:
+      1211376: 1
+
+  - type: transmog
+    id: 210038 # Ceremonial Jacaranda Bloom [wand]
+    costs:
+      1211376: 1
+
+  - type: transmog
+    id: 210039 # Barkbloom Warglaive [warglaive]
+    costs:
+      1211376: 1
+
+  - type: transmog
+    id: 210034 # Overgrown Freyan Pike [polearm]
+    costs:
+      1211376: 1
+
+  - type: transmog
+    id: 210035 # Ceremonial Jacaranda Crook [staff]
+    costs:
+      1211376: 1
+
+  - type: transmog
+    id: 210030 # Bow of the Dreamfused Skull [bow]
+    costs:
+      1211376: 1

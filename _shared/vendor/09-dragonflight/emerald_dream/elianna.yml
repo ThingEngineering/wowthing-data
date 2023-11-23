@@ -1,0 +1,99 @@
+id: 211209
+name: "Elianna"
+note: "Dream Infuser"
+
+locations:
+  09-dragonflight/emerald_dream:
+    - 50.2 61.8
+
+sets:
+  - name: "Mounts"
+    range: 6
+    sortKey: "0mounts"
+  
+  - name: "Pets"
+    range: -1
+    sortKey: "0pets"
+
+sells:
+  # Mounts
+
+  - type: mount
+    #id: 210831 # Delugen
+    id: 1837
+    costs:
+      2777: 1
+
+  - type: mount
+    #id: 210948 # Imagiwing
+    id: 1939
+    costs:
+      2777: 1
+
+  - type: mount
+    #id: 210946 # Mammyth
+    id: 1938
+    costs:
+      2777: 1
+
+  - type: mount
+    #id: 210969 # Salatrancer
+    id: 1940
+    costs:
+      2777: 1
+
+  - type: mount
+    #id: 210945 # Stargrazer
+    id: 1839
+    costs:
+      2777: 1
+
+  - type: mount
+    #id: 210833 # Talont
+    id: 1838
+    costs:
+      2777: 1
+
+  # Pets
+
+  - type: pet
+    #id: 210553 # Dreamborne Scarab
+    id: 4289
+    costs:
+      2777: 1
+
+  - type: pet
+    #id: 210555 # Dreamhoof
+    id: 4290
+    costs:
+      2777: 1
+
+  - type: pet
+    #id: 210777 # Drowsey
+    id: 4309
+    costs:
+      2777: 1
+
+  - type: pet
+    #id: 210567 # Memorie
+    id: 4292
+    costs:
+      2777: 1
+
+  - type: pet
+    #id: 210505 # Reverie
+    id: 4287
+    costs:
+      2777: 1
+
+  - type: pet
+    #id: 210785 # Snorr
+    id: 4310
+    costs:
+      1210776: 1
+
+  - type: pet
+    #id: 210652 # Somnolet
+    id: 4300
+    costs:
+      2777: 1
