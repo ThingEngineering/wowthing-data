@@ -55,6 +55,7 @@ groups:
     - itemId: 136789 # Tome of the Wilds: Mount Form
 
     # Travel/Ground/Dreamtalon
+    - itemId: 210674 # Mark of the Sable Dreamtalon (Black/Purple)
     - itemId: 211080 # Mark of the Boreal Dreamtalon (Blue)
     - itemId: 210683 # Mark of the Dreamtalon Matriarch (Green/Red)
     - itemId: 211081 # Mark of the Auroral Dreamtalon (Purple/Blue)
