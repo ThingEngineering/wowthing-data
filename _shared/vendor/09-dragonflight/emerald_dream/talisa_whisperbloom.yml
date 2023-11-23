@@ -1,6 +1,7 @@
 id: 212797
 name: "Talisa Whisperbloom"
 note: "Dreamseed Botanist"
+zoneMapsGroupId: 5
 
 locations:
   09-dragonflight/emerald_dream:

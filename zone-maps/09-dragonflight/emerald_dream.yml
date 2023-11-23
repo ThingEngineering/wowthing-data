@@ -25,6 +25,11 @@ farms:
   location: 37.3 30.7
   type: group
 
+- name: "Main Town"
+  groupId: 5
+  location: 50.0 62.0
+  type: group
+
 # Kills
 
 - name: "Balboan"
@@ -634,6 +639,7 @@ farms:
 # - Blacksmithing
 
 - name: "{item:210464}"
+  groupId: 5
   location: 49.8 63.0
   objectId: 411179
   questId: 78417
@@ -884,6 +890,7 @@ farms:
       note: "{price:3|2026}" # Tailoring Knowledge
 
 - name: "{item:210462}"
+  groupId: 5
   location: 49.8 61.4
   objectId: 411176
   questId: 78415

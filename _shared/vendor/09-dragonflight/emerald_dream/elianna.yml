@@ -1,6 +1,7 @@
 id: 211209
 name: "Elianna"
 note: "Dream Infuser"
+zoneMapsGroupId: 5
 
 locations:
   09-dragonflight/emerald_dream:
