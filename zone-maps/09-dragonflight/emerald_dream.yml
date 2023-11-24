@@ -30,6 +30,16 @@ farms:
   location: 50.0 62.0
   type: group
 
+- name: "Zone Wide"
+  groupId: 6
+  location: 10.0 50.0
+  type: group
+
+- name: "Superbloom"
+  groupId: 7
+  location: 44.8 71.8
+  type: group
+
 # Kills
 
 - name: "Balboan"
@@ -38,21 +48,6 @@ farms:
   questId: 78039
   type: kill
   drops:
-    - &formula-aspect
-      type: item
-      id: 210171 # Formula: Enchanted Aspect's Dreaming Crest
-      limit: profession enchanting 2825 50
-
-    - &formula-wyrm
-      type: item
-      id: 210172 # Formula: Enchanted Wyrm's Dreaming Crest
-      limit: profession enchanting 2825 45
-
-    - &formula-whelpling
-      type: item
-      id: 210173 # Formula: Enchanted Whelpling's Dreaming Crest
-      limit: profession enchanting 2825 35
-    
     - type: transmog
       id: 208356 # Earthbound Furbolg's Shroud
 
@@ -62,10 +57,6 @@ farms:
   questId: 77942
   type: kill
   drops:
-    - *formula-aspect
-    - *formula-wyrm
-    - *formula-whelpling
-
     - type: transmog
       id: 208349 # Burning Leather Cuffs [leather wrist]
 
@@ -84,10 +75,6 @@ farms:
   questId: 77862
   type: kill
   drops:
-    - *formula-aspect
-    - *formula-wyrm
-    - *formula-whelpling
-
     - type: transmog
       id: 208333 # Fallen Flame's Crown [leather head]
 
@@ -103,15 +90,6 @@ farms:
   questId: 77878
   type: kill
   drops:
-    - *formula-aspect
-    - *formula-wyrm
-    - *formula-whelpling
-
-    - &technique-grotto-spiked-jaw
-      type: item
-      id: 210493 # Technique: Grotto Netherwing Drake: Spiked Jaw
-      limit: profession inscription 2828 25
-
     - type: transmog
       id: 208340 # Stag's Flourishing Mantle [cloth shoulder]
 
@@ -133,10 +111,6 @@ farms:
   questId: 78015
   type: kill
   drops:
-    - *formula-aspect
-    - *formula-wyrm
-    - *formula-whelpling
-    
     - type: transmog
       id: 208331 # Cowl of the Flame
 
@@ -157,10 +131,6 @@ farms:
   questId: 77846
   type: kill
   drops:
-    - *formula-aspect
-    - *formula-wyrm
-    - *formula-whelpling
-
     - type: transmog
       id: 208372 # Trickster's Tip Toers [leather feet]
 
@@ -176,20 +146,12 @@ farms:
   questId: 77982
   type: kill
   drops:
-    - *formula-aspect
-    - *formula-wyrm
-    - *formula-whelpling
-
 - name: "Henri Snufftail"
   location: 47.1 29.7
   npcId: 210075
   questId: 77944
   type: kill
   drops:
-    - *formula-aspect
-    - *formula-wyrm
-    - *formula-whelpling
-
     - type: transmog
       id: 208357 # Henri's Warm Coat [cloak ?]
 
@@ -199,10 +161,6 @@ farms:
   questId: 77864
   type: kill
   drops:
-    - *formula-aspect
-    - *formula-wyrm
-    - *formula-whelpling
-
     - type: transmog
       id: 208338 # Furious Flame's Shoulders [leather shoulder]
 
@@ -219,10 +177,6 @@ farms:
   questId: 77989
   type: kill
   drops:
-    - *formula-aspect
-    - *formula-wyrm
-    - *formula-whelpling
-
     - type: transmog
       id: 208345 # Forgebreaker's Belt [leather waist]
 
@@ -235,14 +189,6 @@ farms:
   questId: 78211
   type: kill
   drops:
-    - *formula-aspect
-    - *formula-wyrm
-    - *formula-whelpling
-
-    - type: item
-      id: 210491 # Technique: Winding Slitherdrake: Hairy Chin
-      limit: profession inscription 2828 25
-
     - type: item
       id: 210650 # Mark of the Keen-Eyed Dreamsaber
       limit: class druid
@@ -263,10 +209,6 @@ farms:
   questId: 78213
   type: kill
   drops:
-    - *formula-aspect
-    - *formula-wyrm
-    - *formula-whelpling
-
     - type: item
       id: 210683 # Mark of the Dreamtalon Matriarch
       limit: class druid
@@ -286,10 +228,6 @@ farms:
   questId: 77943
   type: kill
   drops:
-    - *formula-aspect
-    - *formula-wyrm
-    - *formula-whelpling
-
     - type: transmog
       id: 208323 # Nature's Firebathed Robes [cloth chest]
 
@@ -302,10 +240,6 @@ farms:
   questId: 77941
   type: kill
   drops:
-    - *formula-aspect
-    - *formula-wyrm
-    - *formula-whelpling
-
     - type: toy
       id: 205463 # Molten Lava Ball
 
@@ -316,10 +250,6 @@ farms:
   questId: 78210
   type: kill
   drops:
-    - *formula-aspect
-    - *formula-wyrm
-    - *formula-whelpling
-
     - type: item
       id: 210729 # Mark of the Verdant Bristlebruin
       limit: class druid
@@ -336,14 +266,6 @@ farms:
   questId: 77940
   type: kill
   drops:
-    - *formula-aspect
-    - *formula-wyrm
-    - *formula-whelpling
-
-    - type: item
-      id: 210492 # Technique: Grotto Netherwing Drake: Chin Tendrils
-      limit: profession inscription 2828 25
-
     - type: item
       id: 210647 # Mark of the Umbramane
       limit: class druid
@@ -358,10 +280,6 @@ farms:
   questId: 77570
   type: kill
   drops:
-    - *formula-aspect
-    - *formula-wyrm
-    - *formula-whelpling
-    
     - type: transmog
       id: 209880 # Curve of Starry Dusks [bow]
 
@@ -371,10 +289,6 @@ farms:
   questId: 77867
   type: kill
   drops:
-    - *formula-aspect
-    - *formula-wyrm
-    - *formula-whelpling
-
     - type: transmog
       id: 208327 # Maruud's Piercing Hands [leather hands]
 
@@ -390,10 +304,6 @@ farms:
   questId: 77890
   type: kill
   drops:
-    - *formula-aspect
-    - *formula-wyrm
-    - *formula-whelpling
-
     - type: item
       id: 210674 # Mark of the Sable Dreamtalon (CI!)
       limit: class druid
@@ -410,21 +320,12 @@ farms:
   questId: 78212
   type: kill
   drops:
-    - *formula-aspect
-    - *formula-wyrm
-    - *formula-whelpling
-    - *technique-grotto-spiked-jaw
-
 - name: "Splinterlimb"
   location: 61.8 52.2
   npcId: 209365
   questId: 77863
   type: kill
   drops:
-    - *formula-aspect
-    - *formula-wyrm
-    - *formula-whelpling
-
     - type: transmog
       id: 208346 # Singed Barkbands [cloth wrist]
 
@@ -437,10 +338,6 @@ farms:
   note: "Spawns during Emerald Frenzy"
   questId: 78263
   drops:
-    - *formula-aspect
-    - *formula-wyrm
-    - *formula-whelpling
-
     - type: transmog
       id: 208335 # Vibrant Fall Leggings [cloth legs]
 
@@ -455,10 +352,6 @@ farms:
   note: "Can spawn after killing fiery druids"
   questId: 77994
   drops:
-    - *formula-aspect
-    - *formula-wyrm
-    - *formula-whelpling
-    
     - type: item
       id: 210736 # Mark of the Smoldering Dreamstag
       limit: class druid
@@ -475,10 +368,6 @@ farms:
   questId: 77990
   type: kill
   drops:
-    - *formula-aspect
-    - *formula-wyrm
-    - *formula-whelpling
-
     - type: transmog
       id: 208370 # The Apostle's Steps [cloth feet]
 
@@ -491,10 +380,6 @@ farms:
   questId: 78214
   type: kill
   drops:
-    - *formula-aspect
-    - *formula-wyrm
-    - *formula-whelpling
-
 # Treasures
 
 - name: "Hidden Moonkin Stash"
@@ -914,6 +799,15 @@ farms:
       limit: profession tailoring 2831 25
       note: "{price:3|2026}" # Tailoring Knowledge
 
+# Instance
+
+- name: "Amirdrassil, the Dream's Hope"
+  instanceId: 1207
+  location: 27.3 31.1
+  minimumLevel: 70
+  reset: weekly
+  type: raid
+
 # World Boss
 
 - name: "Aurostor, the Hibernator"
@@ -958,13 +852,19 @@ farms:
     - type: transmog
       id: 208435 # Forgotten Jalgar's Girdle [plate waist]
 
-# Event
+# Superbloom
 
 - name: "Superbloom"
+  groupId: 7
   location: 43.8 71.8
   minimumLevel: 70
+  reset: none
   type: eventBig
   drops:
+    - type: item
+      id: 210243 # Technique: Contract: Dream Wardens
+      limit: profession inscription 2828 25
+
     - type: item
       id: 207762 # Grotto Netherwing Drake: Chin Spike
 
@@ -989,6 +889,13 @@ farms:
     - type: item
       id: 203344 # Winding Slitherdrake: Single Jaw Horn
 
+- name: "Superbloom Boss"
+  groupId: 7
+  location: 0 0
+  minimumLevel: 70
+  reset: weekly
+  type: killBig
+  drops:
     - type: transmog
       id: 210663 # Circlet of the Mother Tree [cosmetic back]
 
@@ -1004,12 +911,166 @@ farms:
     - type: transmog
       id: 210662 # Ochre Ornament of the Grove [cosmetic back]
 
+# Shared
 
-# Instance
+- name: "Shared Recipe Drops"
+  groupId: 6
+  location: 0 0
+  reset: none
+  type: kill
+  drops:
+    - type: item
+      id: 210171 # Formula: Enchanted Aspect's Dreaming Crest
+      limit: profession enchanting 2825 50
 
-- name: "Amirdrassil, the Dream's Hope"
-  instanceId: 1207
-  location: 27.3 31.1
-  minimumLevel: 70
-  reset: weekly
-  type: raid
+    - type: item
+      id: 210172 # Formula: Enchanted Wyrm's Dreaming Crest
+      limit: profession enchanting 2825 45
+
+    - type: item
+      id: 210173 # Formula: Enchanted Whelpling's Dreaming Crest
+      limit: profession enchanting 2825 35
+
+    - type: item
+      id: 210492 # Technique: Grotto Netherwing Drake: Chin Tendrils
+      limit: profession inscription 2828 25
+
+    - type: item
+      id: 210493 # Technique: Grotto Netherwing Drake: Spiked Jaw
+      limit: profession inscription 2828 25
+
+    - type: item
+      id: 210491 # Technique: Winding Slitherdrake: Hairy Chin
+      limit: profession inscription 2828 25
+
+- name: "Weekly Cloth"
+  groupId: 6
+  location: 0 0
+  reset: none
+  type: cloth
+  drops:
+      - type: transmog
+        id: 210357 # Frigid Conservator's Hood [cloth head]
+
+      - type: transmog
+        id: 210366 # Frigid Conservator's Shoulders [cloth shoulders]
+
+      - type: transmog
+        id: 210382 # Frigid Conservator's Wrap [cloak]
+
+      - type: transmog
+        id: 210349 # Frigid Conservator's Gown [cloth chest]
+
+      - type: transmog
+        id: 210372 # Frigid Conservator's Bands [cloth wrists]
+
+      - type: transmog
+        id: 210355 # Frigid Conservator's Mitts [cloth hands]
+
+      - type: transmog
+        id: 210369 # Frigid Conservator's Sash [cloth waist]
+
+      - type: transmog
+        id: 210361 # Frigid Conservator's Leggings [cloth legs]
+
+      - type: transmog
+        id: 210391 # Frigid Conservator's Slippers [cloth feet]
+
+- name: "Weekly Leather"
+  groupId: 6
+  location: 0 0
+  reset: none
+  type: leather
+  drops:
+      - type: transmog
+        id: 210359 # Crystalline Tender's Guise [leather head]
+
+      - type: transmog
+        id: 210364 # Crystalline Tender's Shoulderpads [leather shoulders]
+
+      - type: transmog
+        id: 210381 # Crystalline Tender's Shroud [cloak]
+
+      - type: transmog
+        id: 210352 # Crystalline Tender's Vest [leather chest]
+
+      - type: transmog
+        id: 210375 # Crystalline Tender's Wristbands [leather wrists]
+
+      - type: transmog
+        id: 210353 # Crystalline Tender's Gloves [leather hands]
+
+      - type: transmog
+        id: 210371 # Crystalline Tender's Belt [leather waist]
+
+      - type: transmog
+        id: 210363 # Crystalline Tender's Trousers [leather legs]
+
+      - type: transmog
+        id: 210393 # Crystalline Tender's Boots [leather feet]
+
+- name: "Weekly Mail"
+  groupId: 6
+  location: 0 0
+  reset: none
+  type: mail
+  drops:
+      - type: transmog
+        id: 210358 # Winter Forager's Helm [mail head]
+
+      - type: transmog
+        id: 210367 # Winter Forager's Epaulets [mail shoulders]
+
+      - type: transmog
+        id: 210407 # Winter Forager's Cape [cloak]
+
+      - type: transmog
+        id: 210351 # Winter Forager's Chestguard [mail chest]
+
+      - type: transmog
+        id: 210374 # Winter Forager's Cuffs [mail wrists]
+
+      - type: transmog
+        id: 210356 # Winter Forager's Handguards [mail hands]
+
+      - type: transmog
+        id: 210370 # Winter Forager's Waistguard [mail waist]
+
+      - type: transmog
+        id: 210362 # Winter Forager's Legguards [mail legs]
+
+      - type: transmog
+        id: 210392 # Winter Forager's Treads [mail feet]
+
+- name: "Weekly Plate"
+  groupId: 6
+  location: 0 0
+  reset: none
+  type: plate
+  drops:
+      - type: transmog
+        id: 210390 # Arctic Warden's Warhelm [plate head]
+
+      - type: transmog
+        id: 210365 # Arctic Warden's Shoulderplates [plate shoulders]
+
+      - type: transmog
+        id: 210408 # Arctic Warden's Cloak [cloak]
+
+      - type: transmog
+        id: 210350 # Arctic Warden's Chestplate [plate chest]
+
+      - type: transmog
+        id: 210373 # Arctic Warden's Bracers [plate wrists]
+
+      - type: transmog
+        id: 210354 # Arctic Warden's Gauntlets [plate hands]
+
+      - type: transmog
+        id: 210368 # Arctic Warden's Girdle [plate waist]
+
+      - type: transmog
+        id: 210360 # Arctic Warden's Legplates [plate legs]
+
+      - type: transmog
+        id: 210348 # Arctic Warden's Sabatons [plate feet]
