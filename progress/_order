@@ -61,6 +61,13 @@
 -
 
 dragon-racing/_.yml
+    dragon-racing/emerald_dream.yml
+    dragon-racing/zaralek_cavern.yml
+    dragon-racing/forbidden_reach.yml
+    -
+    dragon-racing/azure_span.yml
+    dragon-racing/ohnahran_plains.yml
+    dragon-racing/thaldraszus.yml
     dragon-racing/waking_shores.yml
 
 world-events/_world_events.yml

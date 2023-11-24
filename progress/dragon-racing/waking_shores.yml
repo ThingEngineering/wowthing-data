@@ -2,153 +2,217 @@ name: "Waking Shores"
 groups:
 
 - name: "Ruby Lifeshrine Loop"
-  icon: ""
-  iconText: "RLL"
+  icon: "achievement/16334"
+  iconText: "WS1"
   lookup: none
   type: dragon-racing
   data:
     0:
       - id: 2042
         name: "Normal"
-        value: 64
-      
+        description: "66 64"
+
       - id: 2044
         name: "Advanced"
-        value: 52
-      
+        description: "57 52"
+
       - id: 2154
         name: "Reverse"
-        value: 50
+        description: "55 50"
 
-- name: "Flashfrost Flyover"
-  icon: ""
-  iconText: "FF"
-  lookup: none
-  type: dragon-racing
-  data:
-    0:
-      - id: 2046
-        name: "Normal"
-        value: 63
-      
-      - id: 2047
-        name: "Advanced"
-        value: 61
-      
-      - id: 2181
-        name: "Reverse"
-        value: 60
+      - id: 2421
+        name: "Challenge"
+        description: "57 54"
+
+      - id: 2422
+        name: "Reverse Challenge"
+        description: "60 57"
 
 - name: "Wild Preserve Slalom"
-  icon: ""
-  iconText: "WPS"
+  icon: "achievement/16334"
+  iconText: "WS2"
   lookup: none
   type: dragon-racing
   data:
     0:
       - id: 2048
         name: "Normal"
-        value: 43
-      
+        description: "45 43"
+
       - id: 2049
         name: "Advanced"
-        value: 40
-      
+        description: "45 40"
+
       - id: 2176
         name: "Reverse"
-        value: 41
+        description: "46 41"
 
-- name: "Wild Preserve Circuit"
-  icon: ""
-  iconText: "WPC"
-  lookup: none
-  type: dragon-racing
-  data:
-    0:
-      - id: 2050
-        name: "Normal"
-        value: 41
-      
-      - id: 2051
-        name: "Advanced"
-        value: 38
-      
-      - id: 2182
-        name: "Reverse"
-        value: 41
+      - id: 2423
+        name: "Challenge"
+        description: "51 48"
 
-- name: "Apex Canopy River Run"
-  icon: ""
-  iconText: "ACRR"
-  lookup: none
-  type: dragon-racing
-  data:
-    0:
-      - id: 2054
-        name: "Normal"
-        value: 48
-      
-      - id: 2055
-        name: "Advanced"
-        value: 45
-      
-      - id: 2178
-        name: "Reverse"
-        value: 48
+      - id: 2424
+        name: "Reverse Challenge"
+        description: "52 49"
 
 - name: "Emberflow Flight"
-  icon: ""
-  iconText: "EF"
+  icon: "achievement/16334"
+  iconText: "WS3"
   lookup: none
   type: dragon-racing
   data:
     0:
       - id: 2052
         name: "Normal"
-        value: 47
-      
+        description: "53 47"
+
       - id: 2053
         name: "Advanced"
-        value: 44
-      
+        description: "49 44"
+
       - id: 2177
         name: "Reverse"
-        value: 45
+        description: "50 45"
 
-- name: Uktulut Coaster"
-  icon: ""
-  iconText: "UC"
+      - id: 2425
+        name: "Challenge"
+        description: "53 50"
+
+      - id: 2426
+        name: "Reverse Challenge"
+        description: "54 51"
+
+- name: "Apex Canopy River Run"
+  icon: "achievement/16334"
+  iconText: "WS4"
+  lookup: none
+  type: dragon-racing
+  data:
+    0:
+      - id: 2054
+        name: "Normal"
+        description: "56 48"
+
+      - id: 2055
+        name: "Advanced"
+        description: "50 45"
+
+      - id: 2178
+        name: "Reverse"
+        description: "53 48"
+
+      - id: 2427
+        name: "Challenge"
+        description: "56 53"
+
+      - id: 2428
+        name: "Reverse Challenge"
+        description: "56 53"
+
+- name: "Uktulut Coaster"
+  icon: "achievement/16334"
+  iconText: "WS5"
   lookup: none
   type: dragon-racing
   data:
     0:
       - id: 2056
         name: "Normal"
-        value: 43
-      
+        description: "48 43"
+
       - id: 2057
         name: "Advanced"
-        value: 40
-      
+        description: "45 40"
+
       - id: 2179
         name: "Reverse"
-        value: 43
+        description: "48 43"
+
+      - id: 2429
+        name: "Challenge"
+        description: "49 46"
+
+      - id: 2430
+        name: "Reverse Challenge"
+        description: "51 48"
 
 - name: "Wingrest Roundabout"
-  icon: ""
-  iconText: "WR"
+  icon: "achievement/16334"
+  iconText: "WS6"
   lookup: none
   type: dragon-racing
   data:
     0:
       - id: 2058
         name: "Normal"
-        value: 53
-      
+        description: "56 53"
+
       - id: 2059
         name: "Advanced"
-        value: 53
-      
+        description: "58 53"
+
       - id: 2180
         name: "Reverse"
-        value: 56
+        description: "61 56"
+
+      - id: 2431
+        name: "Challenge"
+        description: "63 60"
+
+      - id: 2432
+        name: "Reverse Challenge"
+        description: "63 60"
+
+- name: "Flashfrost Flyover"
+  icon: "achievement/16334"
+  iconText: "WS7"
+  lookup: none
+  type: dragon-racing
+  data:
+    0:
+      - id: 2046
+        name: "Normal"
+        description: "66 63"
+
+      - id: 2047
+        name: "Advanced"
+        description: "66 61"
+
+      - id: 2181
+        name: "Reverse"
+        description: "65 60"
+
+      - id: 2433
+        name: "Challenge"
+        description: "67 64"
+
+      - id: 2434
+        name: "Reverse Challenge"
+        description: "74 69"
+
+- name: "Wild Preserve Circuit"
+  icon: "achievement/16334"
+  iconText: "WS8"
+  lookup: none
+  type: dragon-racing
+  data:
+    0:
+      - id: 2050
+        name: "Normal"
+        description: "43 41"
+
+      - id: 2051
+        name: "Advanced"
+        description: "43 38"
+
+      - id: 2182
+        name: "Reverse"
+        description: "46 41"
+
+      - id: 2435
+        name: "Challenge"
+        description: "46 43"
+
+      - id: 2436
+        name: "Reverse Challenge"
+        description: "47 44"

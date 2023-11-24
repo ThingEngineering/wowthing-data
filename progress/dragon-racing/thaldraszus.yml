@@ -1,0 +1,164 @@
+name: "Thaldraszus"
+groups:
+
+- name: "Flowing Forest Flight"
+  icon: "achievement/16363"
+  iconText: "TD1"
+  lookup: none
+  type: dragon-racing
+  data:
+    0:
+      - id: 2080
+        name: "Normal"
+        description: "52 49"
+
+      - id: 2081
+        name: "Advanced"
+        description: "45 40"
+
+      - id: 2194
+        name: "Reverse"
+        description: "46 41"
+
+      - id: 2462
+        name: "Challenge"
+        description: "50 47"
+
+      - id: 2463
+        name: "Reverse Challenge"
+        description: "49 46"
+
+- name: "Tyrhold Trial"
+  icon: "achievement/16363"
+  iconText: "TD2"
+  lookup: none
+  type: dragon-racing
+  data:
+    0:
+      - id: 2092
+        name: "Normal"
+        description: "84 81"
+
+      - id: 2093
+        name: "Advanced"
+        description: "80 75"
+
+      - id: 2195
+        name: "Reverse"
+        description: "64 59"
+
+      - id: 2464
+        name: "Challenge"
+        description: "61 58"
+
+      - id: 2465
+        name: "Reverse Challenge"
+        description: "66 63"
+
+- name: "Cliffside Circuit"
+  icon: "achievement/16363"
+  iconText: "TD3"
+  lookup: none
+  type: dragon-racing
+  data:
+    0:
+      - id: 2096
+        name: "Normal"
+        description: "72 69"
+
+      - id: 2097
+        name: "Advanced"
+        description: "71 66"
+
+      - id: 2196
+        name: "Reverse"
+        description: "74 69"
+
+      - id: 2466
+        name: "Challenge"
+        description: "84 81"
+
+      - id: 2467
+        name: "Reverse Challenge"
+        description: "83 80"
+
+- name: "Academy Ascent"
+  icon: "achievement/16363"
+  iconText: "TD4"
+  lookup: none
+  type: dragon-racing
+  data:
+    0:
+      - id: 2098
+        name: "Normal"
+        description: "57 54"
+
+      - id: 2099
+        name: "Advanced"
+        description: "57 52"
+
+      - id: 2197
+        name: "Reverse"
+        description: "58 53"
+
+      - id: 2468
+        name: "Challenge"
+        description: "68 65"
+
+      - id: 2469
+        name: "Reverse Challenge"
+        description: "68 65"
+
+- name: "Garden Gallivant"
+  icon: "achievement/16363"
+  iconText: "TD5"
+  lookup: none
+  type: dragon-racing
+  data:
+    0:
+      - id: 2101
+        name: "Normal"
+        description: "64 61"
+
+      - id: 2102
+        name: "Advanced"
+        description: "59 54"
+
+      - id: 2198
+        name: "Reverse"
+        description: "62 57"
+
+      - id: 2470
+        name: "Challenge"
+        description: "63 60"
+
+      - id: 2471
+        name: "Reverse Challenge"
+        description: "67 64"
+
+- name: "Caverns Criss-Cross"
+  icon: "achievement/16363"
+  iconText: "TD6"
+  lookup: none
+  type: dragon-racing
+  data:
+    0:
+      - id: 2103
+        name: "Normal"
+        description: "53 50"
+
+      - id: 2104
+        name: "Advanced"
+        description: "50 45"
+
+      - id: 2199
+        name: "Reverse"
+        description: "52 47"
+
+      - id: 2472
+        name: "Challenge"
+        description: "59 56"
+
+      - id: 2473
+        name: "Reverse Challenge"
+        description: "57 54"

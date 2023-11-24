@@ -1,0 +1,164 @@
+name: "Forbidden Reach"
+groups:
+
+- name: "Stormsunder Crater Circuit"
+  icon: "achievement/17534"
+  iconText: "FR1"
+  lookup: none
+  type: dragon-racing
+  data:
+    0:
+      - id: 2201
+        name: "Normal"
+        description: "46 43"
+
+      - id: 2207
+        name: "Advanced"
+        description: "47 42"
+
+      - id: 2213
+        name: "Reverse"
+        description: "47 42"
+
+      - id: 2474
+        name: "Challenge"
+        description: "48 45"
+
+      - id: 2475
+        name: "Reverse Challenge"
+        description: "47 44"
+
+- name: "Morqut Ascent"
+  icon: "achievement/17534"
+  iconText: "FR2"
+  lookup: none
+  type: dragon-racing
+  data:
+    0:
+      - id: 2202
+        name: "Normal"
+        description: "55 52"
+
+      - id: 2208
+        name: "Advanced"
+        description: "54 49"
+
+      - id: 2214
+        name: "Reverse"
+        description: "58 53"
+
+      - id: 2476
+        name: "Challenge"
+        description: "53 50"
+
+      - id: 2477
+        name: "Reverse Challenge"
+        description: "53 50"
+
+- name: "Aerie Chasm Cruise"
+  icon: "achievement/17534"
+  iconText: "FR3"
+  lookup: none
+  type: dragon-racing
+  data:
+    0:
+      - id: 2203
+        name: "Normal"
+        description: "56 53"
+
+      - id: 2209
+        name: "Advanced"
+        description: "55 50"
+
+      - id: 2215
+        name: "Reverse"
+        description: "55 50"
+
+      - id: 2478
+        name: "Challenge"
+        description: "56 53"
+
+      - id: 2479
+        name: "Reverse Challenge"
+        description: "55 52"
+
+- name: "Southern Reach Route"
+  icon: "achievement/17534"
+  iconText: "FR4"
+  lookup: none
+  type: dragon-racing
+  data:
+    0:
+      - id: 2204
+        name: "Normal"
+        description: "73 70"
+
+      - id: 2210
+        name: "Advanced"
+        description: "73 68"
+
+      - id: 2216
+        name: "Reverse"
+        description: "68 63"
+
+      - id: 2480
+        name: "Challenge"
+        description: "73 70"
+
+      - id: 2481
+        name: "Reverse Challenge"
+        description: "71 68"
+
+- name: "Caldera Coaster"
+  icon: "achievement/17534"
+  iconText: "FR5"
+  lookup: none
+  type: dragon-racing
+  data:
+    0:
+      - id: 2205
+        name: "Normal"
+        description: "61 58"
+
+      - id: 2211
+        name: "Advanced"
+        description: "61 58"
+
+      - id: 2217
+        name: "Reverse"
+        description: "55 50"
+
+      - id: 2482
+        name: "Challenge"
+        description: "58 55"
+
+      - id: 2483
+        name: "Reverse Challenge"
+        description: "56 53"
+
+- name: "Forbidden Reach Rush"
+  icon: "achievement/17534"
+  iconText: "FR6"
+  lookup: none
+  type: dragon-racing
+  data:
+    0:
+      - id: 2206
+        name: "Normal"
+        description: "62 59"
+
+      - id: 2212
+        name: "Advanced"
+        description: "61 58"
+
+      - id: 2218
+        name: "Reverse"
+        description: "61 58"
+
+      - id: 2484
+        name: "Challenge"
+        description: "63 60"
+
+      - id: 2485
+        name: "Reverse Challenge"
+        description: "63 60"

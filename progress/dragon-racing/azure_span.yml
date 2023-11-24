@@ -1,0 +1,164 @@
+name: "Azure Span"
+groups:
+
+- name: "Azure Span Sprint"
+  icon: "achievement/16336"
+  iconText: "AS1"
+  lookup: none
+  type: dragon-racing
+  data:
+    0:
+      - id: 2074
+        name: "Normal"
+        description: "66 63"
+
+      - id: 2075
+        name: "Advanced"
+        description: "63 58"
+
+      - id: 2188
+        name: "Reverse"
+        description: "65 60"
+
+      - id: 2450
+        name: "Challenge"
+        description: "70 67"
+
+      - id: 2451
+        name: "Reverse Challenge"
+        description: "72 69"
+
+- name: "Azure Span Slalom"
+  icon: "achievement/16336"
+  iconText: "AS2"
+  lookup: none
+  type: dragon-racing
+  data:
+    0:
+      - id: 2076
+        name: "Normal"
+        description: "61 58"
+
+      - id: 2077
+        name: "Advanced"
+        description: "61 56"
+
+      - id: 2189
+        name: "Reverse"
+        description: "58 53"
+
+      - id: 2452
+        name: "Challenge"
+        description: "58 55"
+
+      - id: 2453
+        name: "Reverse Challenge"
+        description: "58 55"
+
+- name: "Vakthros Ascent"
+  icon: "achievement/16336"
+  iconText: "AS3"
+  lookup: none
+  type: dragon-racing
+  data:
+    0:
+      - id: 2078
+        name: "Normal"
+        description: "61 58"
+
+      - id: 2079
+        name: "Advanced"
+        description: "61 56"
+
+      - id: 2190
+        name: "Reverse"
+        description: "61 56"
+
+      - id: 2454
+        name: "Challenge"
+        description: "66 63"
+
+      - id: 2455
+        name: "Reverse Challenge"
+        description: "67 64"
+
+- name: "Iskaara Tour"
+  icon: "achievement/16336"
+  iconText: "AS4"
+  lookup: none
+  type: dragon-racing
+  data:
+    0:
+      - id: 2083
+        name: "Normal"
+        description: "78 75"
+
+      - id: 2084
+        name: "Advanced"
+        description: "75 70"
+
+      - id: 2191
+        name: "Reverse"
+        description: "72 67"
+
+      - id: 2456
+        name: "Challenge"
+        description: "81 78"
+
+      - id: 2457
+        name: "Reverse Challenge"
+        description: "82 79"
+
+- name: "Frostland Flyover"
+  icon: "achievement/16336"
+  iconText: "AS5"
+  lookup: none
+  type: dragon-racing
+  data:
+    0:
+      - id: 2085
+        name: "Normal"
+        description: "79 76"
+
+      - id: 2086
+        name: "Advanced"
+        description: "77 72"
+
+      - id: 2192
+        name: "Reverse"
+        description: "74 69"
+
+      - id: 2458
+        name: "Challenge"
+        description: "88 85"
+
+      - id: 2459
+        name: "Reverse Challenge"
+        description: "86 83"
+
+- name: "Archive Ambit"
+  icon: "achievement/16336"
+  iconText: "AS6"
+  lookup: none
+  type: dragon-racing
+  data:
+    0:
+      - id: 2089
+        name: "Normal"
+        description: "94 91"
+
+      - id: 2090
+        name: "Advanced"
+        description: "86 81"
+
+      - id: 2193
+        name: "Reverse"
+        description: "81 76"
+
+      - id: 2460
+        name: "Challenge"
+        description: "93 90"
+
+      - id: 2461
+        name: "Reverse Challenge"
+        description: "95 92"

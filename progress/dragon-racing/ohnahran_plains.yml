@@ -1,0 +1,167 @@
+name: "Ohn'ahran Plains"
+groups:
+
+- name: "Sundapple Copse Circuit"
+  icon: "achievement/15394"
+  iconText: "OP1"
+  lookup: none
+  type: dragon-racing
+  data:
+    0:
+      - id: 2060
+        name: "Normal"
+        description: "52 44"
+
+      - id: 2061
+        name: "Advanced"
+        description: "46 41"
+
+      - id: 2183
+        name: "Reverse"
+        description: "50 45"
+
+      - id: 2437
+        name: "Challenge"
+        description: "54 51"
+
+      - id: 2439
+        name: "Reverse Challenge"
+        description: "53 50"
+
+- name: "Fen Flythrough"
+  icon: "achievement/15394"
+  iconText: "OP2"
+  lookup: none
+  type: dragon-racing
+  data:
+    0:
+      - id: 2062
+        name: "Normal"
+        description: "51 44"
+
+      - id: 2063
+        name: "Advanced"
+        description: "46 41"
+
+      - id: 2184
+        name: "Reverse"
+        description: "52 47"
+
+      - id: 2440
+        name: "Challenge"
+        description: "53 50"
+
+      - id: 2441
+        name: "Reverse Challenge"
+        description: "53 50"
+
+- name: "Ravine River Run"
+  icon: "achievement/15394"
+  iconText: "OP3"
+  lookup: none
+  type: dragon-racing
+  data:
+    0:
+      - id: 2064
+        name: "Normal"
+        description: "52 50"
+
+      - id: 2065
+        name: "Advanced"
+        description: "52 47"
+
+      - id: 2185
+        name: "Reverse"
+        description: "51 46"
+
+      - id: 2442
+        name: "Challenge"
+        description: "53 50"
+
+      - id: 2443
+        name: "Reverse Challenge"
+        description: "54 51"
+
+- name: "Emerald Garden Ascent"
+  icon: "achievement/15394"
+  iconText: "OP4"
+  lookup: none
+  type: dragon-racing
+  data:
+    0:
+      - id: 2066
+        name: "Normal"
+        description: "66 59"
+
+      - id: 2067
+        name: "Advanced"
+        description: "60 55"
+
+      - id: 2186
+        name: "Reverse"
+        description: "62 57"
+
+      - id: 2444
+        name: "Challenge"
+        description: "69 66"
+
+      - id: 2445
+        name: "Reverse Challenge"
+        description: "69 66"
+
+- name: "Maruukai Dash"
+  icon: "achievement/15394"
+  iconText: "OP5"
+  lookup: none
+  type: dragon-racing
+  data:
+    0:
+      - id: 2069
+        name: "Normal"
+        description: "28 25"
+
+      - id: 2446
+        name: "Challenge"
+        description: "27 24"
+
+- name: "Mirror of Sky Dash"
+  icon: "achievement/15394"
+  iconText: "OP6"
+  lookup: none
+  type: dragon-racing
+  data:
+    0:
+      - id: 2070
+        name: "Normal"
+        description: "29 26"
+
+      - id: 2447
+        name: "Challenge"
+        description: "30 27"
+
+- name: "River Rapids Route"
+  icon: "achievement/15394"
+  iconText: "OP7"
+  lookup: none
+  type: dragon-racing
+  data:
+    0:
+      - id: 2119
+        name: "Normal"
+        description: "51 46"
+
+      - id: 2120
+        name: "Advanced"
+        description: "48 43"
+
+      - id: 2187
+        name: "Reverse"
+        description: "49 44"
+
+      - id: 2448
+        name: "Challenge"
+        description: "55 52"
+
+      - id: 2449
+        name: "Reverse Challenge"
+        description: "55 52"

@@ -1,0 +1,164 @@
+name: "Emerald Dream"
+groups:
+
+- name: "Ysera Invitational"
+  icon: "achievement/19309"
+  iconText: "ED1"
+  lookup: none
+  type: dragon-racing
+  data:
+    0:
+      - id: 2676
+        name: "Normal"
+        description: "103 98"
+      
+      - id: 2682
+        name: "Advanced"
+        description: "90 87"
+      
+      - id: 2688
+        name: "Reverse"
+        description: "90 87"
+      
+      - id: 2694
+        name: "Challenge"
+        description: "98 95"
+      
+      - id: 2695
+        name: "Challenge Reverse"
+        description: "100 97"
+
+- name: "Smoldering Sprint"
+  icon: "achievement/19309"
+  iconText: "ED2"
+  lookup: none
+  type: dragon-racing
+  data:
+    0:
+      - id: 2677
+        name: "Normal"
+        description: "85 80"
+      
+      - id: 2683
+        name: "Advanced"
+        description: "76 73"
+      
+      - id: 2689
+        name: "Reverse"
+        description: "76 73"
+      
+      - id: 2696
+        name: "Challenge"
+        description: "82 79"
+      
+      - id: 2697
+        name: "Challenge Reverse"
+        description: "83 80"
+
+- name: "Viridescent Venture"
+  icon: "achievement/19309"
+  iconText: "ED3"
+  lookup: none
+  type: dragon-racing
+  data:
+    0:
+      - id: 2678
+        name: "Normal"
+        description: "83 78"
+      
+      - id: 2684
+        name: "Advanced"
+        description: "67 64"
+      
+      - id: 2690
+        name: "Reverse"
+        description: "67 64"
+      
+      - id: 2698
+        name: "Challenge"
+        description: "76 73"
+      
+      - id: 2699
+        name: "Challenge Reverse"
+        description: "76 73"
+
+- name: "Shoreline Switchback"
+  icon: "achievement/19309"
+  iconText: "ED4"
+  lookup: none
+  type: dragon-racing
+  data:
+    0:
+      - id: 2679
+        name: "Normal"
+        description: "78 73"
+      
+      - id: 2685
+        name: "Advanced"
+        description: "66 63"
+      
+      - id: 2691
+        name: "Reverse"
+        description: "65 62"
+      
+      - id: 2700
+        name: "Challenge"
+        description: "73 70"
+      
+      - id: 2701
+        name: "Challenge Reverse"
+        description: "73 70"
+
+- name: "Canopy Concours"
+  icon: "achievement/19309"
+  iconText: "ED5"
+  lookup: none
+  type: dragon-racing
+  data:
+    0:
+      - id: 2680
+        name: "Normal"
+        description: "110 105"
+
+      - id: 2686
+        name: "Advanced"
+        description: "96 93"
+      
+      - id: 2692
+        name: "Reverse"
+        description: "99 96"
+      
+      - id: 2702
+        name: "Challenge"
+        description: "108 105"
+      
+      - id: 2703
+        name: "Challenge Reverse"
+        description: "108 105"
+
+- name: "Emerald Amble"
+  icon: "achievement/19309"
+  iconText: "ED6"
+  lookup: none
+  type: dragon-racing
+  data:
+    0:
+      - id: 2681
+        name: "Normal"
+        description: "89 84"
+      
+      - id: 2687
+        name: "Advanced"
+        description: "73 70"
+      
+      - id: 2693
+        name: "Reverse"
+        description: "73 70"
+      
+      - id: 2704
+        name: "Challenge"
+        description: "76 73"
+      
+      - id: 2705
+        name: "Challenge Reverse"
+        description: "76 73"
