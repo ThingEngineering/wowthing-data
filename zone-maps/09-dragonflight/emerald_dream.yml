@@ -58,9 +58,6 @@ farms:
   type: kill
   drops:
     - type: transmog
-      id: 208349 # Burning Leather Cuffs [leather wrist]
-
-    - type: transmog
       id: 208326 # Vest of the Flametide [leather chest]
 
     - type: transmog
@@ -233,6 +230,9 @@ farms:
   drops:
     - type: transmog
       id: 208323 # Nature's Firebathed Robes [cloth chest]
+    
+    - type: transmog
+      id: 208349 # Burning Leather Cuffs [leather wrist]
 
     - type: transmog
       id: 208358 # Sunset's Bulwark [shield]
@@ -323,6 +323,9 @@ farms:
   questId: 78212
   type: kill
   drops:
+    - type: transmog
+      id: 208381 # Scepter of Still Waters [1h int mace]
+
 - name: "Splinterlimb"
   location: 61.8 52.2
   npcId: 209365
@@ -353,6 +356,7 @@ farms:
 - name: "Talthonei Ashwhisper"
   location: 61.5 67.5 59.2 43.7 62.8 52.1 63.8 69.9 35.1 22.6
   note: "Can spawn after killing fiery druids"
+  npcId: 209902
   questId: 77994
   drops:
     - type: item
@@ -917,7 +921,42 @@ farms:
 
 # Shared
 
-- name: "Shared Recipe Drops"
+- name: "Dreamseed Caches"
+  groupId: 6
+  location: 0 0
+  reset: none
+  type: treasure
+  drops:
+    - type: item
+      id: 207759 # Grotto Netherwing Drake: Cluster Spiked Back
+    
+    - type: item
+      id: 207772 # Grotto Netherwing Drake: Long Horns
+    
+    - type: item
+      id: 207769 # Grotto Netherwing Drake: Outcast Pattern
+    
+    - type: item
+      id: 210174 # Formula: Illusory Adornment: Dreams
+      limit: profession enchanting 2825 25
+
+    - type: item
+      id: 210241 # Recipe: Dreamwalker's Healing Potion
+      limit: profession alchemy 2823 50
+
+    - type: item
+      id: 210242 # Recipe: Slumbering Peacebloom Tea
+      limit: profession cooking 2824 1
+    
+    - type: item
+      id: 210490 # Technique: Vantus Rune: Amirdrassil, the Dream's Hope
+      limit: profession inscription 2828 50
+    
+    - type: item
+      id: 211065 # Technique: Mark of the Auric Dreamstag
+      limit: profession inscription 2828 25
+
+- name: "Shared Rare Drops"
   groupId: 6
   location: 0 0
   reset: none
