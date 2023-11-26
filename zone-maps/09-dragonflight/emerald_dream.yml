@@ -183,6 +183,9 @@ farms:
     - type: transmog
       id: 208348 # Binds of the Shatterer [mail wrist]
 
+    - type: transmog
+      id: 208385 # Flame Endowed Blade [2h sword]
+
 - name: "Keen-eyed Cian"
   location: 40.3 49.2
   npcId: 210046
@@ -374,12 +377,13 @@ farms:
     - type: transmog
       id: 208389 # Spear of the Wilds [polearm]
 
-- name: "Voracious Mikanji"
-  location: 38.4 62.1
-  npcId: 210508
-  questId: 78214
-  type: kill
-  drops:
+# - name: "Voracious Mikanji"
+#   location: 38.4 62.1
+#   npcId: 210508
+#   questId: 78214
+#   type: kill
+#   drops:
+
 # Treasures
 
 - name: "Hidden Moonkin Stash"
