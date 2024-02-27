@@ -167,6 +167,7 @@ groups:
   - Orc 2
   - Orc 3
   - Tauren
+  - Undead
   - Blood Elf
   - Goblin
   - Nightborne
@@ -233,6 +234,21 @@ groups:
         9:  39918 # Wrists
         10: 39914 # Hands
         16: 40741 # Back
+
+    # description=0 (Horde)
+    - name: Heritage of the Forsaken
+      wowheadSetId:
+      items:
+        1:  81999 82000 # Head
+        3:  81983 # Shoulders
+        5:  81984 82812 # Chest
+        6:  81985 # Waist
+        7:  81986 # Legs
+        8:  81987 # Feet
+        9:  81988 # Wrists
+        10: 81989 # Hands
+        16: 81998 # Back
+        19: 82561 82562 # Tabard
 
     # description=0 set=1804
     - name: Heritage of the Sin'dorei
