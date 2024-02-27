@@ -9,6 +9,7 @@ groups:
   - Human 3
   - Dwarf
   - Gnome
+  - Night Elf
   - Worgen
   - Void Elf
   - Lightforged Draenei
@@ -82,6 +83,19 @@ groups:
         9:  39926 # Wrists
         10: 39922 # Hands
         16: 39927 # Back
+
+    # description=0 (Alliance)
+    - name: Heritage of the Kaldorei
+      wowheadSetId:
+      items:
+        1:  82569 # Head
+        3:  82571 # Shoulders
+        5:  82573 # Chest
+        6:  82572 # Waist
+        7:  82567 # Legs
+        8:  82570 # Feet
+        9:  82566 # Wrists
+        10: 82568 # Hands
 
     # description=0 (Alliance) set=1976
     - name: Heritage of Gilneas
