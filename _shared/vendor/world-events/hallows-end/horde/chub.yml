@@ -37,6 +37,11 @@ sells:
     costs:
       1033226: 150
 
+  - type: transmog
+    id: 208735 # Bucket of Morbid Treats [off-hand]
+    costs:
+      1033226: 150
+      
   # - type: mount
   #   id: 37011 # Magic Broom
   #   costs:
