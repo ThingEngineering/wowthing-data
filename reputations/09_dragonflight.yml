@@ -2,6 +2,12 @@ name: "Dragonflight"
 minimumLevel: 60
 reputations:
 
+# 10.2.5
+-
+  - both:
+      id: 2615 # Azerothian Archives
+      icon: "achievement/19685" # Tenured Archivist
+
 # 10.2
 -
   - both:
