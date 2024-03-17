@@ -195,6 +195,9 @@ farms:
 
     - *highlanddrake-manedhead # HighlandDrake > ManedHead
 
+    - type: xpquest
+      id: 69873
+
     - *mages-chewed-wand # Mage's Chewed Wand
 
     - *manafrond-sandals # Manafrond Sandals [cloth ?]
