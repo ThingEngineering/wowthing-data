@@ -10,8 +10,6 @@ tags:
   - "brewfest"
 
 sells:
-  # 0
-
   - type: pet
     id: 166 # Pint-Sized Pink Pachyderm
     costs:
@@ -54,6 +52,16 @@ sells:
 
   - type: toy
     id: 116757 # Steamworks Sausage Grill
+    costs:
+      1037829: 200 # Brewfest Prize Token
+
+  - type: toy
+    id: 209052 # Brew Barrel
+    costs:
+      1037829: 200 # Brewfest Prize Token
+
+  - type: transmog
+    id: 209044 # Orange Brewfest Bulwark [shield]
     costs:
       1037829: 200 # Brewfest Prize Token
 
@@ -104,6 +112,16 @@ sells:
 
   - type: transmog
     id: 33966 # Brewfest Slippers [subclass=5 feet]
+    costs:
+      1037829: 100 # Brewfest Prize Token
+
+  - type: transmog
+    id: 138730 # Synthebrew Goggles XL [head]
+    costs:
+      1037829: 200 # Brewfest Prize Token
+
+  - type: transmog
+    id: 34008 # Blix's Eyesight Enhancing Romance Goggles [head]
     costs:
       1037829: 100 # Brewfest Prize Token
 

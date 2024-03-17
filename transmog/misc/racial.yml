@@ -8,6 +8,7 @@ groups:
   - Human 2
   - Human 3
   - Dwarf
+  - Night Elf
   - Gnome
   - Night Elf
   - Worgen
@@ -57,7 +58,7 @@ groups:
         9:  78432 # Wrists
         10: 78433 # Hands
 
-    # description=0 set=1803
+    # description=0 (Alliance) set=1803
     - name: Heritage of the Bronzebeard
       wowheadSetId:
       items:
@@ -69,6 +70,19 @@ groups:
         8:  39255 # Feet
         9:  39261 # Wrists
         10: 39256 # Hands
+
+    # description=0 (Alliance) set=3121
+    - name: Kaldorei Protector's Adornment
+      wowheadSetId:
+      items:
+        1:  82569 # Head
+        3:  82571 # Shoulders
+        5:  82573 # Chest
+        6:  82572 # Waist
+        7:  82567 # Legs
+        8:  82570 # Feet
+        9:  82566 # Wrists
+        10: 82568 # Hands
 
     # description=0 (Alliance) set=1828
     - name: Heritage of Gnomeregan
@@ -180,6 +194,7 @@ groups:
   - Orc 1
   - Orc 2
   - Orc 3
+  - Undead
   - Tauren
   - Undead
   - Blood Elf
@@ -234,6 +249,21 @@ groups:
         9:  78457 # Wrists
         10: 78458 # Hands
         16: 78462 # Back
+        
+    # description=0 (Horde) set=3086
+    - name: Forsaken Champion's Attire
+      wowheadSetId:
+      items:
+        1:  81999 82000 # Head
+        3:  81983 # Shoulders
+        5:  81984 82812 # Chest
+        6:  81985 # Waist
+        7:  81986 # Legs
+        8:  81987 # Feet
+        9:  81988 # Wrists
+        10: 81989 # Hands
+        16: 81998 # Back
+        19: 82561 82562 # Tabard
 
     # description=0 (Horde) set=1829
     - name: Heritage of the Shu'halo
@@ -249,22 +279,7 @@ groups:
         10: 39914 # Hands
         16: 40741 # Back
 
-    # description=0 (Horde)
-    - name: Heritage of the Forsaken
-      wowheadSetId:
-      items:
-        1:  81999 82000 # Head
-        3:  81983 # Shoulders
-        5:  81984 82812 # Chest
-        6:  81985 # Waist
-        7:  81986 # Legs
-        8:  81987 # Feet
-        9:  81988 # Wrists
-        10: 81989 # Hands
-        16: 81998 # Back
-        19: 82561 82562 # Tabard
-
-    # description=0 set=1804
+    # description=0 (Horde) set=1804
     - name: Heritage of the Sin'dorei
       wowheadSetId:
       items:
@@ -389,7 +404,7 @@ groups:
   - Blood Elf Paladin
   data:
     paladin:
-      # description=0 set=2481
+      # description=0 (Horde) set=2481
       - name: "Blood Knight's Dedication"
         wowheadSetId:
         items:
