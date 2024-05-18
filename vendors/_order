@@ -119,7 +119,9 @@ world-events/_world_events.yml
     world-events/midsummer_fire_festival.yml
     world-events/noblegarden.yml
     world-events/timewalking.yml
+    -
     world-events/09-elemental-invasion.yml
+    world-events/09-mop-remix.yml
 
 -
 

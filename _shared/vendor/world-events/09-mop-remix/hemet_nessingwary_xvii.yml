@@ -1,0 +1,237 @@
+id: 219032
+name: "Hemet Nesingwary XVII"
+note: "Beastmaster"
+
+locations:
+  the_jade_forest:
+    - 42.6 27
+
+sets:
+  - name: "Mounts - Old"
+    range: 13
+    sortKey: 0-mounts-0
+  
+  - name: "Mounts - New"
+    range: -1
+    sortKey: 0-mounts-1
+
+tags:
+  - "mop-remix"
+
+sells:
+  # Flying
+
+  - type: item
+    id: 95059 # Clutch of Ji-Kun
+    costs:
+      2778: 38500
+
+  - type: item
+    id: 87777 # Reins of the Astral Cloud Serpent
+    costs:
+      2778: 18700
+
+  - type: item
+    id: 87771 # Reins of the Heavenly Onyx Cloud Serpent
+    costs:
+      2778: 38500
+
+  - type: item
+    id: 95057 # Reins of the Thundering Cobalt Cloud Serpent
+    costs:
+      2778: 38500
+
+  - type: item
+    id: 104269 # Reins of the Thundering Onyx Cloud Serpent
+    costs:
+      2778: 38500
+
+  - type: item
+    id: 224374 # Reins of the Thundering Ruby Cloud Serpent
+    costs:
+      2778: 38500
+
+  # Ground
+
+  - type: item
+    id: 104253 # Kor'kron Juggernaut
+    costs:
+      2778: 38500
+
+  - type: item
+    id: 89783 # Son of Galleon's Saddle
+    costs:
+      2778: 38500
+
+  - type: item
+    id: 93666 # Spawn of Horridon
+    costs:
+      2778: 38500
+
+  - type: item
+    id: 94230 # Reins of the Amber Primordial Direhorn
+    costs:
+      2778: 18700
+
+  - type: item
+    id: 94228 # Reins of the Cobalt Primordial Direhorn
+    costs:
+      2778: 38500
+
+  - type: item
+    id: 94231 # Reins of the Jade Primordial Direhorn
+    costs:
+      2778: 18700
+
+  - type: item
+    id: 94229 # Reins of the Slate Primordial Direhorn
+    costs:
+      2778: 18700
+
+  # New
+
+  - type: item
+    id: 213595 # Feathered Windsurfer String
+    costs:
+      2778: 2200
+
+  - type: item
+    id: 213626 # Reins of the Purple Shado-Pan Riding Tiger
+    costs:
+      2778: 4400
+
+  # Crane
+
+  - type: item
+    id: 213602 # Reins of the Gilded Riding Crane
+    costs:
+      2778: 2200
+
+  - type: item
+    id: 213607 # Reins of the Luxurious Riding Crane
+    costs:
+      2778: 2200
+
+  - type: item
+    id: 213603 # Reins of the Pale Riding Crane
+    costs:
+      2778: 2200
+
+  - type: item
+    id: 213605 # Reins of the Rose Riding Crane
+    costs:
+      2778: 2200
+
+  - type: item
+    id: 213606 # Reins of the Silver Riding Crane
+    costs:
+      2778: 2200
+
+  - type: item
+    id: 213604 # Reins of the Tropical Riding Crane
+    costs:
+      2778: 2200
+
+  # Disc
+
+  - type: item
+    id: 213576 # Golden Discus
+    costs:
+      2778: 2200
+
+  - type: item
+    id: 213584 # Mogu Hazeblazer
+    costs:
+      2778: 2200
+
+  - type: item
+    id: 213582 # Sky Surfer
+    costs:
+      2778: 2200
+
+  # Goat
+
+  - type: item
+    id: 213609 # Reins of the Little Red Riding Goat
+    costs:
+      2778: 2200
+
+  - type: item
+    id: 213608 # Reins of the Snowy Riding Goat
+    costs:
+      2778: 2200
+
+  # Juggernaut
+
+  - type: item
+    id: 213624 # Cobalt Juggernaut
+    costs:
+      2778: 4400
+
+  - type: item
+    id: 213625 # Fel Iron Juggernaut
+    costs:
+      2778: 4400
+
+  # Mushan
+
+  - type: item
+    id: 213627 # Reins of the Palehide Mushan Beast
+    costs:
+      2778: 2200
+
+  - type: item
+    id: 213628 # Reins of the Riverwalker Mushan
+    costs:
+      2778: 2200
+
+  # Quilen
+
+  - type: item
+    id: 213601 # Reins of the Guardian Quilen
+    costs:
+      2778: 6600
+
+  - type: item
+    id: 213600 # Reins of the Marble Quilen
+    costs:
+      2778: 6600
+
+  # Pterrordax
+
+  - type: item
+    id: 218111 # Reins of the Amber Pterrordax
+    costs:
+      2778: 4400
+
+  - type: item
+    id: 213623 # Reins of the Bloody Skyscreamer
+    costs:
+      2778: 4400
+
+  - type: item
+    id: 213621 # Reins of the Jade Pterrordax
+    costs:
+      2778: 4400
+
+  - type: item
+    id: 213622 # Reins of the Night Pterrorwing
+    costs:
+      2778: 4400
+
+  # Windsteed
+
+  - type: item
+    id: 213598 # Reins of the Dashing Windsteed
+    costs:
+      2778: 6600
+
+  - type: item
+    id: 213596 # Reins of the Daystorm Windsteed
+    costs:
+      2778: 6600
+
+  - type: item
+    id: 213597 # Reins of the Forest Windsteed
+    costs:
+      2778: 6600

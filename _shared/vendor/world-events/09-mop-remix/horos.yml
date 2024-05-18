@@ -1,0 +1,125 @@
+id: 219013
+name: "Horos"
+note: "Rare Collections"
+
+locations:
+  the_jade_forest:
+    - 42.8 27.4
+
+sets:
+  - name: "Toys"
+    range: -1
+    sortKey: 0-toys
+
+tags:
+  - "mop-remix"
+
+sells:
+  # 0
+
+  - type: item
+    id: 86589 # Ai-Li's Skymirror
+    costs:
+      2778: 4950
+      2032: 4566
+
+  - type: item
+    id: 86582 # Aqua Jewel
+    costs:
+      2778: 7700
+
+  - type: item
+    id: 86565 # Battle Horn
+    costs:
+      2778: 3850
+
+  - type: item
+    id: 104302 # Blackflame Daggers
+    costs:
+      2778: 38500
+
+  - type: item
+    id: 134023 # Bottled Tornado
+    costs:
+      2778: 3850
+
+  - type: item
+    id: 86575 # Chalice of Secrets
+    costs:
+      2778: 3850
+
+  - type: item
+    id: 86590 # Essence of the Breeze
+    costs:
+      2778: 3850
+
+  - type: item
+    id: 104309 # Eternal Kiln
+    costs:
+      2778: 50000
+
+  - type: item
+    id: 86578 # Eternal Warrior's Sigil
+    costs:
+      2778: 4950
+
+  - type: item
+    id: 86581 # Farwater Conch
+    costs:
+      2778: 4950
+
+  - type: item
+    id: 98136 # Gastropod Shell
+    costs:
+      2778: 50000
+
+  - type: item
+    id: 86594 # Helpful Wikky's Whistle
+    costs:
+      2778: 3850
+
+  - type: item
+    id: 86593 # Hozen Beach Ball
+    costs:
+      2778: 4950
+
+  - type: item
+    id: 86571 # Kang's Bindstone
+    costs:
+      2778: 3850
+
+  - type: item
+    id: 86568 # Mr. Smite's Brass Compass
+    costs:
+      2778: 7700
+
+  - type: item
+    id: 104262 # Odd Polished Stone
+    costs:
+      2778: 2200
+
+  - type: item
+    id: 86588 # Pandaren Firework Launcher
+    costs:
+      2778: 7700
+
+  - type: item
+    id: 86586 # Panflute of Pandaria
+    costs:
+      2778: 4950
+
+  - type: item
+    id: 86583 # Salyin Battle Banner
+    costs:
+      2778: 4950
+
+  - type: item
+    id: 86573 # Shard of Archstone
+    costs:
+      2778: 4950
+
+  - type: item
+    id: 104331 # Warning Sign
+    costs:
+      2778: 38500
+
