@@ -20,6 +20,7 @@ groups:
     all:
     # description=0 (Alliance) set=2830
     - name: Lion's Heritage
+      questId: 72452 # Go with Honor, Friend
       wowheadSetId:
       items:
         1:  78408 80349 # Head
@@ -33,6 +34,7 @@ groups:
 
     # description=0 (Alliance) set=2830
     - name: Lion's Heritage
+      questId: 72452 # Go with Honor, Friend
       wowheadSetId:
       items:
         1:  78417 80350 # Head
@@ -46,6 +48,7 @@ groups:
 
     # description=0 (Alliance) set=2830
     - name: Lion's Heritage
+      questId: 72452 # Go with Honor, Friend
       wowheadSetId:
       items:
         1:  78426 80348 # Head
@@ -59,6 +62,7 @@ groups:
 
     # description=0 (Alliance) set=1803
     - name: Heritage of the Bronzebeard
+      questId: 53846 # Legacy of the Bronzebeard
       wowheadSetId:
       items:
         1:  39257 # Head
@@ -72,6 +76,7 @@ groups:
 
     # description=0 (Alliance) set=3121
     - name: Kaldorei Protector's Adornment
+      questId: 76213 # Honor of the Goddess
       wowheadSetId:
       items:
         1:  82569 # Head
@@ -85,6 +90,7 @@ groups:
 
     # description=0 (Alliance) set=1828
     - name: Heritage of Gnomeregan
+      questId: 54642 # G.E.A.R. Up
       wowheadSetId:
       items:
         1:  39923 # Head
@@ -99,6 +105,7 @@ groups:
 
     # description=0 (Alliance) set=1976
     - name: Heritage of Gilneas
+      questId: 54990 # The New Guard
       wowheadSetId:
       items:
         1:  41397 # Head
@@ -112,6 +119,7 @@ groups:
 
     # description=0 (Alliance) set=1524
     - name: Heritage of the Ren'dorei
+      achievementId: 12291
       wowheadSetId:
       items:
         1:  36148 # Head
@@ -126,6 +134,7 @@ groups:
 
     # description=0 (Alliance) set=1525
     - name: Heritage of the Lightforged
+      achievementId: 12414
       wowheadSetId:
       items:
         1:  36123 # Head
@@ -139,6 +148,7 @@ groups:
 
     # description=0 (Alliance) set=1679
     - name: Heritage of the Dark Iron
+      achievementId: 13076
       wowheadSetId:
       items:
         1:  37714 # Head
@@ -152,6 +162,7 @@ groups:
 
     # description=0 (Alliance) set=1741
     - name: Heritage of Kul Tiras
+      achievementId: 13504
       wowheadSetId:
       items:
         1:  38873 # Head
@@ -165,6 +176,7 @@ groups:
 
     # description=0 (Alliance) set=1980
     - name: Heritage of the Mechagnome
+      achievementId: 14014
       wowheadSetId:
       items:
         1:  40016 # Head
@@ -195,6 +207,7 @@ groups:
     all:
     # description=0 (Horde) set=2833
     - name: Heritage of Draenor
+      questId: 72479 # Aka'magosh
       wowheadSetId:
       items:
         1:  78435 # Head
@@ -209,6 +222,7 @@ groups:
 
     # description=0 (Horde) set=2834
     - name: Heritage of Draenor
+      questId: 72479 # Aka'magosh
       wowheadSetId:
       items:
         1:  78443 # Head
@@ -223,6 +237,7 @@ groups:
 
     # description=0 (Horde) set=2835
     - name: Heritage of Draenor
+      questId: 72479 # Aka'magosh
       wowheadSetId:
       items:
         1:  78451 # Head
@@ -237,6 +252,7 @@ groups:
         
     # description=0 (Horde) set=3086
     - name: Forsaken Champion's Attire
+      questId: 72867 # I Am Forsaken
       wowheadSetId:
       items:
         1:  81999 82000 # Head
@@ -252,6 +268,7 @@ groups:
 
     # description=0 (Horde) set=1829
     - name: Heritage of the Shu'halo
+      questId: 54765 # Thank Your Guide
       wowheadSetId:
       items:
         1:  39915 # Head
@@ -266,6 +283,7 @@ groups:
 
     # description=0 (Horde) set=1804
     - name: Heritage of the Sin'dorei
+      questId: 54096 # The Fall of the Sunwell
       wowheadSetId:
       items:
         1:  39372 # Head
@@ -280,6 +298,7 @@ groups:
 
     # description=0 (Horde) set=1977
     - name: Heritage of Kezan
+      questId: 57080 # A Fitting Reward
       wowheadSetId:
       items:
         1:  41358 41408 # Head
@@ -293,6 +312,7 @@ groups:
 
     # description=0 (Horde) set=1523
     - name: Heritage of the Shal'dorei
+      achievementId: 12413
       wowheadSetId:
       items:
         1:  36097 # Head
@@ -306,6 +326,7 @@ groups:
 
     # description=0 (Horde) set=1522
     - name: Highmountain's Heritage
+      achievementId: 12415
       wowheadSetId:
       items:
         1:  36105 # Head
@@ -319,6 +340,7 @@ groups:
 
     # description=0 (Horde) set=1680
     - name: Heritage of the Warsong
+      achievementId: 13077
       wowheadSetId:
       items:
         1:  35927 # Head
@@ -332,6 +354,7 @@ groups:
 
     # description=0 (Horde) set=1681
     - name: Heritage of the Blackrock
+      achievementId: 13077
       wowheadSetId:
       items:
         1:  37930 # Head
@@ -345,6 +368,7 @@ groups:
 
     # description=0 (Horde) set=1682
     - name: Heritage of the Frostwolves
+      achievementId: 13077
       wowheadSetId:
       items:
         1:  37938 # Head
@@ -358,6 +382,7 @@ groups:
 
     # description=0 (Horde) set=1742
     - name: Heritage of the Zandalari
+      achievementId: 13503
       wowheadSetId:
       items:
         1:  37768 # Head
@@ -371,6 +396,7 @@ groups:
 
     # description=0 (Horde) set=1981
     - name: Heritage of the Vulpera
+      achievementId: 14002
       wowheadSetId:
       items:
         1:  41356 # Head
@@ -391,6 +417,7 @@ groups:
     paladin:
       # description=0 (Horde) set=2481
       - name: "Blood Knight's Dedication"
+        questId: 63490 # Blood Knight
         wowheadSetId:
         items:
           1:  34746 # Head
