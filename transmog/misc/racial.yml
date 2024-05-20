@@ -4,64 +4,51 @@ groups:
 - name: 'Alliance'
   type: all
   sets:
+  - Draenei 1
+  - Draenei 2
+  - Dwarf
+  - Gnome
   - Human 1
   - Human 2
   - Human 3
-  - Dwarf
   - Night Elf
-  - Gnome
   - Worgen
-  - Void Elf
-  - Lightforged Draenei
   - Dark Iron Dwarf
   - Kul Tiran
+  - Lightforged Draenei
   - Mechagnome
+  - Void Elf
   data:
     all:
-    # description=0 (Alliance) set=2830
-    - name: Lion's Heritage
-      questId: 72452 # Go with Honor, Friend
+    # description=14015 (Alliance) set=3346
+    - name: "Embrace of Lost Embaari" # Draenei
       wowheadSetId:
       items:
-        1:  78408 80349 # Head
-        3:  78409 # Shoulders
-        5:  78410 78416 # Chest
-        6:  78411 80351 # Waist
-        7:  78412 # Legs
-        8:  78413 # Feet
-        9:  78414 # Wrists
-        10: 78415 # Hands
+        1:  83280 # Head
+        3:  83281 # Shoulders
+        5:  83282 # Chest
+        6:  83283 # Waist
+        7:  83284 # Legs
+        8:  83285 # Feet
+        9:  83286 # Wrists
+        10: 83287 # Hands
 
-    # description=0 (Alliance) set=2830
-    - name: Lion's Heritage
-      questId: 72452 # Go with Honor, Friend
+    # description=14097 (Alliance) set=3347
+    - name: "Endurance of Temple Telhamat"
+      questId: 78083 # Our Path Forward # Draenei
       wowheadSetId:
       items:
-        1:  78417 80350 # Head
-        3:  78418 # Shoulders
-        5:  78419 78425 # Chest
-        6:  78420 80359 # Waist
-        7:  78421 # Legs
-        8:  78422 # Feet
-        9:  78423 # Wrists
-        10: 78424 # Hands
-
-    # description=0 (Alliance) set=2830
-    - name: Lion's Heritage
-      questId: 72452 # Go with Honor, Friend
-      wowheadSetId:
-      items:
-        1:  78426 80348 # Head
-        3:  78427 # Shoulders
-        5:  78428 78434 # Chest
-        6:  78429 80358 # Waist
-        7:  78430 # Legs
-        8:  78431 # Feet
-        9:  78432 # Wrists
-        10: 78433 # Hands
+        1:  83289 # Head
+        3:  83290 # Shoulders
+        5:  83291 # Chest
+        6:  83292 # Waist
+        7:  83293 # Legs
+        8:  83294 # Feet
+        9:  83295 # Wrists
+        10: 83296 # Hands
 
     # description=0 (Alliance) set=1803
-    - name: Heritage of the Bronzebeard
+    - name: Heritage of the Bronzebeard # Dwarf
       questId: 53846 # Legacy of the Bronzebeard
       wowheadSetId:
       items:
@@ -74,22 +61,8 @@ groups:
         9:  39261 # Wrists
         10: 39256 # Hands
 
-    # description=0 (Alliance) set=3121
-    - name: Kaldorei Protector's Adornment
-      questId: 76213 # Honor of the Goddess
-      wowheadSetId:
-      items:
-        1:  82569 # Head
-        3:  82571 # Shoulders
-        5:  82573 # Chest
-        6:  82572 # Waist
-        7:  82567 # Legs
-        8:  82570 # Feet
-        9:  82566 # Wrists
-        10: 82568 # Hands
-
     # description=0 (Alliance) set=1828
-    - name: Heritage of Gnomeregan
+    - name: Heritage of Gnomeregan # Gnome
       questId: 54642 # G.E.A.R. Up
       wowheadSetId:
       items:
@@ -103,8 +76,64 @@ groups:
         10: 39922 # Hands
         16: 39927 # Back
 
+    # description=0 (Alliance) set=2830
+    - name: Lion's Heritage # Human
+      questId: 72452 # Go with Honor, Friend
+      wowheadSetId:
+      items:
+        1:  78408 80349 # Head
+        3:  78409 # Shoulders
+        5:  78410 78416 # Chest
+        6:  78411 80351 # Waist
+        7:  78412 # Legs
+        8:  78413 # Feet
+        9:  78414 # Wrists
+        10: 78415 # Hands
+
+    # description=0 (Alliance) set=2830
+    - name: Lion's Heritage # Human
+      questId: 72452 # Go with Honor, Friend
+      wowheadSetId:
+      items:
+        1:  78417 80350 # Head
+        3:  78418 # Shoulders
+        5:  78419 78425 # Chest
+        6:  78420 80359 # Waist
+        7:  78421 # Legs
+        8:  78422 # Feet
+        9:  78423 # Wrists
+        10: 78424 # Hands
+
+    # description=0 (Alliance) set=2830
+    - name: Lion's Heritage # Human
+      questId: 72452 # Go with Honor, Friend
+      wowheadSetId:
+      items:
+        1:  78426 80348 # Head
+        3:  78427 # Shoulders
+        5:  78428 78434 # Chest
+        6:  78429 80358 # Waist
+        7:  78430 # Legs
+        8:  78431 # Feet
+        9:  78432 # Wrists
+        10: 78433 # Hands
+
+    # description=0 (Alliance) set=3121
+    - name: Kaldorei Protector's Adornment # Night Elf
+      questId: 76213 # Honor of the Goddess
+      wowheadSetId:
+      items:
+        1:  82569 # Head
+        3:  82571 # Shoulders
+        5:  82573 # Chest
+        6:  82572 # Waist
+        7:  82567 # Legs
+        8:  82570 # Feet
+        9:  82566 # Wrists
+        10: 82568 # Hands
+
     # description=0 (Alliance) set=1976
-    - name: Heritage of Gilneas
+    - name: Heritage of Gilneas # Worgen
       questId: 54990 # The New Guard
       wowheadSetId:
       items:
@@ -117,37 +146,8 @@ groups:
         9:  41401 # Wrists
         10: 41400 # Hands
 
-    # description=0 (Alliance) set=1524
-    - name: Heritage of the Ren'dorei
-      achievementId: 12291
-      wowheadSetId:
-      items:
-        1:  36148 # Head
-        3:  36151 # Shoulders
-        5:  36147 # Chest
-        6:  36145 # Waist
-        7:  36150 # Legs
-        8:  36146 # Feet
-        9:  36152 # Wrists
-        10: 36149 # Hands
-        16: 36153 # Back
-
-    # description=0 (Alliance) set=1525
-    - name: Heritage of the Lightforged
-      achievementId: 12414
-      wowheadSetId:
-      items:
-        1:  36123 # Head
-        3:  36127 # Shoulders
-        5:  36124 # Chest
-        6:  36121 # Waist
-        7:  36126 # Legs
-        8:  36122 # Feet
-        9:  36128 # Wrists
-        10: 36125 # Hands
-
     # description=0 (Alliance) set=1679
-    - name: Heritage of the Dark Iron
+    - name: Heritage of the Dark Iron # Dark Iron Dwarf
       achievementId: 13076
       wowheadSetId:
       items:
@@ -161,7 +161,7 @@ groups:
         10: 37713 # Hands
 
     # description=0 (Alliance) set=1741
-    - name: Heritage of Kul Tiras
+    - name: Heritage of Kul Tiras # Kul Tiran
       achievementId: 13504
       wowheadSetId:
       items:
@@ -174,8 +174,22 @@ groups:
         9:  38876 # Wrists
         10: 38872 # Hands
 
+    # description=0 (Alliance) set=1525
+    - name: Heritage of the Lightforged # Lightforged Draenei
+      achievementId: 12414
+      wowheadSetId:
+      items:
+        1:  36123 # Head
+        3:  36127 # Shoulders
+        5:  36124 # Chest
+        6:  36121 # Waist
+        7:  36126 # Legs
+        8:  36122 # Feet
+        9:  36128 # Wrists
+        10: 36125 # Hands
+
     # description=0 (Alliance) set=1980
-    - name: Heritage of the Mechagnome
+    - name: Heritage of the Mechagnome # Mechagnome
       achievementId: 14014
       wowheadSetId:
       items:
@@ -186,103 +200,45 @@ groups:
         7:  41347 # Legs
         16: 41357 # Back
 
+    # description=0 (Alliance) set=1524
+    - name: Heritage of the Ren'dorei # Void Elf
+      achievementId: 12291
+      wowheadSetId:
+      items:
+        1:  36148 # Head
+        3:  36151 # Shoulders
+        5:  36147 # Chest
+        6:  36145 # Waist
+        7:  36150 # Legs
+        8:  36146 # Feet
+        9:  36152 # Wrists
+        10: 36149 # Hands
+        16: 36153 # Back
+
 - name: 'Horde'
   type: all
   sets:
+  - Blood Elf
+  - Goblin
   - Orc 1
   - Orc 2
   - Orc 3
-  - Undead
   - Tauren
-  - Blood Elf
-  - Goblin
-  - Nightborne
+  - Troll 1
+  - Troll 2
+  - Undead
   - Highmountain Tauren
   - Mag'har Orc 1
   - Mag'har Orc 2
   - Mag'har Orc 3
-  - Zandalari Troll
+  - Nightborne
   - Vulpera
+  - Zandalari Troll
   data:
     all:
-    # description=0 (Horde) set=2833
-    - name: Heritage of Draenor
-      questId: 72479 # Aka'magosh
-      wowheadSetId:
-      items:
-        1:  78435 # Head
-        3:  78436 # Shoulders
-        5:  78437 # Chest
-        6:  78438 # Waist
-        7:  78439 # Legs
-        8:  78440 # Feet
-        9:  78441 # Wrists
-        10: 78442 # Hands
-        16: 78460 # Back
-
-    # description=0 (Horde) set=2834
-    - name: Heritage of Draenor
-      questId: 72479 # Aka'magosh
-      wowheadSetId:
-      items:
-        1:  78443 # Head
-        3:  78444 # Shoulders
-        5:  78445 # Chest
-        6:  78446 # Waist
-        7:  78447 # Legs
-        8:  78448 # Feet
-        9:  78449 # Wrists
-        10: 78450 # Hands
-        16: 78461 # Back
-
-    # description=0 (Horde) set=2835
-    - name: Heritage of Draenor
-      questId: 72479 # Aka'magosh
-      wowheadSetId:
-      items:
-        1:  78451 # Head
-        3:  78452 # Shoulders
-        5:  78453 # Chest
-        6:  78454 # Waist
-        7:  78455 # Legs
-        8:  78456 # Feet
-        9:  78457 # Wrists
-        10: 78458 # Hands
-        16: 78462 # Back
-        
-    # description=0 (Horde) set=3086
-    - name: Forsaken Champion's Attire
-      questId: 72867 # I Am Forsaken
-      wowheadSetId:
-      items:
-        1:  81999 82000 # Head
-        3:  81983 # Shoulders
-        5:  81984 82812 # Chest
-        6:  81985 # Waist
-        7:  81986 # Legs
-        8:  81987 # Feet
-        9:  81988 # Wrists
-        10: 81989 # Hands
-        16: 81998 # Back
-        19: 82561 82562 # Tabard
-
-    # description=0 (Horde) set=1829
-    - name: Heritage of the Shu'halo
-      questId: 54765 # Thank Your Guide
-      wowheadSetId:
-      items:
-        1:  39915 # Head
-        3:  39917 # Shoulders
-        5:  40748 # Chest
-        6:  39907 # Waist
-        7:  39916 # Legs
-        8:  39908 # Feet
-        9:  39918 # Wrists
-        10: 39914 # Hands
-        16: 40741 # Back
 
     # description=0 (Horde) set=1804
-    - name: Heritage of the Sin'dorei
+    - name: Heritage of the Sin'dorei # Blood Elf
       questId: 54096 # The Fall of the Sunwell
       wowheadSetId:
       items:
@@ -297,7 +253,7 @@ groups:
         16: 39377 # Back
 
     # description=0 (Horde) set=1977
-    - name: Heritage of Kezan
+    - name: Heritage of Kezan # Goblin
       questId: 57080 # A Fitting Reward
       wowheadSetId:
       items:
@@ -310,22 +266,112 @@ groups:
         9:  41363 # Wrists
         10: 41364 # Hands
 
-    # description=0 (Horde) set=1523
-    - name: Heritage of the Shal'dorei
-      achievementId: 12413
+    # description=0 (Horde) set=2833
+    - name: Heritage of Draenor # Orc
+      questId: 72479 # Aka'magosh
       wowheadSetId:
       items:
-        1:  36097 # Head
-        3:  36100 # Shoulders
-        5:  36102 # Chest
-        6:  36094 # Waist
-        7:  36099 # Legs
-        8:  36095 # Feet
-        9:  36101 # Wrists
-        10: 36098 # Hands
+        1:  78435 # Head
+        3:  78436 # Shoulders
+        5:  78437 # Chest
+        6:  78438 # Waist
+        7:  78439 # Legs
+        8:  78440 # Feet
+        9:  78441 # Wrists
+        10: 78442 # Hands
+        16: 78460 # Back
+
+    # description=0 (Horde) set=2834
+    - name: Heritage of Draenor # Orc
+      questId: 72479 # Aka'magosh
+      wowheadSetId:
+      items:
+        1:  78443 # Head
+        3:  78444 # Shoulders
+        5:  78445 # Chest
+        6:  78446 # Waist
+        7:  78447 # Legs
+        8:  78448 # Feet
+        9:  78449 # Wrists
+        10: 78450 # Hands
+        16: 78461 # Back
+
+    # description=0 (Horde) set=2835
+    - name: Heritage of Draenor # Orc
+      questId: 72479 # Aka'magosh
+      wowheadSetId:
+      items:
+        1:  78451 # Head
+        3:  78452 # Shoulders
+        5:  78453 # Chest
+        6:  78454 # Waist
+        7:  78455 # Legs
+        8:  78456 # Feet
+        9:  78457 # Wrists
+        10: 78458 # Hands
+        16: 78462 # Back
+
+    # description=0 (Horde) set=1829
+    - name: Heritage of the Shu'halo # Tauren
+      questId: 54765 # Thank Your Guide
+      wowheadSetId:
+      items:
+        1:  39915 # Head
+        3:  39917 # Shoulders
+        5:  40748 # Chest
+        6:  39907 # Waist
+        7:  39916 # Legs
+        8:  39908 # Feet
+        9:  39918 # Wrists
+        10: 39914 # Hands
+        16: 40741 # Back
+
+    # description=14125 (Horde) set=3350
+    - name: "Covenant of the Darkspear" # Troll
+      wowheadSetId:
+      items:
+        1:  83334 # Head
+        3:  83335 # Shoulders
+        5:  83336 # Chest
+        6:  83337 # Waist
+        7:  83338 # Legs
+        8:  83339 # Feet
+        9:  83340 # Wrists
+        10: 83341 # Hands
+        16: 83342 # Back
+
+    # Red (Horde) set=3515
+    - name: "Loyalty of the Darkspear" # Troll
+      wowheadSetId:
+      items:
+        1:  85116 # Head
+        3:  85117 # Shoulders
+        5:  85115 # Chest
+        6:  85118 # Waist
+        7:  85119 # Legs
+        8:  85120 # Feet
+        9:  85121 # Wrists
+        10: 85122 # Hands
+        16: 85123 # Back
+
+    # description=0 (Horde) set=3086
+    - name: Forsaken Champion's Attire # Undead
+      questId: 72867 # I Am Forsaken
+      wowheadSetId:
+      items:
+        1:  81999 82000 # Head
+        3:  81983 # Shoulders
+        5:  81984 82812 # Chest
+        6:  81985 # Waist
+        7:  81986 # Legs
+        8:  81987 # Feet
+        9:  81988 # Wrists
+        10: 81989 # Hands
+        16: 81998 # Back
+        19: 82561 82562 # Tabard
 
     # description=0 (Horde) set=1522
-    - name: Highmountain's Heritage
+    - name: Highmountain's Heritage # Highmountain Tauren
       achievementId: 12415
       wowheadSetId:
       items:
@@ -340,7 +386,7 @@ groups:
 
     # description=0 (Horde) set=1680
     - name: Heritage of the Warsong
-      achievementId: 13077
+      achievementId: 13077 # Mag'har Orc
       wowheadSetId:
       items:
         1:  35927 # Head
@@ -354,7 +400,7 @@ groups:
 
     # description=0 (Horde) set=1681
     - name: Heritage of the Blackrock
-      achievementId: 13077
+      achievementId: 13077 # Mag'har Orc
       wowheadSetId:
       items:
         1:  37930 # Head
@@ -368,7 +414,7 @@ groups:
 
     # description=0 (Horde) set=1682
     - name: Heritage of the Frostwolves
-      achievementId: 13077
+      achievementId: 13077 # Mag'har Orc
       wowheadSetId:
       items:
         1:  37938 # Head
@@ -380,23 +426,23 @@ groups:
         9:  37941 # Wrists
         10: 37937 # Hands
 
-    # description=0 (Horde) set=1742
-    - name: Heritage of the Zandalari
-      achievementId: 13503
+    # description=0 (Horde) set=1523
+    - name: Heritage of the Shal'dorei # Nightborne
+      achievementId: 12413
       wowheadSetId:
       items:
-        1:  37768 # Head
-        3:  37770 # Shoulders
-        5:  37766 # Chest
-        6:  37764 # Waist
-        7:  37769 # Legs
-        8:  37765 # Feet
-        9:  37771 # Wrists
-        10: 37767 # Hands
+        1:  36097 # Head
+        3:  36100 # Shoulders
+        5:  36102 # Chest
+        6:  36094 # Waist
+        7:  36099 # Legs
+        8:  36095 # Feet
+        9:  36101 # Wrists
+        10: 36098 # Hands
 
     # description=0 (Horde) set=1981
     - name: Heritage of the Vulpera
-      achievementId: 14002
+      achievementId: 14002 # Vulpera
       wowheadSetId:
       items:
         1:  41356 # Head
@@ -408,6 +454,20 @@ groups:
         #9:  40284 # Wrists - everyone, wtf Blizzard
         10: 41351 # Hands
         16: 41525 # Back
+
+    # description=0 (Horde) set=1742
+    - name: Heritage of the Zandalari
+      achievementId: 13503 # Zandalari Troll
+      wowheadSetId:
+      items:
+        1:  37768 # Head
+        3:  37770 # Shoulders
+        5:  37766 # Chest
+        6:  37764 # Waist
+        7:  37769 # Legs
+        8:  37765 # Feet
+        9:  37771 # Wrists
+        10: 37767 # Hands
 
 - name: 'Horde'
   type: class
