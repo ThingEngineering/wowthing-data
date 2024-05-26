@@ -26,11 +26,11 @@ groups:
   - 1612 # Loyal Magmammoth
   - 1629 # Scrappy Worldsnail
 
-- name: "Forbidden Reach, The"
+- name: "Forbidden Reach"
   things:
     - 1467 # Noble Bruffalon (Storykeeper Ashekh)
 
-- name: "Primalist Future, The"
+- name: "Primalist Future"
   things:
     - 1478 # Skyskin Hornstrider
 
@@ -39,6 +39,10 @@ groups:
     - 1736 # Boulder Hauler (Ponzo)
     - 1730 # Igneous Shalewing (Sacratros)
     - 1603 # Subterranean Magmammoth (Sacratros)
+
+- name: "Dreamsurges"
+  things:
+    - 1671 # Duskwing Ohuna (Celestine)
 
 - name: "Emerald Dream"
   things:
@@ -56,3 +60,7 @@ groups:
     - 1940 # Salatrancer
     - 1839 # Stargrazer
     - 1838 # Talont
+
+- name: "Azerothian Archives"
+  things:
+    - 1671 # Explorer's Stonehide Packbeast (Provisioner Aristta)
