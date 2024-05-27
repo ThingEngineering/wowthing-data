@@ -3,19 +3,20 @@ groups:
 
 - name: "PvP"
   things:
-    - 1819 # Vicious Moonbeast [H] (Season 3)
-    - 1820 # Vicious Moonbeast [H] (Season 3)
+  - 2056 # Vicious Dreamtalon [A] (Season 4)
+  - 2057 # Vicious Dreamtalon [H] (Season 4)
 
 - name: "Treasures"
   things:
-    - 1469 # Magmashell
-    - 1815 # Winter Night Dreamsaber (Dreamseed Cache, Emerald Dream)
+  - 1469 # Magmashell
+  - 1815 # Winter Night Dreamsaber (Dreamseed Cache, Emerald Dream)
+  - 1623 # Seething Slug (Seething Cache)
 
 - name: "World Events"
   things:
-    - 1635 # Plainswalker Bearer (Grand Hunts)
-    - 1627 # Gooey Snailemental (Primal Storm, Forbidden Reach)
-    - 1735 # Cataloged Shalewing (Researchers Under Fire)
-    - 1813 # Mimiron's Jumpjets (Secrets of Azeroth)
-    - 1794 # Pattie (Secrets of Azeroth)
-    - 1645 # Renewed Magmammoth (Dreamsurges)
+  - 1635 # Plainswalker Bearer (Grand Hunts)
+  - 1627 # Gooey Snailemental (Primal Storm, Forbidden Reach)
+  - 1735 # Cataloged Shalewing (Researchers Under Fire)
+  - 1813 # Mimiron's Jumpjets (Secrets of Azeroth)
+  - 1794 # Pattie (Secrets of Azeroth)
+  - 1645 # Renewed Magmammoth (Dreamsurges)
