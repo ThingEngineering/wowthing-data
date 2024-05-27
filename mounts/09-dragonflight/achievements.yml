@@ -3,12 +3,24 @@ groups:
 
 - name: "Dungeons"
   things:
-    - 1626 # Shellack
-    - 1801 # Verdant Armoredon (KSM Season 3)
+  - 1626 # Shellack
+  - 2055 # Infinite Armoredon (KSM Season 4)
 
 - name: "Raids"
   things:
-    - 1644 # Raging Magmammoth (Glory of the Vault Raider)
-    - 1734 # Shadowflame Shalewing (Glory of the Aberrus Raider)
-    - 1814 # Shadow Dusk Dreamsaber (Glory of the Dream Raider)
-    - 2091 # Voyaging Wilderling (Awakening the Dragonflight Raids)
+  - 1644 # Raging Magmammoth (Glory of the Vault Raider)
+  - 1734 # Shadowflame Shalewing (Glory of the Aberrus Raider)
+  - 1814 # Shadow Dusk Dreamsaber (Glory of the Dream Raider)
+  - 2091 # Voyaging Wilderling (Awakening the Dragonflight Raids)
+
+- name: "A World Awoken"
+  things:
+  - 1825 # Taivan (A World Awoken)
+  - 1614 # Stormtouched Bruffalon (Across the Isles)
+  - 1669 # Bestowed Ohuna Spotter (Wake Me Up)
+  - 1474 # Bestowed Thunderspine Packleader (Centaur of Attention)
+  - 1633 # Bestowed Trawling Mammoth (Armt of the Fed)
+  - 1651 # Bestowed Ottuk Vanguard (Flight Club)
+  - 1618 # Bestowed Sandskimmer (Closing Time)
+  - 1621 # Coralscale Salamanther (Into the Storm)
+  - 1733 # Calescent Shalewing (Que Zara(lek), Zara(lek))
