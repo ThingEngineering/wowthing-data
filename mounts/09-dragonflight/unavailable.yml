@@ -3,18 +3,27 @@ groups:
 
 - name: "Arena"
   things:
-    - 1660 # Crimson Gladiator's Drake (Season 1)
-    - 1739 # Obsidian Gladiator's Slitherdrake (Season 2)
-    - 1831 # Verdant Gladiator's Slitherdrake (Season 3)
+  - 1660 # Crimson Gladiator's Drake (Season 1)
+  - 1739 # Obsidian Gladiator's Slitherdrake (Season 2)
+  - 1831 # Verdant Gladiator's Slitherdrake (Season 3)
 
 - name: "Mythic+"
   things:
-    - 1681 # Hailstorm Armoredon (KSM Season 1)
-    - 1725 # Inferno Armoredon (KSM Season 2)
+  - 1681 # Hailstorm Armoredon (KSM Season 1)
+  - 1725 # Inferno Armoredon (KSM Season 2)
+  - 1801 # Verdant Armoredon (KSM Season 3)
 
 - name: "PvP"
   things:
-    - 1688 1689 # Vicious Sabertooth [A] (Season 1)
-    - 1689 1688 # Vicious Sabertooth [H] (Season 1)
-    - 1740 1741 # Vicious War Snail [A] (Season 2)
-    - 1741 1740 # Vicious War Snail [H] (Season 2)
+  - 1689 # Vicious Sabertooth [A] (Season 1)
+  - 1688 # Vicious Sabertooth [H] (Season 1)
+  - 1741 # Vicious War Snail [A] (Season 2)
+  - 1740 # Vicious War Snail [H] (Season 2)
+  - 1819 # Vicious Moonbeast [A] (Season 3)
+  - 1820 # Vicious Moonbeast [H] (Season 3)
+
+- name: "Plunderstorm"
+  things:
+  - 1259 # Silver Tidestallion
+  - 994 # Royal Seafeather
+  - 2090 # Polly Roger
