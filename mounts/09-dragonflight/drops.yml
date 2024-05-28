@@ -3,16 +3,17 @@ groups:
 
 - name: "Azure Span, The"
   things:
-    - 1553 # Liberated Slyvern
+  - 1553 # Liberated Slyvern
+  - 2038 # Clayscale Hornstrider
 
 - name: "Ohn'ahran Plains"
   things:
-    - 1672 # Zenet Hatchling (Zenet Egg)
+  - 1672 # Zenet Hatchling (Zenet Egg)
 
 - name: "Forbidden Reach, The"
   things:
-    - 1619 # Ancient Salamanther (rares)
+  - 1619 # Ancient Salamanther (rares)
 
 - name: "Zaralek Cavern"
   things:
-    - 1732 # Cobalt Shalewing (Karoktra)
+  - 1732 # Cobalt Shalewing (Karoktra)

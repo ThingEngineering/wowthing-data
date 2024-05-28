@@ -3,16 +3,36 @@ groups:
 
 - name: "Quests"
   things:
-    - 1591 # Cliffside Wylderdrake (Dragon Isles: Cliffsyde Wylderdrake)
-    - 1563 # Highland Drake (Dragon Isles: Highland Drake)
-    - 1589 # Renewed Proto-Drake (Dragon Isles: A New Friend)
-    - 1590 # Windborne Velocidrake (Dragon Isles: Windborne Velocidrake)
-    - 1830 # Flourishing Whimsydrake (Emerald Welcome)
+  - 1591 # Cliffside Wylderdrake (Dragon Isles: Cliffsyde Wylderdrake)
+  - 1563 # Highland Drake (Dragon Isles: Highland Drake)
+  - 1589 # Renewed Proto-Drake (Dragon Isles: A New Friend)
+  - 1590 # Windborne Velocidrake (Dragon Isles: Windborne Velocidrake)
+  - 1830 # Flourishing Whimsydrake (Emerald Welcome)
 
 - name: "Ohn'ahran Plains"
   things:
   - 1639 # Lizi, Thunderspine Tramper
 
-- name: "???"
+- name: "Azure Span"
+  things:
+  - 1727 # Tarecgosa's Visage
+
+- name: "Zaralek Cavern"
+  things:
+  - 1729 # Big Slick in the City
+
+- name: "Emerald Dream"
+  things:
+  - 1834 # Ochre Dreamtalon
+
+- name: "Otto"
   things:
   - 1656 # Otto
+
+- name: "Naxxramas"
+  things:
+  - 1774 # Valiance
+
+- name: "Gilneas"
+  things:
+  - 1949 # Gilnean Prowler
