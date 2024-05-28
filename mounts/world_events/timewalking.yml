@@ -4,6 +4,7 @@ groups:
 - name: Achievements
   things:
   - 1532 # Soaring Spelltome
+  - 1737 # Sandy Shalewing (Timewalking thing)
 
 - name: Misc
   things:
