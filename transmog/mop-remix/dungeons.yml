@@ -1,0 +1,42 @@
+name: Dungeons
+groups:
+
+# group 243
+- name: "Dungeon Sets"
+  type: armor
+  sets:
+    - Dungeon 1
+    - Dungeon 2
+    - Dungeon 3
+  data:
+    cloth:
+      # Breezebinder's Vestments
+      - transmogSetId: 3365
+
+      - transmogSetId: 3369
+        
+      - transmogSetId: 3370
+    
+    leather:
+      # Mogubreaker Battlegear
+      - transmogSetId: 3382
+
+      - transmogSetId: 3383
+        
+      - transmogSetId: 3385
+    
+    mail:
+      # Mogu Lord's Regalia
+      - transmogSetId: 3400
+
+      - transmogSetId: 3401
+        
+      - transmogSetId: 3402
+    
+    plate:
+      # Swarmbreaker's Battleplate
+      - transmogSetId: 3420
+
+      - transmogSetId: 3421
+        
+      - transmogSetId: 3422

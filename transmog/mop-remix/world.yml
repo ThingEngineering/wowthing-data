@@ -1,0 +1,82 @@
+name: World
+groups:
+
+# group 243
+- name: "World Sets"
+  type: armor
+  sets:
+    - World 1-A
+    - World 1-B
+    - World 1-C
+    - World 1-D
+    - World 2-A
+    - World 2-B
+    - World 2-C
+    - World 2-D
+    - World 3-A
+    - World 3-B
+    - World 3-C
+  data:
+    cloth:
+      # Mistwalker's Vestments
+      - transmogSetId: 3374
+      - transmogSetId: 3375
+      - transmogSetId: 3376
+      - null
+      # Spirit-Waker's Vestments
+      - transmogSetId: 3371
+      - transmogSetId: 3372
+      - transmogSetId: 3373
+      - null
+      # Vestments of the Eternal Dynasty
+      - transmogSetId: 3377
+      - transmogSetId: 3378
+      - transmogSetId: 3379
+
+    leather:
+      # Mistveil Leathers
+      - transmogSetId: 3390
+      - transmogSetId: 3391
+      - transmogSetId: 3392
+      - transmogSetId: 3393
+      # Thunderpaw Battlegear
+      - transmogSetId: 3386
+      - transmogSetId: 3387
+      - transmogSetId: 3388
+      - transmogSetId: 3389
+      # Snowdrift Battlegear
+      - transmogSetId: 3397
+      - transmogSetId: 3398
+      - transmogSetId: 3399
+
+    mail:
+      # Jade Guardian's Regalia
+      - transmogSetId: 3416
+      - transmogSetId: 3417
+      - transmogSetId: 3418
+      - transmogSetId: 3419
+      # Trailseeker's Laminal Armor
+      - transmogSetId: 3406
+      - transmogSetId: 3407
+      - transmogSetId: 3408
+      - transmogSetId: 3409
+      # Dawnwatcher's Scale Armor
+      - transmogSetId: 3410
+      - transmogSetId: 3411
+      - transmogSetId: 3412
+
+    plate:
+      # Gatecrasher's Battleplate
+      - transmogSetId: 3430
+      - transmogSetId: 3431
+      - transmogSetId: 3432
+      - transmogSetId: 3433
+      # Shan'ze Warplate
+      - transmogSetId: 3426
+      - transmogSetId: 3427
+      - transmogSetId: 3428
+      - transmogSetId: 3429
+      # Spiritguard's Warplate
+      - transmogSetId: 3423
+      - transmogSetId: 3424
+      - transmogSetId: 3425
