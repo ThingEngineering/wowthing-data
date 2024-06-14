@@ -8,6 +8,7 @@ groups:
     - Dungeon 1
     - Dungeon 2
     - Dungeon 3
+    - Dungeon 4
   data:
     cloth:
       # Breezebinder's Vestments
@@ -22,6 +23,8 @@ groups:
       - transmogSetId: 3382
 
       - transmogSetId: 3383
+        
+      - transmogSetId: 3384
         
       - transmogSetId: 3385
     
