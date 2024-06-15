@@ -8,7 +8,7 @@ locations:
 
 sets:
   - name: "Ensembles - T14 Normal"
-    range: 12
+    range: 11
     sortKey: 2-14-2
 
   - name: "Ensembles - T15 Normal"
@@ -75,13 +75,8 @@ sells:
     costs:
       2778: 5000
 
-  - type: transmog # Warrior [Black]
+  - type: transmog # Warrior
     id: 215338 # Ensemble: Battleplate of Resounding Rings
-    costs:
-      2778: 5000
-
-  - type: transmog # Warrior [Silver]
-    id: 215341 # Ensemble: Battleplate of Resounding Rings
     costs:
       2778: 5000
 
