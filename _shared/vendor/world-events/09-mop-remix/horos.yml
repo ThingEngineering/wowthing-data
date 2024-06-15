@@ -21,7 +21,6 @@ sells:
     id: 86589 # Ai-Li's Skymirror
     costs:
       2778: 4950
-      2032: 4566
 
   - type: item
     id: 86582 # Aqua Jewel
