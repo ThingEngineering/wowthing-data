@@ -8,7 +8,7 @@ locations:
 
 sets:
   - name: "Renown 9 Drake Parts"
-    range: 4 16
+    range: 4
     sortKey: "va09"
 
   - name: "Renown 15 Drake Parts"
@@ -24,87 +24,6 @@ sets:
     sortKey: "va26"
 
 sells:
-  # 0
-
-  - type: pet
-    id: 331 # Alliance Balloon
-    costs:
-      0: 1 # Gold
-
-  - type: pet
-    id: 216 # Argent Gruntling
-    costs:
-      0: 1 # Gold
-
-  - type: pet
-    id: 214 # Argent Squire
-    costs:
-      0: 1 # Gold
-
-  - type: pet
-    id: 259 # Blue Mini Jouster
-    costs:
-      0: 1 # Gold
-
-  - type: pet
-    id: 321 # Creepy Crate
-    costs:
-      0: 1 # Gold
-
-  - type: pet
-    id: 225 # Curious Oracle Hatchling
-    costs:
-      0: 1 # Gold
-
-  - type: pet
-    id: 226 # Curious Wolvar Pup
-    costs:
-      0: 1 # Gold
-
-  - type: pet
-    id: 260 # Gold Mini Jouster
-    costs:
-      0: 1 # Gold
-
-  - type: pet
-    id: 332 # Horde Balloon
-    costs:
-      0: 1 # Gold
-
-  - type: pet
-    id: 307 # Lashtail Hatchling
-    costs:
-      0: 1 # Gold
-
-  - type: pet
-    id: 149 # Miniwing
-    costs:
-      0: 1 # Gold
-
-  - type: pet
-    id: 301 # Panther Cub
-    costs:
-      0: 1 # Gold
-
-  - type: pet
-    id: 291 # Singing Sunflower
-    costs:
-      0: 1 # Gold
-
-  - type: pet
-    id: 287 # Tiny Flamefly
-    costs:
-      0: 1 # Gold
-
-  - type: pet
-    id: 220 # Withers
-    costs:
-      0: 1 # Gold
-
-  - type: toy
-    id: 37460 # Rope Pet Leash
-    costs:
-      0: 1 # Gold
 
   # Renown 9
 
