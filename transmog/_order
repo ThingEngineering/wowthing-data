@@ -67,6 +67,6 @@ misc/_misc.yml
     misc/racial.yml
     misc/trial_of_style.yml
 
-mop-remix/_.yml
+remix-pandaria/_.yml
     04-mists-of-pandaria/raids.yml
-    mop-remix/world.yml
+    remix-pandaria/world.yml

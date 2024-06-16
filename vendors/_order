@@ -110,6 +110,14 @@
 
 -
 
+pvp/_pvp.yml
+    pvp/04_mists_of_pandaria.yml
+    pvp/02_wrath_of_the_lich_king.yml
+    pvp/01_the_burning_crusade.yml
+
+remix/_.yml
+    remix/04-pandaria.yml
+
 world-events/_world_events.yml
     world-events/brewfest.yml
     world-events/darkmoon_faire.yml
@@ -121,11 +129,3 @@ world-events/_world_events.yml
     world-events/timewalking.yml
     -
     world-events/09-elemental-invasion.yml
-    world-events/09-mop-remix.yml
-
--
-
-pvp/_pvp.yml
-    pvp/04_mists_of_pandaria.yml
-    pvp/02_wrath_of_the_lich_king.yml
-    pvp/01_the_burning_crusade.yml
