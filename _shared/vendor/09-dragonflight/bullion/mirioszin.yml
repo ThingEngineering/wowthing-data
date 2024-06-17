@@ -11,67 +11,67 @@ sets:
     range: 1
     sortKey: "z-00-mount"
 
-  - name: "Misc - 1h Axe"
+  - name: "Cosmetic - 1h Axe"
     range: 12
     sortKey: "z-04-10"
 
-  - name: "Misc - 1h Mace"
+  - name: "Cosmetic - 1h Mace"
     range: 24
     sortKey: "z-04-11"
 
-  - name: "Misc - 1h Sword"
+  - name: "Cosmetic - 1h Sword"
     range: 12
     sortKey: "z-04-12"
 
-  - name: "Misc - Dagger"
+  - name: "Cosmetic - Dagger"
     range: 24
     sortKey: "z-04-13"
 
-  - name: "Misc - Fist"
+  - name: "Cosmetic - Fist"
     range: 12
     sortKey: "z-04-13"
 
-  - name: "Misc - Warglaive"
+  - name: "Cosmetic - Warglaive"
     range: 12
     sortKey: "z-04-15"
 
-  - name: "Misc - 2h Axe"
+  - name: "Cosmetic - 2h Axe"
     range: 4
     sortKey: "z-04-20"
 
-  - name: "Misc - 2h Mace"
+  - name: "Cosmetic - 2h Mace"
     range: 8
     sortKey: "z-04-21"
 
-  - name: "Misc - 2h Sword"
+  - name: "Cosmetic - 2h Sword"
     range: 8
     sortKey: "z-04-22"
 
-  - name: "Misc - Polearm"
+  - name: "Cosmetic - Polearm"
     range: 20
     sortKey: "z-04-23"
 
-  - name: "Misc - Staff"
+  - name: "Cosmetic - Staff"
     range: 26
     sortKey: "z-04-24"
 
-  - name: "Misc - Bow"
+  - name: "Cosmetic - Bow"
     range: 12
     sortKey: "z-04-31"
 
-  - name: "Misc - Crossbow"
+  - name: "Cosmetic - Crossbow"
     range: 4
     sortKey: "z-04-32"
 
-  - name: "Misc - Gun"
+  - name: "Cosmetic - Gun"
     range: 8
     sortKey: "z-04-33"
 
-  - name: "Misc - Off-hand"
+  - name: "Cosmetic - Off-hand"
     range: 20
     sortKey: "z-04-41"
 
-  - name: "Misc - Shield"
+  - name: "Cosmetic - Shield"
     range: -1
     sortKey: "z-04-42"
 
