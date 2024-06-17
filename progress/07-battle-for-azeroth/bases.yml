@@ -1,0 +1,120 @@
+name: "Bases"
+groups:
+  
+- name: "Footholds"
+  icon: achievement/13553 # The Mechagonian Threat
+  iconText: "Foot"
+  lookup: faction
+  type: quest
+  data:
+    alliance:
+      - name: "Nazmir"
+        id: 51967
+      
+      - name: "Vol'dun"
+        id: 51969
+      
+      - name: "Zuldazar"
+        id: 51968
+
+    horde:
+      - name: "Drustvar"
+        id: 51985
+      
+      - name: "Stormsong Valley"
+        id: 51986
+      
+      - name: "Tiragarde Sound"
+        id: 51984
+
+- name: "Scouting Reports"
+  icon: "item/162975 item/161121"
+  iconText: "Scout"
+  lookup: faction
+  type: quest
+  data:
+    alliance:
+      - name: "Grimwatt's Crash"
+        id: 53007
+        description: "{repPrice:2159|2|50|1560}"
+      
+      - name: "Veiled Grotto"
+        id: 52802
+        description: "{repPrice:2159|2|50|1560}"
+      
+      - name: "Mistvine Ledge"
+        id: 52963
+        description: "{repPrice:2159|3|100|1560}"
+      
+      - name: "Mugamba Overlook"
+        id: 52852
+        description: "{repPrice:2159|3|100|1560}"
+      
+      - name: "Verdant Hollow"
+        id: 52888
+        description: "{repPrice:2159|3|100|1560}"
+      
+      - name: "Vulture's Nest"
+        id: 53044
+        description: "{repPrice:2159|3|100|1560}"
+
+    horde:
+      - name: "Swiftwind Post"
+        id: 52276
+        description: "{repPrice:2157|2|50|1560}"
+
+      - name: "Wolf's Den"
+        id: 52127
+        description: "{repPrice:2157|2|50|1560}"
+      
+      - name: "Hillcrest Pasture"
+        id: 52479
+        description: "{repPrice:2157|3|100|1560}"
+
+      - name: "Mudfisher Cove"
+        id: 52314
+        description: "{repPrice:2157|3|100|1560}"
+      
+      - name: "Stonefist Watch"
+        id: 52222
+        description: "{repPrice:2157|3|100|1560}"
+      
+      - name: "Stonetusk Watch"
+        id: 52777
+        description: "{repPrice:2157|3|100|1560}"
+      
+      - name: "Windfall Cavern"
+        id: 52320
+        description: "{repPrice:2157|3|100|1560}"
+
+- name: "Upgrades"
+  icon: "item/165728"
+  iconText: "Up"
+  lookup: faction
+  type: quest
+  data:
+    alliance:
+      - name: "Arom's Stand"
+        id: 54307
+        description: "{repPrice:2159|4|500|1560}"
+      
+      - name: "Brennadam"
+        id: 54263
+        description: "{repPrice:2159|4|500|1560}"
+      
+      - name: "Castaway Point"
+        id: 54288
+        description: "{repPrice:2159|4|500|1560}"
+
+    horde:
+      - name: "The Great Seal"
+        id: 54231
+        description: "{repPrice:2157|4|500|1560}"
+
+      - name: "Vulpera Hideaway"
+        id: 54260
+        description: "{repPrice:2157|4|500|1560}"
+        
+      - name: "Zul'jan Ruins"
+        id: 54240
+        description: "{repPrice:2157|4|500|1560}"
