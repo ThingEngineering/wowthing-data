@@ -1,0 +1,128 @@
+id: 216226
+name: "Iszinormi"
+note: "Scales Associate"
+
+locations:
+  09-dragonflight/valdrakken:
+    - 73.8 47.2
+
+sets:
+  - name: "Aberrus"
+    range: -1
+    sortKey: "z-02"
+
+tags:
+  - "dragonflight-bullion"
+
+sells:
+  # 0
+
+  - type: item
+    id: 204465 # Voice of the Silent Star [cloak]
+    costs:
+      1213089: 2
+
+  - type: item
+    id: 204320 # Proctor's Tactical Cleaver [1h ? axe]
+    costs:
+      1213089: 2
+
+  - type: item
+    id: 204279 # Wallclimber's Incursion Hatchet [1h ? axe]
+    costs:
+      1213089: 2
+
+  - type: item
+    id: 204319 # Bloodfire Extraction Conduit [1h ? mace]
+    costs:
+      1213089: 2
+
+  - type: item
+    id: 202570 # Lavaflow Control Rod [1h ? mace]
+    costs:
+      1213089: 2
+
+  - type: item
+    id: 202568 # Scholar's Thinking Cudgel [1h ? mace]
+    costs:
+      1213089: 2
+
+  - type: item
+    id: 202606 # Ashkandur, Fall of the Brotherhood [2h ? sword]
+    costs:
+      1213089: 2
+
+  - type: item
+    id: 202564 # Fang of the Sundered Flame [? dagger]
+    costs:
+      1213089: 2
+
+  - type: item
+    id: 202557 # Hellsteel Mutilator [? dagger]
+    costs:
+      1213089: 2
+
+  - type: item
+    id: 202555 # Zskarn's Autopsy Scalpel [? dagger]
+    costs:
+      1213089: 2
+
+  - type: item
+    id: 202560 # Claws of the Blazing Behemoth [fist]
+    costs:
+      1213089: 2
+
+  - type: item
+    id: 202566 # Rionthus's Bladed Visage [warglaive]
+    costs:
+      1213089: 2
+
+  - type: item
+    id: 202569 # Djaruun, Pillar of the Elder Flame [polearm]
+    costs:
+      1213089: 2
+
+  - type: item
+    id: 202559 # Infernal Shadelance [polearm]
+    costs:
+      1213089: 2
+
+  - type: item
+    id: 202565 # Erethos, the Empty Promise [staff]
+    costs:
+      1213089: 2
+
+  - type: item
+    id: 202563 # Obsidian Stirring Staff [staff]
+    costs:
+      1213089: 2
+
+  - type: item
+    id: 202607 # Brutal Dragonslayer's Trophy [bow]
+    costs:
+      1213089: 2
+
+  - type: item
+    id: 204322 # Failure Disposal Cannon [gun]
+    costs:
+      1213089: 2
+
+  - type: item
+    id: 204324 # Echo's Maddening Volume [off-hand]
+    costs:
+      1213089: 2
+
+  - type: item
+    id: 204318 # Thadrion's Erratic Arcanotrode [off-hand]
+    costs:
+      1213089: 2
+
+  - type: item
+    id: 202558 # Calamity's Herald [shield]
+    costs:
+      1213089: 2
+
+  - type: item
+    id: 202571 # Experiment 1, Kitewing [shield]
+    costs:
+      1213089: 2
