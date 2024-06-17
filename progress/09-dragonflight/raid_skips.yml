@@ -31,3 +31,19 @@ groups:
 
     mythic:
     - name: "dfAberrus1Mythic"
+
+- name: separator
+
+- name: "Amirdrassil, the Dream's Hope"
+  icon: "achievement/19331" # Amirdrassil, the Dream's Hope
+  iconText: "ADH"
+  type: raidSkip
+  data:
+    normal:
+      - name: "dfAmirdrassil1Normal"
+
+    heroic:
+      - name: "dfAmirdrassil1Heroic"
+
+    mythic:
+      - name: "dfAmirdrassil1Mythic"
