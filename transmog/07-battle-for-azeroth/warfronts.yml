@@ -1,0 +1,202 @@
+name: "Warfronts"
+groups:
+
+- name: "Battle for Stromgarde"
+  tag: "8.0"
+  type: armor
+  sets:
+    - ":alliance: Warfront"
+    - ":horde: Warfront"
+    - ":alliance: World"
+    - ":horde: World"
+    - ":alliance: Weekly"
+    - ":horde: Weekly"
+  data:
+    cloth:
+      # Warfront
+      - transmogSetId: 1656
+        transmogSetModifier: 0
+        wowheadSetId: 2761
+
+      - transmogSetId: 1668
+        transmogSetModifier: 0
+        wowheadSetId: 2873
+
+      # World
+      - transmogSetId: 1656
+        wowheadSetId: 2762
+
+      - transmogSetId: 1668
+        wowheadSetId: 2874
+
+      # Weekly
+      - transmogSetId: 1656
+        transmogSetModifier: 3
+        wowheadSetId: 2763
+
+      - transmogSetId: 1668
+        transmogSetModifier: 3
+        wowheadSetId: 2875
+
+    leather:
+      # Warfront
+      - transmogSetId: 1659
+        transmogSetModifier: 0
+        wowheadSetId: 2803
+
+      - transmogSetId: 1671
+        transmogSetModifier: 0
+        wowheadSetId: 2879
+
+      # World
+      - transmogSetId: 1659
+        wowheadSetId: 2804
+
+      - transmogSetId: 1671
+        wowheadSetId: 2880
+
+      # Weekly
+      - transmogSetId: 1659
+        transmogSetModifier: 3
+        wowheadSetId: 2805
+
+      - transmogSetId: 1671
+        transmogSetModifier: 3
+        wowheadSetId: 2881
+
+    mail:
+      # Warfront
+      - transmogSetId: 1662
+        transmogSetModifier: 0
+        wowheadSetId: 2827
+
+      - transmogSetId: 1674
+        transmogSetModifier: 0
+        wowheadSetId: 2885
+
+      # World
+      - transmogSetId: 1662
+        wowheadSetId: 2828
+
+      - transmogSetId: 1674
+        wowheadSetId: 2886
+
+      # Weekly
+      - transmogSetId: 1662
+        transmogSetModifier: 3
+        wowheadSetId: 2829
+
+      - transmogSetId: 1674
+        transmogSetModifier: 3
+        wowheadSetId: 2887
+
+    plate:
+      # Warfront
+      - transmogSetId: 1665
+        transmogSetModifier: 0
+        wowheadSetId: 2851
+
+      - transmogSetId: 1677
+        transmogSetModifier: 0
+        wowheadSetId: 2891
+
+      # World
+      - transmogSetId: 1665
+        wowheadSetId: 2852
+
+      - transmogSetId: 1677
+        wowheadSetId: 2892
+
+      # Weekly
+      - transmogSetId: 1665
+        transmogSetModifier: 3
+        wowheadSetId: 2853
+
+      - transmogSetId: 1677
+        transmogSetModifier: 3
+        wowheadSetId: 2893
+
+- name: "Battle for Darkshore"
+  tag: "8.1"
+  type: armor
+  sets:
+    - ":alliance: Warfront"
+    - ":horde: Warfront"
+    - ":alliance: Weekly"
+    - ":horde: Weekly"
+  data:
+    cloth:
+      # Warfront
+      - transmogSetId: 1796
+        transmogSetModifier: 0
+        wowheadSetId: 2906
+
+      - transmogSetId: 1766
+        transmogSetModifier: 0
+        wowheadSetId: 2908
+
+      # Weekly
+      - transmogSetId: 1796
+        transmogSetModifier: 3
+        wowheadSetId: 2907
+
+      - transmogSetId: 1766
+        transmogSetModifier: 3
+        wowheadSetId: 2909
+
+    leather:
+      # Warfront
+      - transmogSetId: 1789
+        transmogSetModifier: 0
+        wowheadSetId: 2914
+
+      - transmogSetId: 1759
+        transmogSetModifier: 0
+        wowheadSetId: 2915
+
+      # Weekly
+      - transmogSetId: 1789
+        transmogSetModifier: 3
+        wowheadSetId: 2916
+
+      - transmogSetId: 1759
+        transmogSetModifier: 3
+        wowheadSetId: 2917
+
+    mail:
+      # Warfront
+      - transmogSetId: 1782
+        transmogSetModifier: 0
+        wowheadSetId: 2922
+
+      - transmogSetId: 1752
+        transmogSetModifier: 0
+        wowheadSetId: 2923
+
+      # Weekly
+      - transmogSetId: 1782
+        transmogSetModifier: 3
+        wowheadSetId: 2924
+
+      - transmogSetId: 1752
+        transmogSetModifier: 3
+        wowheadSetId: 2925
+
+    plate:
+      # Warfront
+      - transmogSetId: 1775
+        transmogSetModifier: 0
+        wowheadSetId: 2930
+
+      - transmogSetId: 1745
+        transmogSetModifier: 0
+        wowheadSetId: 2931
+
+      # Weekly
+      - transmogSetId: 1775
+        transmogSetModifier: 3
+        wowheadSetId: 2932
+
+      - transmogSetId: 1745
+        transmogSetModifier: 3
+        wowheadSetId: 2933
