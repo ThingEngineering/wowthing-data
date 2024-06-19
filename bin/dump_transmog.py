@@ -234,7 +234,7 @@ def main():
     # specific itemIDs
     elif sys.argv[1] == 'i':
         item_ids = sys.argv[2:]
-    # something from wowhead?
+    # MogIt import string
     elif sys.argv[1] == 'm':
         # compare?items=29093:28340:27456:28398:27800:137029:27827:28268
         item_ids = sys.argv[2].split('=')[1].split(':')
