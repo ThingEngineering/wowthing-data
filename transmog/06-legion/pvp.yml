@@ -17,302 +17,302 @@ groups:
     death-knight:
       # Fierce Gladiator's Dreadplate Armor [Elite (Alliance)]
       - transmogSetId: 1352
-        wowheadSetId:
+        wowheadSetId: 2637
 
       # Fierce Gladiator's Dreadplate Armor [Elite (Horde)]
       - transmogSetId: 1353
-        wowheadSetId:
+        wowheadSetId: 2637
 
       # Fierce Gladiator's Dreadplate Armor [Gladiator (Alliance)]
       - transmogSetId: 1400
-        wowheadSetId:
+        wowheadSetId: 2635
 
       # Fierce Gladiator's Dreadplate Armor [Gladiator (Horde)]
       - transmogSetId: 1401
-        wowheadSetId:
+        wowheadSetId: 2636
 
       # Fierce Combatant's Dreadplate Armor [Combatant (Alliance)]
       - transmogSetId: 1348
-        wowheadSetId:
+        wowheadSetId: 2588
 
       # Fierce Combatant's Dreadplate Armor [Combatant (Horde)]
       - transmogSetId: 1349
-        wowheadSetId:
+        wowheadSetId: 2589
 
     demon-hunter:
       # Fierce Gladiator's Felskin Armor [Elite (Alliance)]
       - transmogSetId: 1358
-        wowheadSetId:
+        wowheadSetId: 2619
 
       # Fierce Gladiator's Felskin Armor [Elite (Horde)]
       - transmogSetId: 1359
-        wowheadSetId:
+        wowheadSetId: 2619
 
       # Fierce Gladiator's Felskin Armor [Gladiator (Alliance)]
       - transmogSetId: 1402
-        wowheadSetId:
+        wowheadSetId: 2617
 
       # Fierce Gladiator's Felskin Armor [Gladiator (Horde)]
       - transmogSetId: 1403
-        wowheadSetId:
+        wowheadSetId: 2618
 
       # Fierce Combatant's Felskin Armor [Combatant (Alliance)]
       - transmogSetId: 1354
-        wowheadSetId:
+        wowheadSetId: 2591
 
       # Fierce Combatant's Felskin Armor [Combatant (Horde)]
       - transmogSetId: 1355
-        wowheadSetId:
+        wowheadSetId: 2590
 
     druid:
       # Fierce Gladiator's Dragonhide Armor [Elite (Alliance)]
       - transmogSetId: 1380
-        wowheadSetId:
+        wowheadSetId: 2622
 
       # Fierce Gladiator's Dragonhide Armor [Elite (Horde)]
       - transmogSetId: 1381
-        wowheadSetId:
+        wowheadSetId: 2622
 
       # Fierce Gladiator's Dragonhide Armor [Gladiator (Alliance)]
       - transmogSetId: 1404
-        wowheadSetId:
+        wowheadSetId: 2620
 
       # Fierce Gladiator's Dragonhide Armor [Gladiator (Horde)]
       - transmogSetId: 1405
-        wowheadSetId:
+        wowheadSetId: 2621
 
       # Fierce Combatant's Dragonhide Armor [Combatant (Alliance)]
       - transmogSetId: 1360
-        wowheadSetId:
+        wowheadSetId: 2587
 
       # Fierce Combatant's Dragonhide Armor [Combatant (Horde)]
       - transmogSetId: 1361
-        wowheadSetId:
+        wowheadSetId: 2586
 
     hunter:
       # Fierce Gladiator's Chain Armor [Elite (Alliance)]
       - transmogSetId: 1382
-        wowheadSetId:
+        wowheadSetId: 2631
 
       # Fierce Gladiator's Chain Armor [Elite (Horde)]
       - transmogSetId: 1383
-        wowheadSetId:
+        wowheadSetId: 2631
 
       # Fierce Gladiator's Chain Armor [Gladiator (Alliance)]
       - transmogSetId: 1406
-        wowheadSetId:
+        wowheadSetId: 2629
 
       # Fierce Gladiator's Chain Armor [Gladiator (Horde)]
       - transmogSetId: 1407
-        wowheadSetId:
+        wowheadSetId: 2630
 
       # Fierce Combatant's Chain Armor [Combatant (Alliance)]
       - transmogSetId: 1362
-        wowheadSetId:
+        wowheadSetId: 2585
 
       # Fierce Combatant's Chain Armor [Combatant (Horde)]
       - transmogSetId: 1363
-        wowheadSetId:
+        wowheadSetId: 2584
 
     mage:
       # Fierce Gladiator's Silk Armor [Elite (Alliance)]
       - transmogSetId: 1384
-        wowheadSetId:
+        wowheadSetId: 2610
 
       # Fierce Gladiator's Silk Armor [Elite (Horde)]
       - transmogSetId: 1385
-        wowheadSetId:
+        wowheadSetId: 2610
 
       # Fierce Gladiator's Silk Armor [Gladiator (Alliance)]
       - transmogSetId: 1408
-        wowheadSetId:
+        wowheadSetId: 2608
 
       # Fierce Gladiator's Silk Armor [Gladiator (Horde)]
       - transmogSetId: 1409
-        wowheadSetId:
+        wowheadSetId: 2609
 
       # Fierce Combatant's Silk Armor [Combatant (Alliance)]
       - transmogSetId: 1364
-        wowheadSetId:
+        wowheadSetId: 2606
 
       # Fierce Combatant's Silk Armor [Combatant (Horde)]
       - transmogSetId: 1365
-        wowheadSetId:
+        wowheadSetId: 2607
 
     monk:
       # Fierce Gladiator's Ironskin Armor [Elite (Alliance)]
       - transmogSetId: 1386
-        wowheadSetId:
+        wowheadSetId: 2625
 
       # Fierce Gladiator's Ironskin Armor [Elite (Horde)]
       - transmogSetId: 1387
-        wowheadSetId:
+        wowheadSetId: 2625
 
       # Fierce Gladiator's Ironskin Armor [Gladiator (Alliance)]
       - transmogSetId: 1410
-        wowheadSetId:
+        wowheadSetId: 2623
 
       # Fierce Gladiator's Ironskin Armor [Gladiator (Horde)]
       - transmogSetId: 1411
-        wowheadSetId:
+        wowheadSetId: 2624
 
       # Fierce Combatant's Ironskin Armor [Combatant (Alliance)]
       - transmogSetId: 1366
-        wowheadSetId:
+        wowheadSetId: 2594
 
       # Fierce Combatant's Ironskin Armor [Combatant (Horde)]
       - transmogSetId: 1367
-        wowheadSetId:
+        wowheadSetId: 2595
 
     paladin:
       # Fierce Gladiator's Scaled Armor [Elite (Alliance)]
       - transmogSetId: 1388
-        wowheadSetId:
+        wowheadSetId: 2640
 
       # Fierce Gladiator's Scaled Armor [Elite (Horde)]
       - transmogSetId: 1389
-        wowheadSetId:
+        wowheadSetId: 2640
 
       # Fierce Gladiator's Scaled Armor [Gladiator (Alliance)]
       - transmogSetId: 1412
-        wowheadSetId:
+        wowheadSetId: 2638
 
       # Fierce Gladiator's Scaled Armor [Gladiator (Horde)]
       - transmogSetId: 1413
-        wowheadSetId:
+        wowheadSetId: 2639
 
       # Fierce Combatant's Scaled Armor [Combatant (Alliance)]
       - transmogSetId: 1368
-        wowheadSetId:
+        wowheadSetId: 2604
 
       # Fierce Combatant's Scaled Armor [Combatant (Horde)]
       - transmogSetId: 1369
-        wowheadSetId:
+        wowheadSetId: 2605
 
     priest:
       # Fierce Gladiator's Satin Armor [Elite (Alliance)]
       - transmogSetId: 1390
-        wowheadSetId:
+        wowheadSetId: 2613
 
       # Fierce Gladiator's Satin Armor [Elite (Horde)]
       - transmogSetId: 1391
-        wowheadSetId:
+        wowheadSetId: 2613
 
       # Fierce Gladiator's Satin Armor [Gladiator (Alliance)]
       - transmogSetId: 1414
-        wowheadSetId:
+        wowheadSetId: 2611
 
       # Fierce Gladiator's Satin Armor [Gladiator (Horde)]
       - transmogSetId: 1415
-        wowheadSetId:
+        wowheadSetId: 2612
 
       # Fierce Combatant's Satin Armor [Combatant (Alliance)]
       - transmogSetId: 1370
-        wowheadSetId:
+        wowheadSetId: 2602
 
       # Fierce Combatant's Satin Armor [Combatant (Horde)]
       - transmogSetId: 1371
-        wowheadSetId:
+        wowheadSetId: 2603
 
     rogue:
       # Fierce Gladiator's Leather Armor [Elite (Alliance)]
       - transmogSetId: 1392
-        wowheadSetId:
+        wowheadSetId: 2628
 
       # Fierce Gladiator's Leather Armor [Elite (Horde)]
       - transmogSetId: 1393
-        wowheadSetId:
+        wowheadSetId: 2628
 
       # Fierce Gladiator's Leather Armor [Gladiator (Alliance)]
       - transmogSetId: 1416
-        wowheadSetId:
+        wowheadSetId: 2626
 
       # Fierce Gladiator's Leather Armor [Gladiator (Horde)]
       - transmogSetId: 1417
-        wowheadSetId:
+        wowheadSetId: 2627
 
       # Fierce Combatant's Leather Armor [Combatant (Alliance)]
       - transmogSetId: 1372
-        wowheadSetId:
+        wowheadSetId: 2596
 
       # Fierce Combatant's Leather Armor [Combatant (Horde)]
       - transmogSetId: 1373
-        wowheadSetId:
+        wowheadSetId: 2597
 
     shaman:
       # Fierce Gladiator's Ringmail Armor [Elite (Alliance)]
       - transmogSetId: 1394
-        wowheadSetId:
+        wowheadSetId: 2634
 
       # Fierce Gladiator's Ringmail Armor [Elite (Horde)]
       - transmogSetId: 1395
-        wowheadSetId:
+        wowheadSetId: 2634
 
       # Fierce Gladiator's Ringmail Armor [Gladiator (Alliance)]
       - transmogSetId: 1418
-        wowheadSetId:
+        wowheadSetId: 2632
 
       # Fierce Gladiator's Ringmail Armor [Gladiator (Horde)]
       - transmogSetId: 1419
-        wowheadSetId:
+        wowheadSetId: 2633
 
       # Fierce Combatant's Ringmail Armor [Combatant (Alliance)]
       - transmogSetId: 1374
-        wowheadSetId:
+        wowheadSetId: 2600
 
       # Fierce Combatant's Ringmail Armor [Combatant (Horde)]
       - transmogSetId: 1375
-        wowheadSetId:
+        wowheadSetId: 2601
 
     warlock:
       # Fierce Gladiator's Felweave Armor [Elite (Alliance)]
       - transmogSetId: 1396
-        wowheadSetId:
+        wowheadSetId: 2616
 
       # Fierce Gladiator's Felweave Armor [Elite (Horde)]
       - transmogSetId: 1397
-        wowheadSetId:
+        wowheadSetId: 2616
 
       # Fierce Gladiator's Felweave Armor [Gladiator (Alliance)]
       - transmogSetId: 1420
-        wowheadSetId:
+        wowheadSetId: 2614
 
       # Fierce Gladiator's Felweave Armor [Gladiator (Horde)]
       - transmogSetId: 1421
-        wowheadSetId:
+        wowheadSetId: 2615
 
       # Fierce Combatant's Felweave Armor [Combatant (Alliance)]
       - transmogSetId: 1376
-        wowheadSetId:
+        wowheadSetId: 2592
 
       # Fierce Combatant's Felweave Armor [Combatant (Horde)]
       - transmogSetId: 1377
-        wowheadSetId:
+        wowheadSetId: 2593
 
     warrior:
       # Fierce Gladiator's Plate Armor [Elite (Alliance)]
       - transmogSetId: 1399
-        wowheadSetId:
+        wowheadSetId: 2643
 
       # Fierce Gladiator's Plate Armor [Elite (Horde)]
       - transmogSetId: 1398
-        wowheadSetId:
+        wowheadSetId: 2643
 
       # Fierce Gladiator's Plate Armor [Gladiator (Alliance)]
       - transmogSetId: 1422
-        wowheadSetId:
+        wowheadSetId: 2641
 
       # Fierce Gladiator's Plate Armor [Gladiator (Horde)]
       - transmogSetId: 1423
-        wowheadSetId:
+        wowheadSetId: 2642
 
       # Fierce Combatant's Plate Armor [Combatant (Alliance)]
       - transmogSetId: 1378
-        wowheadSetId:
+        wowheadSetId: 2598
 
       # Fierce Combatant's Plate Armor [Combatant (Horde)]
       - transmogSetId: 1379
-        wowheadSetId:
+        wowheadSetId: 2599
 
 - name: "Legion Season 3 / 4"
   tag: S21-22
@@ -328,302 +328,302 @@ groups:
     death-knight:
       # Cruel Gladiator's Dreadplate Armor [Elite (Alliance)]
       - transmogSetId: 1267
-        wowheadSetId:
+        wowheadSetId: 2368
 
       # Cruel Gladiator's Dreadplate Armor [Elite (Horde)]
       - transmogSetId: 1268
-        wowheadSetId:
+        wowheadSetId: 2368
 
       # Cruel Gladiator's Dreadplate Armor [Gladiator (Alliance)]
       - transmogSetId: 1265
-        wowheadSetId:
+        wowheadSetId: 2366
 
       # Cruel Gladiator's Dreadplate Armor [Gladiator (Horde)]
       - transmogSetId: 1266
-        wowheadSetId:
+        wowheadSetId: 2367
 
       # Cruel Combatant's Dreadplate Armor [Combatant (Alliance)]
       - transmogSetId: 1292
-        wowheadSetId:
+        wowheadSetId: 2538
 
       # Cruel Combatant's Dreadplate Armor [Combatant (Horde)]
       - transmogSetId: 1291
-        wowheadSetId:
+        wowheadSetId: 2539
 
     demon-hunter:
       # Cruel Gladiator's Felskin Armor [Elite (Alliance)]
       - transmogSetId: 1263
-        wowheadSetId:
+        wowheadSetId: 2350
 
       # Cruel Gladiator's Felskin Armor [Elite (Horde)]
       - transmogSetId: 1264
-        wowheadSetId:
+        wowheadSetId: 2350
 
       # Cruel Gladiator's Felskin Armor [Gladiator (Alliance)]
       - transmogSetId: 1262
-        wowheadSetId:
+        wowheadSetId: 2348
 
       # Cruel Gladiator's Felskin Armor [Gladiator (Horde)]
       - transmogSetId: 1261
-        wowheadSetId:
+        wowheadSetId: 2349
 
       # Cruel Combatant's Felskin Armor [Combatant (Alliance)]
       - transmogSetId: 1290
-        wowheadSetId:
+        wowheadSetId: 2541
 
       # Cruel Combatant's Felskin Armor [Combatant (Horde)]
       - transmogSetId: 1289
-        wowheadSetId:
+        wowheadSetId: 2540
 
     druid:
       # Cruel Gladiator's Dragonhide Armor [Elite (Alliance)]
       - transmogSetId: 1259
-        wowheadSetId:
+        wowheadSetId: 2353
 
       # Cruel Gladiator's Dragonhide Armor [Elite (Horde)]
       - transmogSetId: 1260
-        wowheadSetId:
+        wowheadSetId: 2353
 
       # Cruel Gladiator's Dragonhide Armor [Gladiator (Alliance)]
       - transmogSetId: 1257
-        wowheadSetId:
+        wowheadSetId: 2351
 
       # Cruel Gladiator's Dragonhide Armor [Gladiator (Horde)]
       - transmogSetId: 1258
-        wowheadSetId:
+        wowheadSetId: 2352
 
       # Cruel Combatant's Dragonhide Armor [Combatant (Alliance)]
       - transmogSetId: 1288
-        wowheadSetId:
+        wowheadSetId: 2537
 
       # Cruel Combatant's Dragonhide Armor [Combatant (Horde)]
       - transmogSetId: 1287
-        wowheadSetId:
+        wowheadSetId: 2536
 
     hunter:
       # Cruel Gladiator's Chain Armor [Elite (Alliance)]
       - transmogSetId: 1255
-        wowheadSetId:
+        wowheadSetId: 2362
 
       # Cruel Gladiator's Chain Armor [Elite (Horde)]
       - transmogSetId: 1256
-        wowheadSetId:
+        wowheadSetId: 2362
 
       # Cruel Gladiator's Chain Armor [Gladiator (Alliance)]
       - transmogSetId: 1254
-        wowheadSetId:
+        wowheadSetId: 2360
 
       # Cruel Gladiator's Chain Armor [Gladiator (Horde)]
       - transmogSetId: 1253
-        wowheadSetId:
+        wowheadSetId: 2361
 
       # Cruel Combatant's Chain Armor [Combatant (Alliance)]
       - transmogSetId: 1286
-        wowheadSetId:
+        wowheadSetId: 2535
 
       # Cruel Combatant's Chain Armor [Combatant (Horde)]
       - transmogSetId: 1285
-        wowheadSetId:
+        wowheadSetId: 2534
 
     mage:
       # Cruel Gladiator's Silk Armor [Elite (Alliance)]
       - transmogSetId: 1251
-        wowheadSetId:
+        wowheadSetId: 2341
 
       # Cruel Gladiator's Silk Armor [Elite (Horde)]
       - transmogSetId: 1252
-        wowheadSetId:
+        wowheadSetId: 2341
 
       # Cruel Gladiator's Silk Armor [Gladiator (Alliance)]
       - transmogSetId: 1249
-        wowheadSetId:
+        wowheadSetId: 2339
 
       # Cruel Gladiator's Silk Armor [Gladiator (Horde)]
       - transmogSetId: 1250
-        wowheadSetId:
+        wowheadSetId: 2340
 
       # Cruel Combatant's Silk Armor [Combatant (Alliance)]
       - transmogSetId: 1284
-        wowheadSetId:
+        wowheadSetId: 2556
 
       # Cruel Combatant's Silk Armor [Combatant (Horde)]
       - transmogSetId: 1283
-        wowheadSetId:
+        wowheadSetId: 2557
 
     monk:
       # Cruel Gladiator's Ironskin Armor [Elite (Alliance)]
       - transmogSetId: 1247
-        wowheadSetId:
+        wowheadSetId: 2356
 
       # Cruel Gladiator's Ironskin Armor [Elite (Horde)]
       - transmogSetId: 1248
-        wowheadSetId:
+        wowheadSetId: 2356
 
       # Cruel Gladiator's Ironskin Armor [Gladiator (Alliance)]
       - transmogSetId: 1245
-        wowheadSetId:
+        wowheadSetId: 2354
 
       # Cruel Gladiator's Ironskin Armor [Gladiator (Horde)]
       - transmogSetId: 1246
-        wowheadSetId:
+        wowheadSetId: 2355
 
       # Cruel Combatant's Ironskin Armor [Combatant (Alliance)]
       - transmogSetId: 1282
-        wowheadSetId:
+        wowheadSetId: 2544
 
       # Cruel Combatant's Ironskin Armor [Combatant (Horde)]
       - transmogSetId: 1281
-        wowheadSetId:
+        wowheadSetId: 2545
 
     paladin:
       # Cruel Gladiator's Scaled Armor [Elite (Alliance)]
       - transmogSetId: 1243
-        wowheadSetId:
+        wowheadSetId: 2371
 
       # Cruel Gladiator's Scaled Armor [Elite (Horde)]
       - transmogSetId: 1244
-        wowheadSetId:
+        wowheadSetId: 2371
 
       # Cruel Gladiator's Scaled Armor [Gladiator (Alliance)]
       - transmogSetId: 1241
-        wowheadSetId:
+        wowheadSetId: 2369
 
       # Cruel Gladiator's Scaled Armor [Gladiator (Horde)]
       - transmogSetId: 1242
-        wowheadSetId:
+        wowheadSetId: 2370
 
       # Cruel Combatant's Scaled Armor [Combatant (Alliance)]
       - transmogSetId: 1280
-        wowheadSetId:
+        wowheadSetId: 2554
 
       # Cruel Combatant's Scaled Armor [Combatant (Horde)]
       - transmogSetId: 1279
-        wowheadSetId:
+        wowheadSetId: 2555
 
     priest:
       # Cruel Gladiator's Satin Armor [Elite (Alliance)]
       - transmogSetId: 395
-        wowheadSetId:
+        wowheadSetId: 2344
 
       # Cruel Gladiator's Satin Armor [Elite (Horde)]
       - transmogSetId: 394
-        wowheadSetId:
+        wowheadSetId: 2344
 
       # Cruel Gladiator's Satin Armor [Gladiator (Alliance)]
       - transmogSetId: 389
-        wowheadSetId:
+        wowheadSetId: 2342
 
       # Cruel Gladiator's Satin Armor [Gladiator (Horde)]
       - transmogSetId: 391
-        wowheadSetId:
+        wowheadSetId: 2343
 
       # Cruel Combatant's Satin Armor [Combatant (Alliance)]
       - transmogSetId: 1278
-        wowheadSetId:
+        wowheadSetId: 2552
 
       # Cruel Combatant's Satin Armor [Combatant (Horde)]
       - transmogSetId: 1277
-        wowheadSetId:
+        wowheadSetId: 2553
 
     rogue:
       # Cruel Gladiator's Leather Armor [Elite (Alliance)]
       - transmogSetId: 1239
-        wowheadSetId:
+        wowheadSetId: 2359
 
       # Cruel Gladiator's Leather Armor [Elite (Horde)]
       - transmogSetId: 1240
-        wowheadSetId:
+        wowheadSetId: 2359
 
       # Cruel Gladiator's Leather Armor [Gladiator (Alliance)]
       - transmogSetId: 1237
-        wowheadSetId:
+        wowheadSetId: 2357
 
       # Cruel Gladiator's Leather Armor [Gladiator (Horde)]
       - transmogSetId: 1238
-        wowheadSetId:
+        wowheadSetId: 2358
 
       # Cruel Combatant's Leather Armor [Combatant (Alliance)]
       - transmogSetId: 1276
-        wowheadSetId:
+        wowheadSetId: 2546
 
       # Cruel Combatant's Leather Armor [Combatant (Horde)]
       - transmogSetId: 1275
-        wowheadSetId:
+        wowheadSetId: 2547
 
     shaman:
       # Cruel Gladiator's Ringmail Armor [Elite (Alliance)]
       - transmogSetId: 1235
-        wowheadSetId:
+        wowheadSetId: 2365
 
       # Cruel Gladiator's Ringmail Armor [Elite (Horde)]
       - transmogSetId: 1236
-        wowheadSetId:
+        wowheadSetId: 2365
 
       # Cruel Gladiator's Ringmail Armor [Gladiator (Alliance)]
       - transmogSetId: 1233
-        wowheadSetId:
+        wowheadSetId: 2363
 
       # Cruel Gladiator's Ringmail Armor [Gladiator (Horde)]
       - transmogSetId: 1234
-        wowheadSetId:
+        wowheadSetId: 2364
 
       # Cruel Combatant's Ringmail Armor [Combatant (Alliance)]
       - transmogSetId: 1274
-        wowheadSetId:
+        wowheadSetId: 2550
 
       # Cruel Combatant's Ringmail Armor [Combatant (Horde)]
       - transmogSetId: 1273
-        wowheadSetId:
+        wowheadSetId: 2551
 
     warlock:
       # Cruel Gladiator's Felweave Armor [Elite (Alliance)]
       - transmogSetId: 1231
-        wowheadSetId:
+        wowheadSetId: 2347
 
       # Cruel Gladiator's Felweave Armor [Elite (Horde)]
       - transmogSetId: 1232
-        wowheadSetId:
+        wowheadSetId: 2347
 
       # Cruel Gladiator's Felweave Armor [Gladiator (Alliance)]
       - transmogSetId: 1229
-        wowheadSetId:
+        wowheadSetId: 2345
 
       # Cruel Gladiator's Felweave Armor [Gladiator (Horde)]
       - transmogSetId: 1230
-        wowheadSetId:
+        wowheadSetId: 2346
 
       # Cruel Combatant's Felweave Armor [Combatant (Alliance)]
       - transmogSetId: 1272
-        wowheadSetId:
+        wowheadSetId: 2542
 
       # Cruel Combatant's Felweave Armor [Combatant (Horde)]
       - transmogSetId: 1271
-        wowheadSetId:
+        wowheadSetId: 2543
 
     warrior:
       # Cruel Gladiator's Plate Armor [Elite (Alliance)]
       - transmogSetId: 1227
-        wowheadSetId:
+        wowheadSetId: 2374
 
       # Cruel Gladiator's Plate Armor [Elite (Horde)]
       - transmogSetId: 1228
-        wowheadSetId:
+        wowheadSetId: 2374
 
       # Cruel Gladiator's Plate Armor [Gladiator (Alliance)]
       - transmogSetId: 1225
-        wowheadSetId:
+        wowheadSetId: 2372
 
       # Cruel Gladiator's Plate Armor [Gladiator (Horde)]
       - transmogSetId: 1226
-        wowheadSetId:
+        wowheadSetId: 2373
 
       # Cruel Combatant's Plate Armor [Combatant (Alliance)]
       - transmogSetId: 1270
-        wowheadSetId:
+        wowheadSetId: 2548
 
       # Cruel Combatant's Plate Armor [Combatant (Horde)]
       - transmogSetId: 1269
-        wowheadSetId:
+        wowheadSetId: 2549
 
 - name: "Legion Season 1 / 2"
   tag: S19-20
@@ -639,299 +639,299 @@ groups:
     death-knight:
       # Vindictive Gladiator's Dreadplate Armor [Elite (Alliance)]
       - transmogSetId: 1108
-        wowheadSetId:
+        wowheadSetId: 2167
 
       # Vindictive Gladiator's Dreadplate Armor [Elite (Horde)]
       - transmogSetId: 1107
-        wowheadSetId:
+        wowheadSetId: 2167
 
       # Vindictive Gladiator's Dreadplate Armor [Gladiator (Alliance)]
       - transmogSetId: 1106
-        wowheadSetId:
+        wowheadSetId: 2165
 
       # Vindictive Gladiator's Dreadplate Armor [Gladiator (Horde)]
       - transmogSetId: 1105
-        wowheadSetId:
+        wowheadSetId: 2166
 
       # Vindictive Combatant's Dreadplate Armor [Combatant (Alliance)]
       - transmogSetId: 1163
-        wowheadSetId:
+        wowheadSetId: 2136
 
       # Vindictive Combatant's Dreadplate Armor [Combatant (Horde)]
       - transmogSetId: 1165
-        wowheadSetId:
+        wowheadSetId: 2137
 
     demon-hunter:
       # Vindictive Gladiator's Felskin Armor [Elite (Alliance)]
       - transmogSetId: 1112
-        wowheadSetId:
+        wowheadSetId: 2149
 
       # Vindictive Gladiator's Felskin Armor [Elite (Horde)]
       - transmogSetId: 1111
-        wowheadSetId:
+        wowheadSetId: 2149
 
       # Vindictive Gladiator's Felskin Armor [Gladiator (Alliance)]
       - transmogSetId: 1110
-        wowheadSetId:
+        wowheadSetId: 2147
 
       # Vindictive Gladiator's Felskin Armor [Gladiator (Horde)]
       - transmogSetId: 1109
-        wowheadSetId:
+        wowheadSetId: 2148
 
       # Vindictive Combatant's Felskin Armor [Combatant (Alliance)]
       - transmogSetId: 1167
-        wowheadSetId:
+        wowheadSetId: 2130
 
       # Vindictive Combatant's Felskin Armor [Combatant (Horde)]
       - transmogSetId: 1170
-        wowheadSetId:
+        wowheadSetId: 2131
 
     druid:
       # Vindictive Gladiator's Dragonhide Armor [Elite (Alliance)]
       - transmogSetId: 1100
-        wowheadSetId:
+        wowheadSetId: 2152
 
       # Vindictive Gladiator's Dragonhide Armor [Elite (Horde)]
       - transmogSetId: 1099
-        wowheadSetId:
+        wowheadSetId: 2152
 
       # Vindictive Gladiator's Dragonhide Armor [Gladiator (Alliance)]
       - transmogSetId: 1098
-        wowheadSetId:
+        wowheadSetId: 2150
 
       # Vindictive Gladiator's Dragonhide Armor [Gladiator (Horde)]
       - transmogSetId: 1097
-        wowheadSetId:
+        wowheadSetId: 2151
 
       # Vindictive Combatant's Dragonhide Armor [Combatant (Alliance)]
       - transmogSetId: 1168
-        wowheadSetId:
+        wowheadSetId: 2130
 
       # Vindictive Combatant's Dragonhide Armor [Combatant (Horde)]
       - transmogSetId: 1171
-        wowheadSetId:
+        wowheadSetId: 2131
 
     hunter:
       # Vindictive Gladiator's Chain Armor [Elite (Alliance)]
       - transmogSetId: 1115
-        wowheadSetId:
+        wowheadSetId: 2161
 
       # Vindictive Gladiator's Chain Armor [Elite (Horde)]
       - transmogSetId: 1116
-        wowheadSetId:
+        wowheadSetId: 2161
 
       # Vindictive Gladiator's Chain Armor [Gladiator (Alliance)]
       - transmogSetId: 1113
-        wowheadSetId:
+        wowheadSetId: 2159
 
       # Vindictive Gladiator's Chain Armor [Gladiator (Horde)]
       - transmogSetId: 1114
-        wowheadSetId:
+        wowheadSetId: 2160
 
       # Vindictive Combatant's Chain Armor [Combatant (Alliance)]
       - transmogSetId: 409
-        wowheadSetId:
+        wowheadSetId: 2133
 
       # Vindictive Combatant's Chain Armor [Combatant (Horde)]
       - transmogSetId: 410
-        wowheadSetId:
+        wowheadSetId: 2134
 
     mage:
       # Vindictive Gladiator's Silk Armor [Elite (Alliance)]
       - transmogSetId: 1096
-        wowheadSetId:
+        wowheadSetId: 2140
 
       # Vindictive Gladiator's Silk Armor [Elite (Horde)]
       - transmogSetId: 1095
-        wowheadSetId:
+        wowheadSetId: 2140
 
       # Vindictive Gladiator's Silk Armor [Gladiator (Alliance)]
       - transmogSetId: 1094
-        wowheadSetId:
+        wowheadSetId: 2138
 
       # Vindictive Gladiator's Silk Armor [Gladiator (Horde)]
       - transmogSetId: 1093
-        wowheadSetId:
+        wowheadSetId: 2139
 
       # Vindictive Combatant's Silk Armor [Combatant (Alliance)]
       - transmogSetId: 1137
-        wowheadSetId:
+        wowheadSetId: 2127
 
       # Vindictive Combatant's Silk Armor [Combatant (Horde)]
       - transmogSetId: 1159
-        wowheadSetId:
+        wowheadSetId: 2128
 
     monk:
       # Vindictive Gladiator's Ironskin Armor [Elite (Alliance)]
       - transmogSetId: 1119
-        wowheadSetId:
+        wowheadSetId: 2155
 
       # Vindictive Gladiator's Ironskin Armor [Elite (Horde)]
       - transmogSetId: 1120
-        wowheadSetId:
+        wowheadSetId: 2155
 
       # Vindictive Gladiator's Ironskin Armor [Gladiator (Alliance)]
       - transmogSetId: 1117
-        wowheadSetId:
+        wowheadSetId: 2153
 
       # Vindictive Gladiator's Ironskin Armor [Gladiator (Horde)]
       - transmogSetId: 1118
-        wowheadSetId:
+        wowheadSetId: 2154
 
       # Vindictive Combatant's Ironskin Armor [Combatant (Alliance)]
       - transmogSetId: 1169
-        wowheadSetId:
+        wowheadSetId: 2130
 
       # Vindictive Combatant's Ironskin Armor [Combatant (Horde)]
       - transmogSetId: 1172
-        wowheadSetId:
+        wowheadSetId: 2131
 
     paladin:
       # Vindictive Gladiator's Scaled Armor [Elite (Alliance)]
       - transmogSetId: 1123
-        wowheadSetId:
+        wowheadSetId: 2170
 
       # Vindictive Gladiator's Scaled Armor [Elite (Horde)]
       - transmogSetId: 1124
-        wowheadSetId:
+        wowheadSetId: 2170
 
       # Vindictive Gladiator's Scaled Armor [Gladiator (Alliance)]
       - transmogSetId: 1121
-        wowheadSetId:
+        wowheadSetId: 2168
 
       # Vindictive Gladiator's Scaled Armor [Gladiator (Horde)]
       - transmogSetId: 1122
-        wowheadSetId:
+        wowheadSetId: 2169
 
       # Vindictive Combatant's Scaled Armor [Combatant (Alliance)]
       - transmogSetId: 1164
-        wowheadSetId:
+        wowheadSetId: 2136
 
       # Vindictive Combatant's Scaled Armor [Combatant (Horde)]
       - transmogSetId: 1166
-        wowheadSetId:
+        wowheadSetId: 2137
 
     priest:
       # Vindictive Gladiator's Satin Armor [Elite (Alliance)]
       - transmogSetId: 392
-        wowheadSetId:
+        wowheadSetId: 2143
 
       # Vindictive Gladiator's Satin Armor [Elite (Horde)]
       - transmogSetId: 393
-        wowheadSetId:
+        wowheadSetId: 2143
 
       # Vindictive Gladiator's Satin Armor [Gladiator (Alliance)]
       - transmogSetId: 388
-        wowheadSetId:
+        wowheadSetId: 2141
 
       # Vindictive Gladiator's Satin Armor [Gladiator (Horde)]
       - transmogSetId: 390
-        wowheadSetId:
+        wowheadSetId: 2142
 
       # Vindictive Combatant's Satin Armor [Combatant (Alliance)]
       - transmogSetId: 1071
-        wowheadSetId:
+        wowheadSetId: 2127
 
       # Vindictive Combatant's Satin Armor [Combatant (Horde)]
       - transmogSetId: 1072
-        wowheadSetId:
+        wowheadSetId: 2128
 
     rogue:
       # Vindictive Gladiator's Leather Armor [Elite (Alliance)]
       - transmogSetId: 1127
-        wowheadSetId:
+        wowheadSetId: 2158
 
       # Vindictive Gladiator's Leather Armor [Elite (Horde)]
       - transmogSetId: 1128
-        wowheadSetId:
+        wowheadSetId: 2158
 
       # Vindictive Gladiator's Leather Armor [Gladiator (Alliance)]
       - transmogSetId: 1125
-        wowheadSetId:
+        wowheadSetId: 2156
 
       # Vindictive Gladiator's Leather Armor [Gladiator (Horde)]
       - transmogSetId: 1126
-        wowheadSetId:
+        wowheadSetId: 2157
 
       # Vindictive Combatant's Leather Armor [Combatant (Alliance)]
       - transmogSetId: 1068
-        wowheadSetId:
+        wowheadSetId: 2130
 
       # Vindictive Combatant's Leather Armor [Combatant (Horde)]
       - transmogSetId: 1067
-        wowheadSetId:
+        wowheadSetId: 2131
 
     shaman:
       # Vindictive Gladiator's Ringmail Armor [Elite (Alliance)]
       - transmogSetId: 1131
-        wowheadSetId:
+        wowheadSetId: 2164
 
       # Vindictive Gladiator's Ringmail Armor [Elite (Horde)]
       - transmogSetId: 1132
-        wowheadSetId:
+        wowheadSetId: 2164
 
       # Vindictive Gladiator's Ringmail Armor [Gladiator (Alliance)]
       - transmogSetId: 1129
-        wowheadSetId:
+        wowheadSetId: 2162
 
       # Vindictive Gladiator's Ringmail Armor [Gladiator (Horde)]
       - transmogSetId: 1130
-        wowheadSetId:
+        wowheadSetId: 2163
 
       # Vindictive Combatant's Ringmail Armor [Combatant (Alliance)]
       - transmogSetId: 1161
-        wowheadSetId:
+        wowheadSetId: 2133
 
       # Vindictive Combatant's Ringmail Armor [Combatant (Horde)]
       - transmogSetId: 1162
-        wowheadSetId:
+        wowheadSetId: 2134
 
     warlock:
       # Vindictive Gladiator's Felweave Armor [Elite (Alliance)]
       - transmogSetId: 1103
-        wowheadSetId:
+        wowheadSetId: 2146
 
       # Vindictive Gladiator's Felweave Armor [Elite (Horde)]
       - transmogSetId: 1104
-        wowheadSetId:
+        wowheadSetId: 2146
 
       # Vindictive Gladiator's Felweave Armor [Gladiator (Alliance)]
       - transmogSetId: 1101
-        wowheadSetId:
+        wowheadSetId: 2144
 
       # Vindictive Gladiator's Felweave Armor [Gladiator (Horde)]
       - transmogSetId: 1102
-        wowheadSetId:
+        wowheadSetId: 2145
 
       # Vindictive Combatant's Felweave Armor [Combatant (Alliance)]
       - transmogSetId: 1158
-        wowheadSetId:
+        wowheadSetId: 2127
 
       # Vindictive Combatant's Felweave Armor [Combatant (Horde)]
       - transmogSetId: 1160
-        wowheadSetId:
+        wowheadSetId: 2128
 
     warrior:
       # Vindictive Gladiator's Plate Armor [Elite (Alliance)]
       - transmogSetId: 1135
-        wowheadSetId:
+        wowheadSetId: 2173
 
       # Vindictive Gladiator's Plate Armor [Elite (Horde)]
       - transmogSetId: 1136
-        wowheadSetId:
+        wowheadSetId: 2173
 
       # Vindictive Gladiator's Plate Armor [Gladiator (Alliance)]
       - transmogSetId: 1133
-        wowheadSetId:
+        wowheadSetId: 2171
 
       # Vindictive Gladiator's Plate Armor [Gladiator (Horde)]
       - transmogSetId: 1134
-        wowheadSetId:
+        wowheadSetId: 2172
 
       # Vindictive Combatant's Plate Armor [Combatant (Alliance)]
       - transmogSetId: 1070
-        wowheadSetId:
+        wowheadSetId: 2136
 
       # Vindictive Combatant's Plate Armor [Combatant (Horde)]
       - transmogSetId: 1069
-        wowheadSetId:
+        wowheadSetId: 2137
