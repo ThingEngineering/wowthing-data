@@ -1,10 +1,6 @@
 name: "Unavailable"
 groups:
 
-- name: "Instances"
-  things:
-  - 199 # Amani War Bear (ZA)
-
 - name: "Racial - Alliance"
   things:
   - 46 # Ancient Frostsaber
