@@ -77,7 +77,7 @@ sets:
     sortKey: "9-armor-s17-2-5"
 
   - name: "Collections - S17"
-    range: 12
+    range: 13
     sortKey: "9-collections-s17"
 
   - name: "Weapons - S17"
