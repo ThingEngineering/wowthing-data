@@ -29,73 +29,73 @@ tags:
 sells:
   # Cloth
 
-  - type: transmog
+  - type: item
     id: 215176 # Ensemble: Breezebinder's Vestments
     costs:
       2778: 2500
 
-  - type: transmog
+  - type: item
     id: 215181 # Ensemble: Breezebinder's Vestments
     costs:
       2778: 2500
 
-  - type: transmog
+  - type: item
     id: 215182 # Ensemble: Breezebinder's Vestments
     costs:
       2778: 2500
 
   # Leather
 
-  - type: transmog
+  - type: item
     id: 215221 # Ensemble: Mogubreaker Battlegear
     costs:
       2778: 2500
 
-  - type: transmog
+  - type: item
     id: 215222 # Ensemble: Mogubreaker Battlegear
     costs:
       2778: 2500
 
-  - type: transmog
+  - type: item
     id: 215223 # Ensemble: Mogubreaker Battlegear
     costs:
       2778: 2500
 
-  - type: transmog
+  - type: item
     id: 215224 # Ensemble: Mogubreaker Battlegear
     costs:
       2778: 2500
 
   # Mail
 
-  - type: transmog
+  - type: item
     id: 215272 # Ensemble: Mogu Lord's Regalia
     costs:
       2778: 2500
 
-  - type: transmog
+  - type: item
     id: 215273 # Ensemble: Mogu Lord's Regalia
     costs:
       2778: 2500
 
-  - type: transmog
+  - type: item
     id: 215274 # Ensemble: Mogu Lord's Regalia
     costs:
       2778: 2500
 
   # Plate
 
-  - type: transmog
+  - type: item
     id: 215310 # Ensemble: Swarmbreaker's Battleplate
     costs:
       2778: 2500
 
-  - type: transmog
+  - type: item
     id: 215311 # Ensemble: Swarmbreaker's Battleplate
     costs:
       2778: 2500
 
-  - type: transmog
+  - type: item
     id: 215312 # Ensemble: Swarmbreaker's Battleplate
     costs:
       2778: 2500

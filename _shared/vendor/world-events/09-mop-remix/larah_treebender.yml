@@ -42,310 +42,310 @@ sells:
 
   # Cloth
 
-  - type: transmog
+  - type: item
     id: 215186 # Ensemble: Mistwalker's Vestments
     costs:
       2778: 750
 
-  - type: transmog
+  - type: item
     id: 215187 # Ensemble: Mistwalker's Vestments
     costs:
       2778: 750
 
-  - type: transmog
+  - type: item
     id: 215188 # Ensemble: Mistwalker's Vestments
     costs:
       2778: 750
 
-  - type: transmog
+  - type: item
     id: 215183 # Ensemble: Spirit-Waker's Vestments
     costs:
       2778: 750
 
-  - type: transmog
+  - type: item
     id: 215184 # Ensemble: Spirit-Waker's Vestments
     costs:
       2778: 750
 
-  - type: transmog
+  - type: item
     id: 215185 # Ensemble: Spirit-Waker's Vestments
     costs:
       2778: 750
 
-  - type: transmog
+  - type: item
     id: 215216 # Ensemble: Vestments of the Eternal Dynasty
     costs:
       2778: 2000
 
-  - type: transmog
+  - type: item
     id: 215217 # Ensemble: Vestments of the Eternal Dynasty
     costs:
       2778: 2000
 
-  - type: transmog
+  - type: item
     id: 215218 # Ensemble: Vestments of the Eternal Dynasty
     costs:
       2778: 2000
 
   # Leather
 
-  - type: transmog
+  - type: item
     id: 215229 # Ensemble: Mistveil Leathers
     costs:
       2778: 750
 
-  - type: transmog
+  - type: item
     id: 215230 # Ensemble: Mistveil Leathers
     costs:
       2778: 750
 
-  - type: transmog
+  - type: item
     id: 215231 # Ensemble: Mistveil Leathers
     costs:
       2778: 750
 
-  - type: transmog
+  - type: item
     id: 215232 # Ensemble: Mistveil Leathers
     costs:
       2778: 750
 
-  - type: transmog
+  - type: item
     id: 215269 # Ensemble: Snowdrift Battlegear
     costs:
       2778: 2000
 
-  - type: transmog
+  - type: item
     id: 215270 # Ensemble: Snowdrift Battlegear
     costs:
       2778: 2000
 
-  - type: transmog
+  - type: item
     id: 215271 # Ensemble: Snowdrift Battlegear
     costs:
       2778: 2000
 
-  - type: transmog
+  - type: item
     id: 215225 # Ensemble: Thunderpaw Battlegear
     costs:
       2778: 750
 
-  - type: transmog
+  - type: item
     id: 215226 # Ensemble: Thunderpaw Battlegear
     costs:
       2778: 750
 
-  - type: transmog
+  - type: item
     id: 215227 # Ensemble: Thunderpaw Battlegear
     costs:
       2778: 750
 
-  - type: transmog
+  - type: item
     id: 215228 # Ensemble: Thunderpaw Battlegear
     costs:
       2778: 750
 
   # Mail
 
-  - type: transmog
+  - type: item
     id: 215282 # Ensemble: Dawnwatcher's Scale Armor
     costs:
       2778: 750
 
-  - type: transmog
+  - type: item
     id: 215283 # Ensemble: Dawnwatcher's Scale Armor
     costs:
       2778: 750
 
-  - type: transmog
+  - type: item
     id: 215284 # Ensemble: Dawnwatcher's Scale Armor
     costs:
       2778: 750
 
-  - type: transmog
+  - type: item
     id: 215306 # Ensemble: Jade Guardian's Regalia
     costs:
       2778: 2000
 
-  - type: transmog
+  - type: item
     id: 215307 # Ensemble: Jade Guardian's Regalia
     costs:
       2778: 2000
 
-  - type: transmog
+  - type: item
     id: 215308 # Ensemble: Jade Guardian's Regalia
     costs:
       2778: 2000
 
-  - type: transmog
+  - type: item
     id: 215309 # Ensemble: Jade Guardian's Regalia
     costs:
       2778: 2000
 
-  - type: transmog
+  - type: item
     id: 215278 # Ensemble: Trailseeker's Laminar Armor
     costs:
       2778: 750
 
-  - type: transmog
+  - type: item
     id: 215279 # Ensemble: Trailseeker's Laminar Armor
     costs:
       2778: 750
 
-  - type: transmog
+  - type: item
     id: 215280 # Ensemble: Trailseeker's Laminar Armor
     costs:
       2778: 750
 
-  - type: transmog
+  - type: item
     id: 215281 # Ensemble: Trailseeker's Laminar Armor
     costs:
       2778: 750
 
   # Plate
 
-  - type: transmog
+  - type: item
     id: 215348 # Ensemble: Gatecrasher's Battleplate
     costs:
       2778: 2000
 
-  - type: transmog
+  - type: item
     id: 215349 # Ensemble: Gatecrasher's Battleplate
     costs:
       2778: 2000
 
-  - type: transmog
+  - type: item
     id: 215350 # Ensemble: Gatecrasher's Battleplate
     costs:
       2778: 2000
 
-  - type: transmog
+  - type: item
     id: 215351 # Ensemble: Gatecrasher's Battleplate
     costs:
       2778: 2000
 
-  - type: transmog
+  - type: item
     id: 215316 # Ensemble: Shan'ze Warplate
     costs:
       2778: 750
 
-  - type: transmog
+  - type: item
     id: 215317 # Ensemble: Shan'ze Warplate
     costs:
       2778: 750
 
-  - type: transmog
+  - type: item
     id: 215318 # Ensemble: Shan'ze Warplate
     costs:
       2778: 750
 
-  - type: transmog
+  - type: item
     id: 215319 # Ensemble: Shan'ze Warplate
     costs:
       2778: 750
 
-  - type: transmog
+  - type: item
     id: 215313 # Ensemble: Spiritguard's Warplate
     costs:
       2778: 750
 
-  - type: transmog
+  - type: item
     id: 215314 # Ensemble: Spiritguard's Warplate
     costs:
       2778: 750
 
-  - type: transmog
+  - type: item
     id: 215315 # Ensemble: Spiritguard's Warplate
     costs:
       2778: 750
 
   # Shared
 
-  - type: transmog
+  - type: item
     id: 215219 # Ensemble: Guise of the Shado-Pan
     costs:
       2778: 2500
 
-  - type: transmog
+  - type: item
     id: 215220 # Ensemble: Guise of the Shado-Pan
     costs:
       2778: 2500
 
-  - type: transmog
+  - type: item
     id: 215275 # Ensemble: Kor'kron Shaman Vestments
     costs:
       2778: 2500
 
-  - type: transmog
+  - type: item
     id: 215276 # Ensemble: Kor'kron Shaman Vestments
     costs:
       2778: 2500
 
-  - type: transmog
+  - type: item
     id: 215277 # Ensemble: Kor'kron Shaman Vestments
     costs:
       2778: 2500
 
-  - type: transmog
+  - type: item
     id: 215352 # Ensemble: Robes of Quiet Reflection
     costs:
       2778: 1250
 
-  - type: transmog
+  - type: item
     id: 215353 # Ensemble: Robes of Quiet Reflection
     costs:
       2778: 1250
 
-  - type: transmog
+  - type: item
     id: 215354 # Ensemble: Robes of Quiet Reflection
     costs:
       2778: 1250
 
-  - type: transmog
+  - type: item
     id: 215355 # Ensemble: Robes of Quiet Reflection
     costs:
       2778: 1250
 
-  - type: transmog
+  - type: item
     id: 215285 # Ensemble: Sun Pearl Clothing
     costs:
       2778: 1250
 
-  - type: transmog
+  - type: item
     id: 215286 # Ensemble: Sun Pearl Clothing
     costs:
       2778: 1250
 
-  - type: transmog
+  - type: item
     id: 215287 # Ensemble: Sun Pearl Clothing
     costs:
       2778: 1250
 
-  - type: transmog
+  - type: item
     id: 215238 # Ensemble: Tian Monastery Clothing
     costs:
       2778: 1250
 
-  - type: transmog
+  - type: item
     id: 215239 # Ensemble: Tian Monastery Clothing
     costs:
       2778: 1250
 
-  - type: transmog
+  - type: item
     id: 215240 # Ensemble: Tian Monastery Clothing
     costs:
       2778: 1250
 
-  - type: transmog
+  - type: item
     id: 215356 # Ensemble: Vestments of Serenity
     costs:
       2778: 1250
 
-  - type: transmog
+  - type: item
     id: 215357 # Ensemble: Vestments of Serenity
     costs:
       2778: 1250
 
-  - type: transmog
+  - type: item
     id: 215358 # Ensemble: Vestments of Serenity
     costs:
       2778: 1250
