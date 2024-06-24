@@ -7,6 +7,10 @@ locations:
     - 42.8 27.6
 
 sets:
+  - name: "Misc"
+    range: 1
+    sortKey: 0-misc
+
   - name: "Ensembles - World Cloth"
     range: 9
     sortKey: 2-02-1
@@ -31,6 +35,11 @@ tags:
   - "remix-pandaria"
 
 sells:
+  - type: item
+    id: 226127 # Recruit's Shirt
+    costs:
+      2778: 5
+
   # Cloth
 
   - type: transmog
