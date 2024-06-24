@@ -7,6 +7,10 @@ locations:
     - 42.8 27.4
 
 sets:
+  - name: "Misc"
+    range: 1
+    sortKey: 0-misc
+
   - name: "Toys"
     range: -1
     sortKey: 0-toys
@@ -16,6 +20,11 @@ tags:
 
 sells:
   # 0
+
+  - type: item
+    id: 89196 # Theramore Tabard [tabard]
+    costs:
+      2778: 500
 
   - type: item
     id: 86589 # Ai-Li's Skymirror
@@ -88,6 +97,11 @@ sells:
       2778: 3850
 
   - type: item
+    id: 89205 # Mini Mana Bomb
+    costs:
+      2778: 500
+
+  - type: item
     id: 86568 # Mr. Smite's Brass Compass
     costs:
       2778: 7700
@@ -121,4 +135,3 @@ sells:
     id: 104331 # Warning Sign
     costs:
       2778: 38500
-
