@@ -80,6 +80,11 @@ sells:
     costs:
       2778: 5000
 
+  - type: transmog # Warrior
+    id: 215341 # Ensemble: Battleplate of Resounding Rings
+    costs:
+      2778: 5000
+
   # T15 Normal
 
   - type: transmog # Death Knight
