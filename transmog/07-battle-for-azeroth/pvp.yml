@@ -3,7 +3,7 @@ skipClasses:
 - evoker
 groups:
 
-- name: "Battle Season 4"
+- name: "Battle Season 4" # Corrupted
   tag: S27
   type: armor
   sets:
@@ -51,7 +51,22 @@ groups:
       - transmogSetId: 1951
         wowheadSetId:
 
-- name: "Battle Season 3"
+- name: "Battle Season 4" # Corrupted
+  tag: S27
+  type: all
+  sets:
+    - ":alliance: Gladiator Weapons"
+    - ":horde: Gladiator Weapons"
+    - ":alliance: Aspirant Weapons"
+    - ":horde: Aspirant Weapons"
+  data:
+    all:
+      - transmogSetId: 2198
+      - transmogSetId: 2199
+      - transmogSetId: 2196
+      - transmogSetId: 2197
+
+- name: "Battle Season 3" # Notorious
   tag: S26
   type: armor
   sets:
@@ -138,7 +153,22 @@ groups:
       - transmogSetId: 1874
         wowheadSetId: 2968
 
-- name: "Battle Season 2"
+- name: "Battle Season 3" # Notorious
+  tag: S26
+  type: all
+  sets:
+    - ":alliance: Gladiator Weapons"
+    - ":horde: Gladiator Weapons"
+    - ":alliance: Aspirant Weapons"
+    - ":horde: Aspirant Weapons"
+  data:
+    all:
+      - transmogSetId: 2195
+      - transmogSetId: 2194
+      - transmogSetId: 2193
+      - transmogSetId: 2192
+
+- name: "Battle Season 2" # Sinister
   tag: S25
   type: armor
   sets:
@@ -225,7 +255,22 @@ groups:
       - transmogSetId: 1746
         wowheadSetId: 2927
 
-- name: "Battle Season 1"
+- name: "Battle Season 2" # Sinister
+  tag: S25
+  type: all
+  sets:
+    - ":alliance: Gladiator Weapons"
+    - ":horde: Gladiator Weapons"
+    - ":alliance: Aspirant Weapons"
+    - ":horde: Aspirant Weapons"
+  data:
+    all:
+      - transmogSetId: 2191
+      - transmogSetId: 2190
+      - transmogSetId: 2189
+      - transmogSetId: 2188
+
+- name: "Battle Season 1" # Dread
   tag: S24
   type: armor
   sets:
@@ -312,3 +357,18 @@ groups:
 
       - transmogSetId: 1676
         wowheadSetId: 2894
+
+- name: "Battle Season 1" # Dread
+  tag: S24
+  type: all
+  sets:
+    - ":alliance: Gladiator Weapons"
+    - ":horde: Gladiator Weapons"
+    - ":alliance: Aspirant Weapons"
+    - ":horde: Aspirant Weapons"
+  data:
+    all:
+      - transmogSetId: 2184
+      - transmogSetId: 2185
+      - transmogSetId: 2186
+      - transmogSetId: 2187

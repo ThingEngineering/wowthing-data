@@ -66,6 +66,15 @@ groups:
       wowheadSetId: 863
       items:
 
+- name: "Season 8"
+  tag: S8
+  type: all
+  sets:
+    - "Gladiator Weapons"
+  data:
+    all:
+      - transmogSetId: 883
+
 - name: Season 7
   type: class
   sets:
@@ -133,6 +142,15 @@ groups:
       wowheadSetId: 862
       items:
 
+- name: "Season 7"
+  tag: S7
+  type: all
+  sets:
+    - "Gladiator Weapons"
+  data:
+    all:
+      - transmogSetId: 885
+
 - name: Season 6
   type: class
   sets:
@@ -199,12 +217,21 @@ groups:
       wowheadSetId: 861
       items:
 
+- name: "Season 6"
+  tag: S6
+  type: all
+  sets:
+    - "Gladiator Weapons"
+  data:
+    all:
+      - transmogSetId: 923
+
 - name: Season 5
   type: class
   sets:
   - Gladiator
   - Honor
-  - PVP Rare
+  - Justice
   data:
     death-knight:
     - name: Deadly Gladiator's Dreadplate Armor
@@ -367,3 +394,14 @@ groups:
       transmogSetId: 806 # PVP Rare
       wowheadSetId: 860
       items:
+
+- name: "Season 5"
+  tag: S5
+  type: all
+  sets:
+    - "Gladiator Weapons"
+    - "Justice Weapons"
+  data:
+    all:
+      - transmogSetId: 929 # Deadly
+      - transmogSetId: 930 # Savage

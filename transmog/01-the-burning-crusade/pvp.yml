@@ -47,6 +47,15 @@ groups:
       - transmogSetId: 946 # Brutal Gladiator's Plate Armor [Gladiator]
         wowheadSetId: 857
 
+- name: "Season 4"
+  tag: S4
+  type: all
+  sets:
+    - "Gladiator Weapons"
+  data:
+    all:
+      - transmogSetId: 1006
+
 - name: "Season 3"
   type: class
   sets:
@@ -87,6 +96,15 @@ groups:
     warrior:
       - transmogSetId: 954 # Vengeful Gladiator's Plate Armor [Gladiator]
         wowheadSetId: 856
+
+- name: "Season 3"
+  tag: S3
+  type: all
+  sets:
+    - "Gladiator Weapons"
+  data:
+    all:
+      - transmogSetId: 1007
 
 - name: "Season 2"
   type: class
@@ -129,6 +147,15 @@ groups:
       - transmogSetId: 962 # Merciless Gladiator's Plate Armor [Gladiator]
         wowheadSetId: 855
 
+- name: "Season 2"
+  tag: S2
+  type: all
+  sets:
+    - "Gladiator Weapons"
+  data:
+    all:
+      - transmogSetId: 1008
+
 - name: "Season 1"
   type: class
   sets:
@@ -139,10 +166,8 @@ groups:
         wowheadSetId: 952
 
     hunter:
-      # Gladiator set=976
-      - name: "Gladiator's Chain Armor"
+      - transmogSetId: 976 # Gladiator's Chain Armor [Gladiator]
         wowheadSetId: 714
-        items:
 
     mage:
       - transmogSetId: 975 # Gladiator's Silk Armor [Gladiator]
@@ -171,3 +196,12 @@ groups:
     warrior:
       - transmogSetId: 381 # Gladiator's Plate Armor [Gladiator]
         wowheadSetId: 854
+
+- name: "Season 1"
+  tag: S1
+  type: all
+  sets:
+    - "Gladiator Weapons"
+  data:
+    all:
+      - transmogSetId: 1009

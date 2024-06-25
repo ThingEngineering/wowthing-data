@@ -290,6 +290,21 @@ groups:
       - transmogSetId: 49
         wowheadSetId:
 
+- name: "Warlords Season 3"
+  tag: S18
+  type: all
+  sets:
+    - ":alliance: Gladiator Weapons"
+    - ":horde: Gladiator Weapons"
+    - ":alliance: Combatant Weapons"
+    - ":horde: Combatant Weapons"
+  data:
+    all:
+      - transmogSetId: 150
+      - transmogSetId: 149
+      - transmogSetId: 152
+      - transmogSetId: 151
+
 - name: "Warlords Season 2"
   tag: S17
   type: class
@@ -576,6 +591,21 @@ groups:
       - transmogSetId: 21
         wowheadSetId:
 
+- name: "Warlords Season 2" # Wild
+  tag: S17
+  type: all
+  sets:
+    - ":alliance: Gladiator Weapons"
+    - ":horde: Gladiator Weapons"
+    - ":alliance: Combatant Weapons"
+    - ":horde: Combatant Weapons"
+  data:
+    all:
+      - transmogSetId: 148
+      - transmogSetId: 147
+      - transmogSetId: 154
+      - transmogSetId: 153
+
 - name: "Warlords Season 1"
   tag: S16
   type: class
@@ -861,3 +891,18 @@ groups:
       # Primal Combatant's Plate Armor [Combatant (Horde)]
       - transmogSetId: 71
         wowheadSetId:
+
+- name: "Warlords Season 1"
+  tag: S16
+  type: all
+  sets:
+    - ":alliance: Gladiator Weapons"
+    - ":horde: Gladiator Weapons"
+    - ":alliance: Combatant Weapons"
+    - ":horde: Combatant Weapons"
+  data:
+    all:
+      - transmogSetId: 146
+      - transmogSetId: 145
+      - transmogSetId: 156
+      - transmogSetId: 155

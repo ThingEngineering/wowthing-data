@@ -5,7 +5,7 @@ skipClasses:
 - monk
 groups:
 
-- name: Season 11
+- name: Season 11 # Cataclysmic
   type: class
   sets:
   - Elite*
@@ -101,7 +101,16 @@ groups:
       - transmogSetId: 588
         wowheadSetId: 1224
 
-- name: Season 10
+- name: "Season 11"
+  tag: S11
+  type: all
+  sets:
+    - "Gladiator Weapons"
+  data:
+    all:
+      - transmogSetId: 878
+
+- name: Season 10 # Ruthless
   type: class
   sets:
   - Elite*
@@ -197,7 +206,16 @@ groups:
       - transmogSetId: 606
         wowheadSetId: 865
 
-- name: Season 9
+- name: "Season 10"
+  tag: S10
+  type: all
+  sets:
+    - "Gladiator Weapons"
+  data:
+    all:
+      - transmogSetId: 879
+
+- name: Season 9 # Vicious
   type: class
   sets:
   - Elite*
@@ -332,3 +350,12 @@ groups:
       # Honor
       - transmogSetId: 1193
         wowheadSetId: 864
+
+- name: "Season 9" # Vicious
+  tag: S9
+  type: all
+  sets:
+    - "Gladiator Weapons"
+  data:
+    all:
+      - transmogSetId: 881

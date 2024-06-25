@@ -144,22 +144,6 @@ groups:
       - transmogSetId: 2568
         wowheadSetId:
 
-- name: "Shadowlands Season 4"
-  tag: S31
-  type: all
-  sets:
-    - "Gladiator Weapons"
-    - "Aspirant Weapons"
-  data:
-    all:
-      # Cosmic Gladiator's Arsenal [Gladiator]
-      - transmogSetId: 2750
-        wowheadSetId:
-
-      # Cosmic Aspirant's Arsenal [Aspirant]
-      - transmogSetId: 2751
-        wowheadSetId:
-
 - name: "Shadowlands Season 3"
   tag: S30
   type: class
@@ -301,6 +285,22 @@ groups:
       - transmogSetId: 2319
         wowheadSetId:
 
+- name: "Shadowlands Season 3"
+  tag: S30
+  type: all
+  sets:
+    - "Gladiator Weapons"
+    - "Aspirant Weapons"
+  data:
+    all:
+      # Cosmic Gladiator's Arsenal [Gladiator]
+      - transmogSetId: 2750
+        wowheadSetId:
+
+      # Cosmic Aspirant's Arsenal [Aspirant]
+      - transmogSetId: 2751
+        wowheadSetId:
+
 - name: Shadowlands Season 2
   tag: S29
   type: armor
@@ -376,7 +376,6 @@ groups:
       # Unchained Aspirant's Arsenal [Aspirant]
       - transmogSetId: 2752
         wowheadSetId:
-
 
 - name: Shadowlands Season 1
   tag: S28

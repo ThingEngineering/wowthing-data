@@ -199,6 +199,17 @@ groups:
       - transmogSetId: 249
         wowheadSetId: 2521
 
+- name: "Season 15" # Prideful
+  tag: S15
+  type: all
+  sets:
+    - ":alliance: Gladiator Weapons"
+    - ":horde: Gladiator Weapons"
+  data:
+    all:
+      - transmogSetId: 290
+      - transmogSetId: 291
+
 - name: "Season 14"
   type: class
   sets:
@@ -369,6 +380,17 @@ groups:
 
       - transmogSetId: 205 # Grievous Gladiator's Plate Armor [Gladiator (Horde)]
         wowheadSetId: 1703
+
+- name: "Season 14" # Grievous
+  tag: S14
+  type: all
+  sets:
+    - ":alliance: Gladiator Weapons"
+    - ":horde: Gladiator Weapons"
+  data:
+    all:
+      - transmogSetId: 293
+      - transmogSetId: 292
 
 - name: "Season 13"
   type: class
@@ -543,6 +565,17 @@ groups:
       - transmogSetId: 261 # Tyrannical Gladiator's Plate Armor [Gladiator (Horde)]
         wowheadSetId: 1573
 
+- name: "Season 13" # Tyrannical
+  tag: S13
+  type: all
+  sets:
+    - ":alliance: Gladiator Weapons"
+    - ":horde: Gladiator Weapons"
+  data:
+    all:
+      - transmogSetId: 289
+      - transmogSetId: 288
+
 - name: "Season 12"
   type: class
   sets:
@@ -659,3 +692,12 @@ groups:
 
       - transmogSetId: 193 # Dreadful Gladiator's Plate Armor [Honor]
         wowheadSetId: 1410
+
+- name: "Season 12" # Malevolent
+  tag: S12
+  type: all
+  sets:
+    - "Gladiator Weapons"
+  data:
+    all:
+      - transmogSetId: 287
