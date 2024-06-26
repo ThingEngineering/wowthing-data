@@ -185,18 +185,6 @@ sells:
     costs:
       2778: 2200
 
-  # Quilen
-
-  - type: item
-    id: 213601 # Reins of the Guardian Quilen
-    costs:
-      2778: 6600
-
-  - type: item
-    id: 213600 # Reins of the Marble Quilen
-    costs:
-      2778: 6600
-
   # Pterrordax
 
   - type: item
@@ -219,6 +207,18 @@ sells:
     costs:
       2778: 4400
 
+  # Quilen
+
+  - type: item
+    id: 213601 # Reins of the Guardian Quilen
+    costs:
+      2778: 6600
+
+  - type: item
+    id: 213600 # Reins of the Marble Quilen
+    costs:
+      2778: 6600
+
   # Windsteed
 
   - type: item
@@ -235,3 +235,20 @@ sells:
     id: 213597 # Reins of the Forest Windsteed
     costs:
       2778: 6600
+
+  # Yak
+
+  - type: item
+    id: 87786 # Reins of the Black Riding Yak
+    costs:
+      2778: 2200
+
+  - type: item
+    id: 84753 # Reins of the Kafka Yak
+    costs:
+      2778: 2200
+
+  - type: item
+    id: 87787 # Reins of the Modest Expedition Yak
+    costs:
+      2778: 2200
