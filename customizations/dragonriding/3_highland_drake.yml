@@ -15,6 +15,8 @@ groups:
       - itemId: 197128 # Highland Drake: Curled Back Horns
       - itemId: 197116 # Highland Drake: Ears
       - itemId: 201792 # Highland Drake: Embodiment of the Crimson Gladiator
+      - itemId: 216710 # Highland Drake: Embodiment of the Draconic Gladiator
+      - itemId: 205876 # Highland Drake: Embodiment of the Hellforged
       - itemId: 197098 # Highland Drake: Finned Back
       - itemId: 197106 # Highland Drake: Finned Head
       - itemId: 197155 # Highland Drake: Finned Neck
@@ -38,6 +40,7 @@ groups:
       - itemId: 197138 # Highland Drake: Pattern 1
       - itemId: 197139 # Highland Drake: Pattern 2
       - itemId: 197140 # Highland Drake: Pattern 3
+      - itemId: 208858 # Highland Drake: Pirates' Day Armor
       - itemId: 197110 # Highland Drake: Plated Head
       - itemId: 197144 # Highland Drake: Red Scales
       - itemId: 197141 # Highland Drake: Scaled Pattern
@@ -68,4 +71,6 @@ groups:
       - itemId: 197135 # Highland Drake: Toothy Mouth
       - itemId: 197107 # Highland Drake: Triple Finned Head
       - itemId: 197148 # Highland Drake: Vertical Finned Tail
+      - itemId: 208103 # Highland Drake: Visage of the Infinite
       - itemId: 197146 # Highland Drake: White Scales
+      - itemId: 210432 # Highland Drake: Winter Veil Armor

@@ -15,6 +15,7 @@ groups:
     - itemId: 196981 # Cliffside Wylderdrake: Conical Head
     - itemId: 196979 # Cliffside Wylderdrake: Curled Head Horns
     - itemId: 197015 # Cliffside Wylderdrake: Dark Skin Variation
+    - itemId: 208859 # Cliffside Wylderdrake: Day of the Dead Armor
     - itemId: 196973 # Cliffside Wylderdrake: Dual Horned Chin
     - itemId: 196982 # Cliffside Wylderdrake: Ears
     - itemId: 196969 # Cliffside Wylderdrake: Finned Back
@@ -39,6 +40,7 @@ groups:
     - itemId: 196983 # Cliffside Wylderdrake: Maned Jaw
     - itemId: 197023 # Cliffside Wylderdrake: Maned Neck
     - itemId: 197016 # Cliffside Wylderdrake: Maned Tail
+    - itemId: 224163 # Cliffside Wylderdrake: Midsummer Fire Festival Armor
     - itemId: 197008 # Cliffside Wylderdrake: Narrow Stripes Pattern
     - itemId: 196972 # Cliffside Wylderdrake: Plated Brow
     - itemId: 197006 # Cliffside Wylderdrake: Plated Nose
@@ -62,6 +64,7 @@ groups:
     - itemId: 196968 # Cliffside Wylderdrake: Steel and Yellow Armor
     - itemId: 196999 # Cliffside Wylderdrake: Swept Horns
     - itemId: 196980 # Cliffside Wylderdrake: Triple Head Horns
+    - itemId: 208102 # Cliffside Wylderdrake: Visage of the Infinite
     - itemId: 196989 # Cliffside Wylderdrake: White Hair
     - itemId: 197014 # Cliffside Wylderdrake: White Scales
     - itemId: 197007 # Cliffside Wylderdrake: Wide Stripes Pattern
