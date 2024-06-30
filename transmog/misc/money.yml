@@ -4,22 +4,26 @@ groups:
 - name: "Store"
   type: all
   sets:
-    - "Celestial Observer's Ensemble*"
-    - "Dreadlord's Shadowsbane Regalia*"
-    - "Dreadlord's Venombane Regalia*"
-    - "Fireplume Regalia*"
-    - "Gladiator's Ragged Armor*"
-    - "Green Snugglefin Murloc Romper*"
-    - "High Scholar's Arcana*"
-    - "Sky-Captain's Masquerade Attire*"
-    - "Solemn Watchman's Garb*"
-    - "Sprite Darter's Wings*"
-    - "Twilight Witch's Attire*"
-    - "Vestments of the Eternal Traveler*"
-    - "Waveborne Diplomat's Regalia*"
-    - "Wendigo Woolies*"
+    - "Baby Murloc Satch-Shells$"
+    - "Celestial Observer's Ensemble$"
+    - "Dreadlord's Shadowsbane Regalia$"
+    - "Dreadlord's Venombane Regalia$"
+    - "Fireplume Regalia$"
+    - "Gladiator's Ragged Armor$"
+    - "Green Snugglefin Murloc Romper$"
+    - "High Scholar's Arcana$"
+    - "Sky-Captain's Masquerade Attire$"
+    - "Solemn Watchman's Garb$"
+    - "Sprite Darter's Wings$"
+    - "Twilight Witch's Attire$"
+    - "Vestments of the Eternal Traveler$"
+    - "Waveborne Diplomat's Regalia$"
+    - "Wendigo Woolies$"
+    - "Wings of Awakening$"
   data:
     all:
+      - transmogSetId: 2291 # Baby Murloc Satch-Shells
+
       - transmogSetId: 2200 # Celestial Observer's Ensemble
         wowheadSetId:
 
@@ -61,3 +65,5 @@ groups:
 
       - transmogSetId: 1903 # Wendigo Woolies
         wowheadSetId:
+
+      - transmogSetId: 2293 # Wings of Awakening
