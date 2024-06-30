@@ -1,29 +1,40 @@
 name: "Trading Post"
 groups:
 
+- name: "Bonus Reward"
+  things:
+  - 1577 # Ash'adar, Harbringer of Dawn (February 2023)
+  - 1582 # Savage Green Battle Turtle (May 2023)
+  - 1575 # Quawks (June 2023)
+  - 1744 # Grotto Netherwing Drake (July 2023)
+  - 1574 # Crusty Crawler (September 2023)
+  - 1799 # Eve's Ghastly Rider (October 2023)
+
 - name: "Trading Post"
   things:
-    - 1785 # Ancestral Clefthoof
-    - 1583 # Armored Siege Kodo
-    - 1586 # Armored Golden Pterrordax
-    - 1577 # Ash'adar, Harbinger of Dawn
-    - 376 # Celestial Steed
-    - 1595 # Cerulean Marsh Hopper
-    - 646 # Coldflame Infernal
-    - 1579 # Coral-Stalker Waveray
-    - 1841 # Crimson Glimmerfur
-    - 1574 # Crusty Crawler
-    - 1799 # Eve's Ghastly Rider
-    - 1742 # Felcrystal Scorpion
-    - 799 # Flarecore Infernal
-    - 1944 # Golden Regal Scarab
-    - 1744 # Grotto Netherwing Drake
-    - 1942 # Jeweled Copper Scarab
-    - 1573 # Magenta Cloud Serpent
-    - 1575 # Quawks
-    - 1784 # Royal Swarmer
-    - 1582 # Savage Green Battle Turtle
-    - 440 441 # Spectral Gryphon/Spectral Wind Rider (Scroll of Resurrection)
-    - 441 440 # ^ reversed
-    - 224 # Swift Zhevra
-    - 439 # Tyrael's Charger (Annual Pass)
+  - 376 # Celestial Steed (February 2023)
+  - 1573 # Magenta Cloud Serpent (April 2023)
+  - 1784 # Royal Swarmer (June 2023)
+  - 454 # Cindermane Charger (June 2023)
+  - 439 # Tyrael's Charger (July 2023)
+  - 1742 # Felcrystal Scorpion (July 2023)
+  - 1266 # Alabaster Stormtalon (August 2023)
+  - 1267 # Alabaster Thunderwing (August 2023)
+  - 1785 # Ancestral Clefthoof (August 2023)
+  - 646 # Coldflame Infernal (October 2023)
+  - 224 # Swift Zhevra (November 2023)
+  - 440 # Spectral Gryphon (November 2023)
+  - 441 # Spectral Wind Rider (November 2023)
+  - 1841 # Crimson Glimmerfur (December 2023)
+  - 1586 # Armored Golden Pterrordax (January 2024)
+  - 1942 # Jeweled Copper Scarab (January 2024)
+  - 382 # X-53 Touring Rocket (February 2024)
+  - 1956 # Fur-endship Fox (February 2024)
+  - 2035 # Majestic Azure Peafowl (March 2024)
+  - 1051 # The Dreadwake (April 2024)
+  - 2039 # Savage Blue Battle Turtle (April 2024)
+  - 1468 # Amber Skitterfly (May 2024)
+  - 371 # Blazing Hippogryph (May 2024)
+  - 2152 # Pearlescent Goblin Wave Shredder (June 2024)
+  - 125 # Riding Turtle (June 2024)
+  - 2189 # Underlight Corrupted Behemoth (July 2024)

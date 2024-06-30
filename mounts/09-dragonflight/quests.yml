@@ -7,7 +7,9 @@ groups:
   - 1563 # Highland Drake (Dragon Isles: Highland Drake)
   - 1589 # Renewed Proto-Drake (Dragon Isles: A New Friend)
   - 1590 # Windborne Velocidrake (Dragon Isles: Windborne Velocidrake)
+  - 1588 # Winding Slitherdrake (Worst of the Worst)
   - 1830 # Flourishing Whimsydrake (Emerald Welcome)
+  - 1744 # Grotto Netherwing Drake (Dragon Keeping)
 
 - name: "Ohn'ahran Plains"
   things:
@@ -15,6 +17,7 @@ groups:
 
 - name: "Azure Span"
   things:
+  - 1674 # Temperamental Skyclaw
   - 1727 # Tarecgosa's Visage
 
 - name: "Zaralek Cavern"
