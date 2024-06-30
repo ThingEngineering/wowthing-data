@@ -3,7 +3,7 @@ skipClasses:
 - evoker
 groups:
 
-- name: "Shadowlands Season 4"
+- name: "Shadowlands Season 4" # Unburied / Eternal
   tag: S31
   type: class
   sets:
