@@ -133,90 +133,99 @@ groups:
       - transmogSetId: 447
         wowheadSetId: 2125
 
-- name: "Assaults"
+- name: "Misc"
   type: armor
   sets:
     - "Assaults"
+    - "Chests"
+    - "Chromie"
+    - "Timewalking Vendor"
   data:
     cloth:
-    - name: "Legion Assaults (Cloth)"
-      wowheadSetId: 2523
-      items:
-        1:  33890 # Head
-        3:  33892 # Shoulders
-        5:  33895 # Chest
-        6:  33887 # Waist
-        7:  33891 # Legs
-        8:  33888 # Feet
-        9:  33894 # Wrists
-        10: 33889 # Hands
+      - name: "Legion Assaults (Cloth)"
+        wowheadSetId: 2523
+        items:
+          1:  33890 # Head
+          3:  33892 # Shoulders
+          5:  33895 # Chest
+          6:  33887 # Waist
+          7:  33891 # Legs
+          8:  33888 # Feet
+          9:  33894 # Wrists
+          10: 33889 # Hands
 
-    leather:
-    - name: "Legion Assaults (Leather)"
-      wowheadSetId: 2527
-      items:
-        1:  33958 # Head
-        3:  33960 # Shoulders
-        5:  33956 # Chest
-        6:  33954 # Waist
-        7:  33959 # Legs
-        8:  33955 # Feet
-        9:  33961 # Wrists
-        10: 33957 # Hands
+      - transmogSetId: 160 # Fel-Infused Armor
+        wowheadSetId: 2106
 
-    mail:
-    - name: "Legion Assaults (Mail)"
-      wowheadSetId: 2530
-      items:
-        1:  34000 # Head
-        3:  34002 # Shoulders
-        5:  33998 # Chest
-        6:  33996 # Waist
-        7:  34001 # Legs
-        8:  33997 # Feet
-        9:  34003 # Wrists
-        10: 33999 # Hands
-
-    plate:
-    - name: "Legion Assaults (Plate)"
-      wowheadSetId: 2533
-      items:
-        1:  34041 # Head
-        3:  34043 # Shoulders
-        5:  34039 # Chest
-        6:  34037 # Waist
-        7:  34042 # Legs
-        8:  34038 # Feet
-        9:  34044 # Wrists
-        10: 34040 # Hands
-
-- name: Chromie
-  type: armor
-  sets:
-    - Chromie
-  data:
-    cloth:
       - transmogSetId: 1457 # Chronoscryer's Finery
         wowheadSetId: 2561
 
     leather:
+      - name: "Legion Assaults (Leather)"
+        wowheadSetId: 2527
+        items:
+          1:  33958 # Head
+          3:  33960 # Shoulders
+          5:  33956 # Chest
+          6:  33954 # Waist
+          7:  33959 # Legs
+          8:  33955 # Feet
+          9:  33961 # Wrists
+          10: 33957 # Hands
+
+      - transmogSetId: 159 # Felshroud Armor
+        wowheadSetId: 2107
+
       - transmogSetId: 1459 # Riftscarred Vestments
         wowheadSetId: 2569
 
     mail:
+      - name: "Legion Assaults (Mail)"
+        wowheadSetId: 2530
+        items:
+          1:  34000 # Head
+          3:  34002 # Shoulders
+          5:  33998 # Chest
+          6:  33996 # Waist
+          7:  34001 # Legs
+          8:  33997 # Feet
+          9:  34003 # Wrists
+          10: 33999 # Hands
+
+      - transmogSetId: 158 # Fel-Chain Armor
+        wowheadSetId: 2108
+
       - transmogSetId: 1458 # Epoch Sentinel's Mail
         wowheadSetId: 2560
 
     plate:
+      - name: "Legion Assaults (Plate)"
+        wowheadSetId: 2533
+        items:
+          1:  34041 # Head
+          3:  34043 # Shoulders
+          5:  34039 # Chest
+          6:  34037 # Waist
+          7:  34042 # Legs
+          8:  34038 # Feet
+          9:  34044 # Wrists
+          10: 34040 # Hands
+
+      - transmogSetId: 157 # Felforged Armor
+        wowheadSetId: 2109
+
       - transmogSetId: 1456 # Timewarden's Plate
         wowheadSetId: 2568
 
-- name: Gear Tokens
+      - transmogSetId: 2292 # Ravencrest's Battleplate
+        wowheadSetId:
+
+- name: "Gear Tokens"
   type: armor
   sets:
-  - Unsullied
-  - Relinquished
-  - Dauntless
+    - "Argus [Unsullied]"
+    - "Broken Shore [Relinquished]"
+    - "Broken Shore [Dauntless]"
   data:
     cloth:
     - name: "Unsullied (Cloth)"
@@ -362,12 +371,3 @@ groups:
         8:  22637 # Feet
         9:  22643 # Wrists
         10: 22639 # Hands
-
-- name: "Timewalking Vendor"
-  type: armor
-  sets:
-    - "Timewalking Vendor"
-  data:
-    plate:
-      - transmogSetId: 2292 # Ravencrest's Battleplate
-        wowheadSetId:
