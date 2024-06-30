@@ -68,6 +68,15 @@ groups:
       - transmogSetId: 2848 # Bloodsoaked Plate
         wowheadSetId: 
 
+- name: "Deadmines"
+  type: armor
+  sets:
+    - "Defias Leather"
+  data:
+    leather:
+      - transmogSetId: 167
+        wowheadSetId: 889
+
 - name: "Classic Dungeons"
   type: class
   sets:
