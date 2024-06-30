@@ -203,10 +203,14 @@ groups:
   tag: S15
   type: all
   sets:
+    - ":alliance: Elite Weapons*"
+    - ":horde: Elite Weapons*"
     - ":alliance: Gladiator Weapons"
     - ":horde: Gladiator Weapons"
   data:
     all:
+      - transmogSetId: 1065
+      - transmogSetId: 1066
       - transmogSetId: 290
       - transmogSetId: 291
 
@@ -385,10 +389,14 @@ groups:
   tag: S14
   type: all
   sets:
+    - ":alliance: Elite Weapons*"
+    - ":horde: Elite Weapons*"
     - ":alliance: Gladiator Weapons"
     - ":horde: Gladiator Weapons"
   data:
     all:
+      - transmogSetId: 1051
+      - transmogSetId: 1050
       - transmogSetId: 293
       - transmogSetId: 292
 
@@ -569,10 +577,14 @@ groups:
   tag: S13
   type: all
   sets:
+    - ":alliance: Elite Weapons*"
+    - ":horde: Elite Weapons*"
     - ":alliance: Gladiator Weapons"
     - ":horde: Gladiator Weapons"
   data:
     all:
+      - transmogSetId: 1052
+      - transmogSetId: 1053
       - transmogSetId: 289
       - transmogSetId: 288
 
@@ -697,7 +709,9 @@ groups:
   tag: S12
   type: all
   sets:
+    - "Elite Weapons*"
     - "Gladiator Weapons"
   data:
     all:
+      - transmogSetId: 1058
       - transmogSetId: 287

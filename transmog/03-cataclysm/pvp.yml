@@ -105,9 +105,12 @@ groups:
   tag: S11
   type: all
   sets:
+    - "Elite Weapons*"
     - "Gladiator Weapons"
   data:
     all:
+      - transmogSetId: 877
+
       - transmogSetId: 878
 
 - name: Season 10 # Ruthless
@@ -210,9 +213,12 @@ groups:
   tag: S10
   type: all
   sets:
+    - "Elite Weapons*"
     - "Gladiator Weapons"
   data:
     all:
+      - transmogSetId: 880
+
       - transmogSetId: 879
 
 - name: Season 9 # Vicious
@@ -355,7 +361,10 @@ groups:
   tag: S9
   type: all
   sets:
+    - "Elite Weapons*"
     - "Gladiator Weapons"
   data:
     all:
+      - transmogSetId: 882
+
       - transmogSetId: 881

@@ -5,403 +5,295 @@ skipClasses:
 - monk
 groups:
 
-- name: Season 8
+- name: "Season 8"
   type: class
   sets:
-  - Gladiator
+    - "Gladiator"
   data:
     death-knight:
-    - name: Wrathful Gladiator's Dreadplate Armor
-      transmogSetId: 769 # Gladiator
-      wowheadSetId: 941
+      - transmogSetId: 769 # Gladiator
+        wowheadSetId: 941
 
     druid:
-    - name: Wrathful Gladiator's Dragonhide Armor
-      transmogSetId: 768 # Gladiator
-      wowheadSetId: 703
+      - transmogSetId: 768 # Gladiator
+        wowheadSetId: 703
 
     hunter:
-    - name: Wrathful Gladiator's Chain Armor
-      transmogSetId: 767 # Gladiator
-      wowheadSetId: 723
+      - transmogSetId: 767 # Gladiator
+        wowheadSetId: 723
 
     mage:
-    - name: Wrathful Gladiator's Silk Armor
-      transmogSetId: 766 # Gladiator
-      wowheadSetId: 743
+      - transmogSetId: 766 # Gladiator
+        wowheadSetId: 743
 
     paladin:
-    - name: Wrathful Gladiator's Scaled Armor
-      transmogSetId: 765 # Gladiator
-      wowheadSetId: 761
-      items:
+      - transmogSetId: 765 # Gladiator
+        wowheadSetId: 761
 
     priest:
-    - name: Wrathful Gladiator's Satin Armor
-      transmogSetId: 372 # Gladiator
-      wowheadSetId: 781
-      items:
-
+      - transmogSetId: 372 # Gladiator
+        wowheadSetId: 781
+      
     rogue:
-    - name: Wrathful Gladiator's Leather Armor
-      transmogSetId: 764 # Gladiator
-      wowheadSetId: 801
-      items:
-
+      - transmogSetId: 764 # Gladiator
+        wowheadSetId: 801
+      
     shaman:
-    - name: Wrathful Gladiator's Ringmail Armor
-      transmogSetId: 763 # Gladiator
-      wowheadSetId: 819
-      items:
-
+      - transmogSetId: 763 # Gladiator
+        wowheadSetId: 819
+      
     warlock:
-    - name: Wrathful Gladiator's Felweave Armor
-      transmogSetId: 762 # Gladiator
-      wowheadSetId: 843
-      items:
-
+      - transmogSetId: 762 # Gladiator
+        wowheadSetId: 843
+      
     warrior:
-    - name: Wrathful Gladiator's Plate Armor
-      transmogSetId: 761 # Gladiator
-      wowheadSetId: 863
-      items:
+      - transmogSetId: 761 # Gladiator
+        wowheadSetId: 863
 
 - name: "Season 8"
   tag: S8
   type: all
   sets:
+    - "Elite Weapons*"
     - "Gladiator Weapons"
   data:
     all:
+      - transmogSetId: 884
+
       - transmogSetId: 883
 
-- name: Season 7
+- name: "Season 7"
   type: class
   sets:
-  - Gladiator
+    - "Gladiator"
   data:
     death-knight:
-    - name: Relentless Gladiator's Dreadplate Armor
-      transmogSetId: 778 # Gladiator
-      wowheadSetId: 940
-      items:
+      - transmogSetId: 778 # Gladiator
+        wowheadSetId: 940
 
     druid:
-    - name: Relentless Gladiator's Dragonhide Armor
-      transmogSetId: 777 # Gladiator
-      wowheadSetId: 702
-      items:
-
+      - transmogSetId: 777 # Gladiator
+        wowheadSetId: 702
+      
     hunter:
-    - name: Relentless Gladiator's Chain Armor
-      transmogSetId: 776 # Gladiator
-      wowheadSetId: 722
-      items:
-
+      - transmogSetId: 776 # Gladiator
+        wowheadSetId: 722
+      
     mage:
-    - name: Relentless Gladiator's Silk Armor
-      transmogSetId: 775 # Gladiator
-      wowheadSetId: 742
-      items:
-
-        7:  12020 34392 # Legs
+      - transmogSetId: 775 # Gladiator
+        wowheadSetId: 742
 
     paladin:
-    - name: Relentless Gladiator's Scaled Armor
-      transmogSetId: 774 # Gladiator
-      wowheadSetId: 760
-      items:
-
+      - transmogSetId: 774 # Gladiator
+        wowheadSetId: 760
+      
     priest:
-    - name: Relentless Gladiator's Satin Armor
-      transmogSetId: 373 # Gladiator
-      wowheadSetId: 780
-      items:
-
+      - transmogSetId: 373 # Gladiator
+        wowheadSetId: 780
+      
     rogue:
-    - name: Relentless Gladiator's Leather Armor
-      transmogSetId: 773 # Gladiator
-      wowheadSetId: 800
-      items:
-
+      - transmogSetId: 773 # Gladiator
+        wowheadSetId: 800
+      
     shaman:
-    - name: Relentless Gladiator's Ringmail Armor
-      transmogSetId: 772 # Gladiator
-      wowheadSetId: 818
-      items:
-
+      - transmogSetId: 772 # Gladiator
+        wowheadSetId: 818
+      
     warlock:
-    - name: Relentless Gladiator's Felweave Armor
-      transmogSetId: 771 # Gladiator
-      wowheadSetId: 842
-      items:
-
+      - transmogSetId: 771 # Gladiator
+        wowheadSetId: 842
+      
     warrior:
-    - name: Relentless Gladiator's Plate Armor
-      transmogSetId: 770 # Gladiator
-      wowheadSetId: 862
-      items:
+      - transmogSetId: 770 # Gladiator
+        wowheadSetId: 862
 
 - name: "Season 7"
   tag: S7
   type: all
   sets:
+    - "Elite Weapons*"
     - "Gladiator Weapons"
   data:
     all:
+      - transmogSetId: 886
+
       - transmogSetId: 885
 
-- name: Season 6
+- name: "Season 6"
   type: class
   sets:
-  - Gladiator
+    - "Gladiator"
   data:
     death-knight:
-    - name: Furious Gladiator's Dreadplate Armor
-      transmogSetId: 787 # Gladiator
-      wowheadSetId: 939
-      items:
-
+      - transmogSetId: 787 # Gladiator
+        wowheadSetId: 939
+      
     druid:
-    - name: Furious Gladiator's Dragonhide Armor
-      transmogSetId: 786 # Gladiator
-      wowheadSetId: 701
-      items:
-        1:  10687 10689 # Head
-
+      - transmogSetId: 786 # Gladiator
+        wowheadSetId: 701
+      
     hunter:
-    - name: Furious Gladiator's Chain Armor
-      transmogSetId: 785 # Gladiator
-      wowheadSetId: 721
-      items:
-
+      - transmogSetId: 785 # Gladiator
+        wowheadSetId: 721
+      
     mage:
-    - name: Furious Gladiator's Silk Armor
-      transmogSetId: 784 # Gladiator
-      wowheadSetId: 741
-      items:
-
+      - transmogSetId: 784 # Gladiator
+        wowheadSetId: 741
+      
     paladin:
-    - name: Furious Gladiator's Scaled Armor
-      transmogSetId: 783 # Gladiator
-      wowheadSetId: 759
-      items:
-
+      - transmogSetId: 783 # Gladiator
+        wowheadSetId: 759
+      
     priest:
-    - name: Furious Gladiator's Satin Armor
-      transmogSetId: 374 # Gladiator
-      wowheadSetId: 779
-      items:
-
+      - transmogSetId: 374 # Gladiator
+        wowheadSetId: 779
+      
     rogue:
-    - name: Furious Gladiator's Leather Armor
-      transmogSetId: 782 # Gladiator
-      wowheadSetId: 799
-      items:
-
+      - transmogSetId: 782 # Gladiator
+        wowheadSetId: 799
+      
     shaman:
-    - name: Furious Gladiator's Ringmail Armor
-      transmogSetId: 781 # Gladiator
-      wowheadSetId: 817
-      items:
-
+      - transmogSetId: 781 # Gladiator
+        wowheadSetId: 817
+      
     warlock:
-    - name: Furious Gladiator's Felweave Armor
-      transmogSetId: 780 # Gladiator
-      wowheadSetId: 841
-      items:
-
+      - transmogSetId: 780 # Gladiator
+        wowheadSetId: 841
+      
     warrior:
-    - name: Furious Gladiator's Plate Armor
-      transmogSetId: 779 # Gladiator
-      wowheadSetId: 861
-      items:
+      - transmogSetId: 779 # Gladiator
+        wowheadSetId: 861
 
 - name: "Season 6"
   tag: S6
   type: all
   sets:
+    - "Elite Weapons*"
     - "Gladiator Weapons"
   data:
     all:
+      - transmogSetId: 925
+
       - transmogSetId: 923
 
-- name: Season 5
+- name: "Season 5"
   type: class
   sets:
-  - Gladiator
-  - Honor
-  - Justice
+    - "Gladiator" # Deadly
+    - "Honor" # Hateful
+    - "Justice" # Savage
   data:
     death-knight:
-    - name: Deadly Gladiator's Dreadplate Armor
-      transmogSetId: 796 # Gladiator
-      wowheadSetId: 936
-      items:
+      - transmogSetId: 796 # Gladiator
+        wowheadSetId: 936
 
-    - name: Hateful Gladiator's Dreadplate Armor
-      transmogSetId: 805 # Honor
-      wowheadSetId: 937
-      items:
+      - transmogSetId: 805 # Honor
+        wowheadSetId: 937
 
-    - name: Savage Gladiator's Dreadplate Armor
-      transmogSetId: 814 # PVP Rare
-      wowheadSetId: 938
-      items:
+      - transmogSetId: 814 # PVP Rare
+        wowheadSetId: 938
 
     druid:
-    - name: Deadly Gladiator's Dragonhide Armor
-      transmogSetId: 795 # Gladiator
-      wowheadSetId: 957
-      items:
+      - transmogSetId: 795 # Gladiator
+        wowheadSetId: 957
 
-    - name: Hateful Gladiator's Dragonhide Armor
-      transmogSetId: 804 # Honor
-      wowheadSetId: 958
-      items:
+      - transmogSetId: 804 # Honor
+        wowheadSetId: 958
 
-    - name: Savage Gladiator's Dragonhide Armor
-      transmogSetId: 813 # PVP Rare
-      wowheadSetId: 700
-      items:
+      - transmogSetId: 813 # PVP Rare
+        wowheadSetId: 700
 
     hunter:
-    - name: Deadly Gladiator's Chain Armor
-      transmogSetId: 794 # Gladiator
-      wowheadSetId: 718
-      items:
+      - transmogSetId: 794 # Gladiator
+        wowheadSetId: 718
 
-    - name: Hateful Gladiator's Chain Armor
-      transmogSetId: 803 # Honor
-      wowheadSetId: 719
-      items:
+      - transmogSetId: 803 # Honor
+        wowheadSetId: 719
 
-    - name: Savage Gladiator's Chain Armor
-      transmogSetId: 812 # PVP Rare
-      wowheadSetId: 720
-      items:
+      - transmogSetId: 812 # PVP Rare
+        wowheadSetId: 720
 
     mage:
-    - name: Deadly Gladiator's Silk Armor
-      transmogSetId: 793 # Gladiator
-      wowheadSetId: 738
-      items:
+      - transmogSetId: 793 # Gladiator
+        wowheadSetId: 738
 
-    - name: Hateful Gladiator's Silk Armor
-      transmogSetId: 802 # Honor
-      wowheadSetId: 739
-      items:
+      - transmogSetId: 802 # Honor
+        wowheadSetId: 739
 
-        7:  10825 34392 # Legs
-
-    - name: Savage Gladiator's Silk Armor
-      transmogSetId: 811 # PVP Rare
-      wowheadSetId: 740
-      items:
+      - transmogSetId: 811 # PVP Rare
+        wowheadSetId: 740
 
     paladin:
-    - name: Deadly Gladiator's Scaled Armor
-      transmogSetId: 792 # Gladiator
-      wowheadSetId: 756
-      items:
+      - transmogSetId: 792 # Gladiator
+        wowheadSetId: 756
 
-    - name: Hateful Gladiator's Scaled Armor
-      transmogSetId: 801 # Honor
-      wowheadSetId: 757
-      items:
+      - transmogSetId: 801 # Honor
+        wowheadSetId: 757
 
-    - name: Savage Gladiator's Scaled Armor
-      transmogSetId: 810 # PVP Rare
-      wowheadSetId: 758
-      items:
+      - transmogSetId: 810 # PVP Rare
+        wowheadSetId: 758
 
     priest:
-    - name: Deadly Gladiator's Satin Armor
-      transmogSetId: 375 # Gladiator
-      wowheadSetId: 776
-      items:
+      - transmogSetId: 375 # Gladiator
+        wowheadSetId: 776
 
-    - name: Hateful Gladiator's Satin Armor
-      transmogSetId: 376 # Honor
-      wowheadSetId: 777
-      items:
+      - transmogSetId: 376 # Honor
+        wowheadSetId: 777
 
-    - name: Savage Gladiator's Satin Armor
-      transmogSetId: 377 # PVP Rare
-      wowheadSetId: 778
-      items:
+      - transmogSetId: 377 # PVP Rare
+        wowheadSetId: 778
 
     rogue:
-    - name: Deadly Gladiator's Leather Armor
-      transmogSetId: 791 # Gladiator
-      wowheadSetId: 796
-      items:
+      - transmogSetId: 791 # Gladiator
+        wowheadSetId: 796
 
-    - name: Hateful Gladiator's Leather Armor
-      transmogSetId: 800 # Honor
-      wowheadSetId: 797
-      items:
+      - transmogSetId: 800 # Honor
+        wowheadSetId: 797
 
-    - name: Savage Gladiator's Leather Armor
-      transmogSetId: 809 # PVP Rare
-      wowheadSetId: 798
-      items:
+      - transmogSetId: 809 # PVP Rare
+        wowheadSetId: 798
 
     shaman:
-    - name: Deadly Gladiator's Ringmail Armor
-      transmogSetId: 790 # Gladiator
-      wowheadSetId: 814
-      items:
+      - transmogSetId: 790 # Gladiator
+        wowheadSetId: 814
 
-    - name: Hateful Gladiator's Ringmail Armor
-      transmogSetId: 799 # Honor
-      wowheadSetId: 816
-      items:
+      - transmogSetId: 799 # Honor
+        wowheadSetId: 816
 
-    - name: Savage Gladiator's Ringmail Armor
-      transmogSetId: 808 # PVP Rare
-      wowheadSetId: 815
-      items:
+      - transmogSetId: 808 # PVP Rare
+        wowheadSetId: 815
 
     warlock:
-    - name: Deadly Gladiator's Felweave Armor
-      transmogSetId: 789 # Gladiator
-      wowheadSetId: 838
-      items:
+      - transmogSetId: 789 # Gladiator
+        wowheadSetId: 838
 
-    - name: Hateful Gladiator's Felweave Armor
-      transmogSetId: 798 # Honor
-      wowheadSetId: 839
-      items:
+      - transmogSetId: 798 # Honor
+        wowheadSetId: 839
 
-    - name: Savage Gladiator's Felweave Armor
-      transmogSetId: 807 # PVP Rare
-      wowheadSetId: 840
-      items:
+      - transmogSetId: 807 # PVP Rare
+        wowheadSetId: 840
 
     warrior:
-    - name: Deadly Gladiator's Plate Armor
-      transmogSetId: 788 # Gladiator
-      wowheadSetId: 858
-      items:
+      - transmogSetId: 788 # Gladiator
+        wowheadSetId: 858
 
-    - name: Hateful Gladiator's Plate Armor
-      transmogSetId: 797 # Honor
-      wowheadSetId: 859
-      items:
+      - transmogSetId: 797 # Honor
+        wowheadSetId: 859
 
-    - name: Savage Gladiator's Plate Armor
-      transmogSetId: 806 # PVP Rare
-      wowheadSetId: 860
-      items:
+      - transmogSetId: 806 # PVP Rare
+        wowheadSetId: 860
 
 - name: "Season 5"
   tag: S5
   type: all
   sets:
-    - "Gladiator Weapons"
-    - "Justice Weapons"
+    - "Gladiator Weapons" # Deadly
+    - "Honor Weapons" # Hateful
+    - "Justice Weapons" # Savage
   data:
     all:
       - transmogSetId: 929 # Deadly
+      
+      - transmogSetId: 1203 # Hateful
+
       - transmogSetId: 930 # Savage

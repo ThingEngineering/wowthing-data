@@ -6,11 +6,15 @@ skipClasses:
 - monk
 groups:
 
-- name: "Season 4"
+- name: "Season 4" # Brutal
   type: class
   sets:
   - Gladiator
   data:
+    death-knight:
+      - transmogSetId: 1202 # Brutal Gladiator's Dreadplate Armor [Gladiator]
+        wowheadSetId: 857
+
     druid:
       - transmogSetId: 953 # Brutal Gladiator's Dragonhide Armor [Gladiator]
         wowheadSetId: 956
@@ -47,7 +51,7 @@ groups:
       - transmogSetId: 946 # Brutal Gladiator's Plate Armor [Gladiator]
         wowheadSetId: 857
 
-- name: "Season 4"
+- name: "Season 4" # Brutal
   tag: S4
   type: all
   sets:
@@ -56,7 +60,7 @@ groups:
     all:
       - transmogSetId: 1006
 
-- name: "Season 3"
+- name: "Season 3" # Vengeful
   type: class
   sets:
   - Gladiator
@@ -97,7 +101,7 @@ groups:
       - transmogSetId: 954 # Vengeful Gladiator's Plate Armor [Gladiator]
         wowheadSetId: 856
 
-- name: "Season 3"
+- name: "Season 3" # Vengeful
   tag: S3
   type: all
   sets:
@@ -106,7 +110,7 @@ groups:
     all:
       - transmogSetId: 1007
 
-- name: "Season 2"
+- name: "Season 2" # Merciless
   type: class
   sets:
   - Gladiator
@@ -147,7 +151,7 @@ groups:
       - transmogSetId: 962 # Merciless Gladiator's Plate Armor [Gladiator]
         wowheadSetId: 855
 
-- name: "Season 2"
+- name: "Season 2" # Merciless
   tag: S2
   type: all
   sets:
@@ -156,7 +160,7 @@ groups:
     all:
       - transmogSetId: 1008
 
-- name: "Season 1"
+- name: "Season 1" # Gladiator
   type: class
   sets:
   - Gladiator
@@ -197,7 +201,7 @@ groups:
       - transmogSetId: 381 # Gladiator's Plate Armor [Gladiator]
         wowheadSetId: 854
 
-- name: "Season 1"
+- name: "Season 1" # Gladiator
   tag: S1
   type: all
   sets:
