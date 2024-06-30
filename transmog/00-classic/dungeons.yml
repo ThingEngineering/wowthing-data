@@ -87,61 +87,61 @@ groups:
       - transmogSetId: 858 # Feralheart Raiment [Dungeon Set 2]
         wowheadSetId: 530
 
-      - transmogSetId: 1912 # Wildheart Raiment [Dungeon Set 1]
+      - transmogSetId: 1426 # Wildheart Raiment [Dungeon Set 1]
         wowheadSetId: 529
 
     hunter:
       - transmogSetId: 856 # Beastmaster Armor [Dungeon Set 2]
         wowheadSetId: 552
 
-      - transmogSetId: 1911 # Beaststalker Armor [Dungeon Set 1]
+      - transmogSetId: 1428 # Beaststalker Armor [Dungeon Set 1]
         wowheadSetId: 551
 
     mage:
       - transmogSetId: 855 # Sorcerer's Regalia [Dungeon Set 2]
         wowheadSetId: 574
 
-      - transmogSetId: 1910 # Magister's Regalia [Dungeon Set 1]
+      - transmogSetId: 1425 # Magister's Regalia [Dungeon Set 1]
         wowheadSetId: 573
 
     paladin:
       - transmogSetId: 859 # Soulforge Armor [Dungeon Set 2]
         wowheadSetId: 596
 
-      - transmogSetId: 1909 # Lightforge Armor [Dungeon Set 1]
+      - transmogSetId: 1430 # Lightforge Armor [Dungeon Set 1]
         wowheadSetId: 595
 
     priest:
       - transmogSetId: 360 # Vestments of the Virtuous [Dungeon Set 2]
         wowheadSetId: 618
 
-      - transmogSetId: 1908 # Vestments of the Devout [Dungeon Set 1]
+      - transmogSetId: 359 # Vestments of the Devout [Dungeon Set 1]
         wowheadSetId: 617
 
     rogue:
       - transmogSetId: 857 # Darkmantle Armor [Dungeon Set 2]
         wowheadSetId: 640
 
-      - transmogSetId: 1907 # Shadowcraft Armor [Dungeon Set 1]
+      - transmogSetId: 1427 # Shadowcraft Armor [Dungeon Set 1]
         wowheadSetId: 639
 
     shaman:
       - transmogSetId: 860 # The Five Thunders [Dungeon Set 2]
         wowheadSetId: 662
 
-      - transmogSetId: 1906 # The Elements [Dungeon Set 1]
+      - transmogSetId: 1429 # The Elements [Dungeon Set 1]
         wowheadSetId: 661
 
     warlock:
       - transmogSetId: 854 # Deathmist Raiment [Dungeon Set 2]
         wowheadSetId: 684
 
-      - transmogSetId: 1905 # Dreadmist Raiment [Dungeon Set 1]
+      - transmogSetId: 1424 # Dreadmist Raiment [Dungeon Set 1]
         wowheadSetId: 683
 
     warrior:
       - transmogSetId: 861 # Battlegear of Heroism [Dungeon Set 2]
         wowheadSetId: 935
 
-      - transmogSetId: 1904 # Battlegear of Valor [Dungeon Set 1]
+      - transmogSetId: 1431 # Battlegear of Valor [Dungeon Set 1]
         wowheadSetId: 934
