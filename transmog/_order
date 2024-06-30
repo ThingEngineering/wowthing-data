@@ -66,6 +66,7 @@ pvp.yml
 misc/_misc.yml
     misc/money.yml
     misc/racial.yml
+    misc/trading_post.yml
     misc/trial_of_style.yml
 
 remix-pandaria/_.yml
