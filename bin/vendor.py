@@ -279,7 +279,7 @@ for item in sorted_items:
     if len(type_parts) > 0:
         type_str = f' [{" ".join(type_parts)}]'
 
-    print( '  - type: transmog')
+    print( '  - type: item')
     print(f'    id: {item["id"]} # {item["name"]}{type_str}')
     print( '    costs:')
 

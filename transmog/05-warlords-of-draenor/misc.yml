@@ -10,106 +10,39 @@ groups:
   - "Reputations"
   data:
     cloth:
-      # description=0 set=1531
-      - name: "Ceremonial Karabor Finery"
-        wowheadSetId:
-        items:
-          1:  21765 # Head
-          3:  21761 # Shoulders
-          5:  21763 # Chest
-          6:  21759 # Waist
-          7:  21766 # Legs
-          8:  21760 # Feet
-          9:  21762 # Wrists
-          10: 21764 # Hands
+      - transmogSetId: 1531 # Ceremonial Karabor Finery
+        wowheadSetId: 2103
 
     leather:
-      # description=0 set=1530
-      - name: "Frostwolf Leathers"
-        wowheadSetId:
-        items:
-          3:  23124 # Shoulders
-          5:  23121 # Chest
-          6:  23118 # Waist
-          7:  23123 # Legs
-          8:  23120 # Feet
-          9:  23125 # Wrists
-          10: 23122 # Hands
+      - transmogSetId: 1530 # Frostwolf Leathers
+        wowheadSetId: 2104
+
+    # no mail set from reputation
 
     plate:
-      # description=0 set=1532
-      - name: "Sha'tari Defender's Plate"
-        wowheadSetId:
-        items:
-          1:  21712 # Head
-          3:  21714 # Shoulders
-          5:  21710 # Chest
-          6:  21708 # Waist
-          7:  21713 # Legs
-          8:  21709 # Feet
-          9:  21715 # Wrists
-          10: 21711 # Hands
+      - transmogSetId: 1532 # Sha'tari Defense Plate
+        wowheadSetId: 1795
 
 - name: "Garrisons"
   type: armor
   sets:
-  - "Dwarven Bunker / War Mill"
+    - "Dwarven Bunker / War Mill"
   data:
     cloth:
-    # description=0 set=1534
-    - name: Garb of the Shadowmoon
-      wowheadSetId:
-      items:
-        1:  23099 # Head
-        3:  23096 # Shoulders
-        5:  23097 # Chest
-        6:  23807 # Waist
-        7:  23100 # Legs
-        8:  23806 # Feet
-        9:  24893 # Wrists
-        10: 23098 # Hands
+      - transmogSetId: 1534 # Garb of the Shadowmoon
+        wowheadSetId: 1796
 
     leather:
-    # description=0 set=1535
-    - name: Thunderlord Harness
-      wowheadSetId:
-      items:
-        1:  22857 # Head
-        3:  22859 # Shoulders
-        5:  22855 # Chest
-        6:  22853 # Waist
-        7:  22858 # Legs
-        8:  22854 # Feet
-        9:  22852 # Wrists
-        10: 22856 # Hands
+      - transmogSetId: 1535 # Thunderlord Harness
+        wowheadSetId: 1799
 
     mail:
-    # description=0 set=1536
-    - name: Warsong Outrider's Garb
-      wowheadSetId:
-      items:
-        1:  22945 # Head
-        3:  22944 # Shoulders
-        5:  22947 # Chest
-        6:  22949 # Waist
-        7:  23810 # Legs
-        8:  22948 # Feet
-        9:  22950 # Wrists
-        10: 22946 # Hands
+      - transmogSetId: 1536 # Warsong Outrider's Garb
+        wowheadSetId: 1797
 
     plate:
-    # description=0 set=1533
-    - name: Blackrock Sootplate
-      wowheadSetId:
-      items:
-        1:  23274 # Head
-        3:  23278 # Shoulders
-        5:  23265 # Chest
-        6:  23259 # Waist
-        7:  23277 # Legs
-        8:  23262 # Feet
-        9:  24323 # Wrists
-        10: 23271 # Hands
+      - transmogSetId: 1533 # Blackrock Sootplate
+        wowheadSetId: 1798
 
 - name: "Garrisons"
   type: class

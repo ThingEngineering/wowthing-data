@@ -19,6 +19,7 @@ groups:
       - itemId: 203349 # Winding Slitherdrake: Curved Nose Horn
       - itemId: 203320 # Winding Slitherdrake: Ears
       - itemId: 205865 # Winding Slitherdrake: Embodiment of the Obsidian Gladiator
+      - itemId: 210064 # Winding Slitherdrake: Embodiment of the Verdant Gladiator
       - itemId: 203319 # Winding Slitherdrake: Finned Cheek
       - itemId: 203361 # Winding Slitherdrake: Finned Tip Tail
       - itemId: 203310 # Winding Slitherdrake: Grand Chin Thorn
@@ -41,6 +42,7 @@ groups:
       - itemId: 203347 # Winding Slitherdrake: Large Spiked Nose
       - itemId: 203309 # Winding Slitherdrake: Long Chin Horn
       - itemId: 203341 # Winding Slitherdrake: Long Jaw Horns
+      - itemId: 211868 # Winding Slitherdrake: Lunar Festival Armor
       - itemId: 203336 # Winding Slitherdrake: Paired Horns
       - itemId: 203307 # Winding Slitherdrake: Plated Brow
       - itemId: 203348 # Winding Slitherdrake: Pointed Nose
@@ -62,6 +64,8 @@ groups:
       - itemId: 203327 # Winding Slitherdrake: Tan Horns
       - itemId: 203337 # Winding Slitherdrake: Thorn Horns
       - itemId: 203342 # Winding Slitherdrake: Triple Jaw Horns
+      - itemId: 208106 # Winding Slitherdrake: Visage of the Infinite
+      - itemId: 213561 # Winding Slitherdrake: Void Scales
       - itemId: 203324 # Winding Slitherdrake: White Hair
       - itemId: 203328 # Winding Slitherdrake: White Horns
       - itemId: 203354 # Winding Slitherdrake: White Scales

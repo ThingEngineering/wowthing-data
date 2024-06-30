@@ -5,17 +5,10 @@ groups:
   things:
   - 1546 # Iskaara Trader's Ottuk
   - 1658 # Ivory Trader's Ottuk
-  - 1674 # Temperamental Skyclaw
 
 - name: "Thaldraszus"
   things:
-  - 1776 # White War Wolf
-  - 1777 # Ravenous Black Gryphon
-  - 1778 # Gold-Toed Albatross
-  - 1779 # Felstorm Dragon
-  - 1781 # Sulfur Hound
-  - 1782 # Perfected Juggernaut
-  - 1783 # Scourgebound Vanquisher
+  - 1944 # Golden Regal Scarab
 
 - name: "Valdrakken"
   things:
@@ -39,6 +32,16 @@ groups:
     - 1736 # Boulder Hauler (Ponzo)
     - 1730 # Igneous Shalewing (Sacratros)
     - 1603 # Subterranean Magmammoth (Sacratros)
+
+- name: "Time Rift"
+  things:
+  - 1776 # White War Wolf
+  - 1777 # Ravenous Black Gryphon
+  - 1778 # Gold-Toed Albatross
+  - 1779 # Felstorm Dragon
+  - 1781 # Sulfur Hound
+  - 1782 # Perfected Juggernaut
+  - 1783 # Scourgebound Vanquisher
 
 - name: "Dreamsurges"
   things:

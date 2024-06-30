@@ -1,8 +1,8 @@
 name: PvP
 groups:
 
-- name: "Dragonflight Season 3"
-  tag: "S34"
+- name: "Dragonflight Season 3 / 4"
+  tag: "S34-35"
   type: class
   sets:
     - "Elite*"
@@ -125,8 +125,8 @@ groups:
       - transmogSetId: 3219
         wowheadSetId:
 
-- name: "Dragonflight Season 3"
-  tag: "S34"
+- name: "Dragonflight Season 3 / 4"
+  tag: "S34-35"
   type: armor
   sets:
   - "Aspirant"

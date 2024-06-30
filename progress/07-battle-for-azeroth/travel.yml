@@ -1,6 +1,19 @@
 name: "Travel"
 groups:
 
+- name: "Flight Master's Whistle"
+  icon: "item/141605"
+  lookup: faction
+  type: quest
+  data:
+    alliance:
+      - name: "Uniting Kul Tiras"
+        id: 52450
+    
+    horde:
+      - name: "Uniting Zuldazar"
+        id: 52451
+
 - name: "War Signet"
   icon: item/166560 item/166559
   lookup: faction

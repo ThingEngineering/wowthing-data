@@ -1,75 +1,69 @@
 name: Money 💸
 groups:
 
-- name: 'Paid'
+- name: "Store"
   type: all
   sets:
-  - Wendigo Woollies*
-  - Vestments of the Eternal Traveler*
-  - Sprite Darter's Wings*
-  - Celestial Observer's Ensemble*
-  - Fireplume Regalia*
+    - "Baby Murloc Satch-Shells$"
+    - "Celestial Observer's Ensemble$"
+    - "Dreadlord's Shadowsbane Regalia$"
+    - "Dreadlord's Venombane Regalia$"
+    - "Fireplume Regalia$"
+    - "Gladiator's Ragged Armor$"
+    - "Green Snugglefin Murloc Romper$"
+    - "High Scholar's Arcana$"
+    - "Sky-Captain's Masquerade Attire$"
+    - "Solemn Watchman's Garb$"
+    - "Sprite Darter's Wings$"
+    - "Twilight Witch's Attire$"
+    - "Vestments of the Eternal Traveler$"
+    - "Waveborne Diplomat's Regalia$"
+    - "Wendigo Woolies$"
+    - "Wings of Awakening$"
   data:
     all:
-      # description=0 set=1903
-      - name: "Wendigo Woolies"
-        wowheadSetId:
-        items:
-          1:  40852 # Head
-          5:  40850 # Chest
-          7:  40854 # Legs
-          8:  40851 # Feet
-          10: 40853 # Hands
+      - transmogSetId: 2291 # Baby Murloc Satch-Shells
 
-      # description=0 set=1913
-      - name: "Vestments of the Eternal Traveler"
+      - transmogSetId: 2200 # Celestial Observer's Ensemble
         wowheadSetId:
-        items:
-          1:  41084 # Head
-          3:  41086 # Shoulders
-          5:  41080 # Chest
-          6:  41087 # Waist
-          7:  41085 # Legs
-          8:  41082 # Feet
-          9:  41088 # Wrists
-          10: 41083 # Hands
-          16: 41081 # Back
 
-      # description=0 set=1914
-      - name: "Sprite Darter's Wings"
+      - transmogSetId: 3354 # Dreadlord's Shadowsbane Regalia
         wowheadSetId:
-        items:
-          1:  41224 # Head
-          3:  41225 # Shoulders
-          5:  41221 # Chest
-          6:  41222 # Waist
-          7:  41228 # Legs
-          8:  41223 # Feet
-          9:  41226 # Wrists
-          10: 41227 # Hands
 
-      # description=0 set=2200
-      - name: "Celestial Observer's Ensemble"
+      - transmogSetId: 3355 # Dreadlord's Venombane Regalia
         wowheadSetId:
-        items:
-          1:  44217 # Head
-          3:  44215 # Shoulders
-          5:  44216 # Chest
-          6:  44219 # Waist
-          7:  44222 # Legs
-          8:  44218 # Feet
-          9:  44220 # Wrists
-          10: 44221 # Hands
-          16: 44223 # Back
 
-      # description=0 set=2482
-      - name: "Fireplume Regalia"
+      - transmogSetId: 2482 # Fireplume Regalia
         wowheadSetId:
-        items:
-          1:  70495 # Head
-          3:  70499 # Shoulders
-          5:  70496 70561 70604 # Chest
-          6:  70500 # Waist
-          7:  70497 70562 70563 70564 # Legs
-          8:  70501 # Feet
-          10: 70498 70565 # Hands
+
+      - transmogSetId: 3451 # Gladiator's Ragged Armor
+        wowheadSetId:
+
+      - transmogSetId: 3634 # Green Snugglefin Murloc Romper
+        wowheadSetId:
+
+      - transmogSetId: 3085 # High Scholar's Arcana
+        wowheadSetId:
+
+      - transmogSetId: 3189 # Sky-Captain's Masquerade Attire
+        wowheadSetId:
+
+      - transmogSetId: 2669 # Solemn Watchman's Garb
+        wowheadSetId:
+
+      - transmogSetId: 1914 # Sprite Darter's Wings
+        wowheadSetId:
+
+      - transmogSetId: 3358 # Twilight Witch's Attire
+        wowheadSetId:
+
+      - transmogSetId: 1913 # Vestments of the Eternal Traveler
+        wowheadSetId:
+
+      - transmogSetId: 2857 # Waveborne Diplomat's Regalia
+        wowheadSetId:
+
+      - transmogSetId: 1903 # Wendigo Woolies
+        wowheadSetId:
+
+      - transmogSetId: 2293 # Wings of Awakening

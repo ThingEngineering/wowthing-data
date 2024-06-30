@@ -7,3 +7,7 @@ groups:
   - 207 # Merciless Nether Drake [TBC S2]
   - 223 # Vengeful Nether Drake [TBC S3]
   - 241 # Brutal Nether Drake [TBC S4]
+
+- name: "Instances"
+  things:
+  - 199 # Amani War Bear (ZA)

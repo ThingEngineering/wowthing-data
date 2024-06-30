@@ -16,139 +16,139 @@ sets:
     sortKey: 2-01-1
 
 tags:
-  - "mop-remix"
+  - "remix-pandaria"
 
 sells:
   # Armor
 
-  - type: transmog # Death Knight
+  - type: item # Death Knight
     id: 217837 # Ensemble: Webbed Soulforged Exoskeleton
     costs:
       2778: 4000
 
-  - type: transmog # Demon Hunter
+  - type: item # Demon Hunter
     id: 217842 # Ensemble: Aldrachi Blasphemer's Flames
     costs:
       2778: 4000
 
-  - type: transmog # Druid
+  - type: item # Druid
     id: 217843 # Ensemble: Ela'lothen's Vestment of Rebirth
     costs:
       2778: 4000
 
-  - type: transmog # Evoker
+  - type: item # Evoker
     id: 217835 # Ensemble: Scales of the Gold Hoarder
     costs:
       2778: 4000
 
-  - type: transmog # Hunter
+  - type: item # Hunter
     id: 217834 # Ensemble: Dreadsquall Hunter's Camouflage
     costs:
       2778: 4000
 
-  - type: transmog # Mage
+  - type: item # Mage
     id: 217836 # Ensemble: Sin'dorei Magister's Regalia
     costs:
       2778: 4000
 
-  - type: transmog # Monk
+  - type: item # Monk
     id: 217841 # Ensemble: Shado-Pan Watcher Guise
     costs:
       2778: 4000
 
-  - type: transmog # Paladin
+  - type: item # Paladin
     id: 217846 # Ensemble: Plate of the Holy Avenger
     costs:
       2778: 4000
 
-  - type: transmog # Priest
+  - type: item # Priest
     id: 217845 # Ensemble: Silks of the Abyssal Cult
     costs:
       2778: 4000
 
-  - type: transmog # Rogue
+  - type: item # Rogue
     id: 217844 # Ensemble: Igneous Onyx Uniform
     costs:
       2778: 4000
 
-  - type: transmog # Shaman
+  - type: item # Shaman
     id: 217833 # Ensemble: Imminence of Krag'wa's Disciple
     costs:
       2778: 4000
 
-  - type: transmog # Warlock
+  - type: item # Warlock
     id: 217839 # Ensemble: Jewels of Temptation's Call
     costs:
       2778: 4000
 
-  - type: transmog # Warrior
+  - type: item # Warrior
     id: 217838 # Ensemble: Fanatical Champion's Trophies
     costs:
       2778: 4000
 
   # Weapons
 
-  - type: transmog # Death Knight
+  - type: item # Death Knight
     id: 217824 # Arsenal: Webbed Soulforged Weaponry
     costs:
       2778: 3000
 
-  - type: transmog # Demon Hunter
+  - type: item # Demon Hunter
     id: 217828 # Arsenal: Aldrachi Blasphemer's Glaives
     costs:
       2778: 3000
 
-  - type: transmog # Druid
+  - type: item # Druid
     id: 217829 # Arsenal: Ela'lothen's Blessings of Rebirth
     costs:
       2778: 3000
 
-  - type: transmog # Evoker
+  - type: item # Evoker
     id: 217821 # Arsenal: Treasure of the Gold Hoarder
     costs:
       2778: 3000
 
-  - type: transmog # Hunter
+  - type: item # Hunter
     id: 217820 # Arsenal: Dreadsquall Hunter's Preference
     costs:
       2778: 3000
 
-  - type: transmog # Mage
+  - type: item # Mage
     id: 217823 # Arsenal: Sin'dorei Magister's Enchantment
     costs:
       2778: 3000
 
-  - type: transmog # Monk
+  - type: item # Monk
     id: 217827 # Arsenal: Shado-Pan Watcher Arsenal
     costs:
       2778: 3000
 
-  - type: transmog # Paladin
+  - type: item # Paladin
     id: 217832 # Arsenal: Armaments of the Holy Avenger
     costs:
       2778: 3000
 
-  - type: transmog # Priest
+  - type: item # Priest
     id: 217831 # Arsenal: Secrets of the Abyssal Cult
     costs:
       2778: 3000
 
-  - type: transmog # Rogue
+  - type: item # Rogue
     id: 217830 # Arsenal: Igneous Onyx Blades
     costs:
       2778: 3000
 
-  - type: transmog # Shaman
+  - type: item # Shaman
     id: 217819 # Arsenal: Tools of Krag'wa's Disciple
     costs:
       2778: 3000
 
-  - type: transmog # Warlock
+  - type: item # Warlock
     id: 217826 # Arsenal: Instruments of Temptation's Call
     costs:
       2778: 3000
 
-  - type: transmog # Warrior
+  - type: item # Warrior
     id: 217825 # Arsenal: Fanatical Champion's Aggression
     costs:
       2778: 3000

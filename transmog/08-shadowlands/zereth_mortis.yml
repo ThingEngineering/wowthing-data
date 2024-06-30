@@ -6,9 +6,9 @@ groups:
 - name: "Zereth Mortis"
   type: armor
   sets:
-  - "World Quest"
-  - "Sandworn Relic"
-  - "Anima/Drop"
+    - "World Quest"
+    - "Sandworn Relic"
+    - "Anima/Drop"
   data:
     cloth:
     # modifier=0
@@ -27,28 +27,28 @@ groups:
     # modifier=154
     - name: Choral Cloth
       wowheadSetId:
-      items:
-        1:  56701 # Head
-        3:  56702 # Shoulders
-        5:  56703 # Chest
-        6:  56704 # Waist
-        7:  56705 # Legs
-        8:  56706 # Feet
-        9:  56707 # Wrists
-        10: 56708 # Hands
+      itemsV2:
+        - 188037_154 # Choral Amice
+        - 188008_154 # Choral Handwraps
+        - 188009_154 # Choral Hood
+        - 188010_154 # Choral Leggings
+        - 188011_154 # Choral Sash
+        - 188007_154 # Choral Slippers
+        - 188006_154 # Choral Vestments
+        - 188012_154 # Choral Wraps
 
     # modifier=0
     - name: Choral Cloth
       wowheadSetId:
-      items:
-        1:  56683 # Head
-        3:  56684 # Shoulders
-        5:  56685 # Chest
-        6:  56686 # Waist
-        7:  56687 # Legs
-        8:  56688 # Feet
-        9:  56689 # Wrists
-        10: 56690 # Hands
+      itemsV2:
+        - 188037_0 # Choral Amice
+        - 188008_0 # Choral Handwraps
+        - 188009_0 # Choral Hood
+        - 188010_0 # Choral Leggings
+        - 188011_0 # Choral Sash
+        - 188007_0 # Choral Slippers
+        - 188006_0 # Choral Vestments
+        - 188012_0 # Choral Wraps
 
     leather:
     # modifier=0
@@ -67,28 +67,28 @@ groups:
     # modifier=154
     - name: Staccato Leather
       wowheadSetId:
-      items:
-        1:  56859 # Head
-        3:  56860 # Shoulders
-        5:  56861 # Chest
-        6:  56862 # Waist
-        7:  56863 # Legs
-        8:  56864 # Feet
-        9:  56865 # Wrists
-        10: 56866 # Hands
+      itemsV2:
+        - 188017_154 # Staccato Belt
+        - 188013_154 # Staccato Boots
+        - 188018_154 # Staccato Cuffs
+        - 188014_154 # Staccato Grips
+        - 188015_154 # Staccato Helm
+        - 188016_154 # Staccato Leggings
+        - 188036_154 # Staccato Mantle
+        - 188035_154 # Staccato Vest
 
     # modifier=0
     - name: Staccato Leather
       wowheadSetId:
-      items:
-        1:  56841 # Head
-        3:  56842 # Shoulders
-        5:  56843 # Chest
-        6:  56844 # Waist
-        7:  56845 # Legs
-        8:  56846 # Feet
-        9:  56847 # Wrists
-        10: 56848 # Hands
+      itemsV2:
+        - 188017_0 # Staccato Belt
+        - 188013_0 # Staccato Boots
+        - 188018_0 # Staccato Cuffs
+        - 188014_0 # Staccato Grips
+        - 188015_0 # Staccato Helm
+        - 188016_0 # Staccato Leggings
+        - 188036_0 # Staccato Mantle
+        - 188035_0 # Staccato Vest
 
     mail:
     # modifier=0
@@ -107,28 +107,28 @@ groups:
     # modifier=154
     - name: Anthemic Mail
       wowheadSetId:
-      items:
-        1:  57224 # Head
-        3:  57225 # Shoulders
-        5:  57226 # Chest
-        6:  57227 # Waist
-        7:  57228 # Legs
-        8:  57229 # Feet
-        9:  57230 # Wrists
-        10: 57231 # Hands
+      itemsV2:
+        - 188026_154 # Anthemic Bracers
+        - 188022_154 # Anthemic Coif
+        - 188019_154 # Anthemic Cuirass
+        - 188021_154 # Anthemic Gauntlets
+        - 188020_154 # Anthemic Greaves
+        - 188023_154 # Anthemic Legguards
+        - 188025_154 # Anthemic Links
+        - 188024_154 # Anthemic Shoulders
 
     # modifier=0
     - name: Anthemic Mail
       wowheadSetId:
-      items:
-        1:  57206 # Head
-        3:  57207 # Shoulders
-        5:  57208 # Chest
-        6:  57209 # Waist
-        7:  57210 # Legs
-        8:  57211 # Feet
-        9:  57212 # Wrists
-        10: 57213 # Hands
+      itemsV2:
+        - 188026_0 # Anthemic Bracers
+        - 188022_0 # Anthemic Coif
+        - 188019_0 # Anthemic Cuirass
+        - 188021_0 # Anthemic Gauntlets
+        - 188020_0 # Anthemic Greaves
+        - 188023_0 # Anthemic Legguards
+        - 188025_0 # Anthemic Links
+        - 188024_0 # Anthemic Shoulders
 
     plate:
     # modifier=0
@@ -147,25 +147,25 @@ groups:
     # modifier=154
     - name: Harmonium Plate
       wowheadSetId:
-      items:
-        1:  57167 # Head
-        3:  57168 # Shoulders
-        5:  57169 # Chest
-        6:  57170 # Waist
-        7:  57171 # Legs
-        8:  57172 # Feet
-        9:  57173 # Wrists
-        10: 57174 # Hands
+      itemsV2:
+        - 188028_154 # Harmonium Breastplate
+        - 188030_154 # Harmonium Gauntlets
+        - 188033_154 # Harmonium Girdle
+        - 188027_154 # Harmonium Helm
+        - 188031_154 # Harmonium Legplates
+        - 188029_154 # Harmonium Percussive Stompers
+        - 188032_154 # Harmonium Spaulders
+        - 188034_154 # Harmonium Vambraces
 
     # modifier=0
     - name: Harmonium Plate
       wowheadSetId:
-      items:
-        1:  57149 # Head
-        3:  57150 # Shoulders
-        5:  57151 # Chest
-        6:  57152 # Waist
-        7:  57153 # Legs
-        8:  57154 # Feet
-        9:  57155 # Wrists
-        10: 57156 # Hands
+      itemsV2:
+        - 188028_0 # Harmonium Breastplate
+        - 188030_0 # Harmonium Gauntlets
+        - 188033_0 # Harmonium Girdle
+        - 188027_0 # Harmonium Helm
+        - 188031_0 # Harmonium Legplates
+        - 188029_0 # Harmonium Percussive Stompers
+        - 188032_0 # Harmonium Spaulders
+        - 188034_0 # Harmonium Vambraces

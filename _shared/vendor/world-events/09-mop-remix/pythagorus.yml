@@ -23,17 +23,17 @@ sets:
     range: 11
     sortKey: 2-15-3
 
-  - name: "Ensembles - T16 Heroic"
+  - name: "Ensembles - T16 Mythic"
     range: 11
     sortKey: 2-16-3
 
 tags:
-  - "mop-remix"
+  - "remix-pandaria"
 
 sells:
   # Armor
 
-  - type: transmog
+  - type: item
     id: 224459 # Tusks of Mannoroth [plate shoulders]
     costs:
       2778: 38500
@@ -41,67 +41,67 @@ sells:
 
   # Heirlooms
 
-  - type: transmog
+  - type: item
     id: 104404 # Hellscream's Cleaver [1h ? axe]
     costs:
       2778: 8000
       1224461: 2
 
-  - type: transmog
+  - type: item
     id: 104402 # Hellscream's Warmace [1h ? mace]
     costs:
       2778: 8000
       1224461: 2
 
-  - type: transmog
+  - type: item
     id: 104401 # Hellscream's Doomblade [1h ? sword]
     costs:
       2778: 8000
       1224461: 2
 
-  - type: transmog
+  - type: item
     id: 104400 # Hellscream's Razor [? dagger]
     costs:
       2778: 8000
       1224461: 2
 
-  - type: transmog
+  - type: item
     id: 104405 # Hellscream's Decapitator [2h ? axe]
     costs:
       2778: 8000
       1224461: 2
 
-  - type: transmog
+  - type: item
     id: 104403 # Hellscream's Pig Sticker [polearm]
     costs:
       2778: 8000
       1224461: 2
 
-  - type: transmog
+  - type: item
     id: 104406 # Hellscream's War Staff [staff]
     costs:
       2778: 8000
       1224461: 2
 
-  - type: transmog
+  - type: item
     id: 104399 # Hellscream's Warbow [bow]
     costs:
       2778: 8000
       1224461: 2
 
-  - type: transmog
+  - type: item
     id: 104408 # Hellscream's Tome of Destruction [off-hand]
     costs:
       2778: 8000
       1224461: 2
 
-  - type: transmog
+  - type: item
     id: 104409 # Hellscream's Barrier [shield]
     costs:
       2778: 8000
       1224461: 2
 
-  - type: transmog
+  - type: item
     id: 104407 # Hellscream's Shield Wall [shield]
     costs:
       2778: 8000
@@ -109,171 +109,171 @@ sells:
 
   # T14 Heroic
 
-  - type: transmog # Death Knight
+  - type: item # Death Knight
     id: 215322 # Ensemble: Plate of the Lost Catacomb
     costs:
       2778: 5000
 
-  - type: transmog # Druid
+  - type: item # Druid
     id: 215242 # Ensemble: Vestments of the Eternal Blossom
     costs:
       2778: 5000
 
-  - type: transmog # Hunter
+  - type: item # Hunter
     id: 215290 # Ensemble: Yaungol Slayer Battlegear
     costs:
       2778: 5000
 
-  - type: transmog # Mage
+  - type: item # Mage
     id: 215190 # Ensemble: Regalia of the Burning Scroll
     costs:
       2778: 5000
 
-  - type: transmog # Monk
+  - type: item # Monk
     id: 215250 # Ensemble: Vestments of the Red Crane
     costs:
       2778: 5000
 
-  - type: transmog # Paladin
+  - type: item # Paladin
     id: 215331 # Ensemble: White Tiger Battlegear
     costs:
       2778: 5000
 
-  - type: transmog # Priest
+  - type: item # Priest
     id: 215200 # Ensemble: Guardian Serpent Regalia
     costs:
       2778: 5000
 
-  - type: transmog # Rogue
+  - type: item # Rogue
     id: 215262 # Ensemble: Battlegear of the Thousandfold Blades
     costs:
       2778: 5000
 
-  - type: transmog # Shaman
+  - type: item # Shaman
     id: 215299 # Ensemble: Regalia of the Firebird
     costs:
       2778: 5000
 
-  - type: transmog # Warlock
+  - type: item # Warlock
     id: 215207 # Ensemble: Sha Skin Regalia
     costs:
       2778: 5000
 
-  - type: transmog # Warrior
+  - type: item # Warrior
     id: 215340 # Ensemble: Battleplate of Resounding Rings
     costs:
       2778: 5000
 
   # T15 Heroic
 
-  - type: transmog # Death Knight
+  - type: item # Death Knight
     id: 215323 # Ensemble: Battleplate of the All-Consuming Maw
     costs:
       2778: 5000
 
-  - type: transmog # Druid
+  - type: item # Druid
     id: 215244 # Ensemble: Vestments of the Haunted Forest
     costs:
       2778: 5000
 
-  - type: transmog # Hunter
+  - type: item # Hunter
     id: 215291 # Ensemble: Battlegear of the Saurok Stalker
     costs:
       2778: 5000
 
-  - type: transmog # Mage
+  - type: item # Mage
     id: 215192 # Ensemble: Regalia of the Chromatic Hydra
     costs:
       2778: 5000
 
-  - type: transmog # Monk
+  - type: item # Monk
     id: 215254 # Ensemble: Fire-Charm Vestments
     costs:
       2778: 5000
 
-  - type: transmog # Paladin
+  - type: item # Paladin
     id: 215333 # Ensemble: Battlegear of the Lightning Emperor
     costs:
       2778: 5000
 
-  - type: transmog # Priest
+  - type: item # Priest
     id: 215203 # Ensemble: Regalia of the Exorcist
     costs:
       2778: 5000
 
-  - type: transmog # Rogue
+  - type: item # Rogue
     id: 215265 # Ensemble: Nine-Tail Battlegear
     costs:
       2778: 5000
 
-  - type: transmog # Shaman
+  - type: item # Shaman
     id: 215301 # Ensemble: Regalia of the Witch Doctor
     costs:
       2778: 5000
 
-  - type: transmog # Warlock
+  - type: item # Warlock
     id: 215211 # Ensemble: Regalia of the Thousandfold Hells
     costs:
       2778: 5000
 
-  - type: transmog # Warrior
+  - type: item # Warrior
     id: 215342 # Ensemble: Battleplate of the Last Mogu
     costs:
       2778: 5000
 
   # T16 Heroic
 
-  - type: transmog # Death Knight
+  - type: item # Death Knight
     id: 215328 # Ensemble: Battleplate of Cyclopean Dread
     costs:
       2778: 5000
 
-  - type: transmog # Druid
+  - type: item # Druid
     id: 215248 # Ensemble: Vestments of the Shattered Vale
     costs:
       2778: 5000
 
-  - type: transmog # Hunter
+  - type: item # Hunter
     id: 215296 # Ensemble: Battlegear of the Unblinking Vigil
     costs:
       2778: 5000
 
-  - type: transmog # Mage
+  - type: item # Mage
     id: 215195 # Ensemble: Chronomancer Regalia
     costs:
       2778: 5000
 
-  - type: transmog # Monk
+  - type: item # Monk
     id: 215259 # Ensemble: Vestments of the Seven Sacred Seals
     costs:
       2778: 5000
 
-  - type: transmog # Paladin
+  - type: item # Paladin
     id: 215336 # Ensemble: Vestments of Winged Triumph
     costs:
       2778: 5000
 
-  - type: transmog # Priest
+  - type: item # Priest
     id: 215205 # Ensemble: Regalia of Ternion Glory
     costs:
       2778: 5000
 
-  - type: transmog # Rogue
+  - type: item # Rogue
     id: 215268 # Ensemble: Barbed Assassin Battlegear
     costs:
       2778: 5000
 
-  - type: transmog # Shaman
+  - type: item # Shaman
     id: 215305 # Ensemble: Regalia of Celestial Harmony
     costs:
       2778: 5000
 
-  - type: transmog # Warlock
+  - type: item # Warlock
     id: 215213 # Ensemble: Regalia of the Horned Nightmare
     costs:
       2778: 5000
 
-  - type: transmog # Warrior
+  - type: item # Warrior
     id: 215345 # Ensemble: Battleplate of the Prehistoric Marauder
     costs:
       2778: 5000

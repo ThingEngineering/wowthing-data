@@ -1,6 +1,14 @@
 name: "Travel"
 groups:
 
+- name: "Flight Master's Whistle"
+  icon: "item/141605"
+  type: quest
+  data:
+    0:
+      - name: "Flight Master's Whistle"
+        id: 43341
+
 - name: "Empowered Ring of the Kirin Tor"
   icon: item/139599
   type: item

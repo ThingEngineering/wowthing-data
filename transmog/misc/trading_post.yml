@@ -1,0 +1,86 @@
+name: "Trading Post"
+groups:
+  
+- name: "Vagabond's Threads"
+  type: all
+  sets:
+    - "Aquatic"
+    - "Azure"
+    - "Brick"
+    - "Camo"
+    - "Carrot"
+    - "Cloudy"
+    - "Crimson"
+    - "Deep"
+    - "Faded"
+    - "Grassy"
+    - "Lively"
+    - "Midnight"
+    - "Plum"
+    - "Rosy"
+    - "Sepia"
+    - "Snowy"
+    - "Sunny"
+    - "Violet"
+  data:
+    all:
+      - transmogSetId: 3039 # Aquatic
+      - transmogSetId: 2332 # Azure
+      - transmogSetId: 3042 # Brick
+      - transmogSetId: 3043 # Camo
+      - transmogSetId: 2761 # Carrot
+      - transmogSetId: 3045 # Cloudy
+      - transmogSetId: 2342 # Crimson
+      - transmogSetId: 3044 # Deep
+      - transmogSetId: 3041 # Faded
+      - transmogSetId: 3046 # Grassy
+      - transmogSetId: 3047 # Lively
+      - transmogSetId: 2324 # Midnight
+      - transmogSetId: 3040 # Plum
+      - transmogSetId: 2760 # Rosy
+      - transmogSetId: 3048 # Sepia
+      - transmogSetId: 2345 # Snowy
+      - transmogSetId: 3038 # Sunny
+      - transmogSetId: 2328 # Violet
+
+- name: "Wanderer's Trappings"
+  type: all
+  sets:
+    - "Aquatic"
+    - "Azure"
+    - "Brick"
+    - "Camo"
+    - "Carrot"
+    - "Cloudy"
+    - "Crimson"
+    - "Deep"
+    - "Faded"
+    - "Grassy"
+    - "Lively"
+    - "Midnight"
+    - "Plum"
+    - "Rosy"
+    - "Sepia"
+    - "Snowy"
+    - "Sunny"
+    - "Violet"
+  data:
+    all:
+      - transmogSetId: 3028 # Aquatic
+      - transmogSetId: 2333 # Azure
+      - transmogSetId: 3031 # Brick
+      - transmogSetId: 3032 # Camo
+      - transmogSetId: 2762 # Carrot
+      - transmogSetId: 3034 # Cloudy
+      - transmogSetId: 2341 # Crimson
+      - transmogSetId: 3033 # Deep
+      - transmogSetId: 3030 # Faded
+      - transmogSetId: 3035 # Grassy
+      - transmogSetId: 3036 # Lively
+      - transmogSetId: 2326 # Midnight
+      - transmogSetId: 3029 # Plum
+      - transmogSetId: 2759 # Rosy
+      - transmogSetId: 3037 # Sepia
+      - transmogSetId: 2344 # Snowy
+      - transmogSetId: 3027 # Sunny
+      - transmogSetId: 2329 # Violet

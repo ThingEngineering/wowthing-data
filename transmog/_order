@@ -12,6 +12,7 @@
     08-shadowlands/covenants.yml
 
 07-battle-for-azeroth/_.yml
+    07-battle-for-azeroth/warfronts.yml
 
 06-legion/_.yml
 
@@ -65,4 +66,9 @@ pvp.yml
 misc/_misc.yml
     misc/money.yml
     misc/racial.yml
+    misc/trading_post.yml
     misc/trial_of_style.yml
+
+remix-pandaria/_.yml
+    04-mists-of-pandaria/raids.yml
+    remix-pandaria/world.yml

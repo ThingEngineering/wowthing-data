@@ -28,6 +28,7 @@ groups:
       - itemId: 197598 # Windborne Velocidrake: Gray Fur
       - itemId: 197608 # Windborne Velocidrake: Gray Horns
       - itemId: 197591 # Windborne Velocidrake: Hairy Head
+      - itemId: 208680 # Windborne Velocidrake: Hallow's End Armor
       - itemId: 197617 # Windborne Velocidrake: Heavy Scales
       - itemId: 197600 # Windborne Velocidrake: Helm
       - itemId: 197619 # Windborne Velocidrake: Hooked Snout
@@ -53,6 +54,7 @@ groups:
       - itemId: 197579 # Windborne Velocidrake: Steel and Orange Armor
       - itemId: 197606 # Windborne Velocidrake: Swept Horns
       - itemId: 197615 # Windborne Velocidrake: Teal Scales
+      - itemId: 208105 # Windborne Velocidrake: Visage of the Infinite
       - itemId: 197601 # Windborne Velocidrake: Wavy Horns
       - itemId: 197582 # Windborne Velocidrake: White and Pink Armor
       - itemId: 197609 # Windborne Velocidrake: White Horns

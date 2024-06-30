@@ -1,0 +1,130 @@
+name: World
+groups:
+
+# group 243
+- name: "Armor Type"
+  type: armor
+  sets:
+    - World 1-A
+    - World 1-B
+    - World 1-C
+    - World 1-D
+    - World 2-A
+    - World 2-B
+    - World 2-C
+    - World 2-D
+    - World 3-A
+    - World 3-B
+    - World 3-C
+  data:
+    cloth:
+      # Mistwalker's Vestments
+      - transmogSetId: 3374
+      - transmogSetId: 3375
+      - transmogSetId: 3376
+      - null
+      # Spirit-Waker's Vestments
+      - transmogSetId: 3371
+      - transmogSetId: 3372
+      - transmogSetId: 3373
+      - null
+      # Vestments of the Eternal Dynasty
+      - transmogSetId: 3377
+      - transmogSetId: 3378
+      - transmogSetId: 3379
+
+    leather:
+      # Mistveil Leathers
+      - transmogSetId: 3390
+      - transmogSetId: 3391
+      - transmogSetId: 3392
+      - transmogSetId: 3393
+      # Thunderpaw Battlegear
+      - transmogSetId: 3386
+      - transmogSetId: 3387
+      - transmogSetId: 3388
+      - transmogSetId: 3389
+      # Snowdrift Battlegear
+      - transmogSetId: 3397
+      - transmogSetId: 3398
+      - transmogSetId: 3399
+
+    mail:
+      # Jade Guardian's Regalia
+      - transmogSetId: 3416
+      - transmogSetId: 3417
+      - transmogSetId: 3418
+      - transmogSetId: 3419
+      # Trailseeker's Laminal Armor
+      - transmogSetId: 3406
+      - transmogSetId: 3407
+      - transmogSetId: 3408
+      - transmogSetId: 3409
+      # Dawnwatcher's Scale Armor
+      - transmogSetId: 3410
+      - transmogSetId: 3411
+      - transmogSetId: 3412
+
+    plate:
+      # Gatecrasher's Battleplate
+      - transmogSetId: 3430
+      - transmogSetId: 3431
+      - transmogSetId: 3432
+      - transmogSetId: 3433
+      # Shan'ze Warplate
+      - transmogSetId: 3426
+      - transmogSetId: 3427
+      - transmogSetId: 3428
+      - transmogSetId: 3429
+      # Spiritguard's Warplate
+      - transmogSetId: 3423
+      - transmogSetId: 3424
+      - transmogSetId: 3425
+
+- name: "Shared"
+  type: all
+  sets:
+    - "Guise of the Shado-Pan [1]"
+    - "Guise of the Shado-Pan [2]"
+    - "Kor'kron Shaman Vestments [1]"
+    - "Kor'kron Shaman Vestments [2]"
+    - "Kor'kron Shaman Vestments [3]"
+    - "Robes of Quiet Reflection [1]"
+    - "Robes of Quiet Reflection [2]"
+    - "Robes of Quiet Reflection [3]"
+    - "Robes of Quiet Reflection [4]"
+    - "Sun Pearl Clothing [1]"
+    - "Sun Pearl Clothing [2]"
+    - "Sun Pearl Clothing [3]"
+    - "Tian Monastery Clothing [1]"
+    - "Tian Monastery Clothing [2]"
+    - "Tian Monastery Clothing [3]"
+    - "Vestments of Serenity [1]"
+    - "Vestments of Serenity [2]"
+    - "Vestments of Serenity [3]"
+  data:
+    all:
+      # Guise of the Shado-Pan
+      - transmogSetId: 3380
+      - transmogSetId: 3381
+      # Kor'kron Shaman Vestments
+      - transmogSetId: 3403
+      - transmogSetId: 3404
+      - transmogSetId: 3405
+      # Robes of Quiet Reflection
+      - transmogSetId: 3434
+      - transmogSetId: 3435
+      - transmogSetId: 3436
+      - transmogSetId: 3437
+      # Sun Pearl Clothing
+      - transmogSetId: 3413
+      - transmogSetId: 3414
+      - transmogSetId: 3415
+      # Tian Monastery Clothing
+      - transmogSetId: 3394
+      - transmogSetId: 3395
+      - transmogSetId: 3396
+      # Vestments of Serenity
+      - transmogSetId: 3368
+      - transmogSetId: 3438
+      - transmogSetId: 3439

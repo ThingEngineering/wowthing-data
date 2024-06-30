@@ -2,6 +2,7 @@ name: "Renewed Proto-Drake"
 groups:
   - name: "AUTO"
     things:
+      - itemId: 202278 # Renewed Proto-Drake: Antlers
       - itemId: 197357 # Renewed Proto-Drake: Armor
       - itemId: 197401 # Renewed Proto-Drake: Beaked Snout
       - itemId: 197348 # Renewed Proto-Drake: Black and Red Armor
@@ -9,15 +10,19 @@ groups:
       - itemId: 197368 # Renewed Proto-Drake: Blue Hair
       - itemId: 197390 # Renewed Proto-Drake: Blue Scales
       - itemId: 197377 # Renewed Proto-Drake: Bovine Horns
+      - itemId: 208742 # Renewed Proto-Drake: Brewfest Armor
       - itemId: 197353 # Renewed Proto-Drake: Bronze and Pink Armor
       - itemId: 197391 # Renewed Proto-Drake: Bronze Scales
       - itemId: 197369 # Renewed Proto-Drake: Brown Hair
+      - itemId: 202277 # Renewed Proto-Drake: Bruiser Horns
       - itemId: 197403 # Renewed Proto-Drake: Club Tail
       - itemId: 197375 # Renewed Proto-Drake: Curled Horns
       - itemId: 197380 # Renewed Proto-Drake: Curved Horns
       - itemId: 197358 # Renewed Proto-Drake: Curved Spiked Brow
       - itemId: 197366 # Renewed Proto-Drake: Dual Horned Crest
       - itemId: 197376 # Renewed Proto-Drake: Ears
+      - itemId: 210536 # Renewed Proto-Drake: Embodiment of the Blazing
+      - itemId: 210537 # Renewed Proto-Drake: Embodiment of Shadowflame
       - itemId: 201790 # Renewed Proto-Drake: Embodiment of the Storm-Eater
       - itemId: 197355 # Renewed Proto-Drake: Finned Back
       - itemId: 197365 # Renewed Proto-Drake: Finned Crest
@@ -40,9 +45,14 @@ groups:
       # - itemId: 197354 # Renewed Proto-Drake: Horned Back
       - itemId: 197385 # Renewed Proto-Drake: Horned Jaw
       - itemId: 197379 # Renewed Proto-Drake: Impaler Horns
+      - itemId: 211812 # Renewed Proto-Drake: Love Armor
+      - itemId: 202279 # Renewed Proto-Drake: Malevolent Horns
       - itemId: 197363 # Renewed Proto-Drake: Maned Crest
       - itemId: 197405 # Renewed Proto-Drake: Maned Tail
+      - itemId: 202274 # Renewed Proto-Drake: Plated Brow
+      - itemId: 202275 # Renewed Proto-Drake: Plated Jaw
       - itemId: 197394 # Renewed Proto-Drake: Predator Pattern
+      - itemId: 202280 # Renewed Proto-Drake: Pronged Tail
       - itemId: 197372 # Renewed Proto-Drake: Purple Hair
       - itemId: 197399 # Renewed Proto-Drake: Razor Snout
       - itemId: 197370 # Renewed Proto-Drake: Red Hair
@@ -60,9 +70,11 @@ groups:
       - itemId: 197362 # Renewed Proto-Drake: Spined Crest
       - itemId: 197406 # Renewed Proto-Drake: Spined Tail
       - itemId: 197352 # Renewed Proto-Drake: Steel and Yellow Armor
+      - itemId: 202273 # Renewed Proto-Drake: Stubby Snout
       - itemId: 197378 # Renewed Proto-Drake: Subtle Horns
       - itemId: 197374 # Renewed Proto-Drake: Swept Horns
       - itemId: 197384 # Renewed Proto-Drake: Thick Spined Jaw
       - itemId: 197387 # Renewed Proto-Drake: Thin Spined Jaw
+      - itemId: 208104 # Renewed Proto-Drake: Visage of the Infinite
       - itemId: 197382 # Renewed Proto-Drake: White Horns
       - itemId: 197393 # Renewed Proto-Drake: White Scales

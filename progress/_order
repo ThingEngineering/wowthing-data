@@ -18,6 +18,7 @@
     08-shadowlands/raid_skips.yml
 
 07-battle-for-azeroth/_.yml
+    07-battle-for-azeroth/bases.yml
     07-battle-for-azeroth/patch_8_2.yml
     07-battle-for-azeroth/patch_8_3.yml
     07-battle-for-azeroth/travel.yml

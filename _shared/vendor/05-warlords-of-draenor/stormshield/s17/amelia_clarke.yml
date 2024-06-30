@@ -65,7 +65,7 @@ sets:
     sortKey: "9-armor-s17-2-2"
 
   - name: "Armor - S17 Shared Mail"
-    range: 19
+    range: 20
     sortKey: "9-armor-s17-2-3"
 
   - name: "Armor - S17 Shared Plate"
@@ -581,6 +581,8 @@ sells:
     costs:
       1137642: 2
 
+  # Shared Mail
+
   - type: transmog
     id: 124790 # Wild Gladiator's Coif [mail head]
     costs:
@@ -680,6 +682,8 @@ sells:
     id: 124779 # Wild Gladiator's Footguards of Victory [mail feet]
     costs:
       1137642: 2
+
+  # Shared Plate
 
   - type: transmog
     id: 124814 # Wild Gladiator's Plate Helmet [plate head]

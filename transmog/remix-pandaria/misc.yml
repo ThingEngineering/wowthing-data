@@ -1,0 +1,73 @@
+name: Miscellaneous
+groups:
+
+- name: "Miscellaneous"
+  type: class
+  sets:
+    - "Trading Post armor"
+    - "Trading Post weapons"
+  data:
+    death-knight:
+      - transmogSetId: 3498 # Webbed Soulforged Exoskeleton
+
+      - transmogSetId: 3497 # Webbed Soulforged Weaponry
+
+    demon-hunter:
+      - transmogSetId: 3506 # Aldrachi Blasphemer's Flames
+
+      - transmogSetId: 3505 # Aldrachi Blasphemer's Glaives
+
+    druid:
+      - transmogSetId: 3508 # Ela'lothen's Vestment of Rebirth
+
+      - transmogSetId: 3507 # Ela'lothen's Blessings of Rebirth
+
+    evoker:
+      - transmogSetId: 3494 # Scales of the Gold Hoarder
+
+      - transmogSetId: 3493 # Treasure of the Gold Hoarder
+
+    hunter:
+      - transmogSetId: 3492 # Dreadsquall Hunter's Camouflage
+
+      - transmogSetId: 3491 # Dreadsquall Hunter's Preference
+
+    mage:
+      - transmogSetId: 3496 # Sin'dorei Magister's Regalia
+
+      - transmogSetId: 3495 # Sin'dorei Magister's Enchantment
+
+    monk:
+      - transmogSetId: 3504 # Shado-Pan Watcher Guise
+
+      - transmogSetId: 3503 # Shado-Pan Watcher Arsenal
+
+    paladin:
+      - transmogSetId: 3514 # Plate of the Holy Avenger
+
+      - transmogSetId: 3513 # Armaments of the Holy Avenger
+
+    priest:
+      - transmogSetId: 3510 # Silks of the Abyssal Cult
+
+      - transmogSetId: 3512 # Secrets of the Abyssal Cult
+
+    rogue:
+      - transmogSetId: 3509 # Igneous Onyx Uniform
+
+      - transmogSetId: 3511 # Igneous Onyx Blades
+
+    shaman:
+      - transmogSetId: 3490 # Imminence of Krag'wa's Disciple
+      
+      - transmogSetId: 3489 # Tools of Krag'wa's Disciple
+
+    warlock:
+      - transmogSetId: 3502 # Jewels of Temptation's Call
+
+      - transmogSetId: 3501 # Instruments of Temptation's Call
+
+    warrior:
+      - transmogSetId: 3500 # Fanatical Champion's Trophies
+
+      - transmogSetId: 3499 # Fanatical Champion's Aggression
