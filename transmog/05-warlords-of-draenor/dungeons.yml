@@ -1,0 +1,13 @@
+name: Dungeons
+skipClasses:
+- demon-hunter
+- evoker
+groups:
+
+- name: "Challenge Modes"
+  type: all
+  sets:
+    - "Challenge Mode Weapons*"
+  data:
+    all:
+      - transmogSetId: 4
