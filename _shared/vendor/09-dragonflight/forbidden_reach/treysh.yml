@@ -49,6 +49,16 @@ sells:
     costs:
       0: 80 # Gold
 
+  - type: item
+    id: 217893 # Emerald Winglord's Chain
+    costs:
+      2118: 2500
+
+  - type: item
+    id: 217892 # Emerald Winglord's Shoulders
+    costs:
+      2118: 2500
+
   - type: transmog
     id: 202197 # Emboldened Dracthyr's Tabard [tabard]
     costs:

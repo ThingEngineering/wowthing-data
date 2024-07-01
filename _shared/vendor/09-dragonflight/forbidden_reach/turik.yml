@@ -1,0 +1,15 @@
+id: 200562
+name: "Turik"
+note: "Renown Envoy"
+
+locations:
+  09-dragonflight/forbidden_reach:
+    - 34.2 60
+
+sells:
+  # 0
+
+  - type: item
+    id: 193850 # Buckie
+    costs:
+      2118: 25000

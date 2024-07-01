@@ -1,0 +1,15 @@
+id: 200564
+name: "Storykeeper Ashekh"
+note: "Renown Envoy"
+
+locations:
+  09-dragonflight/forbidden_reach:
+    - 34 59.8
+
+sells:
+  # 0
+
+  - type: item
+    id: 204382 # Noble Bruffalon
+    costs:
+      2118: 100000

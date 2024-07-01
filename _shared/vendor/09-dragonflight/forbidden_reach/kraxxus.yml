@@ -1,0 +1,20 @@
+id: 200563
+name: "Kraxxus"
+note: "Renown Envoy"
+
+locations:
+  09-dragonflight/forbidden_reach:
+    - 34 59.8
+
+sells:
+  # 0
+
+  - type: item
+    id: 197136 # Highland Drake: Tapered Nose
+    costs:
+      2118: 2500
+
+  - type: item
+    id: 197626 # Windborne Velocidrake: Exposed Finned Neck
+    costs:
+      2118: 2500
