@@ -1,9 +1,10 @@
 id: 195529
 name: "Weaponmaster Aloom"
+note: "Renown Weaponsmith"
 
 locations:
   09-dragonflight/ohnahran_plains:
-    - 64.2 42.4
+    - 62.4 42.2
 
 sets:
   - name: "Renown 17 Weapons"
@@ -11,92 +12,101 @@ sets:
     sortKey: "mc17"
 
 sells:
-  - type: transmog
-    id: 200541 # Fur-Lined Safeguard [cosmetic shield]
-    costs:
-      1201159: 1
-    reputation: 2503 renown-17
 
-  - type: transmog
-    id: 200540 # Improvised Maruuk Barrier [cosmetic shield]
+  - type: item
+    id: 200524 # Nokhud Warhammer [1h ? mace]
     costs:
-      1201159: 1
-    reputation: 2503 renown-17
+      2003: 600
+      1190396: 10
+      1201404: 5
 
-  - type: transmog
-    id: 200539 # Khansguard Shield [cosmetic shield]
+  - type: item
+    id: 200523 # Smith's Stoneworked Mallet [1h ? mace]
     costs:
-      1201159: 1
-    reputation: 2503 renown-17
+      2003: 600
+      1201405: 3
+      1201404: 5
 
-  - type: transmog
-    id: 200524 # Nokhud Warhammer [cosmetic mace]
+  - type: item
+    id: 200520 # Mammothbone Knife [? dagger]
     costs:
-      1201159: 1
-    reputation: 2503 renown-17
+      2003: 600
+      1201402: 1
 
-  - type: transmog
-    id: 200523 # Smith's Stoneworked Mallet [cosmetic mace]
+  - type: item
+    id: 200521 # Maruuk Boneblade [? dagger]
     costs:
-      1201159: 1
-    reputation: 2503 renown-17
+      2003: 600
+      1201402: 1
 
-  - type: transmog
-    id: 200534 # Toghus Poleaxe [2h cosmetic axe]
+  - type: item
+    id: 200522 # Maruukai Smith's Tongs [? dagger]
     costs:
-      1201159: 1
-    reputation: 2503 renown-17
+      2003: 600
+      1190396: 10
+      1201404: 5
 
-  - type: transmog
-    id: 200525 # Massive Stone Sledgehammer [2h cosmetic mace]
+  - type: item
+    id: 200534 # Toghus Poleaxe [2h ? axe]
     costs:
-      1201159: 1
-    reputation: 2503 renown-17
+      2003: 600
+      1188658: 5
+      1201405: 3
 
-  - type: transmog
-    id: 200520 # Mammothbone Knife [cosmetic dagger]
+  - type: item
+    id: 200525 # Massive Stone Sledgehammer [2h ? mace]
     costs:
-      1201159: 1
-    reputation: 2503 renown-17
+      2003: 600
+      1201405: 3
+      1201404: 5
 
-  - type: transmog
-    id: 200521 # Maruuk Boneblade [cosmetic dagger]
+  - type: item
+    id: 200510 # Huntstrider Spear [polearm]
     costs:
-      1201159: 1
-    reputation: 2503 renown-17
+      2003: 600
+      1190396: 5
 
-  - type: transmog
-    id: 200522 # Maruukai Smith's Tongs [cosmetic dagger]
+  - type: item
+    id: 200518 # Nokhud Goliath's Spear [polearm]
     costs:
-      1201159: 1
-    reputation: 2503 renown-17
+      2003: 600
+      1188658: 5
 
-  - type: transmog
-    id: 200510 # Huntstrider Spear [cosmetic polearm]
+  - type: item
+    id: 200517 # Nokhud Warspear [polearm]
     costs:
-      1201159: 1
-    reputation: 2503 renown-17
+      2003: 600
+      1188658: 5
 
-  - type: transmog
-    id: 200518 # Nokhud Goliath's Spear [cosmetic polearm]
+  - type: item
+    id: 200511 # Stonework Greatspear [polearm]
     costs:
-      1201159: 1
-    reputation: 2503 renown-17
+      2003: 600
+      1188658: 5
 
-  - type: transmog
-    id: 200517 # Nokhud Warspear [cosmetic polearm]
+  - type: item
+    id: 200512 # Teerai Warspear [polearm]
     costs:
-      1201159: 1
-    reputation: 2503 renown-17
+      2003: 600
+      1190396: 5
 
-  - type: transmog
-    id: 200511 # Stonework Greatspear [cosmetic polearm]
+  - type: item
+    id: 200541 # Fur-Lined Safeguard [shield]
     costs:
-      1201159: 1
-    reputation: 2503 renown-17
+      2003: 600
+      1188658: 5
+      1201405: 3
 
-  - type: transmog
-    id: 200512 # Teerai Warspear [cosmetic polearm]
+  - type: item
+    id: 200540 # Improvised Maruuk Barrier [shield]
     costs:
-      1201159: 1
-    reputation: 2503 renown-17
+      2003: 600
+      1194863: 10
+      1201405: 3
+
+  - type: item
+    id: 200539 # Khansguard Shield [shield]
+    costs:
+      2003: 600
+      1188658: 5
+      1193210: 20
