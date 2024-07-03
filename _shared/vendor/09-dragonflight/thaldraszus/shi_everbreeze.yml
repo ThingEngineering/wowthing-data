@@ -8,26 +8,25 @@ locations:
     - 51 56.6
 
 sets:
-  - name: "Time Rifts - Cloth"
+  - name: "Time Rifts Cloth"
     range: 9
     sortKey: "tr01-1"
 
-  - name: "Time Rifts - Leather"
+  - name: "Time Rifts Leather"
     range: 9
     sortKey: "tr01-2"
 
-  - name: "Time Rifts - Mail"
+  - name: "Time Rifts Mail"
     range: 9
     sortKey: "tr01-3"
 
-  - name: "Time Rifts - Plate"
+  - name: "Time Rifts Plate"
     range: 9
     sortKey: "tr01-4"
 
-  - name: "Time Rifts - Weapons"
+  - name: "Time Rifts Weapons"
     range: -1
     sortKey: "tr01-5"
-
 
 sells:
   - type: transmog
