@@ -1,0 +1,308 @@
+id: 210608
+name: "Celestine of the Harvest"
+
+locations:
+  09-dragonflight/azure_span:
+    - 45.6 39.8
+  09-dragonflight/ohnahran_plains:
+    - 64 41.6
+  09-dragonflight/thaldraszus:
+    - 51.2 43.2
+  09-dragonflight/waking_shores:
+    - 58.4 67.8
+
+sets:
+  - name: "Mounts"
+    range: 1
+    sortKey: "00mounts"
+
+  - name: "Pets"
+    range: 2
+    sortKey: "00pets"
+
+  - name: "Toys"
+    range: 2
+    sortKey: "00toys"
+
+  - name: "Dreamsurge Cloth"
+    range: 9
+    sortKey: "ds01-1"
+
+  - name: "Dreamsurge Leather"
+    range: 9
+    sortKey: "ds01-2"
+
+  - name: "Dreamsurge Mail"
+    range: 9
+    sortKey: "ds01-3"
+
+  - name: "Dreamsurge Plate"
+    range: 9
+    sortKey: "ds01-4"
+
+  - name: "Dreamsurge Weapons"
+    range: -1
+    sortKey: "ds02-1"
+
+sells:
+  # Mounts
+
+  - type: item
+    id: 198824 # Duskwing Ohuna
+    costs:
+      1207026: 1000
+
+  # Pets
+
+  - type: item
+    id: 205024 # Cheddar
+    costs:
+      1207026: 250
+
+  - type: item
+    id: 205010 # Crimson Swoglet
+    costs:
+      1207026: 250
+
+  # Toys
+
+  - type: item
+    id: 209858 # Dreamsurge Remnant
+    costs:
+      1207026: 500
+
+  - type: item
+    id: 209944 # Friendsurge Defenders
+    costs:
+      1207026: 500
+
+  # Cloth
+
+  - type: item
+    id: 209408 # Dreambound Crown
+    costs: &token-cost
+      1207026: 100
+
+  - type: item
+    id: 209380 # Dreambound Shoulderpads
+    costs: *token-cost
+
+  - type: item
+    id: 209414 # Dreambound Drape
+    costs: *token-cost
+
+  - type: item
+    id: 209411 # Dreambound Vestment
+    costs: *token-cost
+
+  - type: item
+    id: 209405 # Dreambound Cuffs
+    costs: *token-cost
+
+  - type: item
+    id: 209409 # Dreambound Mitts
+    costs: *token-cost
+
+  - type: item
+    id: 209406 # Dreambound Cord
+    costs: *token-cost
+
+  - type: item
+    id: 209407 # Dreambound Pants
+    costs: *token-cost
+
+  - type: item
+    id: 209410 # Dreambound Sandals
+    costs: *token-cost
+
+  # Leather
+
+  - type: item
+    id: 209402 # Dreambound Cowl
+    costs: *token-cost
+
+  - type: item
+    id: 209381 # Dreambound Epaulets
+    costs: *token-cost
+
+  - type: item
+    id: 209357 # Dreambound Shawl
+    costs: *token-cost
+
+  - type: item
+    id: 209382 # Dreambound Vest
+    costs: *token-cost
+
+  - type: item
+    id: 209399 # Dreambound Bindings
+    costs: *token-cost
+
+  - type: item
+    id: 209403 # Dreambound Handwraps
+    costs: *token-cost
+
+  - type: item
+    id: 209400 # Dreambound Sash
+    costs: *token-cost
+
+  - type: item
+    id: 209401 # Dreambound Breeches
+    costs: *token-cost
+
+  - type: item
+    id: 209404 # Dreambound Waders
+    costs: *token-cost
+
+  # Mail
+
+  - type: item
+    id: 209395 # Dreambound Coif
+    costs: *token-cost
+
+  - type: item
+    id: 209393 # Dreambound Shoulderguards
+    costs: *token-cost
+
+  - type: item
+    id: 209413 # Dreambound Cape
+    costs: *token-cost
+
+  - type: item
+    id: 209398 # Dreambound Chainmail
+    costs: *token-cost
+
+  - type: item
+    id: 209391 # Dreambound Vambraces
+    costs: *token-cost
+
+  - type: item
+    id: 209396 # Dreambound Grips
+    costs: *token-cost
+
+  - type: item
+    id: 209392 # Dreambound Cinch
+    costs: *token-cost
+
+  - type: item
+    id: 209394 # Dreambound Greaves
+    costs: *token-cost
+
+  - type: item
+    id: 209397 # Dreambound Striders
+    costs: *token-cost
+
+  # Plate
+
+  - type: item
+    id: 209390 # Dreambound Faceplate
+    costs: *token-cost
+
+  - type: item
+    id: 209385 # Dreambound Mantle
+    costs: *token-cost
+
+  - type: item
+    id: 209412 # Dreambound Greatcloak
+    costs: *token-cost
+
+  - type: item
+    id: 209385 # Dreambound Breastplate
+    costs: *token-cost
+
+  - type: item
+    id: 209383 # Dreambound Armplates
+    costs: *token-cost
+
+  - type: item
+    id: 209387 # Dreambound Gauntlets
+    costs: *token-cost
+
+  - type: item
+    id: 209384 # Dreambound Girdle
+    costs: *token-cost
+
+  - type: item
+    id: 209386 # Dreambound Legguards
+    costs: *token-cost
+
+  - type: item
+    id: 209388 # Dreambound Sabatons
+    costs: *token-cost
+
+  # Weapons
+
+  - type: item
+    id: 209366 # Dreambound Hacker [1h axe]
+    costs: *token-cost
+
+  - type: item
+    id: 209365 # Dreambound Cleaver [1h axe]
+    costs: *token-cost
+
+  - type: item
+    id: 209364 # Dreambound Censer [1h mace]
+    costs: *token-cost
+
+  - type: item
+    id: 209362 # Dreambound Cudgel [1h mace]
+    costs: *token-cost
+
+  - type: item
+    id: 209363 # Dreambound Mallet [1h mace]
+    costs: *token-cost
+
+  - type: item
+    id: 209370 # Dreambound Blade [1h sword]
+    costs: *token-cost
+
+  - type: item
+    id: 209374 # Dreambound Spellblade [1h sword]
+    costs: *token-cost
+
+  - type: item
+    id: 209371 # Dreambound Sword [1h sword]
+    costs: *token-cost
+
+  - type: item
+    id: 209372 # Dreambound Kris [dagger]
+    costs: *token-cost
+
+  - type: item
+    id: 209373 # Dreambound Shank [dagger]
+    costs: *token-cost
+
+  - type: item
+    id: 209359 # Dreambound Warglaive [warglaive]
+    costs: *token-cost
+
+  - type: item
+    id: 209369 # Dreambound Greatsword [2h sword]
+    costs: *token-cost
+
+  - type: item
+    id: 209361 # Dreambound Halberd [polearm]
+    costs: *token-cost
+
+  - type: item
+    id: 209376 # Dreambound Polearm [polearm]
+    costs: *token-cost
+
+  - type: item
+    id: 209360 # Dreambound Staff [staff]
+    costs: *token-cost
+
+  - type: item
+    id: 209375 # Dreambound Rifle [gun]
+    costs: *token-cost
+
+  - type: item
+    id: 209377 # Dreambound Wand [wand]
+    costs: *token-cost
+
+  - type: item
+    id: 209378 # Dreambound Scepter [off-hand]
+    costs: *token-cost
+
+  - type: item
+    id: 209379 # Dreambound Barrier [Shield]
+    costs: *token-cost
