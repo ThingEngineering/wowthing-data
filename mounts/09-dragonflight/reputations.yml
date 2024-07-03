@@ -21,3 +21,8 @@ groups:
 - name: "Loamm Niffen"
   things:
     - 1738 # Morsel Sniffer (Renown 18)
+
+- name: "Dream Wardens"
+  things:
+    - 1811 # Lunar Dreamstag (Renown 17)
+    - 1809 # Suntouched Dreamstag (Renown 17)
