@@ -1,0 +1,148 @@
+id: 209192
+name: "Provisioner Aristta"
+note: "Azerothian Archives Vendor"
+
+locations:
+  09-dragonflight/azure_span:
+    - 27 46.4
+  09-dragonflight/thaldraszus:
+    - 61.4 31.4
+
+sets:
+  - name: "Mounts"
+    range: 1
+    sortKey: "00mounts"
+
+  - name: "Archivists Armor"
+    range: 11
+    sortKey: "ar01"
+  
+  - name: "Archivists Weapons"
+    range: -1
+    sortKey: "ar02"
+
+sells:
+
+  - type: item
+    id: 192796 # Explorer's Stonehide Packbeast
+    costs:
+      2657: 20000
+
+  # Armor
+
+  - type: item
+    id: 208451 # Archivist's Buckled Cap [subclass=5 head]
+    costs:
+      1212371: 1
+
+  - type: item
+    id: 208547 # Archivist's Reading Spectacles [subclass=5 head]
+    costs:
+      2657: 12000
+
+  - type: item
+    id: 208546 # Archivist's Rose-Tinted Glasses [subclass=5 head]
+    costs:
+      2657: 12000
+
+  - type: item
+    id: 208456 # Archivist's Elegant Bag [cloak]
+    costs:
+      2657: 15000
+
+  - type: item
+    id: 208452 # Historian's Dapper Cap [subclass=5 head]
+    costs:
+      2657: 15000
+
+  - type: item
+    id: 212794 # Historian's Hefty Habersack [subclass=5 back]
+    costs:
+      2657: 15000
+
+  - type: item
+    id: 212633 # Historian's Fitted Vest [subclass=5 chest]
+    costs:
+      2657: 7000
+
+  - type: item
+    id: 212634 # Historian's Fingerless Gloves [subclass=5 hands]
+    costs:
+      2657: 5000
+
+  - type: item
+    id: 212635 # Historian's Utility Belt [subclass=5 waist]
+    costs:
+      2657: 5000
+
+  - type: item
+    id: 212636 # Historian's Trousers [subclass=5 legs]
+    costs:
+      2657: 7000
+
+  - type: item
+    id: 212637 # Historian's Striders [subclass=5 feet]
+    costs:
+      2657: 5000
+
+  # Weapons
+
+  - type: item
+    id: 208454 # Archivist's Mining Pick [1h ? axe]
+    costs:
+      2657: 10000
+
+  - type: item
+    id: 213276 # Archivist's Magnifying Mace [1h ? mace]
+    costs:
+      2657: 10000
+
+  - type: item
+    id: 208455 # Archivist's Sturdy Hook [1h ? mace]
+    costs:
+      2657: 10000
+
+  - type: item
+    id: 208453 # Archivist's Super Scooper [1h ? mace]
+    costs:
+      2657: 10000
+
+  - type: item
+    id: 213275 # Archivist's Rockpuller [1h ? sword]
+    costs:
+      2657: 10000
+
+  - type: item
+    id: 208459 # Archivist's Improvised Cudgel [2h ? mace]
+    costs:
+      2657: 10000
+
+  - type: item
+    id: 208457 # Archivist's Spelunking Torch [2h ? mace]
+    costs:
+      2657: 10000
+
+  - type: item
+    id: 212870 # Archivist's Stone Chisel [? dagger]
+    costs:
+      2657: 10000
+
+  - type: item
+    id: 213274 # Archivist's Pathfinder [staff]
+    costs:
+      2657: 10000
+
+  - type: item
+    id: 212941 # Archivist's "Light Touch" [gun]
+    costs:
+      2657: 10000
+
+  - type: item
+    id: 208458 # Archivist's Extravagant Lantern [off-hand]
+    costs:
+      2657: 10000
+
+  - type: item
+    id: 208450 # Coiled Archivist's Rope [off-hand]
+    costs:
+      2657: 10000
