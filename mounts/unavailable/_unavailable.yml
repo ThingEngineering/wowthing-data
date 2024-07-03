@@ -3,6 +3,7 @@ groups:
 
 - name: Promotions
   things:
+  - 1959 # Compass Rose (Hearthstone Anniversary)
   - 896 # Primal Flamesaber (Heroes of the Storm)
   - 439 # Tyrael's Charger (Annual Pass)
 

@@ -1,6 +1,10 @@
 name: "Achievements"
 groups:
 
+- name: "Meta"
+  things:
+  - 2114 # Zovaal's Soul Eater
+
 - name: "Dungeons"
   things:
   - 1446 # Tazavesh Gearglider (Fake It 'Til You Make It, Tazavesh)

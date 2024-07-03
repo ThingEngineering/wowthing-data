@@ -10,8 +10,10 @@ groups:
   - 996 # Seabraid Stallion (Battle for Azeroth Collector's Edition)
   - 1289 # Ensorcelled Everwyrm (Shadowlands Heroic Edition)
   - 1556 # Tangled Dreamweaver (Dragonflight Heroic Edition)
+  - 1792 # Algarian Stormrider (The War Within Heroic Edition)
   - 1444 # Viridian Phase-Hunter (TBC Classic Deluxe Edition)
   - 1602 # Tuskarr Shoreglider (WotLK Classic Epic Upgrade)
+  - 1812 # Runebound Firelord (Cataclysm Classic ??)
 
 - name: Promotions
   things:
@@ -26,6 +28,7 @@ groups:
   - 1581 # Nether-Gorged Greatwyrm (6 month sub)
   - 1312 # Gargantuan Grrloc (12 month sub)
   - 1662 # Telix the Stormhorn (12 month sub)
+  - 1795 # Auspicious Arborwyrm (6/12 month sub?)
   - 1596 # Amalgam of Rage (Diablo IV)
 
 - name: Store

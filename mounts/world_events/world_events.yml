@@ -34,8 +34,10 @@ groups:
 - name: Love is in the Air
   things:
   - 352 # Big Love Rocket (Love is in the Air)
+  - 1941 # Heartseeker Mana Ray
   - 431 # Swift Lovebird (Love is in the Air)
 
 - name: Noblegarden
   things:
+  - 2023 # Noble Flying Carpet
   - 430 # Swift Springstrider

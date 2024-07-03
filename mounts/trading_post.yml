@@ -38,3 +38,14 @@ groups:
   - 2152 # Pearlescent Goblin Wave Shredder (June 2024)
   - 125 # Riding Turtle (June 2024)
   - 2189 # Underlight Corrupted Behemoth (July 2024)
+
+- name: "Unavailable"
+  things:
+    - 2198 # Kor'kron Warsaber (August 2024?)
+    - 2201 # Sentinel War Wolf (August 2024?)
+    - 1583 # Armored Siege Kodo
+    - 1595 # Cerulean Marsh Hopper
+    - 1579 # Coral-Stalker Waveray
+    - 799 # Molten Flarecore
+    - 1958 # Twilight Sky Prowler
+    - 2187 # Underlight Shorestalker

@@ -22,6 +22,14 @@ groups:
 - name: "Forbidden Reach"
   things:
     - 1467 # Noble Bruffalon (Storykeeper Ashekh)
+    - 1685 # Bronze Vorquin
+    - 1683 # Crimson Vorquin
+    - 1664 # Guardian Vorquin
+    - 1686 # Obsidian Vorquin
+    - 1684 # Sapphire Vorquin
+    - 1667 # Armored Vorquin Leystrider
+    - 1668 # Majestic Armored Vorquin
+    - 1665 # Swift Armored Vorquin
 
 - name: "Primalist Future"
   things:
