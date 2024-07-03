@@ -3,14 +3,12 @@
     - 116 121 # Black Qiraji Battle Tank (See Unavailable)
     - 937 # Black Qiraji War Tank
     - 22 # Black Ram (See Unavailable)
-    - 484 # Black Riding Yak
     - 12 # Black Wolf (See Horde)
     - 145 # Blue Mechanostrider (See Alliance)
     - 935 # Blue Qiraji War Tank
     - 308 # Blue Skeletal Warhorse
 #  - 50869 # Brewfest Kodo FIXME
     - 225 # Brewfest Riding Kodo
-    - 485 # Brown Riding Yak
     - 786 767 823 825 824 987 989 990 991 1071 1069 # Divine Steed (Paladin mount for allied races?)
 #  - 1202 # Frightened Kodo (See Rare Spawn) FIXME
     - 273 274 # Grand Caravan Mammoth
@@ -35,7 +33,6 @@
     - 32 # Tiger
 #  - 165019 # Vicious Black Warsaber (BfA Season 2) FIXME
 #  - 165019 # Vicious White Warsaber (BfA Season 4) FIXME
-    - 462 # White Riding Yak
     - 8 # White Stallion (See Unavailable)
     - 15 # Winter Wolf
 

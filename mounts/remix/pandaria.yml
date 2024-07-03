@@ -1,0 +1,67 @@
+name: "Pandaria"
+groups:
+
+- name: "Achievements"
+  things:
+    - 2143 # Astral Emperor's Serpent (Vale of Eternal Blossoms)
+    - 2142 # August Phoenix (Time Trial)
+
+- name: "Vendor (New)"
+  things:
+    - 2069 # Feathered Windsurfer
+    - 2087 # Purple Shado-Pan Riding Tiger
+    # Crane
+    - 2072 # Gilded Riding Crane
+    - 482 # Jungle Riding Crane
+    - 2076 # Luxurious Riding Crane
+    - 2073 # Pale Riding Crane
+    - 2074 # Rose Riding Crane
+    - 2075 # Silver Riding Crane
+    - 2077 # Tropical Riding Crane
+    # Disc
+    - 2060 # Golden Discus
+    - 2063 # Mogu Hazeblazer
+    - 2064 # Sky Surfer
+    # Goat
+    - 2080 # Little Red Riding Goat
+    - 2078 # Snowy Riding Goat
+    # Juggernaut
+    - 2085 # Cobalt Juggernaut
+    - 2086 # Fel Iron Juggernaut
+    # Mushan
+    - 2088 # Riverwalker Mushan
+    - 2089 # Palehide Mushan Beast
+    # Quilen
+    - 2070 # Guardian Quilen
+    - 2071 # Marble Quilen
+    # Skyscreamer
+    - 2118 # Amber Pterrordax
+    - 2081 # Bloody Skyscreamer
+    - 2084 # Jade Pterrordax
+    - 2083 # Night Pterrorwing
+    # Windsteed
+    - 2065 # Daystorm Windsteed
+    - 2067 # Forest Windsteed
+    - 2068 # Dashing Windsteed
+    # Yak
+    - 484 # Black Riding Yak
+    - 462 # Kafka Yak
+    - 485 # Modest Expedition Yak
+
+- name: "Vendor (Old)"
+  things:
+    # Flying
+    - 543 # Clutch of Ji-Kun (ToT)
+    - 478 # Astral Cloud Serpent (MSV)
+    - 473 # Heavenly Onyx Cloud Serpent (Sha of Anger)
+    - 542 # Thundering Cobalt Cloud Serpent (Nalak)
+    - 561 # Thundering Onyx Cloud Serpent (Huolon)
+    - 517 # Thundering Ruby Cloud Serpent (Alani)
+    # Ground
+    - 559 # Kor'kron Juggernaut (SoO)
+    - 515 # Son of Galleon (Galleon)
+    - 531 # Spawn of Horridon (ToT)
+    - 534 # Amber Primordial Direhorn (Zandalari Warbringer)
+    - 533 # Cobalt Primordial Direhorn (Oondasta)
+    - 536 # Jade Primordial Direhorn (Zandalari Warbringer)
+    - 535 # Slate Primordial Direhorn (Zandalari Warbringer)

@@ -56,6 +56,9 @@ professions.yml
 pvp/_pvp.yml
     pvp/honor.yml
 
+remix/_.yml
+    remix/pandaria.yml
+
 trading_post.yml
 
 world_events/_blank.yml
