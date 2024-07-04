@@ -7,9 +7,9 @@ locations:
     - 73.8 47
 
 sets:
-  - name: "Vault"
+  - name: "Vault Awakened"
     range: -1
-    sortKey: "z-01"
+    sortKey: "z-01-0"
 
 tags:
   - "dragonflight-bullion"

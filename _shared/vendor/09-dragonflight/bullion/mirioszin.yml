@@ -11,240 +11,80 @@ sets:
     range: 1
     sortKey: "z-00-mount"
 
-  - name: "Cosmetic - 1h Axe"
-    range: 12
-    sortKey: "z-04-10"
+  - name: "Vault LFR"
+    range: 18
+    sortKey: "z-01-1"
 
-  - name: "Cosmetic - 1h Mace"
-    range: 24
-    sortKey: "z-04-11"
+  - name: "Vault Normal"
+    range: 18
+    sortKey: "z-01-2"
+    showNormalTag: true
 
-  - name: "Cosmetic - 1h Sword"
-    range: 12
-    sortKey: "z-04-12"
+  - name: "Vault Heroic"
+    range: 18
+    sortKey: "z-01-3"
 
-  - name: "Cosmetic - Dagger"
-    range: 24
-    sortKey: "z-04-13"
+  - name: "Vault Mythic"
+    range: 18
+    sortKey: "z-01-4"
 
-  - name: "Cosmetic - Fist"
-    range: 12
-    sortKey: "z-04-13"
+  - name: "Vault Shared"
+    range: 1
+    sortKey: "z-01-5"
 
-  - name: "Cosmetic - Warglaive"
-    range: 12
-    sortKey: "z-04-15"
-
-  - name: "Cosmetic - 2h Axe"
-    range: 4
-    sortKey: "z-04-20"
-
-  - name: "Cosmetic - 2h Mace"
-    range: 8
-    sortKey: "z-04-21"
-
-  - name: "Cosmetic - 2h Sword"
-    range: 8
-    sortKey: "z-04-22"
-
-  - name: "Cosmetic - Polearm"
+  - name: "Aberrus LFR"
     range: 20
-    sortKey: "z-04-23"
+    sortKey: "z-02-1"
 
-  - name: "Cosmetic - Staff"
-    range: 26
-    sortKey: "z-04-24"
-
-  - name: "Cosmetic - Bow"
-    range: 12
-    sortKey: "z-04-31"
-
-  - name: "Cosmetic - Crossbow"
-    range: 4
-    sortKey: "z-04-32"
-
-  - name: "Cosmetic - Gun"
-    range: 8
-    sortKey: "z-04-33"
-
-  - name: "Cosmetic - Off-hand"
+  - name: "Aberrus Normal"
     range: 20
-    sortKey: "z-04-41"
+    sortKey: "z-02-2"
+    showNormalTag: true
 
-  - name: "Cosmetic - Shield"
-    range: -1
-    sortKey: "z-04-42"
+  - name: "Aberrus Heroic"
+    range: 20
+    sortKey: "z-02-3"
+
+  - name: "Aberrus Mythic"
+    range: 20
+    sortKey: "z-02-4"
+
+  - name: "Amirdrassil LFR"
+    range: 19
+    sortKey: "z-03-1"
+
+  - name: "Amirdrassil Normal"
+    range: 19
+    sortKey: "z-03-2"
+    showNormalTag: true
+
+  - name: "Amirdrassil Heroic"
+    range: 19
+    sortKey: "z-03-3"
+
+  - name: "Amirdrassil Mythic"
+    range: 19
+    sortKey: "z-03-4"
+
+  - name: "Amirdrassil Shared"
+    range: 1
+    sortKey: "z-03-5"
 
 tags:
   - "dragonflight-bullion"
 
 sells:
-  # 1h axe
+  # Mounts
 
   - type: item
     id: 190170 # Jigglesworth, Sr.
     costs:
       1213089: 3
 
-  - type: item
-    id: 217551 # Crucible Raider's Bronzed Cleaver [1h ? axe]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217554 # Crucible Raider's Corrupted Cleaver [1h ? axe]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217553 # Crucible Raider's Molten Cleaver [1h ? axe]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217552 # Crucible Raider's Shadowed Cleaver [1h ? axe]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217535 # Crucible Raider's Bronzed Hatchet [1h ? axe]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217538 # Crucible Raider's Corrupted Hatchet [1h ? axe]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217537 # Crucible Raider's Molten Hatchet [1h ? axe]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217536 # Crucible Raider's Shadowed Hatchet [1h ? axe]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217623 # Dream Raider's Azure Flayer [1h ? axe]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217624 # Dream Raider's Blazing Flayer [1h ? axe]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217625 # Dream Raider's Emerald Flayer [1h ? axe]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217626 # Dream Raider's Shadowflame Flayer [1h ? axe]
-    costs:
-      1213089: 1
-
-  # 1h mace
-
-  - type: item
-    id: 217563 # Crucible Raider's Bronzed Control Rod [1h ? mace]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217565 # Crucible Raider's Molten Control Rod [1h ? mace]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217564 # Crucible Raider's Shadowed Control Rod [1h ? mace]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217566 # Crucible Raider's Shadowed Control Rod [1h ? mace]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217515 # Crucible Raider's Bronzed Cudgel [1h ? mace]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217518 # Crucible Raider's Corrupted Cudgel [1h ? mace]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217517 # Crucible Raider's Molten Cudgel [1h ? mace]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217516 # Crucible Raider's Shadowed Cudgel [1h ? mace]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217689 # Dream Raider's Azure Flare [1h ? mace]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217690 # Dream Raider's Blazing Flare [1h ? mace]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217691 # Dream Raider's Emerald Flare [1h ? mace]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217692 # Dream Raider's Shadowflame Flare [1h ? mace]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217543 # Crucible Raider's Bronzed Mace [1h ? mace]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217546 # Crucible Raider's Corrupted Mace [1h ? mace]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217545 # Crucible Raider's Molten Mace [1h ? mace]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217544 # Crucible Raider's Shadowed Mace [1h ? mace]
-    costs:
-      1213089: 1
+  # Vault - LFR
 
   - type: item
     id: 217492 # Vault Raider's Crystal Scepter [1h ? mace]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217489 # Vault Raider's Earthen Scepter [1h ? mace]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217490 # Vault Raider's Frozen Scepter [1h ? mace]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217491 # Vault Raider's Storming Scepter [1h ? mace]
     costs:
       1213089: 1
 
@@ -254,121 +94,7 @@ sells:
       1213089: 1
 
   - type: item
-    id: 217425 # Vault Raider's Earthen Thumper [1h ? mace]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217426 # Vault Raider's Frozen Thumper [1h ? mace]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217427 # Vault Raider's Storming Thumper [1h ? mace]
-    costs:
-      1213089: 1
-
-  # 1h sword
-  
-  - type: item
-    id: 217636 # Dream Raider's Azure Saber [1h ? sword]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217637 # Dream Raider's Blazing Saber [1h ? sword]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217638 # Dream Raider's Emerald Saber [1h ? sword]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217639 # Dream Raider's Shadowflame Saber [1h ? sword]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217656 # Dream Raider's Azure Sickle [1h ? sword]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217657 # Dream Raider's Blazing Sickle [1h ? sword]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217658 # Dream Raider's Emerald Sickle [1h ? sword]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217659 # Dream Raider's Shadowflame Sickle [1h ? sword]
-    costs:
-      1213089: 1
-
-  - type: item
     id: 217424 # Vault Raider's Crystal Slicer [1h ? sword]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217421 # Vault Raider's Earthen Slicer [1h ? sword]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217422 # Vault Raider's Frozen Slicer [1h ? sword]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217423 # Vault Raider's Storming Slicer [1h ? sword]
-    costs:
-      1213089: 1
-
-  # dagger
-
-  - type: item
-    id: 217673 # Dream Raider's Azure Blade [? dagger]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217674 # Dream Raider's Blazing Blade [? dagger]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217675 # Dream Raider's Emerald Blade [? dagger]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217676 # Dream Raider's Shadowflame Blade [? dagger]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217631 # Dream Raider's Azure Dreamcarver [? dagger]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217632 # Dream Raider's Blazing Dreamcarver [? dagger]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217633 # Dream Raider's Emerald Dreamcarver [? dagger]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217634 # Dream Raider's Shadowflame Dreamcarver [? dagger]
     costs:
       1213089: 1
 
@@ -378,99 +104,7 @@ sells:
       1213089: 1
 
   - type: item
-    id: 217473 # Vault Raider's Earthen Knife [? dagger]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217474 # Vault Raider's Frozen Knife [? dagger]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217475 # Vault Raider's Storming Knife [? dagger]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217507 # Crucible Raider's Bronzed Mutilator [? dagger]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217510 # Crucible Raider's Corrupted Mutilator [? dagger]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217509 # Crucible Raider's Molten Mutilator [? dagger]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217508 # Crucible Raider's Shadowed Mutilator [? dagger]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217469 # Vault Raider's Earthen Shard [? dagger]
-    costs:
-      1213089: 1
-
-  - type: item
     id: 217472 # Vault Raider's Crystal Shard [? dagger]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217470 # Vault Raider's Frozen Shard [? dagger]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217471 # Vault Raider's Storming Shard [? dagger]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217579 # Crucible Raider's Bronzed Shiv [? dagger]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217582 # Crucible Raider's Corrupted Shiv [? dagger]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217581 # Crucible Raider's Molten Shiv [? dagger]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217580 # Crucible Raider's Shadowed Shiv [? dagger]
-    costs:
-      1213089: 1
-
-  # fist
-
-  - type: item
-    id: 217559 # Crucible Raider's Bronzed Claws [fist]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217562 # Crucible Raider's Corrupted Claws [fist]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217561 # Crucible Raider's Molten Claws [fist]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217560 # Crucible Raider's Shadowed Claws [fist]
     costs:
       1213089: 1
 
@@ -480,103 +114,9 @@ sells:
       1213089: 1
 
   - type: item
-    id: 217481 # Vault Raider's Earthen Fists [fist]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217482 # Vault Raider's Frozen Fists [fist]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217483 # Vault Raider's Storming Fists [fist]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217644 # Dream Raider's Azure Paws [fist]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217645 # Dream Raider's Blazing Paws [fist]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217646 # Dream Raider's Emerald Paws [fist]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217647 # Dream Raider's Shadowflame Paws [fist]
-    costs:
-      1213089: 1
-
-  # warglaive
-
-  - type: item
-    id: 217669 # Dream Raider's Azure Charglaive [warglaive]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217670 # Dream Raider's Blazing Charglaive [warglaive]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217671 # Dream Raider's Emerald Charglaive [warglaive]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217672 # Dream Raider's Shadowflame Charglaive [warglaive]
-    costs:
-      1213089: 1
-
-  - type: item
     id: 217480 # Vault Raider's Crystal Glaives [warglaive]
     costs:
       1213089: 1
-
-  - type: item
-    id: 217477 # Vault Raider's Earthen Glaives [warglaive]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217478 # Vault Raider's Frozen Glaives [warglaive]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217479 # Vault Raider's Storming Glaives [warglaive]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217531 # Crucible Raider's Bronzed Wingblades [warglaive]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217534 # Crucible Raider's Corrupted Wingblades [warglaive]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217533 # Crucible Raider's Molten Wingblades [warglaive]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217532 # Crucible Raider's Shadowed Wingblades [warglaive]
-    costs:
-      1213089: 1
-
-  # 2h axe
 
   - type: item
     id: 217456 # Vault Raider's Crystal Splitter [2h ? axe]
@@ -584,123 +124,7 @@ sells:
       1213089: 1
 
   - type: item
-    id: 217453 # Vault Raider's Earthen Splitter [2h ? axe]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217454 # Vault Raider's Frozen Splitter [2h ? axe]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217455 # Vault Raider's Storming Splitter [2h ? axe]
-    costs:
-      1213089: 1
-
-  # 2h mace
-
-  - type: item
     id: 217452 # Vault Raider's Crystal Crusher [2h ? mace]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217449 # Vault Raider's Earthen Crusher [2h ? mace]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217450 # Vault Raider's Frozen Crusher [2h ? mace]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217451 # Vault Raider's Storming Crusher [2h ? mace]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217615 # Dream Raider's Azure Greathammer [2h ? mace]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217616 # Dream Raider's Blazing Greathammer [2h ? mace]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217617 # Dream Raider's Emerald Greathammer [2h ? mace]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217618 # Dream Raider's Shadowflame Greathammer [2h ? mace]
-    costs:
-      1213089: 1
-
-  # 2h sword
-
-  - type: item
-    id: 217665 # Dream Raider's Azure Cleaver [2h ? sword]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217666 # Dream Raider's Blazing Cleaver [2h ? sword]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217667 # Dream Raider's Emerald Cleaver [2h ? sword]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217668 # Dream Raider's Shadowflame Cleaver [2h ? sword]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217571 # Crucible Raider's Bronzed Ultra Greatsword [2h ? sword]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217574 # Crucible Raider's Corrupted Ultra Greatsword [2h ? sword]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217573 # Crucible Raider's Molten Ultra Greatsword [2h ? sword]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217572 # Crucible Raider's Shadowed Ultra Greatsword [2h ? sword]
-    costs:
-      1213089: 1
-
-  # polearm
-
-  - type: item
-    id: 217547 # Crucible Raider's Bronzed Elderstaff [polearm]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217550 # Crucible Raider's Corrupted Elderstaff [polearm]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217549 # Crucible Raider's Molten Elderstaff [polearm]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217548 # Crucible Raider's Shadowed Elderstaff [polearm]
     costs:
       1213089: 1
 
@@ -710,139 +134,7 @@ sells:
       1213089: 1
 
   - type: item
-    id: 217457 # Vault Raider's Earthen Halberd [polearm]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217458 # Vault Raider's Frozen Halberd [polearm]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217459 # Vault Raider's Storming Halberd [polearm]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217511 # Crucible Raider's Bronzed Lance [polearm]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217514 # Crucible Raider's Corrupted Lance [polearm]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217513 # Crucible Raider's Molten Lance [polearm]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217512 # Crucible Raider's Shadowed Lance [polearm]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217685 # Dream Raider's Azure Poleax [polearm]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217686 # Dream Raider's Blazing Poleax [polearm]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217687 # Dream Raider's Emerald Poleax [polearm]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217688 # Dream Raider's Shadowflame Poleax [polearm]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217652 # Dream Raider's Azure Scythe [polearm]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217653 # Dream Raider's Blazing Scythe [polearm]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217654 # Dream Raider's Emerald Scythe [polearm]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217655 # Dream Raider's Shadowflame Scythe [polearm]
-    costs:
-      1213089: 1
-
-  # staff
-
-  - type: item
-    id: 217601 # Crucible Raider's Bronzed Beacon [staff]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217604 # Crucible Raider's Corrupted Beacon [staff]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217603 # Crucible Raider's Molten Beacon [staff]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217602 # Crucible Raider's Shadowed Beacon [staff]
-    costs:
-      1213089: 1
-
-  - type: item
     id: 217464 # Vault Raider's Crystal Pillar [staff]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217461 # Vault Raider's Earthen Pillar [staff]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217462 # Vault Raider's Frozen Pillar [staff]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217463 # Vault Raider's Storming Pillar [staff]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217519 # Crucible Raider's Bronzed Rod [staff]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217522 # Crucible Raider's Corrupted Rod [staff]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217521 # Crucible Raider's Molten Rod [staff]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217520 # Crucible Raider's Shadowed Rod [staff]
     costs:
       1213089: 1
 
@@ -852,215 +144,12 @@ sells:
       1213089: 1
 
   - type: item
-    id: 217465 # Vault Raider's Earthen Staff [staff]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217466 # Vault Raider's Frozen Staff [staff]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217467 # Vault Raider's Storming Staff [staff]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217619 # Dream Raider's Azure Torch [staff]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217620 # Dream Raider's Blazing Torch [staff]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217621 # Dream Raider's Emerald Torch [staff]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217622 # Dream Raider's Shadowflame Torch [staff]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217677 # Dream Raider's Azure Trident [staff]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217678 # Dream Raider's Blazing Trident [staff]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217679 # Dream Raider's Emerald Trident [staff]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217680 # Dream Raider's Shadowflame Trident [staff]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217493 # Vault Raider's Primal Greatstaff [staff]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217660 # Dream Raider's Replica Dreambinder [staff]
-    costs:
-      1213089: 1
-
-  # bow
-
-  - type: item
     id: 217488 # Vault Raider's Crystal Greatbow [bow]
     costs:
       1213089: 1
 
   - type: item
-    id: 217485 # Vault Raider's Earthen Greatbow [bow]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217486 # Vault Raider's Frozen Greatbow [bow]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217487 # Vault Raider's Storming Greatbow [bow]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217539 # Crucible Raider's Bronzed Longbow [bow]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217542 # Crucible Raider's Corrupted Longbow [bow]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217541 # Crucible Raider's Molten Longbow [bow]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217540 # Crucible Raider's Shadowed Longbow [bow]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217681 # Dream Raider's Azure Recurve [bow]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217682 # Dream Raider's Blazing Recurve [bow]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217683 # Dream Raider's Emerald Recurve [bow]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217684 # Dream Raider's Shadowflame Recurve [bow]
-    costs:
-      1213089: 1
-
-  # crossbow
-
-  - type: item
     id: 217432 # Vault Raider's Crystal Crossbow [crossbow]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217429 # Vault Raider's Earthen Crossbow [crossbow]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217430 # Vault Raider's Frozen Crossbow [crossbow]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217431 # Vault Raider's Storming Crossbow [crossbow]
-    costs:
-      1213089: 1
-
-  # gun
-
-  - type: item
-    id: 217555 # Crucible Raider's Bronzed Cannon [gun]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217558 # Crucible Raider's Corrupted Cannon [gun]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217557 # Crucible Raider's Molten Cannon [gun]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217556 # Crucible Raider's Shadowed Cannon [gun]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217640 # Dream Raider's Azure Rifle [gun]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217641 # Dream Raider's Blazing Rifle [gun]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217642 # Dream Raider's Emerald Rifle [gun]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217643 # Dream Raider's Shadowflame Rifle [gun]
-    costs:
-      1213089: 1
-
-  # off-hand
-
-  - type: item
-    id: 217648 # Dream Raider's Azure Chime [off-hand]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217649 # Dream Raider's Blazing Chime [off-hand]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217650 # Dream Raider's Emerald Chime [off-hand]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217651 # Dream Raider's Shadowflame Chime [off-hand]
     costs:
       1213089: 1
 
@@ -1070,99 +159,7 @@ sells:
       1213089: 1
 
   - type: item
-    id: 217441 # Vault Raider's Earthen Conduit [off-hand]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217442 # Vault Raider's Frozen Conduit [off-hand]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217443 # Vault Raider's Storming Conduit [off-hand]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217523 # Crucible Raider's Bronzed Focus [off-hand]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217526 # Crucible Raider's Corrupted Focus [off-hand]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217525 # Crucible Raider's Molten Focus [off-hand]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217524 # Crucible Raider's Shadowed Focus [off-hand]
-    costs:
-      1213089: 1
-
-  - type: item
     id: 217448 # Vault Raider's Crystal Scriptures [off-hand]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217445 # Vault Raider's Earthen Scriptures [off-hand]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217446 # Vault Raider's Frozen Scriptures [off-hand]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217447 # Vault Raider's Storming Scriptures [off-hand]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217567 # Crucible Raider's Bronzed Tome [off-hand]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217570 # Crucible Raider's Corrupted Tome [off-hand]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217569 # Crucible Raider's Molten Tome [off-hand]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217568 # Crucible Raider's Shadowed Tome [off-hand]
-    costs:
-      1213089: 1
-
-  # shield
-
-  - type: item
-    id: 217661 # Dream Raider's Azure Barrier [shield]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217662 # Dream Raider's Blazing Barrier [shield]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217663 # Dream Raider's Emerald Barrier [shield]
-    costs:
-      1213089: 1
-
-  - type: item
-    id: 217664 # Dream Raider's Shadowflame Barrier [shield]
     costs:
       1213089: 1
 
@@ -1172,7 +169,181 @@ sells:
       1213089: 1
 
   - type: item
+    id: 217440 # Vault Raider's Crystal Pavise [shield]
+    costs:
+      1213089: 1
+
+  # Vault - Normal
+
+  - type: item
+    id: 217489 # Vault Raider's Earthen Scepter [1h ? mace]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217425 # Vault Raider's Earthen Thumper [1h ? mace]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217421 # Vault Raider's Earthen Slicer [1h ? sword]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217473 # Vault Raider's Earthen Knife [? dagger]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217469 # Vault Raider's Earthen Shard [? dagger]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217481 # Vault Raider's Earthen Fists [fist]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217477 # Vault Raider's Earthen Glaives [warglaive]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217453 # Vault Raider's Earthen Splitter [2h ? axe]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217449 # Vault Raider's Earthen Crusher [2h ? mace]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217457 # Vault Raider's Earthen Halberd [polearm]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217461 # Vault Raider's Earthen Pillar [staff]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217465 # Vault Raider's Earthen Staff [staff]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217485 # Vault Raider's Earthen Greatbow [bow]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217429 # Vault Raider's Earthen Crossbow [crossbow]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217441 # Vault Raider's Earthen Conduit [off-hand]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217445 # Vault Raider's Earthen Scriptures [off-hand]
+    costs:
+      1213089: 1
+
+  - type: item
     id: 217433 # Vault Raider's Earthen Bulwark [shield]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217437 # Vault Raider's Earthen Pavise [shield]
+    costs:
+      1213089: 1
+
+  # Vault - Heroic
+
+  - type: item
+    id: 217490 # Vault Raider's Frozen Scepter [1h ? mace]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217426 # Vault Raider's Frozen Thumper [1h ? mace]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217422 # Vault Raider's Frozen Slicer [1h ? sword]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217474 # Vault Raider's Frozen Knife [? dagger]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217470 # Vault Raider's Frozen Shard [? dagger]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217482 # Vault Raider's Frozen Fists [fist]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217478 # Vault Raider's Frozen Glaives [warglaive]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217454 # Vault Raider's Frozen Splitter [2h ? axe]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217450 # Vault Raider's Frozen Crusher [2h ? mace]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217458 # Vault Raider's Frozen Halberd [polearm]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217462 # Vault Raider's Frozen Pillar [staff]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217466 # Vault Raider's Frozen Staff [staff]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217486 # Vault Raider's Frozen Greatbow [bow]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217430 # Vault Raider's Frozen Crossbow [crossbow]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217442 # Vault Raider's Frozen Conduit [off-hand]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217446 # Vault Raider's Frozen Scriptures [off-hand]
     costs:
       1213089: 1
 
@@ -1182,27 +353,198 @@ sells:
       1213089: 1
 
   - type: item
+    id: 217438 # Vault Raider's Frozen Pavise [shield]
+    costs:
+      1213089: 1
+
+  # Vault - Mythic
+
+  - type: item
+    id: 217491 # Vault Raider's Storming Scepter [1h ? mace]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217427 # Vault Raider's Storming Thumper [1h ? mace]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217423 # Vault Raider's Storming Slicer [1h ? sword]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217475 # Vault Raider's Storming Knife [? dagger]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217471 # Vault Raider's Storming Shard [? dagger]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217483 # Vault Raider's Storming Fists [fist]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217479 # Vault Raider's Storming Glaives [warglaive]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217455 # Vault Raider's Storming Splitter [2h ? axe]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217451 # Vault Raider's Storming Crusher [2h ? mace]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217459 # Vault Raider's Storming Halberd [polearm]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217463 # Vault Raider's Storming Pillar [staff]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217467 # Vault Raider's Storming Staff [staff]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217487 # Vault Raider's Storming Greatbow [bow]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217431 # Vault Raider's Storming Crossbow [crossbow]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217443 # Vault Raider's Storming Conduit [off-hand]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217447 # Vault Raider's Storming Scriptures [off-hand]
+    costs:
+      1213089: 1
+
+  - type: item
     id: 217435 # Vault Raider's Storming Bulwark [shield]
     costs:
       1213089: 1
 
   - type: item
-    id: 217627 # Dream Raider's Azure Defender [shield]
+    id: 217439 # Vault Raider's Storming Pavise [shield]
+    costs:
+      1213089: 1
+
+  # Vault - Shared
+
+  - type: item
+    id: 217493 # Vault Raider's Primal Greatstaff [staff]
+    costs:
+      1213089: 1
+
+  # Aberrus - LFR
+
+  - type: item
+    id: 217551 # Crucible Raider's Bronzed Cleaver [1h ? axe]
     costs:
       1213089: 1
 
   - type: item
-    id: 217628 # Dream Raider's Blazing Defender [shield]
+    id: 217535 # Crucible Raider's Bronzed Hatchet [1h ? axe]
     costs:
       1213089: 1
 
   - type: item
-    id: 217629 # Dream Raider's Emerald Defender [shield]
+    id: 217563 # Crucible Raider's Bronzed Control Rod [1h ? mace]
     costs:
       1213089: 1
 
   - type: item
-    id: 217630 # Dream Raider's Shadowflame Defender [shield]
+    id: 217515 # Crucible Raider's Bronzed Cudgel [1h ? mace]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217543 # Crucible Raider's Bronzed Mace [1h ? mace]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217507 # Crucible Raider's Bronzed Mutilator [? dagger]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217579 # Crucible Raider's Bronzed Shiv [? dagger]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217559 # Crucible Raider's Bronzed Claws [fist]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217531 # Crucible Raider's Bronzed Wingblades [warglaive]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217571 # Crucible Raider's Bronzed Ultra Greatsword [2h ? sword]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217547 # Crucible Raider's Bronzed Elderstaff [polearm]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217511 # Crucible Raider's Bronzed Lance [polearm]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217601 # Crucible Raider's Bronzed Beacon [staff]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217519 # Crucible Raider's Bronzed Rod [staff]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217539 # Crucible Raider's Bronzed Longbow [bow]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217555 # Crucible Raider's Bronzed Cannon [gun]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217523 # Crucible Raider's Bronzed Focus [off-hand]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217567 # Crucible Raider's Bronzed Tome [off-hand]
     costs:
       1213089: 1
 
@@ -1212,12 +554,99 @@ sells:
       1213089: 1
 
   - type: item
-    id: 217578 # Crucible Raider's Corrupted Greatshield [shield]
+    id: 217527 # Crucible Raider's Bronzed Kiteshield [shield]
+    costs:
+      1213089: 1
+
+  # Aberrus - Normal
+
+  - type: item
+    id: 217552 # Crucible Raider's Shadowed Cleaver [1h ? axe]
     costs:
       1213089: 1
 
   - type: item
-    id: 217577 # Crucible Raider's Molten Greatshield [shield]
+    id: 217536 # Crucible Raider's Shadowed Hatchet [1h ? axe]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217564 # Crucible Raider's Shadowed Control Rod [1h ? mace]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217516 # Crucible Raider's Shadowed Cudgel [1h ? mace]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217544 # Crucible Raider's Shadowed Mace [1h ? mace]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217508 # Crucible Raider's Shadowed Mutilator [? dagger]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217580 # Crucible Raider's Shadowed Shiv [? dagger]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217560 # Crucible Raider's Shadowed Claws [fist]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217532 # Crucible Raider's Shadowed Wingblades [warglaive]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217572 # Crucible Raider's Shadowed Ultra Greatsword [2h ? sword]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217548 # Crucible Raider's Shadowed Elderstaff [polearm]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217512 # Crucible Raider's Shadowed Lance [polearm]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217602 # Crucible Raider's Shadowed Beacon [staff]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217520 # Crucible Raider's Shadowed Rod [staff]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217540 # Crucible Raider's Shadowed Longbow [bow]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217556 # Crucible Raider's Shadowed Cannon [gun]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217524 # Crucible Raider's Shadowed Focus [off-hand]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217568 # Crucible Raider's Shadowed Tome [off-hand]
     costs:
       1213089: 1
 
@@ -1227,12 +656,104 @@ sells:
       1213089: 1
 
   - type: item
-    id: 217527 # Crucible Raider's Bronzed Kiteshield [shield]
+    id: 217528 # Crucible Raider's Shadowed Kiteshield [shield]
+    costs:
+      1213089: 1
+
+  # Aberrus - Heroic
+
+  - type: item
+    id: 217553 # Crucible Raider's Molten Cleaver [1h ? axe]
     costs:
       1213089: 1
 
   - type: item
-    id: 217530 # Crucible Raider's Corrupted Kiteshield [shield]
+    id: 217537 # Crucible Raider's Molten Hatchet [1h ? axe]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217565 # Crucible Raider's Molten Control Rod [1h ? mace]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217517 # Crucible Raider's Molten Cudgel [1h ? mace]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217545 # Crucible Raider's Molten Mace [1h ? mace]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217509 # Crucible Raider's Molten Mutilator [? dagger]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217581 # Crucible Raider's Molten Shiv [? dagger]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217561 # Crucible Raider's Molten Claws [fist]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217533 # Crucible Raider's Molten Wingblades [warglaive]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217573 # Crucible Raider's Molten Ultra Greatsword [2h ? sword]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217549 # Crucible Raider's Molten Elderstaff [polearm]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217513 # Crucible Raider's Molten Lance [polearm]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217603 # Crucible Raider's Molten Beacon [staff]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217521 # Crucible Raider's Molten Rod [staff]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217541 # Crucible Raider's Molten Longbow [bow]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217557 # Crucible Raider's Molten Cannon [gun]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217525 # Crucible Raider's Molten Focus [off-hand]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217569 # Crucible Raider's Molten Tome [off-hand]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217577 # Crucible Raider's Molten Greatshield [shield]
     costs:
       1213089: 1
 
@@ -1241,27 +762,499 @@ sells:
     costs:
       1213089: 1
 
+  # Aberrus - Mythic
+
   - type: item
-    id: 217528 # Crucible Raider's Shadowed Kiteshield [shield]
+    id: 217554 # Crucible Raider's Corrupted Cleaver [1h ? axe]
     costs:
       1213089: 1
 
   - type: item
-    id: 217440 # Vault Raider's Crystal Pavise [shield]
+    id: 217538 # Crucible Raider's Corrupted Hatchet [1h ? axe]
+    costs:
+      1213089: 1
+
+  - type: item # not a mistake, item name is wrong!
+    id: 217566 # Crucible Raider's Shadowed Control Rod [1h ? mace]
     costs:
       1213089: 1
 
   - type: item
-    id: 217437 # Vault Raider's Earthen Pavise [shield]
+    id: 217518 # Crucible Raider's Corrupted Cudgel [1h ? mace]
     costs:
       1213089: 1
 
   - type: item
-    id: 217438 # Vault Raider's Frozen Pavise [shield]
+    id: 217546 # Crucible Raider's Corrupted Mace [1h ? mace]
     costs:
       1213089: 1
 
   - type: item
-    id: 217439 # Vault Raider's Storming Pavise [shield]
+    id: 217510 # Crucible Raider's Corrupted Mutilator [? dagger]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217582 # Crucible Raider's Corrupted Shiv [? dagger]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217562 # Crucible Raider's Corrupted Claws [fist]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217534 # Crucible Raider's Corrupted Wingblades [warglaive]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217574 # Crucible Raider's Corrupted Ultra Greatsword [2h ? sword]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217550 # Crucible Raider's Corrupted Elderstaff [polearm]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217514 # Crucible Raider's Corrupted Lance [polearm]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217604 # Crucible Raider's Corrupted Beacon [staff]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217522 # Crucible Raider's Corrupted Rod [staff]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217542 # Crucible Raider's Corrupted Longbow [bow]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217558 # Crucible Raider's Corrupted Cannon [gun]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217526 # Crucible Raider's Corrupted Focus [off-hand]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217570 # Crucible Raider's Corrupted Tome [off-hand]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217578 # Crucible Raider's Corrupted Greatshield [shield]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217530 # Crucible Raider's Corrupted Kiteshield [shield]
+    costs:
+      1213089: 1
+
+  # Amirdrassil - LFR
+
+  - type: item
+    id: 217623 # Dream Raider's Azure Flayer [1h ? axe]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217689 # Dream Raider's Azure Flare [1h ? mace]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217636 # Dream Raider's Azure Saber [1h ? sword]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217656 # Dream Raider's Azure Sickle [1h ? sword]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217673 # Dream Raider's Azure Blade [? dagger]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217631 # Dream Raider's Azure Dreamcarver [? dagger]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217644 # Dream Raider's Azure Paws [fist]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217669 # Dream Raider's Azure Charglaive [warglaive]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217615 # Dream Raider's Azure Greathammer [2h ? mace]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217665 # Dream Raider's Azure Cleaver [2h ? sword]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217685 # Dream Raider's Azure Poleax [polearm]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217652 # Dream Raider's Azure Scythe [polearm]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217619 # Dream Raider's Azure Torch [staff]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217677 # Dream Raider's Azure Trident [staff]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217681 # Dream Raider's Azure Recurve [bow]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217640 # Dream Raider's Azure Rifle [gun]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217648 # Dream Raider's Azure Chime [off-hand]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217661 # Dream Raider's Azure Barrier [shield]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217627 # Dream Raider's Azure Defender [shield]
+    costs:
+      1213089: 1
+
+  # Amirdrassil - Normal
+
+  - type: item
+    id: 217624 # Dream Raider's Blazing Flayer [1h ? axe]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217690 # Dream Raider's Blazing Flare [1h ? mace]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217637 # Dream Raider's Blazing Saber [1h ? sword]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217657 # Dream Raider's Blazing Sickle [1h ? sword]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217674 # Dream Raider's Blazing Blade [? dagger]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217632 # Dream Raider's Blazing Dreamcarver [? dagger]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217645 # Dream Raider's Blazing Paws [fist]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217670 # Dream Raider's Blazing Charglaive [warglaive]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217616 # Dream Raider's Blazing Greathammer [2h ? mace]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217666 # Dream Raider's Blazing Cleaver [2h ? sword]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217686 # Dream Raider's Blazing Poleax [polearm]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217653 # Dream Raider's Blazing Scythe [polearm]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217620 # Dream Raider's Blazing Torch [staff]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217678 # Dream Raider's Blazing Trident [staff]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217682 # Dream Raider's Blazing Recurve [bow]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217641 # Dream Raider's Blazing Rifle [gun]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217649 # Dream Raider's Blazing Chime [off-hand]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217662 # Dream Raider's Blazing Barrier [shield]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217628 # Dream Raider's Blazing Defender [shield]
+    costs:
+      1213089: 1
+
+  # Amirdrassil - Heroic
+
+  - type: item
+    id: 217625 # Dream Raider's Emerald Flayer [1h ? axe]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217691 # Dream Raider's Emerald Flare [1h ? mace]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217638 # Dream Raider's Emerald Saber [1h ? sword]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217658 # Dream Raider's Emerald Sickle [1h ? sword]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217675 # Dream Raider's Emerald Blade [? dagger]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217633 # Dream Raider's Emerald Dreamcarver [? dagger]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217646 # Dream Raider's Emerald Paws [fist]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217671 # Dream Raider's Emerald Charglaive [warglaive]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217617 # Dream Raider's Emerald Greathammer [2h ? mace]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217667 # Dream Raider's Emerald Cleaver [2h ? sword]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217687 # Dream Raider's Emerald Poleax [polearm]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217654 # Dream Raider's Emerald Scythe [polearm]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217621 # Dream Raider's Emerald Torch [staff]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217679 # Dream Raider's Emerald Trident [staff]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217683 # Dream Raider's Emerald Recurve [bow]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217642 # Dream Raider's Emerald Rifle [gun]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217650 # Dream Raider's Emerald Chime [off-hand]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217663 # Dream Raider's Emerald Barrier [shield]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217629 # Dream Raider's Emerald Defender [shield]
+    costs:
+      1213089: 1
+
+  # Amirdrassil - Mythic
+
+  - type: item
+    id: 217626 # Dream Raider's Shadowflame Flayer [1h ? axe]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217692 # Dream Raider's Shadowflame Flare [1h ? mace]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217639 # Dream Raider's Shadowflame Saber [1h ? sword]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217659 # Dream Raider's Shadowflame Sickle [1h ? sword]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217676 # Dream Raider's Shadowflame Blade [? dagger]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217634 # Dream Raider's Shadowflame Dreamcarver [? dagger]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217647 # Dream Raider's Shadowflame Paws [fist]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217672 # Dream Raider's Shadowflame Charglaive [warglaive]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217618 # Dream Raider's Shadowflame Greathammer [2h ? mace]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217668 # Dream Raider's Shadowflame Cleaver [2h ? sword]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217688 # Dream Raider's Shadowflame Poleax [polearm]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217655 # Dream Raider's Shadowflame Scythe [polearm]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217622 # Dream Raider's Shadowflame Torch [staff]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217680 # Dream Raider's Shadowflame Trident [staff]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217684 # Dream Raider's Shadowflame Recurve [bow]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217643 # Dream Raider's Shadowflame Rifle [gun]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217651 # Dream Raider's Shadowflame Chime [off-hand]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217664 # Dream Raider's Shadowflame Barrier [shield]
+    costs:
+      1213089: 1
+
+  - type: item
+    id: 217630 # Dream Raider's Shadowflame Defender [shield]
+    costs:
+      1213089: 1
+
+  # Amirdrassil - Shared
+
+  - type: item
+    id: 217660 # Dream Raider's Replica Dreambinder [staff]
     costs:
       1213089: 1

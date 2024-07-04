@@ -8,9 +8,9 @@ locations:
     - 73.8 47.6
 
 sets:
-  - name: "Amirdrassil"
+  - name: "Amirdrassil Awakened"
     range: -1
-    sortKey: "z-03"
+    sortKey: "z-03-0"
 
 tags:
   - "dragonflight-bullion"

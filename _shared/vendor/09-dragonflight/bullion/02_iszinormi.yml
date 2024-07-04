@@ -7,9 +7,9 @@ locations:
     - 73.8 47.2
 
 sets:
-  - name: "Aberrus"
+  - name: "Aberrus Awakened"
     range: -1
-    sortKey: "z-02"
+    sortKey: "z-02-0"
 
 tags:
   - "dragonflight-bullion"
