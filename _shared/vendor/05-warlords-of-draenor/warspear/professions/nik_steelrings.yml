@@ -1,0 +1,125 @@
+id: 87552
+name: "Nik Steelrings"
+note: "Engineering Plans"
+
+locations:
+  z5_warspear:
+    - 70.5 38.9 horde
+
+sets:
+  - name: "Recipes - Engineering"
+    range: -1
+    sortKey: "recipes-engineering"
+
+sells:
+  # 0
+
+  - type: item
+    id: 202229 # Schematic: Remarkable Linkgrease Locksprocket
+    costs:
+      1119299: 5
+
+  - type: item
+    id: 202231 # Schematic: Remarkable True Iron Trigger
+    costs:
+      1119299: 5
+
+  - type: item
+    id: 202228 # Schematic: Impressive Linkgrease Locksprocket
+    costs:
+      1119299: 5
+
+  - type: item
+    id: 202230 # Schematic: Impressive True Iron Trigger
+    costs:
+      1119299: 5
+
+  - type: item
+    id: 118490 # Schematic: Blingtron 5000
+    costs:
+      1119299: 1
+
+  - type: item
+    id: 118497 # Schematic: Cybergenetic Mechshades
+    costs:
+      1119299: 1
+
+  - type: item
+    id: 118493 # Schematic: Didi's Delicate Assembly
+    costs:
+      1119299: 1
+
+  - type: item
+    id: 118480 # Schematic: Findle's Loot-a-Rang
+    costs:
+      1119299: 1
+
+  - type: item
+    id: 118495 # Schematic: Hemet's Heartseeker
+    costs:
+      1119299: 1
+
+  - type: item
+    id: 118485 # Schematic: Lifelike Mechanical Frostboar
+    costs:
+      1119299: 1
+
+  - type: item
+    id: 118484 # Schematic: Mechanical Axebeak
+    costs:
+      1119299: 1
+
+  - type: item
+    id: 119177 # Schematic: Mechanical Scorpid
+    costs:
+      1119299: 1
+
+  - type: item
+    id: 118478 # Schematic: Megawatt Filament
+    costs:
+      1119299: 1
+
+  - type: item
+    id: 118498 # Schematic: Night-Vision Mechshades
+    costs:
+      1119299: 1
+
+  - type: item
+    id: 118477 # Schematic: Oglethorpe's Missile Splitter
+    costs:
+      1119299: 1
+
+  - type: item
+    id: 118487 # Schematic: Personal Hologram
+    costs:
+      1119299: 1
+
+  - type: item
+    id: 118499 # Schematic: Plasma Mechshades
+    costs:
+      1119299: 1
+
+  - type: item
+    id: 118500 # Schematic: Razorguard Mechshades
+    costs:
+      1119299: 1
+
+  - type: item
+    id: 118476 # Schematic: Shrediron's Shredder
+    costs:
+      1119299: 1
+
+  - type: item
+    id: 118489 # Schematic: Swapblaster
+    costs:
+      1119299: 1
+
+  - type: item
+    id: 118481 # Schematic: World Shrinker
+    costs:
+      1119299: 1
+
+  - type: item
+    id: 118488 # Schematic: Wormhole Centrifuge
+    costs:
+      1119299: 1

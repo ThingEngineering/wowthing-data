@@ -1,0 +1,150 @@
+id: 87549
+name: "Garm Gladestride"
+note: "Leatherworking Patterns"
+
+locations:
+  z5_warspear:
+    - 50.4 27.3 horde
+
+sets:
+  - name: "Recipes - Leatherworking"
+    range: -1
+    sortKey: "recipes-leatherworking"
+
+sells:
+  # 0
+
+  - type: item
+    id: 202233 # Pattern: Remarkable Burnished Essence
+    costs:
+      1118721: 5
+
+  - type: item
+    id: 202232 # Pattern: Impressive Burnished Essence
+    costs:
+      1118721: 5
+
+  - type: item
+    id: 116328 # Pattern: Brilliant Burnished Cloak
+    costs:
+      1118721: 1
+
+  - type: item
+    id: 116349 # Pattern: Burnished Inscription Bag
+    costs:
+      1118721: 5
+
+  - type: item
+    id: 116347 # Pattern: Burnished Leather Bag
+    costs:
+      1118721: 5
+
+  - type: item
+    id: 116348 # Pattern: Burnished Mining Bag
+    costs:
+      1118721: 5
+
+  - type: item
+    id: 120258 # Pattern: Drums of Fury
+    costs:
+      1118721: 1
+
+  - type: item
+    id: 116325 # Pattern: Leather Refurbishing Kit
+    costs:
+      1118721: 1
+
+  - type: item
+    id: 116327 # Pattern: Nimble Burnished Cloak
+    costs:
+      1118721: 1
+
+  - type: item
+    id: 116326 # Pattern: Powerful Burnished Cloak
+    costs:
+      1118721: 1
+
+  - type: item
+    id: 116350 # Pattern: Riding Harness
+    costs:
+      1118721: 5
+
+  - type: item
+    id: 116335 # Pattern: Supple Boots
+    costs:
+      1118721: 1
+
+  - type: item
+    id: 116334 # Pattern: Supple Bracers
+    costs:
+      1118721: 1
+
+  - type: item
+    id: 116332 # Pattern: Supple Gloves
+    costs:
+      1118721: 1
+
+  - type: item
+    id: 116330 # Pattern: Supple Helm
+    costs:
+      1118721: 1
+
+  - type: item
+    id: 116331 # Pattern: Supple Leggings
+    costs:
+      1118721: 1
+
+  - type: item
+    id: 116329 # Pattern: Supple Shoulderguards
+    costs:
+      1118721: 1
+
+  - type: item
+    id: 116333 # Pattern: Supple Vest
+    costs:
+      1118721: 1
+
+  - type: item
+    id: 116336 # Pattern: Supple Waistguard
+    costs:
+      1118721: 1
+
+  - type: item
+    id: 116344 # Pattern: Wayfaring Belt
+    costs:
+      1118721: 1
+
+  - type: item
+    id: 116343 # Pattern: Wayfaring Boots
+    costs:
+      1118721: 1
+
+  - type: item
+    id: 116342 # Pattern: Wayfaring Bracers
+    costs:
+      1118721: 1
+
+  - type: item
+    id: 116340 # Pattern: Wayfaring Gloves
+    costs:
+      1118721: 1
+
+  - type: item
+    id: 116338 # Pattern: Wayfaring Helm
+    costs:
+      1118721: 1
+
+  - type: item
+    id: 116339 # Pattern: Wayfaring Leggings
+    costs:
+      1118721: 1
+
+  - type: item
+    id: 116337 # Pattern: Wayfaring Shoulderguards
+    costs:
+      1118721: 1
+
+  - type: item
+    id: 116341 # Pattern: Wayfaring Tunic
+    costs:
+      1118721: 1

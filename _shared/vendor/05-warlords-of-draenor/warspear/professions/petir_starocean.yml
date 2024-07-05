@@ -1,0 +1,100 @@
+id: 87543
+name: "Petir Starocean"
+note: "Tailoring Patterns"
+
+locations:
+  z5_warspear:
+    - 59.3 43.4 horde
+
+sets:
+  - name: "Recipes - Tailoring"
+    range: -1
+    sortKey: "recipes-tailoring"
+
+sells:
+  # 0
+
+  - type: item
+    id: 202235 # Pattern: Remarkable Hexweave Essence
+    costs:
+      1118722: 5
+
+  - type: item
+    id: 202234 # Pattern: Impressive Hexweave Essence
+    costs:
+      1118722: 5
+
+  - type: item
+    id: 114863 # Pattern: Brilliant Hexweave Cloak
+    costs:
+      1118722: 1
+
+  - type: item
+    id: 114866 # Pattern: Creeping Carpet
+    costs:
+      1118722: 5
+
+  - type: item
+    id: 114865 # Pattern: Elekk Plushie
+    costs:
+      1118722: 5
+
+  - type: item
+    id: 114864 # Pattern: Hexweave Bag
+    costs:
+      1118722: 5
+
+  - type: item
+    id: 114860 # Pattern: Hexweave Belt
+    costs:
+      1118722: 1
+
+  - type: item
+    id: 114858 # Pattern: Hexweave Bracers
+    costs:
+      1118722: 1
+
+  - type: item
+    id: 114854 # Pattern: Hexweave Cowl
+    costs:
+      1118722: 1
+
+  - type: item
+    id: 114852 # Pattern: Hexweave Embroidery
+    costs:
+      1118722: 1
+
+  - type: item
+    id: 114856 # Pattern: Hexweave Gloves
+    costs:
+      1118722: 1
+
+  - type: item
+    id: 114855 # Pattern: Hexweave Leggings
+    costs:
+      1118722: 1
+
+  - type: item
+    id: 114853 # Pattern: Hexweave Mantle
+    costs:
+      1118722: 1
+
+  - type: item
+    id: 114857 # Pattern: Hexweave Robe
+    costs:
+      1118722: 1
+
+  - type: item
+    id: 114859 # Pattern: Hexweave Slippers
+    costs:
+      1118722: 1
+
+  - type: item
+    id: 114862 # Pattern: Nimble Hexweave Cloak
+    costs:
+      1118722: 1
+
+  - type: item
+    id: 114861 # Pattern: Powerful Hexweave Cloak
+    costs:
+      1118722: 1

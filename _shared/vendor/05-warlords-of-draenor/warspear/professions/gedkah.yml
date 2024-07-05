@@ -1,0 +1,151 @@
+id: 86045
+name: "Ged'kah"
+note: "Enchanting Recipes"
+
+locations:
+  z5_warspear:
+    - 78.0 53.8 horde
+
+sets:
+  - name: "Recipes - Enchanting"
+    range: -1
+    sortKey: "recipes-enchanting"
+
+sells:
+  # 0
+
+  - type: item
+    id: 118394 # Formula: Enchant Cloak - Breath of Critical Strike
+    costs:
+      1119293: 1
+
+  - type: item
+    id: 118429 # Formula: Enchant Cloak - Breath of Haste
+    costs:
+      1119293: 1
+
+  - type: item
+    id: 118430 # Formula: Enchant Cloak - Breath of Mastery
+    costs:
+      1119293: 1
+
+  - type: item
+    id: 118432 # Formula: Enchant Cloak - Breath of Versatility
+    costs:
+      1119293: 1
+
+  - type: item
+    id: 118433 # Formula: Enchant Cloak - Gift of Critical Strike
+    costs:
+      1119293: 1
+
+  - type: item
+    id: 118434 # Formula: Enchant Cloak - Gift of Haste
+    costs:
+      1119293: 1
+
+  - type: item
+    id: 118435 # Formula: Enchant Cloak - Gift of Mastery
+    costs:
+      1119293: 1
+
+  - type: item
+    id: 118437 # Formula: Enchant Cloak - Gift of Versatility
+    costs:
+      1119293: 1
+
+  - type: item
+    id: 118438 # Formula: Enchant Neck - Breath of Critical Strike
+    costs:
+      1119293: 1
+
+  - type: item
+    id: 118439 # Formula: Enchant Neck - Breath of Haste
+    costs:
+      1119293: 1
+
+  - type: item
+    id: 118440 # Formula: Enchant Neck - Breath of Mastery
+    costs:
+      1119293: 1
+
+  - type: item
+    id: 118442 # Formula: Enchant Neck - Breath of Versatility
+    costs:
+      1119293: 1
+
+  - type: item
+    id: 118443 # Formula: Enchant Neck - Gift of Critical Strike
+    costs:
+      1119293: 1
+
+  - type: item
+    id: 118444 # Formula: Enchant Neck - Gift of Haste
+    costs:
+      1119293: 1
+
+  - type: item
+    id: 118445 # Formula: Enchant Neck - Gift of Mastery
+    costs:
+      1119293: 1
+
+  - type: item
+    id: 118447 # Formula: Enchant Neck - Gift of Versatility
+    costs:
+      1119293: 1
+
+  - type: item
+    id: 118453 # Formula: Enchant Ring - Gift of Critical Strike
+    costs:
+      1119293: 1
+
+  - type: item
+    id: 118454 # Formula: Enchant Ring - Gift of Haste
+    costs:
+      1119293: 1
+
+  - type: item
+    id: 118455 # Formula: Enchant Ring - Gift of Mastery
+    costs:
+      1119293: 1
+
+  - type: item
+    id: 118457 # Formula: Enchant Ring - Gift of Versatility
+    costs:
+      1119293: 1
+
+  - type: item
+    id: 118463 # Formula: Enchant Weapon - Mark of Blackrock
+    costs:
+      1119293: 5
+
+  - type: item
+    id: 118467 # Formula: Enchant Weapon - Mark of Bleeding Hollow
+    costs:
+      1119293: 5
+
+  - type: item
+    id: 118462 # Formula: Enchant Weapon - Mark of Shadowmoon
+    costs:
+      1119293: 5
+
+  - type: item
+    id: 118460 # Formula: Enchant Weapon - Mark of Warsong
+    costs:
+      1119293: 5
+
+  - type: item
+    id: 118461 # Formula: Enchant Weapon - Mark of the Frostwolf
+    costs:
+      1119293: 5
+
+  - type: item
+    id: 118458 # Formula: Enchant Weapon - Mark of the Thunderlord
+    costs:
+      1119293: 5
+
+  - type: item
+    id: 138882 # Formula: Tome of Illusions: Draenor
+    costs:
+      1119293: 1
+

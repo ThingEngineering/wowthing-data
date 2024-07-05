@@ -1,0 +1,125 @@
+id: 87550
+name: "Nonn Threeratchet"
+note: "Blacksmithing Plans"
+
+locations:
+  z5_warspear:
+    - 74.9 37.9 horde
+
+sets:
+  - name: "Recipes - Blacksmithing"
+    range: -1
+    sortKey: "recipes-blacksmithing"
+
+sells:
+  # 0
+
+  - type: item
+    id: 202224 # Plans: Remarkable Steelforged Essence
+    costs:
+      1118720: 5
+
+  - type: item
+    id: 202227 # Plans: Remarkable Truesteel Essence
+    costs:
+      1118720: 5
+
+  - type: item
+    id: 202223 # Plans: Impressive Steelforged Essence
+    costs:
+      1118720: 5
+
+  - type: item
+    id: 202226 # Plans: Impressive Truesteel Essence
+    costs:
+      1118720: 5
+
+  - type: item
+    id: 119329 # Plans: Soul of the Forge
+    costs:
+      1118720: 1
+
+  - type: item
+    id: 120262 # Plans: Steelforged Aegis
+    costs:
+      1118720: 1
+
+  - type: item
+    id: 120260 # Plans: Steelforged Axe
+    costs:
+      1118720: 1
+
+  - type: item
+    id: 116731 # Plans: Steelforged Dagger
+    costs:
+      1118720: 1
+
+  - type: item
+    id: 116729 # Plans: Steelforged Greataxe
+    costs:
+      1118720: 1
+
+  - type: item
+    id: 116732 # Plans: Steelforged Hammer
+    costs:
+      1118720: 1
+
+  - type: item
+    id: 116730 # Plans: Steelforged Saber
+    costs:
+      1118720: 1
+
+  - type: item
+    id: 116733 # Plans: Steelforged Shield
+    costs:
+      1118720: 1
+
+  - type: item
+    id: 116740 # Plans: Truesteel Armguards
+    costs:
+      1118720: 1
+
+  - type: item
+    id: 116741 # Plans: Truesteel Boots
+    costs:
+      1118720: 1
+
+  - type: item
+    id: 116739 # Plans: Truesteel Breastplate
+    costs:
+      1118720: 1
+
+  - type: item
+    id: 116738 # Plans: Truesteel Gauntlets
+    costs:
+      1118720: 1
+
+  - type: item
+    id: 116737 # Plans: Truesteel Greaves
+    costs:
+      1118720: 1
+
+  - type: item
+    id: 116734 # Plans: Truesteel Grinder
+    costs:
+      1118720: 1
+
+  - type: item
+    id: 116736 # Plans: Truesteel Helm
+    costs:
+      1118720: 1
+
+  - type: item
+    id: 116735 # Plans: Truesteel Pauldrons
+    costs:
+      1118720: 1
+
+  - type: item
+    id: 118044 # Plans: Truesteel Reshaper
+    costs:
+      1118720: 1
+
+  - type: item
+    id: 116742 # Plans: Truesteel Waistguard
+    costs:
+      1118720: 1
