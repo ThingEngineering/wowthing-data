@@ -1,0 +1,25 @@
+id: 84074
+name: "Merchant Derrook"
+
+locations:
+  z5_shadowmoon_valley:
+    - 57.4 30.2 alliance
+
+sells:
+  # 0
+
+  - type: item
+    id: 114980 # Farmer's Broom [staff]
+    costs:
+      0: 1 # Gold
+
+  - type: item
+    id: 114979 # Farmer's Hoe [staff]
+    costs:
+      0: 1 # Gold
+
+  - type: item
+    id: 114978 # Farmer's Shovel [staff]
+    costs:
+      0: 1 # Gold
+

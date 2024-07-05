@@ -1,0 +1,240 @@
+id: 96130
+name: "Ravenspeaker Thelnaas"
+note: "Order of the Awakened"
+
+locations:
+  z5_tanaan_jungle:
+    - 57.8 59.4 alliance
+    - 60.4 46.6 horde
+
+sets:
+  - name: "Baleful Cloth"
+    range: 8
+    sortKey: "baleful-1"
+
+  - name: "Baleful Leather"
+    range: 8
+    sortKey: "baleful-2"
+
+  - name: "Baleful Mail"
+    range: 8
+    sortKey: "baleful-3"
+
+  - name: "Baleful Plate"
+    range: 8
+    sortKey: "baleful-4"
+
+  - name: "Baleful Cloaks"
+    range: 6
+    sortKey: "baleful-5"
+
+  - name: "Baleful Weapons"
+    range: -1
+    sortKey: "baleful-9"
+
+sells:
+  # Cloth
+
+  - type: item
+    id: 124579 # Felcast Hood
+    costs: &cost-head
+      823: 5000
+
+  - type: item
+    id: 124587 # Felcast Mantle
+    costs: &cost-shoulders
+      823: 5000
+
+  - type: item
+    id: 124570 # Felcast Robes
+    costs: &cost-chest
+      823: 5000
+
+  - type: item
+    id: 124563 # Felcast Bracers
+    costs: &cost-wrists
+      823: 5000
+
+  - type: item
+    id: 124575 # Felcast Gloves
+    costs: &cost-hands
+      823: 5000
+
+  - type: item
+    id: 124591 # Felcast Cord
+    costs: &cost-waist
+      823: 5000
+
+  - type: item
+    id: 124583 # Felcast Trousers
+    costs: &cost-legs
+      823: 5000
+
+  - type: item
+    id: 124571 # Felcast Sandals
+    costs: &cost-feet
+      823: 5000
+
+  # Leather
+
+  - type: item
+    id: 124580 # Bladefang Hood
+    costs: *cost-head
+
+  - type: item
+    id: 124588 # Bladefang Spaulders
+    costs: *cost-shoulders
+
+  - type: item
+    id: 124567 # Bladefang Chestguard
+    costs: *cost-chest
+
+  - type: item
+    id: 124564 # Bladefang Bracers
+    costs: *cost-wrists
+
+  - type: item
+    id: 124576 # Bladefang Gauntlets
+    costs: *cost-hands
+
+  - type: item
+    id: 124592 # Bladefang Belt
+    costs: *cost-waist
+
+  - type: item
+    id: 124584 # Bladefang Legguards
+    costs: *cost-legs
+
+  - type: item
+    id: 124572 # Bladefang Boots
+    costs: *cost-feet
+
+  # Mail
+
+  - type: item
+    id: 124581 # Axeclaw Helm
+    costs: *cost-head
+
+  - type: item
+    id: 124589 # Axeclaw Spaulders
+    costs: *cost-shoulders
+
+  - type: item
+    id: 124568 # Axeclaw Chestguard
+    costs: *cost-chest
+
+  - type: item
+    id: 124565 # Axeclaw Bracers
+    costs: *cost-wrists
+
+  - type: item
+    id: 124577 # Axeclaw Gauntlets
+    costs: *cost-hands
+
+  - type: item
+    id: 124593 # Axeclaw Belt
+    costs: *cost-waist
+
+  - type: item
+    id: 124585 # Axeclaw Legguards
+    costs: *cost-legs
+
+  - type: item
+    id: 124573 # Axeclaw Boots
+    costs: *cost-feet
+
+  # Plate
+
+  - type: item
+    id: 124582 # Felbane Greathelm
+    costs: *cost-head
+
+  - type: item
+    id: 124590 # Felbane Shoulderguard
+    costs: *cost-shoulders
+
+  - type: item
+    id: 124569 # Felbane Breastplate
+    costs: *cost-chest
+
+  - type: item
+    id: 124566 # Felbane Bracers
+    costs: *cost-wrists
+
+  - type: item
+    id: 124578 # Felbane Gauntlets
+    costs: *cost-hands
+
+  - type: item
+    id: 124594 # Felbane Girdle
+    costs: *cost-waist
+
+  - type: item
+    id: 124586 # Felbane Legplates
+    costs: *cost-legs
+
+  - type: item
+    id: 124574 # Felbane Greaves
+    costs: *cost-feet
+
+  # Cloaks
+
+  - type: item
+    id: 124613 # Marshwater Cloak
+    costs: &cost-cloak
+      823: 5000
+
+  - type: item
+    id: 124616 # Marshwater Cloak
+    costs: *cost-cloak
+
+  - type: item
+    id: 124614 # Marshwater Mantle
+    costs: *cost-cloak
+
+  - type: item
+    id: 124615 # Shadowthrash Cloak
+    costs: *cost-cloak
+
+  - type: item
+    id: 124618 # Unfailing Cloak
+    costs: *cost-cloak
+
+  - type: item
+    id: 124617 # Unfailing Mantle
+    costs: *cost-cloak
+
+  # Weapons
+
+  - type: item
+    id: 124627 # Baleful Dagger
+    costs: &cost-armarment
+      823: 10000
+
+  - type: item
+    id: 124628 # Baleful Greataxe
+    costs: *cost-armarment
+
+  - type: item
+    id: 124625 # Baleful Greatsword
+    costs: *cost-armarment
+
+  - type: item
+    id: 124629 # Baleful Polearm
+    costs: *cost-armarment
+
+  - type: item
+    id: 124626 # Baleful Rifle
+    costs: *cost-armarment
+
+  - type: item
+    id: 124631 # Baleful Scepter
+    costs: *cost-armarment
+
+  - type: item
+    id: 124630 # Baleful Spire
+    costs: *cost-armarment
+
+  - type: item
+    id: 124624 # Baleful Sword
+    costs: *cost-armarment

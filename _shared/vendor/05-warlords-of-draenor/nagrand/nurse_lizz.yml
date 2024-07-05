@@ -1,0 +1,21 @@
+id: 82754
+name: "Nurse Lizz"
+note: "First Aid Supplies"
+
+locations:
+  z5_nagrand:
+    - 78.6 47.8
+
+sells:
+  # 0
+
+  - type: item
+    id: 44694 # Antiseptic-Soaked Dressing [shirt]
+    costs:
+      0: 25 # Gold
+
+  - type: item
+    id: 44693 # Wound Dressing [shirt]
+    costs:
+      0: 20 # Gold
+

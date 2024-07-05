@@ -1,0 +1,37 @@
+id: 80765
+name: "Wixxa the Sapper"
+note: "Explosives"
+
+locations:
+  talador:
+    - 71.4 30 horde
+    - 71.6 30.2 horde
+
+sells:
+  # 0
+
+  - type: item
+    id: 23799 # Schematic: Adamantite Rifle
+    costs:
+      0: 8 # Gold
+
+  - type: item
+    id: 23807 # Schematic: Adamantite Scope
+    costs:
+      0: 6 # Gold
+
+  - type: item
+    id: 23803 # Schematic: Cogspinner Goggles
+    costs:
+      0: 6 # Gold
+
+  - type: item
+    id: 23816 # Schematic: Fel Iron Toolbox
+    costs:
+      0: 4 # Gold
+
+  - type: item
+    id: 23805 # Schematic: Ultra-Spectropic Detection Goggles
+    costs:
+      0: 8 # Gold
+
