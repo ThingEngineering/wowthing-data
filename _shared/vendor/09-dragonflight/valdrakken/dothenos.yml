@@ -1,0 +1,151 @@
+id: 191000
+name: "Dothenos"
+note: "Trade Coordinator"
+
+locations:
+  09-dragonflight/valdrakken:
+    - 36.4 63.0
+
+sets:
+  - name: "Recipes - Alchemy"
+    range: 1
+    sortKey: "recipes-alchemy"
+
+  - name: "Recipes - Blacksmithing"
+    range: 5
+    sortKey: "recipes-blacksmithing"
+
+  - name: "Recipes - Enchanting"
+    range: 2
+    sortKey: "recipes-enchanting"
+
+  - name: "Recipes - Engineering"
+    range: 3
+    sortKey: "recipes-engineering"
+
+  - name: "Recipes - Inscription"
+    range: 3
+    sortKey: "recipes-inscription"
+
+  - name: "Recipes - Tailoring"
+    range: 7
+    sortKey: "recipes-tailoring"
+
+sells:
+
+  # Alchemy
+
+  - type: item
+    id: 191545 # Recipe: Sustaining Alchemist's Stone
+    costs:
+      2003: 400
+
+  # Blacksmithing
+
+  - type: item
+    id: 194500 # Plans: Khaz'gorite Leatherworker's Toolset
+    costs:
+      2003: 500
+
+  - type: item
+    id: 194498 # Plans: Khaz'gorite Needle Set
+    costs:
+      2003: 500
+
+  - type: item
+    id: 194495 # Plans: Khaz'gorite Sickle
+    costs:
+      2003: 500
+
+  - type: item
+    id: 194479 # Plans: Obsidian Seared Claymore
+    costs:
+      2003: 400
+
+  - type: item
+    id: 194482 # Plans: Obsidian Seared Invoker
+    costs:
+      2003: 400
+
+  # Enchanting
+
+  - type: item
+    id: 199818 # Formula: Enchant Boots - Watcher's Loam
+    costs:
+      2003: 50
+
+  - type: item
+    id: 199817 # Formula: Enchant Cloak - Homebound Speed
+    costs:
+      2003: 50
+
+  # Engineering
+
+  - type: item
+    id: 199244 # Schematic: Khaz'gorite Delver's Helmet
+    costs:
+      2003: 500
+
+  - type: item
+    id: 199245 # Schematic: Lapidary's Khaz'gorite Clamps
+    costs:
+      2003: 500
+
+  - type: item
+    id: 199246 # Schematic: Tinker: Grounded Circuitry
+    costs:
+      2003: 50
+
+  # Inscription
+
+  - type: item
+    id: 198892 # Technique: Cliffside Wylderdrake: Red Hair
+    costs:
+      2003: 25
+
+  - type: item
+    id: 198941 # Technique: Contract: Valdrakken Accord
+    costs:
+      2003: 200
+
+  - type: item
+    id: 198912 # Technique: Illusion Parchment: Whirling Breeze
+    costs:
+      2003: 750
+
+  # Tailoring
+
+  - type: item
+    id: 194279 # Pattern: Azureweave Slippers
+    costs:
+      2003: 400
+
+  - type: item
+    id: 194287 # Pattern: Chronocloth Reagent Bag
+    costs:
+      2003: 750
+
+  - type: item
+    id: 194280 # Pattern: Chronocloth Sash
+    costs:
+      2003: 400
+
+  - type: item
+    id: 194282 # Pattern: Cushion of Time Travel
+    costs:
+      2003: 750
+
+  - type: item
+    id: 194288 # Pattern: Master's Wildercloth Alchemist's Robe
+    costs:
+      2003: 500
+
+  - type: item
+    id: 194290 # Pattern: Master's Wildercloth Enchanter's Hat
+    costs:
+      2003: 500
+
+  - type: item
+    id: 194292 # Pattern: Master's Wildercloth Gardening Hat
+    costs:
+      2003: 500

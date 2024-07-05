@@ -6,9 +6,235 @@ locations:
   09-dragonflight/valdrakken:
     - 35.4 59.2
 
+sets:
+  - name: "Recipes - Alchemy"
+    range: 1 5
+    sortKey: "recipes-alchemy"
+
+  - name: "Recipes - Blacksmithing"
+    range: 2
+    sortKey: "recipes-blacksmithing"
+
+  - name: "Recipes - Cooking"
+    range: 1
+    sortKey: "recipes-cooking"
+
+  - name: "Recipes - Enchanting"
+    range: 3
+    sortKey: "recipes-enchanting"
+
+  - name: "Recipes - Engineering"
+    range: 8
+    sortKey: "recipes-engineering"
+
+  - name: "Recipes - Inscription"
+    range: 11
+    sortKey: "recipes-inscription"
+
+  - name: "Recipes - Jewelcrafting"
+    range: 1
+    sortKey: "recipes-jewelcrafting"
+
+  - name: "Recipes - Leatherworking"
+    range: 1
+    sortKey: "recipes-leatherworking"
+
+  - name: "Recipes - Tailoring"
+    range: 2
+    sortKey: "recipes-tailoring"
+
 sells:
-  - type: transmog
+  # 0
+
+  - type: item
     id: 198802 # Artisan's Consortium Tabard [tabard]
     costs:
       0: 1052 # Gold
-    reputation: 2544 esteemed
+
+  # Alchemy
+
+  - type: item
+    id: 198533 # Recipe: Aerated Phial of Quick Hands
+    costs:
+      1190456: 75
+
+  - type: item
+    id: 191593 # Recipe: Agitating Potion Augmentation
+    costs:
+      1190456: 75
+
+  - type: item
+    id: 191594 # Recipe: Reactive Phial Embellishment
+    costs:
+      0: 210 # Gold
+
+  - type: item
+    id: 191586 # Recipe: Sagacious Incense
+    costs:
+      1190456: 75
+
+  - type: item
+    id: 191590 # Recipe: Stable Fluidic Draconium
+    costs:
+      1190456: 75
+
+  # Blacksmithing
+
+  - type: item
+    id: 194493 # Plans: Armor Spikes
+    costs:
+      1190456: 75
+
+  - type: item
+    id: 194506 # Plans: Primal Razorstone
+    costs:
+      1190456: 75
+
+  # Cooking
+
+  - type: item
+    id: 198098 # Recipe: Ooey-Gooey Chocolate
+    costs:
+      0: 210 # Gold
+
+  # Enchanting
+
+  - type: item
+    id: 199804 # Formula: Enchant Tool - Draconic Deftness
+    costs:
+      1190456: 75
+
+  - type: item
+    id: 199802 # Formula: Enchant Tool - Draconic Finesse
+    costs:
+      1190456: 75
+
+  - type: item
+    id: 199803 # Formula: Enchant Tool - Draconic Perception
+    costs:
+      1190456: 75
+
+  # Engineering
+
+  - type: item
+    id: 199295 # Schematic: Black Fireflight
+    costs:
+      0: 210 # Gold
+
+  - type: item
+    id: 199289 # Schematic: Blue Fireflight
+    costs:
+      0: 210 # Gold
+
+  - type: item
+    id: 199240 # Schematic: Green Fireflight
+    costs:
+      0: 210 # Gold
+
+  - type: item
+    id: 199286 # Schematic: Khaz'gorite Brainwave Amplifier
+    costs:
+      1190456: 75
+
+  - type: item
+    id: 199285 # Schematic: Khaz'gorite Encased Samophlange
+    costs:
+      1190456: 75
+
+  - type: item
+    id: 199242 # Schematic: Portable Alchemist's Lab Bench
+    costs:
+      1190456: 75
+
+  - type: item
+    id: 199243 # Schematic: Portable Tinker's Workbench
+    costs:
+      1190456: 75
+
+  - type: item
+    id: 199290 # Schematic: Red Fireflight
+    costs:
+      0: 210 # Gold
+
+  # Inscription
+
+  - type: item
+    id: 198943 # Technique: Alchemist's Brilliant Mixing Rod
+    costs:
+      1190456: 75
+
+  - type: item
+    id: 198947 # Technique: Chef's Splendid Rolling Pin
+    costs:
+      1190456: 75
+
+  - type: item
+    id: 198938 # Technique: Contract: Artisan's Consortium
+    costs:
+      0: 210 # Gold
+
+  - type: item
+    id: 200602 # Technique: Draconic Missive of Crafting Speed
+    costs:
+      1190456: 75
+
+  - type: item
+    id: 200605 # Technique: Draconic Missive of Deftness
+    costs:
+      1190456: 75
+
+  - type: item
+    id: 200603 # Technique: Draconic Missive of Finesse
+    costs:
+      1190456: 75
+
+  - type: item
+    id: 200599 # Technique: Draconic Missive of Inspiration
+    costs:
+      1190456: 75
+
+  - type: item
+    id: 200601 # Technique: Draconic Missive of Multicraft
+    costs:
+      1190456: 75
+
+  - type: item
+    id: 200604 # Technique: Draconic Missive of Perception
+    costs:
+      1190456: 75
+
+  - type: item
+    id: 200600 # Technique: Draconic Missive of Resourcefulness
+    costs:
+      1190456: 75
+
+  - type: item
+    id: 198598 # Technique: Scroll of Sales
+    costs:
+      1190456: 75
+
+  # Jewelcrafting
+
+  - type: item
+    id: 194662 # Design: Alexstraszite Loupes
+    costs:
+      1190456: 75
+
+  # Leatherworking
+
+  - type: item
+    id: 198618 # Pattern: Artisan's Sign
+    costs:
+      0: 210 # Gold
+
+  # Tailoring
+
+  - type: item
+    id: 194286 # Pattern: Chromatic Embroidery Thread
+    costs:
+      1190456: 75
+
+  - type: item
+    id: 194293 # Pattern: Vibrant Polishing Cloth
+    costs:
+      1190456: 75
