@@ -1,0 +1,26 @@
+id: 29496
+name: "Kerta the Bold"
+note: "Axe & Polearm Merchant"
+
+locations:
+  z2_dalaran:
+    - 55.0 62.9
+
+sells:
+  # 0
+
+  - type: item
+    id: 44642 # Dalaran Axe [1h ? axe]
+    costs:
+      0: 1 # Gold
+
+  - type: item
+    id: 44640 # Dalaran Great Axe [2h ? axe]
+    costs:
+      0: 1 # Gold
+
+  - type: item
+    id: 44654 # Dalaran Spear [polearm]
+    costs:
+      0: 1 # Gold
+

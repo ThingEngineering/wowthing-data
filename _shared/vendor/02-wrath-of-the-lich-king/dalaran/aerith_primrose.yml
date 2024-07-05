@@ -1,0 +1,41 @@
+id: 28993
+name: "Aerith Primrose"
+note: "Flower Vendor"
+
+locations:
+  z2_dalaran:
+    - 57.5 53.2
+
+sells:
+  # 0
+
+  - type: item
+    id: 3422 # Beautiful Wildflowers [off-hand]
+    costs:
+      0: 1 # Gold
+
+  - type: item
+    id: 3420 # Black Rose [off-hand]
+    costs:
+      0: 1 # Gold
+
+  - type: item
+    id: 3424 # Bouquet of Black Roses [off-hand]
+    costs:
+      0: 1 # Gold
+
+  - type: item
+    id: 3423 # Bouquet of White Roses [off-hand]
+    costs:
+      0: 1 # Gold
+
+  - type: item
+    id: 3419 # Red Rose [off-hand]
+    costs:
+      0: 1 # Gold
+
+  - type: item
+    id: 3421 # Simple Wildflowers [off-hand]
+    costs:
+      0: 1 # Gold
+

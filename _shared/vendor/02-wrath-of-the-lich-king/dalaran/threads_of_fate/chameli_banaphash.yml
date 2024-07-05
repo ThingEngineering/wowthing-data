@@ -1,0 +1,21 @@
+id: 29702
+name: "Chameli Banaphash"
+note: "Haberdasher"
+
+locations:
+  z2_dalaran:
+    - 44.3 45.8
+
+sells:
+  # 0
+
+  - type: item
+    id: 44648 # Purple Turban [subclass=5 head]
+    costs:
+      0: 1 # Gold
+
+  - type: item
+    id: 44647 # Violet Hat [subclass=5 head]
+    costs:
+      0: 1 # Gold
+

@@ -1,0 +1,41 @@
+id: 28951
+name: "Breanni"
+note: "Pet Supplies"
+
+locations:
+  z2_dalaran:
+    - 58.8 38.9
+
+sells:
+  # 0
+
+  - type: item
+    id: 44822 # Albino Snake
+    costs:
+      0: 40 # Gold
+
+  - type: item
+    id: 46398 # Cat Carrier (Calico Cat)
+    costs:
+      0: 40 # Gold
+
+  - type: item
+    id: 129826 # Nursery Spider
+    costs:
+      0: 160 # Gold
+
+  - type: item
+    id: 48120 # Obsidian Hatchling
+    costs:
+      0: 40 # Gold
+
+  - type: item
+    id: 44820 # Red Ribbon Pet Leash
+    costs:
+      0: 1 # Gold
+
+  - type: item
+    id: 37460 # Rope Pet Leash
+    costs:
+      0: 1 # Gold
+

@@ -1,0 +1,16 @@
+id: 29476
+name: "Dagna Flintlock"
+note: "Gunsmith"
+
+locations:
+  z2_dalaran:
+    - 60.1 53.1
+
+sells:
+  # 0
+
+  - type: item
+    id: 44635 # Dalaran Rifle [gun]
+    costs:
+      0: 1 # Gold
+

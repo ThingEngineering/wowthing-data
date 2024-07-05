@@ -1,0 +1,56 @@
+id: 29703
+name: "Sheddle Glossgleam"
+note: "Cobbler"
+
+locations:
+  z2_dalaran:
+    - 45.3 46.2
+
+sells:
+  # 0
+
+  - type: item
+    id: 40751 # Slippers of the Holy Light [cloth feet]
+    costs:
+      0: 145 # Gold
+
+  - type: item
+    id: 40750 # Xintor's Expeditionary Boots [cloth feet]
+    costs:
+      0: 145 # Gold
+
+  - type: item
+    id: 40748 # Boots of Captain Ellis [leather feet]
+    costs:
+      0: 144 # Gold
+
+  - type: item
+    id: 40749 # Rainey's Chewed Boots [leather feet]
+    costs:
+      0: 144 # Gold
+
+  - type: item
+    id: 40746 # Pack-Ice Striders [mail feet]
+    costs:
+      0: 143 # Gold
+
+  - type: item
+    id: 40747 # Treads of Coastal Wandering [mail feet]
+    costs:
+      0: 143 # Gold
+
+  - type: item
+    id: 40742 # Bladed Steelboots [plate feet]
+    costs:
+      0: 137 # Gold
+
+  - type: item
+    id: 40743 # Kyzoc's Ground Stompers [plate feet]
+    costs:
+      0: 137 # Gold
+
+  - type: item
+    id: 40745 # Sabatons of Rapid Recovery [plate feet]
+    costs:
+      0: 142 # Gold
+

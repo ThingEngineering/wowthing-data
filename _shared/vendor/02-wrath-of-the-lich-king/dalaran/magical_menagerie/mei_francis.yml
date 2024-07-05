@@ -1,0 +1,121 @@
+id: 32216
+name: "Mei Francis"
+note: "Exotic Mounts"
+
+locations:
+  z2_dalaran:
+    - 58.1 42.1
+
+sells:
+  # 0
+
+  - type: item
+    id: 44690 # Armored Blue Wind Rider
+    costs:
+      0: 2000 # Gold
+
+  - type: item
+    id: 44689 # Armored Snowy Gryphon
+    costs:
+      0: 1700 # Gold
+
+  - type: item
+    id: 25475 # Blue Wind Rider
+    costs:
+      0: 40 # Gold
+
+  - type: item
+    id: 25471 # Ebon Gryphon
+    costs:
+      0: 40 # Gold
+
+  - type: item
+    id: 25470 # Golden Gryphon
+    costs:
+      0: 50 # Gold
+
+  - type: item
+    id: 25476 # Green Wind Rider
+    costs:
+      0: 40 # Gold
+
+  - type: item
+    id: 44225 # Reins of the Armored Brown Bear
+    costs:
+      0: 750 # Gold
+
+  - type: item
+    id: 44226 # Reins of the Armored Brown Bear
+    costs:
+      0: 750 # Gold
+
+  - type: item
+    id: 44234 # Reins of the Traveler's Tundra Mammoth
+    costs:
+      0: 20000 # Gold
+
+  - type: item
+    id: 44235 # Reins of the Traveler's Tundra Mammoth
+    costs:
+      0: 17000 # Gold
+
+  - type: item
+    id: 44230 # Reins of the Wooly Mammoth
+    costs:
+      0: 8500 # Gold
+
+  - type: item
+    id: 44231 # Reins of the Wooly Mammoth
+    costs:
+      0: 10000 # Gold
+
+  - type: item
+    id: 25472 # Snowy Gryphon
+    costs:
+      0: 40 # Gold
+
+  - type: item
+    id: 25473 # Swift Blue Gryphon
+    costs:
+      0: 80 # Gold
+
+  - type: item
+    id: 25528 # Swift Green Gryphon
+    costs:
+      0: 80 # Gold
+
+  - type: item
+    id: 25531 # Swift Green Wind Rider
+    costs:
+      0: 80 # Gold
+
+  - type: item
+    id: 25529 # Swift Purple Gryphon
+    costs:
+      0: 100 # Gold
+
+  - type: item
+    id: 25533 # Swift Purple Wind Rider
+    costs:
+      0: 80 # Gold
+
+  - type: item
+    id: 25527 # Swift Red Gryphon
+    costs:
+      0: 100 # Gold
+
+  - type: item
+    id: 25477 # Swift Red Wind Rider
+    costs:
+      0: 80 # Gold
+
+  - type: item
+    id: 25532 # Swift Yellow Wind Rider
+    costs:
+      0: 80 # Gold
+
+  - type: item
+    id: 25474 # Tawny Wind Rider
+    costs:
+      0: 40 # Gold
+

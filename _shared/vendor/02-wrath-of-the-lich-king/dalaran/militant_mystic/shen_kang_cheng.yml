@@ -1,0 +1,16 @@
+id: 29494
+name: "Shen Kang Cheng"
+note: "Staves"
+
+locations:
+  z2_dalaran:
+    - 49.8 72.5
+
+sells:
+  # 0
+
+  - type: item
+    id: 44655 # Dalaran Stave [staff]
+    costs:
+      0: 1 # Gold
+

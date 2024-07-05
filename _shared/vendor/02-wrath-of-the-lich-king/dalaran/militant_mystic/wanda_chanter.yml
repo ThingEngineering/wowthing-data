@@ -1,0 +1,36 @@
+id: 28994
+name: "Wanda Chanter"
+note: "Wands"
+
+locations:
+  z2_dalaran:
+    - 49.2 73.8
+
+sells:
+  # 0
+
+  - type: item
+    id: 47658 # Brimstone Igniter [wand]
+    costs:
+      0: 127 # Gold
+
+  - type: item
+    id: 40019 # Wand of Amber [wand]
+    costs:
+      0: 1 # Gold
+
+  - type: item
+    id: 40021 # Wand of Crystal [wand]
+    costs:
+      0: 1 # Gold
+
+  - type: item
+    id: 40020 # Wand of Jade [wand]
+    costs:
+      0: 1 # Gold
+
+  - type: item
+    id: 40018 # Wand of Onyx [wand]
+    costs:
+      0: 1 # Gold
+

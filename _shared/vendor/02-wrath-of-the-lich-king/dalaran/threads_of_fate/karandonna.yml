@@ -1,0 +1,91 @@
+id: 29491
+name: "Karandonna"
+note: "Clothier"
+
+locations:
+  z2_dalaran:
+    - 44.8 48.6
+
+sells:
+  # 0
+
+  - type: item
+    id: 42365 # Amber Filigreed Doublet [shirt]
+    costs:
+      0: 45 # Gold
+
+  - type: item
+    id: 42371 # Amber Filigreed Shirt [shirt]
+    costs:
+      0: 25 # Gold
+
+  - type: item
+    id: 42374 # Blue Martial Shirt [shirt]
+    costs:
+      0: 37 # Gold
+
+  - type: item
+    id: 42361 # Cerulean Filigreed Doublet [shirt]
+    costs:
+      0: 47 # Gold
+
+  - type: item
+    id: 42370 # Cerulean Filigreed Shirt [shirt]
+    costs:
+      0: 27 # Gold
+
+  - type: item
+    id: 42360 # Ebon Filigreed Doublet [shirt]
+    costs:
+      0: 55 # Gold
+
+  - type: item
+    id: 42369 # Ebon Filigreed Shirt [shirt]
+    costs:
+      0: 35 # Gold
+
+  - type: item
+    id: 53852 # Embroidered Shirt [shirt]
+    costs:
+      0: 1000 # Gold
+
+  - type: item
+    id: 42363 # Golden Filigreed Doublet [shirt]
+    costs:
+      0: 52 # Gold
+
+  - type: item
+    id: 42373 # Golden Filigreed Shirt [shirt]
+    costs:
+      0: 32 # Gold
+
+  - type: item
+    id: 42375 # Green Martial Shirt [shirt]
+    costs:
+      0: 35 # Gold
+
+  - type: item
+    id: 42377 # Purple Martial Shirt [shirt]
+    costs:
+      0: 45 # Gold
+
+  - type: item
+    id: 42378 # Red Martial Shirt [shirt]
+    costs:
+      0: 40 # Gold
+
+  - type: item
+    id: 42368 # Scarlet Filigreed Doublet [shirt]
+    costs:
+      0: 50 # Gold
+
+  - type: item
+    id: 42372 # Scarlet Filigreed Shirt [shirt]
+    costs:
+      0: 30 # Gold
+
+  - type: item
+    id: 42376 # Yellow Martial Shirt [shirt]
+    costs:
+      0: 42 # Gold
+

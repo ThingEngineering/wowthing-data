@@ -1,0 +1,30 @@
+id: 29499
+name: "Bartram Haller"
+note: "Dagger & Fist Weapon Merchant"
+
+locations:
+  z2_dalaran:
+    - 53.4 62.7
+
+sells:
+  # 0
+
+  - type: item
+    id: 44652 # Dalaran Dagger [? dagger]
+    costs:
+      0: 1 # Gold
+
+  - type: item
+    id: 40702 # Rolfsen's Ripper [? dagger]
+    costs:
+      0: 102 # Gold
+
+  - type: item
+    id: 44641 # Dalaran Knuckles [fist]
+    costs:
+      0: 1 # Gold
+
+  - type: item
+    id: 40704 # Pride [fist]
+    costs:
+      0: 103 # Gold

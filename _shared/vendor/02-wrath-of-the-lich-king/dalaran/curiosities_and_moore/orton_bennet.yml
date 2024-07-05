@@ -1,0 +1,21 @@
+id: 29527
+name: "Orton Bennet"
+note: "Offhand Offerings"
+
+locations:
+  z2_dalaran:
+    - 52.3 55.6
+
+sells:
+  # 0
+
+  - type: item
+    id: 40699 # Handbook of Obscure Remedies [off-hand]
+    costs:
+      0: 168 # Gold
+
+  - type: item
+    id: 40698 # Ward of the Violet Citadel [off-hand]
+    costs:
+      0: 167 # Gold
+

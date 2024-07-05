@@ -1,0 +1,21 @@
+id: 29497
+name: "Walther Whiteford"
+note: "Mace Merchant"
+
+locations:
+  z2_dalaran:
+    - 55.3 64.9
+
+sells:
+  # 0
+
+  - type: item
+    id: 44636 # Dalaran Cudgel [1h ? mace]
+    costs:
+      0: 1 # Gold
+
+  - type: item
+    id: 44645 # Dalaran Hammer [2h ? mace]
+    costs:
+      0: 1 # Gold
+

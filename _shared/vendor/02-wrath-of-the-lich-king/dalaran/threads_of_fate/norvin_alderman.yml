@@ -1,0 +1,56 @@
+id: 29495
+name: "Norvin Alderman"
+note: "Cloaks"
+
+locations:
+  z2_dalaran:
+    - 44.5 49.5
+
+sells:
+  # 0
+
+  - type: item
+    id: 40724 # Cloak of Kea Feathers [cloak]
+    costs:
+      0: 138 # Gold
+
+  - type: item
+    id: 40723 # Disguise of the Kumiho [cloak]
+    costs:
+      0: 137 # Gold
+
+  - type: item
+    id: 50468 # Drape of the Violet Tower [cloak]
+    costs:
+      0: 161 # Gold
+
+  - type: item
+    id: 40721 # Hammerhead Sharkskin Cloak [cloak]
+    costs:
+      0: 150 # Gold
+
+  - type: item
+    id: 50467 # Might of the Ocean Serpent [cloak]
+    costs:
+      0: 161 # Gold
+
+  - type: item
+    id: 40722 # Platinum Mesh Cloak [cloak]
+    costs:
+      0: 137 # Gold
+
+  - type: item
+    id: 50470 # Recovered Scarlet Onslaught Cape [cloak]
+    costs:
+      0: 167 # Gold
+
+  - type: item
+    id: 50466 # Sentinel's Winter Cloak [cloak]
+    costs:
+      0: 160 # Gold
+
+  - type: item
+    id: 50469 # Volde's Cloak of the Night Sky [cloak]
+    costs:
+      0: 166 # Gold
+

@@ -1,0 +1,21 @@
+id: 28989
+name: "Aemara"
+note: "Bowyer"
+
+locations:
+  z2_dalaran:
+    - 60.8 52.0
+
+sells:
+  # 0
+
+  - type: item
+    id: 44643 # Dalaran Bow [bow]
+    costs:
+      0: 1 # Gold
+
+  - type: item
+    id: 44637 # Dalaran Crossbow [crossbow]
+    costs:
+      0: 1 # Gold
+

@@ -1,0 +1,26 @@
+id: 28991
+name: "Valaden Silverblade"
+note: "Sword Merchant"
+
+locations:
+  z2_dalaran:
+    - 54.8 63.4
+
+sells:
+  # 0
+
+  - type: item
+    id: 44639 # Dalaran Greatsword [2h ? sword]
+    costs:
+      0: 1 # Gold
+
+  - type: item
+    id: 44638 # Dalaran Sword [1h ? sword]
+    costs:
+      0: 1 # Gold
+
+  - type: item
+    id: 40703 # Grasscutter [1h ? sword]
+    costs:
+      0: 103 # Gold
+
