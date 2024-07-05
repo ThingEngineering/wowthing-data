@@ -1,0 +1,41 @@
+id: 29510
+name: "Linna Bruder"
+note: "Shadoweave Tailoring Specialist"
+
+locations:
+  z2_dalaran:
+    - 34.6 34.8
+
+sets:
+  - name: "Recipes - Tailoring"
+    range: -1
+    sortKey: "recipes-tailoring"
+
+sells:
+  # 0
+
+  - type: item
+    id: 21915 # Pattern: Ebon Shadowbag
+    costs:
+      0: 6 # Gold
+
+  - type: item
+    id: 21914 # Pattern: Frozen Shadoweave Boots
+    costs:
+      0: 6 # Gold
+
+  - type: item
+    id: 21913 # Pattern: Frozen Shadoweave Robe
+    costs:
+      0: 6 # Gold
+
+  - type: item
+    id: 21912 # Pattern: Frozen Shadoweave Shoulders
+    costs:
+      0: 6 # Gold
+
+  - type: item
+    id: 30483 # Pattern: Shadowcloth
+    costs:
+      0: 4 # Gold
+

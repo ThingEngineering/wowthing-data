@@ -1,0 +1,40 @@
+id: 29512
+name: "Ainderu Summerleaf"
+note: "Mooncloth Tailoring Specialist"
+
+locations:
+  z2_dalaran:
+    - 37.0 34.1
+
+sets:
+  - name: "Recipes - Tailoring"
+    range: -1
+    sortKey: "recipes-tailoring"
+
+sells:
+  # 0
+
+  - type: item
+    id: 21919 # Pattern: Primal Mooncloth Bag
+    costs:
+      0: 4 # Gold
+
+  - type: item
+    id: 21916 # Pattern: Primal Mooncloth Belt
+    costs:
+      0: 4 # Gold
+
+  - type: item
+    id: 21917 # Pattern: Primal Mooncloth Robe
+    costs:
+      0: 4 # Gold
+
+  - type: item
+    id: 21918 # Pattern: Primal Mooncloth Shoulders
+    costs:
+      0: 4 # Gold
+
+  - type: item
+    id: 21895 # Pattern: Primal Mooncloth
+    costs:
+      0: 3 # Gold

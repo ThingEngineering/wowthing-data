@@ -1,0 +1,339 @@
+id: 28721
+name: "Tiffany Cartier"
+note: "Jewelcrafting Supplies"
+
+locations:
+  z2_dalaran:
+    - 40.7 34.5
+
+sets:
+  - name: "Recipes - Jewelcrafting"
+    range: -1
+    sortKey: "recipes-jewelcrafting"
+
+sells:
+  # Epic
+
+  - type: item
+    id: 42652 # Design: Titanium Earthguard Chain
+    costs:
+      61: 6
+
+  - type: item
+    id: 42649 # Design: Titanium Earthguard Ring
+    costs:
+      61: 6
+
+  - type: item
+    id: 43597 # Design: Titanium Frostguard Ring
+    costs:
+      61: 6
+
+  - type: item
+    id: 42648 # Design: Titanium Impact Band
+    costs:
+      61: 6
+
+  - type: item
+    id: 42651 # Design: Titanium Impact Choker
+    costs:
+      61: 6
+
+  - type: item
+    id: 42653 # Design: Titanium Spellshock Necklace
+    costs:
+      61: 6
+
+  - type: item
+    id: 42650 # Design: Titanium Spellshock Ring
+    costs:
+      61: 6
+
+  # Rare
+
+  - type: item
+    id: 42298 # Design: Bold Dragon's Eye
+    costs:
+      61: 2
+
+  - type: item
+    id: 41576 # Design: Bold Scarlet Ruby
+    costs:
+      61: 3
+
+  - type: item
+    id: 42309 # Design: Brilliant Dragon's Eye
+    costs:
+      61: 2
+
+  - type: item
+    id: 41704 # Design: Chaotic Skyflare Diamond
+    costs:
+      61: 5
+
+  - type: item
+    id: 41687 # Design: Deft Monarch Topaz
+    costs:
+      61: 3
+
+  - type: item
+    id: 42301 # Design: Delicate Dragon's Eye
+    costs:
+      61: 2
+
+  - type: item
+    id: 41577 # Design: Delicate Scarlet Ruby
+    costs:
+      61: 3
+
+  - type: item
+    id: 41706 # Design: Ember Skyflare Diamond
+    costs:
+      61: 5
+
+  - type: item
+    id: 41692 # Design: Energized Forest Emerald
+    costs:
+      61: 3
+
+  - type: item
+    id: 42302 # Design: Flashing Dragon's Eye
+    costs:
+      61: 2
+
+  - type: item
+    id: 41578 # Design: Flashing Scarlet Ruby
+    costs:
+      61: 3
+
+  - type: item
+    id: 41693 # Design: Forceful Forest Emerald
+    costs:
+      61: 3
+
+  - type: item
+    id: 41582 # Design: Glinting Twilight Opal
+    costs:
+      61: 3
+
+  - type: item
+    id: 41708 # Design: Insightful Earthsiege Diamond
+    costs:
+      61: 5
+
+  - type: item
+    id: 41709 # Design: Invigorating Earthsiege Diamond
+    costs:
+      61: 5
+
+  - type: item
+    id: 41702 # Design: Jagged Forest Emerald
+    costs:
+      61: 3
+
+  - type: item
+    id: 41696 # Design: Lightning Forest Emerald
+    costs:
+      61: 3
+
+  - type: item
+    id: 42305 # Design: Mystic Dragon's Eye
+    costs:
+      61: 2
+
+  - type: item
+    id: 41698 # Design: Nimble Forest Emerald
+    costs:
+      61: 3
+
+  - type: item
+    id: 41686 # Design: Potent Monarch Topaz
+    costs:
+      61: 3
+
+  - type: item
+    id: 42306 # Design: Precise Dragon's Eye
+    costs:
+      61: 2
+
+  - type: item
+    id: 41579 # Design: Quick Autumn's Glow
+    costs:
+      61: 3
+
+  - type: item
+    id: 42307 # Design: Quick Dragon's Eye
+    costs:
+      61: 2
+
+  - type: item
+    id: 41690 # Design: Reckless Monarch Topaz
+    costs:
+      61: 3
+
+  - type: item
+    id: 41697 # Design: Regal Forest Emerald
+    costs:
+      61: 3
+
+  - type: item
+    id: 41710 # Design: Relentless Earthsiege Diamond
+    costs:
+      61: 5
+
+  - type: item
+    id: 41707 # Design: Revitalizing Skyflare Diamond
+    costs:
+      61: 5
+
+  - type: item
+    id: 42308 # Design: Rigid Dragon's Eye
+    costs:
+      61: 2
+
+  - type: item
+    id: 41580 # Design: Rigid Sky Sapphire
+    costs:
+      61: 3
+
+  - type: item
+    id: 43317 # Design: Ring of Earthen Might
+    costs:
+      61: 4
+
+  - type: item
+    id: 43320 # Design: Ring of Northern Tears
+    costs:
+      61: 4
+
+  - type: item
+    id: 43318 # Design: Ring of Scarlet Shadows
+    costs:
+      61: 4
+
+  - type: item
+    id: 43497 # Design: Savage Titanium Band
+    costs:
+      61: 4
+
+  - type: item
+    id: 43485 # Design: Savage Titanium Ring
+    costs:
+      61: 4
+
+  - type: item
+    id: 41705 # Design: Shielded Skyflare Diamond
+    costs:
+      61: 5
+
+  - type: item
+    id: 41747 # Design: Shifting Twilight Opal
+    costs:
+      61: 3
+
+  - type: item
+    id: 42310 # Design: Smooth Dragon's Eye
+    costs:
+      61: 2
+
+  - type: item
+    id: 42311 # Design: Solid Dragon's Eye
+    costs:
+      61: 2
+
+  - type: item
+    id: 42138 # Design: Solid Sky Sapphire
+    costs:
+      61: 3
+
+  - type: item
+    id: 42312 # Design: Sparkling Dragon's Eye
+    costs:
+      61: 2
+
+  - type: item
+    id: 41581 # Design: Sparkling Sky Sapphire
+    costs:
+      61: 3
+
+  - type: item
+    id: 42313 # Design: Stormy Dragon's Eye
+    costs:
+      61: 2
+
+  - type: item
+    id: 41719 # Design: Subtle Autumn's Glow
+    costs:
+      61: 3
+
+  - type: item
+    id: 42314 # Design: Subtle Dragon's Eye
+    costs:
+      61: 2
+
+  - type: item
+    id: 41711 # Design: Trenchant Earthsiege Diamond
+    costs:
+      61: 5
+
+  - type: item
+    id: 41688 # Design: Veiled Twilight Opal
+    costs:
+      61: 3
+
+  - type: item
+    id: 43319 # Design: Windfire Band
+    costs:
+      61: 4
+
+  # Uncommon
+  
+  - type: item
+    id: 41565 # Design: Lucent Huge Citrine
+    costs:
+      61: 1
+
+  - type: item
+    id: 41575 # Design: Mysterious Shadow Crystal
+    costs:
+      61: 1
+
+  - type: item
+    id: 41559 # Design: Mystic Sun Crystal
+    costs:
+      61: 1
+
+  - type: item
+    id: 41570 # Design: Radiant Dark Jade
+    costs:
+      61: 1
+
+  - type: item
+    id: 41566 # Design: Resplendent Huge Citrine
+    costs:
+      61: 1
+
+  - type: item
+    id: 41569 # Design: Shattered Dark Jade
+    costs:
+      61: 1
+
+  - type: item
+    id: 41572 # Design: Steady Dark Jade
+    costs:
+      61: 1
+
+  - type: item
+    id: 41560 # Design: Stormy Chalcedony
+    costs:
+      61: 1
+
+  - type: item
+    id: 41571 # Design: Turbid Dark Jade
+    costs:
+      61: 1
+
+  - type: item
+    id: 41563 # Design: Willful Huge Citrine
+    costs:
+      61: 1

@@ -1,0 +1,257 @@
+id: 32515
+name: "Braeg Stoutbeard"
+note: "Fur & Leather Trader"
+
+locations:
+  z2_dalaran:
+    - 37.3 28.7
+
+sets:
+  - name: "Recipes - Leatherworking"
+    range: -1
+    sortKey: "recipes-leatherworking"
+
+sells:
+  # 0
+
+  - type: item
+    id: 44553 # Pattern: Earthgiving Boots
+    costs:
+      1044128: 2
+
+  - type: item
+    id: 44552 # Pattern: Earthgiving Legguards
+    costs:
+      1044128: 2
+
+  - type: item
+    id: 44547 # Pattern: Giantmaim Bracers
+    costs:
+      1044128: 2
+
+  - type: item
+    id: 44546 # Pattern: Giantmaim Legguards
+    costs:
+      1044128: 2
+
+  - type: item
+    id: 44588 # Pattern: Icy Scale Belt
+    costs:
+      1038425: 3
+
+  - type: item
+    id: 44589 # Pattern: Icy Scale Boots
+    costs:
+      1038425: 3
+
+  - type: item
+    id: 44587 # Pattern: Icy Scale Chestguard
+    costs:
+      1038425: 3
+
+  - type: item
+    id: 44586 # Pattern: Polar Boots
+    costs:
+      1038425: 3
+
+  - type: item
+    id: 44585 # Pattern: Polar Cord
+    costs:
+      1038425: 3
+
+  - type: item
+    id: 44584 # Pattern: Polar Vest
+    costs:
+      1038425: 3
+
+  - type: item
+    id: 44548 # Pattern: Revenant's Breastplate
+    costs:
+      1044128: 2
+
+  - type: item
+    id: 44549 # Pattern: Revenant's Treads
+    costs:
+      1044128: 2
+
+  - type: item
+    id: 44551 # Pattern: Trollwoven Girdle
+    costs:
+      1044128: 2
+
+  - type: item
+    id: 44550 # Pattern: Trollwoven Spaulders
+    costs:
+      1044128: 2
+
+  - type: item
+    id: 44932 # Pattern: Windripper Boots
+    costs:
+      1044128: 2
+
+  - type: item
+    id: 44933 # Pattern: Windripper Leggings
+    costs:
+      1044128: 2
+
+  # Rare
+
+  - type: item
+    id: 44516 # Pattern: Eviscerator's Bindings
+    costs:
+      1038425: 3
+
+  - type: item
+    id: 44515 # Pattern: Eviscerator's Chestguard
+    costs:
+      1038425: 3
+
+  - type: item
+    id: 44513 # Pattern: Eviscerator's Facemask
+    costs:
+      1038425: 3
+
+  - type: item
+    id: 44517 # Pattern: Eviscerator's Gauntlets
+    costs:
+      1038425: 3
+
+  - type: item
+    id: 44519 # Pattern: Eviscerator's Legguards
+    costs:
+      1038425: 3
+
+  - type: item
+    id: 44514 # Pattern: Eviscerator's Shoulderpads
+    costs:
+      1038425: 3
+
+  - type: item
+    id: 44520 # Pattern: Eviscerator's Treads
+    costs:
+      1038425: 3
+
+  - type: item
+    id: 44518 # Pattern: Eviscerator's Waistguard
+    costs:
+      1038425: 3
+
+  - type: item
+    id: 44526 # Pattern: Overcast Belt
+    costs:
+      1038425: 3
+
+  - type: item
+    id: 44528 # Pattern: Overcast Boots
+    costs:
+      1038425: 3
+
+  - type: item
+    id: 44524 # Pattern: Overcast Bracers
+    costs:
+      1038425: 3
+
+  - type: item
+    id: 44523 # Pattern: Overcast Chestguard
+    costs:
+      1038425: 3
+
+  - type: item
+    id: 44525 # Pattern: Overcast Handwraps
+    costs:
+      1038425: 3
+
+  - type: item
+    id: 44521 # Pattern: Overcast Headguard
+    costs:
+      1038425: 3
+
+  - type: item
+    id: 44527 # Pattern: Overcast Leggings
+    costs:
+      1038425: 3
+
+  - type: item
+    id: 44522 # Pattern: Overcast Spaulders
+    costs:
+      1038425: 3
+
+  - type: item
+    id: 44543 # Pattern: Stormhide Belt
+    costs:
+      1038425: 3
+
+  - type: item
+    id: 44538 # Pattern: Stormhide Crown
+    costs:
+      1038425: 3
+
+  - type: item
+    id: 44542 # Pattern: Stormhide Grips
+    costs:
+      1038425: 3
+
+  - type: item
+    id: 44540 # Pattern: Stormhide Hauberk
+    costs:
+      1038425: 3
+
+  - type: item
+    id: 44544 # Pattern: Stormhide Legguards
+    costs:
+      1038425: 3
+
+  - type: item
+    id: 44539 # Pattern: Stormhide Shoulders
+    costs:
+      1038425: 3
+
+  - type: item
+    id: 44545 # Pattern: Stormhide Stompers
+    costs:
+      1038425: 3
+
+  - type: item
+    id: 44541 # Pattern: Stormhide Wristguards
+    costs:
+      1038425: 3
+
+  - type: item
+    id: 44535 # Pattern: Swiftarrow Belt
+    costs:
+      1038425: 3
+
+  - type: item
+    id: 44537 # Pattern: Swiftarrow Boots
+    costs:
+      1038425: 3
+
+  - type: item
+    id: 44533 # Pattern: Swiftarrow Bracers
+    costs:
+      1038425: 3
+
+  - type: item
+    id: 44534 # Pattern: Swiftarrow Gauntlets
+    costs:
+      1038425: 3
+
+  - type: item
+    id: 44532 # Pattern: Swiftarrow Hauberk
+    costs:
+      1038425: 3
+
+  - type: item
+    id: 44530 # Pattern: Swiftarrow Helm
+    costs:
+      1038425: 3
+
+  - type: item
+    id: 44536 # Pattern: Swiftarrow Leggings
+    costs:
+      1038425: 3
+
+  - type: item
+    id: 44531 # Pattern: Swiftarrow Shoulderguards
+    costs:
+      1038425: 3

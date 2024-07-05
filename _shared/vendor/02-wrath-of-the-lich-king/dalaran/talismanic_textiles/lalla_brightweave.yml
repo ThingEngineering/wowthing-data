@@ -1,0 +1,41 @@
+id: 29511
+name: "Lalla Brightweave"
+note: "Spellfire Tailoring Specialist"
+
+locations:
+  z2_dalaran:
+    - 36.6 32.5
+
+sets:
+  - name: "Recipes - Tailoring"
+    range: -1
+    sortKey: "recipes-tailoring"
+
+sells:
+  # 0
+
+  - type: item
+    id: 21911 # Pattern: Spellfire Bag
+    costs:
+      0: 4 # Gold
+
+  - type: item
+    id: 21908 # Pattern: Spellfire Belt
+    costs:
+      0: 4 # Gold
+
+  - type: item
+    id: 21909 # Pattern: Spellfire Gloves
+    costs:
+      0: 6 # Gold
+
+  - type: item
+    id: 21910 # Pattern: Spellfire Robe
+    costs:
+      0: 4 # Gold
+
+
+  - type: item
+    id: 24316 # Pattern: Spellcloth
+    costs:
+      0: 3 # Gold

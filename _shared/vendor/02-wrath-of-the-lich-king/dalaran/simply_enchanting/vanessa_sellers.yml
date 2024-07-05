@@ -1,0 +1,137 @@
+id: 32514
+name: "Vanessa Sellers"
+note: "Shard Trader"
+
+locations:
+  z2_dalaran:
+    - 38.4 41.0
+
+sets:
+  - name: "Recipes - Enchanting"
+    range: -1
+    sortKey: "recipes-enchanting"
+
+sells:
+  # Rare
+
+  - type: item
+    id: 44944 # Formula: Enchant Bracer - Major Stamina
+    costs:
+      1034057: 5
+
+  - type: item
+    id: 44483 # Formula: Enchant 2H Weapon - Massacre
+    costs:
+      1034052: 10
+
+  - type: item
+    id: 45059 # Formula: Enchant Staff - Greater Spellpower
+    costs:
+      1034052: 10
+
+  - type: item
+    id: 44496 # Formula: Enchant Weapon - Accuracy
+    costs:
+      1034052: 10
+
+  - type: item
+    id: 44492 # Formula: Enchant Weapon - Berserking
+    costs:
+      1034052: 10
+
+  - type: item
+    id: 44495 # Formula: Enchant Weapon - Black Magic
+    costs:
+      1034052: 10
+
+  - type: item
+    id: 37339 # Formula: Enchant Weapon - Giant Slayer
+    costs:
+      1034052: 10
+
+  - type: item
+    id: 37344 # Formula: Enchant Weapon - Icebreaker
+    costs:
+      1034052: 10
+
+  - type: item
+    id: 44494 # Formula: Enchant Weapon - Lifeward
+    costs:
+      1034052: 10
+
+  - type: item
+    id: 44487 # Formula: Enchant Weapon - Mighty Spellpower
+    costs:
+      1034052: 10
+
+  - type: item
+    id: 44473 # Formula: Enchant Weapon - Scourgebane
+    costs:
+      1034052: 10
+
+  - type: item
+    id: 44486 # Formula: Enchant Weapon - Superior Potency
+    costs:
+      1034052: 10
+
+  # Uncommon
+
+  - type: item
+    id: 44490 # Formula: Enchant Boots - Greater Assault
+    costs:
+      1034052: 4
+
+  - type: item
+    id: 44491 # Formula: Enchant Boots - Tuskarr's Vitality
+    costs:
+      1034052: 4
+
+  - type: item
+    id: 44484 # Formula: Enchant Bracer - Greater Assault
+    costs:
+      1034052: 4
+
+  - type: item
+    id: 44498 # Formula: Enchant Bracer - Superior Spellpower
+    costs:
+      1034052: 4
+
+  - type: item
+    id: 37340 # Formula: Enchant Chest - Exceptional Resilience
+    costs:
+      1034052: 4
+
+  - type: item
+    id: 44489 # Formula: Enchant Chest - Powerful Stats
+    costs:
+      1034052: 4
+
+  - type: item
+    id: 44472 # Formula: Enchant Cloak - Greater Speed
+    costs:
+      1034052: 4
+
+  - type: item
+    id: 44471 # Formula: Enchant Cloak - Mighty Stamina
+    costs:
+      1034052: 4
+
+  - type: item
+    id: 37349 # Formula: Enchant Cloak - Shadow Armor
+    costs:
+      1034052: 4
+
+  - type: item
+    id: 37347 # Formula: Enchant Cloak - Superior Dodge
+    costs:
+      1034052: 4
+
+  - type: item
+    id: 44488 # Formula: Enchant Cloak - Wisdom
+    costs:
+      1034052: 4
+
+  - type: item
+    id: 44485 # Formula: Enchant Gloves - Armsman
+    costs:
+      1034052: 4
