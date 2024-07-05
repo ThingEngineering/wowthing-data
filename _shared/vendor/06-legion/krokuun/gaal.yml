@@ -1,0 +1,73 @@
+id: 125246
+name: "Gaal"
+note: "Blacksmith"
+
+locations:
+  z6_krokuun:
+    - 56.8 68.4
+
+sells:
+  # 0
+
+  - type: item
+    id: 206195 # Path of the Naaru [toy]
+    costs:
+      1508: 900
+      1151567: 90
+      1151564: 90
+
+  - type: item
+    id: 208688 # Telaasti Mining Pick [1h ? axe]
+    costs:
+      1508: 90
+      1151564: 75
+      1151722: 5
+
+  - type: item
+    id: 208683 # Arinor Ritual Baton [1h ? mace]
+    costs:
+      1508: 90
+      1151565: 50
+      1151566: 40
+
+  - type: item
+    id: 208677 # Eredath Crystal Hammer [1h ? mace]
+    costs:
+      1508: 90
+      1151567: 75
+      1151718: 15
+
+  - type: item
+    id: 208686 # Velenite Claymore [2h ? sword]
+    costs:
+      1508: 90
+      1151564: 100
+      1151718: 5
+
+  - type: item
+    id: 208685 # Recovered Kaarinos Blade [1h ? sword]
+    costs:
+      1508: 90
+      1151564: 50
+      1151579: 15
+
+  - type: item
+    id: 208684 # Anchorite's Sorrow [? dagger]
+    costs:
+      1508: 90
+      1151565: 40
+      1151579: 5
+
+  - type: item
+    id: 208755 # Ancient Soulpriest's Staff [staff]
+    costs:
+      1508: 90
+      1151567: 75
+      1151718: 15
+
+  - type: item
+    id: 208662 # Lightforged Seeker [bow]
+    costs:
+      1508: 90
+      1151564: 50
+      1151566: 30

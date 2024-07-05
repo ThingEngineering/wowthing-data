@@ -1,66 +1,101 @@
 id: 127151
 name: "Toraan the Revered"
+note: "Argussian Reach Emissary"
+
 locations:
-  z6_vindicaar:
+ z6_vindicaar:
     - 68.0 56.9
+
 sells:
-  - type: mount
-    id: 964 # Amethyst Ruinstrider
-    costs:
-      0: 10000 # Gold
-    reputation: 2170 exalted # Argussian Reach
+  # 0
 
-  - type: mount
-    id: 966 # Beryl Ruinstrider
+  - type: item
+    id: 152794 # Reins of the Amethyst Ruinstrider
     costs:
-      0: 10000 # Gold
-    reputation: 2170 exalted # Argussian Reach
+      0: 9500 # Gold
+    reputation: 2170 exalted
 
-  - type: mount
-    id: 965 # Cerulean Ruinstrider
+  - type: item
+    id: 152795 # Reins of the Beryl Ruinstrider
     costs:
-      0: 10000 # Gold
-    reputation: 2170 exalted # Argussian Reach
+      0: 9500 # Gold
+    reputation: 2170 exalted
 
-  - type: mount
-    id: 968 # Russet Ruinstrider
+  - type: item
+    id: 152797 # Reins of the Cerulean Ruinstrider
     costs:
-      0: 10000 # Gold
-    reputation: 2170 exalted # Argussian Reach
+      0: 9500 # Gold
+    reputation: 2170 exalted
 
-  - type: mount
-    id: 939 # Sable Ruinstrider
+  - type: item
+    id: 152793 # Reins of the Russet Ruinstrider
     costs:
-      0: 10000 # Gold
-    reputation: 2170 exalted # Argussian Reach
+      0: 9500 # Gold
+    reputation: 2170 exalted
 
-  - type: mount
-    id: 967 # Umber Ruinstrider
+  - type: item
+    id: 152791 # Reins of the Sable Ruinstrider
     costs:
-      0: 10000 # Gold
-    reputation: 2170 exalted # Argussian Reach
+      0: 9500 # Gold
+    reputation: 2170 exalted
 
-  - type: pet
-    id: 2116 # Orphaned Marsuul
+  - type: item
+    id: 152796 # Reins of the Umber Ruinstrider
     costs:
-      0: 500 # Gold
-    reputation: 2170 honored # Argussian Reach
+      0: 9500 # Gold
+    reputation: 2170 exalted
 
-  - type: toy
+  - type: item
+    id: 152669 # Argussian Reach Tabard [tabard]
+    costs:
+      0: 285 # Gold
+    reputation: 2170 exalted
+
+  - type: item
+    id: 151708 # Recipe: Astral Alchemist Stone
+    costs:
+      0: 2850 # Gold
+    reputation: 2170 exalted
+
+  - type: item
+    id: 152618 # Recipe: Astral Healing Potion
+    costs:
+      0: 2850 # Gold
+    reputation: 2170 exalted
+
+  - type: item
+    id: 151707 # Recipe: Astral Alchemist Stone
+    costs:
+      0: 1900 # Gold
+    reputation: 2170 revered
+
+  - type: item
     id: 153039 # Crystalline Campfire
     costs:
-      0: 75 # Gold
-    reputation: 2170 honored # Argussian Reach
+      0: 71 # Gold
+    reputation: 2170 honored
 
-  - type: transmog
-    id: 152399 # Argussian Reach Tabard [tabard]
+  - type: item
+    id: 153027 # Orphaned Marsuul
     costs:
-      0: 300 # Gold
-    reputation: 2170 exalted # Argussian Reach
+      0: 475 # Gold
+    reputation: 2170 honored
 
-  # Doesn't unlock appearance
-  # - type: transmog
-  #   id: 153290 # Krokuul Mining Pick [1h str axe]
-  #   costs:
-  #     0: 200 # Gold
-  #   reputation: 2165 honored # Army of the Light
+  - type: item
+    id: 153290 # Krokul Mining Pick
+    costs:
+      0: 190 # Gold
+    reputation: 2170 honored
+
+  - type: item
+    id: 152658 # Formula: Chaos Shatter
+    costs:
+      0: 16 # Gold
+    reputation: 2170 friendly
+
+  - type: item
+    id: 152725 # Technique: Mass Mill Astral Glory
+    costs:
+      0: 16 # Gold
+    reputation: 2170 friendly
+

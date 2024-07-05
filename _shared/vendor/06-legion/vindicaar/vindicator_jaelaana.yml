@@ -1,23 +1,88 @@
 id: 127120
 name: "Vindicator Jaelaana"
+note: "Army of the Light Emissary"
+
 locations:
-  z6_vindicaar:
+ z6_vindicaar:
     - 43.3 73.9
+
 sells:
-  - type: mount
-    id: 932 # Lightforged Warframe
+  # 0
+
+  - type: item
+    id: 152788 # Lightforged Warframe
     costs:
       0: 500000 # Gold
-    reputation: 2165 exalted # Army of the Light
+    reputation: 2165 exalted
 
-  - type: transmog
+  - type: item
     id: 152399 # Army of the Light Tabard [tabard]
     costs:
-      0: 300 # Gold
-    reputation: 2165 exalted # Army of the Light
+      0: 240 # Gold
+    reputation: 2165 exalted
 
-  - type: transmog
+  - type: item
+    id: 151741 # Pattern: Fiendish Shoulderguards
+    costs:
+      0: 1600 # Gold
+    reputation: 2165 revered
+
+  - type: item
+    id: 151744 # Pattern: Fiendish Spaulders
+    costs:
+      0: 1600 # Gold
+    reputation: 2165 revered
+
+  - type: item
+    id: 151747 # Pattern: Lightweave Breeches
+    costs:
+      0: 1600 # Gold
+    reputation: 2165 revered
+
+  - type: item
+    id: 151712 # Plans: Empyrial Breastplate
+    costs:
+      0: 1600 # Gold
+    reputation: 2165 revered
+
+  - type: item
+    id: 151725 # Design: Empyrial Cosmic Crown
+    costs:
+      0: 1600 # Gold
+    reputation: 2165 revered
+
+  - type: item
+    id: 151728 # Design: Empyrial Deep Crown
+    costs:
+      0: 1600 # Gold
+    reputation: 2165 revered
+
+  - type: item
+    id: 151731 # Design: Empyrial Elemental Crown
+    costs:
+      0: 1600 # Gold
+    reputation: 2165 revered
+
+  - type: item
+    id: 151734 # Design: Empyrial Titan Crown
+    costs:
+      0: 1600 # Gold
+    reputation: 2165 revered
+
+  - type: item
     id: 152400 # Embroidered Lightforged Drape [cloak]
     costs:
       0: 400 # Gold
-    reputation: 2165 honored # Army of the Light
+    reputation: 2165 honored
+
+  - type: item
+    id: 152726 # Design: Mass Prospect Empyrium
+    costs:
+      0: 9 # Gold
+    reputation: 2165 friendly
+
+  - type: item
+    id: 153032 # Technique: Glyph of the Lightspawn
+    costs:
+      0: 100 # Gold
+    reputation: 2165 friendly
