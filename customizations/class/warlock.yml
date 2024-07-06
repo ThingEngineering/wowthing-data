@@ -1,0 +1,65 @@
+name: "Warlock"
+groups:
+
+- name: "AUTO"
+  things:
+    # Abyssal
+    - itemId: 139314 # Grimoire of the Abyssal
+
+    # Ancient Observer
+    - itemId: 212750 # Grimoire of teh Ancient Observer
+
+    # Darkglare
+    - itemId: 213016 # Grimoire of the Abyssal Darkglare
+    - itemId: 213015 # Grimoire of the Eredathian Darkglare
+    - itemId: 213017 # Grimoire of the Riftsmolder Darkglare
+    - itemId: 213014 # Grimoire of the Xorothian Darkglare
+
+    # Demonic Tyrant
+    - itemId: 212779 # Grimoire of the Bloodrage Tyrant
+    - itemId: 212780 # Grimoire of the Felbrute Tyrant
+    - itemId: 212783 # Grimoire of the Netherwalk Tyrant
+    - itemId: 212778 # Grimoire of the Vile Tyrant
+
+    # Dreadhound
+    - itemId: 208050 # Grimoire of the Xorothian Felhunter
+    - itemId: 208048 # Ritual of the Voidmaw Felhunter
+
+    # Felhunter
+    - itemId: 208051 # Grimoire of the Antoran Felhunter
+    - itemId: 208052 # Grimoire of the Voracious Felmaw
+
+    # Fel Imp
+    - itemId: 129018 # Grimoire of the Fel Imp
+    - itemId: 207111 # Grimoire of the Hellfire Fel Imp
+    - itemId: 207113 # Grimoire of the Trickster Fel Imp
+    - itemId: 207112 # Grimoire of the Void-Touched Fel Imp
+
+    # Imp
+    - itemId: 207178 # Grimoire of the Darkfire Imp
+    - itemId: 207295 # Grimoire of the Dreadfire Imp
+    - itemId: 207297 # Grimoire of the Felblaze Imp
+    - itemId: 207294 # Grimoire of the Felfrost Imp
+    - itemId: 207114 # Grimoire of the Fiendish Imp
+    - itemId: 207296 # Grimoire of the Netherbound Imp
+
+    # Observer
+    - itemId: 212983 # Grimoire of the Blasted Observer
+    - itemId: 212991 # Grimoire of the Dire Observer
+    - itemId: 212989 # Grimoire of the Mana-Gorged Observer
+    - itemId: 212993 # Grimoire of the Plagued Observer
+    - itemId: 212995 # Grimoire of the Whispering Observer
+    - itemId: 212984 # Grimoire of the Zealous Observer
+
+    # Sayaad
+    - itemId: 147119 # Grimoire of the Shadow Succubus
+    - itemId: 147117 # Orb of the Fel Temptress
+
+    # Shivarra
+    - itemId: 139310 # Grimoire of the Shivarra
+
+    # Void Lord
+    - itemId: 139311 # Grimoire of the Voidlord
+
+    # Wrathguard
+    - itemId: 139315 # Grimoire of the Wrathguard

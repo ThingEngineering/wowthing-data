@@ -1,7 +1,7 @@
-name: 'Druid'
+name: "Druid"
 groups:
 
-- name: 'AUTO'
+- name: "AUTO"
   things:
     # Bear/Bristlebruin
     - itemId: 210727 # Pollenfused Bristlebruin Fur Sample (Ash)
