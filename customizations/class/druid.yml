@@ -22,7 +22,8 @@ groups:
     - itemId: 210650 # Mark of the Keen-Eyed Dreamsaber (Purple)
 
     # Cat/Fiery?
-    # - itemId: 94604 # Burning Seed - achievement 19451
+    - itemId: 69897 # Fandral's Flamescythe
+      achievementId: 19451
 
     # Moonkin
     - itemId: 211280 # Feather of the Smoke Red Moon (Fire Moonkin)
@@ -52,7 +53,7 @@ groups:
     - itemId: 140630 # Glyph of the Doe
     - itemId: 187934 # Mark of the Midnight Runestag
     - itemId: 187884 # Mark of the Twilight Runestag
-    - itemId: 136789 # Tome of the Wilds: Mount Form
+    # - itemId: 136789 # Tome of the Wilds: Mount Form -- hard to track
 
     # Travel/Ground/Dreamtalon
     - itemId: 210674 # Mark of the Sable Dreamtalon (Black/Purple)
@@ -70,4 +71,4 @@ groups:
     - questId: 46319 # You Can't Take the Sky from Me (Lunarwing)
 
     # Treant
-    - itemId: 136787 # Tome of the Wilds: Treant Form
+    #- itemId: 136787 # Tome of the Wilds: Treant Form -- hard to track
