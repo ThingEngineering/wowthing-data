@@ -24,7 +24,7 @@ groups:
       - itemId: 210536 # Renewed Proto-Drake: Embodiment of the Blazing
       - itemId: 210537 # Renewed Proto-Drake: Embodiment of Shadowflame
       - itemId: 201790 # Renewed Proto-Drake: Embodiment of the Storm-Eater
-      - itemId: 197355 # Renewed Proto-Drake: Finned Back
+      # - itemId: 197355 # Renewed Proto-Drake: Finned Back
       - itemId: 197365 # Renewed Proto-Drake: Finned Crest
       - itemId: 197388 # Renewed Proto-Drake: Finned Jaw
       - itemId: 197404 # Renewed Proto-Drake: Finned Tail
@@ -73,7 +73,7 @@ groups:
       - itemId: 202273 # Renewed Proto-Drake: Stubby Snout
       - itemId: 197378 # Renewed Proto-Drake: Subtle Horns
       - itemId: 197374 # Renewed Proto-Drake: Swept Horns
-      - itemId: 197384 # Renewed Proto-Drake: Thick Spined Jaw
+      - itemId: 197355 # Renewed Proto-Drake: Thick Spined Jaw
       - itemId: 197387 # Renewed Proto-Drake: Thin Spined Jaw
       - itemId: 208104 # Renewed Proto-Drake: Visage of the Infinite
       - itemId: 197382 # Renewed Proto-Drake: White Horns
