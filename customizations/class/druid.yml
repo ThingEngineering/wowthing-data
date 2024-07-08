@@ -43,6 +43,9 @@ groups:
     - itemId: 187936 # Mark of the Sable Ardenmoth
     - itemId: 187888 # Mark of the Shimmering Ardenmoth
 
+    - name: "Mark of the Nightwing Raven"
+      achievementId: 15230
+
     # Travel/Flight/Somnowl
     - itemId: 210754 # Feather of the Blazing Somnowl (Anu'relos, Flames Guidance)
     - itemId: 210645 # Feather of Friends
