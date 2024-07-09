@@ -1,5 +1,4 @@
 name: Rise of Azshara (8.2)
-#requiredQuestId: 47189 52131 # A Nation Divided / We Need Each Other
 groups:
 
 - name: "Mechagon Storyline"
