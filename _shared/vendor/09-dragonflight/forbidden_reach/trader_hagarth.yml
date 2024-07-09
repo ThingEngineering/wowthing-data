@@ -1,0 +1,56 @@
+id: 202445
+name: "Trader Hag'arth"
+note: "Artisan's Consortium Quartermaster"
+zoneMapsGroupId: 2
+
+locations:
+  09-dragonflight/forbidden_reach:
+    - 35.8 57.4
+
+sells:
+  # 0
+
+  - type: item
+    id: 203420 # Recipe: Draconic Suppression Powder
+    costs:
+      1190456: 10
+
+  - type: item
+    id: 203421 # Plans: Ancient Ceremonial Trident
+    costs:
+      1190456: 10
+
+  - type: item
+    id: 203422 # Recipe: Sparkling Spice Pouch
+    costs:
+      1190456: 10
+
+  - type: item
+    id: 203423 # Formula: Glowing Crystal Bookmark
+    costs:
+      1190456: 10
+
+  - type: item
+    id: 203424 # Schematic: Gnomish Voicebox
+    costs:
+      1190456: 10
+
+  - type: item
+    id: 203425 # Technique: Arcane Dispelling Rune
+    costs:
+      1190456: 10
+
+  - type: item
+    id: 203426 # Design: Crystal Tuning Fork
+    costs:
+      1190456: 10
+
+  - type: item
+    id: 203427 # Pattern: Reinforced Pristine Leather
+    costs:
+      1190456: 10
+
+  - type: item
+    id: 203428 # Pattern: Traditional Morqut Kite
+    costs:
+      1190456: 10

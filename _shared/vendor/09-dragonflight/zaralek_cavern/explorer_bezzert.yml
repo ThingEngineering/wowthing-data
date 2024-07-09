@@ -1,0 +1,45 @@
+id: 201004
+name: "Explorer Bezzert"
+note: "Intrepid Pet Trainer"
+
+locations:
+  09-dragonflight/zaralek_cavern:
+    - 52.4 66
+
+sells:
+  # 0
+
+  - type: item
+    id: 192459 # Jean's Lucky Fish
+    costs:
+      1163036: 300
+
+  - type: item
+    id: 205052 # Miloh
+    costs:
+      1163036: 2500
+
+  - type: item
+    id: 200927 # Petal
+    costs:
+      1163036: 100
+
+  - type: item
+    id: 201703 # Pinkie
+    costs:
+      1163036: 500
+
+  - type: item
+    id: 193071 # Pistachio
+    costs:
+      1163036: 50
+
+  - type: item
+    id: 201441 # Scout
+    costs:
+      1163036: 5000
+
+  - type: item
+    id: 201707 # Troubled Tome
+    costs:
+      1163036: 200

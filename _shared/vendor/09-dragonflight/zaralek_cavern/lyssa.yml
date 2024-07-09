@@ -1,0 +1,16 @@
+id: 204860
+name: "Lyssa"
+note: "Food and Drink"
+zoneMapsGroupId: 1
+
+locations:
+  09-dragonflight/zaralek_cavern:
+    - 56.8 56.4
+
+sells:
+  # 0
+
+  - type: item
+    id: 205936 # New Niffen No-Sniffin' Tonic
+    costs:
+      0: 1 # Gold

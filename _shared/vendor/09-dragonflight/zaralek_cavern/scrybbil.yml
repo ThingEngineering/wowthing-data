@@ -1,0 +1,26 @@
+id: 203610
+name: "Scrybbil"
+note: "Engineer"
+zoneMapsGroupId: 1
+
+locations:
+  09-dragonflight/zaralek_cavern:
+    - 55.8 55.8
+
+sells:
+  # 0
+
+  - type: item
+    id: 205954 # Three-Dimensional Compass
+    costs:
+      0: 526 # Gold
+
+  - type: item
+    id: 205178 # Schematic: Mallard Mortar
+    costs:
+      1205453: 1
+
+  - type: item
+    id: 204844 # Schematic: Polarity Bomb
+    costs:
+      1205452: 1

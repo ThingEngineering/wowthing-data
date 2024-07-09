@@ -1,0 +1,26 @@
+id: 203172
+name: "Dustmonger Topuiz"
+note: "Enchanter"
+zoneMapsGroupId: 1
+
+locations:
+  09-dragonflight/zaralek_cavern:
+    - 56 56.8
+
+sells:
+  # 0
+
+  - type: item
+    id: 204977 # Formula: Illusory Adornment: Spores
+    costs:
+      1205453: 1
+
+  - type: item
+    id: 204978 # Formula: Enchant Weapon - Spore Tender
+    costs:
+      1205452: 1
+
+  - type: item
+    id: 204976 # Formula: Spore Keeper's Baton
+    costs:
+      1205452: 1

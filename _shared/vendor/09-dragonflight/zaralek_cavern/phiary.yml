@@ -1,0 +1,17 @@
+id: 203609
+name: "Phiary"
+note: "Cook"
+zoneMapsGroupId: 1
+
+locations:
+  09-dragonflight/zaralek_cavern:
+    - 56.8 56.2
+
+sells:
+  # 0
+
+  - type: item
+    id: 198105 # Recipe: Celebratory Cake
+    costs:
+      0: 210 # Gold
+

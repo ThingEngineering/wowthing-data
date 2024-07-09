@@ -1,0 +1,26 @@
+id: 203612
+name: "Fanilly"
+note: "Jewelcrafter"
+zoneMapsGroupId: 1
+
+locations:
+  09-dragonflight/zaralek_cavern:
+    - 56.6 55.2
+
+sells:
+  # 0
+
+  - type: item
+    id: 205174 # Design: B.B.F. Fist
+    costs:
+      1205453: 1
+
+  - type: item
+    id: 205176 # Design: Figurine of the Gathering Storm
+    costs:
+      1205452: 1
+
+  - type: item
+    id: 205175 # Design: Statuette of Foreseen Power
+    costs:
+      1205452: 1

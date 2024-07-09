@@ -1,6 +1,7 @@
 id: 200559
 name: "Treysh"
 note: "Quartermaster"
+zoneMapsGroupId: 2
 
 locations:
   09-dragonflight/forbidden_reach:

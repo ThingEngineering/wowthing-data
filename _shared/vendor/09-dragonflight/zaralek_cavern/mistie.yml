@@ -1,0 +1,21 @@
+id: 203607
+name: "Mistie"
+note: "Alchemist"
+zoneMapsGroupId: 1
+
+locations:
+  09-dragonflight/zaralek_cavern:
+    - 56 56.4
+
+sells:
+  # 0
+
+  - type: item
+    id: 204984 # Recipe: Stinky Bright Potion
+    costs:
+      1205453: 1
+
+  - type: item
+    id: 204631 # Recipe: Transmute: Dracothyst
+    costs:
+      1205452: 1

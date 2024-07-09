@@ -1,0 +1,14 @@
+id: 200293
+name: "Chef Butterfingers"
+
+locations:
+  09-dragonflight/zaralek_cavern:
+    - 40.2 68.4
+
+sells:
+  # 0
+
+  - type: item
+    id: 198105 # Recipe: Celebratory Cake
+    costs:
+      0: 210 # Gold

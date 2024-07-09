@@ -1,0 +1,21 @@
+id: 203608
+name: "Rossmar"
+note: "Tailor"
+zoneMapsGroupId: 1
+
+locations:
+  09-dragonflight/zaralek_cavern:
+    - 56 56.6
+
+sells:
+  # 0
+
+  - type: item
+    id: 205138 # Pattern: Medical Wrap Kit
+    costs:
+      1205453: 1
+
+  - type: item
+    id: 205139 # Pattern: Reserve Parachute
+    costs:
+      1205453: 1

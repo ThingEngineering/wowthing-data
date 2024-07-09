@@ -1,6 +1,7 @@
 id: 200562
 name: "Turik"
 note: "Renown Envoy"
+zoneMapsGroupId: 2
 
 locations:
   09-dragonflight/forbidden_reach:

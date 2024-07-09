@@ -1,0 +1,38 @@
+id: 212903
+name: "Thaelishar Groveheart"
+note: "Fauna Specialist"
+
+locations:
+  09-dragonflight/emerald_dream:
+    - 60.2 17
+
+sells:
+  # Druid
+
+  - type: item
+    id: 210669 # Mark of the Evergreen Dreamsaber
+    limit: class druid
+    note: "Buy {item:210755} and do the thing"
+    costs:
+      0: 500 # Gold
+
+  - type: item
+    id: 210731 # Mark of the Lush Dreamstag
+    limit: class druid
+    note: "Buy {item:210767} and do the thing"
+    costs:
+      0: 500 # Gold
+
+  - type: item
+    id: 210684 # Mark of the Thriving Dreamtalon
+    limit: class druid
+    note: "Buy {item:210764} and do the thing"
+    costs:
+      0: 500 # Gold
+
+  - type: item
+    id: 210738 # Mark of the Loamy Umbraclaw
+    limit: class druid
+    note: "Buy {item:210766} and do the thing"
+    costs:
+      0: 500 # Gold
