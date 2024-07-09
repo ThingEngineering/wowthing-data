@@ -137,12 +137,13 @@ farms:
     - type: transmog
       id: 208388 # Leafster's Magic Wand [wand]
 
-- name: "Greedy Gessie"
-  location: 54.0 41.4
-  npcId: 209936
-  questId: 77982
-  type: kill
-  drops:
+# - name: "Greedy Gessie"
+#   location: 54.0 41.4
+#   npcId: 209936
+#   questId: 77982
+#   type: kill
+#   drops:
+
 - name: "Henri Snufftail"
   location: 47.1 29.7
   npcId: 210075
@@ -308,7 +309,7 @@ farms:
   type: kill
   drops:
     - type: item
-      id: 210674 # Mark of the Sable Dreamtalon (CI!)
+      id: 210674 # Mark of the Sable Dreamtalon
       limit: class druid
 
     - type: transmog
@@ -412,6 +413,16 @@ farms:
     - type: toy
       id: 210411 # Fast Growing Seed
 
+- name: "{item:210727}"
+  location: 63.7 39.2
+  objectId: 411778
+  reset: never
+  type: treasure
+  drops:
+    - type: item
+      id: 210727 # Pollenfused Bristlebruin Fur Sample
+      limit: class druid
+
 - name: "Reliquary of Ashamane"
   groupId: 2
   location: 63.4 72.9
@@ -453,6 +464,17 @@ farms:
     - type: transmog
       id: 210434 # Visage of Ursoc [cosmetic head]
 
+- name: "{item:210991}" # Small Box of Vials
+  location: 54.9 25.4
+  objectId: 412995
+  reset: never
+  type: treasure
+  drops:
+    - type: item
+      id: 210728 # Moon-Blessed Claw
+      note: "Take the {item:210991} items to various places and fill them up"
+      limit: class druid
+
 - name: "Unwaking Echo"
   location: 69.6 52.8
   note: "Use /sleep"
@@ -485,6 +507,16 @@ farms:
   drops:
     - type: transmog
       id: 210682 # Camper's Knife [cosmetic dagger]
+
+- name: "{item:210552}" # Wolf Cowl
+  location: 32.9 83.1
+  questId: 78477
+  reset: never
+  type: treasure
+  drops:
+    - type: transmog
+      id: 210552 # Wolf Cowl [cosmetic head]
+      limit: race orc maghar-orc
 
 # Profession Treasure
 
@@ -985,6 +1017,33 @@ farms:
     - type: item
       id: 210491 # Technique: Winding Slitherdrake: Hairy Chin
       limit: profession inscription 2828 25
+
+- name: "Somnuts"
+  groupId: 6
+  location: 0 0
+  reset: none
+  type: treasure
+  drops:
+    - type: item
+      id: 203315 # Winding Slitherdrake: Small Spiked Crest
+
+    - type: item
+      id: 203332 # Winding Slitherdrake: Spiked Horns
+
+    - type: item
+      id: 203357 # Winding Slitherdrake: Spiked Tail
+
+    - type: item
+      id: 210171 # Formula: Enchanted Aspect's Dreaming Crest
+      limit: profession enchanting 2825 50
+
+    - type: item
+      id: 210172 # Formula: Enchanted Wyrm's Dreaming Crest
+      limit: profession enchanting 2825 45
+
+    - type: item
+      id: 210173 # Formula: Enchanted Whelpling's Dreaming Crest
+      limit: profession enchanting 2825 35
 
 - name: "Weekly Cloth"
   groupId: 6
