@@ -2,3 +2,123 @@ name: "Forbidden Reach"
 mapName: "09-dragonflight/forbidden_reach"
 minimumLevel: 60
 farms:
+
+# Groups
+
+- name: "War Creche"
+  groupId: 1
+  location: 51.9 59.4
+  type: group
+
+- name: "Town"
+  groupId: 2
+  location: 34 58
+  type: group
+
+# Kills
+
+- name: "Amephyst"
+  location: 31.0 60.0
+  note: "Summon with {item:203413}" # Crystal Tuning Fork
+  npcId: 200743
+  questId: 73168
+  type: kill
+  drops:
+    - type: item
+      id: 204219 # Design: Unstable Elementium
+      limit: profession jewelcrafting 2829 50
+
+- name: "Bonesifter Marwak"
+  location: 41.9 57.1
+  npcId: 200681
+  questId: 73150
+  type: kill
+  drops:
+    - type: item
+      id: 193374 # Ashenwing [pet]
+
+- name: "Lady Shaz'ra"
+  location: 59.8 58.8
+  npcId: 200885
+  questId: 73222
+  type: kill
+  drops:
+    - type: item
+      id: 197628 # Windborne Velocidrake: Plated Neck
+
+- name: "Loot Specialist"
+  location: 12 14
+  note: "Spawns all over the place"
+  npcId: 203353
+  type: kill
+  drops:
+    - type: item
+      id: 197000 # Cliffside Wylderdrake: Coiled Horns
+
+- name: "Luttrok"
+  location: 56.0 51.6
+  note: "Summon with {item:203409}" # Sparkling Spice Pouch
+  npcId: 200742
+  questId: 73167
+  type: kill
+  drops:
+    - type: item
+      id: 193235 # Luvvy [pet]
+
+- name: "Ookbeard"
+  location: 36.8 12.2
+  npcId: 200956
+  questId: 73366
+  type: kill
+  drops:
+    - type: item
+      id: 197636 # Windborne Velocidrake: Shrieker Pattern
+
+- name: "Pyrachniss"
+  groupId: 1 # War Creche
+  location: 0 0
+  note: "Jump down to the lava inside the War Creche"
+  npcId: 200978
+  questId: 73385
+  type: kill
+  drops:
+    - type: item
+      id: 197590 # Windborne Velocidrake: Small Head Fin
+
+- name: "Volcanakk"
+  location: 78.51 49.61
+  npcId: 200911
+  questId: 73225
+  type: kill
+  drops:
+    - type: item
+      id: 197617 # Windborne Velocidrake: Heavy Scales
+
+- name: "Vraken the Hunter"
+  location: 59.9 42.9
+  npcId: 200584
+  questId: 73111
+  type: kill
+  drops:
+    - type: item
+      id: 193364 # Scruffles [pet]
+
+- name: "Warden Entrix"
+  groupId: 1 # War Creche
+  location: 0 0
+  note: "Deep inside the War Creche"
+  npcId: 200960
+  questId: 73367
+  type: kill
+  drops:
+    - type: item
+      id: 191930 # Wakyn [pet]
+
+- name: "Wyrmslayer Angvardi"
+  location: 63.6 25.5
+  npcId: 201013
+  questId: 73409
+  type: kill
+  drops:
+    - type: item
+      id: 197609 # Windborne Velocidrake: White Horns
