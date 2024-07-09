@@ -10,6 +10,11 @@ farms:
   location: 57 55
   type: group
 
+- name: "Zone Wide"
+  groupId: 2
+  location: 70.0 65.0
+  type: group
+
 # Kills
 
 - name: "Alcanon"
@@ -18,26 +23,6 @@ farms:
   questId: 75284
   type: kill
   drops:
-    - &formula-aspect
-      type: item
-      id: 205340 # Formula: Enchanted Aspect's Shadowflame Crest
-      limit: profession enchanting 2825 50
-
-    - &formula-wyrm
-      type: item
-      id: 205339 # Formula: Enchanted Wyrm's Shadowflame Crest
-      limit: profession enchanting 2825 45
-
-    - &formula-whelpling
-      type: item
-      id: 205338 # Formula: Enchanted Whelpling's Shadowflame Crest
-      limit: profession enchanting 2825 35
-    
-    - &formula-titan-v
-      type: item
-      id: 205337 # Formula: Titan Training Matrix V
-      limit: profession enchanting 2825 25
-
     - type: item
       id: 203307 # WindingSlitherdrake > PlatedBrow
 
@@ -53,11 +38,6 @@ farms:
   questId: 75270
   type: kill
   drops:
-  - *formula-aspect
-  - *formula-wyrm
-  - *formula-whelpling
-  - *formula-titan-v
-
   - type: pet
     id: 3548 # Aquapo
 
@@ -73,16 +53,18 @@ farms:
   questId: 75325
   type: kill
   drops:
-  - *formula-aspect
-  - *formula-wyrm
-  - *formula-whelpling
-  - *formula-titan-v
-
   - type: pet
     id: 3533 # Brul
 
+  - type: item
+    id: 204847 # Recipe: Rocks on the Rocks
+    limit: profession cooking 2824 1
+
   - type: transmog
     id: 205313 # Brullo's Wristbraces [mail ?]
+  
+  - type: transmog
+    id: 205320 # Greatbelt of the Stronk [plate waist]
 
 - name: "Colossian"
   location: 48.4 23.8
@@ -90,13 +72,8 @@ farms:
   questId: 75475
   type: kill
   drops:
-  - *formula-aspect
-  - *formula-wyrm
-  - *formula-whelpling
-  - *formula-titan-v
-
   - type: item
-    id: 197364 # WindingSlitherdrake > ShortSpikedCrest
+    id: 197364 # RenewedProtoDrake > ShortSpikedCrest
 
   - type: transmog
     id: 205315 # Colossian Cuirass [plate ?]
@@ -104,19 +81,35 @@ farms:
   - type: transmog
     id: 205332 # Fist of the Demolisher [1h_mace ?]
 
+- name: "Dinn"
+  location: 29.2 50.7
+  npcId: 203646
+  questId: 75352
+  type: kill
+  drops:
+    - type: item
+      id: 203320 # Winding Slitherdrake: Ears
+    
+    - type: toy
+      id: 205419 # Dinn's Drum
+    
+    - type: transmog
+      id: 205299 # Rudiment Cuffs [cloth wrist]
+    
+    - type: transmog
+      id: 205304 # Snareguard Sash [leather waist]
+
 - name: "Emberdusk"
   location: 31.8 50.6
   npcId: 203664
   questId: 75361
   type: kill
   drops:
-  - *formula-aspect
-  - *formula-wyrm
-  - *formula-whelpling
-  - *formula-titan-v
+    - type: item
+      id: 203363 # Winding Slitherdrake: Large Finned Throat
 
-  - type: transmog
-    id: 205293 # Emberdusk's Embrace [cloth ?]
+    - type: transmog
+      id: 205293 # Emberdusk's Embrace [cloth chest]
 
 - name: "Flowfy"
   location: 36.3 44.8
@@ -124,13 +117,11 @@ farms:
   questId: 75357
   type: kill
   drops:
-  - *formula-aspect
-  - *formula-wyrm
-  - *formula-whelpling
-  - *formula-titan-v
+    - type: item
+      id: 197109 # Highland Drake: Spiked Head
 
-  - type: transmog
-    id: 205303 # Leggings of Flowing Flame [leather ?]
+    - type: transmog
+      id: 205303 # Leggings of Flowing Flame [leather legs]
 
 - name: "General Zskorro"
   location: 41.9 18.6
@@ -138,11 +129,6 @@ farms:
   questId: 75295
   type: kill
   drops:
-  - *formula-aspect
-  - *formula-wyrm
-  - *formula-whelpling
-  - *formula-titan-v
-
   - type: item
     id: 203334 # WindingSlitherdrake > CurledHorns
 
@@ -161,16 +147,14 @@ farms:
   questId: 75273
   type: kill
   drops:
-  - *formula-aspect
-  - *formula-wyrm
-  - *formula-whelpling
-  - *formula-titan-v
+    - type: item
+      id: 203309 # Winding Slitherdrake: Long Chin Horn
 
-  - type: transmog
-    id: 205296 # Goopal's Visage [cloth ?]
+    - type: transmog
+      id: 205296 # Goopal's Visage [cloth ?]
 
-  - type: transmog
-    id: 205317 # Crystalpod Gauntlets [plate ?]
+    - type: transmog
+      id: 205317 # Crystalpod Gauntlets [plate ?]
 
 - name: "Invoq"
   location: 45.7 33.3
@@ -178,16 +162,14 @@ farms:
   questId: 75335
   type: kill
   drops:
-  - *formula-aspect
-  - *formula-wyrm
-  - *formula-whelpling
-  - *formula-titan-v
+    - type: item
+      id: 203328 # Winding Slitherdrake: White Horns
 
-  - type: toy
-    id: 205796 #  -- Molten Lava Pack
+    - type: toy
+      id: 205796 # Molten Lava Pack
 
-  - type: transmog
-    id: 205297 # Flamewielder's Trousers [cloth ?]
+    - type: transmog
+      id: 205297 # Flamewielder's Trousers [cloth ?]
 
 - name: "Jrumm"
   location: 28.5 51.2
@@ -195,11 +177,6 @@ farms:
   questId: 75352
   type: kill
   drops:
-  - *formula-aspect
-  - *formula-wyrm
-  - *formula-whelpling
-  - *formula-titan-v
-
   - type: item
     id: 203320 # WindingSlitherdrake > Ears
 
@@ -212,17 +189,12 @@ farms:
   - type: transmog
     id: 205304 # Snareguard Sash [leather ?]
 
-- name: "Kaprachu"
+- name: "Kapraku"
   location: 59.6 39.5
   npcId: 203466
   questId: 75268
   type: kill
   drops:
-  - *formula-aspect
-  - *formula-wyrm
-  - *formula-whelpling
-  - *formula-titan-v
-
   - type: item
     id: 205341 # WindingSlitherdrake > HeavyScales
 
@@ -238,11 +210,6 @@ farms:
   questId: 75333
   type: kill
   drops:
-  - *formula-aspect
-  - *formula-wyrm
-  - *formula-whelpling
-  - *formula-titan-v
-
   - type: item
     id: 203358 # WindingSlitherdrake > SmallFinnedTail
 
@@ -256,7 +223,7 @@ farms:
     id: 205298 # Belt of Floating Stone [cloth ?]
 
   - type: transmog
-    id: 205292 # Kairoktra's Mane [cloak ?]
+    id: 205292 # Karokta's Mane [cloak ?]
 
 - name: "Klakatak"
   location: 54.1 41.6
@@ -264,11 +231,6 @@ farms:
   questId: 75321
   type: kill
   drops:
-  - *formula-aspect
-  - *formula-wyrm
-  - *formula-whelpling
-  - *formula-titan-v
-
   - type: transmog
     id: 205308 # Clacking Clawguards [mail ?]
 
@@ -278,11 +240,6 @@ farms:
   questId: 75266
   type: kill
   drops:
-  - *formula-aspect
-  - *formula-wyrm
-  - *formula-whelpling
-  - *formula-titan-v
-
   - type: item
     id: 197021 # CliffsideWylderdrake > SpikedClubTail
 
@@ -295,17 +252,12 @@ farms:
   - type: transmog
     id: 205307 # Kob'rok's Scale Sabatons [mail ?]
 
-- name: "Magmanesha"
+- name: "Magtembo"
   location: 40.8 38.2
   npcId: 200111
   questId: 75339
   type: kill
   drops:
-  - *formula-aspect
-  - *formula-wyrm
-  - *formula-whelpling
-  - *formula-titan-v
-
   - type: item
     id: 203339 # WindingSlitherdrake > ImpalerHorns
 
@@ -321,11 +273,6 @@ farms:
   questId: 75291
   type: kill
   drops:
-  - *formula-aspect
-  - *formula-wyrm
-  - *formula-whelpling
-  - *formula-titan-v
-
   - type: item
     id: 203331 # WindingSlitherdrake > ClusterHorns
 
@@ -338,11 +285,6 @@ farms:
   questId: 75348
   type: kill
   drops:
-  - *formula-aspect
-  - *formula-wyrm
-  - *formula-whelpling
-  - *formula-titan-v
-
   - type: item
     id: 203321 # WindingSlitherdrake > CurledCheekHorn
 
@@ -358,11 +300,6 @@ farms:
   questId: 75275
   type: kill
   drops:
-  - *formula-aspect
-  - *formula-wyrm
-  - *formula-whelpling
-  - *formula-titan-v
-
   - type: item
     id: 203318 # WindingSlitherdrake > HairyCrest
 
@@ -381,11 +318,6 @@ farms:
   questId: 75359
   type: kill
   drops:
-  - *formula-aspect
-  - *formula-wyrm
-  - *formula-whelpling
-  - *formula-titan-v
-
   - type: item
     id: 203338 # WindingSlitherdrake > AntlerHorns
 
@@ -404,11 +336,6 @@ farms:
   questId: 75297
   type: kill
   drops:
-  - *formula-aspect
-  - *formula-wyrm
-  - *formula-whelpling
-  - *formula-titan-v
-
   - type: pet
     id: 3551 # Teardrop Moth
 
@@ -427,16 +354,14 @@ farms:
   questId: 75365
   type: kill
   drops:
-  - *formula-aspect
-  - *formula-wyrm
-  - *formula-whelpling
-  - *formula-titan-v
+    - type: item
+      id: 203345 # Winding Slitherdrake: Split Jaw Horns
 
-  - type: transmog
-    id: 205316 # Crystal Stompers [plate ?]
+    - type: transmog
+      id: 205316 # Crystal Stompers [plate ?]
 
-  - type: transmog
-    id: 205327 # Shard of the Veridian King [dagger ?]
+    - type: transmog
+      id: 205327 # Shard of the Veridian King [dagger ?]
 
 # Profession Treasure
 
@@ -804,3 +729,40 @@ farms:
       id: 206025 # Used Medical Wrap Kit
       limit: profession tailoring 2831 25
       note: "{price:3|2026}" # Tailoring Knowledge
+
+# Shared
+
+- name: "Shared Rare Drops"
+  groupId: 2
+  location: 0 0
+  reset: none
+  type: kill
+  drops:
+    - type: item
+      id: 205340 # Formula: Enchanted Aspect's Shadowflame Crest
+      limit: profession enchanting 2825 50
+
+    - type: item
+      id: 205339 # Formula: Enchanted Wyrm's Shadowflame Crest
+      limit: profession enchanting 2825 45
+
+    - type: item
+      id: 205338 # Formula: Enchanted Whelpling's Shadowflame Crest
+      limit: profession enchanting 2825 35
+    
+    - type: item
+      id: 205337 # Formula: Titan Training Matrix V
+      limit: profession enchanting 2825 25
+
+- name: "Shared Treasure Drops"
+  groupId: 2
+  location: 0 0
+  reset: none
+  type: treasure
+  drops:
+    - type: item
+      id: 202275 # Renewed Proto-Drake: Plated Jaw
+
+    - type: item
+      id: 203313 # Winding Slitherdrake: Spiked Chin
+      note: "Smelly Trash Pile only"
