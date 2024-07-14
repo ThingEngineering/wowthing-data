@@ -1,0 +1,107 @@
+name: "Legendaries"
+groups:
+
+- name: "{item:71086}" # Dragonwrath, Tarecgosa's Rest
+  icon: item/71086
+  lookup: faction
+  type: quest
+  data:
+    alliance:
+      - name: "Your Time Has Come"
+        id: 29453
+        description: "Kill a Molten Lord in Firelands"
+      
+      - name: "A Legendary Engagement"
+        id: 29132
+      
+      - name: "A Wrinkle in Time"
+        id: 29134
+        description: "Caverns of Time"
+      
+      - name: "All-Seeing Eye"
+        id: 29135
+        description: "Collect {item:71141|25} from Firelands bosses"
+      
+      - name: "On a Wing and a Prayer"
+        id: 29193
+      
+      - name: "Through a Glass, Darkly"
+        id: 29194
+      
+      - name: "Actionable Intelligence"
+        id: 29225
+      
+      - name: "Delegation"
+        id: 29234
+        description: "Do a bunch of stuff in Firelands to get {item:69646}"
+      
+      - name: "Emergency Extraction"
+        id: 29240
+      
+      - name: "At One"
+        id: 29269
+      
+      - name: "Time Grows Short"
+        id: 29270
+        description: "Collect {price:1000|1069815} from Firelands bosses"
+      
+      - name: "Alignment"
+        id: 29285
+      
+      - name: "Heart of Flame"
+        id: 29307
+        description: "Siphon 250x Smouldering Essence from Firelands boss corpses"
+      
+      - name: "The Stuff of Legends"
+        id: 29312
+        description: "Rewards {item:71086}"
+
+    horde:
+      - name: "Your Time Has Come"
+        id: 29452
+        description: "Kill a Molten Lord in Firelands"
+      
+      - name: "A Legendary Engagement"
+        id: 29129
+      
+      - name: "A Wrinkle in Time"
+        id: 29134
+        description: "Caverns of Time"
+      
+      - name: "All-Seeing Eye"
+        id: 29135
+        description: "Collect {price:25|1071141} from Firelands bosses"
+      
+      - name: "On a Wing and a Prayer"
+        id: 29193
+      
+      - name: "Through a Glass, Darkly"
+        id: 29194
+      
+      - name: "Actionable Intelligence"
+        id: 29225
+      
+      - name: "Delegation"
+        id: 29234
+        description: "Do a bunch of stuff in Firelands to get {item:69646}"
+      
+      - name: "Emergency Extraction"
+        id: 29240
+      
+      - name: "At One"
+        id: 29269
+      
+      - name: "Time Grows Short"
+        id: 29270
+        description: "Collect {price:1000|1069815} from Firelands bosses"
+      
+      - name: "Alignment"
+        id: 29285
+      
+      - name: "Heart of Flame"
+        id: 29308
+        description: "Siphon 250x Smouldering Essence from Firelands boss corpses"
+      
+      - name: "The Stuff of Legends"
+        id: 29309
+        description: "Rewards {item:71086}"
