@@ -1,0 +1,255 @@
+name: "Valdrakken"
+groups:
+
+- name: "Ruby Feast"
+  icon: "achievement/16556"
+  iconText: "Feast"
+  lookup: none
+  type: quest
+  data:
+    0:
+      - name: "All Tea, No Shadeleaf"
+        id: 70930
+
+      # - name: "Eight-Legged Menace"
+      #   id: 65750
+
+      # - name: "Grungir the Explorer"
+      #   id: 65758
+
+      # - name: "Icy Webs"
+      #   id: 65769
+
+      - name: "Warm AWay These Shivers"
+        id: 67047
+
+      - name: separator
+
+      - name: "The Life of Spice"
+        id: 70932
+
+      - name: "10,000 Years of Roasting"
+        id: 67063
+
+      - name: separator
+
+      - name: "The Sea Out West"
+        id: 70957
+
+      - name: "Rambling Delight"
+        id: 67064
+
+      - name: separator
+
+      - name: "Finest Fungi at the Feast"
+        id: 70958
+
+      - name: "Future-Fresh Fungi"
+        id: 67065
+
+      - name: separator
+
+      - name: "Savory Seas"
+        id: 70981
+
+      - name: "Delights to Delve For"
+        id: 67066
+
+      - name: separator
+
+      - name: "Hearts of Starch"
+        id: 70987
+
+      - name: "Navigating the Leapmaize"
+        id: 67067
+
+      - name: separator
+
+      - name: "The Egg's the Thing"
+        id: 70988
+
+      - name: "Anything But a Breeze"
+        id: 67068
+
+      - name: separator
+
+      - name: "What a Long, Sweet Trip It's Been"
+        id: 67071
+        description: "Rewards {item:198132}" # Recipe: Hoard of Draconic Delicacies
+
+- name: separator
+
+- name: "Little Scales Daycare"
+  icon: "achievement/18383"
+  iconText: "Whelp"
+  lookup: none
+  type: quest
+  data:
+    0:
+      - name: "Eggs in Abundance"
+        id: 72664
+      
+      - name: "Whelptender's Wisdom"
+        id: 72665
+      
+      - name: "Daycare Director Agapanthus"
+        id: 72666
+      
+      - name: "Snack Run"
+        id: 72667
+      
+      - name: "A Nurturing Environment"
+        id: 72668
+      
+      - name: "A Lesson in Responsibility"
+        id: 73021
+
+- name: "Daycare: Rusziona"
+  icon: "item/206682"
+  iconText: "Rus"
+  lookup: none
+  type: quest
+  data:
+    0:
+      - name: "The Obsidian Hatchling"
+        id: 72454
+      
+      - name: "Warmth and Comfort"
+        id: 72455
+      
+      - name: "A Home-Cooked Meal"
+        id: 72457
+      
+      - name: "Tag, You're Anxious"
+        id: 72458
+      
+      - name: "What's a Duck?"
+        id: 72459
+      
+      - name: "A Solid Pet"
+        id: 72460
+        description: "Rewards {item:205232}" # Iggy
+      
+      - name: "Anatidaephobia"
+        id: 72461
+        description: "Rewards {item:206682}" # Rusziona
+
+- name: "Daycare: Belastrasza"
+  icon: "item/206758"
+  iconText: "Bel"
+  lookup: none
+  type: quest
+  data:
+    0:
+      - name: "The Ruby Hatchling"
+        id: 72989
+      
+      - name: "Crimson Comfort"
+        id: 72990
+      
+      - name: "Warm Dragonfruit Pie"
+        id: 72991
+      
+      - name: "You're Playing Wrong!"
+        id: 72992
+      
+      - name: "I'm the Boss!"
+        id: 72993
+      
+      - name: "A Cavalier Pet"
+        id: 72994
+        description: "Rewards {item:207019}" # Princess Vorquistrasza
+      
+      - name: "Patience, Please"
+        id: 72995
+        description: "Rewards {item:206758}" # Belastrasza
+
+- name: "Daycare: Zhusadormu"
+  icon: "item/206971"
+  iconText: "Zhu"
+  lookup: none
+  type: quest
+  data:
+    0:
+      - name: "The Bronze Hatchling"
+        id: 72996
+      
+      - name: "Nothing Like a Sandy Nap"
+        id: 72997
+      
+      - name: "Artisanal Aging"
+        id: 72998
+      
+      - name: "Here? There? Everywhere!"
+        id: 72999
+      
+      - name: "Sneezing Through Time"
+        id: 73000
+      
+      - name: "A Scaly Pet"
+        id: 73001
+        description: "Rewards {item:205009}" # Annuna
+      
+      - name: "Temporal Immunity"
+        id: 73002
+        description: "Rewards {item:206971}" # Zhusadormu
+
+- name: "Daycare: Zalethgos"
+  icon: "item/206974"
+  iconText: "Zal"
+  lookup: none
+  type: quest
+  data:
+    0:
+      - name: "The Azure Hatchling"
+        id: 73003
+      
+      - name: "A Scholar's Delight"
+        id: 73004
+      
+      - name: "Crystal Nutrition"
+        id: 73005
+      
+      - name: "Well, Actually..."
+        id: 73006
+      
+      - name: "New Lenses"
+        id: 73007
+      
+      - name: "A Scholar's Pet"
+        id: 73008
+        description: "Rewards {item:206973}" # Pallibrius
+      
+      - name: "Sight Isn't Everything"
+        id: 73009
+        description: "Rewards {item:206974}" # Zalethgos
+
+- name: "Daycare: Posidriss"
+  icon: "item/206979"
+  iconText: "Pos"
+  lookup: none
+  type: quest
+  data:
+    0:
+      - name: "The Emerald Hatchling"
+        id: 73010
+      
+      - name: "Home Sweet Dirt"
+        id: 73011
+      
+      - name: "Hochenblume Harvest"
+        id: 73012
+      
+      - name: "So... Tired..."
+        id: 73013
+      
+      - name: "A Green Who Can't Sleep?"
+        id: 73014
+      
+      - name: "A Sleepy Pet"
+        id: 73015
+        description: "Rewards {item:206978}" # Somnius
+      
+      - name: "Hibernation"
+        id: 73016
+        description: "Rewards {item:206979}" # Posidriss
