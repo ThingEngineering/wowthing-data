@@ -3,10 +3,11 @@ groups:
 
 - name: "{item:71086}" # Dragonwrath, Tarecgosa's Rest
   icon: item/71086
-  lookup: none
+  lookup: class
   type: quest
   data:
-    0:
+    druid: &dragonwrath
+      # Part 1
       - name: "Your Time Has Come"
         id: 29453 29452 # Alliance/Horde
         description: "Kill a Molten Lord in Firelands"
@@ -33,8 +34,15 @@ groups:
       
       - name: "Delegation"
         id: 29234
-        description: "Do a bunch of stuff in Firelands to get {item:69646}"
+        description: "Do a bunch of annoying boss stuff in Firelands"
       
+      - name: "Nordrassil's Bough"
+        id: 29239
+        description: "Rewards {item:71084}" # Branch of Nordrassil
+      
+      - name: separator
+
+      # Part 2
       - name: "Emergency Extraction"
         id: 29240
       
@@ -47,14 +55,24 @@ groups:
       
       - name: "Alignment"
         id: 29285
-      
+        description: "Rewards {item:71085}" # Runestaff of Nordrassil
+            
+      - name: separator
+
+      # Part 3
       - name: "Heart of Flame"
         id: 29307 29308 # Alliance/Horde
         description: "Siphon 250x Smouldering Essence from Firelands boss corpses"
       
       - name: "The Stuff of Legends"
         id: 29312 29309 # Alliance/Horde
-        description: "Rewards {item:71086}"
+        description: "Rewards {item:71086}" # Dragonwrath, Tarecgosa's Rest
+
+    evoker: *dragonwrath
+    mage: *dragonwrath
+    priest: *dragonwrath
+    shaman: *dragonwrath
+    warlock: *dragonwrath
 
 - name: "{item:77949} / {item:77950}" # Golad, Twilight of Aspects / Tiriosh, Nightmare of Ages
   icon: item/77949
@@ -87,6 +105,8 @@ groups:
         id: 30106
         description: "Rewards {item:77945} / {item:77946}"
       
+      - name: separator
+
       # Part 2
       - name: "Cluster Clutch"
         id: 30107
@@ -101,7 +121,9 @@ groups:
       - name: "Victory in the Depths"
         id: 30113
         description: "Rewards {item:77947} / {item:77948}"
-      
+            
+      - name: separator
+
       # Part 3
       - name: "Sharpening Your Fangs"
         id: 30116
