@@ -15,6 +15,17 @@ farms:
   location: 46.0 81.6
   type: group
 
+# Events
+
+- name: "Siege on Dragonbane Keep"
+  location: 30.5 77.9
+  questId: 70866
+  reset: weekly
+  type: eventBig
+  drops:
+    - type: toy
+      id: 200116 # Everlasting Horn of Lavaswimming
+
 # Kills
 
 - name: "Amethyzar the Glittering"
@@ -446,7 +457,9 @@ farms:
     - *emerald-tailbone # Emerald Tailbone [2h_sword ?]
 
 - name: "Penumbrus"
+  groupId: 1
   location: 24.1 53.9
+  note: "Underneath"
   npcId: 189289
   questId: 74019
   type: kill
