@@ -1,0 +1,176 @@
+id: 199036
+name: "Xaldrass"
+note: "Assistant Quartermaster"
+zoneMapsGroupId: 1
+
+locations:
+  09-dragonflight/waking_shores:
+    - 27.6 56.2
+
+sets:
+  - name: "Dragons - Shared"
+    sortKey: dragons-1
+    range: 13
+
+  - name: "Dragons - Sabellian"
+    sortKey: dragons-2
+    range: -1
+
+sells:
+  # Both - True Friend [6/6]
+
+  - type: item
+    id: 197013 # Cliffside Wylderdrake: Black Scales
+    costs:
+      2003: 400
+      1190316: 1
+    reputation: 2518 DragonTrueFriend
+
+  - type: item
+    id: 197142 # Highland Drake: Black Scales
+    costs:
+      2003: 400
+      1190316: 1
+    reputation: 2518 DragonTrueFriend
+
+  - type: item
+    id: 197392 # Renewed Proto-Drake: Black Scales
+    costs:
+      2003: 400
+      1190316: 1
+    reputation: 2518 DragonTrueFriend
+
+  - type: item
+    id: 197611 # Windborne Velocidrake: Black Scales
+    costs:
+      2003: 400
+      1190316: 1
+    reputation: 2518 DragonTrueFriend
+
+  - type: item
+    id: 200971 # Obsidian Cape [cloak]
+    costs:
+      2003: 150
+    reputation: 2518 DragonTrueFriend
+
+  # Both - Friend [5/6]
+
+  - type: item
+    id: 196964 # Cliffside Wylderdrake: Gold and Black Armor
+    costs:
+      2003: 750
+      1188658: 20
+      1201399: 6
+    reputation: 2518 DragonFriend
+
+  - type: item
+    id: 197090 # Highland Drake: Gold and Black Armor
+    costs:
+      2003: 750
+      1188658: 20
+      1201399: 6
+    reputation: 2518 DragonFriend
+
+  - type: item
+    id: 197346 # Renewed Proto-Drake: Gold and Black Armor
+    costs:
+      2003: 750
+      1188658: 20
+      1201399: 6
+    reputation: 2518 DragonFriend
+
+  # Both - Fang [4/6]
+
+  - type: item
+    id: 199740 # Onyx Dragonflame Blade [1h ? sword]
+    costs:
+      2003: 600
+      1200867: 1
+      1201404: 5
+    reputation: 2518 DragonFang
+
+  - type: item
+    id: 200996 # Obsidian Guard's Claw [fist]
+    costs:
+      2003: 600
+      1190396: 10
+      1201404: 5
+    reputation: 2518 DragonFang
+
+  # Both - Ally [3/6]
+
+  # Both - Cohort [2/6]
+
+  - type: item
+    id: 200963 # Ensemble: Sabellian's Battlegear Cloth Armor
+    costs:
+      2003: 750
+      1193050: 40
+    reputation: 2518 DragonAlly
+
+  - type: item
+    id: 200952 # Ensemble: Obsidian Dracthyr Battlegear Mail Armor
+    costs:
+      2003: 750
+      1190316: 4
+      1190321: 4
+    reputation: 2518 DragonCohort
+
+  # Both - No rep
+
+  - type: item
+    id: 201839 # Netherforged Lavaproof Boots
+    costs:
+      0: 1000 # Gold
+
+  # Sabellian - Fang [4/6]
+
+  - type: item
+    id: 200990 # Obsidian Guard's Cutlass [1h ? sword]
+    costs:
+      2003: 600
+      1190396: 10
+      1201406: 1
+    reputation: 2518 DragonFang
+
+  - type: item
+    id: 200988 # Obsidian Guard's Skullsplitter [2h ? axe]
+    costs:
+      2003: 600
+      1198397: 1
+      1193214: 10
+    reputation: 2518 DragonFang
+
+  - type: item
+    id: 200983 # Obsidian Wingguard Polearm [polearm]
+    costs:
+      2003: 600
+      1190396: 10
+      1201404: 5
+    reputation: 2518 DragonFang
+
+  - type: item
+    id: 200986 # Obsidian Spellweaver's Stave [staff]
+    costs:
+      2003: 600
+      1190396: 10
+      1201404: 5
+    reputation: 2518 DragonFang
+
+  - type: item
+    id: 200993 # Obsidian Guard's Barrier [shield]
+    costs:
+      2003: 600
+      1198397: 1
+      1193214: 10
+    reputation: 2518 DragonFang
+
+  # Sabellian - Cohort [2/6]
+
+  - type: item # toy
+    id: 200640 # Obsidian Egg Clutch
+    costs:
+      2003: 100
+      1201399: 1
+      1201402: 1
+    reputation: 2518 DragonCohort
