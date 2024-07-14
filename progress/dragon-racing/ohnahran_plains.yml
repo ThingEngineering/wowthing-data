@@ -10,11 +10,11 @@ groups:
     0:
       - id: 2060
         name: "Normal"
-        description: "52 44"
+        description: "52 49"
 
       - id: 2061
         name: "Advanced"
-        description: "46 41"
+        description: "44 41"
 
       - id: 2183
         name: "Reverse"
@@ -37,11 +37,11 @@ groups:
     0:
       - id: 2062
         name: "Normal"
-        description: "51 44"
+        description: "51 48"
 
       - id: 2063
         name: "Advanced"
-        description: "46 41"
+        description: "44 41"
 
       - id: 2184
         name: "Reverse"
@@ -64,11 +64,11 @@ groups:
     0:
       - id: 2064
         name: "Normal"
-        description: "52 50"
+        description: "52 49"
 
       - id: 2065
         name: "Advanced"
-        description: "52 47"
+        description: "50 47"
 
       - id: 2185
         name: "Reverse"
@@ -91,11 +91,11 @@ groups:
     0:
       - id: 2066
         name: "Normal"
-        description: "66 59"
+        description: "66 63"
 
       - id: 2067
         name: "Advanced"
-        description: "60 55"
+        description: "59 56"
 
       - id: 2186
         name: "Reverse"
@@ -148,11 +148,11 @@ groups:
     0:
       - id: 2119
         name: "Normal"
-        description: "51 46"
+        description: "51 48"
 
       - id: 2120
         name: "Advanced"
-        description: "48 43"
+        description: "46 43"
 
       - id: 2187
         name: "Reverse"
