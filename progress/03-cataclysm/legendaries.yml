@@ -3,66 +3,16 @@ groups:
 
 - name: "{item:71086}" # Dragonwrath, Tarecgosa's Rest
   icon: item/71086
-  lookup: faction
+  lookup: none
   type: quest
   data:
-    alliance:
+    0:
       - name: "Your Time Has Come"
-        id: 29453
+        id: 29453 29452 # Alliance/Horde
         description: "Kill a Molten Lord in Firelands"
       
       - name: "A Legendary Engagement"
-        id: 29132
-      
-      - name: "A Wrinkle in Time"
-        id: 29134
-        description: "Caverns of Time"
-      
-      - name: "All-Seeing Eye"
-        id: 29135
-        description: "Collect {item:71141|25} from Firelands bosses"
-      
-      - name: "On a Wing and a Prayer"
-        id: 29193
-      
-      - name: "Through a Glass, Darkly"
-        id: 29194
-      
-      - name: "Actionable Intelligence"
-        id: 29225
-      
-      - name: "Delegation"
-        id: 29234
-        description: "Do a bunch of stuff in Firelands to get {item:69646}"
-      
-      - name: "Emergency Extraction"
-        id: 29240
-      
-      - name: "At One"
-        id: 29269
-      
-      - name: "Time Grows Short"
-        id: 29270
-        description: "Collect {price:1000|1069815} from Firelands bosses"
-      
-      - name: "Alignment"
-        id: 29285
-      
-      - name: "Heart of Flame"
-        id: 29307
-        description: "Siphon 250x Smouldering Essence from Firelands boss corpses"
-      
-      - name: "The Stuff of Legends"
-        id: 29312
-        description: "Rewards {item:71086}"
-
-    horde:
-      - name: "Your Time Has Come"
-        id: 29452
-        description: "Kill a Molten Lord in Firelands"
-      
-      - name: "A Legendary Engagement"
-        id: 29129
+        id: 29132 29129 # Alliance/Horde
       
       - name: "A Wrinkle in Time"
         id: 29134
@@ -99,11 +49,11 @@ groups:
         id: 29285
       
       - name: "Heart of Flame"
-        id: 29308
+        id: 29307 29308 # Alliance/Horde
         description: "Siphon 250x Smouldering Essence from Firelands boss corpses"
       
       - name: "The Stuff of Legends"
-        id: 29309
+        id: 29312 29309 # Alliance/Horde
         description: "Rewards {item:71086}"
 
 - name: "{item:77949} / {item:77950}" # Golad, Twilight of Aspects / Tiriosh, Nightmare of Ages
