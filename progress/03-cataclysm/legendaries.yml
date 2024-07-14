@@ -105,3 +105,58 @@ groups:
       - name: "The Stuff of Legends"
         id: 29309
         description: "Rewards {item:71086}"
+
+- name: "{item:77949} / {item:77950}" # Golad, Twilight of Aspects / Tiriosh, Nightmare of Ages
+  icon: item/77949
+  iconText: "Fangs"
+  lookup: class
+  type: quest
+  data:
+    rogue:
+      # Part 1
+      - name: "Proving Your Worth"
+        id: 29801
+        description: "Speak with Lord Devrestrasz in the Dragon Soul raid"
+      
+      - name: "A Hidden Message"
+        id: 29802
+      
+      - name: "To Ravenholdt"
+        id: 29934
+      
+      - name: "To Catch a Thief"
+        id: 29847
+      
+      - name: "Our Man in Gilneas"
+        id: 30092
+      
+      - name: "Assassinate Creed"
+        id: 30093
+      
+      - name: "The Deed is Done"
+        id: 30106
+        description: "Rewards {item:77945} / {item:77946}"
+      
+      # Part 2
+      - name: "Cluster Clutch"
+        id: 30107
+        description: "Collect {price:333|1077951} from Dragon Soul bosses"
+      
+      - name: "Our Man in Karazhan"
+        id: 30108
+      
+      - name: "Blood of the Betrayer"
+        id: 30109
+      
+      - name: "Victory in the Depths"
+        id: 30113
+        description: "Rewards {item:77947} / {item:77948}"
+      
+      # Part 3
+      - name: "Sharpening Your Fangs"
+        id: 30116
+        description: "Collect {price:60|1077952} from Dragon Soul bosses"
+      
+      - name: "Patricide"
+        id: 30118
+        description: "Rewards {item:77949} / {item:77950}"
