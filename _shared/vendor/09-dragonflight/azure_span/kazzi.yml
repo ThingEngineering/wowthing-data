@@ -1,0 +1,109 @@
+id: 201105
+name: "Kazzi"
+
+locations:
+  09-dragonflight/azure_span:
+    - 65.8 12.6
+
+sells:
+  # 0
+
+  - type: item # pet
+    id: 202255 # Driftling
+    costs:
+      2003: 150
+    reputation: 2526 exalted
+
+  # Revered
+
+  - type: item
+    id: 196995 # Cliffside Wylderdrake: Spiked Horns
+    costs:
+      2003: 100
+    reputation: 2526 revered
+
+  - type: item
+    id: 197102 # Highland Drake: Horned Chin
+    costs:
+      2003: 100
+    reputation: 2526 revered
+
+  - type: item
+    id: 202279 # Renewed Proto-Drake: Malevolent Horns
+    costs:
+      2003: 100
+    reputation: 2526 revered
+
+  - type: item
+    id: 197629 # Windborne Velocidrake: Spiked Neck
+    costs:
+      2003: 100
+    reputation: 2526 revered
+
+  - type: item
+    id: 204678 # Pattern: Paw-Made Winterpelt Reagent Bag
+    costs:
+      2003: 200
+    reputation: 2526 revered
+
+  - type: item
+    id: 202289 # Recipe: Firewater Sorbet
+    costs:
+      2003: 750
+    reputation: 2526 revered
+
+  - type: toy
+    id: 203734 # Snow Blanket
+    costs:
+      2003: 200
+    reputation: 2526 revered
+
+  - type: item
+    id: 204355 # Hollowed Winterpelt Food Pack [subclass=5 back]
+    costs:
+      2003: 500
+    reputation: 2526 revered
+
+  # Honored
+
+  - type: item
+    id: 197006 # Cliffside Wylderdrake: Plated Nose
+    costs:
+      2003: 50
+    reputation: 2526 honored
+
+  - type: item
+    id: 197129 # Highland Drake: Sleek Horns
+    costs:
+      2003: 50
+    reputation: 2526 honored
+
+  - type: item
+    id: 202273 # Renewed Proto-Drake: Stubby Snout
+    costs:
+      2003: 50
+    reputation: 2526 honored
+
+  - type: item
+    id: 197583 # Windborne Velocidrake: Exposed Finned Back
+    costs:
+      2003: 50
+    reputation: 2526 honored
+
+  - type: item
+    id: 204354 # Hollowed Furbolg Food Pack [subclass=5 back]
+    costs:
+      2003: 500
+    reputation: 2526 honored
+
+  - type: item
+    id: 203995 # Winter Pelt Cloak [subclass=5 back]
+    costs:
+      2003: 75
+    reputation: 2526 honored
+
+  - type: item
+    id: 202282 # Winterpelt Mending Totem [1h ? mace]
+    costs:
+      2003: 150
+    reputation: 2526 honored
