@@ -79,6 +79,43 @@ groups:
 
 - name: separator
 
+- name: "Born to Be Wilder"
+  icon: "item/200519"
+  iconText: "Toots"
+  lookup: none
+  type: quest
+  data:
+    0:
+      - name: "Oh Where, Oh Where Can He Be?"
+        id: 70647
+        description: "Rewards {item:199175}" # Lubbins
+
+      - name: "An Expert Opinion"
+        id: 70697
+
+      - name: "What Lubbins Needs"
+        id: 70722
+        description: "Rewards {item:92683}" # Flawless Dragonkin Battle-Stone
+
+      - name: "A Practice Bout"
+        id: 70732
+        description: "Rewards {item:122457}" # Ultimate Battle-Training Stone
+
+      - name: "This Calls for a Specialist"
+        id: 70849
+
+      - name: "Born to Be Wilder"
+        id: 70851
+        description: "Rewards {price:10|1163036}" # Polished Pet Charm
+
+      - name: "A Friend for Lubbins"
+        id: 70853
+        description: "Rewards {price:2|1116421} and {price:10|1163036}" # Flying Battle-Training Stone / # Polished Pet Charm
+      
+      - name: "So How Did It Go?"
+        id: 70854
+        description: "Rewards {item:200519} and {item:122457}" # Mister Toots / Ultimate Battle-Training Stone
+
 - name: "Little Scales Daycare"
   icon: "achievement/18383"
   iconText: "Whelp"
