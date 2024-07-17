@@ -111,7 +111,7 @@ groups:
 
       - name: "Overseer Oversight"
         id: 78046
-        description: "{reputation:750|2574}" # 750 Dream Wardens reputation
+        description: "{reputation:750|2574}, druids can loot {item:210727}" # 750 Dream Wardens reputation
 
       - name: "Requiem in a Dream"
         id: 77314
