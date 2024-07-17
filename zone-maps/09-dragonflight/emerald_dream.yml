@@ -516,6 +516,7 @@ farms:
   drops:
     - type: transmog
       id: 210552 # Wolf Cowl [cosmetic head]
+      note: "Orc/Mag'har Orc only"
       limit: race orc maghar-orc
 
 # Profession Treasure
