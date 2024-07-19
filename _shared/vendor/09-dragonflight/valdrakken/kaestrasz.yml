@@ -27,79 +27,79 @@ sells:
 
   # Renown 9
 
-  - type: accountTrackingQuest
+  - type: item
     id: 197015 # Cliffside Wylderdrake: Dark Skin Variation
     costs:
       2003: 50
 
-  - type: accountTrackingQuest
+  - type: item
     id: 196972 # Cliffside Wylderdrake: Plated Brow
     costs:
       2003: 50
 
-  - type: accountTrackingQuest
+  - type: item
     id: 197003 # Cliffside Wylderdrake: Spiked Cheek
     costs:
       2003: 50
 
-  - type: accountTrackingQuest
+  - type: item
     id: 196977 # Cliffside Wylderdrake: Split Head Horns
     costs:
       2003: 50
 
   # Renown 15
 
-  - type: accountTrackingQuest
+  - type: item
     id: 196974 # Cliffside Wylderdrake: Four-Horned Chin
     costs:
       2003: 100
 
-  - type: accountTrackingQuest
+  - type: item
     id: 196998 # Cliffside Wylderdrake: Hook Horns
     costs:
       2003: 100
 
-  - type: accountTrackingQuest
+  - type: item
     id: 197009 # Cliffside Wylderdrake: Scaled Pattern
     costs:
       2003: 100
 
-  - type: accountTrackingQuest
+  - type: item
     id: 197020 # Cliffside Wylderdrake: Spear Tail
     costs:
       2003: 100
 
-  - type: accountTrackingQuest
+  - type: item
     id: 197004 # Cliffside Wylderdrake: Spiked Legs
     costs:
       2003: 100
 
-  - type: accountTrackingQuest
+  - type: item
     id: 196989 # Cliffside Wylderdrake: White Hair
     costs:
       2003: 100
 
   # Renown 21
 
-  - type: accountTrackingQuest
+  - type: item
     id: 197145 # Highland Drake: Bronze Scales
     costs:
       2003: 400
       1190324: 1
 
-  - type: accountTrackingQuest
+  - type: item
     id: 197391 # Renewed Proto-Drake: Bronze Scales
     costs:
       2003: 400
       1190324: 1
 
-  - type: accountTrackingQuest
+  - type: item
     id: 197613 # Windborne Velocidrake: Bronze Scales
     costs:
       2003: 400
       1190324: 1
 
-  - type: accountTrackingQuest
+  - type: item
     id: 203351 # Winding Slitherdrake: Bronze Scales
     costs:
       2003: 400
@@ -107,28 +107,28 @@ sells:
 
   # Renown 26
 
-  - type: accountTrackingQuest
+  - type: item
     id: 196962 # Cliffside Wylderdrake: Silver and Purple Armor
     costs:
       2003: 750
       1188658: 20
       1201404: 10
 
-  - type: accountTrackingQuest
+  - type: item
     id: 197093 # Highland Drake: Silver and Purple Armor
     costs:
       2003: 750
       1188658: 20
       1201404: 10
 
-  - type: accountTrackingQuest
+  - type: item
     id: 197350 # Renewed Proto-Drake: Silver and Purple Armor
     costs:
       2003: 750
       1188658: 20
       1201404: 10
 
-  - type: accountTrackingQuest
+  - type: item
     id: 197581 # Windborne Velocidrake: Silver and Purple Armor
     costs:
       2003: 750

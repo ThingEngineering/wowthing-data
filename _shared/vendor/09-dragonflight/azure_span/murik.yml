@@ -175,25 +175,25 @@ sells:
 
   # Renown 7
 
-  - type: accountTrackingQuest
+  - type: item
     id: 197101 # Highland Drake: Bushy Brow
     costs:
       2003: 50
     reputation: 2511 renown-7
 
-  - type: accountTrackingQuest
+  - type: item
     id: 197155 # Highland Drake: Finned Neck
     costs:
       2003: 50
     reputation: 2511 renown-7
 
-  - type: accountTrackingQuest
+  - type: item
     id: 197114 # Highland Drake: Multi-Horned Head
     costs:
       2003: 50
     reputation: 2511 renown-7
 
-  - type: accountTrackingQuest
+  - type: item
     id: 197132 # Highland Drake: Spiked Cheek
     costs:
       2003: 50
@@ -233,19 +233,19 @@ sells:
 
   # Renown 13
 
-  - type: accountTrackingQuest
+  - type: item
     id: 197153 # Highland Drake: Bladed Tail
     costs:
       2003: 100
     reputation: 2511 renown-13
 
-  - type: accountTrackingQuest
+  - type: item
     id: 197139 # Highland Drake: Large Spotted Pattern
     costs:
       2003: 100
     reputation: 2511 renown-13
 
-  - type: accountTrackingQuest
+  - type: item
     id: 197123 # Highland Drake: Thorn Horns
     costs:
       2003: 100
@@ -389,28 +389,28 @@ sells:
 
   # Renown 19
 
-  - type: accountTrackingQuest
+  - type: item
     id: 197012 # Cliffside Wylderdrake: Blue Scales
     costs:
       2003: 400
       1190329: 1
     reputation: 2511 renown-19
 
-  - type: accountTrackingQuest
+  - type: item
     id: 197390 # Renewed Proto-Drake: Blue Scales
     costs:
       2003: 400
       1190329: 1
     reputation: 2511 renown-19
 
-  - type: accountTrackingQuest
+  - type: item
     id: 197612 # Windborne Velocidrake: Blue Scales
     costs:
       2003: 400
       1190329: 1
     reputation: 2511 renown-19
 
-  - type: accountTrackingQuest
+  - type: item
     id: 203350 # Winding Slitherdrake: Blue Scales
     costs:
       2003: 400

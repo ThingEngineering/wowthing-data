@@ -83,25 +83,25 @@ sells:
 
   # Renown 9
 
-  - type: accountTrackingQuest
+  - type: item
     id: 197369 # Renewed Proto-Drake: Brown Hair
     costs:
       2003: 50
     reputation: 2507 renown-9
 
-  - type: accountTrackingQuest
+  - type: item
     id: 197363 # Renewed Proto-Drake: Maned Crest
     costs:
       2003: 50
     reputation: 2507 renown-9
 
-  - type: accountTrackingQuest
+  - type: item
     id: 197386 # Renewed Proto-Drake: Spiked Jaw
     costs:
       2003: 50
     reputation: 2507 renown-9
 
-  - type: accountTrackingQuest
+  - type: item
     id: 197360 # Renewed Proto-Drake: Spined Brow
     costs:
       2003: 50
@@ -109,25 +109,25 @@ sells:
 
   # Renown 15
 
-  - type: accountTrackingQuest
+  - type: item
     id: 197358 # Renewed Proto-Drake: Curved Spiked Brow
     costs:
       2003: 100
     reputation: 2507 renown-15
 
-  - type: accountTrackingQuest
+  - type: item
     id: 197395 # Renewed Proto-Drake: Harrier Pattern
     costs:
       2003: 100
     reputation: 2507 renown-15
 
-  - type: accountTrackingQuest
+  - type: item
     id: 197402 # Renewed Proto-Drake: Spiked Club Tail
     costs:
       2003: 100
     reputation: 2507 renown-15
 
-  - type: accountTrackingQuest
+  - type: item
     id: 197374 # Renewed Proto-Drake: Swept Horns
     costs:
       2003: 100
@@ -161,28 +161,28 @@ sells:
 
   # Renown 22
 
-  - type: accountTrackingQuest
+  - type: item
     id: 197010 # Cliffside Wylderdrake: Red Scales
     costs:
       2003: 400
       1190321: 1
     reputation: 2507 renown-22
 
-  - type: accountTrackingQuest
+  - type: item
     id: 197144 # Highland Drake: Red Scales
     costs:
       2003: 400
       1190321: 1
     reputation: 2507 renown-22
 
-  - type: accountTrackingQuest
+  - type: item
     id: 197614 # Windborne Velocidrake: Red Scales
     costs:
       2003: 400
       1190321: 1
     reputation: 2507 renown-22
 
-  - type: accountTrackingQuest
+  - type: item
     id: 203353 # Winding Slitherdrake: Red Scales
     costs:
       2003: 400

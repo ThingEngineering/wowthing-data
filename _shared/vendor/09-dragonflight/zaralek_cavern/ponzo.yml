@@ -136,19 +136,19 @@ sells:
   #   costs:
   #     1204985: 3 # Barter Brick
 
-  - type: accountTrackingQuest
+  - type: item
     id: 203312 # Winding Slitherdrake: Cluster Chin Horn
     costs:
       1204985: 55 # Barter Brick
       1205188: 30 # Barter Boulder
 
-  - type: accountTrackingQuest
+  - type: item
     id: 203346 # Winding Slitherdrake: Curled Nose
     costs:
       1204985: 55 # Barter Brick
       1205188: 30 # Barter Boulder
 
-  - type: accountTrackingQuest
+  - type: item
     id: 203308 # Winding Slitherdrake: Hairy Brow
     costs:
       1204985: 55 # Barter Brick
