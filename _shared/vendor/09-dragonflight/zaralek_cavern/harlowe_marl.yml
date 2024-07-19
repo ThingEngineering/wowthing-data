@@ -47,19 +47,19 @@ sets:
 sells:
   # Renown 5
 
-  - type: accountTrackingQuest
+  - type: item
     id: 203310 # Winding Slitherdrake: Grand Chin Thorn
     costs:
       2003: 150
     reputation: 2564 renown-5
 
-  - type: accountTrackingQuest
+  - type: item
     id: 203316 # Winding Slitherdrake: Large Finned Crest
     costs:
       2003: 150
     reputation: 2564 renown-5
 
-  - type: accountTrackingQuest
+  - type: item
     id: 203327 # Winding Slitherdrake: Tan Horns
     costs:
       2003: 150
@@ -101,19 +101,19 @@ sells:
 
   # Renown 13
 
-  - type: accountTrackingQuest
+  - type: item
     id: 203323 # Winding Slitherdrake: Brown Hair
     costs:
       2003: 300
     reputation: 2564 renown-13
 
-  - type: accountTrackingQuest
+  - type: item
     id: 203335 # Winding Slitherdrake: Curved Horns
     costs:
       2003: 300
     reputation: 2564 renown-13
 
-  - type: accountTrackingQuest
+  - type: item
     id: 203341 # Winding Slitherdrake: Long Jaw Horns
     costs:
       2003: 300
@@ -161,19 +161,19 @@ sells:
 
   # Renown 16
 
-  - type: accountTrackingQuest
+  - type: item
     id: 203362 # Winding Slitherdrake: Hairy Tail
     costs:
       2003: 600
     reputation: 2564 renown-16
 
-  - type: accountTrackingQuest
+  - type: item
     id: 203365 # Winding Slitherdrake: Hairy Throat
     costs:
       2003: 600
     reputation: 2564 renown-16
 
-  - type: accountTrackingQuest
+  - type: item
     id: 203347 # Winding Slitherdrake: Large Spiked Nose
     costs:
       2003: 600
@@ -207,7 +207,7 @@ sells:
 
   # Renown 19
 
-  - type: accountTrackingQuest
+  - type: item
     id: 197120 # Highland Drake: Ornate Helm
     costs:
       2003: 1000
