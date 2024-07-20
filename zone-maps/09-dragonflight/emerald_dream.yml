@@ -1046,6 +1046,36 @@ farms:
       id: 210173 # Formula: Enchanted Whelpling's Dreaming Crest
       limit: profession enchanting 2825 35
 
+- name: "{item:210549}" # Dream Racer's Purse
+  groupId: 6
+  location: 0 0
+  reset: daily
+  type: quest
+  drops:
+    - type: item
+      id: 207765 # Grotto Netherwing Slitherdrake: Cluster Spiked Crest
+
+    - type: item
+      id: 207778 # Grotto Netherwing Slitherdrake: Double Finned Tail
+
+    - type: item
+      id: 207758 # Grotto Netherwing Slitherdrake: Spiked Back
+
+    - type: item
+      id: 207768 # Grotto Netherwing Slitherdrake: Volatile Pattern
+
+    - type: item
+      id: 203343 # Winding Slitherdrake: Hairy Jaw
+
+    - type: item
+      id: 203360 # Winding Slitherdrake: Large Finned Tail
+
+    - type: item
+      id: 203333 # Winding Slitherdrake: Short Horns
+
+    - type: item
+      id: 203337 # Winding Slitherdrake: Thorn Horns
+
 - name: "Weekly Cloth"
   groupId: 6
   location: 0 0
