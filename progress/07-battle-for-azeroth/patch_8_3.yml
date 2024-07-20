@@ -55,6 +55,9 @@ groups:
   type: quest
   data:
     0:
+      - name: "Forging Onward"
+        id: 56377
+
       - name: "It's Never Easy"
         id: 56536
 
