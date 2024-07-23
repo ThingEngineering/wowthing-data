@@ -682,10 +682,10 @@ farms:
       note: "Vendors for 3x100g"
 
 - name: "{item:203206}"
-  criteriaId: 137709 # achievement 16301
   location: 60.24 41.64
   minimumLevel: 64
   objectId: 381094
+  questId: 70609
   reset: never
   type: treasure
   drops:
