@@ -12,20 +12,20 @@ locations:
     - 58.4 67.8
 
 sets:
-  - name: "Mounts"
-    range: 1
-    sortKey: "00mounts"
+  # - name: "Mounts"
+  #   range: 1
+  #   sortKey: "00mounts"
 
-  - name: "Pets"
-    range: 2
-    sortKey: "00pets"
+  # - name: "Pets"
+  #   range: 2
+  #   sortKey: "00pets"
 
-  - name: "Toys"
-    range: 2
-    sortKey: "00toys"
+  # - name: "Toys"
+  #   range: 2
+  #   sortKey: "00toys"
 
   - name: "Dreamsurge Cloth"
-    range: 9
+    range: 9 5
     sortKey: "ds01-1"
 
   - name: "Dreamsurge Leather"

@@ -7,8 +7,8 @@ locations:
     - 26.4 55.4
 
 sells:
-  - type: pet
-    id: 3376 # Chip
+  - type: item
+    id: 199326 # Chip
     costs:
       1198357: 1
       1198082: 2

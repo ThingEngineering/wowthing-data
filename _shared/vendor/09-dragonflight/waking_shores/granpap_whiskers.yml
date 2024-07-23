@@ -16,32 +16,32 @@ sets:
     sortKey: "de25"
 
 sells:
-  - type: pet
-    id: 3380 # Black Skitterbug
+  - type: item
+    id: 198726 # Black Skitterbug [pet]
     costs:
       2003: 150
       1201401: 3
       1201404: 5
     reputation: 2507 renown-11
 
-  - type: pet
-    id: 3381 # Gray Marmoni
+  - type: item
+    id: 198725 # Gray Marmoni [pet]
     costs:
       2003: 150
       1201401: 3
       1201404: 5
     reputation: 2507 renown-11
 
-  - type: mount
-    id: 1616 # Azure Skitterfly
+  - type: item
+    id: 192762 # Azure Skitterfly [mount]
     costs:
       2003: 750
       1201401: 5
       1193053: 20
     reputation: 2507 renown-25
 
-  - type: mount
-    id: 1615 # Tamed Skitterfly
+  - type: item
+    id: 192761 # Tamed Skitterfly [mount]
     costs:
       2003: 750
       1201401: 5
