@@ -15,6 +15,11 @@ farms:
   location: 34 58
   type: group
 
+- name: "Shared"
+  groupId: 3
+  location: 20 80
+  type: group
+
 # Kills
 
 - name: "Amephyst"
@@ -122,3 +127,23 @@ farms:
   drops:
     - type: item
       id: 197609 # Windborne Velocidrake: White Horns
+
+# Shared
+
+- name: "{item:204359}" # Reach Racer's Purse
+  groupId: 3
+  location: 0 0
+  reset: daily
+  type: quest
+  drops:
+    - type: item
+      id: 197002 # Cliffside Wylderdrake: Flared Cheek
+
+    - type: item
+      id: 197124 # Highland Drake: Swept Horns
+
+    - type: item
+      id: 202274 # Renewed Proto-Drake: Plated Brow
+    
+    - type: item
+      id: 197594 # Windborne Velocidrake: Small Ears
