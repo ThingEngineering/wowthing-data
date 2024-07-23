@@ -766,3 +766,33 @@ farms:
     - type: item
       id: 203313 # Winding Slitherdrake: Spiked Chin
       note: "Smelly Trash Pile only"
+
+- name: "{item:205226}" # Cavern Racer's Purse
+  groupId: 2
+  location: 0 0
+  reset: daily
+  type: quest
+  drops:
+    - type: item
+      id: 196978 # Cliffside Wylderdrake: Small Head Spikes
+
+    - type: item
+      id: 196997 # Cliffside Wylderdrake: Split Horns
+
+    - type: item
+      id: 197104 # Highland Drake: Tapered Chin
+
+    - type: item
+      id: 202280 # Renewed Proto-Drake: Pronged Tail
+    
+    - type: item
+      id: 203361 # Winding Slitherdrake: Finned Tip Tail
+    
+    - type: item
+      id: 203348 # Winding Slitherdrake: Pointed Nose
+    
+    - type: item
+      id: 203317 # Winding Slitherdrake: Small Finned Crest
+    
+    - type: item
+      id: 203342 # Winding Slitherdrake: Triple Jaw Horns
