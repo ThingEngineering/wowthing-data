@@ -1,0 +1,109 @@
+name: "Pet Battles"
+groups:
+
+- name: "Azj-Kahet"
+  things:
+    - 4456 # Arachnoid Hatchling
+    - 4471 # Aubergine Scootlefish
+    - 4515 # Azure Flickerfly
+    - 4457 # Chitin Burrower
+    - 4499 # Common Ploughworm
+    - 4498 # Ebon Ploughworm
+    - 4571 # Pinkskin Burrower
+    - 4480 # Shadowy Oozeling
+    - 4573 # Skittish Sniffler
+    - 4521 # Subterranean Dartswog
+    - 4522 # Troglofrog
+    - 3550 # Undermoth
+    - 4477 # Verdant Scootlefish
+    - 4516 # Vibrant Glowfly
+    - 4483 # Vile Bloodtick
+    - 4481 # Voidling Ooze
+    - 4510 # Winged Arachnoid
+
+- name: "City of Threads"
+  things:
+    - 4456 # Arachnoid Hatchling
+    - 4515 # Azure Flickerfly
+    - 4457 # Chitin Burrower
+    - 4499 # Common Ploughworm
+    - 4498 # Ebon Ploughworm
+    - 4521 # Subterranean Dartswog
+    - 4522 # Troglofrog
+    - 4516 # Vibrant Glowfly
+
+- name: "Deepforge Golemworks"
+  things:
+    - 4522 # Troglofrog
+
+- name: "Dornogal"
+  things:
+    - 4541 # Bedrock Stonecharger
+    - 4514 # Fallowspark Glowfly
+    - 4518 # Magmashell Crawler
+    - 4526 # Sandstone Mosswool
+
+- name: "Hallowfall"
+  things:
+    - 3525 # Abyssal Lurker
+    - 4456 # Arachnoid Hatchling
+    - 4460 # Arathi Chicken
+    - 4515 # Azure Flickerfly
+    - 4457 # Chitin Burrower
+    - 4499 # Common Ploughworm
+    - 4498 # Ebon Ploughworm
+    - 4514 # Fallowspark Glowfly
+    - 4535 # Ghostcap Menace
+    - 4461 # Greenlands Chicken
+    - 4533 # Meek Bloodlasher
+    - 4521 # Subterranean Dartswog
+    - 4522 # Troglofrog
+    - 4544 # Umbral Amalgam
+    - 4516 # Vibrant Glowfly
+    - 4510 # Winged Arachnoid
+
+- name: "Isle of Dorn"
+  things:
+    - 4540 # Alabaster Stonecharger
+    - 4457 # Chitin Burrower
+    - 4577 # Cinderhoney Emberstinger
+    - 4538 # Cobalt Ramolith
+    - 3361 # Diamond Crab
+    - 4514 # Fallowspark Glowfly
+    - 4525 # Fragrant Stonelamb
+    - 4535 # Ghostcap Menace
+    - 4539 # Granite Ramolith
+    - 4533 # Meek Bloodlasher
+    - 3543 # Ravenous Shalewing
+    - 4529 # Shale Mosswool
+    - 3544 # Shalewing Devourer
+    - 4521 # Subterranean Dartswog
+    - 4522 # Troglofrog
+
+- name: "Ringing Deeps"
+  things:
+    - 4456 # Arachnoid Hatchling
+    - 4515 # Azure Flickerfly
+    - 4457 # Chitin Burrower
+    - 4499 # Common Ploughworm
+    - 4498 # Ebon Ploughworm
+    - 4514 # Fallowspark Glowfly
+    - 4535 # Ghostcap Menace
+    - 4518 # Magmashell Crawler
+    - 4533 # Meek Bloodlasher
+    - 3547 # Mikah
+    - 4571 # Pinkskin Burrower
+    - 4573 # Skittish Sniffler
+    - 4574 # Snuffling
+    - 4521 # Subterranean Dartswog
+    - 4522 # Troglofrog
+    - 4516 # Vibrant Glowfly
+
+- name: "Shadowvein Extraction Site"
+  things:
+    - 4456 # Arachnoid Hatchling
+    - 4515 # Azure Flickerfly
+    - 4457 # Chitin Burrower
+    - 4499 # Common Ploughworm
+    - 4498 # Ebon Ploughworm
+    - 4516 # Vibrant Glowfly

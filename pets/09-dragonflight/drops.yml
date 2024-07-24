@@ -1,6 +1,11 @@
 name: "Drops"
 groups:
 
+- name: "Fyrakk Assaults"
+  things:
+    - 3512 # Ambre
+    - 3511 # Blaise
+
 - name: "Grand Hunts"
   things:
     - 3325 # Bakar Companion
@@ -15,6 +20,7 @@ groups:
 
 - name: "Forbidden Reach"
   things:
+    - 3293 # Ashenwing (Bonesifter Marwak)
     - 3285 # Luvvy (Luttrok)
     - 3291 # Scruffles (Vraken the Hunter)
     - 3261 # Wakyn (Warden Entrix)

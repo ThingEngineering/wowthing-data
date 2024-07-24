@@ -43,9 +43,10 @@ groups:
 
 - name: Love is in the Air
   things:
-  - 1511 # Lovebird Hatchling
-  - 122 # Peddlefeet
-  - 251 # Toxic Wasteling
+    - 3549 # Heartseeker Moth
+    - 1511 # Lovebird Hatchling
+    - 122 # Peddlefeet
+    - 251 # Toxic Wasteling
 
 - name: Lunar Festival
   things:

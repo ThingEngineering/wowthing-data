@@ -1,0 +1,19 @@
+name: "Treasures"
+groups:
+
+- name: "Azj-Kahet"
+  things:
+    - 4599 # Mind Slurp
+
+- name: "Hallowfall"
+  things:
+    - 4534 # Nightfarm Growthling
+
+- name: "Isle of Dorn"
+  things:
+    - 4527 # Lil' Moss Rosy
+    - 3362 # Sapphire Crab
+
+- name: "Ringing Deeps"
+  things:
+    - 4536 # Blightbud

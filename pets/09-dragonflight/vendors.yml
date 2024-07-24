@@ -29,6 +29,10 @@ groups:
     - 3529 # Rango
     - 3537 # Thimblerig
 
+- name: "Forbidden Reach"
+  things:
+    - 3330 # Buckie
+
 - name: "Time Rifts"
   things:
     - 4255 # Briarhorn Hatchling

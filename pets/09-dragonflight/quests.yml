@@ -36,3 +36,10 @@ groups:
     - 3602 # Somnius
     - 3599 # Zalethgos
     - 3598 # Zhusadormu
+
+- name: "Forbidden Reach"
+  things:
+    - 3446 # Vortex
+    - 3447 # Tremblor
+    - 3448 # Wildfire
+    - 3449 # Flow

@@ -7,6 +7,9 @@
     treasures.yml
     vendors.yml
 
+10-the-war-within/_.yml
+    10-the-war-within/pet_battles.yml
+
 09-dragonflight/_.yml
     09-dragonflight/pet_battles.yml
 
@@ -69,6 +72,7 @@ drops.yml
     04-mists-of-pandaria/drops.yml Mists of Pandaria
 
 instances.yml
+    09-dragonflight/instances.yml Dragonflight
     08-shadowlands/instances.yml Shadowlands
     07-battle-for-azeroth/instances.yml Battle for Azeroth
     04-mists-of-pandaria/instances.yml Mists of Pandaria
@@ -78,6 +82,7 @@ instances.yml
     00-classic/instances.yml Classic
 
 pet_battles.yml
+    10-the-war-within/pet_battles.yml The War Within
     09-dragonflight/pet_battles.yml Dragonflight
     08-shadowlands/pet_battles.yml Shadowlands
     07-battle-for-azeroth/pet_battles.yml Battle for Azeroth

@@ -19,3 +19,7 @@ groups:
   things:
     - 3379 # Crimson Proto-Whelp (Renown 18)
     - 3378 # Magic Nibbler (Renown 18)
+
+- name: "Winterpelt Furbolg"
+  things:
+    - 3427 # Driftling
