@@ -1,0 +1,17 @@
+name: "Mage"
+groups:
+
+- name: "Polymorph"
+  teachesSpells: true
+  things:
+    - itemId: 44709 # Tome of Polymorph: Black Cat
+    - itemId: 162626 # Tome of Polymorph: Bumblebee
+    - itemId: 162625 # Tome of Polymorph: Direhorn
+    - itemId: 200205 # Tome of Polymorph: Duck
+    - itemId: 120138 # Tome of Polymorph: Monkey
+    - itemId: 227710 # Tome of Polymorph: Mosswool
+    - itemId: 120139 # Tome of Polymorph: Penguin
+    - itemId: 120137 # Tome of Polymorph: Polar Bear Cub
+    - itemId: 120140 # Tome of Polymorph: Porcupine
+    - itemId: 44793 # Tome of Polymorph: Rabbit
+    - itemId: 22739 # Tome of Polymorph: Turtle

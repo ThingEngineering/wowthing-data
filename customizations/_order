@@ -1,5 +1,7 @@
 class/_.yml
     class/druid.yml
+    class/mage.yml
+    class/shaman.yml
     class/warlock.yml
 
 dragonriding/_.yml
