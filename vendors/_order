@@ -132,4 +132,5 @@ world-events/_world_events.yml
     world-events/noblegarden.yml
     world-events/timewalking.yml
     -
-    world-events/09-elemental-invasion.yml
+    world-events/09-elemental_invasion.yml
+    world-events/10-radiant_echoes.yml

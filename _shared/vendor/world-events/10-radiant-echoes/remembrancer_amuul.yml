@@ -1,0 +1,377 @@
+id: 223710
+name: "Remembrancer Amuul"
+note: "Residual Memories Vendor"
+
+locations:
+  unknown:
+    - 50 50
+
+sets:
+  - name: "Mounts"
+    range: 2
+    sortKey: "00mounts"
+  
+  - name: "Pets"
+    range: 3
+    sortKey: "00pets"
+  
+  - name: "Cloth Armor"
+    range: 9
+    sortKey: "armor-1"
+  
+  - name: "Leather Armor"
+    range: 9
+    sortKey: "armor-2"
+  
+  - name: "Mail Armor"
+    range: 9
+    sortKey: "armor-3"
+  
+  - name: "Plate Armor"
+    range: 9
+    sortKey: "armor-4"
+
+
+tags:
+  - "radiant-echoes"
+
+sells:
+
+  # Mounts
+
+  - type: item
+    id: 217985 # Remembered Golden Gryphon
+    costs:
+      3089: 20000
+
+  - type: item
+    id: 217987 # Remembered Wind Rider
+    costs:
+      3089: 20000
+
+  # Pets
+
+  - type: item
+    id: 218245 # Remembered Construct
+    costs:
+      3089: 10000
+
+  - type: item
+    id: 218086 # Remembered Riverpaw
+    costs:
+      3089: 10000
+
+  - type: item
+    id: 218246 # Remembered Spawn
+    costs:
+      3089: 10000
+
+  # Cloth
+
+  - type: item
+    id: 218050 # Dalaran Defender's Coronet [cloth head]
+    costs:
+      3089: 5000
+
+  - type: item
+    id: 218054 # Dalaran Defender's Mantle [cloth shoulders]
+    costs:
+      3089: 3500
+
+  - type: item
+    id: 218080 # Dalaran Defender's Cloak [cloak]
+    costs:
+      3089: 2000
+
+  - type: item
+    id: 218047 # Dalaran Defender's Robes [cloth chest]
+    costs:
+      3089: 5000
+
+  - type: item
+    id: 218053 # Dalaran Defender's Clasps [cloth wrists]
+    costs:
+      3089: 2000
+
+  - type: item
+    id: 218049 # Dalaran Defender's Mitts [cloth hands]
+    costs:
+      3089: 3500
+
+  - type: item
+    id: 218052 # Dalaran Defender's Greatbelt [cloth waist]
+    costs:
+      3089: 3500
+
+  - type: item
+    id: 218051 # Dalaran Defender's Leggings [cloth legs]
+    costs:
+      3089: 5000
+
+  - type: item
+    id: 218048 # Dalaran Defender's Loafers [cloth feet]
+    costs:
+      3089: 3500
+
+  # Leather
+
+  - type: item
+    id: 218057 # Dalaran Defender's Mask [leather head]
+    costs:
+      3089: 5000
+
+  - type: item
+    id: 218062 # Dalaran Defender's Shoulderblades [leather shoulders]
+    costs:
+      3089: 3500
+
+  - type: item
+    id: 218081 # Dalaran Defender's Drape [cloak]
+    costs:
+      3089: 2000
+
+  - type: item
+    id: 218061 # Dalaran Defender's Tunic [leather chest]
+    costs:
+      3089: 5000
+
+  - type: item
+    id: 218060 # Dalaran Defender's Wraps [leather wrists]
+    costs:
+      3089: 2000
+
+  - type: item
+    id: 218056 # Dalaran Defender's Grips [leather hands]
+    costs:
+      3089: 3500
+
+  - type: item
+    id: 218059 # Dalaran Defender's Buckle [leather waist]
+    costs:
+      3089: 3500
+
+  - type: item
+    id: 218058 # Dalaran Defender's Pants [leather legs]
+    costs:
+      3089: 5000
+
+  - type: item
+    id: 218055 # Dalaran Defender's Treads [leather feet]
+    costs:
+      3089: 3500
+
+  # Mail
+
+  - type: item
+    id: 218073 # Dalaran Defender's Helmet [mail head]
+    costs:
+      3089: 5000
+
+  - type: item
+    id: 218075 # Dalaran Defender's Epaulets [mail shoulders]
+    costs:
+      3089: 3500
+
+  - type: item
+    id: 218078 # Dalaran Defender's Cape [cloak]
+    costs:
+      3089: 2000
+
+  - type: item
+    id: 218070 # Dalaran Defender's Chainmail [mail chest]
+    costs:
+      3089: 5000
+
+  - type: item
+    id: 218077 # Dalaran Defender's Armguards [mail wrists]
+    costs:
+      3089: 2000
+
+  - type: item
+    id: 218072 # Dalaran Defender's Grips [mail hands]
+    costs:
+      3089: 3500
+
+  - type: item
+    id: 218076 # Dalaran Defender's Cinch [mail waist]
+    costs:
+      3089: 3500
+
+  - type: item
+    id: 218074 # Dalaran Defender's Legguards [mail legs]
+    costs:
+      3089: 5000
+
+  - type: item
+    id: 218071 # Dalaran Defender's Stompers [mail feet]
+    costs:
+      3089: 3500
+
+  # Plate
+
+  - type: item
+    id: 218063 # Dalaran Defender's Helm [plate head]
+    costs:
+      3089: 5000
+
+  - type: item
+    id: 218067 # Dalaran Defender's Spaulders [plate shoulders]
+    costs:
+      3089: 3500
+
+  - type: item
+    id: 218079 # Dalaran Defender's Shawl [cloak]
+    costs:
+      3089: 2000
+
+  - type: item
+    id: 218064 # Dalaran Defender's Breastplate [plate chest]
+    costs:
+      3089: 5000
+
+  - type: item
+    id: 218069 # Dalaran Defender's Bracers [plate wrists]
+    costs:
+      3089: 2000
+
+  - type: item
+    id: 218066 # Dalaran Defender's Gauntlets [plate hands]
+    costs:
+      3089: 3500
+
+  - type: item
+    id: 218068 # Dalaran Defender's Clasp [plate waist]
+    costs:
+      3089: 3500
+
+  - type: item
+    id: 218006 # Dalaran Defender's Greaves [plate legs]
+    costs:
+      3089: 5000
+
+  - type: item
+    id: 218065 # Dalaran Defender's Boots [plate feet]
+    costs:
+      3089: 3500
+
+  # Weapons
+
+  - type: item
+    id: 223647 # Lifeless Stone Ring
+    costs:
+      3089: 25
+
+  - type: item
+    id: 219229 # Dalaran Defender's Battleaxe [1h ? axe]
+    costs:
+      3089: 4000
+
+  - type: item
+    id: 219231 # Dalaran Defender's Carver [1h ? axe]
+    costs:
+      3089: 4000
+
+  - type: item
+    id: 219230 # Dalaran Defender's Hatchet [1h ? axe]
+    costs:
+      3089: 5000
+
+  - type: item
+    id: 219249 # Dalaran Defender's Crusher [1h ? mace]
+    costs:
+      3089: 4000
+
+  - type: item
+    id: 219248 # Dalaran Defender's Mace [1h ? mace]
+    costs:
+      3089: 4000
+
+  - type: item
+    id: 219250 # Dalaran Defender's Scepter [1h ? mace]
+    costs:
+      3089: 5000
+
+  - type: item
+    id: 219240 # Dalaran Defender's Broadsword [2h ? sword]
+    costs:
+      3089: 8000
+
+  - type: item
+    id: 219239 # Dalaran Defender's Greatsword [2h ? sword]
+    costs:
+      3089: 8000
+
+  - type: item
+    id: 219235 # Dalaran Defender's Blade [1h ? sword]
+    costs:
+      3089: 4000
+
+  - type: item
+    id: 219251 # Dalaran Defender's Sabre [1h ? sword]
+    costs:
+      3089: 4000
+
+  - type: item
+    id: 219234 # Dalaran Defender's Spellblade [1h ? sword]
+    costs:
+      3089: 5000
+
+  - type: item
+    id: 219241 # Dalaran Defender's Club [2h ? mace]
+    costs:
+      3089: 8000
+
+  - type: item
+    id: 219242 # Dalaran Defender's Hammer [2h ? mace]
+    costs:
+      3089: 8000
+
+  - type: item
+    id: 219252 # Dalaran Defender's Dagger [? dagger]
+    costs:
+      3089: 5000
+
+  - type: item
+    id: 219253 # Dalaran Defender's Dirk [? dagger]
+    costs:
+      3089: 4000
+
+  - type: item
+    id: 219247 # Dalaran Defender's Wand [wand]
+    costs:
+      3089: 5000
+
+  - type: item
+    id: 219245 # Dalaran Defender's Impaler [polearm]
+    costs:
+      3089: 8000
+
+  - type: item
+    id: 219246 # Dalaran Defender's Spear [polearm]
+    costs:
+      3089: 8000
+
+  - type: item
+    id: 219238 # Dalaran Defender's Battlestaff [staff]
+    costs:
+      3089: 8000
+
+  - type: item
+    id: 219237 # Dalaran Defender's Spire [staff]
+    costs:
+      3089: 8000
+
+  - type: item
+    id: 219232 # Dalaran Defender's Bolter [crossbow]
+    costs:
+      3089: 8000
+
+  - type: item
+    id: 219236 # Dalaran Defender's Conduit [off-hand]
+    costs:
+      3089: 3000
+
+  - type: item
+    id: 219244 # Dalaran Defender's Aegis [shield]
+    costs:
+      3089: 3000

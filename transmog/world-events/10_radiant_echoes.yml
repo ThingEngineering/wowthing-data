@@ -1,0 +1,19 @@
+name: "Radiant Echoes"
+groups:
+  
+- name: "Event"
+  type: armor
+  sets:
+    - "Dalaran Defender"
+  data:
+    cloth:
+      - transmogSetId: 3665 # Dalaran Defender's Cloth Armor
+
+    leather:
+      - transmogSetId: 3667 # Dalaran Defender's Leather Armor
+
+    mail:
+      - transmogSetId: 3666 # Dalaran Defender's Mail Armor
+
+    plate:
+      - transmogSetId: 3664 # Dalaran Defender's Plate Armor
