@@ -11,6 +11,10 @@ sets:
     range: -1
     sortKey: "armor-9-shared"
 
+tags:
+  - "pvp"
+  - "pvp-s25"
+
 sells:
   # 0
 

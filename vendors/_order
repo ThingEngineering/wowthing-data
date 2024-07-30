@@ -115,9 +115,17 @@
 -
 
 pvp/_pvp.yml
+    pvp/10_the_war_within.yml
+    pvp/09_dragonflight.yml
+    pvp/08_shadowlands.yml
+    pvp/07_battle_for_azeroth.yml
+    pvp/06_legion.yml
+    pvp/05_warlords_of_draenor.yml
     pvp/04_mists_of_pandaria.yml
+    pvp/03_cataclysm.yml
     pvp/02_wrath_of_the_lich_king.yml
     pvp/01_the_burning_crusade.yml
+    pvp/00_classic.yml
 
 remix/_.yml
     remix/04-pandaria.yml

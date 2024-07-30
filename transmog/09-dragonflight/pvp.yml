@@ -2,7 +2,7 @@ name: PvP
 groups:
 
 - name: "Dragonflight Season 3 / 4"
-  tag: "S34-35"
+  tag: "S36-37"
   type: class
   sets:
     - "Elite*"
@@ -126,7 +126,7 @@ groups:
         wowheadSetId:
 
 - name: "Dragonflight Season 3 / 4"
-  tag: "S34-35"
+  tag: "S36-37"
   type: armor
   sets:
   - "Aspirant"
@@ -152,7 +152,7 @@ groups:
         wowheadSetId:
 
 - name: "Dragonflight Season 2"
-  tag: "S33"
+  tag: "S35"
   type: class
   sets:
   - "Elite*"
@@ -276,7 +276,7 @@ groups:
         wowheadSetId:
 
 - name: "Dragonflight Season 2"
-  tag: "S33"
+  tag: "S35"
   type: armor
   sets:
   - "Aspirant"
@@ -302,7 +302,7 @@ groups:
         wowheadSetId:
 
 - name: "Dragonflight Season 1"
-  tag: "S32"
+  tag: "S34"
   type: class
   sets:
   - "Elite*"
@@ -426,7 +426,7 @@ groups:
         wowheadSetId:
 
 - name: "Dragonflight Season 1"
-  tag: "S32"
+  tag: "S34"
   type: armor
   sets:
   - "Aspirant"

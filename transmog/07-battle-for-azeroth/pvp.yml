@@ -4,7 +4,7 @@ skipClasses:
 groups:
 
 - name: "Battle Season 4" # Corrupted
-  tag: S27
+  tag: S29
   type: armor
   sets:
     - ":alliance: Elite*"
@@ -52,7 +52,7 @@ groups:
         wowheadSetId:
 
 - name: "Battle Season 4" # Corrupted
-  tag: S27
+  tag: S29
   type: all
   sets:
     - ":alliance: Gladiator Weapons"
@@ -67,7 +67,7 @@ groups:
       - transmogSetId: 2197
 
 - name: "Battle Season 3" # Notorious
-  tag: S26
+  tag: S28
   type: armor
   sets:
     - ":alliance: Elite*"
@@ -154,7 +154,7 @@ groups:
         wowheadSetId: 2968
 
 - name: "Battle Season 3" # Notorious
-  tag: S26
+  tag: S28
   type: all
   sets:
     - ":alliance: Gladiator Weapons"
@@ -169,7 +169,7 @@ groups:
       - transmogSetId: 2192
 
 - name: "Battle Season 2" # Sinister
-  tag: S25
+  tag: S27
   type: armor
   sets:
     - ":alliance: Elite*"
@@ -256,7 +256,7 @@ groups:
         wowheadSetId: 2927
 
 - name: "Battle Season 2" # Sinister
-  tag: S25
+  tag: S27
   type: all
   sets:
     - ":alliance: Gladiator Weapons"
@@ -271,7 +271,7 @@ groups:
       - transmogSetId: 2188
 
 - name: "Battle Season 1" # Dread
-  tag: S24
+  tag: S26
   type: armor
   sets:
   - ":alliance: Elite*"

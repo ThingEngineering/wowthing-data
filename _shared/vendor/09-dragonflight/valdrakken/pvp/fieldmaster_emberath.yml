@@ -27,6 +27,13 @@ sets:
     range: -1
     sortKey: "ps15"
 
+tags:
+  - "pvp"
+  - "pvp-s34"
+  - "pvp-s35"
+  - "pvp-s36"
+  - "pvp-s37"
+
 sells:
   - type: toy
     id: 202021 # Breaker's Flag of Victory

@@ -4,7 +4,7 @@ skipClasses:
 groups:
 
 - name: "Shadowlands Season 4" # Unburied / Eternal
-  tag: S31
+  tag: S33
   type: class
   sets:
     - "Elite*"
@@ -119,7 +119,7 @@ groups:
         wowheadSetId:
 
 - name: "Shadowlands Season 4"
-  tag: S31
+  tag: S33
   type: armor
   sets:
     - "Aspirant"
@@ -145,7 +145,7 @@ groups:
         wowheadSetId:
 
 - name: "Shadowlands Season 3"
-  tag: S30
+  tag: S32
   type: class
   sets:
   - "Elite*"
@@ -260,7 +260,7 @@ groups:
         wowheadSetId:
 
 - name: Shadowlands Season 3
-  tag: S30
+  tag: S32
   type: armor
   sets:
   - Aspirant
@@ -286,7 +286,7 @@ groups:
         wowheadSetId:
 
 - name: "Shadowlands Season 3"
-  tag: S30
+  tag: S32
   type: all
   sets:
     - "Gladiator Weapons"
@@ -302,7 +302,7 @@ groups:
         wowheadSetId:
 
 - name: Shadowlands Season 2
-  tag: S29
+  tag: S31
   type: armor
   sets:
     - Elite*
@@ -362,7 +362,7 @@ groups:
         wowheadSetId:
 
 - name: "Shadowlands Season 2"
-  tag: S29
+  tag: S31
   type: all
   sets:
     - "Gladiator Weapons"
@@ -378,7 +378,7 @@ groups:
         wowheadSetId:
 
 - name: Shadowlands Season 1
-  tag: S28
+  tag: S30
   type: armor
   sets:
   - Elite*
@@ -438,7 +438,7 @@ groups:
         wowheadSetId: 11910
 
 - name: "Shadowlands Season 1"
-  tag: S28
+  tag: S30
   type: all
   sets:
     - ":covenant-kyrian: Gladiator Weapons"
