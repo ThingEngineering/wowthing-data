@@ -1,0 +1,95 @@
+id: 64051
+name: "Esha the Loommaiden"
+note: "Tailoring Supplies"
+zoneMapsGroupId: 1
+
+locations:
+  z4_vale_of_eternal_blossoms:
+    - 59.6 12.6 horde
+
+sets:
+  - name: "Recipes - Tailoring"
+    range: -1
+
+sells:
+  # 0
+
+  - type: item
+    id: 86361 # Pattern: Contender's Satin Amice
+    costs:
+      1076061: 1
+
+  - type: item
+    id: 86367 # Pattern: Contender's Satin Belt
+    costs:
+      1076061: 1
+
+  - type: item
+    id: 86360 # Pattern: Contender's Satin Cowl
+    costs:
+      1076061: 1
+
+  - type: item
+    id: 86365 # Pattern: Contender's Satin Cuffs
+    costs:
+      1076061: 1
+
+  - type: item
+    id: 86366 # Pattern: Contender's Satin Footwraps
+    costs:
+      1076061: 1
+
+  - type: item
+    id: 86363 # Pattern: Contender's Satin Handwraps
+    costs:
+      1076061: 1
+
+  - type: item
+    id: 86364 # Pattern: Contender's Satin Pants
+    costs:
+      1076061: 1
+
+  - type: item
+    id: 86362 # Pattern: Contender's Satin Raiment
+    costs:
+      1076061: 1
+
+  - type: item
+    id: 86353 # Pattern: Contender's Silk Amice
+    costs:
+      1076061: 1
+
+  - type: item
+    id: 86359 # Pattern: Contender's Silk Belt
+    costs:
+      1076061: 1
+
+  - type: item
+    id: 86352 # Pattern: Contender's Silk Cowl
+    costs:
+      1076061: 1
+
+  - type: item
+    id: 86357 # Pattern: Contender's Silk Cuffs
+    costs:
+      1076061: 1
+
+  - type: item
+    id: 86358 # Pattern: Contender's Silk Footwraps
+    costs:
+      1076061: 1
+
+  - type: item
+    id: 86355 # Pattern: Contender's Silk Handwraps
+    costs:
+      1076061: 1
+
+  - type: item
+    id: 86356 # Pattern: Contender's Silk Pants
+    costs:
+      1076061: 1
+
+  - type: item
+    id: 86354 # Pattern: Contender's Silk Raiment
+    costs:
+      1076061: 1

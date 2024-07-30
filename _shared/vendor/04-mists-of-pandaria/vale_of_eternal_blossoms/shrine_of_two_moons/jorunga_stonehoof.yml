@@ -1,0 +1,145 @@
+id: 64058
+name: "Jorunga Stonehoof"
+note: "Blacksmithing Supplies"
+zoneMapsGroupId: 1
+
+locations:
+  z4_vale_of_eternal_blossoms:
+    - 59.2 11.8 horde
+
+sets:
+  - name: "Recipes - Blacksmithing"
+    range: -1
+
+sells:
+  # 0
+
+  - type: item
+    id: 84158 # Plans: Contender's Revenant Belt
+    costs:
+      1076061: 1
+
+  - type: item
+    id: 84159 # Plans: Contender's Revenant Boots
+    costs:
+      1076061: 1
+
+  - type: item
+    id: 84160 # Plans: Contender's Revenant Bracers
+    costs:
+      1076061: 1
+
+  - type: item
+    id: 84161 # Plans: Contender's Revenant Breastplate
+    costs:
+      1076061: 1
+
+  - type: item
+    id: 84162 # Plans: Contender's Revenant Gauntlets
+    costs:
+      1076061: 1
+
+  - type: item
+    id: 84163 # Plans: Contender's Revenant Helm
+    costs:
+      1076061: 1
+
+  - type: item
+    id: 84164 # Plans: Contender's Revenant Legplates
+    costs:
+      1076061: 1
+
+  - type: item
+    id: 84165 # Plans: Contender's Revenant Shoulders
+    costs:
+      1076061: 1
+
+  - type: item
+    id: 84166 # Plans: Contender's Spirit Belt
+    costs:
+      1076061: 1
+
+  - type: item
+    id: 84167 # Plans: Contender's Spirit Boots
+    costs:
+      1076061: 1
+
+  - type: item
+    id: 84168 # Plans: Contender's Spirit Bracers
+    costs:
+      1076061: 1
+
+  - type: item
+    id: 84169 # Plans: Contender's Spirit Breastplate
+    costs:
+      1076061: 1
+
+  - type: item
+    id: 84170 # Plans: Contender's Spirit Gauntlets
+    costs:
+      1076061: 1
+
+  - type: item
+    id: 84171 # Plans: Contender's Spirit Helm
+    costs:
+      1076061: 1
+
+  - type: item
+    id: 84172 # Plans: Contender's Spirit Legplates
+    costs:
+      1076061: 1
+
+  - type: item
+    id: 84173 # Plans: Contender's Spirit Shoulders
+    costs:
+      1076061: 1
+
+  - type: item
+    id: 84208 # Plans: Masterwork Lightsteel Shield
+    costs:
+      1076061: 1
+
+  - type: item
+    id: 84219 # Plans: Masterwork Spiritguard Belt
+    costs:
+      1076061: 1
+
+  - type: item
+    id: 84220 # Plans: Masterwork Spiritguard Boots
+    costs:
+      1076061: 1
+
+  - type: item
+    id: 84221 # Plans: Masterwork Spiritguard Bracers
+    costs:
+      1076061: 1
+
+  - type: item
+    id: 84222 # Plans: Masterwork Spiritguard Breastplate
+    costs:
+      1076061: 1
+
+  - type: item
+    id: 84223 # Plans: Masterwork Spiritguard Gauntlets
+    costs:
+      1076061: 1
+
+  - type: item
+    id: 84224 # Plans: Masterwork Spiritguard Helm
+    costs:
+      1076061: 1
+
+  - type: item
+    id: 84225 # Plans: Masterwork Spiritguard Legplates
+    costs:
+      1076061: 1
+
+  - type: item
+    id: 84226 # Plans: Masterwork Spiritguard Shield
+    costs:
+      1076061: 1
+
+  - type: item
+    id: 84227 # Plans: Masterwork Spiritguard Shoulders
+    costs:
+      1076061: 1

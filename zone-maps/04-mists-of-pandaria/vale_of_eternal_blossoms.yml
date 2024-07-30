@@ -2,6 +2,13 @@ name: "Vale of Eternal Blossoms"
 mapName: "z4_vale_of_eternal_blossoms"
 farms:
 
+# Group
+
+- name: "Shrine of Two Moons"
+  groupId: 1
+  location: 60 21
+  type: group
+
 # Instance
 
 - name: "Mogu'shan Palace"
@@ -171,6 +178,7 @@ farms:
 
 - name: "Heroic Deeds"
   faction: horde
+  groupId: 1
   location: 61.7 19.4
   note: "From Jinho the Wind Breaker"
   questId: 32901

@@ -1,0 +1,175 @@
+id: 64054
+name: "Krogo Darkhide"
+note: "Leatherworking & Skinning Supplies"
+zoneMapsGroupId: 1
+
+locations:
+  z4_vale_of_eternal_blossoms:
+    - 59.6 11.8 horde
+
+sets:
+  - name: "Recipes - Leatherworking"
+    range: -1
+
+sells:
+  # 0
+
+  - type: item
+    id: 86240 # Pattern: Contender's Dragonscale Belt
+    costs:
+      1076061: 1
+
+  - type: item
+    id: 86241 # Pattern: Contender's Dragonscale Boots
+    costs:
+      1076061: 1
+
+  - type: item
+    id: 86242 # Pattern: Contender's Dragonscale Bracers
+    costs:
+      1076061: 1
+
+  - type: item
+    id: 86243 # Pattern: Contender's Dragonscale Chestguard
+    costs:
+      1076061: 1
+
+  - type: item
+    id: 86244 # Pattern: Contender's Dragonscale Gloves
+    costs:
+      1076061: 1
+
+  - type: item
+    id: 86245 # Pattern: Contender's Dragonscale Helm
+    costs:
+      1076061: 1
+
+  - type: item
+    id: 86246 # Pattern: Contender's Dragonscale Leggings
+    costs:
+      1076061: 1
+
+  - type: item
+    id: 86247 # Pattern: Contender's Dragonscale Shoulders
+    costs:
+      1076061: 1
+
+  - type: item
+    id: 86248 # Pattern: Contender's Leather Belt
+    costs:
+      1076061: 1
+
+  - type: item
+    id: 86249 # Pattern: Contender's Leather Boots
+    costs:
+      1076061: 1
+
+  - type: item
+    id: 86250 # Pattern: Contender's Leather Bracers
+    costs:
+      1076061: 1
+
+  - type: item
+    id: 86251 # Pattern: Contender's Leather Chestguard
+    costs:
+      1076061: 1
+
+  - type: item
+    id: 86252 # Pattern: Contender's Leather Gloves
+    costs:
+      1076061: 1
+
+  - type: item
+    id: 86253 # Pattern: Contender's Leather Helm
+    costs:
+      1076061: 1
+
+  - type: item
+    id: 86254 # Pattern: Contender's Leather Leggings
+    costs:
+      1076061: 1
+
+  - type: item
+    id: 86255 # Pattern: Contender's Leather Shoulders
+    costs:
+      1076061: 1
+
+  - type: item
+    id: 86256 # Pattern: Contender's Scale Belt
+    costs:
+      1076061: 1
+
+  - type: item
+    id: 86257 # Pattern: Contender's Scale Boots
+    costs:
+      1076061: 1
+
+  - type: item
+    id: 86258 # Pattern: Contender's Scale Bracers
+    costs:
+      1076061: 1
+
+  - type: item
+    id: 86259 # Pattern: Contender's Scale Chestguard
+    costs:
+      1076061: 1
+
+  - type: item
+    id: 86260 # Pattern: Contender's Scale Gloves
+    costs:
+      1076061: 1
+
+  - type: item
+    id: 86261 # Pattern: Contender's Scale Helm
+    costs:
+      1076061: 1
+
+  - type: item
+    id: 86262 # Pattern: Contender's Scale Leggings
+    costs:
+      1076061: 1
+
+  - type: item
+    id: 86263 # Pattern: Contender's Scale Shoulders
+    costs:
+      1076061: 1
+
+  - type: item
+    id: 86264 # Pattern: Contender's Wyrmhide Belt
+    costs:
+      1076061: 1
+
+  - type: item
+    id: 86265 # Pattern: Contender's Wyrmhide Boots
+    costs:
+      1076061: 1
+
+  - type: item
+    id: 86266 # Pattern: Contender's Wyrmhide Bracers
+    costs:
+      1076061: 1
+
+  - type: item
+    id: 86267 # Pattern: Contender's Wyrmhide Chestguard
+    costs:
+      1076061: 1
+
+  - type: item
+    id: 86268 # Pattern: Contender's Wyrmhide Gloves
+    costs:
+      1076061: 1
+
+  - type: item
+    id: 86269 # Pattern: Contender's Wyrmhide Helm
+    costs:
+      1076061: 1
+
+  - type: item
+    id: 86270 # Pattern: Contender's Wyrmhide Leggings
+    costs:
+      1076061: 1
+
+  - type: item
+    id: 86271 # Pattern: Contender's Wyrmhide Shoulders
+    costs:
+      1076061: 1
