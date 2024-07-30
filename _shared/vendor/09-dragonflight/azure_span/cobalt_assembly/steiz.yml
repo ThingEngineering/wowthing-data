@@ -1,0 +1,330 @@
+id: 196862
+name: "Steiz"
+note: "Quartermaster"
+zoneMapsGroupId: 5
+
+locations:
+  09-dragonflight/azure_span:
+    - 49.4 22.6
+
+sets:
+  - name: "Cobalt Empty"
+    range: 1
+    sortKey: "cobalt-0"
+
+  - name: "Cobalt Low"
+    range: 2
+    sortKey: "cobalt-1"
+
+  - name: "Cobalt Medium"
+    range: 2
+    sortKey: "cobalt-2"
+
+  - name: "Cobalt High"
+    range: 10
+    sortKey: "cobalt-3"
+
+  - name: "Cobalt Maximum"
+    range: -1
+    sortKey: "cobalt-4"
+
+sells:
+
+  # Empty
+
+  - type: item
+    id: 197584 # Windborne Velocidrake: Finned Back
+    costs:
+      2003: 50
+
+  - type: item
+    id: 217891 # Cobalt Guardian's Cloak [cloak]
+    costs:
+      2003: 100
+      1190329: 1
+
+  # Low
+
+  - type: item
+    id: 196969 # Cliffside Wylderdrake: Finned Back
+    costs:
+      2003: 100
+
+  - type: item
+    id: 197355 # Renewed Proto-Drake: Thick Spined Jaw
+    costs:
+      2003: 100
+
+  # Medium
+
+  - type: item
+    id: 197107 # Highland Drake: Triple Finned Head
+    costs:
+      2003: 200
+
+  - type: item
+    id: 197620 # Windborne Velocidrake: Beaked Snout
+    costs:
+      2003: 200
+
+  # High
+
+  - type: item
+    id: 197018 # Cliffside Wylderdrake: Finned Tail
+    costs:
+      2003: 400
+
+  - type: item
+    id: 197148 # Highland Drake: Vertical Finned Tail
+    costs:
+      2003: 400
+
+  - type: item
+    id: 191831 # Cobalt Guardian's Helm [mail head]
+    costs:
+      2003: 100
+      1190329: 1
+
+  - type: item
+    id: 191833 # Cobalt Guardian's Pauldron [mail shoulders]
+    costs:
+      2003: 100
+      1190329: 1
+
+  - type: item
+    id: 191829 # Cobalt Guardian's Hauberk [mail chest]
+    costs:
+      2003: 100
+      1190329: 1
+
+  - type: item
+    id: 191835 # Cobalt Guardian's Bracers [mail wrists]
+    costs:
+      2003: 100
+      1190329: 1
+
+  - type: item
+    id: 191830 # Cobalt Guardian's Grips [mail hands]
+    costs:
+      2003: 100
+      1190329: 1
+
+  - type: item
+    id: 191834 # Cobalt Guardian's Belt [mail waist]
+    costs:
+      2003: 100
+      1190329: 1
+
+  - type: item
+    id: 191832 # Cobalt Guardian's Leggings [mail legs]
+    costs:
+      2003: 100
+      1190329: 1
+
+  - type: item
+    id: 191836 # Cobalt Guardian's Cover [mail feet]
+    costs:
+      2003: 100
+      1190329: 1
+
+  # Maximum
+
+  - type: item
+    id: 197368 # Renewed Proto-Drake: Blue Hair
+    costs:
+      2003: 600
+
+  - type: item
+    id: 199737 # Cobalt Dragonflame Blade [1h ? sword]
+    costs:
+      2003: 600
+      1200866: 1
+      1201404: 5
+
+  - type: item
+    id: 200559 # Cobalt Duelist's Saber [1h ? sword]
+    costs:
+      2003: 600
+      1188658: 5
+      1201404: 5
+
+  - type: item
+    id: 199735 # Cobalt Guardian's Cutlass [1h ? sword]
+    costs:
+      2003: 600
+      1190396: 10
+      1201406: 1
+
+  - type: item
+    id: 199701 # Cobalt Dragonwing Decapitator [2h ? axe]
+    costs:
+      2003: 600
+      1198397: 1
+      1193214: 10
+
+  - type: item
+    id: 201371 # Cobalt Defender's Shredder [fist]
+    costs:
+      2003: 600
+      1190396: 10
+      1201404: 5
+
+  - type: item
+    id: 199733 # Cobalt Defender's Wingglaive [warglaive]
+    costs:
+      2003: 600
+      1190396: 10
+      1201404: 5
+
+  - type: item
+    id: 199706 # Cobalt Stalker's Lancet [polearm]
+    costs:
+      2003: 600
+      1190396: 10
+      1201404: 5
+
+  - type: item
+    id: 199708 # Cobalt Wingguard's Polearm [polearm]
+    costs:
+      2003: 600
+      1190396: 10
+      1193214: 10
+
+  - type: item
+    id: 199731 # Cobalt Bladewing Staff [staff]
+    costs:
+      2003: 600
+      1190396: 10
+      1201404: 5
+
+  - type: item
+    id: 199729 # Cobalt Essence Weaver's Staff [staff]
+    costs:
+      2003: 600
+      1190396: 10
+      1201404: 5
+
+  - type: item
+    id: 199727 # Cobalt Essence Weaver's Scepter [off-hand]
+    costs:
+      2003: 600
+      1190396: 10
+      1201404: 5
+
+  - type: item
+    id: 199703 # Steadfast Cobalt Bulwark [shield]
+    costs:
+      2003: 600
+      1198397: 1
+      1193214: 10
+
+  # 0
+
+  - type: item
+    id: 199727 # Cobalt Essence Weaver's Scepter [off-hand]
+    costs:
+      2003: 600
+      1190396: 10
+      1201404: 5
+
+  - type: item
+    id: 199703 # Steadfast Cobalt Bulwark [shield]
+    costs:
+      2003: 600
+      1198397: 1
+      1193214: 10
+
+  - type: item
+    id: 199737 # Cobalt Dragonflame Blade [1h ? sword]
+    costs:
+      2003: 600
+      1200866: 1
+      1201404: 5
+
+  - type: item
+    id: 200559 # Cobalt Duelist's Saber [1h ? sword]
+    costs:
+      2003: 600
+      1188658: 5
+      1201404: 5
+
+  - type: item
+    id: 199735 # Cobalt Guardian's Cutlass [1h ? sword]
+    costs:
+      2003: 600
+      1190396: 10
+      1201406: 1
+
+  - type: item
+    id: 199701 # Cobalt Dragonwing Decapitator [2h ? axe]
+    costs:
+      2003: 600
+      1198397: 1
+      1193214: 10
+
+  - type: item
+    id: 201371 # Cobalt Defender's Shredder [fist]
+    costs:
+      2003: 600
+      1190396: 10
+      1201404: 5
+
+  - type: item
+    id: 199733 # Cobalt Defender's Wingglaive [warglaive]
+    costs:
+      2003: 600
+      1190396: 10
+      1201404: 5
+
+  - type: item
+    id: 199706 # Cobalt Stalker's Lancet [polearm]
+    costs:
+      2003: 600
+      1190396: 10
+      1201404: 5
+
+  - type: item
+    id: 199708 # Cobalt Wingguard's Polearm [polearm]
+    costs:
+      2003: 600
+      1190396: 10
+      1193214: 10
+
+  - type: item
+    id: 199731 # Cobalt Bladewing Staff [staff]
+    costs:
+      2003: 600
+      1190396: 10
+      1201404: 5
+
+  - type: item
+    id: 199729 # Cobalt Essence Weaver's Staff [staff]
+    costs:
+      2003: 600
+      1190396: 10
+      1201404: 5
+
+  - type: item
+    id: 201733 # Pattern: Frosted Armor Kit
+    costs:
+      2003: 50
+
+  - type: item
+    id: 194265 # Pattern: Blue Silken Lining
+    costs:
+      2003: 50
+
+  - type: item
+    id: 194261 # Pattern: Frozen Spellthread
+    costs:
+      2003: 50
+
+  - type: item
+    id: 191579 # Recipe: Transmute: Awakened Frost
+    costs:
+      2003: 50
+
+  - type: item
+    id: 198895 # Technique: Highland Drake: Spined Head
+    costs:
+      2003: 25
