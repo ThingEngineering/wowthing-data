@@ -5,15 +5,63 @@ groups:
   type: armor
   sets:
     - "Dalaran Defender"
+    - "Recruit"
   data:
     cloth:
       - transmogSetId: 3665 # Dalaran Defender's Cloth Armor
 
+      - name: "Recruit's Cloth"
+        itemsV2:
+          - 218292 # Recruit's Sturdy Hood
+          - 218294 # Recruit's Sturdy Mantle
+          - 218297 # Recruit's Sturdy Wrap
+          - 218289 # Recruit's Sturdy Robes
+          - 218296 # Recruit's Sturdy Bindings
+          - 218291 # Recruit's Sturdy Mitts
+          - 218295 # Recruit's Sturdy Sash
+          - 218293 # Recruit's Sturdy Breeches
+          - 218290 # Recruit's Sturdy Slippers
+
     leather:
       - transmogSetId: 3667 # Dalaran Defender's Leather Armor
 
+      - name: "Recruit's Leather"
+        itemsV2:
+          - 218274 # Recruit's Sturdy Mask
+          - 218276 # Recruit's Sturdy Epaulets
+          - 218279 # Recruit's Sturdy Cloak
+          - 218271 # Recruit's Sturdy Raiment
+          - 218278 # Recruit's Sturdy Wristbands
+          - 218273 # Recruit's Sturdy Gloves
+          - 218277 # Recruit's Sturdy Cincture
+          - 218275 # Recruit's Sturdy Leggings
+          - 218272 # Recruit's Sturdy Treads
     mail:
       - transmogSetId: 3666 # Dalaran Defender's Mail Armor
 
+      - name: "Recruit's Mail"
+        itemsV2:
+          - 218253 # Recruit's Sturdy Cowl
+          - 218255 # Recruit's Sturdy Spaulders
+          - 218258 # Recruit's Sturdy Drape
+          - 218250 # Recruit's Sturdy Chainmail
+          - 218257 # Recruit's Sturdy Bracers
+          - 218252 # Recruit's Sturdy Gauntlets
+          - 218256 # Recruit's Sturdy Cinch
+          - 218254 # Recruit's Sturdy Kilt
+          - 218251 # Recruit's Sturdy Striders		
+
     plate:
       - transmogSetId: 3664 # Dalaran Defender's Plate Armor
+
+      - name: "Recruit's Plate"
+        itemsV2:
+          - 218028 # Recruit's Sturdy Greathelm
+          - 218032 # Recruit's Sturdy Cape
+          - 218029 # Recruit's Sturdy Pauldrons
+          - 218025 # Recruit's Sturdy Chestplate
+          - 218031 # Recruit's Sturdy Vambraces
+          - 218027 # Recruit's Sturdy Crushers
+          - 218030 # Recruit's Sturdy Girdle
+          - 218024 # Recruit's Sturdy Greaves
+          - 218026 # Recruit's Sturdy Stompers
