@@ -1,67 +1,142 @@
 name: "Radiant Echoes"
 groups:
-  
+
 - name: "Event"
   type: armor
   sets:
-    - "Dalaran Defender"
-    - "Recruit"
+    - "Dalaran Defender's Armor"
+    - "Recruit's Armor"
   data:
     cloth:
       - transmogSetId: 3665 # Dalaran Defender's Cloth Armor
 
       - name: "Recruit's Cloth"
         itemsV2:
-          - 218292 # Recruit's Sturdy Hood
-          - 218294 # Recruit's Sturdy Mantle
-          - 218297 # Recruit's Sturdy Wrap
-          - 218289 # Recruit's Sturdy Robes
-          - 218296 # Recruit's Sturdy Bindings
-          - 218291 # Recruit's Sturdy Mitts
-          - 218295 # Recruit's Sturdy Sash
-          - 218293 # Recruit's Sturdy Breeches
-          - 218290 # Recruit's Sturdy Slippers
+          - 218292 # Recruit's Sturdy Hood [A]
+          - 218294 # Recruit's Sturdy Mantle [A]
+          - 218297 # Recruit's Sturdy Wrap [A]
+          - 218289 # Recruit's Sturdy Robes [A]
+          - 218296 # Recruit's Sturdy Bindings [A]
+          - 218291 # Recruit's Sturdy Mitts [A]
+          - 218295 # Recruit's Sturdy Sash [A]
+          - 218293 # Recruit's Sturdy Breeches [A]
+          - 218290 # Recruit's Sturdy Slippers [A]
+
+          - 218301 # Recruit's Sturdy Hood [H]
+          - 218303 # Recruit's Sturdy Mantle [H]
+          - 218306 # Recruit's Sturdy Wrap [H]
+          - 218298 # Recruit's Sturdy Robes [H]
+          - 218305 # Recruit's Sturdy Bindings [H]
+          - 218300 # Recruit's Sturdy Mitts [H]
+          - 218304 # Recruit's Sturdy Sash [H]
+          - 218302 # Recruit's Sturdy Breeches [H]
+          - 218299 # Recruit's Sturdy Slippers [H]
 
     leather:
       - transmogSetId: 3667 # Dalaran Defender's Leather Armor
 
       - name: "Recruit's Leather"
         itemsV2:
-          - 218274 # Recruit's Sturdy Mask
-          - 218276 # Recruit's Sturdy Epaulets
-          - 218279 # Recruit's Sturdy Cloak
-          - 218271 # Recruit's Sturdy Raiment
-          - 218278 # Recruit's Sturdy Wristbands
-          - 218273 # Recruit's Sturdy Gloves
-          - 218277 # Recruit's Sturdy Cincture
-          - 218275 # Recruit's Sturdy Leggings
-          - 218272 # Recruit's Sturdy Treads
+          - 218274 # Recruit's Sturdy Mask [A]
+          - 218276 # Recruit's Sturdy Epaulets [A]
+          - 218279 # Recruit's Sturdy Cloak [A]
+          - 218271 # Recruit's Sturdy Raiment [A]
+          - 218278 # Recruit's Sturdy Wristbands [A]
+          - 218273 # Recruit's Sturdy Gloves [A]
+          - 218277 # Recruit's Sturdy Cincture [A]
+          - 218275 # Recruit's Sturdy Leggings [A]
+          - 218272 # Recruit's Sturdy Treads [A]
+
+          - 218283 # Recruit's Sturdy Mask [H]
+          - 218285 # Recruit's Sturdy Epaulets [H]
+          - 218288 # Recruit's Sturdy Cloak [H]
+          - 218280 # Recruit's Sturdy Raiment [H]
+          - 218287 # Recruit's Sturdy Wristbands [H]
+          - 218282 # Recruit's Sturdy Gloves [H]
+          - 218286 # Recruit's Sturdy Cincture [H]
+          - 218284 # Recruit's Sturdy Leggings [H]
+          - 218281 # Recruit's Sturdy Treads [H]
+
     mail:
       - transmogSetId: 3666 # Dalaran Defender's Mail Armor
 
       - name: "Recruit's Mail"
         itemsV2:
-          - 218253 # Recruit's Sturdy Cowl
-          - 218255 # Recruit's Sturdy Spaulders
-          - 218258 # Recruit's Sturdy Drape
-          - 218250 # Recruit's Sturdy Chainmail
-          - 218257 # Recruit's Sturdy Bracers
-          - 218252 # Recruit's Sturdy Gauntlets
-          - 218256 # Recruit's Sturdy Cinch
-          - 218254 # Recruit's Sturdy Kilt
-          - 218251 # Recruit's Sturdy Striders		
+          - 218253 # Recruit's Sturdy Cowl [A]
+          - 218255 # Recruit's Sturdy Spaulders [A]
+          - 218258 # Recruit's Sturdy Drape [A]
+          - 218250 # Recruit's Sturdy Chainmail [A]
+          - 218257 # Recruit's Sturdy Bracers [A]
+          - 218252 # Recruit's Sturdy Gauntlets [A]
+          - 218256 # Recruit's Sturdy Cinch [A]
+          - 218254 # Recruit's Sturdy Kilt [A]
+          - 218251 # Recruit's Sturdy Striders [A]
+
+          - 218262 # Recruit's Sturdy Cowl [H]
+          - 218264 # Recruit's Sturdy Spaulders [H]
+          - 218267 # Recruit's Sturdy Drape [H]
+          - 218259 # Recruit's Sturdy Chainmail [H]
+          - 218266 # Recruit's Sturdy Bracers [H]
+          - 218261 # Recruit's Sturdy Gauntlets [H]
+          - 218265 # Recruit's Sturdy Cinch [H]
+          - 218263 # Recruit's Sturdy Kilt [H]
+          - 218260 # Recruit's Sturdy Striders [H]
 
     plate:
       - transmogSetId: 3664 # Dalaran Defender's Plate Armor
 
       - name: "Recruit's Plate"
         itemsV2:
-          - 218028 # Recruit's Sturdy Greathelm
-          - 218032 # Recruit's Sturdy Cape
-          - 218029 # Recruit's Sturdy Pauldrons
-          - 218025 # Recruit's Sturdy Chestplate
-          - 218031 # Recruit's Sturdy Vambraces
-          - 218027 # Recruit's Sturdy Crushers
-          - 218030 # Recruit's Sturdy Girdle
-          - 218024 # Recruit's Sturdy Greaves
-          - 218026 # Recruit's Sturdy Stompers
+          - 218028 # Recruit's Sturdy Greathelm [A]
+          - 218032 # Recruit's Sturdy Cape [A]
+          - 218029 # Recruit's Sturdy Pauldrons [A]
+          - 218025 # Recruit's Sturdy Chestplate [A]
+          - 218031 # Recruit's Sturdy Vambraces [A]
+          - 218027 # Recruit's Sturdy Crushers [A]
+          - 218030 # Recruit's Sturdy Girdle [A]
+          - 218024 # Recruit's Sturdy Greaves [A]
+          - 218026 # Recruit's Sturdy Stompers [A]
+
+          - 218037 # Recruit's Sturdy Greathelm [H]
+          - 218041 # Recruit's Sturdy Cape [H]
+          - 218038 # Recruit's Sturdy Pauldrons [H]
+          - 218034 # Recruit's Sturdy Chestplate [H]
+          - 218040 # Recruit's Sturdy Vambraces [H]
+          - 218036 # Recruit's Sturdy Crushers [H]
+          - 218039 # Recruit's Sturdy Girdle [H]
+          - 217991 # Recruit's Sturdy Greaves [H]
+          - 218035 # Recruit's Sturdy Stompers [H]
+
+- name: "Event"
+  type: all
+  sets:
+    - "Recruit's Weapons"
+  data:
+    all:
+      - name: "Recruit's Weapons"
+        itemsV2:
+          - 218315 # Recruit's Sturdy Bow [A]
+          - 218323 # Recruit's Sturdy Crescent [A]
+          - 218313 # Recruit's Sturdy Greatsword [A]
+          - 218321 # Recruit's Sturdy Longblade [A]
+          - 218319 # Recruit's Sturdy Mallet [A]
+          - 218316 # Recruit's Sturdy Maul [A]
+          - 218312 # Recruit's Sturdy Polearm [A]
+          - 218318 # Recruit's Sturdy Rod [A]
+          - 218322 # Recruit's Sturdy Saber [A]
+          - 218320 # Recruit's Sturdy Shank [A]
+          - 218317 # Recruit's Sturdy Shield [A]
+          - 218314 # Recruit's Sturdy Tome [A]
+
+          - 218327 # Recruit's Sturdy Bow [H]
+          - 218335 # Recruit's Sturdy Crescent [H]
+          - 218325 # Recruit's Sturdy Greataxe [H]
+          - 218333 # Recruit's Sturdy Longblade [H]
+          - 218331 # Recruit's Sturdy Mallet [H]
+          - 218328 # Recruit's Sturdy Maul [H]
+          - 218324 # Recruit's Sturdy Polearm [H]
+          - 218330 # Recruit's Sturdy Rod [H]
+          - 218334 # Recruit's Sturdy Saber [H]
+          - 218332 # Recruit's Sturdy Shank [H]
+          - 218329 # Recruit's Sturdy Shield [H]
+          - 218326 # Recruit's Sturdy Tome [H]
