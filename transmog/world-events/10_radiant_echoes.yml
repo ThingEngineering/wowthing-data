@@ -8,7 +8,17 @@ groups:
     - "Recruit's Armor"
   data:
     cloth:
-      - transmogSetId: 3665 # Dalaran Defender's Cloth Armor
+      - name: "Dalaran Defender's Cloth"
+        itemsV2:
+          - 218050 # Head
+          - 218054 # Shoulders
+          - 218047 # Chest
+          - 218052 # Waist
+          - 218051 # Legs
+          - 218048 # Feet
+          - 218053 # Wrists
+          - 218049 # Hands
+          - 218080 # Back
 
       - name: "Recruit's Cloth"
         itemsV2:
@@ -33,7 +43,17 @@ groups:
           - 218299 # Recruit's Sturdy Slippers [H]
 
     leather:
-      - transmogSetId: 3667 # Dalaran Defender's Leather Armor
+      - name: "Dalaran Defender's Leather"
+        itemsV2:
+          - 218057 # Head
+          - 218062 # Shoulders
+          - 218061 # Chest
+          - 218059 # Waist
+          - 218058 # Legs
+          - 218055 # Feet
+          - 218060 # Wrists
+          - 218056 # Hands
+          - 218081 # Back
 
       - name: "Recruit's Leather"
         itemsV2:
@@ -58,7 +78,17 @@ groups:
           - 218281 # Recruit's Sturdy Treads [H]
 
     mail:
-      - transmogSetId: 3666 # Dalaran Defender's Mail Armor
+      - name: "Dalaran Defender's Mail"
+        itemsV2:
+          - 218073 # Head
+          - 218075 # Shoulders
+          - 218070 # Chest
+          - 218076 # Waist
+          - 218074 # Legs
+          - 218071 # Feet
+          - 218077 # Wrists
+          - 218072 # Hands
+          - 218078 # Back
 
       - name: "Recruit's Mail"
         itemsV2:
@@ -83,7 +113,17 @@ groups:
           - 218260 # Recruit's Sturdy Striders [H]
 
     plate:
-      - transmogSetId: 3664 # Dalaran Defender's Plate Armor
+      - name: "Dalaran Defender's Plate"
+        itemsV2:
+          - 218063 # Head
+          - 218067 # Shoulders
+          - 218064 # Chest
+          - 218068 # Waist
+          - 218006 # Legs
+          - 218065 # Feet
+          - 218069 # Wrists
+          - 218066 # Hands
+          - 218079 # Back
 
       - name: "Recruit's Plate"
         itemsV2:
@@ -110,9 +150,36 @@ groups:
 - name: "Event"
   type: all
   sets:
+    - "Dalaran Defender's Weapons"
     - "Recruit's Weapons"
   data:
     all:
+      - name: "Dalaran Defender's Weapons"
+        itemsV2:
+          - 219244 # Dalaran Defender's Aegis
+          - 219229 # Dalaran Defender's Battleaxe
+          - 219238 # Dalaran Defender's Battlestaff
+          - 219235 # Dalaran Defender's Blade
+          - 219232 # Dalaran Defender's Bolter
+          - 219240 # Dalaran Defender's Broadsword
+          - 219231 # Dalaran Defender's Carver
+          - 219241 # Dalaran Defender's Club
+          - 219236 # Dalaran Defender's Conduit
+          - 219249 # Dalaran Defender's Crusher
+          - 219252 # Dalaran Defender's Dagger
+          - 219253 # Dalaran Defender's Dirk
+          - 219239 # Dalaran Defender's Greatsword
+          - 219242 # Dalaran Defender's Hammer
+          - 219230 # Dalaran Defender's Hatchet
+          - 219245 # Dalaran Defender's Impaler
+          - 219248 # Dalaran Defender's Mace
+          - 219251 # Dalaran Defender's Sabre
+          - 219250 # Dalaran Defender's Scepter
+          - 219246 # Dalaran Defender's Spear
+          - 219234 # Dalaran Defender's Spellblade
+          - 219237 # Dalaran Defender's Spire
+          - 219247 # Dalaran Defender's Wand
+
       - name: "Recruit's Weapons"
         itemsV2:
           - 218315 # Recruit's Sturdy Bow [A]
