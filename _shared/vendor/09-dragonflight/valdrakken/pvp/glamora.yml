@@ -1,0 +1,275 @@
+id: 199720
+name: "Glamora"
+note: "Elite Conquest Quartermaster"
+
+locations:
+  valdrakken:
+    - 45.4 38.4
+    - 45.4 38.6
+    - 45.6 38.4
+    - 45.6 38.6
+
+sells:
+
+  # 0 set=2829
+
+  - type: item
+    id: 202090 # Crimson Gladiator's Tabard [tabard]
+    costs:
+      1792: 100
+
+  # 0 set=3005
+
+  - type: item
+    id: 205362 # Obsidian Gladiator's Tabard [tabard]
+    costs:
+      1792: 100
+
+  # 0 set=3288
+
+  - type: item
+    id: 209610 # Verdant Gladiator's Tabard [tabard]
+    costs:
+      1792: 100
+
+  # 0
+
+  - type: item
+    id: 202131 # Crimson Gladiator's Sword [1h ? sword]
+    costs:
+      1137642: 5
+
+  - type: item
+    id: 210521 # Verdant Gladiator's Shotel [1h ? sword]
+    costs:
+      1137642: 5
+
+  - type: item
+    id: 210520 # Verdant Gladiator's Sword [1h ? sword]
+    costs:
+      1137642: 5
+
+  - type: item
+    id: 206044 # Obsidian Gladiator's Axe [1h ? axe]
+    costs:
+      1137642: 5
+
+  - type: item
+    id: 210502 # Verdant Gladiator's Axe [1h ? axe]
+    costs:
+      1137642: 5
+
+  - type: item
+    id: 202139 # Crimson Gladiator's Scepter [1h ? mace]
+    costs:
+      1137642: 5
+
+  - type: item
+    id: 202132 # Crimson Gladiator's Warhammer [1h ? mace]
+    costs:
+      1137642: 5
+
+  - type: item
+    id: 206150 # Obsidian Gladiator's Mace [1h ? mace]
+    costs:
+      1137642: 5
+
+  - type: item
+    id: 210512 # Verdant Gladiator's Scepter [1h ? mace]
+    costs:
+      1137642: 5
+
+  - type: item
+    id: 210518 # Verdant Gladiator's Greatsword [2h ? sword]
+    costs:
+      1137642: 10
+
+  - type: item
+    id: 202137 # Crimson Gladiator's Greataxe [2h ? axe]
+    costs:
+      1137642: 10
+
+  - type: item
+    id: 202138 # Crimson Gladiator's Greatmace [2h ? mace]
+    costs:
+      1137642: 10
+
+  - type: item
+    id: 210519 # Verdant Gladiator's Pulverizer [2h ? mace]
+    costs:
+      1137642: 10
+
+  - type: item
+    id: 202134 # Crimson Gladiator's Glaive [warglaive]
+    costs:
+      1137642: 5
+
+  - type: item
+    id: 206146 # Obsidian Gladiator's Warglaive [warglaive]
+    costs:
+      1137642: 5
+
+  - type: item
+    id: 210506 # Verdant Gladiator's Warglaive [warglaive]
+    costs:
+      1137642: 5
+
+  - type: item
+    id: 202133 # Crimson Gladiator's Blade [? dagger]
+    costs:
+      1137642: 5
+
+  - type: item
+    id: 202126 # Crimson Gladiator's Spellblade [? dagger]
+    costs:
+      1137642: 5
+
+  - type: item
+    id: 206137 # Obsidian Gladiator's Dagger [? dagger]
+    costs:
+      1137642: 5
+
+  - type: item
+    id: 210503 # Verdant Gladiator's Dagger [? dagger]
+    costs:
+      1137642: 5
+
+  - type: item
+    id: 210504 # Verdant Gladiator's Sickle [? dagger]
+    costs:
+      1137642: 5
+
+  - type: item
+    id: 202140 # Crimson Gladiator's Claw [fist]
+    costs:
+      1137642: 5
+
+  - type: item
+    id: 206153 # Obsidian Gladiator's Claws [fist]
+    costs:
+      1137642: 5
+
+  - type: item
+    id: 210516 # Verdant Gladiator's Claws [fist]
+    costs:
+      1137642: 5
+
+  - type: item
+    id: 202135 # Crimson Gladiator's Poleaxe [polearm]
+    costs:
+      1137642: 10
+
+  - type: item
+    id: 206147 # Obsidian Gladiator's Polearm [polearm]
+    costs:
+      1137642: 10
+
+  - type: item
+    id: 210507 # Verdant Gladiator's Scythe [polearm]
+    costs:
+      1137642: 10
+
+  - type: item
+    id: 202125 # Crimson Gladiator's Greatstaff [staff]
+    costs:
+      1137642: 10
+
+  - type: item
+    id: 202136 # Crimson Gladiator's Quarterstaff [staff]
+    costs:
+      1137642: 10
+
+  - type: item
+    id: 206148 # Obsidian Gladiator's Staff [staff]
+    costs:
+      1137642: 10
+
+  - type: item
+    id: 210510 # Verdant Gladiator's Axestaff [staff]
+    costs:
+      1137642: 10
+
+  - type: item
+    id: 210509 # Verdant Gladiator's Greatstaff [staff]
+    costs:
+      1137642: 10
+
+  - type: item
+    id: 210508 # Verdant Gladiator's Staff [staff]
+    costs:
+      1137642: 10
+
+  - type: item
+    id: 202123 # Crimson Gladiator's Greatbow [bow]
+    costs:
+      1137642: 10
+
+  - type: item
+    id: 206154 # Obsidian Gladiator's Bow [bow]
+    costs:
+      1137642: 10
+
+  - type: item
+    id: 210517 # Verdant Gladiator's Bow [bow]
+    costs:
+      1137642: 10
+
+  - type: item
+    id: 202124 # Crimson Gladiator's Crossbow [crossbow]
+    costs:
+      1137642: 10
+
+  - type: item
+    id: 206149 # Obsidian Gladiator's Rifle [gun]
+    costs:
+      1137642: 10
+
+  - type: item
+    id: 210511 # Verdant Gladiator's Rifle [gun]
+    costs:
+      1137642: 10
+
+  - type: item
+    id: 202127 # Crimson Gladiator's Censer [off-hand]
+    costs:
+      1137642: 5
+
+  - type: item
+    id: 202128 # Crimson Gladiator's Rod [off-hand]
+    costs:
+      1137642: 5
+
+  - type: item
+    id: 206151 # Obsidian Gladiator's Rod [off-hand]
+    costs:
+      1137642: 5
+
+  - type: item
+    id: 210513 # Verdant Gladiator's Censer [off-hand]
+    costs:
+      1137642: 5
+
+  - type: item
+    id: 202129 # Crimson Gladiator's Barrier [shield]
+    costs:
+      1137642: 5
+
+  - type: item
+    id: 202130 # Crimson Gladiator's Bulwark [shield]
+    costs:
+      1137642: 5
+
+  - type: item
+    id: 206152 # Obsidian Gladiator's Shield [shield]
+    costs:
+      1137642: 5
+
+  - type: item
+    id: 210515 # Verdant Gladiator's Bulwark [shield]
+    costs:
+      1137642: 5
+
+  - type: item
+    id: 210514 # Verdant Gladiator's Shield [shield]
+    costs:
+      1137642: 5

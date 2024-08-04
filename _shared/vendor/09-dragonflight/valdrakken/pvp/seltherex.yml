@@ -1,0 +1,1391 @@
+id: 199601
+name: "Seltherex"
+note: "Honor Quartermaster"
+
+locations:
+  09-dragonflight/valdrakken:
+    - 44.4 37
+
+sets:
+  - name: "S34 Aspirant Cloth"
+    range: 17
+    sortKey: "z34-1-1"
+
+  - name: "S35 Aspirant Cloth"
+    range: 17
+    sortKey: "z35-1-1"
+
+  - name: "S36 Aspirant Cloth"
+    range: 17
+    sortKey: "z36-1-1"
+
+  - name: "S34 Aspirant Leather"
+    range: 17
+    sortKey: "z34-1-2"
+
+  - name: "S35 Aspirant Leather"
+    range: 17
+    sortKey: "z35-1-2"
+
+  - name: "S36 Aspirant Leather"
+    range: 17
+    sortKey: "z36-1-2"
+
+  - name: "S34 Aspirant Mail"
+    range: 17
+    sortKey: "z34-1-3"
+
+  - name: "S35 Aspirant Mail"
+    range: 17
+    sortKey: "z34-1-3"
+
+  - name: "S36 Aspirant Mail"
+    range: 17
+    sortKey: "z34-1-3"
+
+  - name: "S34 Aspirant Plate"
+    range: 17
+    sortKey: "z34-1-4"
+
+  - name: "S35 Aspirant Plate"
+    range: 17
+    sortKey: "z35-1-4"
+
+  - name: "S36 Aspirant Plate"
+    range: 17
+    sortKey: "z36-1-4"
+
+  - name: "S34 Aspirant Weapons"
+    range: 18
+    sortKey: "z34-2-1"
+
+  - name: "S35 Aspirant Weapons"
+    range: 18
+    sortKey: "z35-2-1"
+
+  - name: "S36 Aspirant Weapons"
+    range: -1
+    sortKey: "z36-2-1"
+
+tags:
+  - "pvp"
+  - "pvp-s34"
+  - "pvp-s35"
+  - "pvp-s36"
+  - "pvp-s37"
+
+sells:
+  # S34 Aspirant Cloth
+
+  - type: item
+    id: 201139 # Crimson Aspirant's Silk Cover [cloth head]
+    costs:
+      1792: 875
+
+  - type: item
+    id: 201106 # Crimson Aspirant's Silk Hood [cloth head]
+    costs:
+      1792: 875
+
+  - type: item
+    id: 201115 # Crimson Aspirant's Silk Mantle [cloth shoulders]
+    costs:
+      1792: 700
+
+  - type: item
+    id: 201148 # Crimson Aspirant's Silk Shawl [cloth shoulders]
+    costs:
+      1792: 700
+
+  - type: item
+    id: 201751 # Crimson Aspirant's Drape [cloak]
+    costs:
+      1792: 525
+
+  - type: item
+    id: 201094 # Crimson Aspirant's Silk Robe [cloth chest]
+    costs:
+      1792: 875
+
+  - type: item
+    id: 201126 # Crimson Aspirant's Silk Vestments [cloth chest]
+    costs:
+      1792: 875
+
+  - type: item
+    id: 201154 # Crimson Aspirant's Silk Bindings [cloth wrists]
+    costs:
+      1792: 525
+
+  - type: item
+    id: 201121 # Crimson Aspirant's Silk Wristwraps [cloth wrists]
+    costs:
+      1792: 525
+
+  - type: item
+    id: 201104 # Crimson Aspirant's Silk Gloves [cloth hands]
+    costs:
+      1792: 700
+
+  - type: item
+    id: 201137 # Crimson Aspirant's Silk Handwraps [cloth hands]
+    costs:
+      1792: 700
+
+  - type: item
+    id: 201151 # Crimson Aspirant's Silk Belt [cloth waist]
+    costs:
+      1792: 700
+
+  - type: item
+    id: 201118 # Crimson Aspirant's Silk Cord [cloth waist]
+    costs:
+      1792: 700
+
+  - type: item
+    id: 201110 # Crimson Aspirant's Silk Leggings [cloth legs]
+    costs:
+      1792: 875
+
+  - type: item
+    id: 201143 # Crimson Aspirant's Silk Legwraps [cloth legs]
+    costs:
+      1792: 875
+
+  - type: item
+    id: 201131 # Crimson Aspirant's Silk Footwraps [cloth feet]
+    costs:
+      1792: 700
+
+  - type: item
+    id: 201099 # Crimson Aspirant's Silk Treads [cloth feet]
+    costs:
+      1792: 700
+
+  # S35 Aspirant Cloth
+
+  - type: item
+    id: 205759 # Obsidian Aspirant's Silk Cover [cloth head]
+    costs:
+      1792: 875
+
+  - type: item
+    id: 205727 # Obsidian Aspirant's Silk Hood [cloth head]
+    costs:
+      1792: 875
+
+  - type: item
+    id: 205736 # Obsidian Aspirant's Silk Mantle [cloth shoulders]
+    costs:
+      1792: 700
+
+  - type: item
+    id: 205768 # Obsidian Aspirant's Silk Shawl [cloth shoulders]
+    costs:
+      1792: 700
+
+  - type: item
+    id: 205789 # Obsidian Aspirant's Cloak [cloak]
+    costs:
+      1792: 525
+
+  - type: item
+    id: 205715 # Obsidian Aspirant's Silk Robe [cloth chest]
+    costs:
+      1792: 875
+
+  - type: item
+    id: 205747 # Obsidian Aspirant's Silk Vestments [cloth chest]
+    costs:
+      1792: 875
+
+  - type: item
+    id: 205774 # Obsidian Aspirant's Silk Bindings [cloth wrists]
+    costs:
+      1792: 525
+
+  - type: item
+    id: 205742 # Obsidian Aspirant's Silk Wristwraps [cloth wrists]
+    costs:
+      1792: 525
+
+  - type: item
+    id: 205725 # Obsidian Aspirant's Silk Gloves [cloth hands]
+    costs:
+      1792: 700
+
+  - type: item
+    id: 205757 # Obsidian Aspirant's Silk Handwraps [cloth hands]
+    costs:
+      1792: 700
+
+  - type: item
+    id: 205771 # Obsidian Aspirant's Silk Belt [cloth waist]
+    costs:
+      1792: 700
+
+  - type: item
+    id: 205739 # Obsidian Aspirant's Silk Cord [cloth waist]
+    costs:
+      1792: 700
+
+  - type: item
+    id: 205731 # Obsidian Aspirant's Silk Leggings [cloth legs]
+    costs:
+      1792: 875
+
+  - type: item
+    id: 205763 # Obsidian Aspirant's Silk Legwraps [cloth legs]
+    costs:
+      1792: 875
+
+  - type: item
+    id: 205752 # Obsidian Aspirant's Silk Footwraps [cloth feet]
+    costs:
+      1792: 700
+
+  - type: item
+    id: 205720 # Obsidian Aspirant's Silk Treads [cloth feet]
+    costs:
+      1792: 700
+
+  # S36 Aspirant Cloth
+
+  - type: item
+    id: 209743 # Verdant Aspirant's Silk Cover [cloth head]
+    costs:
+      1792: 875
+
+  - type: item
+    id: 209711 # Verdant Aspirant's Silk Hood [cloth head]
+    costs:
+      1792: 875
+
+  - type: item
+    id: 209720 # Verdant Aspirant's Silk Mantle [cloth shoulders]
+    costs:
+      1792: 700
+
+  - type: item
+    id: 209753 # Verdant Aspirant's Silk Shawl [cloth shoulders]
+    costs:
+      1792: 700
+
+  - type: item
+    id: 209774 # Verdant Aspirant's Cloak [cloak]
+    costs:
+      1792: 525
+
+  - type: item
+    id: 209699 # Verdant Aspirant's Silk Robe [cloth chest]
+    costs:
+      1792: 875
+
+  - type: item
+    id: 209731 # Verdant Aspirant's Silk Vestments [cloth chest]
+    costs:
+      1792: 875
+
+  - type: item
+    id: 209759 # Verdant Aspirant's Silk Bindings [cloth wrists]
+    costs:
+      1792: 525
+
+  - type: item
+    id: 209726 # Verdant Aspirant's Silk Wristwraps [cloth wrists]
+    costs:
+      1792: 525
+
+  - type: item
+    id: 209709 # Verdant Aspirant's Silk Gloves [cloth hands]
+    costs:
+      1792: 700
+
+  - type: item
+    id: 209741 # Verdant Aspirant's Silk Handwraps [cloth hands]
+    costs:
+      1792: 700
+
+  - type: item
+    id: 209756 # Verdant Aspirant's Silk Belt [cloth waist]
+    costs:
+      1792: 700
+
+  - type: item
+    id: 209723 # Verdant Aspirant's Silk Cord [cloth waist]
+    costs:
+      1792: 700
+
+  - type: item
+    id: 209715 # Verdant Aspirant's Silk Leggings [cloth legs]
+    costs:
+      1792: 875
+
+  - type: item
+    id: 209747 # Verdant Aspirant's Silk Legwraps [cloth legs]
+    costs:
+      1792: 875
+
+  - type: item
+    id: 209736 # Verdant Aspirant's Silk Footwraps [cloth feet]
+    costs:
+      1792: 700
+
+  - type: item
+    id: 209704 # Verdant Aspirant's Silk Treads [cloth feet]
+    costs:
+      1792: 700
+
+  # S34 Aspirant Leather
+
+  - type: item
+    id: 201108 # Crimson Aspirant's Leather Helm [leather head]
+    costs:
+      1792: 875
+
+  - type: item
+    id: 201141 # Crimson Aspirant's Leather Mask [leather head]
+    costs:
+      1792: 875
+
+  - type: item
+    id: 201146 # Crimson Aspirant's Leather Mantle [leather shoulders]
+    costs:
+      1792: 700
+
+  - type: item
+    id: 201113 # Crimson Aspirant's Leather Spaulders [leather shoulders]
+    costs:
+      1792: 700
+
+  - type: item
+    id: 201750 # Crimson Aspirant's Cloak [cloak]
+    costs:
+      1792: 525
+
+  - type: item
+    id: 201129 # Crimson Aspirant's Leather Tunic [leather chest]
+    costs:
+      1792: 875
+
+  - type: item
+    id: 201097 # Crimson Aspirant's Leather Vest [leather chest]
+    costs:
+      1792: 875
+
+  - type: item
+    id: 201157 # Crimson Aspirant's Leather Armguards [leather wrists]
+    costs:
+      1792: 525
+
+  - type: item
+    id: 201124 # Crimson Aspirant's Leather Wristwraps [leather wrists]
+    costs:
+      1792: 525
+
+  - type: item
+    id: 201102 # Crimson Aspirant's Leather Gloves [leather hands]
+    costs:
+      1792: 700
+
+  - type: item
+    id: 201135 # Crimson Aspirant's Leather Grips [leather hands]
+    costs:
+      1792: 700
+
+  - type: item
+    id: 201120 # Crimson Aspirant's Leather Belt [leather waist]
+    costs:
+      1792: 700
+
+  - type: item
+    id: 201153 # Crimson Aspirant's Leather Cord [leather waist]
+    costs:
+      1792: 700
+
+  - type: item
+    id: 201112 # Crimson Aspirant's Leather Breeches [leather legs]
+    costs:
+      1792: 875
+
+  - type: item
+    id: 201145 # Crimson Aspirant's Leather Leggings [leather legs]
+    costs:
+      1792: 875
+
+  - type: item
+    id: 201101 # Crimson Aspirant's Leather Boots [leather feet]
+    costs:
+      1792: 700
+
+  - type: item
+    id: 201133 # Crimson Aspirant's Leather Footpads [leather feet]
+    costs:
+      1792: 700
+
+  # S35 Aspirant Leather
+
+  - type: item
+    id: 205729 # Obsidian Aspirant's Leather Helm [leather head]
+    costs:
+      1792: 875
+
+  - type: item
+    id: 205761 # Obsidian Aspirant's Leather Mask [leather head]
+    costs:
+      1792: 875
+
+  - type: item
+    id: 205766 # Obsidian Aspirant's Leather Mantle [leather shoulders]
+    costs:
+      1792: 700
+
+  - type: item
+    id: 205734 # Obsidian Aspirant's Leather Spaulders [leather shoulders]
+    costs:
+      1792: 700
+
+  - type: item
+    id: 205790 # Obsidian Aspirant's Drape [cloak]
+    costs:
+      1792: 525
+
+  - type: item
+    id: 205750 # Obsidian Aspirant's Leather Tunic [leather chest]
+    costs:
+      1792: 875
+
+  - type: item
+    id: 205718 # Obsidian Aspirant's Leather Vest [leather chest]
+    costs:
+      1792: 875
+
+  - type: item
+    id: 205777 # Obsidian Aspirant's Leather Armguards [leather wrists]
+    costs:
+      1792: 525
+
+  - type: item
+    id: 205745 # Obsidian Aspirant's Leather Wristwraps [leather wrists]
+    costs:
+      1792: 525
+
+  - type: item
+    id: 205723 # Obsidian Aspirant's Leather Gloves [leather hands]
+    costs:
+      1792: 700
+
+  - type: item
+    id: 205755 # Obsidian Aspirant's Leather Grips [leather hands]
+    costs:
+      1792: 700
+
+  - type: item
+    id: 205741 # Obsidian Aspirant's Leather Belt [leather waist]
+    costs:
+      1792: 700
+
+  - type: item
+    id: 205773 # Obsidian Aspirant's Leather Cord [leather waist]
+    costs:
+      1792: 700
+
+  - type: item
+    id: 205733 # Obsidian Aspirant's Leather Breeches [leather legs]
+    costs:
+      1792: 875
+
+  - type: item
+    id: 205765 # Obsidian Aspirant's Leather Leggings [leather legs]
+    costs:
+      1792: 875
+
+  - type: item
+    id: 205722 # Obsidian Aspirant's Leather Boots [leather feet]
+    costs:
+      1792: 700
+
+  - type: item
+    id: 205754 # Obsidian Aspirant's Leather Footpads [leather feet]
+    costs:
+      1792: 700
+
+  # S36 Aspirant Leather
+
+  - type: item
+    id: 209713 # Verdant Aspirant's Leather Helm [leather head]
+    costs:
+      1792: 875
+
+  - type: item
+    id: 209745 # Verdant Aspirant's Leather Mask [leather head]
+    costs:
+      1792: 875
+
+  - type: item
+    id: 209751 # Verdant Aspirant's Leather Mantle [leather shoulders]
+    costs:
+      1792: 700
+
+  - type: item
+    id: 209718 # Verdant Aspirant's Leather Spaulders [leather shoulders]
+    costs:
+      1792: 700
+
+  - type: item
+    id: 209775 # Verdant Aspirant's Drape [cloak]
+    costs:
+      1792: 525
+
+  - type: item
+    id: 209734 # Verdant Aspirant's Leather Tunic [leather chest]
+    costs:
+      1792: 875
+
+  - type: item
+    id: 209702 # Verdant Aspirant's Leather Vest [leather chest]
+    costs:
+      1792: 875
+
+  - type: item
+    id: 209762 # Verdant Aspirant's Leather Armguards [leather wrists]
+    costs:
+      1792: 525
+
+  - type: item
+    id: 209729 # Verdant Aspirant's Leather Wristwraps [leather wrists]
+    costs:
+      1792: 525
+
+  - type: item
+    id: 209707 # Verdant Aspirant's Leather Gloves [leather hands]
+    costs:
+      1792: 700
+
+  - type: item
+    id: 209739 # Verdant Aspirant's Leather Grips [leather hands]
+    costs:
+      1792: 700
+
+  - type: item
+    id: 209725 # Verdant Aspirant's Leather Belt [leather waist]
+    costs:
+      1792: 700
+
+  - type: item
+    id: 209758 # Verdant Aspirant's Leather Cord [leather waist]
+    costs:
+      1792: 700
+
+  - type: item
+    id: 209717 # Verdant Aspirant's Leather Breeches [leather legs]
+    costs:
+      1792: 875
+
+  - type: item
+    id: 209750 # Verdant Aspirant's Leather Leggings [leather legs]
+    costs:
+      1792: 875
+
+  - type: item
+    id: 209706 # Verdant Aspirant's Leather Boots [leather feet]
+    costs:
+      1792: 700
+
+  - type: item
+    id: 209738 # Verdant Aspirant's Leather Footpads [leather feet]
+    costs:
+      1792: 700
+
+  # S34 Aspirant Mail
+
+  - type: item
+    id: 201140 # Crimson Aspirant's Chain Headguard [mail head]
+    costs:
+      1792: 875
+
+  - type: item
+    id: 201107 # Crimson Aspirant's Chain Helm [mail head]
+    costs:
+      1792: 875
+
+  - type: item
+    id: 201149 # Crimson Aspirant's Chain Shoulderguards [mail shoulders]
+    costs:
+      1792: 700
+
+  - type: item
+    id: 201116 # Crimson Aspirant's Chain Spaulders [mail shoulders]
+    costs:
+      1792: 700
+
+  - type: item
+    id: 201752 # Crimson Aspirant's Cape [cloak]
+    costs:
+      1792: 525
+
+  - type: item
+    id: 201128 # Crimson Aspirant's Chain Tunic [mail chest]
+    costs:
+      1792: 875
+
+  - type: item
+    id: 201096 # Crimson Aspirant's Chain Vest [mail chest]
+    costs:
+      1792: 875
+
+  - type: item
+    id: 201156 # Crimson Aspirant's Chain Bracer [mail wrists]
+    costs:
+      1792: 525
+
+  - type: item
+    id: 201123 # Crimson Aspirant's Chain Wristwraps [mail wrists]
+    costs:
+      1792: 525
+
+  - type: item
+    id: 201105 # Crimson Aspirant's Chain Gauntlets [mail hands]
+    costs:
+      1792: 700
+
+  - type: item
+    id: 201138 # Crimson Aspirant's Chain Handguards [mail hands]
+    costs:
+      1792: 700
+
+  - type: item
+    id: 201119 # Crimson Aspirant's Chain Belt [mail waist]
+    costs:
+      1792: 700
+
+  - type: item
+    id: 201152 # Crimson Aspirant's Chain Clasp [mail waist]
+    costs:
+      1792: 700
+
+  - type: item
+    id: 201111 # Crimson Aspirant's Chain Leggings [mail legs]
+    costs:
+      1792: 875
+
+  - type: item
+    id: 201144 # Crimson Aspirant's Chain Wargreaves [mail legs]
+    costs:
+      1792: 875
+
+  - type: item
+    id: 201100 # Crimson Aspirant's Chain Sabatons [mail feet]
+    costs:
+      1792: 700
+
+  - type: item
+    id: 201132 # Crimson Aspirant's Chain Stompers [mail feet]
+    costs:
+      1792: 700
+
+  # S35 Aspirant Mail
+
+  - type: item
+    id: 205760 # Obsidian Aspirant's Chain Headguard [mail head]
+    costs:
+      1792: 875
+
+  - type: item
+    id: 205728 # Obsidian Aspirant's Chain Helm [mail head]
+    costs:
+      1792: 875
+
+  - type: item
+    id: 205769 # Obsidian Aspirant's Chain Shoulderguards [mail shoulders]
+    costs:
+      1792: 700
+
+  - type: item
+    id: 205737 # Obsidian Aspirant's Chain Spaulders [mail shoulders]
+    costs:
+      1792: 700
+
+  - type: item
+    id: 205791 # Obsidian Aspirant's Cape [cloak]
+    costs:
+      1792: 525
+
+  - type: item
+    id: 205749 # Obsidian Aspirant's Chain Tunic [mail chest]
+    costs:
+      1792: 875
+
+  - type: item
+    id: 205717 # Obsidian Aspirant's Chain Vest [mail chest]
+    costs:
+      1792: 875
+
+  - type: item
+    id: 205776 # Obsidian Aspirant's Chain Bracer [mail wrists]
+    costs:
+      1792: 525
+
+  - type: item
+    id: 205744 # Obsidian Aspirant's Chain Wristwraps [mail wrists]
+    costs:
+      1792: 525
+
+  - type: item
+    id: 205726 # Obsidian Aspirant's Chain Gauntlets [mail hands]
+    costs:
+      1792: 700
+
+  - type: item
+    id: 205758 # Obsidian Aspirant's Chain Handguards [mail hands]
+    costs:
+      1792: 700
+
+  - type: item
+    id: 205740 # Obsidian Aspirant's Chain Belt [mail waist]
+    costs:
+      1792: 700
+
+  - type: item
+    id: 205772 # Obsidian Aspirant's Chain Clasp [mail waist]
+    costs:
+      1792: 700
+
+  - type: item
+    id: 205732 # Obsidian Aspirant's Chain Leggings [mail legs]
+    costs:
+      1792: 875
+
+  - type: item
+    id: 205764 # Obsidian Aspirant's Chain Wargreaves [mail legs]
+    costs:
+      1792: 875
+
+  - type: item
+    id: 205721 # Obsidian Aspirant's Chain Sabatons [mail feet]
+    costs:
+      1792: 700
+
+  - type: item
+    id: 205753 # Obsidian Aspirant's Chain Stompers [mail feet]
+    costs:
+      1792: 700
+
+  # S36 Aspirant Mail
+
+  - type: item
+    id: 209744 # Verdant Aspirant's Chain Headguard [mail head]
+    costs:
+      1792: 875
+
+  - type: item
+    id: 209712 # Verdant Aspirant's Chain Helm [mail head]
+    costs:
+      1792: 875
+
+  - type: item
+    id: 209754 # Verdant Aspirant's Chain Shoulderguards [mail shoulders]
+    costs:
+      1792: 700
+
+  - type: item
+    id: 209721 # Verdant Aspirant's Chain Spaulders [mail shoulders]
+    costs:
+      1792: 700
+
+  - type: item
+    id: 209776 # Verdant Aspirant's Cape [cloak]
+    costs:
+      1792: 525
+
+  - type: item
+    id: 209733 # Verdant Aspirant's Chain Tunic [mail chest]
+    costs:
+      1792: 875
+
+  - type: item
+    id: 209701 # Verdant Aspirant's Chain Vest [mail chest]
+    costs:
+      1792: 875
+
+  - type: item
+    id: 209761 # Verdant Aspirant's Chain Bracer [mail wrists]
+    costs:
+      1792: 525
+
+  - type: item
+    id: 209728 # Verdant Aspirant's Chain Wristwraps [mail wrists]
+    costs:
+      1792: 525
+
+  - type: item
+    id: 209710 # Verdant Aspirant's Chain Gauntlets [mail hands]
+    costs:
+      1792: 700
+
+  - type: item
+    id: 209742 # Verdant Aspirant's Chain Handguards [mail hands]
+    costs:
+      1792: 700
+
+  - type: item
+    id: 209724 # Verdant Aspirant's Chain Belt [mail waist]
+    costs:
+      1792: 700
+
+  - type: item
+    id: 209757 # Verdant Aspirant's Chain Clasp [mail waist]
+    costs:
+      1792: 700
+
+  - type: item
+    id: 209716 # Verdant Aspirant's Chain Leggings [mail legs]
+    costs:
+      1792: 875
+
+  - type: item
+    id: 209749 # Verdant Aspirant's Chain Wargreaves [mail legs]
+    costs:
+      1792: 875
+
+  - type: item
+    id: 209705 # Verdant Aspirant's Chain Sabatons [mail feet]
+    costs:
+      1792: 700
+
+  - type: item
+    id: 209737 # Verdant Aspirant's Chain Stompers [mail feet]
+    costs:
+      1792: 700
+
+  # S34 Aspirant Plate
+
+  - type: item
+    id: 201125 # Crimson Aspirant's Plate Headguard [plate head]
+    costs:
+      1792: 875
+
+  - type: item
+    id: 201093 # Crimson Aspirant's Plate Helm [plate head]
+    costs:
+      1792: 875
+
+  - type: item
+    id: 201147 # Crimson Aspirant's Plate Pauldrons [plate shoulders]
+    costs:
+      1792: 700
+
+  - type: item
+    id: 201114 # Crimson Aspirant's Plate Shoulders [plate shoulders]
+    costs:
+      1792: 700
+
+  - type: item
+    id: 201753 # Crimson Aspirant's Greatcloak [cloak]
+    costs:
+      1792: 525
+
+  - type: item
+    id: 201127 # Crimson Aspirant's Plate Armor [plate chest]
+    costs:
+      1792: 875
+
+  - type: item
+    id: 201095 # Crimson Aspirant's Plate Chestplate [plate chest]
+    costs:
+      1792: 875
+
+  - type: item
+    id: 201155 # Crimson Aspirant's Plate Armguards [plate wrists]
+    costs:
+      1792: 525
+
+  - type: item
+    id: 201122 # Crimson Aspirant's Plate Cuffs [plate wrists]
+    costs:
+      1792: 525
+
+  - type: item
+    id: 201103 # Crimson Aspirant's Plate Gauntlets [plate hands]
+    costs:
+      1792: 700
+
+  - type: item
+    id: 201136 # Crimson Aspirant's Plate Handguards [plate hands]
+    costs:
+      1792: 700
+
+  - type: item
+    id: 201117 # Crimson Aspirant's Plate Girdle [plate waist]
+    costs:
+      1792: 700
+
+  - type: item
+    id: 201150 # Crimson Aspirant's Plate Greatbelt [plate waist]
+    costs:
+      1792: 700
+
+  - type: item
+    id: 201109 # Crimson Aspirant's Plate Legguards [plate legs]
+    costs:
+      1792: 875
+
+  - type: item
+    id: 201142 # Crimson Aspirant's Plate Wargreaves [plate legs]
+    costs:
+      1792: 875
+
+  - type: item
+    id: 201130 # Crimson Aspirant's Plate Stompers [plate feet]
+    costs:
+      1792: 700
+
+  - type: item
+    id: 201098 # Crimson Aspirant's Plate Warboots [plate feet]
+    costs:
+      1792: 700
+
+  # S35 Aspirant Plate
+
+  - type: item
+    id: 205746 # Obsidian Aspirant's Plate Headguard [plate head]
+    costs:
+      1792: 875
+
+  - type: item
+    id: 205714 # Obsidian Aspirant's Plate Helm [plate head]
+    costs:
+      1792: 875
+
+  - type: item
+    id: 205767 # Obsidian Aspirant's Plate Pauldrons [plate shoulders]
+    costs:
+      1792: 700
+
+  - type: item
+    id: 205735 # Obsidian Aspirant's Plate Shoulders [plate shoulders]
+    costs:
+      1792: 700
+
+  - type: item
+    id: 205792 # Obsidian Aspirant's Greatcloak [cloak]
+    costs:
+      1792: 525
+
+  - type: item
+    id: 205748 # Obsidian Aspirant's Plate Armor [plate chest]
+    costs:
+      1792: 875
+
+  - type: item
+    id: 205716 # Obsidian Aspirant's Plate Chestplate [plate chest]
+    costs:
+      1792: 875
+
+  - type: item
+    id: 205775 # Obsidian Aspirant's Plate Armguards [plate wrists]
+    costs:
+      1792: 525
+
+  - type: item
+    id: 205743 # Obsidian Aspirant's Plate Cuffs [plate wrists]
+    costs:
+      1792: 525
+
+  - type: item
+    id: 205724 # Obsidian Aspirant's Plate Gauntlets [plate hands]
+    costs:
+      1792: 700
+
+  - type: item
+    id: 205756 # Obsidian Aspirant's Plate Handguards [plate hands]
+    costs:
+      1792: 700
+
+  - type: item
+    id: 205738 # Obsidian Aspirant's Plate Girdle [plate waist]
+    costs:
+      1792: 700
+
+  - type: item
+    id: 205770 # Obsidian Aspirant's Plate Greatbelt [plate waist]
+    costs:
+      1792: 700
+
+  - type: item
+    id: 205730 # Obsidian Aspirant's Plate Legguards [plate legs]
+    costs:
+      1792: 875
+
+  - type: item
+    id: 205762 # Obsidian Aspirant's Plate Wargreaves [plate legs]
+    costs:
+      1792: 875
+
+  - type: item
+    id: 205751 # Obsidian Aspirant's Plate Stompers [plate feet]
+    costs:
+      1792: 700
+
+  - type: item
+    id: 205719 # Obsidian Aspirant's Plate Warboots [plate feet]
+    costs:
+      1792: 700
+
+  # S36 Aspirant Plate
+
+  - type: item
+    id: 209730 # Verdant Aspirant's Plate Headguard [plate head]
+    costs:
+      1792: 875
+
+  - type: item
+    id: 209698 # Verdant Aspirant's Plate Helm [plate head]
+    costs:
+      1792: 875
+
+  - type: item
+    id: 209752 # Verdant Aspirant's Plate Pauldrons [plate shoulders]
+    costs:
+      1792: 700
+
+  - type: item
+    id: 209719 # Verdant Aspirant's Plate Shoulders [plate shoulders]
+    costs:
+      1792: 700
+
+  - type: item
+    id: 209777 # Verdant Aspirant's Greatcloak [cloak]
+    costs:
+      1792: 525
+
+  - type: item
+    id: 209732 # Verdant Aspirant's Plate Armor [plate chest]
+    costs:
+      1792: 875
+
+  - type: item
+    id: 209700 # Verdant Aspirant's Plate Chestplate [plate chest]
+    costs:
+      1792: 875
+
+  - type: item
+    id: 209760 # Verdant Aspirant's Plate Armguards [plate wrists]
+    costs:
+      1792: 525
+
+  - type: item
+    id: 209727 # Verdant Aspirant's Plate Cuffs [plate wrists]
+    costs:
+      1792: 525
+
+  - type: item
+    id: 209708 # Verdant Aspirant's Plate Gauntlets [plate hands]
+    costs:
+      1792: 700
+
+  - type: item
+    id: 209740 # Verdant Aspirant's Plate Handguards [plate hands]
+    costs:
+      1792: 700
+
+  - type: item
+    id: 209722 # Verdant Aspirant's Plate Girdle [plate waist]
+    costs:
+      1792: 700
+
+  - type: item
+    id: 209755 # Verdant Aspirant's Plate Greatbelt [plate waist]
+    costs:
+      1792: 700
+
+  - type: item
+    id: 209714 # Verdant Aspirant's Plate Legguards [plate legs]
+    costs:
+      1792: 875
+
+  - type: item
+    id: 209746 # Verdant Aspirant's Plate Wargreaves [plate legs]
+    costs:
+      1792: 875
+
+  - type: item
+    id: 209735 # Verdant Aspirant's Plate Stompers [plate feet]
+    costs:
+      1792: 700
+
+  - type: item
+    id: 209703 # Verdant Aspirant's Plate Warboots [plate feet]
+    costs:
+      1792: 700
+
+  # S34 Aspirant Weapons
+
+  - type: item
+    id: 201760 # Crimson Aspirant's Battleaxe [1h ? axe]
+    costs:
+      1792: 875
+
+  - type: item
+    id: 201768 # Crimson Aspirant's Gavel [1h ? mace]
+    costs:
+      1792: 1325
+
+  - type: item
+    id: 201773 # Crimson Aspirant's Hammer [1h ? mace]
+    costs:
+      1792: 875
+
+  - type: item
+    id: 201762 # Crimson Aspirant's Mace [1h ? mace]
+    costs:
+      1792: 875
+
+  - type: item
+    id: 201965 # Crimson Aspirant's Blade [1h ? sword]
+    costs:
+      1792: 875
+
+  - type: item
+    id: 201963 # Crimson Aspirant's Sword [1h ? sword]
+    costs:
+      1792: 875
+
+  - type: item
+    id: 201761 # Crimson Aspirant's Dagger [? dagger]
+    costs:
+      1792: 875
+
+  - type: item
+    id: 201774 # Crimson Aspirant's Knife [? dagger]
+    costs:
+      1792: 1325
+
+  - type: item
+    id: 201770 # Crimson Aspirant's Ripper [fist]
+    costs:
+      1792: 875
+
+  - type: item
+    id: 201767 # Crimson Aspirant's Warglaive [warglaive]
+    costs:
+      1792: 875
+
+  - type: item
+    id: 201964 # Crimson Aspirant's Pulverizer [2h ? mace]
+    costs:
+      1792: 1750
+
+  - type: item
+    id: 201765 # Crimson Aspirant's Greatsword [2h ? sword]
+    costs:
+      1792: 1750
+
+  - type: item
+    id: 201772 # Crimson Aspirant's Longspear [polearm]
+    costs:
+      1792: 1750
+
+  - type: item
+    id: 201763 # Crimson Aspirant's Polearm [polearm]
+    costs:
+      1792: 1750
+
+  - type: item
+    id: 201764 # Crimson Aspirant's Staff [staff]
+    costs:
+      1792: 1750
+
+  - type: item
+    id: 201771 # Crimson Aspirant's Recurve [bow]
+    costs:
+      1792: 1750
+
+  - type: item
+    id: 201766 # Crimson Aspirant's Torch [off-hand]
+    costs:
+      1792: 425
+
+  - type: item
+    id: 201769 # Crimson Aspirant's Shield [shield]
+    costs:
+      1792: 425
+
+  # S35 Aspirant Weapons
+
+  - type: item
+    id: 205879 # Obsidian Aspirant's Battleaxe [1h ? axe]
+    costs:
+      1792: 875
+
+  - type: item
+    id: 205887 # Obsidian Aspirant's Gavel [1h ? mace]
+    costs:
+      1792: 1325
+
+  - type: item
+    id: 205892 # Obsidian Aspirant's Hammer [1h ? mace]
+    costs:
+      1792: 875
+
+  - type: item
+    id: 205881 # Obsidian Aspirant's Mace [1h ? mace]
+    costs:
+      1792: 875
+
+  - type: item
+    id: 205896 # Obsidian Aspirant's Blade [1h ? sword]
+    costs:
+      1792: 875
+
+  - type: item
+    id: 205894 # Obsidian Aspirant's Sword [1h ? sword]
+    costs:
+      1792: 875
+
+  - type: item
+    id: 205880 # Obsidian Aspirant's Dagger [? dagger]
+    costs:
+      1792: 875
+
+  - type: item
+    id: 205893 # Obsidian Aspirant's Knife [? dagger]
+    costs:
+      1792: 1325
+
+  - type: item
+    id: 205889 # Obsidian Aspirant's Ripper [fist]
+    costs:
+      1792: 875
+
+  - type: item
+    id: 205886 # Obsidian Aspirant's Warglaive [warglaive]
+    costs:
+      1792: 875
+
+  - type: item
+    id: 205895 # Obsidian Aspirant's Pulverizer [2h ? mace]
+    costs:
+      1792: 1750
+
+  - type: item
+    id: 205884 # Obsidian Aspirant's Greatsword [2h ? sword]
+    costs:
+      1792: 1750
+
+  - type: item
+    id: 205891 # Obsidian Aspirant's Longspear [polearm]
+    costs:
+      1792: 1750
+
+  - type: item
+    id: 205882 # Obsidian Aspirant's Polearm [polearm]
+    costs:
+      1792: 1750
+
+  - type: item
+    id: 205883 # Obsidian Aspirant's Staff [staff]
+    costs:
+      1792: 1750
+
+  - type: item
+    id: 205890 # Obsidian Aspirant's Recurve [bow]
+    costs:
+      1792: 1750
+
+  - type: item
+    id: 205885 # Obsidian Aspirant's Torch [off-hand]
+    costs:
+      1792: 425
+
+  - type: item
+    id: 205888 # Obsidian Aspirant's Shield [shield]
+    costs:
+      1792: 425
+
+  # S36 Aspirant Weapons
+
+  - type: item
+    id: 210149 # Verdant Aspirant's Battleaxe [1h ? axe]
+    costs:
+      1792: 875
+
+  - type: item
+    id: 210162 # Verdant Aspirant's Hammer [1h ? mace]
+    costs:
+      1792: 875
+
+  - type: item
+    id: 210151 # Verdant Aspirant's Mace [1h ? mace]
+    costs:
+      1792: 875
+
+  - type: item
+    id: 210157 # Verdant Aspirant's Scepter [1h ? mace]
+    costs:
+      1792: 1325
+
+  - type: item
+    id: 210166 # Verdant Aspirant's Blade [1h ? sword]
+    costs:
+      1792: 875
+
+  - type: item
+    id: 210164 # Verdant Aspirant's Sword [1h ? sword]
+    costs:
+      1792: 875
+
+  - type: item
+    id: 210150 # Verdant Aspirant's Dagger [? dagger]
+    costs:
+      1792: 875
+
+  - type: item
+    id: 210163 # Verdant Aspirant's Knife [? dagger]
+    costs:
+      1792: 1325
+
+  - type: item
+    id: 210156 # Verdant Aspirant's Warglaive [warglaive]
+    costs:
+      1792: 875
+
+  - type: item
+    id: 210154 # Verdant Aspirant's Greatsword [2h ? sword]
+    costs:
+      1792: 1750
+
+  - type: item
+    id: 210161 # Verdant Aspirant's Halberd [polearm]
+    costs:
+      1792: 1750
+
+  - type: item
+    id: 210152 # Verdant Aspirant's Polearm [polearm]
+    costs:
+      1792: 1750
+
+  - type: item
+    id: 210153 # Verdant Aspirant's Staff [staff]
+    costs:
+      1792: 1750
+
+  - type: item
+    id: 210160 # Verdant Aspirant's Recurve [bow]
+    costs:
+      1792: 1750
+
+  - type: item
+    id: 210317 # Verdant Aspirant's Wand [wand]
+    costs:
+      1792: 1325
+
+  - type: item
+    id: 210155 # Verdant Aspirant's Torch [off-hand]
+    costs:
+      1792: 425
+
+  - type: item
+    id: 210158 # Verdant Aspirant's Shield [shield]
+    costs:
+      1792: 425

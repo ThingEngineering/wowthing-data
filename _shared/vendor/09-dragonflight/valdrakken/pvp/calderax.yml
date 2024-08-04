@@ -1,0 +1,4383 @@
+id: 199599
+name: "Calderax"
+note: "Conquest Quartermaster"
+
+locations:
+  09-dragonflight/valdrakken:
+    - 44.4 36.8
+
+sets:
+  - name: "S34 Gladiator Death Knight"
+    range: 19
+    sortKey: "z34-3-01"
+
+  - name: "S35 Gladiator Death Knight"
+    range: 19
+    sortKey: "z35-3-01"
+
+  - name: "S36 Gladiator Death Knight"
+    range: 19
+    sortKey: "z36-3-01"
+
+  - name: "S34 Gladiator Demon Hunter"
+    range: 19
+    sortKey: "z34-3-02"
+
+  - name: "S35 Gladiator Demon Hunter"
+    range: 19
+    sortKey: "z35-3-02"
+
+  - name: "S36 Gladiator Demon Hunter"
+    range: 19
+    sortKey: "z36-3-02"
+
+  - name: "S34 Gladiator Druid"
+    range: 19
+    sortKey: "z34-3-03"
+
+  - name: "S35 Gladiator Druid"
+    range: 19
+    sortKey: "z35-3-03"
+
+  - name: "S36 Gladiator Druid"
+    range: 19
+    sortKey: "z36-3-03"
+
+  - name: "S34 Gladiator Evoker"
+    range: 19
+    sortKey: "z34-3-04"
+
+  - name: "S35 Gladiator Evoker"
+    range: 19
+    sortKey: "z35-3-04"
+
+  - name: "S36 Gladiator Evoker"
+    range: 19
+    sortKey: "z36-3-04"
+
+  - name: "S34 Gladiator Hunter"
+    range: 19
+    sortKey: "z34-3-05"
+
+  - name: "S35 Gladiator Hunter"
+    range: 19
+    sortKey: "z35-3-05"
+
+  - name: "S36 Gladiator Hunter"
+    range: 19
+    sortKey: "z36-3-05"
+
+  - name: "S34 Gladiator Mage"
+    range: 19
+    sortKey: "z34-3-06"
+
+  - name: "S35 Gladiator Mage"
+    range: 19
+    sortKey: "z35-3-06"
+
+  - name: "S36 Gladiator Mage"
+    range: 19
+    sortKey: "z36-3-06"
+
+  - name: "S34 Gladiator Monk"
+    range: 19
+    sortKey: "z34-3-07"
+
+  - name: "S35 Gladiator Monk"
+    range: 19
+    sortKey: "z35-3-07"
+
+  - name: "S36 Gladiator Monk"
+    range: 19
+    sortKey: "z36-3-07"
+
+  - name: "S34 Gladiator Paladin"
+    range: 19
+    sortKey: "z34-3-08"
+
+  - name: "S35 Gladiator Paladin"
+    range: 19
+    sortKey: "z35-3-08"
+
+  - name: "S36 Gladiator Paladin"
+    range: 19
+    sortKey: "z36-3-08"
+
+  - name: "S34 Gladiator Priest"
+    range: 19
+    sortKey: "z34-3-09"
+
+  - name: "S35 Gladiator Priest"
+    range: 19
+    sortKey: "z35-3-09"
+
+  - name: "S36 Gladiator Priest"
+    range: 19
+    sortKey: "z36-3-09"
+
+  - name: "S34 Gladiator Rogue"
+    range: 19
+    sortKey: "z34-3-10"
+
+  - name: "S35 Gladiator Rogue"
+    range: 19
+    sortKey: "z35-3-10"
+
+  - name: "S36 Gladiator Rogue"
+    range: 19
+    sortKey: "z36-3-10"
+
+  - name: "S34 Gladiator Shaman"
+    range: 19
+    sortKey: "z34-3-11"
+
+  - name: "S35 Gladiator Shaman"
+    range: 19
+    sortKey: "z35-3-11"
+
+  - name: "S36 Gladiator Shaman"
+    range: 19
+    sortKey: "z36-3-11"
+
+  - name: "S34 Gladiator Warlock"
+    range: 19
+    sortKey: "z34-3-12"
+
+  - name: "S35 Gladiator Warlock"
+    range: 19
+    sortKey: "z35-3-12"
+
+  - name: "S36 Gladiator Warlock"
+    range: 19
+    sortKey: "z36-3-12"
+
+  - name: "S34 Gladiator Warrior"
+    range: 19
+    sortKey: "z34-3-13"
+
+  - name: "S35 Gladiator Warrior"
+    range: 19
+    sortKey: "z35-3-13"
+
+  - name: "S36 Gladiator Warrior"
+    range: 19
+    sortKey: "z36-3-13"
+
+tags:
+  - "pvp"
+  - "pvp-s34"
+  - "pvp-s35"
+  - "pvp-s36"
+  - "pvp-s37"
+
+sells:
+  # Death Knight set=2737
+
+  - type: item
+    id: 201526 # Crimson Gladiator's Plate Helm [plate head]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 201527 # Crimson Gladiator's Plate Helmet [plate head]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 201531 # Crimson Gladiator's Plate Pauldrons [plate shoulders]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 201530 # Crimson Gladiator's Plate Shoulders [plate shoulders]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 201911 # Crimson Gladiator's Cloak [cloak]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 201912 # Crimson Gladiator's Drape [cloak]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 201913 # Crimson Gladiator's Shawl [cloak]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 201520 # Crimson Gladiator's Plate Chestguard [plate chest]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 201521 # Crimson Gladiator's Plate Chestplate [plate chest]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 201535 # Crimson Gladiator's Plate Vambraces [plate wrists]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 201534 # Crimson Gladiator's Plate Wristguards [plate wrists]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 201524 # Crimson Gladiator's Plate Gauntlets [plate hands]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 201525 # Crimson Gladiator's Plate Handguards [plate hands]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 201532 # Crimson Gladiator's Plate Girdle [plate waist]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 201533 # Crimson Gladiator's Plate Greatbelt [plate waist]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 201528 # Crimson Gladiator's Plate Legguards [plate legs]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 201529 # Crimson Gladiator's Plate Wargreaves [plate legs]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 201523 # Crimson Gladiator's Plate Stompers [plate feet]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 201522 # Crimson Gladiator's Plate Warboots [plate feet]
+    costs:
+      1602: 700
+
+  # Death Knight set=2914
+
+  - type: item
+    id: 205479 # Obsidian Gladiator's Plate Helm [plate head]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 205480 # Obsidian Gladiator's Plate Helmet [plate head]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 205484 # Obsidian Gladiator's Plate Pauldrons [plate shoulders]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 205483 # Obsidian Gladiator's Plate Shoulders [plate shoulders]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 205673 # Obsidian Gladiator's Cloak [cloak]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 205674 # Obsidian Gladiator's Drape [cloak]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 205675 # Obsidian Gladiator's Shawl [cloak]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 205473 # Obsidian Gladiator's Plate Chestguard [plate chest]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 205474 # Obsidian Gladiator's Plate Chestplate [plate chest]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 205488 # Obsidian Gladiator's Plate Vambraces [plate wrists]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 205487 # Obsidian Gladiator's Plate Wristguards [plate wrists]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 205477 # Obsidian Gladiator's Plate Gauntlets [plate hands]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 205478 # Obsidian Gladiator's Plate Handguards [plate hands]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 205485 # Obsidian Gladiator's Plate Girdle [plate waist]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 205486 # Obsidian Gladiator's Plate Greatbelt [plate waist]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 205481 # Obsidian Gladiator's Plate Legguards [plate legs]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 205482 # Obsidian Gladiator's Plate Wargreaves [plate legs]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 205476 # Obsidian Gladiator's Plate Stompers [plate feet]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 205475 # Obsidian Gladiator's Plate Warboots [plate feet]
+    costs:
+      1602: 700
+
+  # Death Knight set=3215
+
+  - type: item
+    id: 209265 # Verdant Gladiator's Plate Helm [plate head]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 209266 # Verdant Gladiator's Plate Helmet [plate head]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 209270 # Verdant Gladiator's Plate Pauldrons [plate shoulders]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 209269 # Verdant Gladiator's Plate Shoulders [plate shoulders]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 209275 # Verdant Gladiator's Cloak [cloak]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 209276 # Verdant Gladiator's Drape [cloak]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 209277 # Verdant Gladiator's Shawl [cloak]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 209259 # Verdant Gladiator's Plate Chestguard [plate chest]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 209260 # Verdant Gladiator's Plate Chestplate [plate chest]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 209274 # Verdant Gladiator's Plate Vambraces [plate wrists]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 209273 # Verdant Gladiator's Plate Wristguards [plate wrists]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 209263 # Verdant Gladiator's Plate Gauntlets [plate hands]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 209264 # Verdant Gladiator's Plate Handguards [plate hands]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 209271 # Verdant Gladiator's Plate Girdle [plate waist]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 209272 # Verdant Gladiator's Plate Greatbelt [plate waist]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 209267 # Verdant Gladiator's Plate Legguards [plate legs]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 209268 # Verdant Gladiator's Plate Wargreaves [plate legs]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 209262 # Verdant Gladiator's Plate Stompers [plate feet]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 209261 # Verdant Gladiator's Plate Warboots [plate feet]
+    costs:
+      1602: 700
+
+  # Demon Hunter set=2724
+
+  - type: item
+    id: 201574 # Crimson Gladiator's Leather Helm [leather head]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 201575 # Crimson Gladiator's Leather Mask [leather head]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 201579 # Crimson Gladiator's Leather Shoulderpads [leather shoulders]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 201578 # Crimson Gladiator's Leather Spaulders [leather shoulders]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 201569 # Crimson Gladiator's Leather Jerkin [leather chest]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 201568 # Crimson Gladiator's Leather Vest [leather chest]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 201583 # Crimson Gladiator's Leather Wristguards [leather wrists]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 201582 # Crimson Gladiator's Leather Wristwraps [leather wrists]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 201572 # Crimson Gladiator's Leather Gloves [leather hands]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 201573 # Crimson Gladiator's Leather Grips [leather hands]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 201580 # Crimson Gladiator's Leather Belt [leather waist]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 201581 # Crimson Gladiator's Leather Strap [leather waist]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 201576 # Crimson Gladiator's Leather Breeches [leather legs]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 201577 # Crimson Gladiator's Leather Legwraps [leather legs]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 201570 # Crimson Gladiator's Leather Boots [leather feet]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 201571 # Crimson Gladiator's Leather Treads [leather feet]
+    costs:
+      1602: 700
+
+  # Demon Hunter set=2920
+
+  - type: item
+    id: 205527 # Obsidian Gladiator's Leather Helm [leather head]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 205528 # Obsidian Gladiator's Leather Mask [leather head]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 205532 # Obsidian Gladiator's Leather Shoulderpads [leather shoulders]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 205531 # Obsidian Gladiator's Leather Spaulders [leather shoulders]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 205522 # Obsidian Gladiator's Leather Jerkin [leather chest]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 205521 # Obsidian Gladiator's Leather Vest [leather chest]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 205536 # Obsidian Gladiator's Leather Wristguards [leather wrists]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 205535 # Obsidian Gladiator's Leather Wristwraps [leather wrists]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 205525 # Obsidian Gladiator's Leather Gloves [leather hands]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 205526 # Obsidian Gladiator's Leather Grips [leather hands]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 205533 # Obsidian Gladiator's Leather Belt [leather waist]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 205534 # Obsidian Gladiator's Leather Strap [leather waist]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 205529 # Obsidian Gladiator's Leather Breeches [leather legs]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 205530 # Obsidian Gladiator's Leather Legwraps [leather legs]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 205523 # Obsidian Gladiator's Leather Boots [leather feet]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 205524 # Obsidian Gladiator's Leather Treads [leather feet]
+    costs:
+      1602: 700
+
+  # Demon Hunter set=3203
+
+  - type: item
+    id: 209151 # Verdant Gladiator's Leather Helm [leather head]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 209152 # Verdant Gladiator's Leather Mask [leather head]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 209156 # Verdant Gladiator's Leather Shoulderpads [leather shoulders]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 209155 # Verdant Gladiator's Leather Spaulders [leather shoulders]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 209146 # Verdant Gladiator's Leather Jerkin [leather chest]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 209145 # Verdant Gladiator's Leather Vest [leather chest]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 209160 # Verdant Gladiator's Leather Wristguards [leather wrists]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 209159 # Verdant Gladiator's Leather Wristwraps [leather wrists]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 209149 # Verdant Gladiator's Leather Gloves [leather hands]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 209150 # Verdant Gladiator's Leather Grips [leather hands]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 209157 # Verdant Gladiator's Leather Belt [leather waist]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 209158 # Verdant Gladiator's Leather Strap [leather waist]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 209153 # Verdant Gladiator's Leather Breeches [leather legs]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 209154 # Verdant Gladiator's Leather Legwraps [leather legs]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 209147 # Verdant Gladiator's Leather Boots [leather feet]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 209148 # Verdant Gladiator's Leather Treads [leather feet]
+    costs:
+      1602: 700
+
+  # Demon Hunter set=2724
+
+  - type: item
+    id: 201890 # Crimson Gladiator's Cloak [cloak]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 201891 # Crimson Gladiator's Drape [cloak]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 201892 # Crimson Gladiator's Shawl [cloak]
+    costs:
+      1602: 525
+
+  # Demon Hunter set=2920
+
+  - type: item
+    id: 205655 # Obsidian Gladiator's Cloak [cloak]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 205656 # Obsidian Gladiator's Drape [cloak]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 205657 # Obsidian Gladiator's Shawl [cloak]
+    costs:
+      1602: 525
+
+  # Demon Hunter set=3203
+
+  - type: item
+    id: 209161 # Verdant Gladiator's Cloak [cloak]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 209162 # Verdant Gladiator's Drape [cloak]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 209163 # Verdant Gladiator's Shawl [cloak]
+    costs:
+      1602: 525
+
+  # Druid set=2722
+
+  - type: item
+    id: 201591 # Crimson Gladiator's Leather Helm [leather head]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 201592 # Crimson Gladiator's Leather Mask [leather head]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 201596 # Crimson Gladiator's Leather Shoulderpads [leather shoulders]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 201595 # Crimson Gladiator's Leather Spaulders [leather shoulders]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 201586 # Crimson Gladiator's Leather Jerkin [leather chest]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 201585 # Crimson Gladiator's Leather Vest [leather chest]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 201600 # Crimson Gladiator's Leather Wristguards [leather wrists]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 201599 # Crimson Gladiator's Leather Wristwraps [leather wrists]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 201589 # Crimson Gladiator's Leather Gloves [leather hands]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 201590 # Crimson Gladiator's Leather Grips [leather hands]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 201597 # Crimson Gladiator's Leather Belt [leather waist]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 201598 # Crimson Gladiator's Leather Strap [leather waist]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 201593 # Crimson Gladiator's Leather Breeches [leather legs]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 201594 # Crimson Gladiator's Leather Legwraps [leather legs]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 201587 # Crimson Gladiator's Leather Boots [leather feet]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 201588 # Crimson Gladiator's Leather Treads [leather feet]
+    costs:
+      1602: 700
+
+  # Druid set=2922
+
+  - type: item
+    id: 205543 # Obsidian Gladiator's Leather Helm [leather head]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 205544 # Obsidian Gladiator's Leather Mask [leather head]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 205548 # Obsidian Gladiator's Leather Shoulderpads [leather shoulders]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 205547 # Obsidian Gladiator's Leather Spaulders [leather shoulders]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 205538 # Obsidian Gladiator's Leather Jerkin [leather chest]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 205537 # Obsidian Gladiator's Leather Vest [leather chest]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 205552 # Obsidian Gladiator's Leather Wristguards [leather wrists]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 205551 # Obsidian Gladiator's Leather Wristwraps [leather wrists]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 205541 # Obsidian Gladiator's Leather Gloves [leather hands]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 205542 # Obsidian Gladiator's Leather Grips [leather hands]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 205549 # Obsidian Gladiator's Leather Belt [leather waist]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 205550 # Obsidian Gladiator's Leather Strap [leather waist]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 205545 # Obsidian Gladiator's Leather Breeches [leather legs]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 205546 # Obsidian Gladiator's Leather Legwraps [leather legs]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 205539 # Obsidian Gladiator's Leather Boots [leather feet]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 205540 # Obsidian Gladiator's Leather Treads [leather feet]
+    costs:
+      1602: 700
+
+  # Druid set=3201
+
+  - type: item
+    id: 209132 # Verdant Gladiator's Leather Helm [leather head]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 209133 # Verdant Gladiator's Leather Mask [leather head]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 209137 # Verdant Gladiator's Leather Shoulderpads [leather shoulders]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 209136 # Verdant Gladiator's Leather Spaulders [leather shoulders]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 209126 # Verdant Gladiator's Leather Robe [leather chest]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 209127 # Verdant Gladiator's Leather Vestments [leather chest]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 209141 # Verdant Gladiator's Leather Wristguards [leather wrists]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 209140 # Verdant Gladiator's Leather Wristwraps [leather wrists]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 209130 # Verdant Gladiator's Leather Gloves [leather hands]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 209131 # Verdant Gladiator's Leather Grips [leather hands]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 209138 # Verdant Gladiator's Leather Belt [leather waist]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 209139 # Verdant Gladiator's Leather Strap [leather waist]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 209134 # Verdant Gladiator's Leather Breeches [leather legs]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 209135 # Verdant Gladiator's Leather Legwraps [leather legs]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 209128 # Verdant Gladiator's Leather Boots [leather feet]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 209129 # Verdant Gladiator's Leather Treads [leather feet]
+    costs:
+      1602: 700
+
+  # Druid set=2722
+
+  - type: item
+    id: 201893 # Crimson Gladiator's Cloak [cloak]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 201894 # Crimson Gladiator's Drape [cloak]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 201895 # Crimson Gladiator's Shawl [cloak]
+    costs:
+      1602: 525
+
+  # Druid set=2922
+
+  - type: item
+    id: 205658 # Obsidian Gladiator's Cloak [cloak]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 205659 # Obsidian Gladiator's Drape [cloak]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 205660 # Obsidian Gladiator's Shawl [cloak]
+    costs:
+      1602: 525
+
+  # Druid set=3201
+
+  - type: item
+    id: 209142 # Verdant Gladiator's Cloak [cloak]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 209143 # Verdant Gladiator's Drape [cloak]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 209144 # Verdant Gladiator's Shawl [cloak]
+    costs:
+      1602: 525
+
+  # Evoker set=2731
+
+  - type: item
+    id: 201511 # Crimson Gladiator's Chain Faceguard [mail head]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 201510 # Crimson Gladiator's Chain Helm [mail head]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 201514 # Crimson Gladiator's Chain Monnion [mail shoulders]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 201515 # Crimson Gladiator's Chain Shoulderguard [mail shoulders]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 201505 # Crimson Gladiator's Chain Tunic [mail chest]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 201504 # Crimson Gladiator's Chain Vest [mail chest]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 201519 # Crimson Gladiator's Chain Bracers [mail wrists]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 201518 # Crimson Gladiator's Chain Wristguards [mail wrists]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 201508 # Crimson Gladiator's Chain Gauntlets [mail hands]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 201509 # Crimson Gladiator's Chain Handguards [mail hands]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 201516 # Crimson Gladiator's Chain Belt [mail waist]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 201517 # Crimson Gladiator's Chain Girdle [mail waist]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 201513 # Crimson Gladiator's Chain Breeches [mail legs]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 201512 # Crimson Gladiator's Chain Leggings [mail legs]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 201507 # Crimson Gladiator's Chain Boots [mail feet]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 201506 # Crimson Gladiator's Chain Sabatons [mail feet]
+    costs:
+      1602: 700
+
+  # Evoker set=2911
+
+  - type: item
+    id: 205398 # Obsidian Gladiator's Chain Faceguard [mail head]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 205397 # Obsidian Gladiator's Chain Helm [mail head]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 205401 # Obsidian Gladiator's Chain Monnion [mail shoulders]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 205402 # Obsidian Gladiator's Chain Shoulderguard [mail shoulders]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 205392 # Obsidian Gladiator's Chain Tunic [mail chest]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 205391 # Obsidian Gladiator's Chain Vest [mail chest]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 205406 # Obsidian Gladiator's Chain Bracers [mail wrists]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 205405 # Obsidian Gladiator's Chain Wristguards [mail wrists]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 205395 # Obsidian Gladiator's Chain Gauntlets [mail hands]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 205396 # Obsidian Gladiator's Chain Handguards [mail hands]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 205403 # Obsidian Gladiator's Chain Belt [mail waist]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 205404 # Obsidian Gladiator's Chain Girdle [mail waist]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 205400 # Obsidian Gladiator's Chain Breeches [mail legs]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 205399 # Obsidian Gladiator's Chain Leggings [mail legs]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 205394 # Obsidian Gladiator's Chain Boots [mail feet]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 205393 # Obsidian Gladiator's Chain Sabatons [mail feet]
+    costs:
+      1602: 700
+
+  # Evoker set=3209
+
+  - type: item
+    id: 209209 # Verdant Gladiator's Chain Faceguard [mail head]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 209208 # Verdant Gladiator's Chain Helm [mail head]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 209212 # Verdant Gladiator's Chain Monnion [mail shoulders]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 209213 # Verdant Gladiator's Chain Shoulderguard [mail shoulders]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 209202 # Verdant Gladiator's Chain Robe [mail chest]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 209203 # Verdant Gladiator's Chain Vestments [mail chest]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 209217 # Verdant Gladiator's Chain Bracers [mail wrists]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 209216 # Verdant Gladiator's Chain Wristguards [mail wrists]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 209206 # Verdant Gladiator's Chain Gauntlets [mail hands]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 209207 # Verdant Gladiator's Chain Handguards [mail hands]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 209214 # Verdant Gladiator's Chain Belt [mail waist]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 209215 # Verdant Gladiator's Chain Girdle [mail waist]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 209211 # Verdant Gladiator's Chain Breeches [mail legs]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 209210 # Verdant Gladiator's Chain Leggings [mail legs]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 209205 # Verdant Gladiator's Chain Boots [mail feet]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 209204 # Verdant Gladiator's Chain Sabatons [mail feet]
+    costs:
+      1602: 700
+
+  # Evoker set=2730
+
+  - type: item
+    id: 201902 # Crimson Gladiator's Cloak [cloak]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 201903 # Crimson Gladiator's Drape [cloak]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 201904 # Crimson Gladiator's Shawl [cloak]
+    costs:
+      1602: 525
+
+  # Evoker set=2911
+
+  - type: item
+    id: 205407 # Obsidian Gladiator's Cloak [cloak]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 205408 # Obsidian Gladiator's Drape [cloak]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 205409 # Obsidian Gladiator's Shawl [cloak]
+    costs:
+      1602: 525
+
+  # Evoker set=3209
+
+  - type: item
+    id: 209218 # Verdant Gladiator's Cloak [cloak]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 209219 # Verdant Gladiator's Drape [cloak]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 209220 # Verdant Gladiator's Shawl [cloak]
+    costs:
+      1602: 525
+
+  # Hunter set=2733
+
+  - type: item
+    id: 201641 # Crimson Gladiator's Chain Faceguard [mail head]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 201640 # Crimson Gladiator's Chain Helm [mail head]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 201644 # Crimson Gladiator's Chain Monnion [mail shoulders]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 201645 # Crimson Gladiator's Chain Shoulderguard [mail shoulders]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 201635 # Crimson Gladiator's Chain Tunic [mail chest]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 201634 # Crimson Gladiator's Chain Vest [mail chest]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 201649 # Crimson Gladiator's Chain Bracers [mail wrists]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 201648 # Crimson Gladiator's Chain Wristguards [mail wrists]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 201638 # Crimson Gladiator's Chain Gauntlets [mail hands]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 201639 # Crimson Gladiator's Chain Handguards [mail hands]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 201646 # Crimson Gladiator's Chain Belt [mail waist]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 201647 # Crimson Gladiator's Chain Girdle [mail waist]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 201643 # Crimson Gladiator's Chain Breeches [mail legs]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 201642 # Crimson Gladiator's Chain Leggings [mail legs]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 201637 # Crimson Gladiator's Chain Boots [mail feet]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 201636 # Crimson Gladiator's Chain Sabatons [mail feet]
+    costs:
+      1602: 700
+
+  # Hunter set=2928
+
+  - type: item
+    id: 205592 # Obsidian Gladiator's Chain Faceguard [mail head]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 205591 # Obsidian Gladiator's Chain Helm [mail head]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 205595 # Obsidian Gladiator's Chain Monnion [mail shoulders]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 205596 # Obsidian Gladiator's Chain Shoulderguard [mail shoulders]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 205586 # Obsidian Gladiator's Chain Tunic [mail chest]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 205585 # Obsidian Gladiator's Chain Vest [mail chest]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 205600 # Obsidian Gladiator's Chain Bracers [mail wrists]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 205599 # Obsidian Gladiator's Chain Wristguards [mail wrists]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 205589 # Obsidian Gladiator's Chain Gauntlets [mail hands]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 205590 # Obsidian Gladiator's Chain Handguards [mail hands]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 205597 # Obsidian Gladiator's Chain Belt [mail waist]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 205598 # Obsidian Gladiator's Chain Girdle [mail waist]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 205594 # Obsidian Gladiator's Chain Breeches [mail legs]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 205593 # Obsidian Gladiator's Chain Leggings [mail legs]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 205588 # Obsidian Gladiator's Chain Boots [mail feet]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 205587 # Obsidian Gladiator's Chain Sabatons [mail feet]
+    costs:
+      1602: 700
+
+  # Hunter set=3211
+
+  - type: item
+    id: 209228 # Verdant Gladiator's Chain Faceguard [mail head]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 209227 # Verdant Gladiator's Chain Helm [mail head]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 209231 # Verdant Gladiator's Chain Monnion [mail shoulders]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 209232 # Verdant Gladiator's Chain Shoulderguard [mail shoulders]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 209222 # Verdant Gladiator's Chain Tunic [mail chest]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 209221 # Verdant Gladiator's Chain Vest [mail chest]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 209236 # Verdant Gladiator's Chain Bracers [mail wrists]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 209235 # Verdant Gladiator's Chain Wristguards [mail wrists]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 209225 # Verdant Gladiator's Chain Gauntlets [mail hands]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 209226 # Verdant Gladiator's Chain Handguards [mail hands]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 209233 # Verdant Gladiator's Chain Belt [mail waist]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 209234 # Verdant Gladiator's Chain Girdle [mail waist]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 209230 # Verdant Gladiator's Chain Breeches [mail legs]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 209229 # Verdant Gladiator's Chain Leggings [mail legs]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 209224 # Verdant Gladiator's Chain Boots [mail feet]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 209223 # Verdant Gladiator's Chain Sabatons [mail feet]
+    costs:
+      1602: 700
+
+  # Hunter set=2732
+
+  - type: item
+    id: 201905 # Crimson Gladiator's Cloak [cloak]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 201906 # Crimson Gladiator's Drape [cloak]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 201907 # Crimson Gladiator's Shawl [cloak]
+    costs:
+      1602: 525
+
+  # Hunter set=2928
+
+  - type: item
+    id: 205667 # Obsidian Gladiator's Cloak [cloak]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 205668 # Obsidian Gladiator's Drape [cloak]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 205669 # Obsidian Gladiator's Shawl [cloak]
+    costs:
+      1602: 525
+
+  # Hunter set=3211
+
+  - type: item
+    id: 209237 # Verdant Gladiator's Cloak [cloak]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 209238 # Verdant Gladiator's Drape [cloak]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 209239 # Verdant Gladiator's Shawl [cloak]
+    costs:
+      1602: 525
+
+  # Mage set=2716
+
+  - type: item
+    id: 201479 # Crimson Gladiator's Silk Guise [cloth head]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 201478 # Crimson Gladiator's Silk Hood [cloth head]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 201483 # Crimson Gladiator's Silk Amice [cloth shoulders]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 201482 # Crimson Gladiator's Silk Mantle [cloth shoulders]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 201473 # Crimson Gladiator's Silk Blouse [cloth chest]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 201472 # Crimson Gladiator's Silk Tunic [cloth chest]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 201487 # Crimson Gladiator's Silk Armbands [cloth wrists]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 201486 # Crimson Gladiator's Silk Wristwraps [cloth wrists]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 201476 # Crimson Gladiator's Silk Gloves [cloth hands]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 201477 # Crimson Gladiator's Silk Handwraps [cloth hands]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 201485 # Crimson Gladiator's Silk Belt [cloth waist]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 201484 # Crimson Gladiator's Silk Cord [cloth waist]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 201480 # Crimson Gladiator's Silk Leggings [cloth legs]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 201481 # Crimson Gladiator's Silk Trousers [cloth legs]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 201474 # Crimson Gladiator's Silk Slippers [cloth feet]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 201475 # Crimson Gladiator's Silk Treads [cloth feet]
+    costs:
+      1602: 700
+
+  # Mage set=2936
+
+  - type: item
+    id: 205382 # Obsidian Gladiator's Silk Guise [cloth head]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 205381 # Obsidian Gladiator's Silk Hood [cloth head]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 205386 # Obsidian Gladiator's Silk Amice [cloth shoulders]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 205385 # Obsidian Gladiator's Silk Mantle [cloth shoulders]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 205376 # Obsidian Gladiator's Silk Blouse [cloth chest]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 205375 # Obsidian Gladiator's Silk Tunic [cloth chest]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 205390 # Obsidian Gladiator's Silk Armbands [cloth wrists]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 205389 # Obsidian Gladiator's Silk Wristwraps [cloth wrists]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 205379 # Obsidian Gladiator's Silk Gloves [cloth hands]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 205380 # Obsidian Gladiator's Silk Handwraps [cloth hands]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 205388 # Obsidian Gladiator's Silk Belt [cloth waist]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 205387 # Obsidian Gladiator's Silk Cord [cloth waist]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 205383 # Obsidian Gladiator's Silk Leggings [cloth legs]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 205384 # Obsidian Gladiator's Silk Trousers [cloth legs]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 205377 # Obsidian Gladiator's Silk Slippers [cloth feet]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 205378 # Obsidian Gladiator's Silk Treads [cloth feet]
+    costs:
+      1602: 700
+
+  # Mage set=3195
+
+  - type: item
+    id: 209076 # Verdant Gladiator's Silk Cap [cloth head]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 209075 # Verdant Gladiator's Silk Hat [cloth head]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 209080 # Verdant Gladiator's Silk Amice [cloth shoulders]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 209079 # Verdant Gladiator's Silk Mantle [cloth shoulders]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 209070 # Verdant Gladiator's Silk Blouse [cloth chest]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 209069 # Verdant Gladiator's Silk Tunic [cloth chest]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 209084 # Verdant Gladiator's Silk Armbands [cloth wrists]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 209083 # Verdant Gladiator's Silk Wristwraps [cloth wrists]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 209073 # Verdant Gladiator's Silk Gloves [cloth hands]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 209074 # Verdant Gladiator's Silk Handwraps [cloth hands]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 209082 # Verdant Gladiator's Silk Belt [cloth waist]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 209081 # Verdant Gladiator's Silk Cord [cloth waist]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 209077 # Verdant Gladiator's Silk Leggings [cloth legs]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 209078 # Verdant Gladiator's Silk Trousers [cloth legs]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 209071 # Verdant Gladiator's Silk Slippers [cloth feet]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 209072 # Verdant Gladiator's Silk Treads [cloth feet]
+    costs:
+      1602: 700
+
+  # Mage set=2716
+
+  - type: item
+    id: 201797 # Crimson Gladiator's Cloak [cloak]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 201798 # Crimson Gladiator's Drape [cloak]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 201799 # Crimson Gladiator's Shawl [cloak]
+    costs:
+      1602: 525
+
+  # Mage set=2936
+
+  - type: item
+    id: 205446 # Obsidian Gladiator's Cloak [cloak]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 205447 # Obsidian Gladiator's Drape [cloak]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 205448 # Obsidian Gladiator's Shawl [cloak]
+    costs:
+      1602: 525
+
+  # Mage set=3195
+
+  - type: item
+    id: 209085 # Verdant Gladiator's Cloak [cloak]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 209086 # Verdant Gladiator's Drape [cloak]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 209087 # Verdant Gladiator's Shawl [cloak]
+    costs:
+      1602: 525
+
+  # Monk set=2727
+
+  - type: item
+    id: 201608 # Crimson Gladiator's Leather Helm [leather head]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 201609 # Crimson Gladiator's Leather Mask [leather head]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 201613 # Crimson Gladiator's Leather Shoulderpads [leather shoulders]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 201612 # Crimson Gladiator's Leather Spaulders [leather shoulders]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 201603 # Crimson Gladiator's Leather Jerkin [leather chest]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 201602 # Crimson Gladiator's Leather Vest [leather chest]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 201617 # Crimson Gladiator's Leather Wristguards [leather wrists]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 201616 # Crimson Gladiator's Leather Wristwraps [leather wrists]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 201606 # Crimson Gladiator's Leather Gloves [leather hands]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 201607 # Crimson Gladiator's Leather Grips [leather hands]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 201614 # Crimson Gladiator's Leather Belt [leather waist]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 201615 # Crimson Gladiator's Leather Strap [leather waist]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 201610 # Crimson Gladiator's Leather Breeches [leather legs]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 201611 # Crimson Gladiator's Leather Legwraps [leather legs]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 201604 # Crimson Gladiator's Leather Boots [leather feet]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 201605 # Crimson Gladiator's Leather Treads [leather feet]
+    costs:
+      1602: 700
+
+  # Monk set=2924
+
+  - type: item
+    id: 205559 # Obsidian Gladiator's Leather Helm [leather head]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 205560 # Obsidian Gladiator's Leather Mask [leather head]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 205564 # Obsidian Gladiator's Leather Shoulderpads [leather shoulders]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 205563 # Obsidian Gladiator's Leather Spaulders [leather shoulders]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 205554 # Obsidian Gladiator's Leather Jerkin [leather chest]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 205553 # Obsidian Gladiator's Leather Vest [leather chest]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 205568 # Obsidian Gladiator's Leather Wristguards [leather wrists]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 205567 # Obsidian Gladiator's Leather Wristwraps [leather wrists]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 205557 # Obsidian Gladiator's Leather Gloves [leather hands]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 205558 # Obsidian Gladiator's Leather Grips [leather hands]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 205565 # Obsidian Gladiator's Leather Belt [leather waist]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 205566 # Obsidian Gladiator's Leather Strap [leather waist]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 205561 # Obsidian Gladiator's Leather Breeches [leather legs]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 205562 # Obsidian Gladiator's Leather Legwraps [leather legs]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 205555 # Obsidian Gladiator's Leather Boots [leather feet]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 205556 # Obsidian Gladiator's Leather Treads [leather feet]
+    costs:
+      1602: 700
+
+  # Monk set=3205
+
+  - type: item
+    id: 209170 # Verdant Gladiator's Leather Helm [leather head]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 209171 # Verdant Gladiator's Leather Mask [leather head]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 209175 # Verdant Gladiator's Leather Shoulderpads [leather shoulders]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 209174 # Verdant Gladiator's Leather Spaulders [leather shoulders]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 209165 # Verdant Gladiator's Leather Jerkin [leather chest]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 209164 # Verdant Gladiator's Leather Vest [leather chest]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 209179 # Verdant Gladiator's Leather Wristguards [leather wrists]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 209178 # Verdant Gladiator's Leather Wristwraps [leather wrists]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 209168 # Verdant Gladiator's Leather Gloves [leather hands]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 209169 # Verdant Gladiator's Leather Grips [leather hands]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 209176 # Verdant Gladiator's Leather Belt [leather waist]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 209177 # Verdant Gladiator's Leather Strap [leather waist]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 209172 # Verdant Gladiator's Leather Breeches [leather legs]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 209173 # Verdant Gladiator's Leather Legwraps [leather legs]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 209166 # Verdant Gladiator's Leather Boots [leather feet]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 209167 # Verdant Gladiator's Leather Treads [leather feet]
+    costs:
+      1602: 700
+
+  # Monk set=2726
+
+  - type: item
+    id: 201896 # Crimson Gladiator's Cloak [cloak]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 201897 # Crimson Gladiator's Drape [cloak]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 201898 # Crimson Gladiator's Shawl [cloak]
+    costs:
+      1602: 525
+
+  # Monk set=2924
+
+  - type: item
+    id: 205661 # Obsidian Gladiator's Cloak [cloak]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 205662 # Obsidian Gladiator's Drape [cloak]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 205663 # Obsidian Gladiator's Shawl [cloak]
+    costs:
+      1602: 525
+
+  # Monk set=3205
+
+  - type: item
+    id: 209180 # Verdant Gladiator's Cloak [cloak]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 209181 # Verdant Gladiator's Drape [cloak]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 209182 # Verdant Gladiator's Shawl [cloak]
+    costs:
+      1602: 525
+
+  # Paladin set=2739
+
+  - type: item
+    id: 201671 # Crimson Gladiator's Plate Helm [plate head]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 201672 # Crimson Gladiator's Plate Helmet [plate head]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 201676 # Crimson Gladiator's Plate Pauldrons [plate shoulders]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 201675 # Crimson Gladiator's Plate Shoulders [plate shoulders]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 201665 # Crimson Gladiator's Plate Chestguard [plate chest]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 201666 # Crimson Gladiator's Plate Chestplate [plate chest]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 201680 # Crimson Gladiator's Plate Vambraces [plate wrists]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 201679 # Crimson Gladiator's Plate Wristguards [plate wrists]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 201669 # Crimson Gladiator's Plate Gauntlets [plate hands]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 201670 # Crimson Gladiator's Plate Handguards [plate hands]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 201677 # Crimson Gladiator's Plate Girdle [plate waist]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 201678 # Crimson Gladiator's Plate Greatbelt [plate waist]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 201673 # Crimson Gladiator's Plate Legguards [plate legs]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 201674 # Crimson Gladiator's Plate Wargreaves [plate legs]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 201668 # Crimson Gladiator's Plate Stompers [plate feet]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 201667 # Crimson Gladiator's Plate Warboots [plate feet]
+    costs:
+      1602: 700
+
+  # Paladin set=2932
+
+  - type: item
+    id: 205622 # Obsidian Gladiator's Plate Helm [plate head]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 205623 # Obsidian Gladiator's Plate Helmet [plate head]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 205627 # Obsidian Gladiator's Plate Pauldrons [plate shoulders]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 205626 # Obsidian Gladiator's Plate Shoulders [plate shoulders]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 205617 # Obsidian Gladiator's Plate Chestplate [plate chest]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 205616 # Obsidian Gladiator's Plate Plastron [plate chest]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 205631 # Obsidian Gladiator's Plate Vambraces [plate wrists]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 205630 # Obsidian Gladiator's Plate Wristguards [plate wrists]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 205620 # Obsidian Gladiator's Plate Gauntlets [plate hands]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 205621 # Obsidian Gladiator's Plate Handguards [plate hands]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 205628 # Obsidian Gladiator's Plate Girdle [plate waist]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 205629 # Obsidian Gladiator's Plate Greatbelt [plate waist]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 205624 # Obsidian Gladiator's Plate Legguards [plate legs]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 205625 # Obsidian Gladiator's Plate Tasses [plate legs]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 205619 # Obsidian Gladiator's Plate Stompers [plate feet]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 205618 # Obsidian Gladiator's Plate Warboots [plate feet]
+    costs:
+      1602: 700
+
+  # Paladin set=3217
+
+  - type: item
+    id: 209284 # Verdant Gladiator's Plate Helm [plate head]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 209285 # Verdant Gladiator's Plate Helmet [plate head]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 209289 # Verdant Gladiator's Plate Pauldrons [plate shoulders]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 209288 # Verdant Gladiator's Plate Shoulders [plate shoulders]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 209278 # Verdant Gladiator's Plate Chestguard [plate chest]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 209279 # Verdant Gladiator's Plate Chestplate [plate chest]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 209293 # Verdant Gladiator's Plate Vambraces [plate wrists]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 209292 # Verdant Gladiator's Plate Wristguards [plate wrists]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 209282 # Verdant Gladiator's Plate Gauntlets [plate hands]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 209283 # Verdant Gladiator's Plate Handguards [plate hands]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 209290 # Verdant Gladiator's Plate Girdle [plate waist]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 209291 # Verdant Gladiator's Plate Greatbelt [plate waist]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 209286 # Verdant Gladiator's Plate Legguards [plate legs]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 209287 # Verdant Gladiator's Plate Tasses [plate legs]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 209281 # Verdant Gladiator's Plate Stompers [plate feet]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 209280 # Verdant Gladiator's Plate Warboots [plate feet]
+    costs:
+      1602: 700
+
+  # Paladin set=2738
+
+  - type: item
+    id: 201914 # Crimson Gladiator's Cloak [cloak]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 201915 # Crimson Gladiator's Drape [cloak]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 201916 # Crimson Gladiator's Shawl [cloak]
+    costs:
+      1602: 525
+
+  # Paladin set=2932
+
+  - type: item
+    id: 205676 # Obsidian Gladiator's Cloak [cloak]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 205677 # Obsidian Gladiator's Drape [cloak]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 205678 # Obsidian Gladiator's Shawl [cloak]
+    costs:
+      1602: 525
+
+  # Paladin set=3217
+
+  - type: item
+    id: 209294 # Verdant Gladiator's Cloak [cloak]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 209295 # Verdant Gladiator's Drape [cloak]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 209296 # Verdant Gladiator's Shawl [cloak]
+    costs:
+      1602: 525
+
+  # Priest set=2718
+
+  - type: item
+    id: 201543 # Crimson Gladiator's Silk Guise [cloth head]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 201542 # Crimson Gladiator's Silk Hood [cloth head]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 201547 # Crimson Gladiator's Silk Amice [cloth shoulders]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 201546 # Crimson Gladiator's Silk Mantle [cloth shoulders]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 201536 # Crimson Gladiator's Silk Robe [cloth chest]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 201537 # Crimson Gladiator's Silk Vestments [cloth chest]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 201551 # Crimson Gladiator's Silk Armbands [cloth wrists]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 201550 # Crimson Gladiator's Silk Wristwraps [cloth wrists]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 201540 # Crimson Gladiator's Silk Gloves [cloth hands]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 201541 # Crimson Gladiator's Silk Handwraps [cloth hands]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 201549 # Crimson Gladiator's Silk Belt [cloth waist]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 201548 # Crimson Gladiator's Silk Cord [cloth waist]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 201544 # Crimson Gladiator's Silk Leggings [cloth legs]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 201545 # Crimson Gladiator's Silk Trousers [cloth legs]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 201538 # Crimson Gladiator's Silk Slippers [cloth feet]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 201539 # Crimson Gladiator's Silk Treads [cloth feet]
+    costs:
+      1602: 700
+
+  # Priest set=2916
+
+  - type: item
+    id: 205496 # Obsidian Gladiator's Silk Guise [cloth head]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 205495 # Obsidian Gladiator's Silk Hood [cloth head]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 205500 # Obsidian Gladiator's Silk Amice [cloth shoulders]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 205499 # Obsidian Gladiator's Silk Mantle [cloth shoulders]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 205490 # Obsidian Gladiator's Silk Blouse [cloth chest]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 205489 # Obsidian Gladiator's Silk Tunic [cloth chest]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 205504 # Obsidian Gladiator's Silk Armbands [cloth wrists]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 205503 # Obsidian Gladiator's Silk Wristwraps [cloth wrists]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 205493 # Obsidian Gladiator's Silk Gloves [cloth hands]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 205494 # Obsidian Gladiator's Silk Handwraps [cloth hands]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 205502 # Obsidian Gladiator's Silk Belt [cloth waist]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 205501 # Obsidian Gladiator's Silk Cord [cloth waist]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 205497 # Obsidian Gladiator's Silk Leggings [cloth legs]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 205498 # Obsidian Gladiator's Silk Trousers [cloth legs]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 205491 # Obsidian Gladiator's Silk Slippers [cloth feet]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 205492 # Obsidian Gladiator's Silk Treads [cloth feet]
+    costs:
+      1602: 700
+
+  # Priest set=3198
+
+  - type: item
+    id: 209095 # Verdant Gladiator's Silk Guise [cloth head]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 209094 # Verdant Gladiator's Silk Hood [cloth head]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 209099 # Verdant Gladiator's Silk Amice [cloth shoulders]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 209098 # Verdant Gladiator's Silk Mantle [cloth shoulders]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 209089 # Verdant Gladiator's Silk Blouse [cloth chest]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 209088 # Verdant Gladiator's Silk Tunic [cloth chest]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 209103 # Verdant Gladiator's Silk Armbands [cloth wrists]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 209102 # Verdant Gladiator's Silk Wristwraps [cloth wrists]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 209092 # Verdant Gladiator's Silk Gloves [cloth hands]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 209093 # Verdant Gladiator's Silk Handwraps [cloth hands]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 209101 # Verdant Gladiator's Silk Belt [cloth waist]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 209100 # Verdant Gladiator's Silk Cord [cloth waist]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 209096 # Verdant Gladiator's Silk Leggings [cloth legs]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 209097 # Verdant Gladiator's Silk Trousers [cloth legs]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 209090 # Verdant Gladiator's Silk Slippers [cloth feet]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 209091 # Verdant Gladiator's Silk Treads [cloth feet]
+    costs:
+      1602: 700
+
+  # Priest set=2718
+
+  - type: item
+    id: 201884 # Crimson Gladiator's Cloak [cloak]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 201885 # Crimson Gladiator's Drape [cloak]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 201886 # Crimson Gladiator's Shawl [cloak]
+    costs:
+      1602: 525
+
+  # Priest set=2916
+
+  - type: item
+    id: 205649 # Obsidian Gladiator's Cloak [cloak]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 205650 # Obsidian Gladiator's Drape [cloak]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 205651 # Obsidian Gladiator's Shawl [cloak]
+    costs:
+      1602: 525
+
+  # Priest set=3198
+
+  - type: item
+    id: 209104 # Verdant Gladiator's Cloak [cloak]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 209105 # Verdant Gladiator's Drape [cloak]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 209106 # Verdant Gladiator's Shawl [cloak]
+    costs:
+      1602: 525
+
+  # Rogue set=2728
+
+  - type: item
+    id: 201624 # Crimson Gladiator's Leather Helm [leather head]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 201625 # Crimson Gladiator's Leather Mask [leather head]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 201629 # Crimson Gladiator's Leather Shoulderpads [leather shoulders]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 201628 # Crimson Gladiator's Leather Spaulders [leather shoulders]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 201619 # Crimson Gladiator's Leather Jerkin [leather chest]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 201618 # Crimson Gladiator's Leather Vest [leather chest]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 201633 # Crimson Gladiator's Leather Wristguards [leather wrists]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 201632 # Crimson Gladiator's Leather Wristwraps [leather wrists]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 201622 # Crimson Gladiator's Leather Gloves [leather hands]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 201623 # Crimson Gladiator's Leather Grips [leather hands]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 201630 # Crimson Gladiator's Leather Belt [leather waist]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 201631 # Crimson Gladiator's Leather Strap [leather waist]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 201626 # Crimson Gladiator's Leather Breeches [leather legs]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 201627 # Crimson Gladiator's Leather Legwraps [leather legs]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 201620 # Crimson Gladiator's Leather Boots [leather feet]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 201621 # Crimson Gladiator's Leather Treads [leather feet]
+    costs:
+      1602: 700
+
+  # Rogue set=2926
+
+  - type: item
+    id: 205575 # Obsidian Gladiator's Leather Helm [leather head]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 205576 # Obsidian Gladiator's Leather Mask [leather head]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 205580 # Obsidian Gladiator's Leather Shoulderpads [leather shoulders]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 205579 # Obsidian Gladiator's Leather Spaulders [leather shoulders]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 205570 # Obsidian Gladiator's Leather Jerkin [leather chest]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 205569 # Obsidian Gladiator's Leather Vest [leather chest]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 205584 # Obsidian Gladiator's Leather Wristguards [leather wrists]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 205583 # Obsidian Gladiator's Leather Wristwraps [leather wrists]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 205573 # Obsidian Gladiator's Leather Gloves [leather hands]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 205574 # Obsidian Gladiator's Leather Grips [leather hands]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 205581 # Obsidian Gladiator's Leather Belt [leather waist]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 205582 # Obsidian Gladiator's Leather Strap [leather waist]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 205577 # Obsidian Gladiator's Leather Breeches [leather legs]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 205578 # Obsidian Gladiator's Leather Legwraps [leather legs]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 205571 # Obsidian Gladiator's Leather Boots [leather feet]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 205572 # Obsidian Gladiator's Leather Treads [leather feet]
+    costs:
+      1602: 700
+
+  # Rogue set=3207
+
+  - type: item
+    id: 209189 # Verdant Gladiator's Leather Helm [leather head]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 209190 # Verdant Gladiator's Leather Mask [leather head]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 209194 # Verdant Gladiator's Leather Shoulderpads [leather shoulders]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 209193 # Verdant Gladiator's Leather Spaulders [leather shoulders]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 209184 # Verdant Gladiator's Leather Jerkin [leather chest]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 209183 # Verdant Gladiator's Leather Vest [leather chest]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 209198 # Verdant Gladiator's Leather Wristguards [leather wrists]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 209197 # Verdant Gladiator's Leather Wristwraps [leather wrists]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 209187 # Verdant Gladiator's Leather Gloves [leather hands]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 209188 # Verdant Gladiator's Leather Grips [leather hands]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 209195 # Verdant Gladiator's Leather Belt [leather waist]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 209196 # Verdant Gladiator's Leather Strap [leather waist]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 209191 # Verdant Gladiator's Leather Breeches [leather legs]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 209192 # Verdant Gladiator's Leather Legwraps [leather legs]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 209185 # Verdant Gladiator's Leather Boots [leather feet]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 209186 # Verdant Gladiator's Leather Treads [leather feet]
+    costs:
+      1602: 700
+
+  # Rogue set=2728
+
+  - type: item
+    id: 201899 # Crimson Gladiator's Cloak [cloak]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 201900 # Crimson Gladiator's Drape [cloak]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 201901 # Crimson Gladiator's Shawl [cloak]
+    costs:
+      1602: 525
+
+  # Rogue set=2926
+
+  - type: item
+    id: 205664 # Obsidian Gladiator's Cloak [cloak]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 205665 # Obsidian Gladiator's Drape [cloak]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 205666 # Obsidian Gladiator's Shawl [cloak]
+    costs:
+      1602: 525
+
+  # Rogue set=3207
+
+  - type: item
+    id: 209199 # Verdant Gladiator's Cloak [cloak]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 209200 # Verdant Gladiator's Drape [cloak]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 209201 # Verdant Gladiator's Shawl [cloak]
+    costs:
+      1602: 525
+
+  # Shaman set=2735
+
+  - type: item
+    id: 201657 # Crimson Gladiator's Chain Faceguard [mail head]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 201656 # Crimson Gladiator's Chain Helm [mail head]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 201660 # Crimson Gladiator's Chain Monnion [mail shoulders]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 201661 # Crimson Gladiator's Chain Shoulderguard [mail shoulders]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 201651 # Crimson Gladiator's Chain Robe [mail chest]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 201650 # Crimson Gladiator's Chain Vestments [mail chest]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 201701 # Crimson Gladiator's Chain Bracers [mail wrists]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 201664 # Crimson Gladiator's Chain Wristguards [mail wrists]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 201654 # Crimson Gladiator's Chain Gauntlets [mail hands]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 201655 # Crimson Gladiator's Chain Handguards [mail hands]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 201662 # Crimson Gladiator's Chain Belt [mail waist]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 201663 # Crimson Gladiator's Chain Girdle [mail waist]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 201659 # Crimson Gladiator's Chain Breeches [mail legs]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 201658 # Crimson Gladiator's Chain Leggings [mail legs]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 201653 # Crimson Gladiator's Chain Boots [mail feet]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 201652 # Crimson Gladiator's Chain Sabatons [mail feet]
+    costs:
+      1602: 700
+
+  # Shaman set=2930
+
+  - type: item
+    id: 205608 # Obsidian Gladiator's Chain Faceguard [mail head]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 205607 # Obsidian Gladiator's Chain Helm [mail head]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 205611 # Obsidian Gladiator's Chain Monnion [mail shoulders]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 205612 # Obsidian Gladiator's Chain Shoulderguard [mail shoulders]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 205602 # Obsidian Gladiator's Chain Tunic [mail chest]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 205601 # Obsidian Gladiator's Chain Vest [mail chest]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 205648 # Obsidian Gladiator's Chain Bracers [mail wrists]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 205615 # Obsidian Gladiator's Chain Wristguards [mail wrists]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 205605 # Obsidian Gladiator's Chain Gauntlets [mail hands]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 205606 # Obsidian Gladiator's Chain Handguards [mail hands]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 205613 # Obsidian Gladiator's Chain Belt [mail waist]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 205614 # Obsidian Gladiator's Chain Girdle [mail waist]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 205610 # Obsidian Gladiator's Chain Breeches [mail legs]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 205609 # Obsidian Gladiator's Chain Leggings [mail legs]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 205604 # Obsidian Gladiator's Chain Boots [mail feet]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 205603 # Obsidian Gladiator's Chain Sabatons [mail feet]
+    costs:
+      1602: 700
+
+  # Shaman set=3213
+
+  - type: item
+    id: 209247 # Verdant Gladiator's Chain Faceguard [mail head]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 209246 # Verdant Gladiator's Chain Helm [mail head]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 209250 # Verdant Gladiator's Chain Monnion [mail shoulders]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 209251 # Verdant Gladiator's Chain Shoulderguard [mail shoulders]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 209241 # Verdant Gladiator's Chain Tunic [mail chest]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 209240 # Verdant Gladiator's Chain Vest [mail chest]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 209255 # Verdant Gladiator's Chain Bracers [mail wrists]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 209254 # Verdant Gladiator's Chain Wristguards [mail wrists]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 209244 # Verdant Gladiator's Chain Gauntlets [mail hands]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 209245 # Verdant Gladiator's Chain Handguards [mail hands]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 209252 # Verdant Gladiator's Chain Belt [mail waist]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 209253 # Verdant Gladiator's Chain Girdle [mail waist]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 209249 # Verdant Gladiator's Chain Breeches [mail legs]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 209248 # Verdant Gladiator's Chain Leggings [mail legs]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 209243 # Verdant Gladiator's Chain Boots [mail feet]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 209242 # Verdant Gladiator's Chain Sabatons [mail feet]
+    costs:
+      1602: 700
+
+  # Shaman set=2734
+
+  - type: item
+    id: 201908 # Crimson Gladiator's Cloak [cloak]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 201909 # Crimson Gladiator's Drape [cloak]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 201910 # Crimson Gladiator's Shawl [cloak]
+    costs:
+      1602: 525
+
+  # Shaman set=2930
+
+  - type: item
+    id: 205670 # Obsidian Gladiator's Cloak [cloak]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 205671 # Obsidian Gladiator's Drape [cloak]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 205672 # Obsidian Gladiator's Shawl [cloak]
+    costs:
+      1602: 525
+
+  # Shaman set=3213
+
+  - type: item
+    id: 209256 # Verdant Gladiator's Cloak [cloak]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 209257 # Verdant Gladiator's Drape [cloak]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 209258 # Verdant Gladiator's Shawl [cloak]
+    costs:
+      1602: 525
+
+  # Warlock set=2720
+
+  - type: item
+    id: 201559 # Crimson Gladiator's Silk Guise [cloth head]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 201558 # Crimson Gladiator's Silk Hood [cloth head]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 201563 # Crimson Gladiator's Silk Amice [cloth shoulders]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 201562 # Crimson Gladiator's Silk Mantle [cloth shoulders]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 201552 # Crimson Gladiator's Silk Robe [cloth chest]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 201553 # Crimson Gladiator's Silk Vestments [cloth chest]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 201567 # Crimson Gladiator's Silk Armbands [cloth wrists]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 201566 # Crimson Gladiator's Silk Wristwraps [cloth wrists]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 201556 # Crimson Gladiator's Silk Gloves [cloth hands]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 201557 # Crimson Gladiator's Silk Handwraps [cloth hands]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 201565 # Crimson Gladiator's Silk Belt [cloth waist]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 201564 # Crimson Gladiator's Silk Cord [cloth waist]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 201560 # Crimson Gladiator's Silk Leggings [cloth legs]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 201561 # Crimson Gladiator's Silk Trousers [cloth legs]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 201554 # Crimson Gladiator's Silk Slippers [cloth feet]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 201555 # Crimson Gladiator's Silk Treads [cloth feet]
+    costs:
+      1602: 700
+
+  # Warlock set=2918
+
+  - type: item
+    id: 205512 # Obsidian Gladiator's Silk Guise [cloth head]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 205511 # Obsidian Gladiator's Silk Hood [cloth head]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 205516 # Obsidian Gladiator's Silk Amice [cloth shoulders]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 205515 # Obsidian Gladiator's Silk Mantle [cloth shoulders]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 205505 # Obsidian Gladiator's Silk Robe [cloth chest]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 205506 # Obsidian Gladiator's Silk Vestments [cloth chest]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 205520 # Obsidian Gladiator's Silk Armbands [cloth wrists]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 205519 # Obsidian Gladiator's Silk Wristwraps [cloth wrists]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 205509 # Obsidian Gladiator's Silk Gloves [cloth hands]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 205510 # Obsidian Gladiator's Silk Handwraps [cloth hands]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 205518 # Obsidian Gladiator's Silk Belt [cloth waist]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 205517 # Obsidian Gladiator's Silk Cord [cloth waist]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 205513 # Obsidian Gladiator's Silk Leggings [cloth legs]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 205514 # Obsidian Gladiator's Silk Trousers [cloth legs]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 205507 # Obsidian Gladiator's Silk Slippers [cloth feet]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 205508 # Obsidian Gladiator's Silk Treads [cloth feet]
+    costs:
+      1602: 700
+
+  # Warlock set=3199
+
+  - type: item
+    id: 209114 # Verdant Gladiator's Silk Guise [cloth head]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 209113 # Verdant Gladiator's Silk Hood [cloth head]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 209118 # Verdant Gladiator's Silk Amice [cloth shoulders]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 209117 # Verdant Gladiator's Silk Mantle [cloth shoulders]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 209107 # Verdant Gladiator's Silk Robe [cloth chest]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 209108 # Verdant Gladiator's Silk Vestments [cloth chest]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 209122 # Verdant Gladiator's Silk Armbands [cloth wrists]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 209121 # Verdant Gladiator's Silk Wristwraps [cloth wrists]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 209111 # Verdant Gladiator's Silk Gloves [cloth hands]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 209112 # Verdant Gladiator's Silk Handwraps [cloth hands]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 209120 # Verdant Gladiator's Silk Belt [cloth waist]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 209119 # Verdant Gladiator's Silk Cord [cloth waist]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 209115 # Verdant Gladiator's Silk Leggings [cloth legs]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 209116 # Verdant Gladiator's Silk Trousers [cloth legs]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 209109 # Verdant Gladiator's Silk Slippers [cloth feet]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 209110 # Verdant Gladiator's Silk Treads [cloth feet]
+    costs:
+      1602: 700
+
+  # Warlock set=2720
+
+  - type: item
+    id: 201887 # Crimson Gladiator's Cloak [cloak]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 201888 # Crimson Gladiator's Drape [cloak]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 201889 # Crimson Gladiator's Shawl [cloak]
+    costs:
+      1602: 525
+
+  # Warlock set=2918
+
+  - type: item
+    id: 205652 # Obsidian Gladiator's Cloak [cloak]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 205653 # Obsidian Gladiator's Drape [cloak]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 205654 # Obsidian Gladiator's Shawl [cloak]
+    costs:
+      1602: 525
+
+  # Warlock set=3199
+
+  - type: item
+    id: 209123 # Verdant Gladiator's Cloak [cloak]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 209124 # Verdant Gladiator's Drape [cloak]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 209125 # Verdant Gladiator's Shawl [cloak]
+    costs:
+      1602: 525
+
+  # Warrior set=2741
+
+  - type: item
+    id: 201687 # Crimson Gladiator's Plate Helm [plate head]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 201688 # Crimson Gladiator's Plate Helmet [plate head]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 201692 # Crimson Gladiator's Plate Pauldrons [plate shoulders]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 201691 # Crimson Gladiator's Plate Shoulders [plate shoulders]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 201681 # Crimson Gladiator's Plate Chestguard [plate chest]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 201682 # Crimson Gladiator's Plate Chestplate [plate chest]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 201696 # Crimson Gladiator's Plate Vambraces [plate wrists]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 201695 # Crimson Gladiator's Plate Wristguards [plate wrists]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 201685 # Crimson Gladiator's Plate Gauntlets [plate hands]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 201686 # Crimson Gladiator's Plate Handguards [plate hands]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 201693 # Crimson Gladiator's Plate Girdle [plate waist]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 201694 # Crimson Gladiator's Plate Greatbelt [plate waist]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 201689 # Crimson Gladiator's Plate Legguards [plate legs]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 201690 # Crimson Gladiator's Plate Wargreaves [plate legs]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 201684 # Crimson Gladiator's Plate Stompers [plate feet]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 201683 # Crimson Gladiator's Plate Warboots [plate feet]
+    costs:
+      1602: 700
+
+  # Warrior set=2934
+
+  - type: item
+    id: 205638 # Obsidian Gladiator's Plate Helm [plate head]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 205639 # Obsidian Gladiator's Plate Helmet [plate head]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 205643 # Obsidian Gladiator's Plate Pauldrons [plate shoulders]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 205642 # Obsidian Gladiator's Plate Shoulders [plate shoulders]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 205632 # Obsidian Gladiator's Plate Chestguard [plate chest]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 205633 # Obsidian Gladiator's Plate Chestplate [plate chest]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 205647 # Obsidian Gladiator's Plate Vambraces [plate wrists]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 205646 # Obsidian Gladiator's Plate Wristguards [plate wrists]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 205636 # Obsidian Gladiator's Plate Gauntlets [plate hands]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 205637 # Obsidian Gladiator's Plate Handguards [plate hands]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 205644 # Obsidian Gladiator's Plate Girdle [plate waist]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 205645 # Obsidian Gladiator's Plate Greatbelt [plate waist]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 205640 # Obsidian Gladiator's Plate Legguards [plate legs]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 205641 # Obsidian Gladiator's Plate Wargreaves [plate legs]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 205635 # Obsidian Gladiator's Plate Stompers [plate feet]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 205634 # Obsidian Gladiator's Plate Warboots [plate feet]
+    costs:
+      1602: 700
+
+  # Warrior set=3219
+
+  - type: item
+    id: 209303 # Verdant Gladiator's Plate Helm [plate head]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 209304 # Verdant Gladiator's Plate Helmet [plate head]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 209308 # Verdant Gladiator's Plate Pauldrons [plate shoulders]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 209307 # Verdant Gladiator's Plate Shoulders [plate shoulders]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 209297 # Verdant Gladiator's Plate Chestguard [plate chest]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 209298 # Verdant Gladiator's Plate Chestplate [plate chest]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 209312 # Verdant Gladiator's Plate Vambraces [plate wrists]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 209311 # Verdant Gladiator's Plate Wristguards [plate wrists]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 209301 # Verdant Gladiator's Plate Gauntlets [plate hands]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 209302 # Verdant Gladiator's Plate Handguards [plate hands]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 209309 # Verdant Gladiator's Plate Girdle [plate waist]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 209310 # Verdant Gladiator's Plate Greatbelt [plate waist]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 209305 # Verdant Gladiator's Plate Legguards [plate legs]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 209306 # Verdant Gladiator's Plate Wargreaves [plate legs]
+    costs:
+      1602: 875
+
+  - type: item
+    id: 209300 # Verdant Gladiator's Plate Stompers [plate feet]
+    costs:
+      1602: 700
+
+  - type: item
+    id: 209299 # Verdant Gladiator's Plate Warboots [plate feet]
+    costs:
+      1602: 700
+
+  # Warrior set=2740
+
+  - type: item
+    id: 201917 # Crimson Gladiator's Cloak [cloak]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 201918 # Crimson Gladiator's Drape [cloak]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 201919 # Crimson Gladiator's Shawl [cloak]
+    costs:
+      1602: 525
+
+  # Warrior set=2934
+
+  - type: item
+    id: 205679 # Obsidian Gladiator's Cloak [cloak]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 205680 # Obsidian Gladiator's Drape [cloak]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 205681 # Obsidian Gladiator's Shawl [cloak]
+    costs:
+      1602: 525
+
+  # Warrior set=3219
+
+  - type: item
+    id: 209313 # Verdant Gladiator's Cloak [cloak]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 209314 # Verdant Gladiator's Drape [cloak]
+    costs:
+      1602: 525
+
+  - type: item
+    id: 209315 # Verdant Gladiator's Shawl [cloak]
+    costs:
+      1602: 525
+
+  # 0
+
+  # Skipped id=201806 name=Crimson Gladiator's Amulet slot=2
+  # Skipped id=201804 name=Crimson Gladiator's Necklace slot=2
+  # Skipped id=201805 name=Crimson Gladiator's Pendant slot=2
+  # Skipped id=205707 name=Obsidian Gladiator's Amulet slot=2
+  # Skipped id=205705 name=Obsidian Gladiator's Necklace slot=2
+  # Skipped id=205706 name=Obsidian Gladiator's Pendant slot=2
+  # Skipped id=209342 name=Verdant Gladiator's Amulet slot=2
+  # Skipped id=209340 name=Verdant Gladiator's Necklace slot=2
+  # Skipped id=209341 name=Verdant Gladiator's Pendant slot=2
+  # Skipped id=201802 name=Crimson Gladiator's Band slot=11
+  # Skipped id=201801 name=Crimson Gladiator's Ring slot=11
+  # Skipped id=201803 name=Crimson Gladiator's Signet slot=11
+  # Skipped id=205703 name=Obsidian Gladiator's Band slot=11
+  # Skipped id=205702 name=Obsidian Gladiator's Ring slot=11
+  # Skipped id=205704 name=Obsidian Gladiator's Signet slot=11
+  # Skipped id=209338 name=Verdant Gladiator's Band slot=11
+  # Skipped id=209337 name=Verdant Gladiator's Ring slot=11
+  # Skipped id=209339 name=Verdant Gladiator's Signet slot=11
+  # Skipped id=201807 name=Crimson Gladiator's Badge of Ferocity slot=12
+  # Skipped id=201809 name=Crimson Gladiator's Emblem slot=12
+  # Skipped id=201808 name=Crimson Gladiator's Insignia of Alacrity slot=12
+  # Skipped id=201810 name=Crimson Gladiator's Medallion slot=12
+  # Skipped id=201811 name=Crimson Gladiator's Sigil of Adaptation slot=12
+  # Skipped id=205708 name=Obsidian Gladiator's Badge of Ferocity slot=12
+  # Skipped id=205710 name=Obsidian Gladiator's Emblem slot=12
+  # Skipped id=205709 name=Obsidian Gladiator's Insignia of Alacrity slot=12
+  # Skipped id=205711 name=Obsidian Gladiator's Medallion slot=12
+  # Skipped id=205712 name=Obsidian Gladiator's Sigil of Adaptation slot=12
+  # Skipped id=209343 name=Verdant Gladiator's Badge of Ferocity slot=12
+  # Skipped id=209345 name=Verdant Gladiator's Emblem slot=12
+  # Skipped id=209344 name=Verdant Gladiator's Insignia of Alacrity slot=12
+  # Skipped id=209346 name=Verdant Gladiator's Medallion slot=12
+  # Skipped id=209347 name=Verdant Gladiator's Sigil of Adaptation slot=12
+  - type: item
+    id: 205289 # Crimson Equipment Chest
+    costs:
+      1602: 375
+
+  - type: item
+    id: 206200 # Obsidian Equipment Chest
+    costs:
+      1602: 375
+
+  - type: item
+    id: 210572 # Verdant Equipment Chest
+    costs:
+      1602: 375
+
+  - type: item
+    id: 209553 # Verdant Gladiator's Shotel [1h ? sword]
+    costs:
+      1602: 900
+
+  - type: item
+    id: 209552 # Verdant Gladiator's Sword [1h ? sword]
+    costs:
+      1602: 900
+
+  - type: item
+    id: 201983 # Crimson Gladiator's Axe [1h ? axe]
+    costs:
+      1602: 900
+
+  - type: item
+    id: 201972 # Crimson Gladiator's Splitter [1h ? axe]
+    costs:
+      1602: 900
+
+  - type: item
+    id: 205924 # Obsidian Gladiator's Axe [1h ? axe]
+    costs:
+      1602: 900
+
+  - type: item
+    id: 205914 # Obsidian Gladiator's Splitter [1h ? axe]
+    costs:
+      1602: 900
+
+  - type: item
+    id: 209544 # Verdant Gladiator's Axe [1h ? axe]
+    costs:
+      1602: 900
+
+  - type: item
+    id: 209535 # Verdant Gladiator's Splitter [1h ? axe]
+    costs:
+      1602: 900
+
+  - type: item
+    id: 201979 # Crimson Gladiator's Gavel [1h ? mace]
+    costs:
+      1602: 1350
+
+  - type: item
+    id: 201985 # Crimson Gladiator's Mace [1h ? mace]
+    costs:
+      1602: 900
+
+  - type: item
+    id: 205926 # Obsidian Gladiator's Mace [1h ? mace]
+    costs:
+      1602: 900
+
+  - type: item
+    id: 205921 # Obsidian Gladiator's Scepter [1h ? mace]
+    costs:
+      1602: 1350
+
+  - type: item
+    id: 209541 # Verdant Gladiator's Scepter [1h ? mace]
+    costs:
+      1602: 1350
+
+  - type: item
+    id: 201978 # Crimson Gladiator's Greatsword [2h ? sword]
+    costs:
+      1602: 1800
+
+  - type: item
+    id: 209550 # Verdant Gladiator's Greatsword [2h ? sword]
+    costs:
+      1602: 1800
+
+  - type: item
+    id: 209551 # Verdant Gladiator's Pulverizer [2h ? mace]
+    costs:
+      1602: 1800
+
+  - type: item
+    id: 201974 # Crimson Gladiator's Warglaive [warglaive]
+    costs:
+      1602: 900
+
+  - type: item
+    id: 205916 # Obsidian Gladiator's Warglaive [warglaive]
+    costs:
+      1602: 900
+
+  - type: item
+    id: 209537 # Verdant Gladiator's Warglaive [warglaive]
+    costs:
+      1602: 900
+
+  - type: item
+    id: 201973 # Crimson Gladiator's Dagger [? dagger]
+    costs:
+      1602: 900
+
+  - type: item
+    id: 201984 # Crimson Gladiator's Knife [? dagger]
+    costs:
+      1602: 1350
+
+  - type: item
+    id: 205915 # Obsidian Gladiator's Dagger [? dagger]
+    costs:
+      1602: 900
+
+  - type: item
+    id: 205925 # Obsidian Gladiator's Knife [? dagger]
+    costs:
+      1602: 1350
+
+  - type: item
+    id: 209536 # Verdant Gladiator's Dagger [? dagger]
+    costs:
+      1602: 900
+
+  - type: item
+    id: 209545 # Verdant Gladiator's Sickle [? dagger]
+    costs:
+      1602: 1350
+
+  - type: item
+    id: 205928 # Obsidian Gladiator's Claws [fist]
+    costs:
+      1602: 900
+
+  - type: item
+    id: 205930 # Obsidian Gladiator's Talons [fist]
+    costs:
+      1602: 1350
+
+  - type: item
+    id: 209546 # Verdant Gladiator's Claws [fist]
+    costs:
+      1602: 900
+
+  - type: item
+    id: 201982 # Crimson Gladiator's Wand [wand]
+    costs:
+      1602: 1350
+
+  - type: item
+    id: 204186 # Greater Obsidian Trophy of Conquest
+    costs:
+      1602: 875
+
+  - type: item
+    id: 208566 # Greater Verdant Trophy of Conquest
+    costs:
+      1602: 875
+
+  - type: item
+    id: 212538 # Greater Verdant Trophy of Conquest
+    costs:
+      1602: 875
+
+  - type: item
+    id: 204188 # Lesser Obsidian Trophy of Conquest
+    costs:
+      1602: 525
+
+  - type: item
+    id: 208564 # Lesser Verdant Trophy of Conquest
+    costs:
+      1602: 525
+
+  - type: item
+    id: 212536 # Lesser Verdant Trophy of Conquest
+    costs:
+      1602: 525
+
+  - type: item
+    id: 204187 # Obsidian Trophy of Conquest
+    costs:
+      1602: 700
+
+  - type: item
+    id: 208565 # Verdant Trophy of Conquest
+    costs:
+      1602: 700
+
+  - type: item
+    id: 212537 # Verdant Trophy of Conquest
+    costs:
+      1602: 700
+
+  - type: item
+    id: 201987 # Crimson Gladiator's Polearm [polearm]
+    costs:
+      1602: 1800
+
+  - type: item
+    id: 201975 # Crimson Gladiator's Spear [polearm]
+    costs:
+      1602: 1800
+
+  - type: item
+    id: 206671 # Obsidian Gladiator's Halberd [polearm]
+    costs:
+      1602: 1800
+
+  - type: item
+    id: 205927 # Obsidian Gladiator's Polearm [polearm]
+    costs:
+      1602: 1800
+
+  - type: item
+    id: 205917 # Obsidian Gladiator's Spear [polearm]
+    costs:
+      1602: 1800
+
+  - type: item
+    id: 209538 # Verdant Gladiator's Scythe [polearm]
+    costs:
+      1602: 1800
+
+  - type: item
+    id: 201976 # Crimson Gladiator's Staff [staff]
+    costs:
+      1602: 1800
+
+  - type: item
+    id: 205918 # Obsidian Gladiator's Staff [staff]
+    costs:
+      1602: 1800
+
+  - type: item
+    id: 209554 # Verdant Gladiator's Axestaff [staff]
+    costs:
+      1602: 1800
+
+  - type: item
+    id: 209548 # Verdant Gladiator's Greatstaff [staff]
+    costs:
+      1602: 1800
+
+  - type: item
+    id: 209539 # Verdant Gladiator's Staff [staff]
+    costs:
+      1602: 1800
+
+  - type: item
+    id: 205929 # Obsidian Gladiator's Bow [bow]
+    costs:
+      1602: 1800
+
+  - type: item
+    id: 209547 # Verdant Gladiator's Bow [bow]
+    costs:
+      1602: 1800
+
+  - type: item
+    id: 201977 # Crimson Gladiator's Hand Cannon [gun]
+    costs:
+      1602: 1800
+
+  - type: item
+    id: 205919 # Obsidian Gladiator's Rifle [gun]
+    costs:
+      1602: 1800
+
+  - type: item
+    id: 209540 # Verdant Gladiator's Rifle [gun]
+    costs:
+      1602: 1800
+
+  - type: item
+    id: 201980 # Crimson Gladiator's Horn [off-hand]
+    costs:
+      1602: 450
+
+  - type: item
+    id: 205922 # Obsidian Gladiator's Rod [off-hand]
+    costs:
+      1602: 450
+
+  - type: item
+    id: 209542 # Verdant Gladiator's Censer [off-hand]
+    costs:
+      1602: 450
+
+  - type: item
+    id: 201981 # Crimson Gladiator's Shield [shield]
+    costs:
+      1602: 450
+
+  - type: item
+    id: 205923 # Obsidian Gladiator's Shield [shield]
+    costs:
+      1602: 450
+
+  - type: item
+    id: 209549 # Verdant Gladiator's Bulwark [shield]
+    costs:
+      1602: 450
+
+  - type: item
+    id: 209543 # Verdant Gladiator's Shield [shield]
+    costs:
+      1602: 450
+

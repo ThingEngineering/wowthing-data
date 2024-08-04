@@ -7,25 +7,25 @@ locations:
     - 43.2 42.2
 
 sets:
-  - name: "War Mode Cloth Set"
+  - name: "War Mode Cloth"
     range: 9 1
-    sortKey: "ps11"
+    sortKey: "z99-1"
 
-  - name: "War Mode Leather Set"
+  - name: "War Mode Leather"
     range: 9
-    sortKey: "ps12"
+    sortKey: "z99-2"
 
-  - name: "War Mode Mail Set"
+  - name: "War Mode Mail"
     range: 9
-    sortKey: "ps13"
+    sortKey: "z99-3"
 
-  - name: "War Mode Plate Set"
+  - name: "War Mode Plate"
     range: 9
-    sortKey: "ps14"
+    sortKey: "z99-4"
 
   - name: "War Mode Weapons"
     range: -1
-    sortKey: "ps15"
+    sortKey: "z99-5"
 
 tags:
   - "pvp"
