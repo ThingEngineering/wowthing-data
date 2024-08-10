@@ -108,13 +108,6 @@ sells:
       1190316: 4
       1190321: 4
 
-  # Both - No rep
-
-  - type: item
-    id: 201840 # Sturdy Obsidian Glasses
-    costs:
-      0: 800 # Gold
-
   # Wrathion - Fang [4/6]
 
   - type: item
