@@ -116,13 +116,6 @@ sells:
       1190321: 4
     reputation: 2518 DragonCohort
 
-  # Both - No rep
-
-  - type: item
-    id: 201839 # Netherforged Lavaproof Boots
-    costs:
-      0: 1000 # Gold
-
   # Sabellian - Fang [4/6]
 
   - type: item
