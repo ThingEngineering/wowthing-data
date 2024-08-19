@@ -7,34 +7,34 @@ sells:
   - type: pet
     id: 1577 # Bloodthorn Hatchling
     costs:
-      1116415: 50 # Shiny Pet Charm
+      1163036: 50 # Polished Pet Charm
 
   - type: pet
     id: 1588 # Dusty Sporewing
     costs:
-      1116415: 50 # Shiny Pet Charm
+      1163036: 50 # Polished Pet Charm
 
   - type: pet
     id: 1598 # Glowing Sporebat
     costs:
-      1116415: 100 # Shiny Pet Charm
+      1163036: 100 # Polished Pet Charm
 
   - type: pet
     id: 1661 # Lost Netherpup
     costs:
-      1116415: 200 # Shiny Pet Charm
+      1163036: 200 # Polished Pet Charm
 
   - type: toy
     id: 127707 # Indestructible Bone
     costs:
-      1116415: 50 # Shiny Pet Charm
+      1163036: 50 # Polished Pet Charm
 
   - type: toy
     id: 127696 # Magic Pet Mirror
     costs:
-      1116415: 500 # Shiny Pet Charm
+      1163036: 500 # Polished Pet Charm
 
   - type: toy
     id: 127695 # Spirit Wand
     costs:
-      1116415: 100 # Shiny Pet Charm
+      1163036: 100 # Polished Pet Charm
