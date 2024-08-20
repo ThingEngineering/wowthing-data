@@ -1,0 +1,548 @@
+id: 28995
+name: "Paldesse"
+note: "Cloth Armor Merchant"
+
+locations:
+  z2_dalaran:
+    - 43.4 50.4
+    - 43.4 50.6
+    - 43.6 50.2
+    - 43.8 49.2
+
+sets:
+  - name: "Armor - T07 Mage"
+    range: 10
+    sortKey: "armor-t07-1-mage"
+
+  - name: "Armor - T08 Mage"
+    range: 10
+    sortKey: "armor-t08-1-mage"
+
+  - name: "Armor - T07 Priest"
+    range: 20
+    sortKey: "armor-t07-1-priest"
+
+  - name: "Armor - T08 Priest"
+    range: 20
+    sortKey: "armor-t08-1-pries"
+
+  - name: "Armor - T07 Warlock"
+    range: 10
+    sortKey: "armor-t07-1-warlock"
+
+  - name: "Armor - T08 Warlock"
+    range: 10
+    sortKey: "armor-t08-1-warlock"
+
+sells:
+
+  # Mage T7/10
+
+  - type: item
+    id: 39491 # Heroes' Frostfire Circlet [cloth head]
+    costs:
+      1040618: 1
+
+  - type: item
+    id: 39494 # Heroes' Frostfire Shoulderpads [cloth shoulders]
+    costs:
+      1040624: 1
+
+  - type: item
+    id: 39492 # Heroes' Frostfire Robe [cloth chest]
+    costs:
+      1040612: 1
+
+  - type: item
+    id: 39495 # Heroes' Frostfire Gloves [cloth hands]
+    costs:
+      1040615: 1
+
+  - type: item
+    id: 39493 # Heroes' Frostfire Leggings [cloth legs]
+    costs:
+      1040621: 1
+
+  # Mage T7/25
+
+  - type: item
+    id: 40416 # Valorous Frostfire Circlet [cloth head]
+    costs:
+      1040633: 1
+
+  - type: item
+    id: 40419 # Valorous Frostfire Shoulderpads [cloth shoulders]
+    costs:
+      1040639: 1
+
+  - type: item
+    id: 40418 # Valorous Frostfire Robe [cloth chest]
+    costs:
+      1040627: 1
+
+  - type: item
+    id: 40415 # Valorous Frostfire Gloves [cloth hands]
+    costs:
+      1040630: 1
+
+  - type: item
+    id: 40417 # Valorous Frostfire Leggings [cloth legs]
+    costs:
+      1040636: 1
+
+  # Mage T8/10
+
+  - type: item
+    id: 45365 # Valorous Kirin Tor Hood [cloth head]
+    costs:
+      1045649: 1
+
+  - type: item
+    id: 45369 # Valorous Kirin Tor Shoulderpads [cloth shoulders]
+    costs:
+      1045661: 1
+
+  - type: item
+    id: 45368 # Valorous Kirin Tor Tunic [cloth chest]
+    costs:
+      1045637: 1
+
+  - type: item
+    id: 46131 # Valorous Kirin Tor Gauntlets [cloth hands]
+    costs:
+      1045646: 1
+
+  - type: item
+    id: 45367 # Valorous Kirin Tor Leggings [cloth legs]
+    costs:
+      1045652: 1
+
+  # Mage T8/25
+
+  - type: item
+    id: 46129 # Conqueror's Kirin Tor Hood [cloth head]
+    costs:
+      1045640: 1
+
+  - type: item
+    id: 46134 # Conqueror's Kirin Tor Shoulderpads [cloth shoulders]
+    costs:
+      1045658: 1
+
+  - type: item
+    id: 46130 # Conqueror's Kirin Tor Tunic [cloth chest]
+    costs:
+      1045634: 1
+
+  - type: item
+    id: 46132 # Conqueror's Kirin Tor Gauntlets [cloth hands]
+    costs:
+      1045643: 1
+
+  - type: item
+    id: 46133 # Conqueror's Kirin Tor Leggings [cloth legs]
+    costs:
+      1045655: 1
+
+  # Priest T7/10
+  # Disc/Holy
+  - type: item
+    id: 39514 # Heroes' Crown of Faith [cloth head]
+    costs:
+      1040616: 1
+
+  - type: item
+    id: 39518 # Heroes' Shoulderpads of Faith [cloth shoulders]
+    costs:
+      1040622: 1
+
+  - type: item
+    id: 39515 # Heroes' Robe of Faith [cloth chest]
+    costs:
+      1040610: 1
+
+  - type: item
+    id: 39519 # Heroes' Gloves of Faith [cloth hands]
+    costs:
+      1040613: 1
+
+  - type: item
+    id: 39517 # Heroes' Leggings of Faith [cloth legs]
+    costs:
+      1040619: 1
+
+  # Shadow
+  - type: item
+    id: 39521 # Heroes' Circlet of Faith [cloth head]
+    costs:
+      1040616: 1
+
+  - type: item
+    id: 39529 # Heroes' Mantle of Faith [cloth shoulders]
+    costs:
+      1040622: 1
+
+  - type: item
+    id: 39523 # Heroes' Raiments of Faith [cloth chest]
+    costs:
+      1040610: 1
+
+  - type: item
+    id: 39530 # Heroes' Handwraps of Faith [cloth hands]
+    costs:
+      1040613: 1
+
+  - type: item
+    id: 39528 # Heroes' Pants of Faith [cloth legs]
+    costs:
+      1040619: 1
+
+  # Priest T7/25
+  # Disc/Holy
+
+  - type: item
+    id: 40447 # Valorous Crown of Faith [cloth head]
+    costs:
+      1040631: 1
+
+  - type: item
+    id: 40450 # Valorous Shoulderpads of Faith [cloth shoulders]
+    costs:
+      1040637: 1
+
+  - type: item
+    id: 40449 # Valorous Robe of Faith [cloth chest]
+    costs:
+      1040625: 1
+
+  - type: item
+    id: 40445 # Valorous Gloves of Faith [cloth hands]
+    costs:
+      1040628: 1
+
+  - type: item
+    id: 40448 # Valorous Leggings of Faith [cloth legs]
+    costs:
+      1040634: 1
+
+  # Shadow
+  - type: item
+    id: 40456 # Valorous Circlet of Faith [cloth head]
+    costs:
+      1040631: 1
+
+  - type: item
+    id: 40459 # Valorous Mantle of Faith [cloth shoulders]
+    costs:
+      1040637: 1
+
+  - type: item
+    id: 40458 # Valorous Raiments of Faith [cloth chest]
+    costs:
+      1040625: 1
+
+  - type: item
+    id: 40454 # Valorous Handwraps of Faith [cloth hands]
+    costs:
+      1040628: 1
+
+  - type: item
+    id: 40457 # Valorous Pants of Faith [cloth legs]
+    costs:
+      1040634: 1
+
+  # Priest T8/10
+
+  - type: item
+    id: 45391 # Valorous Circlet of Sanctification [cloth head]
+    costs:
+      1045647: 1
+
+  - type: item
+    id: 45386 # Valorous Cowl of Sanctification [cloth head]
+    costs:
+      1045647: 1
+
+  - type: item
+    id: 45393 # Valorous Mantle of Sanctification [cloth shoulders]
+    costs:
+      1045659: 1
+
+  - type: item
+    id: 45390 # Valorous Shoulderpads of Sanctification [cloth shoulders]
+    costs:
+      1045659: 1
+
+  - type: item
+    id: 45395 # Valorous Raiments of Sanctification [cloth chest]
+    costs:
+      1045635: 1
+
+  - type: item
+    id: 45389 # Valorous Robe of Sanctification [cloth chest]
+    costs:
+      1045635: 1
+
+  - type: item
+    id: 45387 # Valorous Gloves of Sanctification [cloth hands]
+    costs:
+      1045644: 1
+
+  - type: item
+    id: 45392 # Valorous Handwraps of Sanctification [cloth hands]
+    costs:
+      1045644: 1
+
+  - type: item
+    id: 45388 # Valorous Leggings of Sanctification [cloth legs]
+    costs:
+      1045650: 1
+
+  - type: item
+    id: 45394 # Valorous Pants of Sanctification [cloth legs]
+    costs:
+      1045650: 1
+
+  # Priest T8/25
+
+  - type: item
+    id: 46172 # Conqueror's Circlet of Sanctification [cloth head]
+    costs:
+      1045638: 1
+
+  - type: item
+    id: 46197 # Conqueror's Cowl of Sanctification [cloth head]
+    costs:
+      1045638: 1
+
+  - type: item
+    id: 46165 # Conqueror's Mantle of Sanctification [cloth shoulders]
+    costs:
+      1045656: 1
+
+  - type: item
+    id: 46190 # Conqueror's Shoulderpads of Sanctification [cloth shoulders]
+    costs:
+      1045656: 1
+
+  - type: item
+    id: 46168 # Conqueror's Raiments of Sanctification [cloth chest]
+    costs:
+      1045632: 1
+
+  - type: item
+    id: 46193 # Conqueror's Robe of Sanctification [cloth chest]
+    costs:
+      1045632: 1
+
+  - type: item
+    id: 46188 # Conqueror's Gloves of Sanctification [cloth hands]
+    costs:
+      1045641: 1
+
+  - type: item
+    id: 46163 # Conqueror's Handwraps of Sanctification [cloth hands]
+    costs:
+      1045641: 1
+
+  - type: item
+    id: 46195 # Conqueror's Leggings of Sanctification [cloth legs]
+    costs:
+      1045653: 1
+
+  - type: item
+    id: 46170 # Conqueror's Pants of Sanctification [cloth legs]
+    costs:
+      1045653: 1
+
+  # Warlock T7/10
+
+  - type: item
+    id: 39496 # Heroes' Plagueheart Circlet [cloth head]
+    costs:
+      1040616: 1
+
+  - type: item
+    id: 39499 # Heroes' Plagueheart Shoulderpads [cloth shoulders]
+    costs:
+      1040622: 1
+
+  - type: item
+    id: 39497 # Heroes' Plagueheart Robe [cloth chest]
+    costs:
+      1040610: 1
+
+  - type: item
+    id: 39500 # Heroes' Plagueheart Gloves [cloth hands]
+    costs:
+      1040613: 1
+
+  - type: item
+    id: 39498 # Heroes' Plagueheart Leggings [cloth legs]
+    costs:
+      1040619: 1
+
+  # Warlock T7/25
+
+  - type: item
+    id: 40421 # Valorous Plagueheart Circlet [cloth head]
+    costs:
+      1040631: 1
+
+  - type: item
+    id: 40424 # Valorous Plagueheart Shoulderpads [cloth shoulders]
+    costs:
+      1040637: 1
+
+  - type: item
+    id: 40423 # Valorous Plagueheart Robe [cloth chest]
+    costs:
+      1040625: 1
+
+  - type: item
+    id: 40420 # Valorous Plagueheart Gloves [cloth hands]
+    costs:
+      1040628: 1
+
+  - type: item
+    id: 40422 # Valorous Plagueheart Leggings [cloth legs]
+    costs:
+      1040634: 1
+
+  # Warlock T8/10
+
+  - type: item
+    id: 45417 # Valorous Deathbringer Hood [cloth head]
+    costs:
+      1045647: 1
+
+  - type: item
+    id: 45422 # Valorous Deathbringer Shoulderpads [cloth shoulders]
+    costs:
+      1045659: 1
+
+  - type: item
+    id: 45421 # Valorous Deathbringer Robe [cloth chest]
+    costs:
+      1045635: 1
+
+  - type: item
+    id: 45419 # Valorous Deathbringer Gloves [cloth hands]
+    costs:
+      1045644: 1
+
+  - type: item
+    id: 45420 # Valorous Deathbringer Leggings [cloth legs]
+    costs:
+      1045650: 1
+
+  # Warlock T8/25
+
+  - type: item
+    id: 46140 # Conqueror's Deathbringer Hood [cloth head]
+    costs:
+      1045638: 1
+
+  - type: item
+    id: 46136 # Conqueror's Deathbringer Shoulderpads [cloth shoulders]
+    costs:
+      1045656: 1
+
+  - type: item
+    id: 46137 # Conqueror's Deathbringer Robe [cloth chest]
+    costs:
+      1045632: 1
+
+  - type: item
+    id: 46135 # Conqueror's Deathbringer Gloves [cloth hands]
+    costs:
+      1045641: 1
+
+  - type: item
+    id: 46139 # Conqueror's Deathbringer Leggings [cloth legs]
+    costs:
+      1045653: 1
+
+  # 0 set=347
+
+  - type: item
+    id: 50975 # Ermine Coronation Robes [cloth chest]
+    costs:
+      0: 196 # Gold
+
+  - type: item
+    id: 50984 # Gloves of Ambivalence [cloth hands]
+    costs:
+      0: 104 # Gold
+
+  - type: item
+    id: 50997 # Circle of Ossus [cloth waist]
+    costs:
+      0: 99 # Gold
+
+  # 0 set=362
+
+  - type: item
+    id: 40751 # Slippers of the Holy Light [cloth feet]
+    costs:
+      0: 131 # Gold
+
+  # 0 set=677
+
+  - type: item
+    id: 45831 # Sash of Potent Incantations [cloth waist]
+    costs:
+      0: 92 # Gold
+
+  - type: item
+    id: 45848 # Legwraps of the Master Conjurer [cloth legs]
+    costs:
+      0: 181 # Gold
+
+  # 0 set=720
+
+  - type: item
+    id: 50974 # Meteor Chaser's Raiment [cloth chest]
+    costs:
+      0: 195 # Gold
+
+  - type: item
+    id: 50983 # Gloves of False Gestures [cloth hands]
+    costs:
+      0: 104 # Gold
+
+  - type: item
+    id: 50996 # Belt of Omission [cloth waist]
+    costs:
+      0: 98 # Gold
+
+  # 0 set=725
+
+  - type: item
+    id: 45840 # Touch of the Occult [cloth hands]
+    costs:
+      0: 88 # Gold
+
+  # 0 set=727
+
+  - type: item
+    id: 40750 # Xintor's Expeditionary Boots [cloth feet]
+    costs:
+      0: 130 # Gold
+
+  # 0
+
+  - type: item
+    id: 40740 # Wraps of the Astral Traveler [cloth wrists]
+    costs:
+      0: 90 # Gold
+
+  - type: item
+    id: 40697 # Elegant Temple Gardens' Girdle [cloth waist]
+    costs:
+      0: 88 # Gold
+
+  - type: item
+    id: 40696 # Plush Sash of Guzbah [cloth waist]
+    costs:
+      0: 85 # Gold

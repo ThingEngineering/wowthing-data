@@ -1,0 +1,604 @@
+id: 35496
+name: "Rueben Lauren"
+note: "Cloth Armor Merchant"
+
+locations:
+  z2_dalaran:
+    - 43.7 48.6
+
+sets:
+  - name: "Armor - T09 Mage"
+    range: 10
+    sortKey: "armor-t09-1-mage"
+
+  - name: "Armor - T10 Mage"
+    range: 15
+    sortKey: "armor-t10-1-mage"
+
+  - name: "Armor - T09 Priest"
+    range: 20
+    sortKey: "armor-t09-1-priest"
+
+  - name: "Armor - T10 Priest"
+    range: 30
+    sortKey: "armor-t10-1-priest"
+
+  - name: "Armor - T09 Warlock"
+    range: 10
+    sortKey: "armor-t09-1-warlock"
+
+  - name: "Armor - T10 Warlock"
+    range: 15
+    sortKey: "armor-t10-1-warlock"
+
+sells:
+
+  # Mage T9 [A]
+
+  - type: item
+    id: 47748 # Khadgar's Hood of Conquest [cloth head]
+    costs:
+      0: 1 # Gold
+
+  - type: item
+    id: 47751 # Khadgar's Shoulderpads of Conquest [cloth shoulders]
+    costs:
+      0: 1 # Gold
+
+  - type: item
+    id: 47749 # Khadgar's Robe of Conquest [cloth chest]
+    costs:
+      0: 1 # Gold
+
+  - type: item
+    id: 47752 # Khadgar's Gauntlets of Conquest [cloth hands]
+    costs:
+      0: 1 # Gold
+
+  - type: item
+    id: 47750 # Khadgar's Leggings of Conquest [cloth legs]
+    costs:
+      0: 1 # Gold
+
+  # Mage T9 [H]
+
+  - type: item
+    id: 47774 # Sunstrider's Hood of Conquest [cloth head]
+    costs:
+      0: 1 # Gold
+
+  - type: item
+    id: 47777 # Sunstrider's Shoulderpads of Conquest [cloth shoulders]
+    costs:
+      0: 1 # Gold
+
+  - type: item
+    id: 47776 # Sunstrider's Robe of Conquest [cloth chest]
+    costs:
+      0: 1 # Gold
+
+  - type: item
+    id: 47773 # Sunstrider's Gauntlets of Conquest [cloth hands]
+    costs:
+      0: 1 # Gold
+
+  - type: item
+    id: 47775 # Sunstrider's Leggings of Conquest [cloth legs]
+    costs:
+      0: 1 # Gold
+
+  # Mage T10A
+
+  - type: item
+    id: 50276 # Bloodmage Hood [cloth head]
+    costs:
+      0: 1 # Gold
+
+  - type: item
+    id: 50279 # Bloodmage Shoulderpads [cloth shoulders]
+    costs:
+      0: 1 # Gold
+
+  - type: item
+    id: 50278 # Bloodmage Robe [cloth chest]
+    costs:
+      0: 1 # Gold
+
+  - type: item
+    id: 50275 # Bloodmage Gloves [cloth hands]
+    costs:
+      0: 1 # Gold
+
+  - type: item
+    id: 50277 # Bloodmage Leggings [cloth legs]
+    costs:
+      0: 1 # Gold
+
+  # Mage T10B
+
+  - type: item
+    id: 51158 # Sanctified Bloodmage Hood [cloth head]
+    costs:
+      1052025: 1
+      1050276: 1
+
+  - type: item
+    id: 51155 # Sanctified Bloodmage Shoulderpads [cloth shoulders]
+    costs:
+      1052025: 1
+      1050279: 1
+
+  - type: item
+    id: 51156 # Sanctified Bloodmage Robe [cloth chest]
+    costs:
+      1052025: 1
+      1050278: 1
+
+  - type: item
+    id: 51159 # Sanctified Bloodmage Gloves [cloth hands]
+    costs:
+      1052025: 1
+      1050275: 1
+
+  - type: item
+    id: 51157 # Sanctified Bloodmage Leggings [cloth legs]
+    costs:
+      1052025: 1
+      1050277: 1
+
+  # Mage T10C
+
+  - type: item
+    id: 51281 # Sanctified Bloodmage Hood [cloth head]
+    costs:
+      1052028: 1
+      1051158: 1
+
+  - type: item
+    id: 51284 # Sanctified Bloodmage Shoulderpads [cloth shoulders]
+    costs:
+      1052028: 1
+      1051155: 1
+
+  - type: item
+    id: 51283 # Sanctified Bloodmage Robe [cloth chest]
+    costs:
+      1052028: 1
+      1051156: 1
+
+  - type: item
+    id: 51280 # Sanctified Bloodmage Gloves [cloth hands]
+    costs:
+      1052028: 1
+      1051159: 1
+
+  - type: item
+    id: 51282 # Sanctified Bloodmage Leggings [cloth legs]
+    costs:
+      1052028: 1
+      1051157: 1
+
+  # Priest T9 [A]
+
+  - type: item
+    id: 48073 # Velen's Circlet of Conquest [cloth head]
+    costs:
+      0: 1 # Gold
+
+  - type: item
+    id: 47914 # Velen's Cowl of Conquest [cloth head]
+    costs:
+      0: 1 # Gold
+
+  - type: item
+    id: 48076 # Velen's Mantle of Conquest [cloth shoulders]
+    costs:
+      0: 1 # Gold
+
+  - type: item
+    id: 47981 # Velen's Shoulderpads of Conquest [cloth shoulders]
+    costs:
+      0: 1 # Gold
+
+  - type: item
+    id: 48075 # Velen's Raiments of Conquest [cloth chest]
+    costs:
+      0: 1 # Gold
+
+  - type: item
+    id: 47936 # Velen's Robe of Conquest [cloth chest]
+    costs:
+      0: 1 # Gold
+
+  - type: item
+    id: 47982 # Velen's Gloves of Conquest [cloth hands]
+    costs:
+      0: 1 # Gold
+
+  - type: item
+    id: 48072 # Velen's Handwraps of Conquest [cloth hands]
+    costs:
+      0: 1 # Gold
+
+  - type: item
+    id: 47980 # Velen's Leggings of Conquest [cloth legs]
+    costs:
+      0: 1 # Gold
+
+  - type: item
+    id: 48074 # Velen's Pants of Conquest [cloth legs]
+    costs:
+      0: 1 # Gold
+
+  # Priest T9 [H]
+
+  - type: item
+    id: 48098 # Zabra's Circlet of Conquest [cloth head]
+    costs:
+      0: 1 # Gold
+
+  - type: item
+    id: 48068 # Zabra's Cowl of Conquest [cloth head]
+    costs:
+      0: 1 # Gold
+
+  - type: item
+    id: 48101 # Zabra's Mantle of Conquest [cloth shoulders]
+    costs:
+      0: 1 # Gold
+
+  - type: item
+    id: 48071 # Zabra's Shoulderpads of Conquest [cloth shoulders]
+    costs:
+      0: 1 # Gold
+
+  - type: item
+    id: 48100 # Zabra's Raiments of Conquest [cloth chest]
+    costs:
+      0: 1 # Gold
+
+  - type: item
+    id: 48070 # Zabra's Robe of Conquest [cloth chest]
+    costs:
+      0: 1 # Gold
+
+  - type: item
+    id: 48067 # Zabra's Gloves of Conquest [cloth hands]
+    costs:
+      0: 1 # Gold
+
+  - type: item
+    id: 48097 # Zabra's Handwraps of Conquest [cloth hands]
+    costs:
+      0: 1 # Gold
+
+  - type: item
+    id: 48069 # Zabra's Leggings of Conquest [cloth legs]
+    costs:
+      0: 1 # Gold
+
+  - type: item
+    id: 48099 # Zabra's Pants of Conquest [cloth legs]
+    costs:
+      0: 1 # Gold
+
+  # Priest T10A
+
+  - type: item
+    id: 50392 # Crimson Acolyte Cowl [cloth head]
+    costs:
+      0: 1 # Gold
+
+  - type: item
+    id: 50765 # Crimson Acolyte Hood [cloth head]
+    costs:
+      0: 1 # Gold
+
+  - type: item
+    id: 50396 # Crimson Acolyte Mantle [cloth shoulders]
+    costs:
+      0: 1 # Gold
+
+  - type: item
+    id: 50767 # Crimson Acolyte Shoulderpads [cloth shoulders]
+    costs:
+      0: 1 # Gold
+
+  - type: item
+    id: 50394 # Crimson Acolyte Raiments [cloth chest]
+    costs:
+      0: 1 # Gold
+
+  - type: item
+    id: 50768 # Crimson Acolyte Robe [cloth chest]
+    costs:
+      0: 1 # Gold
+
+  - type: item
+    id: 50766 # Crimson Acolyte Gloves [cloth hands]
+    costs:
+      0: 1 # Gold
+
+  - type: item
+    id: 50391 # Crimson Acolyte Handwraps [cloth hands]
+    costs:
+      0: 1 # Gold
+
+  - type: item
+    id: 50769 # Crimson Acolyte Leggings [cloth legs]
+    costs:
+      0: 1 # Gold
+
+  - type: item
+    id: 50393 # Crimson Acolyte Pants [cloth legs]
+    costs:
+      0: 1 # Gold
+
+  # Priest T10B
+
+  - type: item
+    id: 51184 # Sanctified Crimson Acolyte Cowl [cloth head]
+    costs:
+      1052027: 1
+      1050392: 1
+
+  - type: item
+    id: 51178 # Sanctified Crimson Acolyte Hood [cloth head]
+    costs:
+      1052027: 1
+      1050765: 1
+
+  - type: item
+    id: 51182 # Sanctified Crimson Acolyte Mantle [cloth shoulders]
+    costs:
+      1052027: 1
+      1050396: 1
+
+  - type: item
+    id: 51175 # Sanctified Crimson Acolyte Shoulderpads [cloth shoulders]
+    costs:
+      1052027: 1
+      1050767: 1
+
+  - type: item
+    id: 51180 # Sanctified Crimson Acolyte Raiments [cloth chest]
+    costs:
+      1052027: 1
+      1050394: 1
+
+  - type: item
+    id: 51176 # Sanctified Crimson Acolyte Robe [cloth chest]
+    costs:
+      1052027: 1
+      1050768: 1
+
+  - type: item
+    id: 51179 # Sanctified Crimson Acolyte Gloves [cloth hands]
+    costs:
+      1052027: 1
+      1050766: 1
+
+  - type: item
+    id: 51183 # Sanctified Crimson Acolyte Handwraps [cloth hands]
+    costs:
+      1052027: 1
+      1050391: 1
+
+  - type: item
+    id: 51177 # Sanctified Crimson Acolyte Leggings [cloth legs]
+    costs:
+      1052027: 1
+      1050769: 1
+
+  - type: item
+    id: 51181 # Sanctified Crimson Acolyte Pants [cloth legs]
+    costs:
+      1052027: 1
+      1050393: 1
+
+  # Priest T10C
+
+  - type: item
+    id: 51255 # Sanctified Crimson Acolyte Cowl [cloth head]
+    costs:
+      1052030: 1
+      1051184: 1
+
+  - type: item
+    id: 51261 # Sanctified Crimson Acolyte Hood [cloth head]
+    costs:
+      1052030: 1
+      1051178: 1
+
+  - type: item
+    id: 51257 # Sanctified Crimson Acolyte Mantle [cloth shoulders]
+    costs:
+      1052030: 1
+      1051182: 1
+
+  - type: item
+    id: 51264 # Sanctified Crimson Acolyte Shoulderpads [cloth shoulders]
+    costs:
+      1052030: 1
+      1051175: 1
+
+  - type: item
+    id: 51259 # Sanctified Crimson Acolyte Raiments [cloth chest]
+    costs:
+      1052030: 1
+      1051180: 1
+
+  - type: item
+    id: 51263 # Sanctified Crimson Acolyte Robe [cloth chest]
+    costs:
+      1052030: 1
+      1051176: 1
+
+  - type: item
+    id: 51260 # Sanctified Crimson Acolyte Gloves [cloth hands]
+    costs:
+      1052030: 1
+      1051179: 1
+
+  - type: item
+    id: 51256 # Sanctified Crimson Acolyte Handwraps [cloth hands]
+    costs:
+      1052030: 1
+      1051183: 1
+
+  - type: item
+    id: 51262 # Sanctified Crimson Acolyte Leggings [cloth legs]
+    costs:
+      1052030: 1
+      1051177: 1
+
+  - type: item
+    id: 51258 # Sanctified Crimson Acolyte Pants [cloth legs]
+    costs:
+      1052030: 1
+      1051181: 1
+
+  # Warlock T9 [A]
+
+  - type: item
+    id: 47784 # Kel'Thuzad's Hood of Conquest [cloth head]
+    costs:
+      0: 1 # Gold
+
+  - type: item
+    id: 47787 # Kel'Thuzad's Shoulderpads of Conquest [cloth shoulders]
+    costs:
+      0: 1 # Gold
+
+  - type: item
+    id: 47786 # Kel'Thuzad's Robe of Conquest [cloth chest]
+    costs:
+      0: 1 # Gold
+
+  - type: item
+    id: 47783 # Kel'Thuzad's Gloves of Conquest [cloth hands]
+    costs:
+      0: 1 # Gold
+
+  - type: item
+    id: 47785 # Kel'Thuzad's Leggings of Conquest [cloth legs]
+    costs:
+      0: 1 # Gold
+
+  # Warlock T9 [H]
+
+  - type: item
+    id: 47801 # Gul'dan's Hood of Conquest [cloth head]
+    costs:
+      0: 1 # Gold
+
+  - type: item
+    id: 47798 # Gul'dan's Shoulderpads of Conquest [cloth shoulders]
+    costs:
+      0: 1 # Gold
+
+  - type: item
+    id: 47799 # Gul'dan's Robe of Conquest [cloth chest]
+    costs:
+      0: 1 # Gold
+
+  - type: item
+    id: 47802 # Gul'dan's Gloves of Conquest [cloth hands]
+    costs:
+      0: 1 # Gold
+
+  - type: item
+    id: 47800 # Gul'dan's Leggings of Conquest [cloth legs]
+    costs:
+      0: 1 # Gold
+
+  # Warlock T10A
+
+  - type: item
+    id: 50241 # Dark Coven Hood [cloth head]
+    costs:
+      0: 1 # Gold
+
+  - type: item
+    id: 50244 # Dark Coven Shoulderpads [cloth shoulders]
+    costs:
+      0: 1 # Gold
+
+  - type: item
+    id: 50243 # Dark Coven Robe [cloth chest]
+    costs:
+      0: 1 # Gold
+
+  - type: item
+    id: 50240 # Dark Coven Gloves [cloth hands]
+    costs:
+      0: 1 # Gold
+
+  - type: item
+    id: 50242 # Dark Coven Leggings [cloth legs]
+    costs:
+      0: 1 # Gold
+
+  # Warlock T10B
+
+  - type: item
+    id: 51208 # Sanctified Dark Coven Hood [cloth head]
+    costs:
+      1052027: 1
+      1050241: 1
+
+  - type: item
+    id: 51205 # Sanctified Dark Coven Shoulderpads [cloth shoulders]
+    costs:
+      1052027: 1
+      1050244: 1
+
+  - type: item
+    id: 51206 # Sanctified Dark Coven Robe [cloth chest]
+    costs:
+      1052027: 1
+      1050243: 1
+
+  - type: item
+    id: 51209 # Sanctified Dark Coven Gloves [cloth hands]
+    costs:
+      1052027: 1
+      1050240: 1
+
+  - type: item
+    id: 51207 # Sanctified Dark Coven Leggings [cloth legs]
+    costs:
+      1052027: 1
+      1050242: 1
+
+  # Warlock T10C
+
+  - type: item
+    id: 51231 # Sanctified Dark Coven Hood [cloth head]
+    costs:
+      1052030: 1
+      1051208: 1
+
+  - type: item
+    id: 51234 # Sanctified Dark Coven Shoulderpads [cloth shoulders]
+    costs:
+      1052030: 1
+      1051205: 1
+
+  - type: item
+    id: 51233 # Sanctified Dark Coven Robe [cloth chest]
+    costs:
+      1052030: 1
+      1051206: 1
+
+  - type: item
+    id: 51230 # Sanctified Dark Coven Gloves [cloth hands]
+    costs:
+      1052030: 1
+      1051209: 1
+
+  - type: item
+    id: 51232 # Sanctified Dark Coven Leggings [cloth legs]
+    costs:
+      1052030: 1
+      1051207: 1
