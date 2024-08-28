@@ -1,0 +1,371 @@
+id: 219051
+name: "Lyrendal"
+note: "Artisan's Consortium Quartermaster"
+
+locations:
+  10-war-within/dornogal:
+    - 59.6 56.2
+
+sells:
+
+  # 0
+
+  - type: item
+    id: 227682 # Satchel of Surplus Cloth
+    costs:
+      1210814: 600
+
+  - type: item
+    id: 228337 # Satchel of Surplus Dust
+    costs:
+      1210814: 600
+
+  - type: item
+    id: 227675 # Satchel of Surplus Herbs
+    costs:
+      1210814: 600
+
+  - type: item
+    id: 227681 # Satchel of Surplus Leather
+    costs:
+      1210814: 600
+
+  - type: item
+    id: 227676 # Satchel of Surplus Ore
+    costs:
+      1210814: 600
+
+  - type: item
+    id: 223110 # Pattern: Arathi Leatherworker's Smock
+    costs:
+      1210814: 150
+
+  - type: item
+    id: 223107 # Pattern: Charged Scrapmaster's Gauntlets
+    costs:
+      1210814: 150
+
+  - type: item
+    id: 223104 # Pattern: Defender's Armor Kit
+    costs:
+      1210814: 150
+
+  - type: item
+    id: 223106 # Pattern: Earthen Forgemaster's Apron
+    costs:
+      1210814: 150
+
+  - type: item
+    id: 223109 # Pattern: Earthen Jeweler's Cover
+    costs:
+      1210814: 150
+
+  - type: item
+    id: 223108 # Pattern: Stonebound Herbalist's Pack
+    costs:
+      1210814: 150
+
+  - type: item
+    id: 224422 # Pattern: Artisan Enchanter's Hat
+    costs:
+      1210814: 150
+
+  - type: item
+    id: 224421 # Pattern: Artisan Fishing Cap
+    costs:
+      1210814: 150
+
+  - type: item
+    id: 224420 # Pattern: Artisan Gardening Hat
+    costs:
+      1210814: 150
+
+  - type: item
+    id: 223053 # Plans: Artisan Leatherworker's Knife
+    costs:
+      1210814: 150
+
+  - type: item
+    id: 223054 # Plans: Artisan Leatherworker's Toolset
+    costs:
+      1210814: 150
+
+  - type: item
+    id: 223052 # Plans: Artisan Needle Set
+    costs:
+      1210814: 150
+
+  - type: item
+    id: 223050 # Plans: Artisan Pickaxe
+    costs:
+      1210814: 150
+
+  - type: item
+    id: 223049 # Plans: Artisan Sickle
+    costs:
+      1210814: 150
+
+  - type: item
+    id: 223037 # Plans: Charged Facesmasher
+    costs:
+      1210814: 150
+
+  - type: item
+    id: 223113 # Formula: Enchant Boots - Cavalry's March
+    costs:
+      1210814: 150
+
+  - type: item
+    id: 223129 # Formula: Enchant Tool - Algari Deftness
+    costs:
+      1210814: 150
+
+  - type: item
+    id: 223130 # Formula: Enchant Tool - Algari Finesse
+    costs:
+      1210814: 150
+
+  - type: item
+    id: 223131 # Formula: Enchant Tool - Algari Perception
+    costs:
+      1210814: 150
+
+  - type: item
+    id: 223132 # Formula: Enchant Tool - Algari Resourcefulness
+    costs:
+      1210814: 150
+
+  - type: item
+    id: 223124 # Formula: Runed Null Stone Rod
+    costs:
+      1210814: 150
+
+  - type: item
+    id: 228379 # Design: Captured Starlight
+    costs:
+      1210814: 150
+
+  - type: item
+    id: 223090 # Design: Enchanter's Crystal
+    costs:
+      1210814: 150
+
+  - type: item
+    id: 223089 # Design: Extravagant Loupes
+    costs:
+      1210814: 150
+
+  - type: item
+    id: 223091 # Design: Forger's Font Inspector
+    costs:
+      1210814: 150
+
+  - type: item
+    id: 223092 # Design: Novelist's Specs
+    costs:
+      1210814: 150
+
+  - type: item
+    id: 228329 # Design: Remembrance Stone
+    costs:
+      1210814: 150
+
+  - type: item
+    id: 227420 # Exceptional Alchemist's Research
+    costs:
+      1210814: 300
+
+  - type: item
+    id: 227418 # Exceptional Blacksmith's Diagrams
+    costs:
+      1210814: 300
+
+  - type: item
+    id: 227422 # Exceptional Enchanter's Research
+    costs:
+      1210814: 300
+
+  - type: item
+    id: 227423 # Exceptional Engineer's Scribblings
+    costs:
+      1210814: 300
+
+  - type: item
+    id: 227426 # Exceptional Herbalist's Notes
+    costs:
+      1210814: 300
+
+  - type: item
+    id: 227424 # Exceptional Jeweler's Illustrations
+    costs:
+      1210814: 300
+
+  - type: item
+    id: 227425 # Exceptional Leatherworker's Diagrams
+    costs:
+      1210814: 300
+
+  - type: item
+    id: 227427 # Exceptional Miner's Notes
+    costs:
+      1210814: 300
+
+  - type: item
+    id: 227419 # Exceptional Scribe's Runic Drawings
+    costs:
+      1210814: 300
+
+  - type: item
+    id: 227428 # Exceptional Skinner's Notes
+    costs:
+      1210814: 300
+
+  - type: item
+    id: 227421 # Exceptional Tailor's Diagrams
+    costs:
+      1210814: 300
+
+  - type: item
+    id: 227409 # Faded Alchemist's Research
+    costs:
+      1210814: 200
+
+  - type: item
+    id: 227407 # Faded Blacksmith's Diagrams
+    costs:
+      1210814: 200
+
+  - type: item
+    id: 227411 # Faded Enchanter's Research
+    costs:
+      1210814: 200
+
+  - type: item
+    id: 227412 # Faded Engineer's Scribblings
+    costs:
+      1210814: 200
+
+  - type: item
+    id: 227415 # Faded Herbalist's Notes
+    costs:
+      1210814: 200
+
+  - type: item
+    id: 227413 # Faded Jeweler's Illustrations
+    costs:
+      1210814: 200
+
+  - type: item
+    id: 227414 # Faded Leatherworker's Diagrams
+    costs:
+      1210814: 200
+
+  - type: item
+    id: 227416 # Faded Miner's Notes
+    costs:
+      1210814: 200
+
+  - type: item
+    id: 227408 # Faded Scribe's Runic Drawings
+    costs:
+      1210814: 200
+
+  - type: item
+    id: 227417 # Faded Skinner's Notes
+    costs:
+      1210814: 200
+
+  - type: item
+    id: 227410 # Faded Tailor's Diagrams
+    costs:
+      1210814: 200
+
+  - type: item
+    id: 227431 # Pristine Alchemist's Research
+    costs:
+      1210814: 400
+
+  - type: item
+    id: 227429 # Pristine Blacksmith's Diagrams
+    costs:
+      1210814: 400
+
+  - type: item
+    id: 227433 # Pristine Enchanter's Research
+    costs:
+      1210814: 400
+
+  - type: item
+    id: 227434 # Pristine Engineer's Scribblings
+    costs:
+      1210814: 400
+
+  - type: item
+    id: 227437 # Pristine Herbalist's Notes
+    costs:
+      1210814: 400
+
+  - type: item
+    id: 227435 # Pristine Jeweler's Illustrations
+    costs:
+      1210814: 400
+
+  - type: item
+    id: 227436 # Pristine Leatherworker's Diagrams
+    costs:
+      1210814: 400
+
+  - type: item
+    id: 227438 # Pristine Miner's Notes
+    costs:
+      1210814: 400
+
+  - type: item
+    id: 227430 # Pristine Scribe's Runic Drawings
+    costs:
+      1210814: 400
+
+  - type: item
+    id: 227439 # Pristine Skinner's Notes
+    costs:
+      1210814: 400
+
+  - type: item
+    id: 227432 # Pristine Tailor's Diagrams
+    costs:
+      1210814: 400
+
+  - type: item
+    id: 223068 # Technique: Algari Missive of Crafting Speed
+    costs:
+      1210814: 150
+
+  - type: item
+    id: 223071 # Technique: Algari Missive of Deftness
+    costs:
+      1210814: 150
+
+  - type: item
+    id: 223069 # Technique: Algari Missive of Finesse
+    costs:
+      1210814: 150
+
+  - type: item
+    id: 223065 # Technique: Algari Missive of Ingenuity
+    costs:
+      1210814: 150
+
+  - type: item
+    id: 223067 # Technique: Algari Missive of Multicraft
+    costs:
+      1210814: 150
+
+  - type: item
+    id: 223070 # Technique: Algari Missive of Perception
+    costs:
+      1210814: 150
+
+  - type: item
+    id: 223066 # Technique: Algari Missive of Resourcefulness
+    costs:
+      1210814: 150

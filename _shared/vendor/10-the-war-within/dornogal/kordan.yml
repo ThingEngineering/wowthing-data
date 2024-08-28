@@ -1,0 +1,26 @@
+id: 219311
+name: "Kordan"
+note: "Blade Vendor"
+
+locations:
+  10-war-within/dornogal:
+    - 64.4 49.8
+
+sells:
+
+  # 0
+
+  - type: item
+    id: 227699 # Earthen Ceremonial Chopper [1h ? axe]
+    costs:
+      2815: 500
+
+  - type: item
+    id: 227701 # Preserved Defender's Kris [? dagger]
+    costs:
+      2815: 500
+
+  - type: item
+    id: 227700 # Preserved Defender's Spear [polearm]
+    costs:
+      2815: 500
