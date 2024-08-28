@@ -1,0 +1,126 @@
+id: 228184
+name: "Yamas the Provider"
+note: "Pact Dealer & Information"
+
+locations:
+  azj_kahet:
+    - 55.2 41.4
+
+sells:
+
+  # 0
+
+  - type: item
+    id: 228913 # Dubious Vial of Vigor
+    costs:
+      3056: 150
+
+  - type: item
+    id: 226509 # General's Insight
+    costs:
+      3056: 50
+
+  - type: item
+    id: 226511 # Nerubimorph Poultice
+    costs:
+      3056: 25
+
+  - type: item
+    id: 226518 # Phero-Escape
+    costs:
+      3056: 25
+
+  - type: item
+    id: 226520 # Queen's Pheromone
+    costs:
+      3056: 8888888
+
+  - type: item
+    id: 228949 # Rumor Map
+    costs:
+      3056: 25
+
+  - type: item
+    id: 228950 # Rumor Map Bundle
+    costs:
+      3056: 125
+
+  - type: item
+    id: 228952 # Treasure Map Bundle
+    costs:
+      3056: 125
+
+  - type: item
+    id: 226512 # Treasure Map: Forgotten Memorial
+    costs:
+      3056: 25
+
+  - type: item
+    id: 226513 # Treasure Map: Kaheti Excavation
+    costs:
+      3056: 25
+
+  - type: item
+    id: 226514 # Treasure Map: Weave-Rat Cache
+    costs:
+      3056: 25
+
+  - type: item
+    id: 226507 # Venom Dahn's Webscrub
+    costs:
+      3056: 25
+
+  - type: item
+    id: 226508 # Vizier's Influence
+    costs:
+      3056: 50
+
+  - type: item
+    id: 226510 # Weaver's Facade
+    costs:
+      3056: 50
+
+  - type: item
+    id: 228944 # Crypt Lord's Severed Thread
+    costs:
+      3056: 250
+
+  - type: item
+    id: 228945 # Executor's Severed Thread
+    costs:
+      3056: 250
+
+  - type: item
+    id: 228940 # Notorious Thread's Hearthstone
+    costs:
+      3056: 3000
+
+  - type: item
+    id: 228943 # Spymaster's Severed Thread
+    costs:
+      3056: 250
+
+  - type: item
+    id: 228946 # Weaver's Lair Profession Table
+    costs:
+      3056: 500
+
+  - type: item
+    id: 226519 # General's Expertise
+    costs:
+      3056: 1100
+
+  - type: item
+    id: 223278 # Heritage Undercrawler
+    costs:
+      3056: 2020
+
+  - type: item
+    id: 223279 # Royal Court Undercrawler
+    costs:
+      3056: 2020
+
+  - type: item
+    id: 223276 # Widow's Undercrawler
+    costs:
+      3056: 2020

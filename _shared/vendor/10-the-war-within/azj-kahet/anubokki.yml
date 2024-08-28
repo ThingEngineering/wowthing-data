@@ -1,0 +1,56 @@
+id: 224729
+name: "Anub'okki"
+note: "Disciple of Anub'azal"
+
+locations:
+  azj_kahet:
+    - 55.8 42.2
+
+sells:
+
+  # 0
+
+  - type: item
+    id: 226509 # General's Insight
+    costs:
+      3056: 50
+
+  - type: item
+    id: 228949 # Rumor Map
+    costs:
+      3056: 25
+
+  - type: item
+    id: 228950 # Rumor Map Bundle
+    costs:
+      3056: 125
+
+  - type: item
+    id: 228952 # Treasure Map Bundle
+    costs:
+      3056: 125
+
+  - type: item
+    id: 226512 # Treasure Map: Forgotten Memorial
+    costs:
+      3056: 25
+
+  - type: item
+    id: 226507 # Venom Dahn's Webscrub
+    costs:
+      3056: 25
+
+  - type: item
+    id: 228944 # Crypt Lord's Severed Thread
+    costs:
+      3056: 250
+
+  - type: item
+    id: 226519 # General's Expertise
+    costs:
+      3056: 1100
+
+  - type: item
+    id: 223278 # Heritage Undercrawler
+    costs:
+      3056: 2020

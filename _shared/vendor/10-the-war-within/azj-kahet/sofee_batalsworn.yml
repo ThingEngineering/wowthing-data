@@ -1,0 +1,64 @@
+id: 212059
+name: "Sofee Batalsworn"
+note: "Blacksmithing Supplies"
+
+locations:
+  azj_kahet:
+    - 59.4 19
+
+sells:
+
+  # 0
+
+  - type: item
+    id: 226509 # General's Insight
+    costs:
+      3056: 50
+
+  - type: item
+    id: 224432 # Pattern: Excavator's Haversack
+    costs:
+      3056: 1500
+      1210814: 150
+
+  - type: item
+    id: 223042 # Plans: Charged Slicer
+    costs:
+      3056: 1500
+      1210814: 150
+
+  - type: item
+    id: 223058 # Plans: Coreforged Skeleton Key
+    costs:
+      3056: 1500
+      1210814: 150
+
+  - type: item
+    id: 226202 # Echoing Flux
+    costs:
+      3056: 144
+
+  - type: item
+    id: 224055 # A Rocky Start
+    costs:
+      3056: 565
+
+  - type: item
+    id: 226519 # General's Expertise
+    costs:
+      3056: 1100
+
+  - type: item
+    id: 224038 # Smithing After Saronite
+    costs:
+      3056: 565
+
+  - type: item
+    id: 5956 # Blacksmith Hammer
+    costs:
+      3056: 19
+
+  - type: item
+    id: 2901 # Mining Pick
+    costs:
+      3056: 27

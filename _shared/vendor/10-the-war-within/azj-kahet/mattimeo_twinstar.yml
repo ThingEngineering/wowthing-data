@@ -1,0 +1,46 @@
+id: 227176
+name: "Mattimeo Twinstar"
+note: "Quartermaster"
+
+locations:
+  azj_kahet:
+    - 23 51.2
+
+sells:
+
+  # 0
+
+  - type: item
+    id: 227542 # Preserved Arathi Sword [1h ? sword]
+    costs:
+      2815: 500
+
+  - type: item
+    id: 227543 # Preserved Arathi Hatchet [1h ? axe]
+    costs:
+      2815: 500
+
+  - type: item
+    id: 220507 # Lamplighter's Torch [1h ? mace]
+    costs:
+      2815: 500
+
+  - type: item
+    id: 220508 # Lamplighter's Unlit Torch [1h ? mace]
+    costs:
+      2815: 500
+
+  - type: item
+    id: 227545 # Preserved Deep-Dweller's Cudgel [1h ? mace]
+    costs:
+      2815: 500
+
+  - type: item
+    id: 227546 # Preserved Deep-Dweller's Dirk [? dagger]
+    costs:
+      2815: 500
+
+  - type: item
+    id: 227544 # Preserved Deep-Dweller's Staff [staff]
+    costs:
+      2815: 500

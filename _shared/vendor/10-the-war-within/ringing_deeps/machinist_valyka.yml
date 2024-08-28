@@ -1,0 +1,61 @@
+id: 217730
+name: "Machinist Valyka"
+note: "Blacksmith"
+
+locations:
+  the_ringing_deeps:
+    - 47.6 32.8
+
+sells:
+
+  # 0
+
+  - type: item
+    id: 219150 # Pile of Rusted Scrap
+    costs:
+      0: 5 # Gold
+
+  - type: item
+    id: 219413 # Schematic: Stonebound Lantern
+    costs:
+      0: 1 # Gold
+
+  - type: item
+    id: 212754 # Crystalforged Cauldron
+    costs:
+      0: 75000 # Gold
+
+  - type: item
+    id: 226202 # Echoing Flux
+    costs:
+      0: 1 # Gold
+
+  - type: item
+    id: 228414 # Frayed Wiring
+    costs:
+      0: 5 # Gold
+
+  - type: item
+    id: 228956 # Junk Bucket
+    costs:
+      0: 12 # Gold
+
+  - type: item
+    id: 5956 # Blacksmith Hammer
+    costs:
+      0: 1 # Gold
+
+  - type: item
+    id: 2901 # Mining Pick
+    costs:
+      0: 1 # Gold
+
+  - type: item
+    id: 6219 # Arclight Spanner
+    costs:
+      0: 1 # Gold
+
+  - type: item
+    id: 10498 # Gyromatic Micro-Adjustor
+    costs:
+      0: 1 # Gold

@@ -1,0 +1,36 @@
+id: 217449
+name: "Opalin"
+note: "Jewelcrafting Supplies"
+
+locations:
+  isle_of_dorn:
+    - 42 72.2
+
+sells:
+
+  # 0
+
+  - type: item
+    id: 212498 # Ambivalent Amber
+    costs:
+      0: 1 # Gold
+
+  - type: item
+    id: 213399 # Glittering Glass
+    costs:
+      0: 1 # Gold
+
+  - type: item
+    id: 213398 # Handful of Pebbles
+    costs:
+      0: 1 # Gold
+
+  - type: item
+    id: 228217 # Design: Solid Amber
+    costs:
+      0: 1 # Gold
+
+  - type: item
+    id: 20815 # Jeweler's Toolset
+    costs:
+      0: 1 # Gold

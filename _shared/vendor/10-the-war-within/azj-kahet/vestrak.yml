@@ -1,0 +1,16 @@
+id: 217253
+name: "Ves'trak"
+note: "Rak-Ush Operations"
+
+locations:
+  azj_kahet:
+    - 74.8 81
+
+sells:
+
+  # 0
+
+  - type: item
+    id: 221486 # Baleclaw
+    costs:
+      3056: 2250

@@ -1,0 +1,62 @@
+id: 223144
+name: "Greasy Chef"
+
+locations:
+  the_ringing_deeps:
+    - 63.8 78.4
+    - 63.8 78.6
+    - 65 77.8
+
+sells:
+
+  # 0
+
+  - type: item
+    id: 224762 # Delver's Waterskin
+    costs:
+      0: 2 # Gold
+
+  - type: item
+    id: 222738 # Portioned Steak
+    costs:
+      1222739: 2
+
+  - type: item
+    id: 225639 # Recipe: Exquisitely Eviscerated Muscle
+    costs:
+      0: 25 # Gold
+
+  - type: item
+    id: 222701 # Clumped Flour
+    costs:
+      0: 1 # Gold
+
+  - type: item
+    id: 222697 # Coreway Dust
+    costs:
+      0: 1 # Gold
+
+  - type: item
+    id: 222696 # Crunchy Peppers
+    costs:
+      0: 1 # Gold
+
+  - type: item
+    id: 222700 # Granulated Spices
+    costs:
+      0: 1 # Gold
+
+  - type: item
+    id: 222699 # Khaz Algar Tomato
+    costs:
+      0: 1 # Gold
+
+  - type: item
+    id: 222739 # Spiced Meat Stock
+    costs:
+      1222738: 2
+
+  - type: item
+    id: 222695 # Twined Herbs
+    costs:
+      0: 1 # Gold

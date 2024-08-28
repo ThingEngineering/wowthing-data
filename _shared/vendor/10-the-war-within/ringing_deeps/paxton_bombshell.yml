@@ -1,0 +1,66 @@
+id: 223163
+name: "Paxton Bombshell"
+note: "Engineering Vendor"
+
+locations:
+  the_ringing_deeps:
+    - 63.8 78.4
+
+sells:
+
+  # 0
+
+  - type: item
+    id: 227770 # Assorted Whirligigs
+    costs:
+      0: 2500 # Gold
+
+  - type: item
+    id: 227771 # Blinker Fluid
+    costs:
+      0: 5000 # Gold
+
+  - type: item
+    id: 227772 # Cataclysmic Converter
+    costs:
+      0: 12000 # Gold
+
+  - type: item
+    id: 219150 # Pile of Rusted Scrap
+    costs:
+      0: 5 # Gold
+
+  - type: item
+    id: 227774 # Pummel Permit
+    costs:
+      0: 1000000 # Gold
+
+  - type: item
+    id: 227773 # Pummel-Proof Plating
+    costs:
+      0: 25000 # Gold
+
+  - type: item
+    id: 219413 # Schematic: Stonebound Lantern
+    costs:
+      0: 1 # Gold
+
+  - type: item
+    id: 228414 # Frayed Wiring
+    costs:
+      0: 4 # Gold
+
+  - type: item
+    id: 228956 # Junk Bucket
+    costs:
+      0: 10 # Gold
+
+  - type: item
+    id: 6219 # Arclight Spanner
+    costs:
+      0: 1 # Gold
+
+  - type: item
+    id: 10498 # Gyromatic Micro-Adjustor
+    costs:
+      0: 1 # Gold

@@ -1,0 +1,122 @@
+id: 221390
+name: "Waxmonger Squick"
+note: "Renown Quartermaster"
+
+locations:
+  the_ringing_deeps:
+    - 47.2 32.8
+
+sells:
+
+  # 0 set=3520
+
+  - type: item
+    id: 218341 # Shoulderguards of the Assembly [subclass=5 shoulders]
+    costs:
+      2815: 3250
+
+  - type: item
+    id: 218342 # Shawl of the Assembly [subclass=5 back]
+    costs:
+      2815: 1625
+  # Skipped id=228418 name=Noncandescent Smithing Choker slot=2
+
+  # 0 set=3658
+
+  - type: item
+    id: 223294 # Noncandescent Smithing Hood [cloth head]
+    costs:
+      2815: 2600
+
+  - type: item
+    id: 223305 # Noncandescent Smithing Cord [cloth waist]
+    costs:
+      2815: 3900
+
+  # 0 set=3657
+
+  - type: item
+    id: 212107 # Inflammable Forging Goggles [leather head]
+    costs:
+      2815: 2600
+
+  - type: item
+    id: 223306 # Inflammable Forging Cinch [leather waist]
+    costs:
+      2815: 3900
+
+  # 0 set=3656
+
+  - type: item
+    id: 223293 # Unmelting Ironworker Helmet [mail head]
+    costs:
+      2815: 2600
+
+  - type: item
+    id: 223307 # Unmelting Ironworker Clasp [mail waist]
+    costs:
+      2815: 3900
+
+  # 0 set=3655
+
+  - type: item
+    id: 223295 # Slag Accruing Mask [plate head]
+    costs:
+      2815: 2600
+
+  - type: item
+    id: 223304 # Slag Accruing Waistguard [plate waist]
+    costs:
+      2815: 3900
+
+  # 0
+
+  - type: item
+    id: 225995 # Pattern: Hideseeker's Tote
+    costs:
+      1210814: 150
+
+  - type: item
+    id: 224418 # Recipe: Everything Stew
+    costs:
+      2815: 1000
+
+  - type: item
+    id: 223623 # Guacamole
+    costs:
+      2815: 6500
+
+  - type: item
+    id: 228698 # Candleflexer's Dumbbell
+    costs:
+      2815: 5000
+
+  - type: item
+    id: 224653 # Machine-Learned Engineering Notes
+    costs:
+      1210814: 50
+
+  - type: item
+    id: 224654 # Machine-Learned Inscription Notes
+    costs:
+      1210814: 50
+
+  - type: item
+    id: 224651 # Machine-Learned Mining Notes
+    costs:
+      1210814: 50
+
+  - type: item
+    id: 223505 # Crimson Mudnose
+    costs:
+      2815: 8125
+
+  - type: item
+    id: 222989 # Cyan Glowmite
+    costs:
+      2815: 11375
+
+  - type: item
+    id: 223063 # Technique: Contract: Assembly of the Deeps
+    costs:
+      1210814: 150
