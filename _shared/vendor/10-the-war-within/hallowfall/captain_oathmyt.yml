@@ -1,0 +1,90 @@
+id: 226846
+name: "Captain Oathmyt"
+
+locations:
+  10-war-within/hallowfall:
+    - 44.2 61.4
+
+sells:
+
+  # 0
+
+  - type: item
+    id: 217375 # Frenzied Hat of the Crimson Seas [subclass=5 head]
+    costs:
+      3055: 100
+
+  - type: item
+    id: 225770 # Algari Anglerthread
+    costs:
+      3055: 10
+
+  - type: item
+    id: 225771 # Algari Seekerthread
+    costs:
+      3055: 10
+
+  - type: item
+    id: 224717 # Ensemble: Cerulean Dredger
+    costs:
+      3055: 500
+
+  # - type: item
+  #   id: 224752 # Soaked Journal Entry
+  #   costs:
+  #     3055: 5
+
+  - type: item
+    id: 226376 # Dasher's Violet Rucksack [cloak]
+    costs:
+      3055: 50
+
+  - type: item
+    id: 226378 # Mereldar Artisan's Shoulderbag [cloak]
+    costs:
+      3055: 50
+
+  - type: item
+    id: 224727 # Dasher's Trophy Fish [1h ? mace]
+    costs:
+      3055: 250
+
+  - type: item
+    id: 226379 # Keen-eye 'Noculars [1h ? mace]
+    costs:
+      3055: 50
+
+  - type: item
+    id: 228954 # Angler's Guide
+    costs:
+      0: 1 # Gold
+
+  - type: item
+    id: 228422 # Recipe: Ghoulfish Delight
+    costs:
+      3055: 10
+
+  - type: item
+    id: 228421 # Recipe: Melted Candlebar
+    costs:
+      3055: 10
+
+  - type: item
+    id: 228423 # Recipe: Pep-In-Your-Step
+    costs:
+      3055: 10
+
+  - type: item
+    id: 225892 # Recipe: Rockslide Shake
+    costs:
+      3055: 10
+
+  - type: item
+    id: 225758 # Hallowfall Harvester's Pitchfork [staff]
+    costs:
+      3055: 50
+
+  - type: item
+    id: 225763 # Fallen Dalaran Defender [shield]
+    costs:
+      3055: 50

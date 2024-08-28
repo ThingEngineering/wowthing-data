@@ -1,0 +1,31 @@
+id: 214380
+name: "Raen Dawncavalyr"
+note: "Head Armorer"
+
+locations:
+  10-war-within/hallowfall:
+    - 43.2 56.4
+
+sells:
+
+  # 0
+
+  - type: item
+    id: 227697 # Preserved Moth-Ridden Hood [cloth head]
+    costs:
+      2815: 200
+
+  - type: item
+    id: 227696 # Preserved Distressed Visor [leather head]
+    costs:
+      2815: 200
+
+  - type: item
+    id: 227695 # Preserved Pierced Helm [mail head]
+    costs:
+      2815: 200
+
+  - type: item
+    id: 227694 # Preserved Begrimed Greathelm [plate head]
+    costs:
+      2815: 200
