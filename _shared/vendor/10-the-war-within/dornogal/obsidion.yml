@@ -6,102 +6,16 @@ locations:
   10-war-within/dornogal:
     - 57 60.8
 
+sets:
+  - name: "Armor Sets - Civilian"
+    range: -1
+
 sells:
 
-  # 0
-
-  - type: item
-    id: 219116 # Arcane Peddler's Trinkets
-    costs:
-      1223951: 1
-
-  - type: item
-    id: 219100 # Cardinal Educator's Knowledge
-    costs:
-      1223951: 1
+  # Artisan's Talent
 
   - type: item
     id: 219127 # Cast Artisan's Talent
-    costs:
-      1223951: 1
-
-  - type: item
-    id: 219113 # Celestial Patron's Elegance
-    costs:
-      1223951: 1
-
-  - type: item
-    id: 219103 # Cobalt Educator's Knowledge
-    costs:
-      1223951: 1
-
-  - type: item
-    id: 219114 # Court Patron's Elegance
-    costs:
-      1223951: 1
-
-  - type: item
-    id: 219117 # Curious Peddler's Trinkets
-    costs:
-      1223951: 1
-
-  - type: item
-    id: 219133 # Deep Cartographer's Orientation
-    costs:
-      1223951: 1
-
-  - type: item
-    id: 219107 # Earthy Quotidian Wear
-    costs:
-      1223951: 1
-
-  - type: item
-    id: 219102 # Leafy Educator's Knowledge
-    costs:
-      1223951: 1
-
-  - type: item
-    id: 219101 # Lilac Educator's Knowledge
-    costs:
-      1223951: 1
-
-  - type: item
-    id: 219106 # Maroon Quotidian Wear
-    costs:
-      1223951: 1
-
-  - type: item
-    id: 219104 # Midnight Educator's Knowledge
-    costs:
-      1223951: 1
-
-  - type: item
-    id: 219134 # Mossy Cartographer's Orientation
-    costs:
-      1223951: 1
-
-  - type: item
-    id: 219119 # Occult Peddler's Trinkets
-    costs:
-      1223951: 1
-
-  - type: item
-    id: 219131 # Oceanic Cartographer's Orientation
-    costs:
-      1223951: 1
-
-  - type: item
-    id: 219118 # Peculiar Peddler's Trinkets
-    costs:
-      1223951: 1
-
-  - type: item
-    id: 219111 # Royal Patron's Elegance
-    costs:
-      1223951: 1
-
-  - type: item
-    id: 219130 # Saffron Cartographer's Orientation
     costs:
       1223951: 1
 
@@ -116,9 +30,126 @@ sells:
       1223951: 1
 
   - type: item
+    id: 219126 # Woven Artisan's Talent
+    costs:
+      1223951: 1
+
+  # Cartographer's Orientation
+
+  - type: item
+    id: 219133 # Deep Cartographer's Orientation
+    costs:
+      1223951: 1
+
+  - type: item
+    id: 219134 # Mossy Cartographer's Orientation
+    costs:
+      1223951: 1
+
+  - type: item
+    id: 219131 # Oceanic Cartographer's Orientation
+    costs:
+      1223951: 1
+
+  - type: item
+    id: 219130 # Saffron Cartographer's Orientation
+    costs:
+      1223951: 1
+
+  # Educator's Knowledge
+
+  - type: item
+    id: 219100 # Cardinal Educator's Knowledge
+    costs:
+      1223951: 1
+
+  - type: item
+    id: 219103 # Cobalt Educator's Knowledge
+    costs:
+      1223951: 1
+
+  - type: item
+    id: 219102 # Leafy Educator's Knowledge
+    costs:
+      1223951: 1
+
+  - type: item
+    id: 219101 # Lilac Educator's Knowledge
+    costs:
+      1223951: 1
+
+  - type: item
+    id: 219104 # Midnight Educator's Knowledge
+    costs:
+      1223951: 1
+
+  # Patron's Elegance
+
+  - type: item
+    id: 219113 # Celestial Patron's Elegance
+    costs:
+      1223951: 1
+
+  - type: item
+    id: 219114 # Court Patron's Elegance
+    costs:
+      1223951: 1
+
+  - type: item
+    id: 219111 # Royal Patron's Elegance
+    costs:
+      1223951: 1
+
+  - type: item
+    id: 219112 # Verdant Patron's Elegance
+    costs:
+      1223951: 1
+
+  # Peddler's Trinkets
+
+  - type: item
+    id: 219116 # Arcane Peddler's Trinkets
+    costs:
+      1223951: 1
+
+  - type: item
+    id: 219117 # Curious Peddler's Trinkets
+    costs:
+      1223951: 1
+
+  - type: item
+    id: 219119 # Occult Peddler's Trinkets
+    costs:
+      1223951: 1
+
+  - type: item
+    id: 219118 # Peculiar Peddler's Trinkets
+    costs:
+      1223951: 1
+
+  # Quotidian Wear
+
+  - type: item
+    id: 219107 # Earthy Quotidian Wear
+    costs:
+      1223951: 1
+
+  - type: item
+    id: 219106 # Maroon Quotidian Wear
+    costs:
+      1223951: 1
+
+  - type: item
     id: 219109 # Taupe Quotidian Wear
     costs:
       1223951: 1
+
+  - type: item
+    id: 219108 # Umber Quotidian Wear
+    costs:
+      1223951: 1
+
+  # Toiler's Uniform
 
   - type: item
     id: 219123 # Toiler's Beige Uniform
@@ -142,20 +173,5 @@ sells:
 
   - type: item
     id: 219121 # Toiler's Ochre Uniform
-    costs:
-      1223951: 1
-
-  - type: item
-    id: 219108 # Umber Quotidian Wear
-    costs:
-      1223951: 1
-
-  - type: item
-    id: 219112 # Verdant Patron's Elegance
-    costs:
-      1223951: 1
-
-  - type: item
-    id: 219126 # Woven Artisan's Talent
     costs:
       1223951: 1

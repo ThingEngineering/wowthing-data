@@ -6,79 +6,58 @@ locations:
   10-war-within/dornogal:
     - 39.2 24.2
 
+sets:
+  - name: "Council Rank 2"
+    range: 2
+    sortKey: "rep-council-02"
+
+  - name: "Council Rank 5"
+    range: 3
+    sortKey: "rep-council-05"
+
+  - name: "Council Rank 7"
+    range: 4
+    sortKey: "rep-council-07"
+
+  - name: "Council Rank 13"
+    range: 1
+    sortKey: "rep-council-13"
+
+  - name: "Council Rank 14"
+    range: 1
+    sortKey: "rep-council-14"
+
+  - name: "Council Rank 15"
+    range: 1
+    sortKey: "rep-council-15"
+
+  - name: "Council Rank 16"
+    range: 4
+    sortKey: "rep-council-16"
+
+  - name: "Council Rank 18"
+    range: 1
+    sortKey: "rep-council-18"
+
+  - name: "Council Rank 23"
+    range: 1
+    sortKey: "rep-council-23"
+
 sells:
 
-  # 0 set=3519
-
-  - type: item
-    id: 218344 # Honorary Councilmember's Spaulders [subclass=5 shoulders]
-    costs:
-      2815: 3250
+  # Renown 2
 
   - type: item
     id: 218345 # Honorary Councilmember's Cloak [subclass=5 back]
     costs:
       2815: 1625
 
-  # 0 set=3658
-
-  - type: item
-    id: 223289 # Mineral-Sparkled Mantle [cloth shoulders]
-    costs:
-      2815: 2600
-
-  - type: item
-    id: 223300 # Mineral-Sparkled Sandals [cloth feet]
-    costs:
-      2815: 3900
-
-  # 0 set=3657
-
-  - type: item
-    id: 223292 # Gem Waded Shoulderpads [leather shoulders]
-    costs:
-      2815: 2600
-
-  - type: item
-    id: 223303 # Gem Waded Footwraps [leather feet]
-    costs:
-      2815: 3900
-
-  # 0 set=3656
-
-  - type: item
-    id: 223291 # Ore-namental Spaulders [mail shoulders]
-    costs:
-      2815: 2600
-
-  - type: item
-    id: 223302 # Ore-namental Sabatons [mail feet]
-    costs:
-      2815: 3900
-
-  # 0 set=3655
-
-  - type: item
-    id: 223290 # Chiseled Boulder Pauldrons [plate shoulders]
-    costs:
-      2815: 2600
-
-  - type: item
-    id: 223301 # Chiseled Boulder Crushers [plate feet]
-    costs:
-      2815: 3900
-
-  # 0
-
   - type: item
     id: 228419 # Mineral-Sparkled Cape [cloak]
     costs:
       2815: 250
 
-  - type: item
-    id: 223103 # Pattern: Stormbound Armor Kit
-    costs:
-      1210814: 150
+  # Renown 5
 
   - type: item
     id: 223127 # Formula: Enchant Chest - Council's Intellect
@@ -86,46 +65,112 @@ sells:
       1210814: 150
 
   - type: item
+    id: 223103 # Pattern: Stormbound Armor Kit
+    costs:
+      1210814: 150
+
+  - type: item
+    id: 223062 # Technique: Contract: Council of Dornogal
+    costs:
+      1210814: 150
+
+  # Renown 7
+
+  - type: item
+    id: 223289 # Mineral-Sparkled Mantle [cloth shoulders]
+    costs:
+      2815: 2600
+
+  - type: item
+    id: 223292 # Gem Waded Shoulderpads [leather shoulders]
+    costs:
+      2815: 2600
+
+  - type: item
+    id: 223291 # Ore-namental Spaulders [mail shoulders]
+    costs:
+      2815: 2600
+
+  - type: item
+    id: 223290 # Chiseled Boulder Pauldrons [plate shoulders]
+    costs:
+      2815: 2600
+
+  # Renown 13
+
+  - type: item
     id: 222965 # Loamy
     costs:
       2815: 6500
 
-  - type: item
-    id: 224645 # Jewel-Etched Alchemy Notes
-    costs:
-      1210814: 50
-
-  - type: item
-    id: 224647 # Jewel-Etched Blacksmithing Notes
-    costs:
-      1210814: 50
-
-  - type: item
-    id: 224652 # Jewel-Etched Enchanting Notes
-    costs:
-      1210814: 50
-
-  - type: item
-    id: 224648 # Jewel-Etched Tailoring Notes
-    costs:
-      1210814: 50
+  # Renown 14
 
   - type: item
     id: 228706 # Rockslidomancer's Stone
     costs:
       2815: 5000
 
+  # Renown 15
+
+  - type: item
+    id: 218344 # Honorary Councilmember's Spaulders [subclass=5 shoulders]
+    costs:
+      2815: 3250
+
+  # Renown 16
+
+  - type: item
+    id: 223300 # Mineral-Sparkled Sandals [cloth feet]
+    costs:
+      2815: 3900
+
+  - type: item
+    id: 223303 # Gem Waded Footwraps [leather feet]
+    costs:
+      2815: 3900
+
+  - type: item
+    id: 223302 # Ore-namental Sabatons [mail feet]
+    costs:
+      2815: 3900
+
+  - type: item
+    id: 223301 # Chiseled Boulder Crushers [plate feet]
+    costs:
+      2815: 3900
+
+  # Renown 18
+
   - type: item
     id: 223571 # Shale Ramolith
     costs:
       2815: 8125
+
+  # Renown 23
 
   - type: item
     id: 221753 # Smoldering Cinderbee
     costs:
       2815: 11375
 
-  - type: item
-    id: 223062 # Technique: Contract: Council of Dornogal
-    costs:
-      1210814: 150
+  # 0
+
+  # - type: item
+  #   id: 224645 # Jewel-Etched Alchemy Notes
+  #   costs:
+  #     1210814: 50
+
+  # - type: item
+  #   id: 224647 # Jewel-Etched Blacksmithing Notes
+  #   costs:
+  #     1210814: 50
+
+  # - type: item
+  #   id: 224652 # Jewel-Etched Enchanting Notes
+  #   costs:
+  #     1210814: 50
+
+  # - type: item
+  #   id: 224648 # Jewel-Etched Tailoring Notes
+  #   costs:
+  #     1210814: 50
