@@ -1,0 +1,233 @@
+name: "Raids"
+groups:
+  
+# group 273
+- name: "Nerub-ar Palace"
+  tag: "T26"
+  type: class
+  sets:
+  - "Mythic"
+  - "Heroic"
+  - "Normal"
+  - "Raid Finder"
+  data:
+    death-knight:
+      # Exhumed Centurion's Relics [Mythic]
+      - transmogSetId: 3719
+        wowheadSetId:
+
+      # Exhumed Centurion's Relics [Heroic]
+      - transmogSetId: 3718
+        wowheadSetId:
+
+      # Exhumed Centurion's Relics [Normal]
+      - transmogSetId: 3711
+        wowheadSetId:
+
+      # Exhumed Centurion's Relics [Raid Finder]
+      - transmogSetId: 3720
+        wowheadSetId:
+
+    demon-hunter:
+      # Husk of the Hypogeal Nemesis [Mythic]
+      - transmogSetId: 3722
+        wowheadSetId:
+
+      # Husk of the Hypogeal Nemesis [Heroic]
+      - transmogSetId: 3721
+        wowheadSetId:
+
+      # Husk of the Hypogeal Nemesis [Normal]
+      - transmogSetId: 3723
+        wowheadSetId:
+
+      # Husk of the Hypogeal Nemesis [Raid Finder]
+      - transmogSetId: 3724
+        wowheadSetId:
+
+    druid:
+      # Mane of the Greatlynx [Mythic]
+      - transmogSetId: 3726
+        wowheadSetId:
+
+      # Mane of the Greatlynx [Heroic]
+      - transmogSetId: 3725
+        wowheadSetId:
+
+      # Mane of the Greatlynx [Normal]
+      - transmogSetId: 3727
+        wowheadSetId:
+
+      # Mane of the Greatlynx [Raid Finder]
+      - transmogSetId: 3728
+        wowheadSetId:
+
+    evoker:
+      # Destroyer's Scarred Wards [Mythic]
+      - transmogSetId: 3730
+        wowheadSetId:
+
+      # Destroyer's Scarred Wards [Heroic]
+      - transmogSetId: 3729
+        wowheadSetId:
+
+      # Destroyer's Scarred Wards [Normal]
+      - transmogSetId: 3731
+        wowheadSetId:
+
+      # Destroyer's Scarred Wards [Raid Finder]
+      - transmogSetId: 3732
+        wowheadSetId:
+
+    hunter:
+      # Lightless Scavenger's Necessities [Mythic]
+      - transmogSetId: 3734
+        wowheadSetId:
+
+      # Lightless Scavenger's Necessities [Heroic]
+      - transmogSetId: 3733
+        wowheadSetId:
+
+      # Lightless Scavenger's Necessities [Normal]
+      - transmogSetId: 3735
+        wowheadSetId:
+
+      # Lightless Scavenger's Necessities [Raid Finder]
+      - transmogSetId: 3736
+        wowheadSetId:
+
+    mage:
+      # Sparks of Violet Rebirth [Mythic]
+      - transmogSetId: 3738
+        wowheadSetId:
+
+      # Sparks of Violet Rebirth [Heroic]
+      - transmogSetId: 3737
+        wowheadSetId:
+
+      # Sparks of Violet Rebirth [Normal]
+      - transmogSetId: 3739
+        wowheadSetId:
+
+      # Sparks of Violet Rebirth [Raid Finder]
+      - transmogSetId: 3740
+        wowheadSetId:
+
+    monk:
+      # Gatecrasher's Fortitude [Mythic]
+      - transmogSetId: 3742
+        wowheadSetId:
+
+      # Gatecrasher's Fortitude [Heroic]
+      - transmogSetId: 3741
+        wowheadSetId:
+
+      # Gatecrasher's Fortitude [Normal]
+      - transmogSetId: 3743
+        wowheadSetId:
+
+      # Gatecrasher's Fortitude [Raid Finder]
+      - transmogSetId: 3744
+        wowheadSetId:
+
+    paladin:
+      # Entombed Seraph's Radiance [Mythic]
+      - transmogSetId: 3746
+        wowheadSetId:
+
+      # Entombed Seraph's Radiance [Heroic]
+      - transmogSetId: 3745
+        wowheadSetId:
+
+      # Entombed Seraph's Radiance [Normal]
+      - transmogSetId: 3747
+        wowheadSetId:
+
+      # Entombed Seraph's Radiance [Raid Finder]
+      - transmogSetId: 3748
+        wowheadSetId:
+
+    priest:
+      # Shards of Living Luster [Mythic]
+      - transmogSetId: 3750
+        wowheadSetId:
+
+      # Shards of Living Luster [Heroic]
+      - transmogSetId: 3749
+        wowheadSetId:
+
+      # Shards of Living Luster [Normal]
+      - transmogSetId: 3751
+        wowheadSetId:
+
+      # Shards of Living Luster [Raid Finder]
+      - transmogSetId: 3752
+        wowheadSetId:
+
+    rogue:
+      # K'areshi Phantom's Bindings [Mythic]
+      - transmogSetId: 3754
+        wowheadSetId:
+
+      # K'areshi Phantom's Bindings [Heroic]
+      - transmogSetId: 3753
+        wowheadSetId:
+
+      # K'areshi Phantom's Bindings [Normal]
+      - transmogSetId: 3755
+        wowheadSetId:
+
+      # K'areshi Phantom's Bindings [Raid Finder]
+      - transmogSetId: 3756
+        wowheadSetId:
+
+    shaman:
+      # Waves of the Forgotten Reservoir [Mythic]
+      - transmogSetId: 3758
+        wowheadSetId:
+
+      # Waves of the Forgotten Reservoir [Heroic]
+      - transmogSetId: 3757
+        wowheadSetId:
+
+      # Waves of the Forgotten Reservoir [Normal]
+      - transmogSetId: 3759
+        wowheadSetId:
+
+      # Waves of the Forgotten Reservoir [Raid Finder]
+      - transmogSetId: 3760
+        wowheadSetId:
+
+    warlock:
+      # Rites of the Hexflame Coven [Mythic]
+      - transmogSetId: 3762
+        wowheadSetId:
+
+      # Rites of the Hexflame Coven [Heroic]
+      - transmogSetId: 3761
+        wowheadSetId:
+
+      # Rites of the Hexflame Coven [Normal]
+      - transmogSetId: 3763
+        wowheadSetId:
+
+      # Rites of the Hexflame Coven [Raid Finder]
+      - transmogSetId: 3764
+        wowheadSetId:
+
+    warrior:
+      # Warsculptor's Masterwork [Mythic]
+      - transmogSetId: 3766
+        wowheadSetId:
+
+      # Warsculptor's Masterwork [Heroic]
+      - transmogSetId: 3765
+        wowheadSetId:
+
+      # Warsculptor's Masterwork [Normal]
+      - transmogSetId: 3767
+        wowheadSetId:
+
+      # Warsculptor's Masterwork [Raid Finder]
+      - transmogSetId: 3768
+        wowheadSetId:

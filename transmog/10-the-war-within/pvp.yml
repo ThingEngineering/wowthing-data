@@ -1,0 +1,152 @@
+name: PvP
+groups:
+
+- name: "The War Within Season 1"
+  tag: "S38"
+  type: class
+  sets:
+    - "Elite*"
+    - "Gladiator"
+  data:
+    death-knight:
+      # Forged Gladiator's Plate Armor [Elite]
+      - transmogSetId: 3835
+        wowheadSetId:
+
+      # Forged Gladiator's Plate Armor [Gladiator]
+      - transmogSetId: 3822
+        wowheadSetId:
+
+    demon-hunter:
+      # Forged Gladiator's Leather Armor [Elite]
+      - transmogSetId: 3836
+        wowheadSetId:
+
+      # Forged Gladiator's Leather Armor [Gladiator]
+      - transmogSetId: 3823
+        wowheadSetId:
+
+    druid:
+      # Forged Gladiator's Leather Armor [Elite]
+      - transmogSetId: 3837
+        wowheadSetId:
+
+      # Forged Gladiator's Leather Armor [Gladiator]
+      - transmogSetId: 3824
+        wowheadSetId:
+
+    evoker:
+      # Forged Gladiator's Chain Armor [Elite]
+      - transmogSetId: 3838
+        wowheadSetId:
+
+      # Forged Gladiator's Chain Armor [Gladiator]
+      - transmogSetId: 3825
+        wowheadSetId:
+
+    hunter:
+      # Forged Gladiator's Chain Armor [Elite]
+      - transmogSetId: 3839
+        wowheadSetId:
+
+      # Forged Gladiator's Chain Armor [Gladiator]
+      - transmogSetId: 3826
+        wowheadSetId:
+
+    mage:
+      # Forged Gladiator's Silk Armor [Elite]
+      - transmogSetId: 3834
+        wowheadSetId:
+
+      # Forged Gladiator's Silk Armor [Gladiator]
+      - transmogSetId: 3821
+        wowheadSetId:
+
+    monk:
+      # Forged Gladiator's Leather Armor [Elite]
+      - transmogSetId: 3840
+        wowheadSetId:
+
+      # Forged Gladiator's Leather Armor [Gladiator]
+      - transmogSetId: 3827
+        wowheadSetId:
+
+    paladin:
+      # Forged Gladiator's Plate Armor [Elite]
+      - transmogSetId: 3841
+        wowheadSetId:
+
+      # Forged Gladiator's Plate Armor [Gladiator]
+      - transmogSetId: 3828
+        wowheadSetId:
+
+    priest:
+      # Forged Gladiator's Silk Armor [Elite]
+      - transmogSetId: 3842
+        wowheadSetId:
+
+      # Forged Gladiator's Silk Armor [Gladiator]
+      - transmogSetId: 3829
+        wowheadSetId:
+
+    rogue:
+      # Forged Gladiator's Leather Armor [Elite]
+      - transmogSetId: 3843
+        wowheadSetId:
+
+      # Forged Gladiator's Leather Armor [Gladiator]
+      - transmogSetId: 3830
+        wowheadSetId:
+
+    shaman:
+      # Forged Gladiator's Chain Armor [Elite]
+      - transmogSetId: 3844
+        wowheadSetId:
+
+      # Forged Gladiator's Chain Armor [Gladiator]
+      - transmogSetId: 3831
+        wowheadSetId:
+
+    warlock:
+      # Forged Gladiator's Silk Armor [Elite]
+      - transmogSetId: 3846
+        wowheadSetId:
+
+      # Forged Gladiator's Silk Armor [Gladiator]
+      - transmogSetId: 3833
+        wowheadSetId:
+
+    warrior:
+      # Forged Gladiator's Plate Armor [Elite]
+      - transmogSetId: 3845
+        wowheadSetId:
+
+      # Forged Gladiator's Plate Armor [Gladiator]
+      - transmogSetId: 3832
+        wowheadSetId:
+
+- name: "The War Within Season 1"
+  tag: "S38"
+  type: armor
+  sets:
+    - "Aspirant"
+  data:
+    cloth:
+      # Forged Aspirant's Silk Armor [Aspirant]
+      - transmogSetId: 3699
+        wowheadSetId:
+
+    leather:
+      # Forged Aspirant's Leather Armor [Aspirant]
+      - transmogSetId: 3698
+        wowheadSetId:
+
+    mail:
+      # Forged Aspirant's Chain Armor [Aspirant]
+      - transmogSetId: 3697
+        wowheadSetId:
+
+    plate:
+      # Forged Aspirant's Plate Armor [Aspirant]
+      - transmogSetId: 3696
+        wowheadSetId:

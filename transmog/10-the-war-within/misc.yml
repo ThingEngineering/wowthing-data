@@ -1,0 +1,44 @@
+name: "Dornogal"
+groups:
+
+- name: "Hallowfall"
+  type: armor
+  sets:
+    - "Delves"
+    - "World Drops"
+  data:
+    cloth:
+      # Unkindled Waxweave Panoply [Delves]
+      - transmogSetId: 3881
+        wowheadSetId:
+
+      # Hallowfall Cloth Armor [World Drops]
+      - transmogSetId: 3658
+        wowheadSetId:
+
+    leather:
+      # Myconic Shell [Delves]
+      - transmogSetId: 3880
+        wowheadSetId:
+
+      # Hallowfall Leather Armor [World Drops]
+      - transmogSetId: 3657
+        wowheadSetId:
+
+    mail:
+      # Chains of the Stygian Sea [Delves]
+      - transmogSetId: 3878
+        wowheadSetId:
+
+      # Hallowfall Mail Armor [World Drops]
+      - transmogSetId: 3656
+        wowheadSetId:
+
+    plate:
+      # Aegis of Hidden Stars [Delves]
+      - transmogSetId: 3879
+        wowheadSetId:
+
+      # Hallowfall Plate Armor [World Drops]
+      - transmogSetId: 3655
+        wowheadSetId:
