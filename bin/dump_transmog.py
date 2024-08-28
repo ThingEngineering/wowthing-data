@@ -115,6 +115,7 @@ DESCRIPTION_MAP = {
     13993: 'Crafted',
     13998: 'Dungeons',
     14009: 'The Forbidden Reach',
+    14015: 'Purple',
     14016: 'World Quests and World Drops',
     14017: 'Suffusion Camps and PvP',
     14018: 'Treasures and Unique Creatures',
@@ -123,6 +124,11 @@ DESCRIPTION_MAP = {
     14029: 'Dawn of the Infinite',
     14034: 'Emerald Bounty',
     14041: 'Superbloom',
+    14122: 'Yellow',
+    14125: 'Beige',
+    14145: 'Teal',
+    14146: 'Burgundy',
+    14174: 'Delves',
 }
 DESCRIPTION_ORDER = [
     13145, # Mythic
@@ -172,13 +178,9 @@ DESCRIPTION_ORDER = [
     13980, # War Mode
     13991, # Professions
     13993, # Crafted
-    13990, # World Drops
+    14174, # Delves
     13992, # World Drop
-    13965, # Red
-    13964, # Bronze
-    13966, # Black
-    13967, # Blue
-    13968, # Green
+    13990, # World Drops
 
     14017, # 'Suffusion Camps and PvP'
     14018, # 'Treasures and Unique Creatures'
@@ -187,6 +189,17 @@ DESCRIPTION_ORDER = [
     14028, # 'Time Rifts and Dawn of the Infinite'
 
     15025, # 'Time Rifts'
+
+    14125, # Beige
+    13966, # Black
+    13967, # Blue
+    14146, # Burgundy
+    13964, # Bronze
+    13968, # Green
+    14015, # Purple
+    13965, # Red
+    14145, # Teal
+    14122, # Yellow
 
     0,
 ]
