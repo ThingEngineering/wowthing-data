@@ -3,7 +3,7 @@ name: "Gnawbles"
 note: "Snuffling and Ruby Vendor"
 
 locations:
-  the_ringing_deeps:
+  10-the-war-within/ringing_deeps:
     - 47.6 35.2
 
 sells:
@@ -25,52 +25,7 @@ sells:
     costs:
       1224642: 1
 
-  - type: item
-    id: 224761 # Quickwick Candle Kit
-    costs:
-      1224642: 1
-
-  - type: item
-    id: 224649 # Wax Arsenal
-    costs:
-      1224642: 1
-
-  - type: item
-    id: 224721 # Wax-Sealed Box
-    costs:
-      1224642: 1
-
-  - type: item
-    id: 224650 # Wax-Sealed Pouch
-    costs:
-      1224642: 1
-
-  - type: item
-    id: 224726 # Waxy Box of Rocks
-    costs:
-      1224642: 1
-
-  - type: item
-    id: 228220 # Waxy Bundle
-    costs:
-      1228210: 1
-
-  - type: item
-    id: 224724 # Waxy Bundle of Dust
-    costs:
-      1224642: 1
-
-  - type: item
-    id: 224725 # Waxy Bundle of Herbs
-    costs:
-      1224642: 1
-
-  - type: item
-    id: 224723 # Waxy Bundle of Leather
-    costs:
-      1224642: 1
-
-  - type: item
-    id: 224722 # Waxy Bundle of Resonance Crystals
-    costs:
-      1224642: 1
+  # - type: item
+  #   id: 224649 # Wax Arsenal
+  #   costs:
+  #     1224642: 1

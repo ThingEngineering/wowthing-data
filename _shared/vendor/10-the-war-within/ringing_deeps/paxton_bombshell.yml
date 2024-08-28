@@ -3,7 +3,7 @@ name: "Paxton Bombshell"
 note: "Engineering Vendor"
 
 locations:
-  the_ringing_deeps:
+  10-the-war-within/ringing_deeps:
     - 63.8 78.4
 
 sells:

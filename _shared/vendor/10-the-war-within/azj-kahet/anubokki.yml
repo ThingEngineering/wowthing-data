@@ -3,7 +3,7 @@ name: "Anub'okki"
 note: "Disciple of Anub'azal"
 
 locations:
-  azj_kahet:
+  10-the-war-within/azj-kahet:
     - 55.8 42.2
 
 sells:

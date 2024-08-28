@@ -3,7 +3,7 @@ name: "Y'tekhi"
 note: "Renown Quartermaster"
 
 locations:
-  azj_kahet:
+  10-the-war-within/azj-kahet:
     - 55.2 41.2
 
 sells:

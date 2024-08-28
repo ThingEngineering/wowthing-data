@@ -3,7 +3,7 @@ name: "Tulumun"
 note: "Assistant to the Executor"
 
 locations:
-  azj_kahet:
+  10-the-war-within/azj-kahet:
     - 56.2 42.2
 
 sells:

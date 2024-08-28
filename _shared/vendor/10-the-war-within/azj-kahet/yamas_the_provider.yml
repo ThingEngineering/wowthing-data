@@ -3,17 +3,17 @@ name: "Yamas the Provider"
 note: "Pact Dealer & Information"
 
 locations:
-  azj_kahet:
+  10-the-war-within/azj-kahet:
     - 55.2 41.4
 
 sells:
 
   # 0
 
-  - type: item
-    id: 228913 # Dubious Vial of Vigor
-    costs:
-      3056: 150
+  # - type: item
+  #   id: 228913 # Dubious Vial of Vigor
+  #   costs:
+  #     3056: 150
 
   - type: item
     id: 226509 # General's Insight

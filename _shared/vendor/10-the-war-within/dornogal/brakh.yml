@@ -3,7 +3,7 @@ name: "Brakh"
 note: "Weapon Trader"
 
 locations:
-  10-war-within/dornogal:
+  10-the-war-within/dornogal:
     - 51.6 67.4
 
 sells:

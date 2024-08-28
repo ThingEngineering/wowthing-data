@@ -3,7 +3,7 @@ name: "Opalin"
 note: "Jewelcrafting Supplies"
 
 locations:
-  isle_of_dorn:
+  10-the-war-within/isle_of_dorn:
     - 42 72.2
 
 sells:

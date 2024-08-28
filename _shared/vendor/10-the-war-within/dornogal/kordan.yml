@@ -3,7 +3,7 @@ name: "Kordan"
 note: "Blade Vendor"
 
 locations:
-  10-war-within/dornogal:
+  10-the-war-within/dornogal:
     - 64.4 49.8
 
 sells:

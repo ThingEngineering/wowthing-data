@@ -3,7 +3,7 @@ name: "Ves'trak"
 note: "Rak-Ush Operations"
 
 locations:
-  azj_kahet:
+  10-the-war-within/azj-kahet:
     - 74.8 81
 
 sells:

@@ -3,7 +3,7 @@ name: "Karbath"
 note: "Weapon Trader"
 
 locations:
-  10-war-within/dornogal:
+  10-the-war-within/dornogal:
     - 47.2 64.4
 
 sells:

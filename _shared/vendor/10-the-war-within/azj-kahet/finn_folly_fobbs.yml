@@ -1,9 +1,9 @@
 id: 220702
-name: "Finn "Folly" Fobbs"
+name: 'Finn "Folly" Fobbs'
 note: "Engineering Supplies"
 
 locations:
-  azj_kahet:
+  10-the-war-within/azj-kahet:
     - 77.6 61.6
 
 sells:

@@ -3,7 +3,7 @@ name: "Sofee Batalsworn"
 note: "Blacksmithing Supplies"
 
 locations:
-  azj_kahet:
+  10-the-war-within/azj-kahet:
     - 59.4 19
 
 sells:

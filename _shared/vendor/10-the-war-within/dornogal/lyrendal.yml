@@ -3,7 +3,7 @@ name: "Lyrendal"
 note: "Artisan's Consortium Quartermaster"
 
 locations:
-  10-war-within/dornogal:
+  10-the-war-within/dornogal:
     - 59.6 56.2
 
 sells:

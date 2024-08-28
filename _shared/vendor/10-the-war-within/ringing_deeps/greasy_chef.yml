@@ -2,10 +2,8 @@ id: 223144
 name: "Greasy Chef"
 
 locations:
-  the_ringing_deeps:
+  10-the-war-within/ringing_deeps:
     - 63.8 78.4
-    - 63.8 78.6
-    - 65 77.8
 
 sells:
 

@@ -3,7 +3,7 @@ name: "Waxmonger Squick"
 note: "Renown Quartermaster"
 
 locations:
-  the_ringing_deeps:
+  10-the-war-within/ringing_deeps:
     - 47.2 32.8
 
 sells:
