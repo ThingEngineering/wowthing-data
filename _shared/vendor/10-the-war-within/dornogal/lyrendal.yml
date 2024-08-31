@@ -12,31 +12,6 @@ sells:
   # 0
 
   - type: item
-    id: 227682 # Satchel of Surplus Cloth
-    costs:
-      1210814: 600
-
-  - type: item
-    id: 228337 # Satchel of Surplus Dust
-    costs:
-      1210814: 600
-
-  - type: item
-    id: 227675 # Satchel of Surplus Herbs
-    costs:
-      1210814: 600
-
-  - type: item
-    id: 227681 # Satchel of Surplus Leather
-    costs:
-      1210814: 600
-
-  - type: item
-    id: 227676 # Satchel of Surplus Ore
-    costs:
-      1210814: 600
-
-  - type: item
     id: 223110 # Pattern: Arathi Leatherworker's Smock
     costs:
       1210814: 150
