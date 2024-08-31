@@ -1,6 +1,7 @@
 id: 219051
 name: "Lyrendal"
 note: "Artisan's Consortium Quartermaster"
+zoneMapsGroupId: 1
 
 locations:
   10-the-war-within/dornogal:

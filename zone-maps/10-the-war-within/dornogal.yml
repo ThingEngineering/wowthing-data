@@ -2,3 +2,52 @@ name: "Dornogal"
 mapName: "10-the-war-within/dornogal"
 minimumLevel: 70
 farms:
+
+- name: "Crafting Orders"
+  groupId: 1
+  location: 59.2 55.8
+  type: group
+
+# Quest
+
+- name: "Roldira"
+  groupId: 1
+  location: 0 0
+  npcId: 219108
+  reset: none
+  type: profession
+  drops:
+    - type: charactertrackingquest
+      id: 84288
+      note: "Work Orders"
+      limit: profession alchemy 2871 1
+
+    - type: charactertrackingquest
+      id: 84274
+      note: "Work Orders"
+      limit: profession blacksmithing 2872 1
+
+    - type: charactertrackingquest
+      id: 84285
+      note: "Work Orders"
+      limit: profession engineering 2875 1
+
+    - type: charactertrackingquest
+      id: 84287
+      note: "Work Orders"
+      limit: profession inscription 2878 1
+
+    - type: charactertrackingquest
+      id: 84279
+      note: "Work Orders"
+      limit: profession jewelcrafting 2879 1
+
+    - type: charactertrackingquest
+      id: 84280
+      note: "Work Orders"
+      limit: profession leatherworking 2880 1
+
+    - type: charactertrackingquest
+      id: 84281
+      note: "Work Orders"
+      limit: profession tailoring 2883 1
