@@ -18,6 +18,10 @@ farms:
   type: profession
   drops:
     - type: charactertrackingquest
+      id: 84260 # Crafting to Order
+      note: "Crafting materials bag"
+
+    - type: charactertrackingquest
       id: 84288
       note: "Work Orders"
       limit: profession alchemy 2871 1
