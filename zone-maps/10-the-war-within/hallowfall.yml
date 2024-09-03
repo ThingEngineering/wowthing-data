@@ -2,3 +2,13 @@ name: "Hallowfall"
 mapName: "10-the-war-within/hallowfall"
 minimumLevel: 70
 farms:
+
+- name: "Beledar's Spawn"
+  location: 48.9 32.0
+  note: "Only in dark phase, spawns in a bunch of places"
+  npcId: 207802
+  questId: 81763
+  type: kill
+  drops:
+    - type: item
+      id: 223315
