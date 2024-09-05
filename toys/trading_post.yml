@@ -3,6 +3,8 @@ groups:
   
 - name: "Trading Post"
   things:
+    - 218112 # Colorful Beach Chair
     - 206268 # Ethereal Transmogrifier
     -  32542 # Imp in a Ball
     - 206347 # Mannequin Charm
+    - 220692 # X-treme Water Blaster Display

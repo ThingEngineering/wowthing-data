@@ -1,0 +1,9 @@
+name: "Vendors"
+groups:
+
+  - name: "Delves"
+    things:
+      - 211931 # Abyss Caller Horn
+      - 228413 # Lampyridae Lure
+      - 225910 # Pileus Delight
+      - 223312 # Trusty Hat

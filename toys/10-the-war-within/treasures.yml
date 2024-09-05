@@ -1,0 +1,6 @@
+name: "Treasures"
+groups:
+
+- name: "Hallowfall"
+  things:
+    - 224552 # Cave Spelunker's Torch

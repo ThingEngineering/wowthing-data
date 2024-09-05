@@ -30,3 +30,10 @@ groups:
   things:
     - 206343 # Crimson Legend's Pennant (Legend: Dragonflight Season 1)
     - 206267 # Obsidian Legend's Pennant (Legend: Dragonflight Season 2)
+
+- name: "Remix: Pandaria"
+  things:
+    - 217725 # Essence of Yu'lon
+    - 217726 # Fortitude of Niuzao
+    - 217723 # Fury of Xuen
+    - 217724 # Kindness of Chi-Ji
