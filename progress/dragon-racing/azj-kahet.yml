@@ -1,0 +1,116 @@
+name: "Azj-Kahet"
+groups:
+
+- name: "City of Threads Twist"
+  icon: "achievement/19559"
+  iconText: "AK1"
+  lookup: none
+  type: dragon-racing
+  data:
+    0:
+      - id: 2977
+        name: "Normal"
+        description: "83 78"
+
+      - id: 2983
+        name: "Advanced"
+        description: "77 74"
+
+      - id: 2989
+        name: "Reverse"
+        description: "77 74"
+
+- name: "Maddening Deep Dip"
+  icon: "achievement/19559"
+  iconText: "AK2"
+  lookup: none
+  type: dragon-racing
+  data:
+    0:
+      - id: 2978
+        name: "Normal"
+        description: "63 58"
+
+      - id: 2984
+        name: "Advanced"
+        description: "57 54"
+
+      - id: 2990
+        name: "Reverse"
+        description: "59 56"
+
+- name: "The Weaver's Wing"
+  icon: "achievement/19559"
+  iconText: "AK3"
+  lookup: none
+  type: dragon-racing
+  data:
+    0:
+      - id: 2979
+        name: "Normal"
+        description: "59 54"
+
+      - id: 2985
+        name: "Advanced"
+        description: "54 51"
+
+      - id: 2991
+        name: "Reverse"
+        description: "53 50"
+
+- name: "Rak-Ahat Rush"
+  icon: "achievement/19559"
+  iconText: "AK4"
+  lookup: none
+  type: dragon-racing
+  data:
+    0:
+      - id: 2980
+        name: "Normal"
+        description: "75 70"
+
+      - id: 2986
+        name: "Advanced"
+        description: "69 66"
+
+      - id: 2992
+        name: "Reverse"
+        description: "69 66"
+
+- name: "Pit Plunge"
+  icon: "achievement/19559"
+  iconText: "AK5"
+  lookup: none
+  type: dragon-racing
+  data:
+    0:
+      - id: 2981
+        name: "Normal"
+        description: "68 63"
+
+      - id: 2987
+        name: "Advanced"
+        description: "64 61"
+
+      - id: 2993
+        name: "Reverse"
+        description: "64 61"
+
+- name: "Siegehold Scuttle"
+  icon: "achievement/19559"
+  iconText: "AK6"
+  lookup: none
+  type: dragon-racing
+  data:
+    0:
+      - id: 2982
+        name: "Normal"
+        description: "75 70"
+
+      - id: 2988
+        name: "Advanced"
+        description: "69 66"
+
+      - id: 2994
+        name: "Reverse"
+        description: "66 63"
