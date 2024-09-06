@@ -1,0 +1,388 @@
+requirements:
+
+tags:
+  - "treasure:profession"
+
+things:
+  
+  # Alchemy
+
+  - type: "object"
+    id: 456022
+    name: "{item:226268}"
+    reset: "never"
+    trackingQuestId: 83843
+    locations:
+      here:
+        - "64.9 61.8" # THE_RINGING_DEEPS
+    requirements:
+      - "profession alchemy tww 1"
+    contents:
+      - type: "item"
+        id: 226268 # Engraved Stirring Rod
+        note: "{price:3|2785}" # Alchemy Knowledge
+
+  - type: "object"
+    id: 456023
+    name: "{item:226267}"
+    reset: "never"
+    trackingQuestId: 83842
+    locations:
+      here:
+        - "42.2 24.1" # THE_RINGING_DEEPS
+    requirements:
+      - "profession alchemy tww 1"
+    contents:
+      - type: "item"
+        id: 226267 # Reinforced Beaker
+        note: "{price:3|2785}" # Alchemy Knowledge
+
+  # Blacksmithing
+
+  - type: "object"
+    id: 456014
+    name: "{item:226279}"
+    reset: "never"
+    trackingQuestId: 83851
+    locations:
+      here:
+        - "60.6 53.8" # THE_RINGING_DEEPS
+    requirements:
+      - "profession blacksmithing tww 1"
+    contents:
+      - type: "item"
+        id: 226279 # Earthen Chisels
+        note: "{price:3|2786}" # Blacksmithing Knowledge
+
+  - type: "object"
+    id: 456015
+    name: "{item:226278}"
+    reset: "never"
+    trackingQuestId: 83850
+    locations:
+      here:
+        - "47.7 33.2" # THE_RINGING_DEEPS
+    requirements:
+      - "profession blacksmithing tww 1"
+    contents:
+      - type: "item"
+        id: 226278 # Ringing Hammer Vise
+        note: "{price:3|2786}" # Blacksmithing Knowledge
+
+  # Enchanting
+
+  - type: "object"
+    id: 456006
+    name: "{item:226287}"
+    reset: "never"
+    trackingQuestId: 83861
+    locations:
+      here:
+        - "67.2 65.9" # THE_RINGING_DEEPS
+    requirements:
+      - "profession enchanting tww 1"
+    contents:
+      - type: "item"
+        id: 226287 # Animated Enchanting Dust
+        note: "{price:3|2787}" # Enchanting Knowledge
+
+  - type: "object"
+    id: 456007
+    name: "{item:226286}"
+    reset: "never"
+    trackingQuestId: 83860
+    locations:
+      here:
+        - "44.6 22.1" # THE_RINGING_DEEPS
+    requirements:
+      - "profession enchanting tww 1"
+    contents:
+      - type: "item"
+        id: 226286 # Soot-Coated Orb
+        note: "{price:3|2787}" # Enchanting Knowledge
+
+  # Engineering
+
+  - type: "object"
+    id: 455998
+    name: "{item:226295}"
+    reset: "never"
+    trackingQuestId: 83869
+    locations:
+      here:
+        - "64.5 58.8" # THE_RINGING_DEEPS
+    requirements:
+      - "profession engineering tww 1"
+    contents:
+      - type: "item"
+        id: 226295 # Earthen Construct Blueprints
+        note: "{price:3|2788}" # Engineering Knowledge
+
+  - type: "object"
+    id: 455999
+    name: "{item:226294}"
+    reset: "never"
+    trackingQuestId: 83868
+    locations:
+      here:
+        - "42.6 27.3" # THE_RINGING_DEEPS
+    requirements:
+      - "profession engineering tww 1"
+    contents:
+      - type: "item"
+        id: 226294 # Inert Mining Bomb
+        note: "{price:3|2788}" # Engineering Knowledge
+
+  # Herbalism
+
+  - type: "object"
+    id: 455991
+    name: "{item:226302}"
+    reset: "never"
+    trackingQuestId: 83876
+    locations:
+      here:
+        - "48.2 35.0" # THE_RINGING_DEEPS
+    requirements:
+      - "profession herbalism tww 1"
+    contents:
+      - type: "item"
+        id: 226302 # Earthen Digging Fork
+        note: "{price:3|2789}" # Herbalism Knowledge
+
+  - type: "object"
+    id: 455990
+    name: "{item:226303}"
+    reset: "never"
+    trackingQuestId: 83877
+    locations:
+      here:
+        - "52.8 65.8" # THE_RINGING_DEEPS
+    requirements:
+      - "profession herbalism tww 1"
+    contents:
+      - type: "item"
+        id: 226303 # Fungarian Slicer's Knife
+        note: "{price:3|2789}" # Herbalism Knowledge
+
+  # Inscription
+  
+  - type: "object"
+    id: 455982
+    name: "{item:226311}"
+    reset: "never"
+    trackingQuestId: 83885
+    locations:
+      here:
+        - "62.4 58.0" # THE_RINGING_DEEPS
+    requirements:
+      - "profession inscription tww 1"
+    contents:
+      - type: "item"
+        id: 226311 # Blue Earthen Pigment
+        note: "{price:3|2790}" # Inscription Knowledge
+
+  - type: "object"
+    id: 455983
+    name: "{item:226310}"
+    reset: "never"
+    trackingQuestId: 83884
+    locations:
+      here:
+        - "48.5 34.3" # THE_RINGING_DEEPS
+    requirements:
+      - "profession inscription tww 1"
+    contents:
+      - type: "item"
+        id: 226310 # Runic Scroll
+        note: "{price:3|2790}" # Inscription Knowledge
+
+  # Jewelcrafting
+  
+  - type: "object"
+    id: 455975
+    name: "{item:226318}"
+    reset: "never"
+    trackingQuestId: 83892
+    locations:
+      here:
+        - "48.5 35.2" # THE_RINGING_DEEPS
+    requirements:
+      - "profession jewelcrafting tww 1"
+    contents:
+      - type: "item"
+        id: 226318 # Carved Stone File
+        note: "{price:3|2791}" # Jewelcrafting Knowledge
+
+  - type: "object"
+    id: 455974
+    name: "{item:226319}"
+    reset: "never"
+    trackingQuestId: 83893
+    locations:
+      here:
+        - "57.0 54.6" # THE_RINGING_DEEPS
+    requirements:
+      - "profession jewelcrafting tww 1"
+    contents:
+      - type: "item"
+        id: 226319 # Jeweler's Delicate Drill
+        note: "{price:3|2791}" # Jewelcrafting Knowledge
+
+  - type: "object"
+    id: 455972
+    name: "{item:226321}"
+    reset: "never"
+    trackingQuestId: 83895
+    locations:
+      here:
+        - "44.7 50.9" # THE_RINGING_DEEPS
+    requirements:
+      - "profession jewelcrafting tww 1"
+    contents:
+      - type: "item"
+        id: 226321 # Librarian's Magnifiers
+        note: "{price:3|2791}" # Jewelcrafting Knowledge
+
+  # Leatherworking
+
+  - type: "object"
+    id: 455968
+    name: "{item:226325}"
+    reset: "never"
+    trackingQuestId: 83899
+    locations:
+      here:
+        - "58.6 30.7" # THE_RINGING_DEEPS
+    requirements:
+      - "profession leatherworking tww 1"
+    contents:
+      - type: "item"
+        id: 226325 # Dornogal Craftsman's Flat Knife
+        note: "{price:3|2792}" # Leatherworking Knowledge
+
+  - type: "object"
+    id: 455966
+    name: "{item:226327}"
+    reset: "never"
+    trackingQuestId: 83901
+    locations:
+      here:
+        - "64.3 66.3" # THE_RINGING_DEEPS
+    requirements:
+      - "profession leatherworking tww 1"
+    contents:
+      - type: "item"
+        id: 226327 # Earthen Awl
+        note: "{price:3|2792}" # Leatherworking Knowledge
+
+  - type: "object"
+    id: 455967
+    name: "{item:226326}"
+    reset: "never"
+    trackingQuestId: 83900
+    locations:
+      here:
+        - "47.1 34.9" # THE_RINGING_DEEPS
+    requirements:
+      - "profession leatherworking tww 1"
+    contents:
+      - type: "item"
+        id: 226326 # Underground Stropping Compound
+        note: "{price:3|2792}" # Leatherworking Knowledge
+
+  # Mining
+
+  - type: "object"
+    id: 455959
+    name: "{item:226334}"
+    reset: "never"
+    trackingQuestId: 83908
+    locations:
+      here:
+        - "49.4 27.5" # THE_RINGING_DEEPS
+    requirements:
+      - "profession mining tww 1"
+    contents:
+      - type: "item"
+        id: 226334 # Earthen Excavator's Shovel
+        note: "{price:3|2793}" # Mining Knowledge
+
+  - type: "object"
+    id: 455958
+    name: "{item:226335}"
+    reset: "never"
+    trackingQuestId: 83909
+    locations:
+      here:
+        - "66.2 66.2" # THE_RINGING_DEEPS
+    requirements:
+      - "profession mining tww 1"
+    contents:
+      - type: "item"
+        id: 226335 # Regenerating Ore
+        note: "{price:3|2793}" # Mining Knowledge
+
+  # Skinning
+
+  - type: "object"
+    id: 455951
+    name: "{item:226342}"
+    reset: "never"
+    trackingQuestId: 83916
+    locations:
+      here:
+        - "47.3 28.3" # THE_RINGING_DEEPS
+    requirements:
+      - "profession skinning tww 1"
+    contents:
+      - type: "item"
+        id: 226342 # Artisan's Drawing Knife
+        note: "{price:3|2794}" # Skinning Knowledge
+
+  - type: "object"
+    id: 455950
+    name: "{item:226343}"
+    reset: "never"
+    trackingQuestId: 83917
+    locations:
+      here:
+        - "65.7 61.9" # THE_RINGING_DEEPS
+    requirements:
+      - "profession skinning tww 1"
+    contents:
+      - type: "item"
+        id: 226343 # Fungarian's Rich Tannin
+        note: "{price:3|2794}" # Skinning Knowledge
+
+  # Tailoring
+
+  - type: "object"
+    id: 455942
+    name: "{item:226351}"
+    reset: "never"
+    trackingQuestId: 83925
+    locations:
+      here:
+        - "64.2 60.2" # THE_RINGING_DEEPS
+    requirements:
+      - "profession tailoring tww 1"
+    contents:
+      - type: "item"
+        id: 226351 # Earthen Stitcher's Snips
+        note: "{price:3|2795}" # Tailoring Knowledge
+
+  - type: "object"
+    id: 455943
+    name: "{item:226350}"
+    reset: "never"
+    trackingQuestId: 83924
+    locations:
+      here:
+        - "48.8 32.8" # THE_RINGING_DEEPS
+    requirements:
+      - "profession tailoring tww 1"
+    contents:
+      - type: "item"
+        id: 226350 # Runed Earthen Pins
+        note: "{price:3|2795}" # Tailoring Knowledge

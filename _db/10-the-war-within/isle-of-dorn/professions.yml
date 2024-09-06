@@ -1,0 +1,176 @@
+requirements:
+
+tags:
+  - "treasure:profession"
+
+things:
+  
+  # Alchemy
+
+  - type: "object"
+    id: 456024
+    name: "{item:226266}"
+    reset: "never"
+    trackingQuestId: 83841
+    locations:
+      here:
+        - "57.7 61.8" # ISLE_OF_DORN
+    requirements:
+      - "profession alchemy tww 1"
+    contents:
+      - type: "item"
+        id: 226266 # Metal Dornogal Frame
+        note: "{price:3|2785}" # Alchemy Knowledge
+
+  # Blacksmithing
+
+  - type: "object"
+    id: 456017
+    name: "{item:226276}"
+    reset: "never"
+    trackingQuestId: 83848
+    locations:
+      here:
+        - "59.8 61.9" # ISLE_OF_DORN
+    requirements:
+      - "profession blacksmithing tww 1"
+    contents:
+      - type: "item"
+        id: 226276 # Ancient Earthen Anvil
+        note: "{price:3|2786}" # Blacksmithing Knowledge
+
+  # Enchanting
+
+  - type: "object"
+    id: 456009
+    name: "{item:226284}"
+    reset: "never"
+    trackingQuestId: 83856
+    locations:
+      here:
+        - "57.6 61.5" # ISLE_OF_DORN
+    requirements:
+      - "profession enchanting tww 1"
+    contents:
+      - type: "item"
+        id: 226284 # Grinded Earthen Gem
+        note: "{price:3|2787}" # Enchanting Knowledge
+
+  # Engineering
+
+  - type: "object"
+    id: 456001
+    name: "{item:226292}"
+    reset: "never"
+    trackingQuestId: 83866
+    locations:
+      here:
+        - "61.3 69.6" # ISLE_OF_DORN
+    requirements:
+      - "profession engineering tww 1"
+    contents:
+      - type: "item"
+        id: 226292 # Rock Engineer's Wrench
+        note: "{price:3|2788}" # Engineering Knowledge
+
+  # Herbalism
+
+  - type: "object"
+    id: 455993
+    name: "{item:226300}"
+    reset: "never"
+    trackingQuestId: 83874
+    locations:
+      here:
+        - "57.5 61.5" # ISLE_OF_DORN
+    requirements:
+      - "profession herbalism tww 1"
+    contents:
+      - type: "item"
+        id: 226300 # Ancient Flower
+        note: "{price:3|2789}" # Herbalism Knowledge
+
+  # Inscription
+  
+  - type: "object"
+    id: 455984
+    name: "{item:226309}"
+    reset: "never"
+    trackingQuestId: 83883
+    locations:
+      here:
+        - "55.9 60.0" # ISLE_OF_DORN
+    requirements:
+      - "profession inscription tww 1"
+    contents:
+      - type: "item"
+        id: 226309 # Historian's Dip Pen
+        note: "{price:3|2790}" # Inscription Knowledge
+
+  # Jewelcrafting
+  
+  - type: "object"
+    id: 455977
+    name: "{item:226316}"
+    reset: "never"
+    trackingQuestId: 83890
+    locations:
+      here:
+        - "63.5 66.8" # ISLE_OF_DORN
+    requirements:
+      - "profession jewelcrafting tww 1"
+    contents:
+      - type: "item"
+        id: 226316 # Gentle Jewel Hammer
+        note: "{price:3|2791}" # Jewelcrafting Knowledge
+
+  # Mining
+
+  - type: "object"
+    id: 455961
+    name: "{item:226332}"
+    reset: "never"
+    trackingQuestId: 83906
+    locations:
+      here:
+        - "58.2 62.0" # ISLE_OF_DORN
+    requirements:
+      - "profession mining tww 1"
+    contents:
+      - type: "item"
+        id: 226332 # Earthen Miner's Gavel
+        note: "{price:3|2793}" # Mining Knowledge
+
+  # Skinning
+
+  - type: "object"
+    id: 455952
+    name: "{item:226341}"
+    reset: "never"
+    trackingQuestId: 83915
+    locations:
+      here:
+        - "60.0 28.0" # ISLE_OF_DORN
+    requirements:
+      - "profession skinning tww 1"
+    contents:
+      - type: "item"
+        id: 226341 # Earthen Worker's Beams
+        note: "{price:3|2794}" # Skinning Knowledge
+
+  # Tailoring
+
+  - type: "object"
+    id: 455944
+    name: "{item:226349}"
+    reset: "never"
+    trackingQuestId: 83923
+    locations:
+      here:
+        - "56.2 61.0" # ISLE_OF_DORN
+    requirements:
+      - "profession tailoring tww 1"
+    contents:
+      - type: "item"
+        id: 226349 # Earthen Tape Measure
+        note: "{price:3|2795}" # Tailoring Knowledge

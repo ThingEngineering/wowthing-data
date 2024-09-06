@@ -1,0 +1,343 @@
+requirements:
+
+tags:
+  - "treasure:profession"
+
+things:
+  
+  # Alchemy
+
+  - type: "object"
+    id: 456021
+    name: "{item:226269}"
+    reset: "never"
+    trackingQuestId: 83844
+    locations:
+      here:
+        - "42.7 55.1" # HALLOWFALL
+    requirements:
+      - "profession alchemy tww 1"
+    contents:
+      - type: "item"
+        id: 226269 # Chemist's Purified Water
+        note: "{price:3|2785}" # Alchemy Knowledge
+
+  - type: "object"
+    id: 456020
+    name: "{item:226270}"
+    reset: "never"
+    trackingQuestId: 83845
+    locations:
+      here:
+        - "41.7 55.8" # HALLOWFALL
+    requirements:
+      - "profession alchemy tww 1"
+    contents:
+      - type: "item"
+        id: 226270 # Sanctified Mortar and Pestle
+        note: "{price:3|2785}" # Alchemy Knowledge
+
+  # Blacksmithing
+
+  - type: "object"
+    id: 456013
+    name: "{item:226280}"
+    reset: "never"
+    trackingQuestId: 83852
+    locations:
+      here:
+        - "47.6 61.0" # HALLOWFALL
+    requirements:
+      - "profession blacksmithing tww 1"
+    contents:
+      - type: "item"
+        id: 226280 # Holy Flame Forge
+        note: "{price:3|2786}" # Blacksmithing Knowledge
+
+  - type: "object"
+    id: 456012
+    name: "{item:226281}"
+    reset: "never"
+    trackingQuestId: 83853
+    locations:
+      here:
+        - "44.1 55.6" # HALLOWFALL
+    requirements:
+      - "profession blacksmithing tww 1"
+    contents:
+      - type: "item"
+        id: 226281 # Radiant Tongs
+        note: "{price:3|2786}" # Blacksmithing Knowledge
+
+  # Enchanting
+
+  - type: "object"
+    id: 456004
+    name: "{item:226289}"
+    reset: "never"
+    trackingQuestId: 83863
+    locations:
+      here:
+        - "48.6 64.5" # HALLOWFALL
+    requirements:
+      - "profession enchanting tww 1"
+    contents:
+      - type: "item"
+        id: 226289 # Enchanted Arathi Scroll
+        note: "{price:3|2787}" # Enchanting Knowledge
+
+  - type: "object"
+    id: 456005
+    name: "{item:226288}"
+    reset: "never"
+    trackingQuestId: 83862
+    locations:
+      here:
+        - "40.1 70.5" # HALLOWFALL
+    requirements:
+      - "profession enchanting tww 1"
+    contents:
+      - type: "item"
+        id: 226288 # Essence of Holy Fire
+        note: "{price:3|2787}" # Enchanting Knowledge
+
+  # Engineering
+
+  - type: "object"
+    id: 455996
+    name: "{item:226297}"
+    reset: "never"
+    trackingQuestId: 83871
+    locations:
+      here:
+        - "41.5 48.9" # HALLOWFALL
+    requirements:
+      - "profession engineering tww 1"
+    contents:
+      - type: "item"
+        id: 226297 # Arathi Safety Gloves
+        note: "{price:3|2788}" # Engineering Knowledge
+
+  - type: "object"
+    id: 455997
+    name: "{item:226296}"
+    reset: "never"
+    trackingQuestId: 83870
+    locations:
+      here:
+        - "46.3 61.3" # HALLOWFALL
+    requirements:
+      - "profession engineering tww 1"
+    contents:
+      - type: "item"
+        id: 226296 # Holy Firework Dud
+        note: "{price:3|2788}" # Engineering Knowledge
+
+  # Herbalism
+
+  - type: "object"
+    id: 455989
+    name: "{item:226304}"
+    reset: "never"
+    trackingQuestId: 83878
+    locations:
+      here:
+        - "47.7 63.3" # HALLOWFALL
+    requirements:
+      - "profession herbalism tww 1"
+    contents:
+      - type: "item"
+        id: 226304 # Arathi Garden Trowel
+        note: "{price:3|2789}" # Herbalism Knowledge
+
+  - type: "object"
+    id: 455988
+    name: "{item:226305}"
+    reset: "never"
+    trackingQuestId: 83879
+    locations:
+      here:
+        - "36.0 55.0" # HALLOWFALL
+    requirements:
+      - "profession herbalism tww 1"
+    contents:
+      - type: "item"
+        id: 226305 # Arathi Herb Pruner
+        note: "{price:3|2789}" # Herbalism Knowledge
+
+  # Inscription
+  
+  - type: "object"
+    id: 455980
+    name: "{item:226313}"
+    reset: "never"
+    trackingQuestId: 83887
+    locations:
+      here:
+        - "42.8 49.0" # HALLOWFALL
+    requirements:
+      - "profession inscription tww 1"
+    contents:
+      - type: "item"
+        id: 226313 # Calligrapher's Chiseled Marker
+        note: "{price:3|2790}" # Inscription Knowledge
+
+  - type: "object"
+    id: 455981
+    name: "{item:226312}"
+    reset: "never"
+    trackingQuestId: 83886
+    locations:
+      here:
+        - "43.2 58.9" # HALLOWFALL
+    requirements:
+      - "profession inscription tww 1"
+    contents:
+      - type: "item"
+        id: 226312 # Informant's Fountain Pen
+        note: "{price:3|2790}" # Inscription Knowledge
+
+  # Jewelcrafting
+  
+  - type: "object"
+    id: 455973
+    name: "{item:226320}"
+    reset: "never"
+    trackingQuestId: 83894
+    locations:
+      here:
+        - "47.3 60.6" # HALLOWFALL
+    requirements:
+      - "profession jewelcrafting tww 1"
+    contents:
+      - type: "item"
+        id: 226320 # Arathi Sizing Gauges
+        note: "{price:3|2791}" # Jewelcrafting Knowledge
+
+  # Leatherworking
+
+  - type: "object"
+    id: 455965
+    name: "{item:226328}"
+    reset: "never"
+    trackingQuestId: 83902
+    locations:
+      here:
+        - "47.5 65.1" # HALLOWFALL
+    requirements:
+      - "profession leatherworking tww 1"
+    contents:
+      - type: "item"
+        id: 226328 # Arathi Beveler Set
+        note: "{price:3|2792}" # Leatherworking Knowledge
+
+  - type: "object"
+    id: 455964
+    name: "{item:226329}"
+    reset: "never"
+    trackingQuestId: 83903
+    locations:
+      here:
+        - "41.5 57.8" # HALLOWFALL
+    requirements:
+      - "profession leatherworking tww 1"
+    contents:
+      - type: "item"
+        id: 226329 # Arathi Leather Burnisher
+        note: "{price:3|2792}" # Leatherworking Knowledge
+
+  # Mining
+
+  - type: "object"
+    id: 455957
+    name: "{item:226336}"
+    reset: "never"
+    trackingQuestId: 83910
+    locations:
+      here:
+        - "46.1 64.4" # HALLOWFALL
+    requirements:
+      - "profession mining tww 1"
+    contents:
+      - type: "item"
+        id: 226336 # Arathi Precision Drill
+        note: "{price:3|2793}" # Mining Knowledge
+
+  - type: "object"
+    id: 455956
+    name: "{item:226337}"
+    reset: "never"
+    trackingQuestId: 83911
+    locations:
+      here:
+        - "43.1 56.8" # HALLOWFALL
+    requirements:
+      - "profession mining tww 1"
+    contents:
+      - type: "item"
+        id: 226337 # Devout Archaeologist's Excavator
+        note: "{price:3|2793}" # Mining Knowledge
+
+  # Skinning
+
+  - type: "object"
+    id: 455948
+    name: "{item:226345}"
+    reset: "never"
+    trackingQuestId: 83919
+    locations:
+      here:
+        - "42.2 53.9" # HALLOWFALL
+    requirements:
+      - "profession skinning tww 1"
+    contents:
+      - type: "item"
+        id: 226345 # Arathi Craftsman's Spokeshave
+        note: "{price:3|2794}" # Skinning Knowledge
+
+  - type: "object"
+    id: 455949
+    name: "{item:226344}"
+    reset: "never"
+    trackingQuestId: 83918
+    locations:
+      here:
+        - "49.3 62.1" # HALLOWFALL
+    requirements:
+      - "profession skinning tww 1"
+    contents:
+      - type: "item"
+        id: 226344 # Arathi Tanning Agent
+        note: "{price:3|2794}" # Skinning Knowledge
+
+  # Tailoring
+
+  - type: "object"
+    id: 455941
+    name: "{item:226352}"
+    reset: "never"
+    trackingQuestId: 83926
+    locations:
+      here:
+        - "49.2 62.3" # HALLOWFALL
+    requirements:
+      - "profession tailoring tww 1"
+    contents:
+      - type: "item"
+        id: 226352 # Arathi Rotary Cutter
+        note: "{price:3|2795}" # Tailoring Knowledge
+
+  - type: "object"
+    id: 455940
+    name: "{item:226353}"
+    reset: "never"
+    trackingQuestId: 83927
+    locations:
+      here:
+        - "40.1 68.1" # HALLOWFALL
+    requirements:
+      - "profession tailoring tww 1"
+    contents:
+      - type: "item"
+        id: 226353 # Royal Outfitter's Protractor
+        note: "{price:3|2795}" # Tailoring Knowledge

@@ -1,0 +1,193 @@
+requirements:
+
+tags:
+  - "treasure:profession"
+
+things:
+  
+  # Alchemy
+
+  - type: "object"
+    id: 456025
+    name: "{item:226265}"
+    reset: "never"
+    trackingQuestId: 83840
+    locations:
+      here:
+        - "30.6 70.4" # DORNOGAL
+    requirements:
+      - "profession alchemy tww 1"
+    contents:
+      - type: "item"
+        id: 226265 # Earthen Iron Powder
+        note: "{price:3|2785}" # Alchemy Knowledge
+
+  # Blacksmithing
+
+  - type: "object"
+    id: 456016
+    name: "{item:226277}"
+    reset: "never"
+    trackingQuestId: 83849
+    locations:
+      here:
+        - "47.7 26.5" # DORNOGAL
+    requirements:
+      - "profession blacksmithing tww 1"
+    contents:
+      - type: "item"
+        id: 226277 # Dornogal Hammer
+        note: "{price:3|2786}" # Blacksmithing Knowledge
+
+  # Enchanting
+
+  - type: "object"
+    id: 456008
+    name: "{item:226285}"
+    reset: "never"
+    trackingQuestId: 83859
+    locations:
+      here:
+        - "58.0 56.9" # DORNOGAL
+    requirements:
+      - "profession enchanting tww 1"
+    contents:
+      - type: "item"
+        id: 226285 # Silver Dornogal Rod
+        note: "{price:3|2787}" # Enchanting Knowledge
+
+  # Engineering
+
+  - type: "object"
+    id: 456000
+    name: "{item:226293}"
+    reset: "never"
+    trackingQuestId: 83867
+    locations:
+      here:
+        - "64.7 52.7" # DORNOGAL
+    requirements:
+      - "profession engineering tww 1"
+    contents:
+      - type: "item"
+        id: 226293 # Dornogal Spectacles
+        note: "{price:3|2788}" # Engineering Knowledge
+
+  # Herbalism
+
+  - type: "object"
+    id: 455992
+    name: "{item:226301}"
+    reset: "never"
+    trackingQuestId: 83875
+    locations:
+      here:
+        - "59.2 23.5" # DORNOGAL
+    requirements:
+      - "profession herbalism tww 1"
+    contents:
+      - type: "item"
+        id: 226301 # Dornogal Gardening Scythe
+        note: "{price:3|2789}" # Herbalism Knowledge
+
+  # Inscription
+  
+  - type: "object"
+    id: 455985
+    name: "{item:226308}"
+    reset: "never"
+    trackingQuestId: 83882
+    locations:
+      here:
+        - "57.1 46.98" # DORNOGAL
+    requirements:
+      - "profession inscription tww 1"
+    contents:
+      - type: "item"
+        id: 226308 # Dornogal Scribe's Quill
+        note: "{price:3|2790}" # Inscription Knowledge
+
+  # Jewelcrafting
+  
+  - type: "object"
+    id: 455976
+    name: "{item:226317}"
+    reset: "never"
+    trackingQuestId: 83891
+    locations:
+      here:
+        - "34.9 52.3" # DORNOGAL
+    requirements:
+      - "profession jewelcrafting tww 1"
+    contents:
+      - type: "item"
+        id: 226317 # Earthen Gem Pliers
+        note: "{price:3|2791}" # Jewelcrafting Knowledge
+
+  # Leatherworking
+
+  - type: "object"
+    id: 455969
+    name: "{item:226324}"
+    reset: "never"
+    trackingQuestId: 83898
+    locations:
+      here:
+        - "68.2 23.3" # DORNOGAL
+    requirements:
+      - "profession leatherworking tww 1"
+    contents:
+      - type: "item"
+        id: 226324 # Earthen Lacing Tools
+        note: "{price:3|2792}" # Leatherworking Knowledge
+
+  # Mining
+
+  - type: "object"
+    id: 455960
+    name: "{item:226333}"
+    reset: "never"
+    trackingQuestId: 83907
+    locations:
+      here:
+        - "36.6 79.3" # DORNOGAL
+    requirements:
+      - "profession mining tww 1"
+    contents:
+      - type: "item"
+        id: 226333 # Dornogal Chisel
+        note: "{price:3|2793}" # Mining Knowledge
+
+  # Skinning
+
+  - type: "object"
+    id: 455953
+    name: "{item:226340}"
+    reset: "never"
+    trackingQuestId: 83914
+    locations:
+      here:
+        - "28.7 51.7" # DORNOGAL
+    requirements:
+      - "profession skinning tww 1"
+    contents:
+      - type: "item"
+        id: 226340 # Dornogal Carving Knife
+        note: "{price:3|2794}" # Skinning Knowledge
+
+  # Tailoring
+
+  - type: "object"
+    id: 455945
+    name: "{item:226348}"
+    reset: "never"
+    trackingQuestId: 83922
+    locations:
+      here:
+        - "61.4 18.6" # DORNOGAL
+    requirements:
+      - "profession tailoring tww 1"
+    contents:
+      - type: "item"
+        id: 226348 # Dornogal Seam Ripper
+        note: "{price:3|2795}" # Tailoring Knowledge
