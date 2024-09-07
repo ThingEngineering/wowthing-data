@@ -1,0 +1,116 @@
+name: "Isle of Dorn"
+groups:
+
+- name: "Dornogal Drift"
+  icon: "achievement/20118"
+  iconText: "IoD1"
+  lookup: none
+  type: dragon-racing
+  data:
+    0:
+      - id: 2923
+        name: "Normal"
+        description: "53 48"
+
+      - id: 2929
+        name: "Advanced"
+        description: "46 43"
+
+      - id: 2935
+        name: "Reverse"
+        description: "46 43"
+
+- name: "Storm's Watch Survey"
+  icon: "achievement/20118"
+  iconText: "IoD2"
+  lookup: none
+  type: dragon-racing
+  data:
+    0:
+      - id: 2924
+        name: "Normal"
+        description: "68 63"
+
+      - id: 2930
+        name: "Advanced"
+        description: "63 60"
+
+      - id: 2936
+        name: "Reverse"
+        description: "65 62"
+
+- name: "Basin Bypass"
+  icon: "achievement/20118"
+  iconText: "IoD3"
+  lookup: none
+  type: dragon-racing
+  data:
+    0:
+      - id: 2925
+        name: "Normal"
+        description: "63 58"
+
+      - id: 2931
+        name: "Advanced"
+        description: "57 54"
+
+      - id: 2937
+        name: "Reverse"
+        description: "60 57"
+
+- name: "The Wold Ways"
+  icon: "achievement/20118"
+  iconText: "IoD4"
+  lookup: none
+  type: dragon-racing
+  data:
+    0:
+      - id: 2926
+        name: "Normal"
+        description: "73 68"
+
+      - id: 2932
+        name: "Advanced"
+        description: "71 68"
+
+      - id: 2938
+        name: "Reverse"
+        description: "73 70"
+
+- name: "Thunderhead Trail"
+  icon: "achievement/20118"
+  iconText: "IoD5"
+  lookup: none
+  type: dragon-racing
+  data:
+    0:
+      - id: 2927
+        name: "Normal"
+        description: "75 70"
+
+      - id: 2933
+        name: "Advanced"
+        description: "69 66"
+
+      - id: 2939
+        name: "Reverse"
+        description: "69 66"
+
+- name: "Orecreg's Doglegs"
+  icon: "achievement/20118"
+  iconText: "IoD6"
+  lookup: none
+  type: dragon-racing
+  data:
+    0:
+      - id: 2928
+        name: "Normal"
+        description: "70 65"
+
+      - id: 2934
+        name: "Advanced"
+        description: "64 61"
+
+      - id: 2940
+        name: "Reverse"
+        description: "64 61"
