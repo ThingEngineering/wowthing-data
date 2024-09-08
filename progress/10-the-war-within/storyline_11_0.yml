@@ -1,0 +1,55 @@
+name: "11.0 Storyline"
+groups:
+
+- name: "Intro"
+  icon: "achievement/9640" # Khadgar's head
+  lookup: none
+  type: campaign
+  data:
+    0:
+      - id: 235
+
+- name: "Isle of Dorn"
+  icon: "achievement/20118"
+  iconText: "IoD"
+  lookup: none
+  type: campaign
+  data:
+    0:
+      - id: 236
+
+- name: "The Ringing Deeps"
+  icon: "achievement/19560"
+  iconText: "RD"
+  lookup: none
+  type: campaign
+  data:
+    0:
+      - id: 237
+
+- name: "Hallowfall"
+  icon: "achievement/20598"
+  iconText: "Hal"
+  lookup: none
+  type: campaign
+  data:
+    0:
+      - id: 238
+
+- name: "Azj-Kahet"
+  icon: "achievement/19559"
+  iconText: "AK"
+  lookup: none
+  type: campaign
+  data:
+    0:
+      - id: 239
+
+- name: "The War Within"
+  icon: "achievement/20597"
+  iconText: "TWW"
+  lookup: none
+  type: campaign
+  data:
+    0:
+      - id: 240

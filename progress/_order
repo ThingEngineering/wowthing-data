@@ -1,3 +1,5 @@
+10-the-war-within/_.yml
+    10-the-war-within/storyline_11_0.yml
 
 09-dragonflight/_.yml
     09-dragonflight/intro.yml
@@ -19,7 +21,7 @@
     08-shadowlands/raid_skips.yml
 
 07-battle-for-azeroth/_.yml
-    07-battle-for-azeroth/bases.yml
+    07-battle-for-azeroth/war_campaign.yml
     07-battle-for-azeroth/patch_8_2.yml
     07-battle-for-azeroth/patch_8_3.yml
     07-battle-for-azeroth/travel.yml
