@@ -29,7 +29,7 @@ things:
     trackingQuestId: 83846
     locations:
       here:
-        - "45.4 13.2" # CoT? need an AK coord
+        - "47.2 69.7"
     requirements:
       - "profession alchemy tww 1"
     contents:
@@ -78,7 +78,7 @@ things:
     trackingQuestId: 83864
     locations:
       here:
-        - "61.7 22.0" # CoT?
+        - "52.8 72.8"
     requirements:
       - "profession enchanting tww 1"
     contents:
@@ -142,7 +142,7 @@ things:
     trackingQuestId: 83881
     locations:
       here:
-        - "46.8 16.1" # NERUBAR
+        - "47.6 70.7"
     requirements:
       - "profession herbalism tww 1"
     contents:
@@ -157,7 +157,7 @@ things:
     trackingQuestId: 83880
     locations:
       here:
-        - "54.6 20.9" # NERUBAR
+        - "50.4 72.3"
     requirements:
       - "profession herbalism tww 1"
     contents:
@@ -270,7 +270,7 @@ things:
     trackingQuestId: 83912
     locations:
       here:
-        - "46.8 21.7" # NERUBAR
+        - "47.7 72.6"
     requirements:
       - "profession mining tww 1"
     contents:
@@ -285,7 +285,7 @@ things:
     trackingQuestId: 83913
     locations:
       here:
-        - "48.0 40.6" # NERUBAR_LOWER
+        - "48.1 79.1"
     requirements:
       - "profession mining tww 1"
     contents:
