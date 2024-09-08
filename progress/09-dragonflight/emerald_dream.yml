@@ -69,6 +69,191 @@ groups:
       - name: "A Multi-Front Battle"
         id: 77283
 
+- name: "Druids of the Flame"
+  icon: "achievement/19026"
+  iconText: "ED3"
+  lookup: none
+  type: quest
+  data:
+    0:
+      - name: "Call of the Dream"
+        id: 77436
+
+      - name: "Ashen Soil"
+        id: 76433
+
+      - name: "Not Yet Lost"
+        id: 76434
+
+      - name: "The Smoldering Copse"
+        id: 76435
+
+      - name: "Burning Ground"
+        id: 76437
+
+      - name: "Grim Reprisal"
+        id: 76441
+
+      - name: "Forlorn Hope"
+        id: 76442
+
+      - name: "The Looming Cinder"
+        id: 76443
+
+- name: "Ice and Fire"
+  icon: "achievement/19026"
+  iconText: "ED4"
+  lookup: none
+  type: quest
+  data:
+    0:
+      - name: ""
+        id: 
+
+      - name: ""
+        id: 
+
+      - name: ""
+        id: 
+
+      - name: ""
+        id: 
+
+      - name: ""
+        id: 
+
+      - name: ""
+        id: 
+
+      - name: ""
+        id: 
+
+      - name: ""
+        id: 
+
+      - name: ""
+        id: 
+
+- name: "Eye of Ysera"
+  icon: "achievement/19026"
+  iconText: "ED5"
+  lookup: none
+  type: quest
+  data:
+    0:
+
+      - name: ""
+        id: 
+
+      - name: ""
+        id: 
+
+      - name: ""
+        id: 
+
+      - name: ""
+        id: 
+
+      - name: ""
+        id: 
+
+      - name: ""
+        id: 
+
+      - name: ""
+        id: 
+
+      - name: ""
+        id: 
+
+      - name: ""
+        id: 
+
+      - name: ""
+        id: 
+
+      - name: ""
+        id: 
+
+      - name: ""
+        id: 
+
+- name: "A Dream of Fields and Fire"
+  icon: "achievement/19026"
+  iconText: "ED6"
+  lookup: none
+  type: quest
+  data:
+    0:
+
+      - name: ""
+        id: 
+
+      - name: ""
+        id: 
+
+      - name: ""
+        id: 
+
+      - name: ""
+        id: 
+
+      - name: ""
+        id: 
+
+      - name: ""
+        id: 
+
+      - name: ""
+        id: 
+
+      - name: ""
+        id: 
+
+      - name: ""
+        id: 
+
+      - name: ""
+        id: 
+
+- name: "New Beginnings"
+  icon: "achievement/19026"
+  iconText: "ED7"
+  lookup: none
+  type: quest
+  data:
+    0:
+
+      - name: ""
+        id: 
+
+      - name: ""
+        id: 
+
+      - name: ""
+        id: 
+
+      - name: ""
+        id: 
+
+      - name: ""
+        id: 
+
+      - name: ""
+        id: 
+
+      - name: ""
+        id: 
+
+      - name: ""
+        id: 
+
+      - name: ""
+        id: 
+
+      - name: ""
+        id: 
+
 - name: separator
 
 - name: "Side Quests"

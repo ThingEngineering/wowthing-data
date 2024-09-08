@@ -1,0 +1,305 @@
+name: "War Campaign"
+groups:
+
+- name: "Intro"
+  icon: "achievement/12510" # Ready for War
+  iconText: "Intro"
+  lookup: faction
+  type: quest
+  data:
+    alliance:
+      - id: 52654
+        name: "The War Campaign"
+      
+      - id: 52544
+        name: "The War Cache"
+      
+      - id: 53332
+        name: "Time for War"
+      
+      - id: 51714
+        name: "Mission from the King"
+      
+      - id: 51715
+        name: "War of Shadows"
+      
+      - id: 53074
+        name: "Reinforcements"
+
+    horde:
+      - id: 52749
+        name: "The War Campaign"
+      
+      - id: 52746
+        name: "The War Cache"
+      
+      - id: 53333
+        name: "Time for War"
+      
+      - id: 51770
+        name: "Mission from the Warchief"
+      
+      - id: 51771
+        name: "War of Shadows"
+      
+      - id: 53079
+        name: "Reinforcements"
+
+- name: "Footholds"
+  icon: achievement/13553 # The Mechagonian Threat
+  iconText: "Foot"
+  lookup: faction
+  type: quest
+  data:
+    alliance:
+      - name: "Nazmir"
+        id: 51967
+      
+      - name: "Vol'dun"
+        id: 51969
+      
+      - name: "Zuldazar"
+        id: 51968
+
+      - name: separator
+
+      - id: 51918
+        name: "Uniting Kul Tiras"
+        description: "Friendly with the 3 main factions"
+
+    horde:
+      - name: "Drustvar"
+        id: 51985
+      
+      - name: "Stormsong Valley"
+        id: 51986
+      
+      - name: "Tiragarde Sound"
+        id: 51984
+
+- name: "Blood on the Sand|The First Assault"
+  icon: "achievement/12510 achievement/12509" # Ready for War A/H
+  iconText: "8.0 A"
+  lookup: faction
+  type: quest
+  data:
+    alliance:
+      - id: 52027
+        name: "The Vol'dun Plan"
+      
+      - id: 52028
+        name: "Comb the Desert"
+      
+      - id: 52029
+        name: "Dirty Work"
+      
+      - id: 52031
+        name: "Classic Reliquary"
+      
+      - id: 52032
+        name: "Never Stop Combing"
+      
+      - id: 52034
+        name: "A Message to the Zandalari"
+      
+      - id: 52035
+        name: "Improvised Survival"
+      
+      - id: 52036
+        name: "They Have Alpacas Here"
+      
+      - id: 52039
+        name: "Delayed Deathification"
+      
+      - id: 52040
+        name: "Full of Arrows"
+      
+      - id: 52042
+        name: "The Big Boom"
+
+    horde:
+      - id: 51589
+        name: "Breaking Kul Tiran Will"
+      
+      - id: 51590
+        name: "Into the Heart of Tiragarde"
+      
+      - id: 51591
+        name: "Our Mountain Now"
+      
+      - id: 51592
+        name: "Making Ourselves at Home"
+      
+      - id: 51593
+        name: "Bridgeport Investigation"
+      
+      - id: 51594
+        name: "Explosives in the Foundry"
+      
+      - id: 51595
+        name: "Explosivity"
+      
+      - id: 51596
+        name: "Ammunition Acquisition"
+      
+      - id: 51597
+        name: "Gunpowder Research"
+      
+      - id: 51598
+        name: "A Bit of Chaos"
+      
+      - id: 51599
+        name: "Death Trap"
+      
+      - id: 51601
+        name: "The Bridgeport Ride"
+
+- name: "Chasing Darkness|The Marshal's Grave"
+  icon: "achievement/12510 achievement/12509" # Ready for War A/H
+  iconText: "8.0 B"
+  lookup: faction
+  type: quest
+  data:
+    alliance:
+      - id: 52027
+        name: "The Vol'dun Plan"
+      
+    horde:
+      - id: 51589
+        name: "Breaking Kul Tiran Will"
+
+- name: "A Golden Opportunity|Death of a Tidesage"
+  icon: "achievement/12510 achievement/12509" # Ready for War A/H
+  iconText: "8.0 C"
+  lookup: faction
+  type: quest
+  data:
+    alliance:
+      - id: 52027
+        name: "The Vol'dun Plan"
+      
+    horde:
+      - id: 51589
+        name: "Breaking Kul Tiran Will"
+
+- name: "Blood in the Water|At the Bottom of the Sea"
+  icon: "achievement/12510 achievement/12509" # Ready for War A/H
+  iconText: "8.0 D"
+  lookup: faction
+  type: quest
+  data:
+    alliance:
+      - id: 52027
+        name: "The Vol'dun Plan"
+      
+    horde:
+      - id: 51589
+        name: "Breaking Kul Tiran Will"
+
+- name: "The Strike on Zuldazar|The Strike on Boralus"
+  icon: "achievement/12510 achievement/12509" # Ready for War A/H
+  iconText: "8.0 E"
+  lookup: faction
+  type: quest
+  data:
+    alliance:
+      - id: 52027
+        name: "The Vol'dun Plan"
+      
+    horde:
+      - id: 51589
+        name: "Breaking Kul Tiran Will"
+      
+- name: separator
+
+- name: "Scouting Reports"
+  icon: "item/162975 item/161121"
+  iconText: "Scout"
+  lookup: faction
+  type: quest
+  data:
+    alliance:
+      - name: "Grimwatt's Crash"
+        id: 53007
+        description: "{repPrice:2159|2|50|1560}"
+      
+      - name: "Veiled Grotto"
+        id: 52802
+        description: "{repPrice:2159|2|50|1560}"
+      
+      - name: "Mistvine Ledge"
+        id: 52963
+        description: "{repPrice:2159|3|100|1560}"
+      
+      - name: "Mugamba Overlook"
+        id: 52852
+        description: "{repPrice:2159|3|100|1560}"
+      
+      - name: "Verdant Hollow"
+        id: 52888
+        description: "{repPrice:2159|3|100|1560}"
+      
+      - name: "Vulture's Nest"
+        id: 53044
+        description: "{repPrice:2159|3|100|1560}"
+
+    horde:
+      - name: "Swiftwind Post"
+        id: 52276
+        description: "{repPrice:2157|2|50|1560}"
+
+      - name: "Wolf's Den"
+        id: 52127
+        description: "{repPrice:2157|2|50|1560}"
+      
+      - name: "Hillcrest Pasture"
+        id: 52479
+        description: "{repPrice:2157|3|100|1560}"
+
+      - name: "Mudfisher Cove"
+        id: 52314
+        description: "{repPrice:2157|3|100|1560}"
+      
+      - name: "Stonefist Watch"
+        id: 52222
+        description: "{repPrice:2157|3|100|1560}"
+      
+      - name: "Stonetusk Watch"
+        id: 52777
+        description: "{repPrice:2157|3|100|1560}"
+      
+      - name: "Windfall Cavern"
+        id: 52320
+        description: "{repPrice:2157|3|100|1560}"
+
+- name: "Upgrades"
+  icon: "item/165728"
+  iconText: "Up"
+  lookup: faction
+  type: quest
+  data:
+    alliance:
+      - name: "Arom's Stand"
+        id: 54307
+        description: "{repPrice:2159|4|500|1560}"
+      
+      - name: "Brennadam"
+        id: 54263
+        description: "{repPrice:2159|4|500|1560}"
+      
+      - name: "Castaway Point"
+        id: 54288
+        description: "{repPrice:2159|4|500|1560}"
+
+    horde:
+      - name: "The Great Seal"
+        id: 54231
+        description: "{repPrice:2157|4|500|1560}"
+
+      - name: "Vulpera Hideaway"
+        id: 54260
+        description: "{repPrice:2157|4|500|1560}"
+        
+      - name: "Zul'jan Ruins"
+        id: 54240
+        description: "{repPrice:2157|4|500|1560}"
