@@ -2,3 +2,8 @@ name: "Isle of Dorn"
 mapName: "10-the-war-within/isle_of_dorn"
 minimumLevel: 70
 farms:
+
+- name: "idk"
+  groupId: 1
+  location: 57 64
+  type: group
