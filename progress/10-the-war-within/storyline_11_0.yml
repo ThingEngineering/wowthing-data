@@ -49,6 +49,7 @@ groups:
   icon: "achievement/20597"
   iconText: "TWW"
   lookup: none
+  minimumLevel: 80
   type: campaign
   data:
     0:

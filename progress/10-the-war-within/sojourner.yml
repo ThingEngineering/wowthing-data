@@ -1,0 +1,38 @@
+name: "Zone Sojourner"
+groups:
+
+- name: "Isle of Dorn"
+  icon: "achievement/20595"
+  iconText: "IoD"
+  lookup: none
+  type: questline
+  data:
+    0:
+      - id: 236
+
+- name: "The Ringing Deeps"
+  icon: "achievement/40799"
+  iconText: "RD"
+  lookup: none
+  type: questline
+  data:
+    0:
+      - id: 237
+
+- name: "Hallowfall"
+  icon: "achievement/40844"
+  iconText: "Hal"
+  lookup: none
+  type: questline
+  data:
+    0:
+      - id: 238
+
+- name: "Azj-Kahet"
+  icon: "achievement/40636"
+  iconText: "AK"
+  lookup: none
+  type: questline
+  data:
+    0:
+      - id: 239

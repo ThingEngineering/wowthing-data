@@ -1,0 +1,14 @@
+name: "Seasonal"
+groups:
+
+- name: "Season 1"
+  icon: "achievement/40732"
+  iconText: "S1"
+  lookup: none
+  minimumLevel: 80
+  type: quest
+  data:
+    0:
+      - id: 81595 # Seasonal Start
+      - id: 81596 # Delve Hunter
+      - id: 83500 # Zekvir, Hand of the Harbinger
