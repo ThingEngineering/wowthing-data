@@ -1,4 +1,4 @@
-requirements:
+# yaml-language-server: $schema=../../../_schema/db.json
 
 tags:
   - "treasure:profession"

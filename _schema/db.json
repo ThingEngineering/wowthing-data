@@ -1,0 +1,34 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "$id": "https://wowthing.org/db.schema.json",
+    "title": "DB entry",
+    "description": "idk",
+    "type": "object",
+    "properties": {
+        "requirements": {
+            "description": "Requirements for every Thing in this file",
+            "type": "array",
+            "items": {
+                "type": "string"
+            },
+            "minItems": 1
+        },
+        "tags": {
+            "description": "Tags for every Thing in this file",
+            "type": "array",
+            "items": {
+                "type": "string"
+            },
+            "minItems": 1
+        },
+        "things": {
+            "description": "Things",
+            "type": "array",
+            "items": {
+                "type": "object"
+            },
+            "minItems": 1
+        }
+    },
+    "required": ["things"]
+}
