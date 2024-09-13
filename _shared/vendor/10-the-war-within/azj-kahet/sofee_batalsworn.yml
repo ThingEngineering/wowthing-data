@@ -8,12 +8,10 @@ locations:
 
 sells:
 
-  # 0
-
-  - type: item
-    id: 226509 # General's Insight
+  - type: item # toy
+    id: 226519 # General's Expertise
     costs:
-      3056: 50
+      3056: 1100
 
   - type: item
     id: 224432 # Pattern: Excavator's Haversack
@@ -34,31 +32,11 @@ sells:
       1210814: 150
 
   - type: item
-    id: 226202 # Echoing Flux
-    costs:
-      3056: 144
-
-  - type: item
     id: 224055 # A Rocky Start
     costs:
       3056: 565
 
   - type: item
-    id: 226519 # General's Expertise
-    costs:
-      3056: 1100
-
-  - type: item
     id: 224038 # Smithing After Saronite
     costs:
       3056: 565
-
-  - type: item
-    id: 5956 # Blacksmith Hammer
-    costs:
-      3056: 19
-
-  - type: item
-    id: 2901 # Mining Pick
-    costs:
-      3056: 27
