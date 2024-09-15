@@ -1,6 +1,18 @@
 name: "Seasonal"
 groups:
 
+- name: "Upgrade Tutorial"
+  icon: "item/221269"
+  iconText: "Up"
+  lookup: none
+  minimumLevel: 80
+  type: quest
+  data:
+    0:
+      - id: 82042
+      - id: 82050
+      - id: 82059
+
 - name: "Season 1"
   icon: "achievement/40732"
   iconText: "S1"
