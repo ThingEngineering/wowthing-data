@@ -54,3 +54,62 @@ groups:
   data:
     0:
       - id: 240
+
+- name: separator
+
+- name: "Delves"
+  icon: "achievement/40631" # War Within Delves: Tier 1
+  iconText: "Delve"
+  lookup: none
+  minimumLevel: 70
+  type: quest
+  data:
+    0:
+      # Isle of Dorn
+      - id: 85648
+        name: "Delver's Call: Earthcrawl Mines"
+
+      - id: 83758
+        name: "Delver's Call: Fungal Folly"
+
+      - id: 83759
+        name: "Delver's Call: Kriegval's Rest"
+
+      - name: separator
+
+      # Ringing Deeps
+      - id: 83766
+        name: "Delver's Call: Dread Pit"
+
+      - id: 85649
+        name: "Delver's Call: The Waterworks"
+
+      - name: separator
+
+      # Hallowfall
+      - id: 83769
+        name: "Delver's Call: Mycomancer Cavern"
+      - id: 85664
+        name: "Delver's Call: Nightfall Sanctum"
+
+      - id: 83767
+        name: "Delver's Call: The Sinkhole"
+
+      - id: 83768
+        name: "Delver's Call: The Skittering Breach"
+
+      - name: separator
+
+      # Azj-Kahet
+      - id: 83770
+        name: "Delver's Call: Spiral Weave"
+
+      # - id: 85666
+      #   name: "Delver's Call: Spiral Weave ??"
+
+      - id: 83771
+        name: "Delver's Call: Tak-Rethan Abyss"
+
+      - id: 85667
+        name: "Delver's Call: The Underkeep"
+
