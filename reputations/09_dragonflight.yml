@@ -2,33 +2,16 @@ name: "Dragonflight"
 minimumLevel: 60
 reputations:
 
-# 10.2.5
 -
-  - both:
-      id: 2615 # Azerothian Archives
-      icon: "achievement/19685" # Tenured Archivist
-
-# 10.2
--
+  # 10.2
   - both:
       id: 2574 # Dream Wardens
       icon: "achievement/19235" # Warden of the Dream
 
-# 10.1.5
--
-  - both:
-      id: 2553 # Soridormi
-      icon: "achievement/18615" # Legend of the Multiverse
-
-# 10.1
--
+  # 10.1
   - both:
       id: 2564 # Loamm Niffen
       icon: "achievement/17763" # There's No Place Like Loamm
-  
-  - both:
-      id: 2568 # Glimmerogg Racer
-      icon: "item/205155" # Big Slick in the City
 
 # 10.0
 -
@@ -50,6 +33,16 @@ reputations:
 
 # 10.0 Friends
 -
+  # 10.2.5
+  - both:
+      id: 2615 # Azerothian Archives
+      icon: "achievement/19685" # Tenured Archivist
+
+  # 10.1.5
+  - both:
+      id: 2553 # Soridormi
+      icon: "achievement/18615" # Legend of the Multiverse
+
   - both:
       id: 2544 # Artisan's Consortium
       icon: "item/198802" # Artisan's Constorium Tabard
@@ -65,6 +58,12 @@ reputations:
   - both:
       id: 2517 # Wrathion
       icon: "achievement/8030" # A Test of Valor
+
+# Per character
+-  
+  - both:
+      id: 2568 # Glimmerogg Racer
+      icon: "item/205155" # Big Slick in the City
 
   - both:
       id: 2526 # Winterpelt Furbolg
