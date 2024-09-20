@@ -61,6 +61,11 @@ sells:
       1037829: 200 # Brewfest Prize Token
 
   - type: transmog
+    id: 227795 # Homebrewer's Sampling Mantle [back]
+    costs:
+      1037829: 200 # Brewfest Prize Token
+
+  - type: transmog
     id: 209044 # Orange Brewfest Bulwark [shield]
     costs:
       1037829: 200 # Brewfest Prize Token
