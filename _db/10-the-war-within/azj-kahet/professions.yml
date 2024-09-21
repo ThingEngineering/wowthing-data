@@ -317,7 +317,7 @@ things:
     trackingQuestId: 83920
     locations:
       here:
-        - "45.5 49.3" # NERUBAR
+        - "46.8 82.3"
     requirements:
       - "profession skinning tww 1"
     contents:
