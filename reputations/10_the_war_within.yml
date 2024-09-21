@@ -7,33 +7,41 @@ reputations:
   - both:
       id: 2594 # Assembly of the Deeps
       icon: "achievement/40836" # Assembly of the Deeps
+      iconText: "AotD"
 
   - both:
       id: 2590 # Council of Dornogal
       icon: "achievement/40856" # Council of Dornogal
+      iconText: "CoD"
 
   - both:
       id: 2570 # Hallowfall Arathi
       icon: "achievement/40845" # Hallowfall Arathi
+      iconText: "HA"
 
   - both:
       id: 2600 # The Severed Threads
       icon: "achievement/40838" # The Severed Threads
+      iconText: "ST"
 
 # 11.0 Friends
 -
   - both:
       id: 2640 # Brann Bronzebeard    
       icon: "achievement/40538" # Brann Development
+      iconText: "Brann"
 
   - both:
       id: 2605 # The General
       icon: "achievement/40875" # True Strength
+      iconText: "Gen"
 
   - both:
       id: 2607 # The Vizier
       icon: "achievement/40876" # Vox Arachni
+      iconText: "Viz"
 
   - both:
       id: 2601 # The Weaver
       icon: "achievement/40874" # The Grand Tapestry
+      iconText: "Weav"
