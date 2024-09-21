@@ -26,6 +26,11 @@ sells:
       1037829: 200 # Brewfest Prize Token
 
   - type: toy
+    id: 209052 # Brew Barrel
+    costs:
+      1037829: 200 # Brewfest Prize Token
+
+  - type: toy
     id: 116758 # Brewfest Banner
     costs:
       1037829: 100 # Brewfest Prize Token
@@ -52,11 +57,6 @@ sells:
 
   - type: toy
     id: 116757 # Steamworks Sausage Grill
-    costs:
-      1037829: 200 # Brewfest Prize Token
-
-  - type: toy
-    id: 209052 # Brew Barrel
     costs:
       1037829: 200 # Brewfest Prize Token
 
@@ -94,6 +94,11 @@ sells:
     id: 33969 # Purple Brewfest Hat [subclass=5 head]
     costs:
       1037829: 50 # Brewfest Prize Token
+
+  - type: transmog
+    id: 227795 # Homebrewer's Sampling Mantle [back]
+    costs:
+      1037829: 200 # Brewfest Prize Token
 
   - type: transmog
     id: 33863 # Brewfest Dress [subclass=5 chest]
