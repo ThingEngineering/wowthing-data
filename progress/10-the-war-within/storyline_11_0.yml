@@ -55,6 +55,36 @@ groups:
     0:
       - id: 240
 
+- name: "Queen Ansurek"
+  icon: "achievement/40253"
+  iconText: "Queen"
+  lookup: none
+  minimumLevel: 80
+  type: quest
+  data:
+    0:
+      - id: 83587
+        name: "Our Chance to Strike"
+
+      - id: 82124
+        name: "The Beginning of the End"
+
+      - id: 82125
+        name: "A Spy Like Us"
+
+      - id: 82126
+        name: "Defense of the People"
+
+      - id: 82127
+        name: "Make Them Prey"
+
+      - id: 82130
+        name: "A Shot at the Top"
+
+      - id: 82141
+        name: "To Kill a Queen"
+        description: "Rewards {item:224072}"
+
 - name: separator
 
 - name: "Delves"
