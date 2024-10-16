@@ -27,11 +27,6 @@ reputations:
 # 11.0 Friends
 -
   - both:
-      id: 2640 # Brann Bronzebeard    
-      icon: "achievement/40538" # Brann Development
-      iconText: "Brann"
-
-  - both:
       id: 2605 # The General
       icon: "achievement/40875" # True Strength
       iconText: "Gen"
@@ -45,3 +40,14 @@ reputations:
       id: 2601 # The Weaver
       icon: "achievement/40874" # The Grand Tapestry
       iconText: "Weav"
+
+-
+  - both:
+      id: 2640 # Brann Bronzebeard    
+      icon: "achievement/40538" # Brann Development
+      iconText: "Brann"
+
+  - both:
+      id: 2644 # Delves: Season 1
+      icon: "achievement/40103" # Nemesis
+      iconText: "Delve"
