@@ -32,10 +32,6 @@ groups:
     - 4522 # Troglofrog
     - 4516 # Vibrant Glowfly
 
-- name: "Deepforge Golemworks"
-  things:
-    - 4522 # Troglofrog
-
 - name: "Dornogal"
   things:
     - 4541 # Bedrock Stonecharger
@@ -97,13 +93,4 @@ groups:
     - 4574 # Snuffling
     - 4521 # Subterranean Dartswog
     - 4522 # Troglofrog
-    - 4516 # Vibrant Glowfly
-
-- name: "Shadowvein Extraction Site"
-  things:
-    - 4456 # Arachnoid Hatchling
-    - 4515 # Azure Flickerfly
-    - 4457 # Chitin Burrower
-    - 4499 # Common Ploughworm
-    - 4498 # Ebon Ploughworm
     - 4516 # Vibrant Glowfly
