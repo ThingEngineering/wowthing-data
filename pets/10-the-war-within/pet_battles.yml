@@ -70,9 +70,9 @@ groups:
     - 4535 # Ghostcap Menace
     - 4539 # Granite Ramolith
     - 4533 # Meek Bloodlasher
-    - 3543 # Ravenous Shalewing
+    # - 3543 # Ravenous Shalewing
     - 4529 # Shale Mosswool
-    - 3544 # Shalewing Devourer
+    # - 3544 # Shalewing Devourer
     - 4521 # Subterranean Dartswog
     - 4522 # Troglofrog
 
