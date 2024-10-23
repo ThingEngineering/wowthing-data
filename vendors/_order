@@ -142,6 +142,7 @@ remix/_.yml
     remix/04-pandaria.yml
 
 world-events/_world_events.yml
+    world-events/anniversary.yml
     world-events/brewfest.yml
     world-events/darkmoon_faire.yml
     world-events/hallows_end.yml

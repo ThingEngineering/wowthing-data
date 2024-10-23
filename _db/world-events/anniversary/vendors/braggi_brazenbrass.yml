@@ -1,0 +1,405 @@
+things:
+  - id: 223881
+    type: "vendor"
+    name: "Braggi Brazenbrass"
+    note: "Raidfinder Relic Coffer Key Exchanger"
+
+    locations:
+      tanaris:
+        - 63 49.6
+
+    groups:
+      - name: "BRD - Cloth"
+        range: 14
+        sortKey: "brd-armor-1"
+
+      - name: "BRD - Leather"
+        range: 14
+        sortKey: "brd-armor-2"
+
+      - name: "BRD - Mail"
+        range: 14
+        sortKey: "brd-armor-3"
+
+      - name: "BRD - Plate"
+        range: 14
+        sortKey: "brd-armor-4"
+
+      - name: "BRD - Cloaks"
+        range: 3
+        sortKey: "brd-armor-5"
+      
+      - name: "BRD - Weapons"
+        range: -1
+        sortKey: "brd-weapons"
+
+    contents:
+      # Skipped id=231455 name=Embershard Pendant slot=2
+      # Skipped id=231436 name=Imperial Jewel slot=2
+      # Skipped id=231447 name=Bloodclot Band slot=11
+      # Skipped id=231493 name=Bottle-Popper Ring slot=11
+      # Skipped id=231437 name=Emperor's Seal slot=11
+      # Skipped id=231396 name=Naglering slot=11
+      # Skipped id=231457 name=Bottled Magma slot=12
+      # Skipped id=231424 name=Burst of Knowledge slot=12
+      # Skipped id=231476 name=Dope'rel's Calling Rune slot=12
+      # Skipped id=231414 name=Force of Will slot=12
+      # Skipped id=231471 name=Golem Gearbox slot=12
+      # Skipped id=231417 name=Hand of Justice slot=12
+      # Skipped id=231456 name=Heart of Roccor slot=12
+      # Skipped id=231462 name=Molten Furnace slot=12
+      # Skipped id=231420 name=Second Wind slot=12
+
+      # 0
+
+      - id: 231425 # Chief Architect's Monocle [cloth head]
+        costs:
+          1231510: 40
+
+      - id: 231412 # Circle of Flame [cloth head]
+        costs:
+          1231510: 40
+
+      - id: 231391 # Kentic Amice [cloth shoulders]
+        costs:
+          1231510: 40
+
+      - id: 231445 # Mantle of Lost Hope [cloth shoulders]
+        costs:
+          1231510: 40
+
+      - id: 231429 # Robes of the Royal Crown [cloth chest]
+        costs:
+          1231510: 40
+
+      - id: 231406 # Flameweave Cuffs [cloth wrists]
+        costs:
+          1231510: 40
+
+      - id: 231478 # Flamekeeper's Handwraps [cloth hands]
+        costs:
+          1231510: 40
+
+      - id: 231439 # Hands of the Exalted Herald [cloth hands]
+        costs:
+          1231510: 40
+
+      - id: 231451 # Ferrous Cord [cloth waist]
+        costs:
+          1231510: 40
+
+      - id: 231411 # Sash of the Burning Heart [cloth waist]
+        costs:
+          1231510: 40
+
+      - id: 231434 # Haunting Specter Leggings [cloth legs]
+        costs:
+          1231510: 40
+
+      - id: 231426 # Senior Designer's Pantaloons [cloth legs]
+        costs:
+          1231510: 40
+
+      - id: 231477 # Anvilrage Medic's Boots [cloth feet]
+        costs:
+          1231510: 40
+
+      - id: 231423 # Omnicast Boots [cloth feet]
+        costs:
+          1231510: 40
+
+      - id: 231430 # Ghostshroud [leather head]
+        costs:
+          1231510: 40
+
+      - id: 231489 # Dark Warder's Pauldrons [leather shoulders]
+        costs:
+          1231510: 40
+
+      - id: 231485 # Flamewalker Scale Spaulders [leather shoulders]
+        costs:
+          1231510: 40
+
+      - id: 231401 # Flamestrider Robes [leather chest]
+        costs:
+          1231510: 40
+
+      - id: 231458 # Insolent Dark Iron's Vest [leather chest]
+        costs:
+          1231510: 40
+
+      - id: 231389 # Luminary Robe [leather chest]
+        costs:
+          1231510: 40
+
+      - id: 231404 # Cinderhide Armsplints [leather wrists]
+        costs:
+          1231510: 40
+
+      - id: 231441 # Wristguards of Renown [leather wrists]
+        costs:
+          1231510: 40
+
+      - id: 231474 # Dope'rel's Finger Gloves [leather hands]
+        costs:
+          1231510: 40
+
+      - id: 231479 # Anvilrage Rogue's Belt of Knives [leather waist]
+        costs:
+          1231510: 40
+
+      - id: 231450 # Belt of the Eminent Mason [leather waist]
+        costs:
+          1231510: 40
+
+      - id: 231449 # Leggings of Frenzied Magic [leather legs]
+        costs:
+          1231510: 40
+
+      - id: 231422 # Warstrife Leggings [leather legs]
+        costs:
+          1231510: 40
+
+      - id: 231438 # Swiftwalker Boots [leather feet]
+        costs:
+          1231510: 40
+
+      - id: 231461 # Magma Giant's Crown [mail head]
+        costs:
+          1231510: 40
+
+      - id: 231443 # Golem Fitted Pauldrons [mail shoulders]
+        costs:
+          1231510: 40
+
+      - id: 231469 # Spare Golem Pauldrons [mail shoulders]
+        costs:
+          1231510: 40
+
+      - id: 231431 # Deathdealer Breastplate [mail chest]
+        costs:
+          1231510: 40
+
+      - id: 231421 # Royal Decorated Armor [mail chest]
+        costs:
+          1231510: 40
+
+      - id: 231405 # Pyremail Wristguards [mail wrists]
+        costs:
+          1231510: 40
+
+      - id: 231397 # Rubicund Armguards [mail wrists]
+        costs:
+          1231510: 40
+
+      - id: 231416 # Molten Fists [mail hands]
+        costs:
+          1231510: 40
+
+      - id: 231388 # Lead Surveyor's Belt [mail waist]
+        costs:
+          1231510: 40
+
+      - id: 231442 # Sash of the Grand Hunt [mail waist]
+        costs:
+          1231510: 40
+
+      - id: 231480 # Anvilrage Dragoon's Trousers [mail legs]
+        costs:
+          1231510: 40
+
+      - id: 231402 # Searingscale Leggings [mail legs]
+        costs:
+          1231510: 40
+
+      - id: 231446 # Greaves of Withering Despair [mail feet]
+        costs:
+          1231510: 40
+
+      - id: 231473 # The Fifth's Linked Treads [mail feet]
+        costs:
+          1231510: 40
+
+      - id: 231444 # Foreman's Head Protector [plate head]
+        costs:
+          1231510: 40
+
+      - id: 231487 # Helm of the Molten Avatar [plate head]
+        costs:
+          1231510: 40
+
+      - id: 231395 # Earthslag Shoulders [plate shoulders]
+        costs:
+          1231510: 40
+
+      - id: 231440 # Ebonsteel Spaulders [plate shoulders]
+        costs:
+          1231510: 40
+
+      - id: 231488 # Anvilrage Warden's Breastplate [plate chest]
+        costs:
+          1231510: 40
+
+      - id: 231470 # Spare Golem Frame [plate chest]
+        costs:
+          1231510: 40
+
+      - id: 231407 # Emberplate Armguards [plate wrists]
+        costs:
+          1231510: 40
+
+      - id: 231486 # Burning Spirit Tender's Mitts [plate hands]
+        costs:
+          1231510: 40
+
+      - id: 231400 # Fists of Phalanx [plate hands]
+        costs:
+          1231510: 40
+
+      - id: 231481 # Sapper's Waistplate [plate waist]
+        costs:
+          1231510: 40
+
+      - id: 231408 # Lavacrest Leggings [plate legs]
+        costs:
+          1231510: 40
+
+      - id: 231432 # Legplates of the Eternal Guardian [plate legs]
+        costs:
+          1231510: 40
+
+      - id: 231448 # Entrenching Boots [plate feet]
+        costs:
+          1231510: 40
+
+      - id: 231475 # Sabaton's of Anger'rel [plate feet]
+        costs:
+          1231510: 40
+
+      - id: 231415 # Cape of the Fire Salamander [cloak]
+        costs:
+          1231510: 40
+
+      - id: 231468 # Flamekeeper's Fire Blanket [cloak]
+        costs:
+          1231510: 40
+
+      - id: 231390 # Spritecaster Cape [cloak]
+        costs:
+          1231510: 40
+
+      - id: 231484 # Fireguard's Lava-Dipped Cleaver [1h ? axe]
+        costs:
+          1231510: 40
+
+      - id: 231464 # Flame-Tempered Skinner [1h ? axe]
+        costs:
+          1231510: 40
+
+      - id: 231465 # Grizzle's Skinner [1h ? axe]
+        costs:
+          1231510: 40
+
+      - id: 231398 # Molten Ironfoe [1h ? mace]
+        costs:
+          1231510: 40
+
+      - id: 231410 # Rubidium Hammer [1h ? mace]
+        costs:
+          1231510: 40
+
+      - id: 231428 # The Hammer of Grace [1h ? mace]
+        costs:
+          1231510: 40
+
+      - id: 231463 # Arbiter's Blade [1h ? sword]
+        costs:
+          1231510: 40
+
+      - id: 231490 # Arbiter's Blade [1h ? sword]
+        costs:
+          1231510: 40
+
+      - id: 231419 # Lord General's Sword [1h ? sword]
+        costs:
+          1231510: 40
+
+      - id: 231492 # Barman Shanker [? dagger]
+        costs:
+          1231510: 40
+
+      - id: 231483 # Flamelash's Fiery Spike [? dagger]
+        costs:
+          1231510: 40
+
+      - id: 231453 # Shard Splinter [? dagger]
+        costs:
+          1231510: 40
+
+      - id: 231399 # Bloodfist [fist]
+        costs:
+          1231510: 40
+
+      - id: 231418 # Angerforge's Battle Axe [2h ? axe]
+        costs:
+          1231510: 40
+
+      - id: 231494 # Golem Carapace Opener [2h ? axe]
+        costs:
+          1231510: 40
+
+      - id: 231409 # Force of Magma [2h ? mace]
+        costs:
+          1231510: 40
+
+      - id: 231427 # Impervious Giant [2h ? mace]
+        costs:
+          1231510: 40
+
+      - id: 231413 # Flame Wrath [polearm]
+        costs:
+          1231510: 40
+
+      - id: 231472 # Argelmach's Breaking Bar [staff]
+        costs:
+          1231510: 40
+
+      - id: 231467 # Flamelord's Emberstaff [staff]
+        costs:
+          1231510: 40
+
+      - id: 231491 # Grebmar's Catch Pole [staff]
+        costs:
+          1231510: 40
+
+      - id: 231435 # Guiding Stave of Wisdom [staff]
+        costs:
+          1231510: 40
+
+      - id: 231403 # Kindling Stave [staff]
+        costs:
+          1231510: 40
+
+      - id: 231393 # Houndmaster's Bow [bow]
+        costs:
+          1231510: 40
+
+      - id: 231482 # Dragoon's Volley Gun [gun]
+        costs:
+          1231510: 40
+
+      - id: 231454 # Magma-Shot Boomstick [gun]
+        costs:
+          1231510: 40
+
+      - id: 231392 # Enthralled Sphere [off-hand]
+        costs:
+          1231510: 40
+
+      - id: 231433 # Thaurissan's Royal Scepter [off-hand]
+        costs:
+          1231510: 40
+
+      - id: 231394 # Stoneshell Guard [shield]
+        costs:
+          1231510: 40
