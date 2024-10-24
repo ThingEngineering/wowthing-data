@@ -1,0 +1,32 @@
+things:
+  - id: 110035
+    type: "vendor"
+    name: "Historian Ju'pa"
+    note: "The Timewalkers"
+
+    locations:
+      unknown:
+        - 51.4 38.8
+        - 51.6 38.4
+        - 51.6 38.8
+      tanaris:
+        - 62.8 50.2
+      orgrimmar:
+        - 36.4 74.4
+        - 36.4 74.6
+        - 36.6 74.2
+        - 36.6 74.6
+
+    sells:
+
+      - id: 136925 # Corgi Pup [pet]
+        costs:
+          1166: 200
+
+      - id: 158149 # Overtuned Corgi Goggles [toy]
+        costs:
+          1166: 200
+
+      - id: 147885 # Bronze-Tinted Sunglasses [subclass=5 head]
+        costs:
+          1166: 200

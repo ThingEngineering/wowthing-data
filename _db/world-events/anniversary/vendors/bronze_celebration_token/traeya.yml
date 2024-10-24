@@ -1,0 +1,70 @@
+things:
+  - id: 223902
+    type: "vendor"
+    name: "Traeya"
+    note: "Armor Vendor"
+
+    locations:
+      tanaris:
+        - 63 50.8
+
+    groups:
+      - name: "T2 Remakes"
+        range: -1
+        sortKey: "a-t2-remake"
+
+    contents:
+
+      # 0
+
+      - id: 228200 # Ensemble: Dragonstalker's Eternal Armor
+        costs:
+          3100: 60
+
+      - id: 228207 # Ensemble: Earth-Warder's Eternal Armor
+        costs:
+          3100: 60
+
+      - id: 228197 # Ensemble: Eternal Battlegear of Wrath
+        costs:
+          3100: 60
+
+      - id: 228208 # Ensemble: Eternal Battlegear of the August Acolyte
+        costs:
+          3100: 60
+
+      - id: 228202 # Ensemble: Eternal Bloodfang Armor
+        costs:
+          3100: 60
+
+      - id: 228198 # Ensemble: Eternal Judgment Armor
+        costs:
+          3100: 60
+
+      - id: 228209 # Ensemble: Eternal Nemesis Raiment
+        costs:
+          3100: 60
+
+      - id: 228201 # Ensemble: Eternal Netherwind Regalia
+        costs:
+          3100: 60
+
+      - id: 228199 # Ensemble: Eternal Stormrage Armor
+        costs:
+          3100: 60
+
+      - id: 228203 # Ensemble: Eternal Ten Storms
+        costs:
+          3100: 60
+
+      - id: 228204 # Ensemble: Eternal Vestments of Transcendence
+        costs:
+          3100: 60
+
+      - id: 228206 # Ensemble: Netherwalker's Eternal Armor
+        costs:
+          3100: 60
+
+      - id: 228205 # Ensemble: Pale Rider's Eternal Armor
+        costs:
+          3100: 60

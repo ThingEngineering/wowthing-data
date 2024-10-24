@@ -11,27 +11,27 @@ things:
     groups:
       - name: "BRD - Cloth"
         range: 14
-        sortKey: "brd-armor-1"
+        sortKey: "z-brd-armor-1"
 
       - name: "BRD - Leather"
         range: 14
-        sortKey: "brd-armor-2"
+        sortKey: "z-brd-armor-2"
 
       - name: "BRD - Mail"
         range: 14
-        sortKey: "brd-armor-3"
+        sortKey: "z-brd-armor-3"
 
       - name: "BRD - Plate"
         range: 14
-        sortKey: "brd-armor-4"
+        sortKey: "z-brd-armor-4"
 
       - name: "BRD - Cloaks"
         range: 3
-        sortKey: "brd-armor-5"
+        sortKey: "z-brd-armor-5"
       
       - name: "BRD - Weapons"
         range: -1
-        sortKey: "brd-weapons"
+        sortKey: "z-brd-weapons"
 
     contents:
       # Skipped id=231455 name=Embershard Pendant slot=2

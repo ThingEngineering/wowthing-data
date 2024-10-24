@@ -1,0 +1,187 @@
+things:
+  - id: 223884
+    type: "vendor"
+    name: "Bobadormu"
+
+    locations:
+      tanaris:
+        - 62.8 50.2
+
+    groups:
+      - name: "Timewalking - Armor"
+        range: 13
+        sortKey: "z-tw-armor"
+
+      - name: "Timewalking - Weapons"
+        range: -1
+        sortKey: "z-tw-weapons"
+
+    contents:
+
+      - id: 224854 # Holy Shroud [cloth head]
+        costs:
+          1166: 25
+
+      - id: 225182 # Aristocratic Cuffs [cloth wrists]
+        costs:
+          1166: 25
+
+      - id: 224858 # Coldstone Slippers [cloth feet]
+        costs:
+          1166: 25
+
+      - id: 224853 # Adventurer's Pith Helmet [leather head]
+        costs:
+          1166: 25
+
+      - id: 225181 # Unearthed Bands [leather wrists]
+        costs:
+          1166: 25
+
+      - id: 224857 # Feet of the Lynx [leather feet]
+        costs:
+          1166: 25
+
+      - id: 224855 # Helm of Narv [mail head]
+        costs:
+          1166: 25
+
+      - id: 225183 # Slimescale Bracers [mail wrists]
+        costs:
+          1166: 25
+
+      - id: 224859 # Caverndeep Trudgers [mail feet]
+        costs:
+          1166: 25
+
+      - id: 224856 # Mugthol's Helm [plate head]
+        costs:
+          1166: 25
+
+      - id: 225184 # Runed Golem Shackles [plate wrists]
+        costs:
+          1166: 25
+
+      - id: 224860 # Boots of Avoidance [plate feet]
+        costs:
+          1166: 25
+
+      - id: 225187 # Blackmetal Cape [cloak]
+        costs:
+          1166: 25
+
+      - id: 225195 # Axe of the Deep Woods [1h ? axe]
+        costs:
+          1166: 50
+
+      - id: 225199 # Flurry Axe [1h ? axe]
+        costs:
+          1166: 50
+
+      - id: 227703 # Farstrider's Huntsblade [1h ? sword]
+        costs:
+          1166: 1500
+
+      - id: 227704 # Claymore of the Knight's Pledge [2h ? sword]
+        costs:
+          1166: 2500
+
+      - id: 225189 # Lightforged Blade [2h ? sword]
+        costs:
+          1166: 100
+
+      - id: 225190 # Pendulum of Doom [2h ? axe]
+        costs:
+          1166: 100
+
+      - id: 224410 # Craggles
+        costs:
+          1166: 2200
+
+      - id: 224406 # Misty
+        costs:
+          1166: 2200
+
+      - id: 224192 # Practice Ravager
+        costs:
+          1166: 200
+
+      - id: 224398 # Reins of the Frayfeather Hippogryph
+        costs:
+          1166: 5000
+
+      - id: 225200 # Alcor's Sunrazor [? dagger]
+        costs:
+          1166: 50
+
+      - id: 225191 # Gut Ripper [? dagger]
+        costs:
+          1166: 50
+
+      - id: 227705 # Runed-Ice Dirk [? dagger]
+        costs:
+          1166: 1500
+
+      - id: 225188 # Lefty's Brass Knuckle [fist]
+        costs:
+          1166: 50
+
+      - id: 225197 # Crimson Shocker [wand]
+        costs:
+          1166: 50
+
+      - id: 227707 # Doomwail Reaper [polearm]
+        costs:
+          1166: 2500
+
+      - id: 225196 # Grimlok's Charge [polearm]
+        costs:
+          1166: 100
+
+      - id: 227718 # Bearded Branch of Lore [staff]
+        costs:
+          1166: 2500
+
+      - id: 227706 # Doomreaper's Scythe [staff]
+        costs:
+          1166: 2500
+
+      - id: 225193 # Elemental Mage Staff [staff]
+        costs:
+          1166: 100
+
+      - id: 227709 # Kirin Tor Adept's Stave [staff]
+        costs:
+          1166: 2500
+
+      - id: 227711 # Tusked Branch of War [staff]
+        costs:
+          1166: 2500
+
+      - id: 225198 # Warden Staff [staff]
+        costs:
+          1166: 100
+
+      - id: 225192 # Bow of Searing Arrows [bow]
+        costs:
+          1166: 100
+
+      - id: 225201 # Precisely Calibrated Rifle [gun]
+        costs:
+          1166: 100
+
+      - id: 227717 # Sermons of the Naaru [off-hand]
+        costs:
+          1166: 1500
+
+      - id: 227712 # Emberswirl Bulwark [shield]
+        costs:
+          1166: 2000
+
+      - id: 227714 # Gilded Drakecrest Shield [shield]
+        costs:
+          1166: 2000
+
+      - id: 225194 # Redbeard Crest [shield]
+        costs:
+          1166: 35

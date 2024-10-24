@@ -1,0 +1,65 @@
+things:
+  - id: 158061
+    type: "vendor"
+    name: "Historian Ma'di"
+    note: "Timely Trinkets"
+
+    locations:
+      tanaris:
+        - 62.6 50.4
+      unknown:
+        - 50.8 41.2
+
+    contents:
+
+      - id: 208572 # Azure Worldchiller [mount]
+        costs:
+          1166: 5000
+
+      - id: 186469 # Illidari Doomhawk [mount]
+        costs:
+          1166: 5000
+
+      - id: 136925 # Corgi Pup [pet]
+        costs:
+          1166: 200
+
+      - id: 228781 # Lil'Doomy's Hilt [pet]
+        costs:
+          3100: 10
+
+      - id: 186556 # Timeless Mechanical Dragonling [pet]
+        costs:
+          1166: 200
+
+      - id: 229828 # 20th Anniversary Balloon Chest [toy]
+        costs:
+          3100: 10
+
+      - id: 158149 # Overtuned Corgi Goggles [toy]
+        costs:
+          1166: 200
+
+      - id: 147885 # Bronze-Tinted Sunglasses [subclass=5 head]
+        costs:
+          1166: 200
+
+      - id: 228786 # Coldflame Winged Crown [subclass=5 head]
+        costs:
+          3100: 10
+
+      - id: 228788 # Coldflame Edged Crest [subclass=5 back]
+        costs:
+          3100: 15
+
+      - id: 178514 # Crafted Cloak of War [subclass=5 back]
+        costs:
+          1166: 200
+
+      - id: 228784 # Coldflame's Edge [1h ? sword]
+        costs:
+          3100: 10
+
+      - id: 228785 # Coldflame Bulwark [shield]
+        costs:
+          3100: 10

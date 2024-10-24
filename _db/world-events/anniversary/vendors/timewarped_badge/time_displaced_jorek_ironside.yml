@@ -1,0 +1,155 @@
+things:
+  - id: 229711
+    type: "vendor"
+    name: "Time-Displaced Jorek Ironside"
+    note: "Frostwolf Supply Officer"
+
+    locations:
+      tanaris:
+        - 62.8 51 #horde
+
+    groups:
+      - name: "AV - Armor"
+        range: 10
+        sortKey: "z-av-armor"
+
+      - name: "AV - Weapons"
+        range: -1
+        sortKey: "z-av-weapons"
+
+    contents:
+
+      - id: 172120 # Frost Runed Headdress [cloth head]
+        costs:
+          1166: 20
+          1137642: 1
+
+      - id: 172105 # Frostwolf Cloth Belt [cloth waist]
+        costs:
+          1166: 20
+          1137642: 1
+
+      - id: 172128 # Yeti Hide Bracers [leather wrists]
+        costs:
+          1166: 20
+          1137642: 1
+
+      - id: 172104 # Frostwolf Leather Belt [leather waist]
+        costs:
+          1166: 20
+          1137642: 1
+
+      - id: 172126 # Winteraxe Epaulets [mail shoulders]
+        costs:
+          1166: 20
+          1137642: 1
+
+      - id: 172103 # Frostwolf Mail Belt [mail waist]
+        costs:
+          1166: 20
+          1137642: 1
+
+      - id: 172127 # Frozen Steel Vambraces [plate wrists]
+        costs:
+          1166: 20
+          1137642: 1
+
+      - id: 172102 # Frostwolf Plate Belt [plate waist]
+        costs:
+          1166: 20
+          1137642: 1
+
+      - id: 172100 # Frostwolf Advisor's Cloak [cloak]
+        costs:
+          1166: 20
+          1137642: 1
+
+      - id: 172098 # Frostwolf Legionnaire's Cloak [cloak]
+        costs:
+          1166: 20
+          1137642: 1
+
+      - id: 172118 # Frostbite [1h ? axe]
+        costs:
+          1166: 40
+          1137642: 2
+
+      - id: 172139 # Cold Forged Hammer [1h ? mace]
+        costs:
+          1166: 40
+          1137642: 2
+
+      - id: 172125 # Cold Forged Blade [1h ? sword]
+        costs:
+          1166: 40
+          1137642: 2
+
+      - id: 172114 # Glacial Blade [? dagger]
+        costs:
+          1166: 40
+          1137642: 2
+
+      - id: 172137 # The Lobotomizer [? dagger]
+        costs:
+          1166: 40
+          1137642: 2
+
+      - id: 172136 # The Unstoppable Force [2h ? mace]
+        costs:
+          1166: 90
+          1137642: 2
+
+      - id: 172121 # Ice Barbed Spear [polearm]
+        costs:
+          1166: 90
+          1137642: 2
+
+      - id: 172116 # Whiteout Staff [staff]
+        costs:
+          1166: 90
+          1137642: 2
+
+      - id: 172122 # Bloodseeker [crossbow]
+        costs:
+          1166: 90
+          1137642: 2
+
+      - id: 172123 # Wand of Biting Cold [wand]
+        costs:
+          1166: 40
+          1137642: 2
+
+      - id: 172133 # Lei of the Lifegiver [off-hand]
+        costs:
+          1166: 30
+          1137642: 1
+
+      - id: 172134 # Therazane's Touch [off-hand]
+        costs:
+          1166: 30
+          1137642: 1
+
+      - id: 172129 # Tome of Arcane Domination [off-hand]
+        costs:
+          1166: 30
+          1137642: 1
+
+      - id: 172132 # Tome of Fiery Arcana [off-hand]
+        costs:
+          1166: 30
+          1137642: 1
+
+      - id: 172130 # Tome of Shadow Force [off-hand]
+        costs:
+          1166: 30
+          1137642: 1
+
+      - id: 172131 # Tome of the Ice Lord [off-hand]
+        costs:
+          1166: 30
+          1137642: 1
+
+      - id: 172135 # The Immovable Object [shield]
+        costs:
+          1166: 30
+          1137642: 1

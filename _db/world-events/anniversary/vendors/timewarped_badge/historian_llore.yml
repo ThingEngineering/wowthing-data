@@ -1,0 +1,31 @@
+things:
+  - id: 110034
+    type: "vendor"
+    name: "Historian Llore"
+    note: "The Timewalkers"
+
+    locations:
+      unknown:
+        - 51.2 38.4
+        - 51.4 38.8
+        - 51.6 38.4
+        - 51.6 38.8
+      tanaris:
+        - 62.8 50.2
+      stormwind_city:
+        - 84.4 25
+        - 84.6 25
+
+    contents:
+
+      - id: 136925 # Corgi Pup [pet]
+        costs:
+          1166: 200
+
+      - id: 158149 # Overtuned Corgi Goggles [toy]
+        costs:
+          1166: 200
+
+      - id: 147885 # Bronze-Tinted Sunglasses [subclass=5 head]
+        costs:
+          1166: 200

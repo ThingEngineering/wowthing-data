@@ -1,0 +1,39 @@
+things:
+  - id: 229707
+    type: "vendor"
+    name: "Storekeeper Reginald"
+    note: "Out of Time-ly Trinkets"
+
+    locations:
+      tanaris:
+        - 62.8 51
+
+    contents:
+
+      - id: 115484 # Core Hound Chain [mount]
+        costs:
+          3100: 20
+
+      - id: 172012 # Obsidian Worldbreaker [mount]
+        costs:
+          3100: 20
+
+      - id: 44819 # Baby Blizzard Bear [pet]
+        costs:
+          3100: 10
+
+      - id: 118574 # Hatespark the Tiny [pet]
+        costs:
+          3100: 10
+
+      - id: 172016 # Lil' Nefarian [pet]
+        costs:
+          3100: 10
+
+      - id: 115301 # Molten Corgi [pet]
+        costs:
+          3100: 10
+
+      - id: 49362 # Onyxian Whelpling [pet]
+        costs:
+          3100: 10

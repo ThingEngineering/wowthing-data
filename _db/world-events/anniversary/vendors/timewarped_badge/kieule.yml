@@ -1,0 +1,15 @@
+things:
+  - id: 231351
+    type: "vendor"
+    name: "Kieule"
+    note: "Souvenirs"
+
+    locations:
+      tanaris:
+        - 62.4 49.8
+
+    contents:
+
+      - id: 130151 # The "Devilsaur" Lunchbox
+        costs:
+          1155: 1000
