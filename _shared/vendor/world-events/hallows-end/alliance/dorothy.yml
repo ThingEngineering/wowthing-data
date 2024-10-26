@@ -31,9 +31,34 @@ sells:
     id: 151270 # Horse Tail Costume
     costs:
       1033226: 150
+    
+  - type: item
+    id: 230173 # Ensemble: Prowler's Faded Headgear
+    costs:
+      1033226: 150
 
   - type: transmog
     id: 33292 # Hallowed Helm [subclass=5 head]
+    costs:
+      1033226: 150
+
+  - type: transmog
+    id: 226453 # Patched Harvest Golem's Post [back]
+    costs:
+      1033226: 100
+
+  - type: transmog
+    id: 230042 # Prowler's Faded Shoulder Cape [back]
+    costs:
+      1033226: 50
+
+  - type: transmog
+    id: 226427 # Patched Harvester's Claw [claw]
+    costs:
+      1033226: 100
+
+  - type: transmog
+    id: 208735 # Bucket of Morbid Treats [off-hand]
     costs:
       1033226: 150
 
