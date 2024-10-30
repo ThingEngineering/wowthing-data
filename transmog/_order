@@ -73,8 +73,4 @@ misc/_misc.yml
     misc/trial_of_style.yml
 
 world-events/_.yml
-    world-events/10_radiant_echoes.yml
-
-remix-pandaria/_.yml
-    04-mists-of-pandaria/raids.yml
-    remix-pandaria/world.yml
+    world-events/anniversary.yml
