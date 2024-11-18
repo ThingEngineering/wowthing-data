@@ -1,0 +1,34 @@
+name: "Renown"
+groups:
+
+- name: "Council of Dornogal"
+  things:
+  - 2213 # Shale Ramolith (Renown 18)
+  - 2148 # Smoldering Cinderbee (Renown 23)
+
+- name: "The Assembly of the Deeps"
+  things:
+  - 2209 # Crimson Mudnose (Renown 19)
+  - 2162 # Cyan Glowmite (Renown 23)
+
+- name: "Hallowfall Arathi"
+  things:
+  - 2193 # Vermillion Imperial Lynx (Renown 21)
+  - 2191 # Shackled Shadow (Renown 23)
+
+- name: "The Severed Threads"
+  things:
+  - 2184 # Ferocious Jawcrawler (Renown 22)
+  - 2177 # Aquamarine Swarmite (Renown 23)
+
+- name: "The Weaver"
+  things:
+  - 2171 # Widow's Undercrawler (Conspirator)
+
+- name: "The General"
+  things:
+  - 2172 # Heritage Undercrawler (Conspirator)
+
+- name: "The Vizier"
+  things:
+  - 2174 # Royal Court Undercrawler (Conspirator)

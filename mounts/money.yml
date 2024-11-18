@@ -30,6 +30,9 @@ groups:
   - 1662 # Telix the Stormhorn (12 month sub)
   - 1795 # Auspicious Arborwyrm (6/12 month sub?)
   - 1596 # Amalgam of Rage (Diablo IV)
+  - 2140 # Charming Courier (6/12 month sub)
+  - 2259 # Gigantic Grrloc (12 month sub)
+  - 2235 # Startouched Furline (12 month sub)
 
 - name: Store
   things:
@@ -60,6 +63,7 @@ groups:
   - 1531 # Wen Lo, the River's Edge
   - 421 # Winged Guardian
   - 1692 # Wondrous Wavewhisker
+  - 2265 # Trader's Gilded Brutosaur
 
 - name: TCG
   things:

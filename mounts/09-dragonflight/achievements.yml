@@ -4,7 +4,6 @@ groups:
 - name: "Dungeons"
   things:
   - 1626 # Shellack
-  - 2055 # Infinite Armoredon (KSM Season 4)
 
 - name: "Raids"
   things:

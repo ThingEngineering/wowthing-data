@@ -24,6 +24,7 @@ groups:
   - 275 240 # ^ reversed
   - 522 # Sky Golem
   - 204 # Turbo-Charged Flying Machine
+  - 2158 # Crowd Pummeler 2-30
 
 - name: Fishing
   things:
@@ -31,6 +32,7 @@ groups:
   - 1166 # Great Sea Ray (Fishing)
   - 982 # Pond Nettle (Fishing)
   - 312 # Sea Turtle (Fishing)
+  - 2188 # Kah, Legend of the Deep (Fishing Achievement)
 
 - name: Jewelcrafting
   things:

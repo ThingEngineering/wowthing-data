@@ -1,0 +1,12 @@
+name: "Instances"
+groups:
+
+- name: "Dungeons"
+  things:
+    - 2119 # Stonevault Mechsuit, The Stonevault
+    - 2204 # Wick, Darkflame Cleft
+  
+- name: "Raids"
+  things:
+    - 2219 # Sureki Skyrazor (Queen Ansurek, Nerub-ar Palace)
+    - 2223 # Ascendant Skyrazor (Mythic Queen Ansurek, Nerub-ar Palace)

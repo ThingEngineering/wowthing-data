@@ -1,0 +1,22 @@
+name: "Achievements"
+groups:
+
+- name: "Delves"
+  things:
+  - 2230 # Ivory Goliathus (Glory of the Delver)
+
+- name: "Dungeons"
+  things:
+  - 2244 # Diamond Mechsuit (KSM Season 1)
+
+- name: "Raids"
+  things:
+  - 2180 # Shadowed Swarmite (Glory of the Nerub-ar Raider)
+
+- name: "World PvP"
+  things:
+  - 2167 # Raging Cinderbee
+
+- name: "Exploration"
+  things:
+  - 2181 # Swarmite Skyhunter (Khaz Algar Glyph Hunter)

@@ -1,0 +1,18 @@
+name: "Drops"
+groups:
+
+- name: "Isle of Dorn"
+  things:
+  - 2176 # Alunira
+
+- name: "Ringing Deeps, The"
+  things:
+  - 2205 # Ol' Mole Rufus
+
+- name: "Hallowfall"
+  things:
+  - 2192 # Beledar's Spawn
+
+  name: "Azj-Kahet"
+  things:
+  - 2222 # Siesbarg
