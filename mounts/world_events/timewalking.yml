@@ -23,7 +23,7 @@ groups:
   things:
   - 552 # Ironbound Wraithcharger
 
-  name: Cataclysm
+- name: Cataclysm
   things:
   - 2473 # Broodling of Sinestra
 
