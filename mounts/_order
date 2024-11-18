@@ -8,6 +8,8 @@
     vendors.yml
     unavailable.yml
 
+10-the-war-within/_.yml
+
 09-dragonflight/_.yml
 
 08-shadowlands/_.yml
@@ -70,6 +72,7 @@ world_events/_blank.yml
 -
 
 drops.yml
+    10-the-war-within/drops.yml The War Within
     09-dragonflight/drops.yml Dragonflight
     08-shadowlands/drops.yml Shadowlands
     07-battle-for-azeroth/drops.yml Battle for Azeroth
@@ -80,6 +83,7 @@ drops.yml
     02-wrath-of-the-lich-king/drops.yml Wrath of the Lich King
 
 instances.yml
+    10-the-war-within/instances.yml The War Within
     09-dragonflight/instances.yml Dragonflight
     08-shadowlands/instances.yml Shadowlands
     07-battle-for-azeroth/instances.yml Battle for Azeroth
@@ -92,6 +96,7 @@ instances.yml
     00-classic/instances.yml Classic
 
 reputations.yml
+    10-the-war-within/reputations.yml The War Within
     09-dragonflight/reputations.yml Dragonflight
     08-shadowlands/reputations.yml Shadowlands
     07-battle-for-azeroth/reputations.yml Battle for Azeroth
