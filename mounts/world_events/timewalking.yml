@@ -10,23 +10,35 @@ groups:
   things:
   - 781 # Infinite Timereaver (Timewalking)
 
+- name: Classic
+  things:
+  - 2224 # Frayfeather Hippogryph
+
 - name: Burning Crusade
   things:
   - 778 # Eclipse Dragonhawk
+  - 2225 # Amani Hunting Bear
 
 - name: Wrath of the Lich King
   things:
   - 552 # Ironbound Wraithcharger
 
+- name: Cataclysm
+  things:
+  - 2473 # Broodling of Sinestra
+
 - name: Mists of Pandaria
   things:
   - 476 # Yu'lei, Daughter of Jade (Timewalking)
+  - 2474 # Copper-Maned Quilen
 
 - name: Warlords of Draenor
   things:
   - 1242 # Beastlord's Irontusk (Timewarped Badge)
   - 1243 # Beastlord's Warwolf (Timewarped Badge)
+  - 2470 # Nightfall Skyreaver
 
 - name: Legion
   things:
   - 1521 # Val'sharah Hippogryph
+  - 2471 # Ur'zul Fleshripper

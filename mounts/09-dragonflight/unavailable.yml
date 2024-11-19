@@ -13,6 +13,7 @@ groups:
   - 1681 # Hailstorm Armoredon (KSM Season 1)
   - 1725 # Inferno Armoredon (KSM Season 2)
   - 1801 # Verdant Armoredon (KSM Season 3)
+  - 2055 # Infinite Armoredon (KSM Season 4)
 
 - name: "PvP"
   things:

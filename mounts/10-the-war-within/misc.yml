@@ -1,0 +1,16 @@
+name: "Miscellaneous"
+groups:
+
+- name: "PvP"
+  things:
+  - 2211 # Vicious Skyflayer [A] (Season 1)
+  - 2150 # Vicious Skyflayer [H] (Season 1)
+
+- name: "Arena"
+  things:
+  - 2218 # Forged Gladiator's Fel Bat (Season 1)
+
+- name: "World Events"
+  things:
+  - 2159 # Machine Defense Unit 1-11 (Awakening the Machine)
+  - 2194 # Dauntless Imperial Lynx (Spreading the Light)

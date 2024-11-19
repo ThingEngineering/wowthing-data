@@ -26,3 +26,7 @@ groups:
     - 497 # Great Green Dragon Turtle
     - 501 # Great Purple Dragon Turtle
     - 453 # Great Red Dragon Turtle
+
+- name: "Earthen"
+  things:
+    - 2214 # Slatestone Ramolith

@@ -50,3 +50,7 @@ groups:
 - name: Zandalari Troll Paladin
   things:
   - 1225 # Crusader's Direhorn (Zandalari Paladin)
+
+- name: Earthen Paladin
+  things:
+  - 2233 # Earthen Ordinant's Ramolith (Earthen Paladin)
