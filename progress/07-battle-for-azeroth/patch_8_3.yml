@@ -114,11 +114,11 @@ groups:
       - name: "Deeper into the Darkness"
         id: 57362
 
-      - name: "Opening the Gateway"
-        id: 58634
-
       - name: "Descending into Madness"
         id: 57373
+
+      - name: "Opening the Gateway"
+        id: 58634
 
       - name: "Into the Darkest Depths"
         id: 57374
@@ -136,14 +136,83 @@ groups:
       - name: "Into Dreams"
         id: 58631
 
-      - name: "Ny'alotha, the Waking City: The Corruptor's End"
-        id: 58632
-
       - name: "Accessing the Archives"
         id: 57524
         description: "Unlocks Archival Research Database"
 
+      - name: "Ny'alotha, the Waking City: The Corruptor's End"
+        id: 58632
+
 - name: separator
+
+- name: "Cloak Ranks"
+  icon: "achievement/14060" # Unwavering Resolve
+  iconText: "Ranks"
+  lookup: none
+  type: quest
+  data:
+    0:
+      - id: 57290 # Beginning the Descent (1)
+        description: "Rank 1, 20% resistance"
+
+      - id: 57378 # Remnants of a Shattered World (2)
+      
+      - id: 57391 # Reconstructing "The Curse of Stone" (3)
+        description: "Rank 3, 25% resistance"
+      
+      - id: 57392 # Reconstructing "The Curse of Stone" (4)
+      
+      - id: 57402 # Reconstructing "The Curse of Stone" (5)
+        description: "Rank 5, 40% resistance"
+
+      - id: 57393 # Stepping Through the Darkness (6)
+
+      - id: 57394 # Reconstructing "Fear and Flesh" (7)
+        description: "Rank 7, Odd Crystals visible"
+
+      - id: 57395 # Reconstructing "Fear and Flesh" (8)
+        description: "Rank 8, 45% resistance"
+
+      - id: 57396 # Reconstructing "Fear and Flesh" (9)
+
+      - id: 57403 # Reconstructing "Fear and Flesh" (10)
+        description: "Rank 10, 50% resistance"
+
+      - id: 57397 # Reconstructing "Fear and Flesh" (11)
+        description: "Rank 11, 65% resistance"
+
+      - id: 57398 # Walking in the Darkness (12)
+
+      - id: 57399 # Reconstructing "The Final Truth" (13)
+        description: "Rank 13, 70% resistance"
+
+      - id: 57400 # Reconstructing "The Final Truth" (14)
+        description: "Rank 14, 75% resistance"
+
+      - id: 57401 # Reconstructing "The Final Truth" (15)
+        description: "Rank 15, 80% resistance"
+
+- name: "Masks"
+  icon: "achievement/14162" # Horrific Masquerade
+  iconText: "Masks"
+  lookup: none
+  type: quest
+  data:
+    0:
+      - id: 58318 # Mask of the Long Night
+        description: "Fully clear either vision"
+
+      - id: 58314 # Mask of the Burned Bridge
+        description: "Orgrimmar > Valley of Wisdom with 1+ mask active"
+      
+      - id: 58297 # Mask of the Daredevil
+        description: "Orgrimmar > Valley of Honor with 1+ mask active"
+        
+      - id: 58316 # Mask of the Dark Imagination
+        description: "Stormwind > Mage Quarter with 1+ mask active"
+      
+      - id: 58317 # Mask of the Pained
+        description: "Stormwind > Old Town with 1+ mask active"
 
 - name: "Void Focus"
   icon: "item/171320" # Void Focus
