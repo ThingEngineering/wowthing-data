@@ -34,6 +34,7 @@
 -
 
 raids.yml
+    10-the-war-within/raids.yml War Within
     09-dragonflight/raids.yml Dragonflight
     08-shadowlands/raids.yml Shadowlands
     07-battle-for-azeroth/raids.yml Battle for Azeroth
@@ -53,6 +54,7 @@ dungeons.yml
     00-classic/dungeons.yml Classic
 
 pvp.yml
+    10-the-war-within/pvp.yml War Within
     09-dragonflight/pvp.yml Dragonflight
     08-shadowlands/pvp.yml Shadowlands
     07-battle-for-azeroth/pvp.yml Battle for Azeroth
