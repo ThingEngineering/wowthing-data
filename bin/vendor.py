@@ -237,13 +237,15 @@ def main():
         faction = ' horde'
 
     if not expand:
-        print(f'id: {npc["id"]}')
-        print(f'name: "{npc["name"]}"')
+        print(f'things:')
+        print(f'  - id: {npc["id"]}')
+        print(f'    type: "vendor"')
+        print(f'    name: "{npc["name"]}"')
         if 'tag' in npc:
-            print(f'note: "{npc["tag"]}"')
+            print(f'    note: "{npc["tag"]}"')
 
         print()
-        print('locations:')
+        print('    locations:')
 
         if mapper is not None:
             for map_set in mapper.values():
@@ -252,14 +254,14 @@ def main():
 
                 for map in map_set:
                     map_name = map.get('uiMapName', 'unknown').lower().replace(' ', '_').replace('-', '_').replace("'", '')
-                    print(f'  {map_name}:')
+                    print(f'      {map_name}:')
                     
                     for coord in map['coords']:
-                        print(f'    - {coord[0]} {coord[1]}{faction}')
+                        print(f'        - {coord[0]} {coord[1]}{faction}')
 
         print()
 
-        print('sells:')
+        print('    contents:')
 
     sorted_items = sorted(items, key=lambda item: [
         -item["standing"],
@@ -287,7 +289,7 @@ def main():
 
         if item_slot in SKIP_INVENTORY_SLOT:
             if not expand:
-                print(f'  # Skipped id={item["id"]} name={item["name"]} slot={item_slot}')
+                print(f'      # Skipped id={item["id"]} name={item["name"]} slot={item_slot}')
             continue
 
         if expand:
@@ -301,9 +303,9 @@ def main():
 
             if char_class != last_cls or set_id != last_set:
                 if set_id:
-                    print(f'  # {char_class} set={set_id}')
+                    print(f'      # {char_class} set={set_id}')
                 else:
-                    print(f'  # {char_class}')
+                    print(f'      # {char_class}')
                 print()
                 last_cls = char_class
                 last_set = set_id
@@ -330,24 +332,24 @@ def main():
             if len(type_parts) > 0:
                 type_str = f' [{" ".join(type_parts)}]'
 
-            print(f'  - type: item')
-            print(f'    id: {item["id"]} # {item["name"]}{type_str}')
-            print( '    costs:')
+            print(f'      - id: {item["id"]} # {item["name"]}{type_str}')
+            print( '        costs:')
 
             costs = item['cost']
             if costs[0] > 0:
-                print(f'      0: {max(1, math.floor(costs[0] / 10000))} # Gold')
+                print(f'        0: {max(1, math.floor(costs[0] / 10000))} # Gold')
 
             if len(costs) >= 2:
                 for cost in costs[1]:
-                    print(f'      {cost[0]}: {cost[1]}')
+                    print(f'        {cost[0]}: {cost[1]}')
 
             if len(costs) == 3:
                 for cost in costs[2]:
-                    print(f'      1{cost[0]:06}: {cost[1]}')
+                    print(f'        1{cost[0]:06}: {cost[1]}')
             
             if item['standing'] > 0:
-                print(f'    reputation: 0 {STANDING.get(item["standing"], item["standing"])}')
+                print(f'        requirements:')
+                print(f'          - "reputation: 0 {STANDING.get(item["standing"], item["standing"])}"')
 
             #print('>', item)
 
