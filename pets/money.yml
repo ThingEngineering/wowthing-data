@@ -16,6 +16,10 @@ groups:
   - 2143 # Tottle (BfA Collector's Edition)
   - 2779 # Anima Wyrmling (Shadowlands)
   - 3175 # Murkastrasza (Dragonflight Heroic Edition)
+  - 4266 # Squally (The War Within Epic Edition)
+  - 4590 # Flash (The War Within Epic Edition)
+  - 4589 # Gale (The War Within Epic Edition)
+  - 4591 # Thundo (The War Within Epic Edition)
 
 - name: "Other Games"
   things:
@@ -30,6 +34,9 @@ groups:
   things:
   - 3177 # Drakks (Dragonflight preorder bonus)
   - 3053 # Moon-Touched Netherwhelp (The Celebration Collection)
+  - 4616 # Gummi (Trolli)
+  - 4618 # Chillbot 9000 (Mountain Dew)
+  - 4617 # Thrillbot 9000 (Mountain Dew)
 
 - name: Store
   things:

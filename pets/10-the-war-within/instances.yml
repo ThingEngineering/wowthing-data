@@ -1,0 +1,14 @@
+name: "Instances"
+groups:
+
+- name: "Delves"
+  things:
+    - 4489 # Bouncer
+    - 4537 # Chester
+    - 4575 # Sneef
+    - 4506 # Violet Sporbit
+    - 4496 # Wriggle
+
+- name: "Cinderbrew Meadery"
+  things:
+    - 4469 # Bop

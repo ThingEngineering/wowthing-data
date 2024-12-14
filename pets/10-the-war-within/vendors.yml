@@ -1,0 +1,14 @@
+name: "Vendors"
+groups:
+
+- name: "City of Threads"
+  things:
+    - 4455 # Rak-Ush Threadling
+    - 4464 # Bean
+    - 4476 # Itchbite
+    - 4491 # Jump Jump
+    - 4492 # Fringe
+
+- name: "Dornogal"
+  things:
+    - 4543 # Sir Shady Mrrgglton Junior

@@ -71,7 +71,6 @@ groups:
 - name: "Uldum"
   things:
   - 2848 # Aqir Tunneler
-  - 2849 # Pygmy Camel
   - 2847 # Rotbreath
 
 - name: "Vale of Eternal Blossoms"

@@ -3,35 +3,36 @@ groups:
   
 - name: "Trading Post"
   things:
-    - 3251 # Buzzworth
-    - 3250 # Egbob
-    - 3252 # Garrlok
-    - 249 # Lil' K.T.
-    - 4311 # Mitzy
-    - 248 # Pandaren Monk
-    - 3243 # Pippin
-    - 4253 # Slyvy
-    - 242 # Spectral Tiger Cub
-    - 179 # Spirit of Competition - Beijing Olympics 2008
+    - 3252 # Garrlok (2023-02)
+    - 248 # Pandaren Monk (2023-03)
+    - 3250 # Egbob (2023-04)
+    - 3243 # Pippin (2023-05)
+    - 3251 # Buzzworth (2023-06)
+    - 242 # Spectral Tiger Cub (2023-07)
+    - 179 # Spirit of Competition (2023-08)
+    - 4253 # Slyvy (2023-09)
+    - 249 # Lil' K.T. (2023-10)
+    - 3255 # Buttercup (2023-12)
+    - 4311 # Mitzy (2023-12)
+    - 3297 # Time-Lost Salamanther (2024-01)
+    - 4408 # Buggsy (2024-02)
+    - 4407 # Nelle (2024-02)
+    - 4402 # Teele (2024-03)
+    - 4286 # Aura (2024-04)
+    - 4436 # Pokee (2024-05)
+    - 4548 # Marrlok (2024-06)
     - 3582 # Blub (2024-07)
+    - 4565 # Trishi (2024-07)
+    - 4566 # Worgli the Apprehensive (2024-08)
+    - 4602 # Claudius (2024-09)
+    - 3542 # Soot-Stained Shalewing (2024-10)
+    - 4669 # Bluedoo (2024-12)
 
 - name: "NYI"
   things:
-    - 4286 # Aura
     - 4410 # Beetriz
-    - 4408 # Buggsy
-    - 3255 # Buttercup
-    - 4602 # Claudius
     - 3244 # Drazka'zet the Wrathful
     - 3242 # Lil' Maka'jin
     - 297 # Lil' Ragnaros
-    - 4548 # Marrlok
-    - 4407 # Nelle
     - 4615 # Parrlok
-    - 4436 # Pokee
-    - 3542 # Soot-Stained Shalewing
-    - 4402 # Teele
-    - 3297 # Time-Lost Salamanther
-    - 4565 # Trishi
     - 3254 # Watcher of the Huntress
-    - 4566 # Worgli the Apprehensive

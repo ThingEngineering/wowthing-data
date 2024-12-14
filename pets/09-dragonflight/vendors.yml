@@ -33,6 +33,10 @@ groups:
   things:
     - 3330 # Buckie
 
+- name: "Primalist Future"
+  things:
+    - 3334 # Time-Lost Vorquin Foal
+
 - name: "Time Rifts"
   things:
     - 4255 # Briarhorn Hatchling

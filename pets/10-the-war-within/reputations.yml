@@ -1,0 +1,10 @@
+name: "Reputations"
+groups:
+
+- name: "Dornogal"
+  things:
+    - 4530 # Loamy
+
+- name: "Deeps"
+  things:
+    - 4576 # Guacamole

@@ -62,9 +62,10 @@ groups:
 
 - name: Noblegarden
   things:
-  - 1514 # Mystical Spring Bouquet
-  - 1943 # Noblegarden Bunny
-  - 200 # Spring Rabbit
+    - 4409 # Lovely Duckling
+    - 1514 # Mystical Spring Bouquet
+    - 1943 # Noblegarden Bunny
+    - 200 # Spring Rabbit
 
 - name: Pilgrim's Bounty
   things:

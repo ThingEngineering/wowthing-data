@@ -4,6 +4,8 @@ groups:
 - name: "Azj-Kahet"
   things:
     - 4599 # Mind Slurp
+    - 4513 # Pillarnest Bonedrinker
+    - 4473 # Spinner
 
 - name: "Hallowfall"
   things:
@@ -11,9 +13,11 @@ groups:
 
 - name: "Isle of Dorn"
   things:
+    - 4594 # Dalaran Sewer Turtle
     - 4527 # Lil' Moss Rosy
     - 3362 # Sapphire Crab
 
 - name: "Ringing Deeps"
   things:
     - 4536 # Blightbud
+    - 4470 # Oop'lajax

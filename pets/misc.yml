@@ -6,6 +6,7 @@ groups:
   - 244 # Core Hound Pup (Authenticator)
   - 1639 # Graves (Heroes of the Storm)
   - 2776 # Rikki (RAF)
+  - 3236 # Gnomelia Gearheart (weird phone game)
 
 - name: PvP
   things:

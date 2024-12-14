@@ -10,6 +10,8 @@ groups:
   - 1890 # Corgi Pup (12th Anniversary)
   - 2621 # Lil' Nefarian (15th Anniversary)
   - 3100 # Timeless Mechanical Dragonling (17th Anniversary)
+  - 4678 # Lil'Doomy (20th Anniversary, Vendor)
+  - 4679 # Lil'Kaz (20th Anniversary, Lord Kazzak)
 
 - name: BlizzCon
   things:
@@ -51,3 +53,20 @@ groups:
   - 231 # Jade Tiger (RAF)
   - 171 # Silver Pig (RAF)
   - 247 # Zipao Tiger (RAF)
+
+- name: "The War Within Launch"
+  things:
+    - 4451 # Remembered Construct
+    - 4450 # Remembered Riverpaw
+    - 4452 # Remembered Spawn
+
+- name: "Pandaria Remix"
+  things:
+    - 4579 # Muskpaw Calf
+    - 4580 # Astral Emperor's Serpentling
+
+- name: "Plunderstorm"
+  things:
+    - 4426 # Bubbles
+    - 4425 # Glamrok
+    - 4435 # Happy
