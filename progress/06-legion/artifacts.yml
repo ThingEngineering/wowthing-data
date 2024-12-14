@@ -60,7 +60,7 @@ groups:
     0:
     - name: "Balance of Power"
       id: 43533
-      type: quest
+      type: accountQuest
       required: true
       description: "Required for all of these!"
 
