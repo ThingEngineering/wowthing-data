@@ -1,0 +1,173 @@
+name: "Zone Quests"
+groups:
+
+# Zone 1
+- name: "A Sound Plan|The Throne of Zuldazar"
+  icon: achievement/12473 achievement/11861 # A Sound Plan / The Throne of Zuldazar
+  iconText: "Z1"
+  minimumLevel: 10
+  lookup: faction
+  type: quest
+  data:
+    alliance:
+      - name: "The Ashvane Trading Company"
+        id: 50531
+
+      - name: "Freehold"
+        id: 49404
+
+      - name: "Defenders of Daelin's Gate"
+        id: 49740
+
+      - name: "Enemies Within"
+        id: 50972
+
+      - name: "The Shadow Over Anglepoint"
+        id: 49302
+
+      - name: "The Norwington Estate"
+        id: 48089
+
+      - name: "Castaways and Cutouts"
+        id: 48421
+
+    horde:
+      - name: "Portents and Prophecies"
+        id: 49663
+
+      - name: "Port of Zandalar"
+        id: 50881
+
+      - name: "Warport Rastari"
+        id: 49310
+
+      - name: "Web of Lies"
+        id: 47528
+
+      - name: "Among the People"
+        id: 47741
+
+      - name: "The Zanchuli Council"
+        id: 47440 47439
+
+      - name: "March of the Loa"
+        id: 49426
+
+# Zone 2
+- name: "Drust Do It.|The Dark Heart of Nazmir"
+  icon: achievement/12497 achievement/11868 # Drust Do It. / The Dark Heart of Nazmir
+  iconText: "Z2"
+  minimumLevel: 10
+  lookup: faction
+  type: quest
+  data:
+    alliance:
+      - name: "The FInal Effigy"
+        id: 47982
+
+      - name: "The Burden of Proof"
+        id: 48198
+
+      - name: "An Airtight Alibi"
+        id: 48538
+
+      - name: "The Order of Embers"
+        id: 48946
+
+      - name: "A New Order"
+        id: 49807
+
+      - name: "Break on Through"
+        id: 50457
+
+      - name: "Storming the Manor"
+        id: 50588
+
+      - name: "Drustfall"
+        id: 49890
+
+      - name: "Fighting With Fire"
+        id: 50063
+
+      - name: "Stick It To 'Em!"
+        id: 50533
+
+    horde:
+      - name: "Deep in the Swamp"
+        id: 47188
+
+      - name: "A Pact with Death"
+        id: 47250
+
+      - name: "Undercover Sista"
+        id: 49082
+
+      - name: "Turtle Power"
+        id: 49160
+
+      - name: "A Friend of the Frogs"
+        id: 47696
+
+      - name: "Bring the Boom"
+        id: 47601
+
+      - name: "Everything Contained"
+        id: 49985
+
+      - name: "Bleeding the Blood Trolls"
+        id: 50087
+
+# Zone 3
+- name: "Stormsong and Dance|Secrets in the Sands"
+  icon: achievement/12496 achievement/12478 # Stormsong and Dance / Secrets in the Sands
+  iconText: "Z3"
+  minimumLevel: 10
+  lookup: faction
+  type: quest
+  data:
+    alliance:
+      - name: "The Tidesages of Stormsong"
+        id: 51401
+
+      - name: "A House in Peril"
+        id: 49997
+
+      - name: "The Growing Tempest"
+        id: 50611
+
+      - name: "At the Edge of Madness"
+        id: 50824
+
+      - name: "Cycle of Hatred"
+        id: 51712
+
+      - name: "From the Depths They Come"
+        id: 49831
+
+      - name: "Briarback Kraul"
+        id: 50640
+
+      - name: "Treasure in Deadwash"
+        id: 50742
+
+    horde:
+      - name: "Unlikely Allies"
+        id: 51364
+
+      - name: "Dangers in the Desert"
+        id: 48549
+
+      - name: "The Warguard's Fate"
+        id: 47874
+
+      - name: "A City of Secrets"
+        id: 50561
+
+      - name: "The Three Keepers"
+        id: 49340
+
+      - name: "Storming the Spire"
+        id: 50550
+
+      - name: "Atul'Aman"
+        id: 50702
