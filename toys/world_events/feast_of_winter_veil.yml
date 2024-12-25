@@ -1,6 +1,11 @@
 name: Feast of Winter Veil
 groups:
 
+- name: "Presents"
+  things:
+    - 208825 # Junior Timekeeper's Racing Belt
+    - 210656 # Winter Veil Socks
+
 - name: Quests
   things:
   -  17712 # Winter Veil Disguise Kit (You're a Mean One... chain)
@@ -9,6 +14,11 @@ groups:
   things:
   - 108635 # Crashin' Thrashin' Killdozer Controller
   - 188680 # Winter Veil Chorus Book
+
+- name: "2024"
+  things:
+    - 218310 # Box of Puntables
+    - 218308 # Winter Veil Cracker
 
 - name: "2022"
   things:
@@ -75,13 +85,14 @@ groups:
 
 - name: Stolen Presents
   things:
-  - 116692 # Fuzzy Green Lounge Cushion
-  - 116689 # Pineapple Lounge Cushion
-  - 116690 # Safari Lounge Cushion
-  - 116691 # Zhevra Lounge Cushion
-  -  54343 # Blue Crashin' Thrashin' Racer Controller (Jepetto)
-  - 116456 # Scroll of Storytelling
-  -  54438 # Tiny Blue Ragdoll (Jepetto)
-  -  54437 # Tiny Green Ragdoll (Jepetto)
-  -  44606 # Toy Train Set (Jepetto)
-  -  45057 # Wind-Up Train Wrecker (Jepetto)
+    -  54343 # Blue Crashin' Thrashin' Racer Controller (Jepetto)
+    - 209859 # Festive Trans-Dimensional Bird Whistle
+    - 116456 # Scroll of Storytelling
+    -  54438 # Tiny Blue Ragdoll (Jepetto)
+    -  54437 # Tiny Green Ragdoll (Jepetto)
+    -  44606 # Toy Train Set (Jepetto)
+    -  45057 # Wind-Up Train Wrecker (Jepetto)
+    - 116692 # Fuzzy Green Lounge Cushion
+    - 116689 # Pineapple Lounge Cushion
+    - 116690 # Safari Lounge Cushion
+    - 116691 # Zhevra Lounge Cushion

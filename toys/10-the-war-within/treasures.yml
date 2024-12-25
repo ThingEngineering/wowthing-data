@@ -1,6 +1,21 @@
 name: "Treasures"
 groups:
 
+- name: "Azj-Kahet"
+  things:
+    - 225347 # Web-Vandal's Spinning Wheel
+
 - name: "Hallowfall"
   things:
+    - 225659 # Arathi Book Collection
     - 224552 # Cave Spelunker's Torch
+    - 225641 # Illusive Kobyss Lure
+    - 224554 # Silver Linin' Scepter
+
+- name: "Isle of Dorn"
+  things:
+    - 224585 # Hanna's Locket
+
+- name: "Ringing Deeps"
+  things:
+    - 224783 # Sovereign's Finery Chest

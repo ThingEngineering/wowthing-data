@@ -11,13 +11,11 @@ groups:
   things:
     - 163986 # Orgrimmar Hero's War Banner (Blizzcon 2018)
     - 163987 # Stormwind Champion's War Banner (Blizzcon 2018)
+    - 210042 # Chilling Celebration Banner (Blizzcon 2023)
     - 206008 # Nightmare Banner (Diablo 4?)
     - 142542 # Tome of Town Portal (Diablo 20th Anniversary)
     - 143543 # Twelve-String Guitar (Diablo 20th Anniversary)
-    - 187834 # Tormented Banner of the Opportune (MDI thing #1)
-    - 187957 # Encrypted Banner of the Opportune (MDI thing #2)
-    - 203716 # Thundering Banner of the Aspects (WoW Esports: Dragonflight Season 1)
-    - 208057 # Smoldering Banner of the Aspects (WoW Esports: Dragonflight Season 2)
+    - 212337 # Stone of the Hearth (Hearthstone 10th Anniversary)
     - 201931 # Warcraft Rumble Toy: Maiev
     - 202862 # Warcraft Rumble Toy: Murloc
     - 202851 # Warcraft Rumble Toy: Night Elf Huntress
@@ -30,9 +28,21 @@ groups:
   things:
     - 206343 # Crimson Legend's Pennant (Legend: Dragonflight Season 1)
     - 206267 # Obsidian Legend's Pennant (Legend: Dragonflight Season 2)
+    - 210497 # Verdant Legend's Pennant (Legend: Dragonflight Season 3)
+    - 211869 # Draconic Legend's Pennant (Legend: Dragonflight Season 4)
+
+- name: "PvP Promotions"
+  things:
+    - 187834 # Tormented Banner of the Opportune (MDI thing #1)
+    - 187957 # Encrypted Banner of the Opportune (MDI thing #2)
+    - 218128 # Draconic Banner of the Aspects (MDI thing #3)
+    - 203716 # Thundering Banner of the Aspects (WoW Esports: Dragonflight Season 1)
+    - 208057 # Smoldering Banner of the Aspects (WoW Esports: Dragonflight Season 2)
+    - 211424 # Dreaming Banner of the Aspects (PvP stuff 2024)
 
 - name: "Remix: Pandaria"
   things:
+    - 220777 # Cherry Blossom Trail
     - 217725 # Essence of Yu'lon
     - 217726 # Fortitude of Niuzao
     - 217723 # Fury of Xuen

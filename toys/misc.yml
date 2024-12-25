@@ -3,7 +3,9 @@ groups:
 
 - name: Achievements
   things:
+    - 208421 # Compendium of the New Moon (Best Stellar)
     - 139773 # Emerald Winds (achievement)
+    - 211946 # Hearthstone Game Table (Hearthstone Beginner)
     -  87528 # Honorary Brewmaster Keg
     - 168016 # Hyper-Compressed Ocean (Secret Fish and Where to Find Them)
     - 174871 # Mayhem Mind Melder (The Shadows Revealed) pet battle achieve
@@ -12,10 +14,6 @@ groups:
     - 119215 # Robo-Gnomebulator
     -  92738 # Safari Hat
     - 174830 # Shadowy Diguise (Pet Battle Challenge: Blackrock Depths)
-
-- name: Events
-  things:
-  - 158149 # Overtuned Corgi Goggles (Anniversary)
 
 - name: Heirlooms
   things:

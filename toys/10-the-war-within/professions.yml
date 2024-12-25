@@ -1,0 +1,15 @@
+name: "Professions"
+groups:
+  
+- name: "Engineering"
+  things:
+    - 219387 # Barrel of Fireworks
+    - 221962 # Defective Escape Pod
+    - 221964 # Filmless Camera
+    - 219403 # Stonebound Lantern
+    - 221966 # Wormhole Generator: Khaz Algar
+
+- name: "Jewelcrafting"
+  things:
+    - 215147 # Beautification Iris
+    - 215145 # Remembrance Stone

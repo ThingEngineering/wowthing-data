@@ -1,12 +1,20 @@
 name: "Quests"
 groups:
 
-- name: "Azure Span, The"
+- name: "Amirdrassil"
+  things:
+    - 223146 # Satchel of Stormborn Seeds
+
+- name: "Azure Span"
   things:
     - 198474 # Artist's Easel (Happy Little Accidents)
     - 200926 # Compendium of Love (For The Love of Others)
     - 198090 # Jar of Excess Slime
     - 200628 # Somewhat-Stabilized Arcana (A Helping Claw)
+
+- name: "Emerald Dream"
+  things:
+    - 210864 # Improvised Leafbed
 
 - name: "Ohn'ahran Plains"
   things:
@@ -17,6 +25,7 @@ groups:
 - name: "Thaldraszus"
   things:
     - 191891 # Professor Chirpsnide's Im-PECK-able Harpy Disguise (The Awaited Egg-splosion)
+    - 208798 # Recorded Memories of Tyr's Guard (Disc Delivery)
 
 - name: "Waking Shores"
   things:

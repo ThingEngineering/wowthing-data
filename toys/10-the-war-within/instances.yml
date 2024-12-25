@@ -1,2 +1,11 @@
 name: "Instances"
 groups:
+
+- name: "City of Threads"
+  things:
+    - 226191 # Web Pet Leash
+
+- name: "Delves"
+  things:
+    - 225556 # Ancient Construct (chest)
+    - 225547 # Toxic Victory (Zekvir achievement)

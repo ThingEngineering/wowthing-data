@@ -1,6 +1,20 @@
 name: "Reputations"
 groups:
 
+- name: "Assembly of the Deeps"
+  things:
+    - 228698 # Candleflexer's Dumbbell
+
+- name: "Council of Dornogal"
+  things:
+    - 228706 # Rockslidomancer's Stone
+
+- name: "Hallowfall Arathi"
+  things:
+    - 228707 # Trial of Burning Light
+
 - name: "Severed Threads"
   things:
+    - 228705 # Arachnoserum
     - 226519 # General's Expertise
+    - 228940 # Notorious Thread's Hearthstone

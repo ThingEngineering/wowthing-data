@@ -5,6 +5,10 @@ groups:
   things:
     - 200631 # Happy Tuskarr Palooza (Brackenhide Hollow)
 
+- name: "Dungeons"
+  things:
+    - 208415 # Stasis Sand
+
 - name: "Raids"
   things:
     - 209035 # Hearthstone of the Flame

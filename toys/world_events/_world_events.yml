@@ -1,6 +1,13 @@
 name: World Events
 groups:
 
+- name: "Anniversary"
+  things:
+    - 158149 # Overtuned Corgi Goggles (?? Anniversary)
+    - 229828 # 20th Anniversary Balloon Chest (20th Anniversary)
+    - 228789 # Coldflame Ring (20th Anniversary)
+    - 224192 # Practice Ravager (20th Anniversary)
+
 - name: Day of the Dead
   things:
     - 116856 # "Blooming Rose" Contender's Costume
@@ -12,6 +19,7 @@ groups:
 - name: Noblegarden
   things:
     - 204675 # A Drake's Big Basket of Eggs
+    - 216881 # Duck Disguiser
     - 188698 # Eagger Basket
     - 165802 # Noble Gardener's Hearthstone
     - 188694 # Spring Florist's Pouch
@@ -23,4 +31,5 @@ groups:
     - 140363 # Pocket Fel Spreader (drop?)
     - 116400 # Silver-Plated Turkey Shooter (Pilgrim's Bounty)
     - 138415 # Slightly-Chewed Insult Book (Pirates' Day)
+    - 212518 # Vial of Endless Draconic Scales (Riders of Azeroth)
     -  69896 # Yellow Balloon (Children's Week)

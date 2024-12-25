@@ -3,15 +3,18 @@ groups:
 
 - name: Achievements
   things:
-  - 116651 # True Love Prism
+    - 116651 # True Love Prism
 
 - name: Apothecary Hummel
   things:
-  -  50471 # The Heartbreaker
+    -  50471 # The Heartbreaker
 
 - name: Vendors
   things:
-  - 142341 # Love Boat
-  - 165670 # Peddlefeet's Lovely Hearthstone
-  -  34480 # Romantic Picnic Basket
-  - 144339 # Sturdy Love Fool
+    - 210975 # Date Simulation Modulator
+    - 211864 # Exquisite Love Boat
+    - 210974 # Eyes For You Only
+    - 142341 # Love Boat
+    - 165670 # Peddlefeet's Lovely Hearthstone
+    -  34480 # Romantic Picnic Basket
+    - 144339 # Sturdy Love Fool

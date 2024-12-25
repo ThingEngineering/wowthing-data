@@ -4,7 +4,6 @@ groups:
 - name: "Shared"
   things:
     - 200148 # A Collection Of Me
-    - 200142 # Generous Goblin Grenade
     - 200178 # Infected Ichor
     - 200249 # Mage's Chewed Wand
     - 200198 # Primalist Prison

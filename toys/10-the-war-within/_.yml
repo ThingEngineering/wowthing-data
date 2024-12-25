@@ -1,2 +1,14 @@
 name: "The War Within"
 groups:
+
+- name: "Achievements"
+  things:
+    - 224251 # Memory Chord
+
+- name: "PvP"
+  things:
+    - 225969 # Forged Flag of Victory
+    - 225933 # Forged Legend's Pennant
+    - 232305 # Forged Champion's Prestigious Banner
+    - 227538 # Unbound Legend's Pennant
+    - 227539 # Unbound Strategist's Pennant

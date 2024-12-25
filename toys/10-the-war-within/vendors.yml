@@ -1,9 +1,23 @@
 name: "Vendors"
 groups:
 
-  - name: "Delves"
-    things:
-      - 211931 # Abyss Caller Horn
-      - 228413 # Lampyridae Lure
-      - 225910 # Pileus Delight
-      - 223312 # Trusty Hat
+- name: "City of Threads"
+  things:
+    - 228914 # Arachnophile Spectacles
+
+- name: "Ringing Deeps"
+  things:
+    - 224643 # Pet-Sized Candle
+
+- name: "Delves"
+  things:
+    - 211931 # Abyss Caller Horn
+    - 228413 # Lampyridae Lure
+    - 225910 # Pileus Delight
+    - 223312 # Trusty Hat
+
+- name: "Siren Isle"
+  things:
+    - 235015 # Awakened Supply Crate
+    - 233486 # Hallowfall Supply Cache
+    - 234473 # Soweezi's Comfy Lawn Chair
