@@ -1,0 +1,67 @@
+name: "Renown"
+groups:
+
+- name: "{reputation:2594}" # Assembly of the Deeps
+  icon: "achievement/40836"
+  iconText: "AotD"
+  lookup: none
+  minimumLevel: 70
+  type: quest
+  data:
+    0:
+      - id: 82349 # Carved Crests
+        description: "{repPrice:2594|6|15|-2919}" # 15x Carved Harbinger Crest at Renown 6
+
+      - id: 82333 # Weathered Crests
+        description: "{repPrice:2594|6|15|-2918}" # 15x Weathered Harbinger Crest at Renown 6
+
+      - id: 82346 # A Small Bundle of Valorstones
+        description: "{repPrice:2594|7|40|-3008}" # 40x Valorstone at Renown 7
+
+      - id: 82344 # Weathered Crests
+        description: "{repPrice:2594|9|15|-2918}" # 15x Weathered Harbinger Crest at Renown 9
+
+      - id: 82361 # A Large Bundle of Goods
+        description: "{price:1|3028} + {repPrice:2594|17|40|-3008}" # 40x Valorstone at Renown 17
+
+      - id: 82358 # Carved Crests
+        description: "{repPrice:2594|19|15|-2919}" # 15x Carved Harbinger Crest at Renown 19
+
+      - id: 82361 # A Small Bundle of Goods
+        description: "{repPrice:2594|22|40|-3008}" # 40x Valorstone at Renown 22
+
+      - id: 82365 # A Crafter's Delight
+        description: "{repPrice:2594|24|1|-1224072}" # 1x Enchanted Runed Harbinger Crest at Renown 24
+
+      - id: 82362 # For What Glimmers in Stone
+        description: "{repPrice:2594|25|15|-2919}" # 15x Carved Harbinger Crest at Renown 25
+
+- name: "{reputation:2590}" # Council of Dornogal
+  icon: "achievement/40856"
+  iconText: "CoD"
+  lookup: none
+  minimumLevel: 70
+  type: quest
+  data:
+    0:
+      - id: 82042
+
+- name: "{reputation:2570}" # Hallowfall Arathi
+  icon: "achievement/40845"
+  iconText: "HA"
+  lookup: none
+  minimumLevel: 70
+  type: quest
+  data:
+    0:
+      - id: 82042
+
+- name: "{reputation:2600}" # The Severed Threads
+  icon: "achievement/40838"
+  iconText: "ST"
+  lookup: none
+  minimumLevel: 70
+  type: quest
+  data:
+    0:
+      - id: 82042
