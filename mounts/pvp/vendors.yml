@@ -59,11 +59,22 @@ groups:
 
 - name: "Shadowlands Vicious Saddle"
   things:
-  - 1352 # Vicious War Spider (Shadowlands Season 1 Horde)
   - 1351 # Vicious War Spider (Shadowlands Season 1 Alliance)
-  - 1459 # Vicious War Gorm (Shadowlands Season 2 Horde)
+  - 1352 # Vicious War Spider (Shadowlands Season 1 Horde)
   - 1460 # Vicious War Gorm (Shadowlands Season 2 Alliance)
-  - 1451 # Vicious War Croaker (Shadowlands Season 3 Horde)
+  - 1459 # Vicious War Gorm (Shadowlands Season 2 Horde)
   - 1452 # Vicious War Croaker (Shadowlands Season 3 Alliance)
-  - 1466 # Vicious Warstalker (Shadowlands Season 4 Horde)
+  - 1451 # Vicious War Croaker (Shadowlands Season 3 Horde)
   - 1465 # Vicious Warstalker (Shadowlands Season 4 Alliance)
+  - 1466 # Vicious Warstalker (Shadowlands Season 4 Horde)
+
+- name: "Dragonflight Vicious Saddle"
+  things:
+  - 1689 # Vicious Sabertooth [A] (Season 1)
+  - 1688 # Vicious Sabertooth [H] (Season 1)
+  - 1741 # Vicious War Snail [A] (Season 2)
+  - 1740 # Vicious War Snail [H] (Season 2)
+  - 1819 # Vicious Moonbeast [A] (Season 3)
+  - 1820 # Vicious Moonbeast [H] (Season 3)
+  - 2056 # Vicious Dreamtalon [A] (Season 4)
+  - 2057 # Vicious Dreamtalon [H] (Season 4)

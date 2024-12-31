@@ -1,11 +1,6 @@
 name: "Miscellaneous"
 groups:
 
-- name: "PvP"
-  things:
-  - 2056 # Vicious Dreamtalon [A] (Season 4)
-  - 2057 # Vicious Dreamtalon [H] (Season 4)
-
 - name: "Treasures"
   things:
   - 1469 # Magmashell

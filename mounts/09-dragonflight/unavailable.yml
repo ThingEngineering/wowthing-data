@@ -15,17 +15,8 @@ groups:
   - 1801 # Verdant Armoredon (KSM Season 3)
   - 2055 # Infinite Armoredon (KSM Season 4)
 
-- name: "PvP"
-  things:
-  - 1689 # Vicious Sabertooth [A] (Season 1)
-  - 1688 # Vicious Sabertooth [H] (Season 1)
-  - 1741 # Vicious War Snail [A] (Season 2)
-  - 1740 # Vicious War Snail [H] (Season 2)
-  - 1819 # Vicious Moonbeast [A] (Season 3)
-  - 1820 # Vicious Moonbeast [H] (Season 3)
-
 - name: "Plunderstorm"
   things:
-  - 1259 # Silver Tidestallion
-  - 994 # Royal Seafeather
   - 2090 # Polly Roger
+  - 994 # Royal Seafeather
+  - 1259 # Silver Tidestallion
