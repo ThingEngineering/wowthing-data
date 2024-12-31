@@ -8,7 +8,16 @@ groups:
   type: questline
   data:
     0:
-      - id: 236
+      - id: 5512 # Boskroot of the Problem
+      - id: 5605 # Merrix and Steelvein
+      - id: 5524 # Seven Soldiers
+      - id: 5509 # Rambleshire
+      - id: 5601 # Hope, An Anomaly
+      - id: 5596 # Elemental Healing
+      - id: 5652 # A Titanic Adventure
+      - id: 5606 # Mourning Rise
+      - id: 5571 # Brotherhood in the Skolzgal Wood
+      - id: 5591 # Opalcreg
 
 - name: "The Ringing Deeps"
   icon: "achievement/40799"
@@ -26,7 +35,21 @@ groups:
   type: questline
   data:
     0:
-      - id: 238
+      - id: 5522 # Bringing Light to Velhan's Claim
+      - id: 5610 # The Priory
+      - id: 5563 # Striking Steel
+      - id: 5608 # Lost in the Darkness
+      - id: 5532 # The Sky's the Limit
+      - id: 5602 # Crushing Depths
+      - id: 5552 # The Last Mage of Hallowfall
+      - id: 5607 # The Weight of Duty
+      - id: 5574 # Apart for Purpose
+      - id: 5542 # Rest at Last
+      - id: 5527 # An Orphan's Dilemma
+      - id: 5645 # The Mysterious Chef
+      - id: 5603 # What Grows in the Dark
+      - id: 5628 # Suspicious Neighbors
+      - id: 5609 # Memories of the Sky
 
 - name: "Azj-Kahet"
   icon: "achievement/40636"
