@@ -672,7 +672,10 @@ farms:
 
 - name: "Cracked Hourglass"
   location: 34.0 77.0
+  note: "Loot and use {item:199068} from dirt piles"
+  objectId: 381223
   questId: 70607
+  requiredQuestId: 70537
   reset: never
   type: treasure
   drops:
