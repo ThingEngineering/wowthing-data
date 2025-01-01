@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../../../_schema/db.json
+
+tags:
+  - "treasure"
+
+things:
+  - type: "object"
+    id: 444256
+    name: "Kaja'Cola Machine"
+    reset: "never"
+    trackingQuestId: 82819
+    locations:
+      here:
+        - "58.8 64.2"
+    contents:
+      - type: "item"
+        id: 220774 # Goblin Mini Fridge
+        note: "{item:223741} > {item:223743} > {item:223744} > {item:223742}"
