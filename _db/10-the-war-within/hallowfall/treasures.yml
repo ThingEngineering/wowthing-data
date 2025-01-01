@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../../../_schema/db.json
+
+tags:
+  - "treasure"
+
+things:
+  - type: "object"
+    id: 441611
+    name: "Windswept Satchel"
+    reset: "never"
+    trackingQuestId: 81972
+    locations:
+      here:
+        - "30.2 38.8"
+    contents:
+      - type: "item"
+        id: 224578 # Arathor Courier's Satchel
