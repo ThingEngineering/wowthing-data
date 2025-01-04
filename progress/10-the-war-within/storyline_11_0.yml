@@ -9,7 +9,7 @@ groups:
     0:
       - id: 235
 
-- name: "Isle of Dorn"
+- name: "Isle of Dorn Story"
   icon: "achievement/20118"
   iconText: "IoD"
   lookup: none
@@ -18,7 +18,7 @@ groups:
     0:
       - id: 236
 
-- name: "The Ringing Deeps"
+- name: "The Ringing Deeps Story"
   icon: "achievement/19560"
   iconText: "RD"
   lookup: none
@@ -27,7 +27,7 @@ groups:
     0:
       - id: 237
 
-- name: "Hallowfall"
+- name: "Hallowfall Story"
   icon: "achievement/20598"
   iconText: "Hal"
   lookup: none
@@ -36,7 +36,7 @@ groups:
     0:
       - id: 238
 
-- name: "Azj-Kahet"
+- name: "Azj-Kahet Story"
   icon: "achievement/19559"
   iconText: "AK"
   lookup: none

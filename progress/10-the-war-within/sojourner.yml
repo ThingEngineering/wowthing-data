@@ -1,7 +1,7 @@
 name: "Zone Sojourner"
 groups:
 
-- name: "Isle of Dorn"
+- name: "Sojourner of Isle of Dorn"
   icon: "achievement/20595"
   iconText: "IoD"
   lookup: none
@@ -19,7 +19,7 @@ groups:
       - id: 5571 # Brotherhood in the Skolzgal Wood
       - id: 5591 # Opalcreg
 
-- name: "The Ringing Deeps"
+- name: "Sojourner of The Ringing Deeps"
   icon: "achievement/40799"
   iconText: "RD"
   lookup: none
@@ -28,7 +28,7 @@ groups:
     0:
       - id: 237
 
-- name: "Hallowfall"
+- name: "Sojourner of Hallowfall"
   icon: "achievement/40844"
   iconText: "Hal"
   lookup: none
@@ -51,7 +51,7 @@ groups:
       - id: 5628 # Suspicious Neighbors
       - id: 5609 # Memories of the Sky
 
-- name: "Azj-Kahet"
+- name: "Sojourner of Azj-Kahet"
   icon: "achievement/40636"
   iconText: "AK"
   lookup: none
