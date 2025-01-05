@@ -11,41 +11,6 @@ sells:
   # 0
 
   - type: item
-    id: 226511 # Nerubimorph Poultice
-    costs:
-      3056: 25
-
-  - type: item
-    id: 226518 # Phero-Escape
-    costs:
-      3056: 25
-
-  - type: item
-    id: 228949 # Rumor Map
-    costs:
-      3056: 25
-
-  - type: item
-    id: 228950 # Rumor Map Bundle
-    costs:
-      3056: 125
-
-  - type: item
-    id: 228952 # Treasure Map Bundle
-    costs:
-      3056: 125
-
-  - type: item
-    id: 226513 # Treasure Map: Kaheti Excavation
-    costs:
-      3056: 25
-
-  - type: item
-    id: 226508 # Vizier's Influence
-    costs:
-      3056: 50
-
-  - type: item
     id: 228945 # Executor's Severed Thread
     costs:
       3056: 250

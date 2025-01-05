@@ -97,11 +97,6 @@ sells:
       2815: 1000
 
   - type: item
-    id: 206350 # Radiant Remnant
-    costs:
-      2815: 325
-
-  - type: item
     id: 228707 # Trial of Burning Light
     costs:
       2815: 5000

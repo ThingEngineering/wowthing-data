@@ -14,15 +14,15 @@ sells:
     costs:
       3055: 100
 
-  - type: item
-    id: 225770 # Algari Anglerthread
-    costs:
-      3055: 10
+  # - type: item
+  #   id: 225770 # Algari Anglerthread
+  #   costs:
+  #     3055: 10
 
-  - type: item
-    id: 225771 # Algari Seekerthread
-    costs:
-      3055: 10
+  # - type: item
+  #   id: 225771 # Algari Seekerthread
+  #   costs:
+  #     3055: 10
 
   - type: item
     id: 224717 # Ensemble: Cerulean Dredger
@@ -54,10 +54,10 @@ sells:
     costs:
       3055: 50
 
-  - type: item
-    id: 228954 # Angler's Guide
-    costs:
-      0: 1 # Gold
+  # - type: item
+  #   id: 228954 # Angler's Guide
+  #   costs:
+  #     0: 1 # Gold
 
   - type: item
     id: 228422 # Recipe: Ghoulfish Delight

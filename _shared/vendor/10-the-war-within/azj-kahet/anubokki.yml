@@ -11,36 +11,6 @@ sells:
   # 0
 
   - type: item
-    id: 226509 # General's Insight
-    costs:
-      3056: 50
-
-  - type: item
-    id: 228949 # Rumor Map
-    costs:
-      3056: 25
-
-  - type: item
-    id: 228950 # Rumor Map Bundle
-    costs:
-      3056: 125
-
-  - type: item
-    id: 228952 # Treasure Map Bundle
-    costs:
-      3056: 125
-
-  - type: item
-    id: 226512 # Treasure Map: Forgotten Memorial
-    costs:
-      3056: 25
-
-  - type: item
-    id: 226507 # Venom Dahn's Webscrub
-    costs:
-      3056: 25
-
-  - type: item
     id: 228944 # Crypt Lord's Severed Thread
     costs:
       3056: 250

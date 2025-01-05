@@ -11,36 +11,6 @@ sells:
   # 0
 
   - type: item
-    id: 226511 # Nerubimorph Poultice
-    costs:
-      3056: 25
-
-  - type: item
-    id: 228949 # Rumor Map
-    costs:
-      3056: 25
-
-  - type: item
-    id: 228950 # Rumor Map Bundle
-    costs:
-      3056: 125
-
-  - type: item
-    id: 228952 # Treasure Map Bundle
-    costs:
-      3056: 125
-
-  - type: item
-    id: 226514 # Treasure Map: Weave-Rat Cache
-    costs:
-      3056: 25
-
-  - type: item
-    id: 226510 # Weaver's Facade
-    costs:
-      3056: 50
-
-  - type: item
     id: 228943 # Spymaster's Severed Thread
     costs:
       3056: 250
