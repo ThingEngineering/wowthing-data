@@ -1,0 +1,35 @@
+name: "Raid Skips"
+minimumLevel: 80
+groups:
+
+- name: "Nerub-ar Palace"
+  icon: "achievement/40244" # Nerub-ar Palace
+  iconText: "NP"
+  type: raidSkip
+  data:
+    normal:
+    - name: "twwPalace1Normal"
+
+    heroic:
+    - name: "twwPalace1Heroic"
+
+    mythic:
+    - name: "twwPalace1Mythic"
+
+- name: separator
+
+- name: "Liberation of Undermine"
+  icon: "achievement/41222" # Liberation of Undermine
+  iconText: "LoU"
+  type: raidSkip
+  data:
+    normal:
+    - name: "twwUndermine1Normal"
+
+    heroic:
+    - name: "twwUndermine1Heroic"
+
+    mythic:
+    - name: "twwUndermine1Mythic"
+
+- name: separator
