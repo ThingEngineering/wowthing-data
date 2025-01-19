@@ -17,53 +17,57 @@ groups:
 
 - name: Promotions
   things:
-  - 1424 # Snowstorm (The Celebration Collection)
-  - 1458 # Wandering Ancient (Shadowlands)
-  - 1513 # Sarge's Tale (Hearthstone)
-  - 1193 # Meat Wagon (Warcraft III: Reforged Spoils of War Edition)
-  - 243 # Big Blizzard Bear (BlizzCon 2008)
-  - 959 960 # Stormwind Skychaser/Orgrimmar Interceptor (BlizzCon 2017)
-  - 960 959 # ^ reversed
-  - 1679 # Frostbrood Proto-Wyrm (WotLK DK Starter Zone)
-  - 1581 # Nether-Gorged Greatwyrm (6 month sub)
-  - 1312 # Gargantuan Grrloc (12 month sub)
-  - 1662 # Telix the Stormhorn (12 month sub)
-  - 1795 # Auspicious Arborwyrm (6/12 month sub?)
-  - 1596 # Amalgam of Rage (Diablo IV)
-  - 2140 # Charming Courier (6/12 month sub)
-  - 2259 # Gigantic Grrloc (12 month sub)
-  - 2235 # Startouched Furline (12 month sub)
+    - 1424 # Snowstorm (The Celebration Collection)
+    - 1458 # Wandering Ancient (Shadowlands)
+    - 1513 # Sarge's Tale (Hearthstone)
+    - 1193 # Meat Wagon (Warcraft III: Reforged Spoils of War Edition)
+    - 243 # Big Blizzard Bear (BlizzCon 2008)
+    - 959 960 # Stormwind Skychaser/Orgrimmar Interceptor (BlizzCon 2017)
+    - 960 959 # ^ reversed
+    - 1679 # Frostbrood Proto-Wyrm (WotLK DK Starter Zone)
+    - 1581 # Nether-Gorged Greatwyrm (6 month sub)
+    - 1312 # Gargantuan Grrloc (12 month sub)
+    - 1662 # Telix the Stormhorn (12 month sub)
+    - 1795 # Auspicious Arborwyrm (6/12 month sub?)
+    - 1596 # Amalgam of Rage (Diablo IV)
+    - 2140 # Charming Courier (6/12 month sub)
+    - 2259 # Gigantic Grrloc (12 month sub)
+    - 2235 # Startouched Furline (12 month sub)
+    - 2315 # Timbered Sky Snake (12 month sub)
 
 - name: Store
   things:
-  - 1266 # Alabaster Stormtalon
-  - 1267 # Alabaster Thunderwing
-  - 544 # Armored Bloodwing
-  - 376 # Celestial Steed
-  - 1051 # The Dreadwake
-  - 551 # Enchanted Fey Dragon
-  - 1797 # Ginormous Grrloc
-  - 594 # Grinning Reaver
-  - 446 # Heart of the Aspects
-  - 1221 # Hogrus, Swine of Good Fortune
-  - 571 # Iron Skyreaver
-  - 1594 # Jade, Bright Foreseer
-  - 1291 # Lucky Yun
-  - 949 # Luminous Starseeker
-  - 741 # Mystic Runesaber
-  - 1456 # Sapphire Skyblazer (6 month sub reward)
-  - 1011 # Shu-zen, the Divine Sentinel
-  - 1290 # Squeakers, the Trickster
-  - 1346 # Steamscale Incinerator (6 month sub reward))
-  - 1330 # Sunwarmed Furline
-  - 523 # Swift Windsteed
-  - 1223 # Sylverian Dreamer
-  - 1222 # Vulpine Familiar
-  - 593 # Warforged Nightmare
-  - 1531 # Wen Lo, the River's Edge
-  - 421 # Winged Guardian
-  - 1692 # Wondrous Wavewhisker
-  - 2265 # Trader's Gilded Brutosaur
+    - 1266 # Alabaster Stormtalon
+    - 1267 # Alabaster Thunderwing
+    - 544 # Armored Bloodwing
+    - 376 # Celestial Steed
+    - 1051 # The Dreadwake
+    - 551 # Enchanted Fey Dragon
+    - 1797 # Ginormous Grrloc
+    - 594 # Grinning Reaver
+    - 2237 # Grizzly Hills Packmaster
+    - 446 # Heart of the Aspects
+    - 1221 # Hogrus, Swine of Good Fortune
+    - 571 # Iron Skyreaver
+    - 1594 # Jade, Bright Foreseer
+    - 1291 # Lucky Yun
+    - 949 # Luminous Starseeker
+    - 741 # Mystic Runesaber
+    - 1456 # Sapphire Skyblazer (6 month sub reward)
+    - 1011 # Shu-zen, the Divine Sentinel
+    - 2329 # Silvermoon Sweeper
+    - 2331 # Sky Witch's Sweeper
+    - 1290 # Squeakers, the Trickster
+    - 1346 # Steamscale Incinerator (6 month sub reward))
+    - 1330 # Sunwarmed Furline
+    - 523 # Swift Windsteed
+    - 1223 # Sylverian Dreamer
+    - 2330 # Twilight Witch's Sweeper
+    - 1222 # Vulpine Familiar
+    - 593 # Warforged Nightmare
+    - 1531 # Wen Lo, the River's Edge
+    - 421 # Winged Guardian
+    - 1692 # Wondrous Wavewhisker
 
 - name: TCG
   things:

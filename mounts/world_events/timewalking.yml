@@ -21,7 +21,8 @@ groups:
 
 - name: Wrath of the Lich King
   things:
-  - 552 # Ironbound Wraithcharger
+    - 2317 # Enchanted Spellweave Carpet
+    - 552 # Ironbound Wraithcharger
 
 - name: Cataclysm
   things:

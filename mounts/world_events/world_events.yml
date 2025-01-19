@@ -33,9 +33,14 @@ groups:
 
 - name: Love is in the Air
   things:
-  - 352 # Big Love Rocket (Love is in the Air)
-  - 1941 # Heartseeker Mana Ray
-  - 431 # Swift Lovebird (Love is in the Air)
+    - 352 # Big Love Rocket (Love is in the Air)
+    - 1941 # Heartseeker Mana Ray
+    - 2328 # Love Witch's Sweeper
+    - 431 # Swift Lovebird (Love is in the Air)
+
+- name: "Lunar Festival"
+  things:
+    - 2327 # Lunar Launcher
 
 - name: Noblegarden
   things:

@@ -13,3 +13,7 @@ groups:
   - 568 # Emerald Hippogryph
   - 455 # Obsidian Nightwing
   - 382 # X-53 Touring Rocket
+
+- name: "Store"
+  things:
+    - 2265 # Trader's Gilded Brutosaur

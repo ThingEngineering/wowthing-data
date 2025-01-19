@@ -1,6 +1,10 @@
 name: "Quests"
 groups:
 
-- name: "Quests"
+- name: "Dornogal"
   things:
-  - 2144 # Delver's Dirigible, Ship It!
+    - 2144 # Delver's Dirigible, Ship It!
+
+- name: "Siren Isle"
+  things:
+    - 2469 # Prismatic Snapdragon

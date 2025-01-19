@@ -16,6 +16,7 @@ groups:
 
 - name: Other
   things:
-  - 664 # Emerald Drake (instance mounts)
-  - 547 # Hearthsteed
-  - 1190 # Pureheart Courser (100 Exalted Reputations)
+    - 664 # Emerald Drake (instance mounts)
+    - 547 # Hearthsteed
+    - 1190 # Pureheart Courser (100 Exalted Reputations)
+    - 2321 # Timely Buzzbee (Master of the Turbulent Timeways II)

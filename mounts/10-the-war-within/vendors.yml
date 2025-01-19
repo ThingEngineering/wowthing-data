@@ -4,3 +4,7 @@ groups:
 - name: "Isle of Dorn"
   things:
   - 2165 # Soaring Meaderbee
+
+- name: "Siren Isle"
+  things:
+    - 2333 # Soweezi's Vintage Waveshredder
