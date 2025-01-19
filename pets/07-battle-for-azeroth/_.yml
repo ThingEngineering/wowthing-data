@@ -38,13 +38,14 @@ groups:
   - 2190 # Guardian Cobra Hatchling (My Hungry Neighbor, Vol'dun)
   - 2714 # OOX-35/MG (My Chickens are Not for Eating!, Mechagon)
   - 2188 # Poda (Missing Business, Vol'dun)
+  - 2872 # Shadowbarb Hatchling (Uldum Invasions)
   - 2198 # Taptaf (Taptaf the Pig!, Drustvar)
   - 2192 # Vengeful Chicken (Cutting Edge Poultry Science, ??)
 
 - name: Tinkering
   things:
-  - 2716 # Utility Mechanoclaw
   - 2717 # Microbot XD
+  - 2716 # Utility Mechanoclaw
 
 - name: Treasures
   things:

@@ -1,0 +1,15 @@
+name: "Timewalking"
+groups:
+
+- name: "TBC"
+  things:
+    - 4689 # Karazhan Syphoner
+
+- name: "WotLK"
+  things:
+    - 4686 # Specter
+
+- name: "MoP"
+  things:
+    - 2017 # Infinite Hatchling (Timeless Isle - Mistweaver Xia)
+    - 2018 # Paradox Spirit (Timeless Isle - Mistweaver Xia)

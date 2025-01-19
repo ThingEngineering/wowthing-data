@@ -1,6 +1,20 @@
 name: World Events
 groups:
 
+- name: "Anniversary"
+  things:
+    - 202 # Baby Blizzard Bear (4th Anniversary)
+    - 1890 # Corgi Pup (12th Anniversary)
+    - 4593 # Craggles (20th Anniversary)
+    - 1544 # Hatespark the Tiny (10th Anniversary Molten Core)
+    - 4678 # Lil'Doomy (20th Anniversary)
+    - 4679 # Lil'Kaz (20th Anniversary, Lord Kazzak)
+    - 2621 # Lil' Nefarian (15th Anniversary)
+    - 4592 # Misty (20th Anniversary)
+    - 1451 # Molten Corgi (10th Anniversary)
+    - 243 # Onyxian Whelpling (5th Anniversary)
+    - 3100 # Timeless Mechanical Dragonling (17th Anniversary)
+
 - name: Brawler's Guild
   things:
   - 1142 # Clock'em - Brawler's Guild
@@ -21,8 +35,10 @@ groups:
   - 119 # Father Winter's Helper
   - 2114 # Globe Yeti
   - 1725 # Grumpling
+  - 4691 # Grunch
   - 2622 # Jingles
   - 337 # Lumpy
+  - 4694 # Portentous Present
   - 1349 # Rotten Little Helper
   - 117 # Tiny Snowman
   - 118 # Winter Reindeer
@@ -44,6 +60,7 @@ groups:
 - name: Love is in the Air
   things:
     - 3549 # Heartseeker Moth
+    - 4704 # Living Rose
     - 1511 # Lovebird Hatchling
     - 122 # Peddlefeet
     - 251 # Toxic Wasteling
@@ -72,11 +89,11 @@ groups:
   - 1516 # Bush Chicken
   - 201 # Plump Turkey
 
+- name: "Plunderstorm"
+  things:
+    - 4692 # Sparklesnap
+    - 4695 # Parley
+
 - name: "Secrets of Azeroth"
   things:
     - 4263 # Tobias
-
-- name: Timewalking
-  things:
-  - 2017 # Infinite Hatchling (Timeless Isle - Mistweaver Xia)
-  - 2018 # Paradox Spirit (Timeless Isle - Mistweaver Xia)

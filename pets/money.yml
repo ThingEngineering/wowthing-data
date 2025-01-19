@@ -29,6 +29,7 @@ groups:
   - 258 # Mini Thor (SC2:WoL)
   - 903 # Baneling (SC2:HotS)
   - 1255 # Zeradar (SC2:LotV)
+  - 4406 # Sarge (Hearthstone anniversary)
 
 - name: Promotions
   things:
@@ -37,6 +38,7 @@ groups:
   - 4616 # Gummi (Trolli)
   - 4618 # Chillbot 9000 (Mountain Dew)
   - 4617 # Thrillbot 9000 (Mountain Dew)
+  - 4595 # Lil' Flameo (Steelseries)
 
 - name: Store
   things:
@@ -47,25 +49,30 @@ groups:
   - 1466 # Brightpaw
   - 2185 # Cap'n Crackers
   - 316 # Cenarion Hatchling
+  - 4568 # Charismatic Courier
   - 1117 # Cinder Kitten
   - 3253 # Crushhoof
   - 2780 # Daisy
   - 2623 # Dottie
   - 245 # Gryphon Hatchling
   - 311 # Guardian Cub
+  - 4421 # Hoplet
   - 3248 # Ichabod
   - 249 # Lil' K.T.
   - 4267 # Lil' Maggz
   - 297 # Lil' Ragnaros
   - 3249 # Lil' Ursoc
   - 256 # Lil' XT
+  - 4730 # Mech-Friend Maya
   - 1936 # Mischief
   - 296 # Moonkin Hatchling (Alliance)
   - 298 # Moonkin Hatchling (Horde)
   - 248 # Pandaren Monk
+  - 4682 # Reven
   - 2062 # Shadow
   - 347 # Soul of the Aspects
   - 2890 # Sunny
+  - 4684 # Timbered Sky Snakelet
   - 2051 # Twilight
   - 2184 # Whomper
   - 246 # Wind Rider Cub

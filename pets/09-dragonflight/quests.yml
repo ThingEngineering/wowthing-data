@@ -1,10 +1,22 @@
 name: "Quests"
 groups:
 
-- name: "Azure Span, The"
+- name: "Azure Span"
   things:
     - 3368 # Shiverweb Broodling (Kill the Queen)
     - 3319 # Yipper (The Great Shokhari)
+
+- name: "Emerald Dream"
+  things:
+    - 4297 # Kal'andu
+    - 3552 # Rithro
+
+- name: "Forbidden Reach"
+  things:
+    - 3446 # Vortex
+    - 3447 # Tremblor
+    - 3448 # Wildfire
+    - 3449 # Flow
 
 - name: "Ohn'ahran Plains"
   things:
@@ -20,8 +32,9 @@ groups:
     - 3316 # Lubbins (Oh WEhere, Oh Where Can He Be?)
     - 3286 # Mister Toots (So How Did It Go?)
 
-- name: "Waking Shores, The"
+- name: "Waking Shores"
   things:
+    - 3360 # Bugbiter Tortoise
     - 3342 # Spyragos
 
 - name: "Whelp Daycare"
@@ -37,9 +50,8 @@ groups:
     - 3599 # Zalethgos
     - 3598 # Zhusadormu
 
-- name: "Forbidden Reach"
+- name: "Zaralek Cavern"
   things:
-    - 3446 # Vortex
-    - 3447 # Tremblor
-    - 3448 # Wildfire
-    - 3449 # Flow
+    - 3536 # Bashful
+    - 3540 # Brulee
+    - 3538 # Tricky

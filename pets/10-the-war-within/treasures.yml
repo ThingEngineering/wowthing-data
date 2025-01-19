@@ -10,10 +10,12 @@ groups:
 - name: "Hallowfall"
   things:
     - 4534 # Nightfarm Growthling
+    - 4472 # Shadowbog Hopper
 
 - name: "Isle of Dorn"
   things:
     - 4594 # Dalaran Sewer Turtle
+    - 4596 # Faithful Dog
     - 4527 # Lil' Moss Rosy
     - 3362 # Sapphire Crab
 
@@ -21,3 +23,7 @@ groups:
   things:
     - 4536 # Blightbud
     - 4470 # Oop'lajax
+
+- name: "Siren Isle"
+  things:
+    - 4708 # Marmaduke

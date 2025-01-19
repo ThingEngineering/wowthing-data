@@ -1,0 +1,7 @@
+name: "Drops"
+groups:
+
+- name: "Siren Isle"
+  things:
+    - 4726 # Crackleroar
+    - 2541 # Proper Parrot

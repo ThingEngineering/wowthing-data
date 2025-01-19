@@ -1,2 +1,12 @@
 name: "The War Within"
 groups:
+
+- name: "Achievemnts"
+  things:
+    - 4500 # Lil' Bonechewer (Worm Theory)
+    - 4581 # Ruby-Eyed Stagshell (A Champion's Tour: The War Within)
+    - 4517 # Waxwick (Khaz Algar Safari)
+
+- name: "Professions"
+  things:
+    - 4482 # Writhing Transmutagen

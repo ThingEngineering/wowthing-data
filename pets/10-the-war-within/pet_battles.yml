@@ -94,3 +94,15 @@ groups:
     - 4521 # Subterranean Dartswog
     - 4522 # Troglofrog
     - 4516 # Vibrant Glowfly
+
+- name: "Siren Isle"
+  things:
+    - 4724 # Battleboar Piglet
+    - 4703 # Cave Kroling
+    - 4723 # Cliffreach Cub
+    - 4710 # Pillaged Parrot
+    - 4702 # Rusty Kroling
+    - 4732 # Scavenging Snapdragon
+    - 4711 # Snapdragon Pup
+    - 4731 # Storm-Infused Snapdragon
+    - 4628 # Tidal Kroling

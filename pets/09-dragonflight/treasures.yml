@@ -1,10 +1,18 @@
 name: "Treasures"
 groups:
 
-- name: "Azure Span, The"
+- name: "Shared"
+  things:
+    - 3581 # Mote of Nasz'uro
+
+- name: "Azure Span"
   things:
     - 3321 # Blackfeather Nester (Blackfeather Nester)
     - 3359 # Snowclaw Cub (Primal Bear Cub)
+
+- name: "Forbidden Reach"
+  things:
+    - 3545 # Salverun
 
 - name: "Ohn'ahran Plains"
   things:
@@ -15,7 +23,11 @@ groups:
     - 3275 # Chestnut (Acorn Harvester)
     - 3415 # Cubbly (Strange Bear Cub)
 
-- name: "Waking Shores, The"
+- name: "Waking Shores"
   things:
     - 3269 # Azure Frillfish (Bubble Drifter)
     - 3365 # Roseate Hopper (Hidden Hornswog Hostage)
+
+- name: "Zaralek Cavern"
+  things:
+    - 3521 # Lord Stantley

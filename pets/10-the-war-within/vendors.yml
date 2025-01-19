@@ -12,3 +12,16 @@ groups:
 - name: "Dornogal"
   things:
     - 4543 # Sir Shady Mrrgglton Junior
+
+- name: "Hallowfall"
+  things:
+    - 4463 # Tiberius
+
+- name: "Ringing Deeps"
+  things:
+    - 4598 # Coppers
+    - 4597 # Wobbles
+
+- name: "Siren Isle"
+  things:
+    - 4727 # Skitterbite

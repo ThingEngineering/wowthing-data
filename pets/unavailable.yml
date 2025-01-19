@@ -1,17 +1,9 @@
 name: Unavailable
 groups:
 
-- name: Anniversaries
+- name: "Anniversary"
   things:
-  - 202 # Baby Blizzard Bear (4th Anniversary)
-  - 243 # Onyxian Whelpling (5th Anniversary)
-  - 1544 # Hatespark the Tiny (10th Anniversary Molten Core)
-  - 1451 # Molten Corgi (10th Anniversary)
-  - 1890 # Corgi Pup (12th Anniversary)
-  - 2621 # Lil' Nefarian (15th Anniversary)
-  - 3100 # Timeless Mechanical Dragonling (17th Anniversary)
-  - 4678 # Lil'Doomy (20th Anniversary, Vendor)
-  - 4679 # Lil'Kaz (20th Anniversary, Lord Kazzak)
+    - 4265 # Lil' Frostwing
 
 - name: BlizzCon
   things:
@@ -53,6 +45,7 @@ groups:
   - 231 # Jade Tiger (RAF)
   - 171 # Silver Pig (RAF)
   - 247 # Zipao Tiger (RAF)
+  - 3475 # Volatile Self-Driving Toolbox
 
 - name: "The War Within Launch"
   things:

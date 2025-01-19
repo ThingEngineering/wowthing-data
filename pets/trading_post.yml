@@ -27,12 +27,16 @@ groups:
     - 4602 # Claudius (2024-09)
     - 3542 # Soot-Stained Shalewing (2024-10)
     - 4669 # Bluedoo (2024-12)
+    - 4719 # Wind-Up Woofer (2025-01)
+    - 4718 # Wind-Up Wuffi (2025-01)
 
 - name: "NYI"
   things:
     - 4410 # Beetriz
     - 3244 # Drazka'zet the Wrathful
+    - 4729 # Fullbelly Rollingpaw
     - 3242 # Lil' Maka'jin
     - 297 # Lil' Ragnaros
     - 4615 # Parrlok
+    - 4728 # Teatuft Tamer
     - 3254 # Watcher of the Huntress

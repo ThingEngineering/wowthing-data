@@ -1,0 +1,17 @@
+name: "Quests"
+groups:
+
+- name: "Azj-Kahet"
+  things:
+    - 4582 # Rak-Ush Battleshell
+    - 4542 # Slim
+
+- name: "Hallowfall"
+  things:
+    - 4520 # Fathom Incher
+    - 4462 # Thunder
+    - 4465 # Vanilla
+
+- name: "Ringing Deeps"
+  things:
+    - 4570 # Cinderwold Sizzlestinger
