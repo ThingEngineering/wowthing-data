@@ -1,0 +1,18 @@
+name: "Intro"
+groups:
+
+- name: "Heart of Azeroth"
+  icon: "item/158075"
+  iconText: "HoA"
+  lookup: faction
+  type: quest
+  data:
+    alliance:
+      - id: 52946 # A Dying World
+      - id: 51211 # The Heart of Azeroth
+      - id: 52428 # Infusing the Heart
+
+    horde:
+      - id: 53028 # A Dying World
+      - id: 51211 # The Heart of Azeroth
+      - id: 52428 # Infusing the Heart

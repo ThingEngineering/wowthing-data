@@ -25,6 +25,7 @@
     08-shadowlands/raid_skips.yml
 
 07-battle-for-azeroth/_.yml
+    07-battle-for-azeroth/intro.yml
     07-battle-for-azeroth/zone_quests.yml
     07-battle-for-azeroth/war_campaign.yml
     07-battle-for-azeroth/patch_8_2.yml
