@@ -28,7 +28,7 @@
   - 115587 # Shadow Council's Leggings [warlock]
   - 115569 # Legplates of Guiding Light [paladin]
 
-# Essence of the Iron Conquerer
+# Essence of the Iron Conquerer [H-Normal]
 119310: &conq_essence
   - 115563 # Soul Priest's Hood [priest]
   - 115561 # Soul Priest's Shoulderguards [priest]
@@ -46,8 +46,11 @@
   - 115567 # Gauntlets of Guiding Light [paladin]
   - 115569 # Legplates of Guiding Light [paladin]
 
-# Essence of the Iron Conqueror [Mythic]
-120283: *conq_essence
+120277: *conq_essence # A-Normal
+120280: *conq_essence # A-Heroic
+120206: *conq_essence # H-Heroic
+120283: *conq_essence # A-Mythic
+120209: *conq_essence # H-Mythic
 
 
 # Helm of the Iron Protector
@@ -85,7 +88,7 @@
   - 115575 # Windspeaker's Legwraps [shaman]
   - 115580 # Blackhand's Legguards [warrior]
 
-# Essence of the Iron Protector
+# Essence of the Iron Protector [H-Normal]
 119323: &prot_essence
   - 115556 # Helm of the Somber Gaze [monk]
   - 115559 # Mantle of the Somber Gaze [monk]
@@ -108,8 +111,11 @@
   - 115583 # Blackhand's Handguards [warrior]
   - 115580 # Blackhand's Legguards [warrior]
 
-# Essence of the Iron Protector [Mythic]
-120284: *prot_essence
+120279: *prot_essence # A-Normal
+120281: *prot_essence # A-Heroic
+120207: *prot_essence # H-Heroic
+120284: *prot_essence # A-Mythic
+120210: *prot_essence # H-Mythic
 
 
 # Helm of the Iron Vanquisher
@@ -147,7 +153,7 @@
   - 115573 # Poisoner's Legguards [rogue]
   - 115535 # Ogreskull Boneplate Greaves [death knight]
 
-# Essence of the Iron Vanquisher
+# Essence of the Iron Vanquisher [H-Normal]
 119316: &vanq_essence
   - 115553 # Arcanoshatter Hood [mage]
   - 115551 # Arcanoshatter Mantle [mage]
@@ -170,5 +176,8 @@
   - 115538 # Ogreskull Boneplate Gauntlets [death knight]
   - 115535 # Ogreskull Boneplate Greaves [death knight]
 
-# Essence of the Iron Vanquisher [Mythic]
-120285: *vanq_essence
+120278: *vanq_essence # A-Normal
+120282: *vanq_essence # A-Heroic
+120208: *vanq_essence # H-Heroic
+120285: *vanq_essence # A-Mythic
+120211: *vanq_essence # H-Mythic
