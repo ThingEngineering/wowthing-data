@@ -1,0 +1,73 @@
+# Temple of Ahn'Qiraj
+
+20930: # Vek'lor's Diadem
+  - 21353 # Genesis Helm [Druid]
+  - 21360 # Deathdealer's Helm [Rogue]
+  - 21366 # Striker's Diadem [Hunter]
+  - 21372 # Stormcaller's Diadem [Shaman]
+  - 21387 # Avenger's Crown [Paladin]
+
+20926: # Vek'nilash's Circlet
+  - 21347 # Enigma Circlet [Mage]
+  - 21348 # Tiara of the Oracle [Priest]
+  - 21337 # Doomcaller's Circlet [Warlock]
+  - 21329 # Conqueror's Crown [Warrior]
+
+20928: # Qiraji Bindings of Command
+  - 21350 # Mantle of the Oracle [Priest]
+  - 21349 # Footwraps of the Oracle [Priest]
+  - 21361 # Deathdealer's Spaulders [Rogue]
+  - 21359 # Deathdealer's Boots [Rogue]
+  - 21367 # Striker's Pauldrons [Hunter]
+  - 21365 # Striker's Footguards [Hunter]
+  - 21330 # Conqueror's Spaulders [Warrior]
+  - 21333 # Conqueror's Greaves [Warrior]
+
+20932: # Qiraji Bindings of Dominance
+  - 21345 # Enigma Shoulderpads [Mage]
+  - 21344 # Enigma Boots [Mage]
+  - 21335 # Doomcaller's Mantle [Warlock]
+  - 21338 # Doomcaller's Footwraps [Warlock]
+  - 21354 # Genesis Shoulderpads [Druid]
+  - 21355 # Genesis Boots [Druid]
+  - 21376 # Stormcaller's Pauldrons [Shaman]
+  - 21373 # Stormcaller's Footguards [Shaman]
+  - 21391 # Avenger's Pauldrons [Paladin]
+  - 21388 # Avenger's Greaves [Paladin]
+
+20929: # Carapace of the Old God
+  - 21364 # Deathdealer's Vest [Rogue]
+  - 21370 # Striker's Hauberk [Hunter]
+  - 21374 # Stormcaller's Hauberk [Shaman]
+  - 21389 # Avenger's Breastplate [Paladin]
+  - 21331 # Conqueror's Breastplate [Warrior]
+
+20933: # Husk of the Old God
+  - 21343 # Enigma Robes [Mage]
+  - 21351 # Vestments of the Oracle [Priest]
+  - 21334 # Doomcaller's Robes [Warlock]
+  - 21357 # Genesis Vest [Druid]
+
+20927: # Ouro's Intact Hide
+  - 21346 # Enigma Leggings [Mage]
+  - 21352 # Trousers of the Oracle [Priest]
+  - 21362 # Deathdealer's Leggings [Rogue]
+  - 21332 # Conqueror's Legguards [Warrior]
+
+20931: # Skin of the Great Sandworm
+  - 21336 # Doomcaller's Trousers [Warlock]
+  - 21356 # Genesis Trousers [Druid]
+  - 21368 # Striker's Leggings [Hunter]
+  - 21375 # Stormcaller's Leggings [Shaman]
+  - 21390 # Avenger's Legguards [Paladin]
+
+21232: # Imperial Qiraji Armaments
+  - 21269 # Blessed Qiraji Bulwark
+  - 21272 # Blessed Qiraji Musket
+  - 21244 # Blessed Qiraji Pugio
+  - 21242 # Blessed Qiraji War Axe
+
+21237: # Imperial Qiraji Regalia
+  - 21273 # Blessed Qiraji Acolyte Staff
+  - 21275 # Blessed Qiraji Augur Staff
+  - 21268 # Blessed Qiraji War Hammer
