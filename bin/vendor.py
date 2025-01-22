@@ -336,16 +336,18 @@ def main():
             print( '        costs:')
 
             costs = item['cost']
-            if costs[0] > 0:
-                print(f'        0: {max(1, math.floor(costs[0] / 10000))} # Gold')
+            # print(costs)
+            if costs[0][0] > 0:
+                print(f'        0: {max(1, math.floor(costs[0][0] / 10000))} # Gold')
 
-            if len(costs) >= 2:
-                for cost in costs[1]:
-                    print(f'        {cost[0]}: {cost[1]}')
+            if len(costs[0]) >= 2:
+                # print(costs)
+                for cost in costs[0][1]:
+                    print(f'          {cost[0]}: {cost[1]}')
 
             if len(costs) == 3:
                 for cost in costs[2]:
-                    print(f'        1{cost[0]:06}: {cost[1]}')
+                    print(f'          1{cost[0]:06}: {cost[1]}')
             
             if item['standing'] > 0:
                 print(f'        requirements:')
