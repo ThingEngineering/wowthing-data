@@ -1,0 +1,199 @@
+things:
+  - id: 180899
+    type: "vendor"
+    name: "Aridormi"
+    note: "Timewalking Vendor"
+
+    locations:
+      06-legion/dalaran:
+        - 68.4 48.4
+
+    tags:
+      - "expansion:legion"
+
+    groups:
+      - name: "Legion TW - Misc"
+        range: 4
+        sortKey: "z-tw-06-0"
+
+      - name: "Legion TW - Ensembles"
+        range: 5
+        sortKey: "z-tw-06-1"
+
+      - name: "Legion TW - Armor"
+        range: 12
+        sortKey: "z-tw-06-2"
+
+      - name: "Legion TW - Weapons"
+        range: -1
+        sortKey: "z-tw-06-3"
+
+    contents:
+
+      # Mounts
+
+      - id: 187595 # Favor of the Val'sharah Hippogryph
+        costs:
+          1166: 5000
+
+      - id: 234721 # Ur'zul Fleshripper Bridle
+        costs:
+          1166: 5000
+
+      # Toys
+
+      - id: 187591 # Nightborne Guard's Vigilance
+        costs:
+          1166: 1500
+
+      # Warlock
+
+      - id: 207114 # Grimoire of the Fiendish Imp
+        costs:
+          1166: 1000
+
+      # Ensembles
+
+      - id: 234946 # Ensemble: Broken Shore Battlemender's Gear
+        costs:
+          1166: 4000
+
+      - id: 234945 # Ensemble: Invasion Stalker's Guise
+        costs:
+          1166: 4000
+
+      - id: 234947 # Ensemble: Drake Hunter's Kit
+        costs:
+          1166: 2500
+
+      - id: 234948 # Ensemble: Drekirjar Warrior's Battlegear
+        costs:
+          1166: 2500
+
+      - id: 188209 # Ensemble: Ravencrest's Battleplate
+        costs:
+          1166: 500
+
+      # Armor
+
+      - id: 187581 # Nar'thalas Scrollmantle [cloth shoulders]
+        costs:
+          1166: 35
+
+      - id: 187579 # Nar'thalas Ceremonial Tunic [cloth chest]
+        costs:
+          1166: 25
+
+      - id: 187580 # Nar'thalas Ceremonial Legwraps [cloth legs]
+        costs:
+          1166: 25
+
+      - id: 187584 # Thorignir Spaulders [leather shoulders]
+        costs:
+          1166: 35
+
+      - id: 187582 # Thorignir Heartguard [leather chest]
+        costs:
+          1166: 25
+
+      - id: 187583 # Thorignir Breeches [leather legs]
+        costs:
+          1166: 25
+
+      - id: 187587 # Leyguard Mantle [mail shoulders]
+        costs:
+          1166: 35
+
+      - id: 187585 # Leyguard Cuirass [mail chest]
+        costs:
+          1166: 25
+
+      - id: 187586 # Leyguard Greaves [mail legs]
+        costs:
+          1166: 25
+
+      - id: 187590 # Black Rook Elite Shoulderplates [plate shoulders]
+        costs:
+          1166: 35
+
+      - id: 187588 # Black Rook Elite Chestguard [plate chest]
+        costs:
+          1166: 25
+
+      - id: 187589 # Black Rook Elite Legguards [plate legs]
+        costs:
+          1166: 25
+
+      # Weapons
+
+      - id: 187566 # Arcsmasher [1h ? mace]
+        costs:
+          1166: 50
+
+      - id: 234954 # Corrupted Knot [1h mace]
+        costs:
+          1166: 1200
+
+      - id: 234953 # Edge of the First Blade [1h sword]
+        costs:
+          1166: 1200
+
+      - id: 187567 # Nightborne Arcsaber [1h ? sword]
+        costs:
+          1166: 50
+
+      - id: 234959 # Key to the Halls [dagger]
+        costs:
+          1166: 1200
+
+      - id: 234958 # Fenryr's Bloodstained Fang [dagger]
+        costs:
+          1166: 1200
+
+      - id: 234956 # Rod of Crystalline Energies [wand]
+        costs:
+          1166: 1200
+
+      - id: 234955 # Hate-Sculpted Magma [2h axe]
+        costs:
+          1166: 1800
+
+      - id: 227294 # Ravencrest's Wrath [2h sword]
+        costs:
+          1166: 2500
+
+      - id: 234949 # Howling Echoes [polearm]
+        costs:
+          1166: 1800
+
+      - id: 234952 # Crux of Blind Faith [staff]
+        costs:
+          1166: 1500
+
+      - id: 187578 # Warpcaster's Staff [staff]
+        costs:
+          1166: 100
+
+      - id: 187565 # Argussian Reach Longbow [bow]
+        costs:
+          1166: 100
+
+      - id: 234957 # Monstrous Gluttony [shield]
+        costs:
+          1166: 1500
+
+      - id: 187564 # Nightborne Arcshield [shield]
+        costs:
+          1166: 35
+
+      - id: 187562 # Replica Aegis of Aggramar [shield]
+        costs:
+          1166: 3000
+
+      - id: 227287 # Skovald's Resolve [shield]
+        costs:
+          1166: 2000
+
+      - id: 187563 # Suramar Guard's Shield [shield]
+        costs:
+          1166: 35
