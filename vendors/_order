@@ -152,6 +152,7 @@ world-events/_world_events.yml
     world-events/lunar_festival.yml
     world-events/midsummer_fire_festival.yml
     world-events/noblegarden.yml
+    world-events/plunderstorm.yml
     world-events/timewalking.yml
     -
     world-events/09-elemental_invasion.yml

@@ -1,0 +1,304 @@
+things:
+  - id: 5000000
+    type: "vendor"
+    name: "Plunderstore"
+
+    tags:
+      - "event:plunderstorm"
+
+    groups:
+      - name: "Armor - Stormridden"
+        range: 9 12
+        sortKey: "02-armor-1"
+
+      - name: "Armor - Strapping"
+        range: 9
+        sortKey: "02-armor-2"
+
+      - name: "Armor - Misc"
+        range: 18
+        sortKey: "02-armor-3"
+
+      - name: "Weapons"
+        range: -1
+        sortKey: "02-weapons-1"
+
+    contents:
+
+      # Mounts
+
+      - id: 233241 # Hooktalon
+        costs:
+          2922: 5000
+
+      - id: 226042 # Plunderlord's Midnight Crocolisk
+        costs:
+          2922: 5000
+
+      - id: 233240 # Polly Roger
+        costs:
+          2922: 5000
+
+      - id: 233242 # Royal Seafeather
+        costs:
+          2922: 5000
+
+      - id: 233243 # Silver Tidestallion
+        costs:
+          2922: 1500
+      
+      # Pets
+
+      - id: 233251 # Bubbles
+        costs:
+          2922: 500
+
+      - id: 233248 # Glamrok
+        costs:
+          2922: 1000
+
+      - id: 233252 # Happy
+        costs:
+          2922: 250
+
+      - id: 235989 # Parley
+        costs:
+          2922: 2000
+
+      - id: 233247 # Sparklesnap
+        costs:
+          2922: 2000
+
+      # Toys
+
+      - id: 216907 # A Tiny Plumed Tricorne
+        costs:
+          2922: 500
+
+      - id: 170197 # Swarthy Warning Sign
+        costs:
+          2922: 500
+
+      # Armor - Stormridden
+
+      - id: 232430 # Plunderlord's Stormridden Tricorne
+        costs:
+          2922: 1000
+
+      - id: 232587 # Plunderlord's Stormridden Spaulders
+        costs:
+          2922: 1000
+
+      - id: 232588 # Plunderlord's Stormridden Drapery
+        costs:
+          2922: 1500
+
+      - id: 232589 # Plunderlord's Stormridden Waistcoat
+        costs:
+          2922: 1000
+
+      - id: 232590 # Plunderlord's Stormridden Cuffs
+        costs:
+          2922: 250
+
+      - id: 232584 # Plunderlord's Stormridden Pilferers
+        costs:
+          2922: 250
+
+      - id: 232591 # Plunderlord's Stormridden Cinch
+        costs:
+          2922: 250
+
+      - id: 232592 # Plunderlord's Stormridden Trousers
+        costs:
+          2922: 500
+
+      - id: 232593 # Plunderlord's Stormridden Muckscrapers
+        costs:
+          2922: 250
+
+      # Armor - Strapping
+
+      - id: 216734 # Plunderlord's Tricorne of Admiralty
+        costs:
+          2922: 250
+
+      - id: 216727 # Plunderlord's Tassled Spaulders
+        costs:
+          2922: 250
+
+      - id: 216728 # Plunderlord's Drapery
+        costs:
+          2922: 1000
+
+      - id: 216735 # Plunderlord's Waistcoat
+        costs:
+          2922: 250
+
+      - id: 216731 # Plunderlord's Cuffs
+        costs:
+          2922: 250
+
+      - id: 216730 # Plunderlord's Pilferers
+        costs:
+          2922: 250
+
+      - id: 216732 # Plunderlord's Golden Cinch
+        costs:
+          2922: 250
+
+      - id: 216729 # Plunderlord's Fancy Trousers
+        costs:
+          2922: 250
+
+      - id: 216733 # Plunderlord's Muckscrapers
+        costs:
+          2922: 250
+
+      # Cosmetics
+
+      - id: 232431 # First Mate's Dashing Cap [head]
+        costs:
+          2922: 1000
+
+      - id: 232594 # First Mate's Dashing Headgear [head]
+        costs:
+          2922: 1000
+
+      - id: 219348 # Plunderlord's Monocle [head]
+        costs:
+          2922: 500
+
+      - id: 232585 # Plunderlord's Old Eye Patch [head]
+        costs:
+          2922: 2000
+
+      - id: 232586 # Plunderlord's Old Hat [head]
+        costs:
+          2922: 2000
+
+      - id: 216993 # Storm Captain's Hat [head]
+        costs:
+          2922: 250
+
+      - id: 216994 # Warm Woolen Cap [head]
+        costs:
+          2922: 250
+
+      - id: 216984 # Skulker's Cloak [back]
+        costs:
+          2922: 250
+
+      - id: 216985 # Weatherproven Drape [back]
+        costs:
+          2922: 250
+
+      - id: 213436 # Fine Crimson Doublet [chest]
+        costs:
+          2922: 250
+
+      - id: 216988 # Spun Cotton Shirt [chest]
+        costs:
+          2922: 250
+
+      - id: 216987 # Swabbie's Gloves [hands]
+        costs:
+          2922: 250
+
+      - id: 216986 # Swindler's Cutouts [hands]
+        costs:
+          2922: 250
+
+      - id: 216990 # Handwoven Trousers [legs]
+        costs:
+          2922: 250
+
+      - id: 216989 # Quilted Breeches [legs]
+        costs:
+          2922: 250
+
+      - id: 216992 # Silent Leathers [feet]
+        costs:
+          2922: 250
+
+      - id: 216991 # Surefooted Boots [feet]
+        costs:
+          2922: 250
+
+      - id: 219349 # Plunderlord's Tabard [tabard]
+        costs:
+          2922: 5000
+
+      # Weapons
+
+      - id: 216778 # Bloody Iron Cleaver [1h axe]
+        costs:
+          2922: 250
+
+      - id: 216765 # Plunderlord's Neck-Severer [1h axe]
+        costs:
+          2922: 1000
+
+      - id: 232579 # Plunderlord's Stormridden Neck-Severer [1h axe]
+        costs:
+          2922: 1500
+
+      - id: 216777 # Blacksteel Saber [1h sword]
+        costs:
+          2922: 250
+
+      - id: 216776 # Calcified Claymore [1h sword]
+        costs:
+          2922: 250
+
+      - id: 216756 # Plunderlord's Fine Rapier [1h sword]
+        costs:
+          2922: 1000
+
+      - id: 232580 # Plunderlord's Stormridden Rapier [1h sword]
+        costs:
+          2922: 1500
+
+      - id: 216775 # Deadly Dagger [dagger]
+        costs:
+          2922: 250
+
+      - id: 232596 # Swabbie's Oar [2h mace]
+        costs:
+          2922: 1000
+
+      - id: 216763 # Plunderlord's Silver Cutlass [2h sword]
+        costs:
+          2922: 1000
+
+      - id: 232581 # Plunderlord's Stormridden Cutlass [2h sword]
+        costs:
+          2922: 1500
+
+      - id: 216755 # Plunderlord's Gilded Sigil [staff]
+        costs:
+          2922: 1000
+
+      - id: 232582 # Plunderlord's Stormridden Sigil [staff]
+        costs:
+          2922: 1500
+
+      - id: 232595 # Swabbie's Shovel [staff]
+        costs:
+          2922: 1000
+
+      - id: 216779 # Copper Cannon [gun]
+        costs:
+          2922: 250
+
+      - id: 216780 # Marvelous Multi-Shot [gun]
+        costs:
+          2922: 500
+
+      - id: 216774 # Plunderlord's Hand Cannon [gun]
+        costs:
+          2922: 1000
+
+      - id: 232583 # Plunderlord's Stormridden Hand Cannon [gun]
+        costs:
+          2922: 1500
