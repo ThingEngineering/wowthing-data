@@ -1,0 +1,292 @@
+things:
+  - id: 228093
+    type: "vendor"
+    name: "Argarom"
+    note: "Quartermaster"
+
+    locations:
+      here:
+        - 67.4 41.4
+
+    groups:
+      - name: "Armor - Cloth"
+        range: 8
+        sortKey: "02-armor-0"
+
+      - name: "Armor - Leather"
+        range: 8
+        sortKey: "02-armor-1"
+
+      - name: "Armor - Mail"
+        range: 8
+        sortKey: "02-armor-2"
+
+      - name: "Armor - Plate"
+        range: 8
+        sortKey: "02-armor-3"
+
+      - name: "Armor - Misc"
+        range: 4
+        sortKey: "02-armor-4"
+
+      - name: "Weapons"
+        range: -1
+        sortKey: "02-weapons-0"
+
+    contents:
+
+      # Armor - Cloth
+
+      - id: 229014 # Earthen Scallywag's Cowl [cloth head]
+        costs:
+          3090: 175
+
+      - id: 229016 # Earthen Scallywag's Mantle [cloth shoulders]
+        costs:
+          3090: 140
+
+      - id: 229011 # Earthen Scallywag's Vestment [cloth chest]
+        costs:
+          3090: 175
+
+      - id: 229018 # Earthen Scallywag's Cuffs [cloth wrists]
+        costs:
+          3090: 105
+
+      - id: 229013 # Earthen Scallywag's Handwraps [cloth hands]
+        costs:
+          3090: 140
+
+      - id: 229017 # Earthen Scallywag's Cord [cloth waist]
+        costs:
+          3090: 140
+
+      - id: 229015 # Earthen Scallywag's Leggings [cloth legs]
+        costs:
+          3090: 175
+
+      - id: 229012 # Earthen Scallywag's Sandals [cloth feet]
+        costs:
+          3090: 140
+
+      # Armor - Leather
+
+      - id: 229045 # Earthen Deckhand's Cap [leather head]
+        costs:
+          3090: 175
+
+      - id: 229024 # Earthen Deckhand's Shoulderpads [leather shoulders]
+        costs:
+          3090: 140
+
+      - id: 229020 # Earthen Deckhand's Vest [leather chest]
+        costs:
+          3090: 175
+
+      - id: 229026 # Earthen Deckhand's Bindings [leather wrists]
+        costs:
+          3090: 105
+
+      - id: 229022 # Earthen Deckhand's Grips [leather hands]
+        costs:
+          3090: 140
+
+      - id: 229025 # Earthen Deckhand's Sash [leather waist]
+        costs:
+          3090: 140
+
+      - id: 229023 # Earthen Deckhand's Breeches [leather legs]
+        costs:
+          3090: 175
+
+      - id: 229021 # Earthen Deckhand's Waders [leather feet]
+        costs:
+          3090: 140
+
+      # Armor - Mail
+
+      - id: 229031 # Earthen Islander's Coif [mail head]
+        costs:
+          3090: 175
+
+      - id: 229033 # Earthen Islander's Shoulderguards [mail shoulders]
+        costs:
+          3090: 140
+
+      - id: 229028 # Earthen Islander's Chainmail [mail chest]
+        costs:
+          3090: 175
+
+      - id: 229035 # Earthen Islander's Bracers [mail wrists]
+        costs:
+          3090: 105
+
+      - id: 229030 # Earthen Islander's Grips [mail hands]
+        costs:
+          3090: 140
+
+      - id: 229034 # Earthen Islander's Cinch [mail waist]
+        costs:
+          3090: 140
+
+      - id: 229032 # Earthen Islander's Greaves [mail legs]
+        costs:
+          3090: 175
+
+      - id: 229029 # Earthen Islander's Striders [mail feet]
+        costs:
+          3090: 140
+
+      # Armor - Plate
+
+      - id: 229040 # Earthen Landlubber's Helm [plate head]
+        costs:
+          3090: 175
+
+      - id: 229042 # Earthen Landlubber's Mantle [plate shoulders]
+        costs:
+          3090: 140
+
+      - id: 229037 # Earthen Landlubber's Breastplate [plate chest]
+        costs:
+          3090: 175
+
+      - id: 229044 # Earthen Landlubber's Armplates [plate wrists]
+        costs:
+          3090: 105
+
+      - id: 229039 # Earthen Landlubber's Gauntlets [plate hands]
+        costs:
+          3090: 140
+
+      - id: 229043 # Earthen Landlubber's Girdle [plate waist]
+        costs:
+          3090: 140
+
+      - id: 229041 # Earthen Landlubber's Legguards [plate legs]
+        costs:
+          3090: 175
+
+      - id: 229038 # Earthen Landlubber's Sabatons [plate feet]
+        costs:
+          3090: 140
+
+      # Armor - Misc
+
+      - id: 229019 # Earthen Deckhand's Cape [cloak]
+        costs:
+          3090: 105
+
+      - id: 229027 # Earthen Islander's Shawl [cloak]
+        costs:
+          3090: 105
+
+      - id: 229036 # Earthen Landlubber's Drape [cloak]
+        costs:
+          3090: 105
+
+      - id: 229010 # Earthen Scallywag's Cloak [cloak]
+        costs:
+          3090: 105
+
+      # Weapon
+
+      - id: 229167 # Earthen Deckhand's Cleaver [1h ? axe]
+        costs:
+          3090: 175
+
+      - id: 229168 # Earthen Landlubber's Axe [1h ? axe]
+        costs:
+          3090: 175
+
+      - id: 229179 # Earthen Deckhand's Cudgel [1h ? mace]
+        costs:
+          3090: 175
+
+      - id: 229178 # Earthen Scallywag's Gavel [1h ? mace]
+        costs:
+          3090: 175
+
+      - id: 229169 # Earthen Landlubber's Sword [1h ? sword]
+        costs:
+          3090: 175
+
+      - id: 229170 # Earthen Scallywag's Saber [1h ? sword]
+        costs:
+          3090: 175
+
+      - id: 229176 # Earthen Landlubber's Greatsword [2h ? sword]
+        costs:
+          3090: 350
+
+      - id: 229177 # Earthen Landlubber's Greataxe [2h ? axe]
+        costs:
+          3090: 350
+
+      - id: 229180 # Earthen Landlubber's Hammer [2h ? mace]
+        costs:
+          3090: 350
+
+      - id: 229185 # Earthen Deckhand's Warglaive [warglaive]
+        costs:
+          3090: 175
+
+      - id: 229182 # Earthen Deckhand's Dagger [? dagger]
+        costs:
+          3090: 175
+
+      - id: 229183 # Earthen Landlubber's Knife [? dagger]
+        costs:
+          3090: 175
+
+      - id: 229192 # Earthen Scallywag's Kris [? dagger]
+        costs:
+          3090: 175
+
+      - id: 229184 # Earthen Deckhand's Knuckles [fist]
+        costs:
+          3090: 175
+
+      - id: 229172 # Earthen Deckhand's Halberd [polearm]
+        costs:
+          3090: 350
+
+      - id: 229171 # Earthen Landlubber's Polearm [polearm]
+        costs:
+          3090: 350
+
+      - id: 229173 # Earthen Scallywag's Spear [polearm]
+        costs:
+          3090: 350
+
+      - id: 229187 # Earthen Deckhand's Rod [staff]
+        costs:
+          3090: 350
+
+      - id: 229186 # Earthen Scallywag's Greatstaff [staff]
+        costs:
+          3090: 350
+
+      - id: 229189 # Earthen Scallywag's Bow [bow]
+        costs:
+          3090: 350
+
+      - id: 229191 # Earthen Landlubber's Crossbow [crossbow]
+        costs:
+          3090: 350
+
+      - id: 229190 # Earthen Deckhand's Blunderbuss [gun]
+        costs:
+          3090: 350
+
+      - id: 229188 # Earthen Scallywag's Implement [off-hand]
+        costs:
+          3090: 175
+
+      - id: 229175 # Earthen Deckhand's Bulwark [shield]
+        costs:
+          3090: 175
+
+      - id: 229174 # Earthen Landlubber's Shield [shield]
+        costs:
+          3090: 175

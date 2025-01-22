@@ -1,0 +1,92 @@
+things:
+  - id: 235407
+    type: "vendor"
+    name: "Hooded Purveyor"
+    note: "Steelvein Trader"
+
+    locations:
+      here:
+        - 68 39.4
+
+    groups:
+      - name: "Ensembles"
+        range: 1
+        sortKey: "01-ensembles"
+
+      - name: "Armor - Misc"
+        range: 3
+        sortKey: "02-armor-4"
+
+      - name: "Armor - Cosmetic"
+        range: 4
+        sortKey: "02-armor-5"
+
+      - name: "Weapons - Cosmetic"
+        range: -1
+        sortKey: "02-weapons-1"
+
+    contents:
+
+      # Ensemble
+
+      - id: 234524 # Ensemble: Awakened Ambassador's Uniform
+        costs:
+          3090: 3000
+
+      # Armor - Misc
+
+      - id: 224165 # Dornogal Tabard [tabard]
+        costs:
+          3090: 500
+
+      - id: 224168 # Earthen Expedition Tabard [tabard]
+        costs:
+          3090: 500
+
+      - id: 224167 # Gundargaz Tabard [tabard]
+        costs:
+          3090: 500
+
+      # Armor - Cosmetic
+
+      - id: 233978 # Earthen Soot-Stained Workpack [cloak]
+        costs:
+          3090: 500
+
+      - id: 233980 # Noble's Forgegrounds Worksack [cloak]
+        costs:
+          3090: 500
+
+      - id: 233979 # Stonebound Worker's Backpack [cloak]
+        costs:
+          3090: 500
+
+      - id: 233981 # Underground Machinist Toolbag [cloak]
+        costs:
+          3090: 500
+
+      # Weapon
+
+      - id: 235297 # Smuggled Councilor's Chalice [1h ? mace]
+        costs:
+          3090: 350
+
+      - id: 235298 # Smuggled Forgegrounds Hammer [1h ? mace]
+        costs:
+          3090: 350
+
+      - id: 235299 # Smuggled Meadery Pitcher [1h ? mace]
+        costs:
+          3090: 350
+
+      - id: 233829 # Smuggled Councilor's Chalice [off-hand]
+        costs:
+          3090: 200
+
+      - id: 233824 # Smuggled Forgegrounds Hammer [off-hand]
+        costs:
+          3090: 200
+
+      - id: 233822 # Smuggled Meadery Pitcher [off-hand]
+        costs:
+          3090: 200

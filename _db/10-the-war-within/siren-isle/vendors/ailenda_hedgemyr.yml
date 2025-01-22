@@ -1,0 +1,104 @@
+things:
+  - id: 236045
+    type: "vendor"
+    name: "Ailenda Hedgemyr"
+    note: "Expedition Quartermaster"
+
+    locations:
+      here:
+        - 70.6 40.2
+
+    groups:
+      - name: "Ensembles"
+        range: 2 1
+        sortKey: "01-ensembles"
+
+      - name: "Armor - Cosmetic"
+        range: 9
+        sortKey: "02-armor-5"
+
+      - name: "Weapons - Cosmetic"
+        range: -1
+        sortKey: "02-weapons-1"
+
+    contents:
+
+      # Toy
+
+      - id: 233486 # Hallowfall Supply Cache
+        costs:
+          3090: 750
+
+      # Ensemble
+      
+      - id: 234517 # Ensemble: Adventurous Lamplighter's Attire
+        costs:
+          3090: 3000
+
+      - id: 234518 # Ensemble: Sacred Wayfarer's Attire
+        costs:
+          3090: 3000
+
+      # Armor
+
+      - id: 233921 # Arathi Champion's Headguard [subclass=5 head]
+        costs:
+          3090: 350
+
+      - id: 233920 # Arathi Footman's Headguard [subclass=5 head]
+        costs:
+          3090: 350
+
+      - id: 233922 # Arathi Knight's Headguard [subclass=5 head]
+        costs:
+          3090: 350
+
+      - id: 233919 # Sacredite Expeditionary Hood [subclass=5 head]
+        costs:
+          3090: 350
+
+      - id: 233918 # Sacredite Scholar's Hood [subclass=5 head]
+        costs:
+          3090: 350
+
+      - id: 233917 # Sacredite's Ceremonial Cowl [subclass=5 head]
+        costs:
+          3090: 350
+
+      - id: 233924 # Arathi Champion's Shoulderguard [subclass=5 shoulders]
+        costs:
+          3090: 350
+
+      - id: 233923 # Arathi Footman's Shoulderguard [subclass=5 shoulders]
+        costs:
+          3090: 350
+
+      - id: 233925 # Arathi Knight's Shoulderguard [subclass=5 shoulders]
+        costs:
+          3090: 350
+      
+      # Weapon
+
+      - id: 233823 # Mereldar Smithing Mallet [1h ? mace]
+        costs:
+          3090: 350
+
+      - id: 233812 # Arathi Youngling's Training Sword [1h ? sword]
+        costs:
+          3090: 350
+
+      - id: 233836 # Sacredite's Facet Gouge [? dagger]
+        costs:
+          3090: 350
+
+      - id: 235412 # Mereldar Smithing Mallet [off-hand]
+        costs:
+          3090: 200
+
+      - id: 233835 # Priori Tongs [off-hand]
+        costs:
+          3090: 200
+
+      - id: 233828 # Sacredite's Ceremonial Brush [off-hand]
+        costs:
+          3090: 200

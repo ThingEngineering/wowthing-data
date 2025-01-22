@@ -1,0 +1,79 @@
+things:
+  - id: 234390
+    type: "vendor"
+    name: "Soweezi"
+
+    locations:
+      here:
+        - 70 48.2
+
+    groups:
+      - name: "Ensembles"
+        range: 7 4
+        sortKey: "01-ensembles"
+
+      - name: "Weapons - Cosmetic"
+        range: -1
+        sortKey: "02-weapons-1"
+
+    contents:
+
+      # Mount
+
+      - id: 233058 # Soweezi's Vintage Waveshredder
+        costs:
+          3090: 10000
+
+      # Pet
+
+      - id: 234395 # Skitterbite
+        costs:
+          3090: 750
+
+      # Toy
+
+      - id: 234473 # Soweezi's Comfy Lawn Chair
+        costs:
+          3090: 750
+
+      # Recipe
+
+      - id: 234229 # Technique: Glyph of the Gilded Pistol Shot
+        costs:
+          3090: 350
+
+      # Ensemble
+
+      - id: 234519 # Ensemble: Paradise Beach Loungewear
+        costs:
+          3090: 2000
+
+      - id: 221543 # Ensemble: Pink Tropical
+        costs:
+          3090: 4500
+
+      - id: 222960 # Ensemble: Pink Tropical Swimwear
+        costs:
+          3090: 4500
+
+      - id: 234521 # Ensemble: Rusty Bruiser's Outfit
+        costs:
+          3090: 2000
+
+      - id: 234523 # Ensemble: Salvage Rig Garments
+        costs:
+          3090: 2000
+
+      - id: 234522 # Ensemble: Southsea Cruise Loungewear
+        costs:
+          3090: 2000
+
+      - id: 234520 # Ensemble: Sun-Soaked Clothing
+        costs:
+          3090: 1500
+
+      # Weapons - Cosmetic
+
+      - id: 220655 # Water Blaster P.K. [gun]
+        costs:
+          3090: 1000

@@ -1,0 +1,5 @@
+name: "Siren Isle"
+vendorMaps:
+  - "10-the-war-within/siren_isle"
+vendorTags:
+  - "zone:siren-isle"
