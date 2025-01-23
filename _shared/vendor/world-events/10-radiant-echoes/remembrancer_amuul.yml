@@ -257,11 +257,6 @@ sells:
   # Weapons
 
   - type: item
-    id: 223647 # Lifeless Stone Ring
-    costs:
-      3089: 25
-
-  - type: item
     id: 219229 # Dalaran Defender's Battleaxe [1h ? axe]
     costs:
       3089: 4000
