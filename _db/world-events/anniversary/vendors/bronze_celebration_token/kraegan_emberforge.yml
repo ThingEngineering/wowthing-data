@@ -341,10 +341,6 @@ things:
         costs:
           1232365: 40
 
-      - id: 231490 # Arbiter's Blade [1h ? sword]
-        costs:
-          1232365: 40
-
       - id: 231419 # Lord General's Sword [1h ? sword]
         costs:
           1232365: 40
