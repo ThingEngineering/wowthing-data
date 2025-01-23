@@ -1,0 +1,182 @@
+tags:
+  - "expansion:warlords-of-draenor"
+
+things:
+  - id: 151987
+    type: "vendor"
+    name: "Kronnus"
+    note: "Timewalking Vendor"
+
+    locations:
+      05-warlords-of-draenor/warspear:
+        - 42.8 54.4 # horde
+
+    groups: &groups
+      - name: "WoD TW - Misc"
+        range: 5
+        sortKey: "z-tw-05-0"
+
+      - name: "WoD TW - Ensembles"
+        range: 4
+        sortKey: "z-tw-05-1"
+
+      - name: "WoD TW - Armor"
+        range: 19
+        sortKey: "z-tw-05-2"
+
+      - name: "WoD TW - Weapons"
+        range: -1
+        sortKey: "z-tw-05-3"
+
+    contents: &contents
+
+      # Mounts
+
+      - id: 167894 # Beastlord's Irontusk
+        costs:
+          1166: 5000
+
+      - id: 167895 # Beastlord's Warwolf
+        costs:
+          1166: 5000
+
+      - id: 234716 # Nightfall Skyreaver's Reins
+        costs:
+          1166: 5000
+
+      # Toys
+
+      - id: 168012 # Apexis Focusing Shard [toy]
+        costs:
+          1166: 500
+
+      - id: 168014 # Banner of the Burning Blade [toy]
+        costs:
+          1166: 750
+
+      # Ensembles
+
+      - id: 234903 # Ensemble: Gorgrond Cragstalker's Hunting Gear
+        costs:
+          1166: 4000
+        
+      - id: 234901 # Ensemble: Karabor Priest's Vestments
+        costs:
+          1166: 4000
+        
+      - id: 234904 # Ensemble: Shadowmoon Anchorite's Guardplate
+        costs:
+          1166: 4000
+        
+      - id: 234902 # Ensemble: Shattrath Artificer's Regalia
+        costs:
+          1166: 4000
+
+      # Armor
+
+      - id: 116110 # Zorkra's Hood [cloth head]
+        costs:
+          1166: 25
+
+      - id: 127296 # Twisted Taboo Handwraps [cloth hands]
+        costs:
+          1166: 25
+
+      - id: 109074 # Fine Void-Chain Cinch [cloth waist]
+        costs:
+          1166: 25
+
+      - id: 116765 # Positive Pantaloons [cloth legs]
+        costs:
+          1166: 25
+
+      - id: 109057 # Frogskin Diving Cap [leather head]
+        costs:
+          1166: 25
+
+      - id: 127304 # Cave Keeper Wraps [leather hands]
+        costs:
+          1166: 25
+
+      - id: 116834 # Whitesea's Waistwrap [leather waist]
+        costs:
+          1166: 25
+
+      - id: 113557 # Dragonrider's Tinkered Leggings [leather legs]
+        costs:
+          1166: 25
+
+      - id: 112096 # Dented Ogre Skullcap [mail head]
+        costs:
+          1166: 25
+
+      - id: 127311 # Serpentine Gloves [mail hands]
+        costs:
+          1166: 25
+
+      - id: 119372 # Ironstudded Scale Girdle [mail waist]
+        costs:
+          1166: 25
+
+      - id: 119370 # Rattlekilt [mail legs]
+        costs:
+          1166: 25
+
+      - id: 127320 # Mo'gruth's Discarded Parade Helm [plate head]
+        costs:
+          1166: 25
+
+      - id: 234862 # Ogre Captains Armor
+        costs:
+          1166: 100
+
+      - id: 127319 # Krag'goth's Iron Gauntlets [plate hands]
+        costs:
+          1166: 25
+
+      - id: 119384 # Krud's Girthy Girdle [plate waist]
+        costs:
+          1166: 25
+
+      - id: 119382 # Hershak's Heavy Legguards [plate legs]
+        costs:
+          1166: 25
+
+      - id: 234906 # Auchenai Tabard
+        costs:
+          1166: 500
+
+      - id: 234907 # Tattered Iron Horde Tabard
+        costs:
+          1166: 500
+
+      # Weapons
+
+      - id: 113287 # Shard of Scorn [1h ? sword]
+        costs:
+          1166: 50
+
+      - id: 119396 # Shadowspeaker's Shard [? dagger]
+        costs:
+          1166: 50
+
+      - id: 127339 # Forgotten Champion's Blade [2h ? sword]
+        costs:
+          1166: 100
+
+      - id: 119226 # Blammo's Blammer [gun]
+        costs:
+          1166: 100
+
+things:
+  - id: 151955
+    type: "vendor"
+    name: "Tempra"
+    note: "Timewalking Vendor"
+
+    locations:
+      here:
+        - 37 72.4 # alliance
+
+    groups: *groups
+    contents: *contents

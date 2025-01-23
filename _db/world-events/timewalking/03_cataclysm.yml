@@ -1,0 +1,166 @@
+things:
+  - id: 101759
+    type: "vendor"
+    name: "Kiatke"
+    note: "Timewalking Vendor"
+
+    locations:
+      stormwind_city:
+        - 76 17.4
+      orgrimmar:
+        - 52 41.4
+
+    groups:
+      - name: "Cata TW - Misc"
+        range: 4
+        sortKey: "z-tw-03-00"
+
+      - name: "Cata TW - Recipes"
+        range: 9
+        sortKey: "z-tw-03-01"
+
+      - name: "Cata TW - Ensembles"
+        range: 4
+        sortKey: "z-tw-03-1"
+
+      - name: "Cata TW - Armor"
+        range: 14
+        sortKey: "z-tw-03-2"
+
+    contents:
+
+      # Mounts
+
+      - id: 234730 # Broodling of Sinestra
+        costs:
+          1166: 5000
+
+      - id: 205208 # Sandy Shalewing
+        costs:
+          1166: 5000
+
+      # Toys
+
+      - id: 133542 # Tosselwrench's Mega-Accurate Simulation Viewfinder
+        costs:
+          1166: 3000
+
+      - id: 133511 # Gurboggle's Gleaming Bauble
+        costs:
+          1166: 1500
+
+      # Recipes
+      
+      - id: 13497 # Recipe: Greater Arcane Protection Potion [alchemy]
+        costs:
+          1166: 1500
+
+      - id: 13308 # Schematic: Ice Deflector [engineering]
+        costs:
+          1166: 1500
+
+      - id: 15753 # Pattern: Stormshroud Armor [leatherworking]
+        costs:
+          1166: 1500
+
+      - id: 21548 # Pattern: Stormshroud Gloves [leatherworking]
+        costs:
+          1166: 1500
+
+      - id: 15764 # Pattern: Stormshroud Shoulders [leatherworking]
+        costs:
+          1166: 1500
+
+      - id: 14493 # Pattern: Robe of Winter Night [tailoring]
+        costs:
+          1166: 1500
+
+      - id: 3734 # Recipe: Big Bear Steak [cooking]
+        costs:
+          1166: 1500
+
+      - id: 5489 # Recipe: Lean Venison [cooking]
+        costs:
+          1166: 1500
+
+      - id: 12227 # Recipe: Lean Wolf Steak [cooking]
+        costs:
+          1166: 1500
+
+      # 0
+
+      - id: 234859 # Ensemble: Twilight Acolyte's Regalia
+        costs:
+          1166: 2500
+
+      - id: 234857 # Ensemble: Twilight Hunter's Guise
+        costs:
+          1166: 2500
+
+      - id: 234856 # Ensemble: Twilight Zealot's Battleplate
+        costs:
+          1166: 2500
+
+      - id: 234855 # Ensemble: Vestments of the Twisted Grove
+        costs:
+          1166: 2500
+
+      # 0 set=339
+
+      - id: 133526 # Lightwarper Vestments [cloth chest]
+        costs:
+          1166: 25
+
+      - id: 133536 # Bracers of the Black Dream [cloth wrists]
+        costs:
+          1166: 25
+
+      - id: 133532 # Vestal's Irrepressible Girdle [cloth waist]
+        costs:
+          1166: 25
+
+      - id: 133528 # Decaying Herbalist's Robes [leather chest]
+        costs:
+          1166: 25
+
+      - id: 133535 # Bracers of Manifold Pockets [leather wrists]
+        costs:
+          1166: 25
+
+      - id: 133529 # Belt of Hidden Keys [leather waist]
+        costs:
+          1166: 25
+
+      - id: 133527 # Ghostworld Chestguard [mail chest]
+        costs:
+          1166: 25
+
+      - id: 133534 # Dragonbelly Bracers [mail wrists]
+        costs:
+          1166: 25
+
+      - id: 133530 # Cord of Dragon Sinew [mail waist]
+        costs:
+          1166: 25
+
+      - id: 133525 # Bones of the Damned [plate chest]
+        costs:
+          1166: 25
+
+      - id: 133533 # Flashing Bracers of Warmth [plate wrists]
+        costs:
+          1166: 25
+
+      - id: 133531 # Blinding Girdle of Truth [plate waist]
+        costs:
+          1166: 25
+
+      - id: 234860 # Explorer's League Deepholm Expedition Tabard [tabard]
+        costs:
+          1166: 500
+
+      - id: 234861 # Reliquary Tabard [tabard]
+        costs:
+          1166: 500
+
+      # 0

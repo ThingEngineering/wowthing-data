@@ -1,0 +1,248 @@
+things:
+  - id: 98690
+    type: "vendor"
+    name: "Auzin"
+    note: "Timewalking Vendor"
+
+    locations:
+      02-wrath-of-the-lich-king/dalaran:
+        - 49.2 46.4
+
+    groups:
+      - name: "WotLK TW - Misc"
+        range: 6
+        sortKey: "z-tw-02-0"
+
+      - name: "WotLK TW - Ensembles"
+        range: 5
+        sortKey: "z-tw-02-1"
+
+      - name: "WotLK TW - Armor"
+        range: 16
+        sortKey: "z-tw-02-2"
+
+      - name: "WotLK TW - Weapons"
+        range: -1
+        sortKey: "z-tw-02-3"
+
+    contents:
+
+      # Mounts
+
+      - id: 129922 # Bridle of the Ironbound Wraithcharger
+        costs:
+          1166: 5000
+
+      - id: 231374 # Enchanted Spellweave Carpet
+        costs:
+          1166: 5000
+
+      # Pets
+
+      - id: 231356 # Specter
+        costs:
+          1166: 2200
+
+      - id: 129952 # Hourglass of Eternity
+        costs:
+          1166: 2000
+
+      # Toys
+
+      - id: 129965 # Grizzlesnout's Fang
+        costs:
+          1166: 750
+
+      - id: 129938 # Will of Northrend
+        costs:
+          1166: 1500
+
+      # Ensembles
+
+      - id: 232316 # Ensemble: Brunnhildar Scout's Kit
+        costs:
+          1166: 2500
+
+      - id: 232313 # Ensemble: Coldarra Spellbinder's Regalia
+        costs:
+          1166: 2500
+
+      - id: 232317 # Ensemble: Drakkari Stalker's Trappings
+        costs:
+          1166: 2500
+
+      - id: 232314 # Ensemble: Jotunheim Berserker's Battleplate
+        costs:
+          1166: 2500
+
+      - id: 232315 # Ensemble: Ymirjar Deathbringer's Battleplate
+        costs:
+          1166: 2500
+
+      # Armor
+
+      - id: 129892 # Meteor Chaser's Raiment [cloth chest]
+        costs:
+          1166: 25
+
+      - id: 129879 # Gloves of False Gestures [cloth hands]
+        costs:
+          1166: 25
+
+      - id: 171999 # Coldstep Sandals [cloth feet]
+        costs:
+          1166: 25
+
+      - id: 171995 # Coldstep Slippers [cloth feet]
+        costs:
+          1166: 25
+
+      - id: 129869 # Xintor's Expeditionary Boots [cloth feet]
+        costs:
+          1166: 25
+
+      - id: 129891 # Shadow Seeker's Tunic [leather chest]
+        costs:
+          1166: 25
+
+      - id: 129881 # Cat Burglar's Grips [leather hands]
+        costs:
+          1166: 25
+
+      - id: 129871 # Boots of Captain Ellis [leather feet]
+        costs:
+          1166: 25
+
+      - id: 129890 # Longstrider's Vest [mail chest]
+        costs:
+          1166: 25
+
+      - id: 129877 # Logsplitters [mail hands]
+        costs:
+          1166: 25
+
+      - id: 129870 # Pack-Ice Striders [mail feet]
+        costs:
+          1166: 25
+
+      - id: 129889 # Castle Breaker's Battleplate [plate chest]
+        costs:
+          1166: 25
+
+      - id: 129880 # Gauntlets of the Kraken [plate hands]
+        costs:
+          1166: 25
+
+      - id: 129868 # Kyzoc's Ground Stompers [plate feet]
+        costs:
+          1166: 25
+
+      - id: 232476 # Explorer's League Tabard [tabard]
+        costs:
+          1166: 500
+
+      - id: 232477 # Hand of Vengeance Tabard [tabard]
+        costs:
+          1166: 500
+
+      # 0
+
+      - id: 232027 # Dragonflayer's Iron Cleaver [1h ? axe]
+        costs:
+          1166: 1200
+
+      - id: 232028 # Warsong Coldweather Cleaver [1h ? axe]
+        costs:
+          1166: 1200
+
+      - id: 232043 # Crystal-Maw Basher [1h ? mace]
+        costs:
+          1166: 1200
+
+      - id: 232042 # Azure Magus' Blade [1h ? sword]
+        costs:
+          1166: 1200
+
+      - id: 232041 # Titan-Spark Longblade [1h ? sword]
+        costs:
+          1166: 1200
+
+      - id: 232019 # Dark Ritualists Spellblade [? dagger]
+        costs:
+          1166: 1200
+
+      - id: 232008 # Magehunter's Ornate Dagger [? dagger]
+        costs:
+          1166: 1200
+
+      - id: 232020 # Stormforged Short Blade [? dagger]
+        costs:
+          1166: 1200
+
+      - id: 232010 # Vrykul Gutripper [? dagger]
+        costs:
+          1166: 1200
+
+      - id: 232025 # Frost Giant's Claws [fist]
+        costs:
+          1166: 1200
+
+      - id: 232064 # Leviathan Mk II Crowd Control Blade [2h ? sword]
+        costs:
+          1166: 1800
+
+      - id: 232063 # Drakkari Head Splitter [2h ? axe]
+        costs:
+          1166: 1800
+
+      - id: 232052 # Dragonflayer's Wing Splitter [polearm]
+        costs:
+          1166: 1800
+
+      - id: 232055 # Griffon's Teeth Ripper [polearm]
+        costs:
+          1166: 1800
+
+      - id: 232056 # Ymirjar Battle Harpoon [polearm]
+        costs:
+          1166: 1800
+
+      - id: 232060 # Coldarra Spellbinder's Stave [staff]
+        costs:
+          1166: 1800
+
+      - id: 231999 # Dragonflayer's Heartpiercer [bow]
+        costs:
+          1166: 1800
+
+      - id: 232000 # Frosted Ymirheim Battle Bow [bow]
+        costs:
+          1166: 1500
+
+      - id: 232004 # Ironforge Hammerhead Rifle [gun]
+        costs:
+          1166: 1800
+
+      - id: 232003 # Wolf-Eyed Sharpshooter [gun]
+        costs:
+          1166: 1800
+
+      - id: 232026 # Drakkari Voodoo Stick [off-hand]
+        costs:
+          1166: 1200
+
+      - id: 232078 # Ghostly Titan Astrolabe [off-hand]
+        costs:
+          1166: 1200
+
+      - id: 232291 # Battered Bulwark of the Argent Crusade [shield]
+        costs:
+          1166: 2500
+
+      - id: 232058 # Ceremonial Stratholme Shield [shield]
+        costs:
+          1166: 1200
+
+      - id: 232059 # Tainted Keeper's Visage [shield]
+        costs:
+          1166: 1200

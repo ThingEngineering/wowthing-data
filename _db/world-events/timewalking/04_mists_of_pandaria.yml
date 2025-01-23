@@ -1,0 +1,260 @@
+things:
+  - id: 118828
+    type: "vendor"
+    name: "Mistweaver Xia"
+    note: "Timewalking Vendor"
+
+    locations:
+      04-mists-of-pandaria/timeless_isle:
+        - 43 55.4
+
+    groups:
+      - name: "MoP TW - Misc"
+        range: 7
+        sortKey: "z-tw-04-0"
+
+      - name: "MoP TW - Armor"
+        range: 18
+        sortKey: "z-tw-04-2"
+
+      - name: "MoP TW - Weapons"
+        range: -1
+        sortKey: "z-tw-04-3"
+
+    contents:
+
+      # Mounts
+
+      - id: 234740 # Copper-Maned Quilen Reins
+        costs:
+          1166: 5000
+
+      - id: 205208 # Sandy Shalewing
+        costs:
+          1166: 5000
+
+      - id: 87775 # Yu'lei, Daughter of Jade
+        costs:
+          1166: 5000
+
+      # Pets
+
+      - id: 143953 # Infinite Hatchling
+        costs:
+          1166: 2200
+
+      - id: 143954 # Paradox Spirit
+        costs:
+          1166: 2200
+
+      # Toys
+
+      - id: 144072 # Adopted Puppy Crate
+        costs:
+          1166: 1000
+
+      - id: 144393 # Portable Yak Wash
+        costs:
+          1166: 500
+
+      # 0
+
+      - id: 234795 # Shado-Pan Guise [subclass=5 head]
+        costs:
+          1166: 1000
+
+      - id: 234757 # Kor'kron Pauldrons [subclass=5 shoulders]
+        costs:
+          1166: 1000
+
+      - id: 234762 # Embroidered Shado-Pan Robes [subclass=5 chest]
+        costs:
+          1166: 1000
+
+      - id: 234759 # Gilded Shado-Pan Robes [subclass=5 chest]
+        costs:
+          1166: 1000
+
+      - id: 234796 # Embroidered Shado-Pan Kilt [subclass=5 legs]
+        costs:
+          1166: 800
+
+      - id: 234794 # Gilded Shado-Pan Kilt [subclass=5 legs]
+        costs:
+          1166: 800
+
+      # Armor
+
+      - id: 144060 # Mantle of the Golden Sun [cloth shoulders]
+        costs:
+          1166: 35
+
+      - id: 144044 # Gloves of Red Feathers [cloth hands]
+        costs:
+          1166: 25
+
+      - id: 144056 # Leggings of the Poisoned Soul [cloth legs]
+        costs:
+          1166: 25
+
+      - id: 144051 # Storm-Sing Sandals [cloth feet]
+        costs:
+          1166: 25
+
+      - id: 144061 # Whitepetal Shouldergarb [leather shoulders]
+        costs:
+          1166: 35
+
+      - id: 144045 # Fingers of the Loneliest Monk [leather hands]
+        costs:
+          1166: 25
+
+      - id: 144057 # Dreadsworn Slayer Legs [leather legs]
+        costs:
+          1166: 25
+
+      - id: 144050 # Tukka-Tuk's Hairy Boots [leather feet]
+        costs:
+          1166: 25
+
+      - id: 144062 # Windwalker Spaulders [mail shoulders]
+        costs:
+          1166: 35
+
+      - id: 144046 # Ravenmane's Gloves [mail hands]
+        costs:
+          1166: 25
+
+      - id: 144058 # Locust Swarm Legguards [mail legs]
+        costs:
+          1166: 25
+
+      - id: 144049 # Sandals of the Elder Sage [mail feet]
+        costs:
+          1166: 25
+
+      - id: 144063 # Stonetoe Spaulders [plate shoulders]
+        costs:
+          1166: 35
+
+      - id: 144047 # Gauntlets of Jade Sutras [plate hands]
+        costs:
+          1166: 25
+
+      - id: 144059 # Ambersmith Legplates [plate legs]
+        costs:
+          1166: 25
+
+      - id: 144048 # Yu'lon Guardian Boots [plate feet]
+        costs:
+          1166: 25
+
+      - id: 144054 # Blackguard Cape [cloak]
+        costs:
+          1166: 25
+
+      - id: 144055 # Sagewhisper's Wrap [cloak]
+        costs:
+          1166: 25
+
+      - id: 234756 # Kor'kron Tabard [tabard]
+        costs:
+          1166: 500
+
+      - id: 234755 # Tabard of the Pandaren Elders [tabard]
+        costs:
+          1166: 500
+
+      # 0
+
+      - id: 234768 # Jungle Gourd Splitter [1h ? axe]
+        costs:
+          1166: 1000
+
+      - id: 234789 # Gourd-Topped Mallet [1h ? mace]
+        costs:
+          1166: 1200
+
+      - id: 234790 # Restored Harmonic Mallet [1h ? mace]
+        costs:
+          1166: 2500
+
+      - id: 234765 # Flame-Bladed Steel Sword [1h ? sword]
+        costs:
+          1166: 1200
+
+      - id: 234766 # Ringed Pandaren Falchion [1h ? sword]
+        costs:
+          1166: 1200
+
+      - id: 234773 # Imperial Gut Render [? dagger]
+        costs:
+          1166: 1200
+
+      - id: 234772 # Kris of the Mogu Shaman [? dagger]
+        costs:
+          1166: 1200
+
+      - id: 234764 # Fist of Knives [fist]
+        costs:
+          1166: 1200
+
+      - id: 234776 # Saurok Mystic's Voodoo Stick [wand]
+        costs:
+          1166: 1200
+
+      - id: 234767 # Flame-Bladed Long Sword [2h ? sword]
+        costs:
+          1166: 1500
+
+      - id: 234763 # Bloody Expeditionary Cleaver [2h ? axe]
+        costs:
+          1166: 1500
+
+      - id: 234769 # Pandaren Guard's Poleaxe [2h ? axe]
+        costs:
+          1166: 1500
+
+      - id: 234791 # Reforged Harmonic Mallet [2h ? mace]
+        costs:
+          1166: 3000
+
+      - id: 234787 # Mogu'shan Warden's Crystal Spear [polearm]
+        costs:
+          1166: 1800
+
+      - id: 234770 # Pandaren Guard's Halberd [polearm]
+        costs:
+          1166: 1500
+
+      - id: 234778 # Staff of the Jade Serpent [staff]
+        costs:
+          1166: 1500
+
+      - id: 234777 # Stave-Master's Spire [staff]
+        costs:
+          1166: 1500
+
+      - id: 234784 # Pandaren Bolt Thrower [crossbow]
+        costs:
+          1166: 1800
+
+      - id: 234771 # Mogu Lightning Spitter [gun]
+        costs:
+          1166: 1800
+
+      - id: 234775 # Amber Pandaren Fan [off-hand]
+        costs:
+          1166: 1000
+
+      - id: 234774 # Crimson Amber Incubator [off-hand]
+        costs:
+          1166: 1200
+
+      - id: 234783 # Caravan Guard's Buckler [shield]
+        costs:
+          1166: 1500
+
+      - id: 234781 # Mogu'shan Vault's Improvised Shield [shield]
+        costs:
+          1166: 1500

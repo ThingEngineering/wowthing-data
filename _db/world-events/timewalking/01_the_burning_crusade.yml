@@ -1,0 +1,300 @@
+things:
+  - id: 98685
+    type: "vendor"
+    name: "Cupri"
+    note: "Timewalking Vendor"
+
+    locations:
+      01-the-burning-crusade/shattrath_city:
+        - 54.4 38.4
+
+    groups:
+      - name: "TBC TW - Misc"
+        range: 8
+        sortKey: "z-tw-01-0"
+
+      - name: "TBC TW - Ensembles"
+        range: 5
+        sortKey: "z-tw-01-1"
+
+      - name: "TBC TW - Armor"
+        range: 19
+        sortKey: "z-tw-01-2"
+
+      - name: "TBC TW - Weapons"
+        range: -1
+        sortKey: "z-tw-01-3"
+
+    contents:
+
+      # Mounts
+
+      - id: 224399 # Reins of the Amani Hunting Bear
+        costs:
+          1166: 5000
+
+      - id: 129923 # Reins of the Eclipse Dragonhawk
+        costs:
+          1166: 5000
+
+      # Pets
+
+      - id: 231365 # Karazhan Syphoner
+        costs:
+          1166: 2200
+
+      # Toys
+
+      - id: 129929 # Ever-Shifting Mirror
+        costs:
+          1166: 500
+
+      - id: 151016 # Fractured Necrolyte Skull
+        costs:
+          1166: 750
+
+      - id: 129926 # Mark of the Ashtongue
+        costs:
+          1166: 1250
+
+      - id: 151184 # Verdant Throwing Sphere
+        costs:
+          1166: 500
+
+      # Warlock
+
+      - id: 207112 # Grimoire of the Void-Touched Fel Imp
+        costs:
+          1166: 1000
+
+      # Ensembles
+
+      - id: 232319 # Ensemble: Auchenai Priest's Raiment
+        costs:
+          1166: 2500
+
+      - id: 232321 # Ensemble: Boulderfist Mystic's Battlegear
+        costs:
+          1166: 2500
+
+      - id: 232322 # Ensemble: Cenarion Mender's Battlegear
+        costs:
+          1166: 2500
+
+      - id: 232318 # Ensemble: Shadowmoon Warlock's Vestments
+        costs:
+          1166: 2500
+
+      - id: 232320 # Ensemble: Telhamat Anchorite's Raiment
+        costs:
+          1166: 2500
+
+      # Armor
+
+      - id: 129837 # Cowl of Naaru Blessings [cloth head]
+        costs:
+          1166: 25
+
+      - id: 129855 # Voodoo-Woven Belt [cloth waist]
+        costs:
+          1166: 25
+
+      - id: 129843 # Corrupted Soulcloth Pantaloons [cloth legs]
+        costs:
+          1166: 25
+
+      - id: 129836 # Mask of the Deceiver [leather head]
+        costs:
+          1166: 25
+
+      - id: 129852 # Belt of the Silent Path [leather waist]
+        costs:
+          1166: 25
+
+      - id: 129841 # Trousers of the Scryers' Retainer [leather legs]
+        costs:
+          1166: 25
+
+      - id: 129838 # Storm Master's Helmet [mail head]
+        costs:
+          1166: 25
+
+      - id: 129853 # Aftershock Waistguard [mail waist]
+        costs:
+          1166: 25
+
+      - id: 129840 # Rushing Storm Kilt [mail legs]
+        costs:
+          1166: 25
+
+      - id: 129835 # Faceguard of Determination [plate head]
+        costs:
+          1166: 25
+
+      - id: 129854 # Girdle of Seething Rage [plate waist]
+        costs:
+          1166: 25
+
+      - id: 129842 # Legplates of Unending Fury [plate legs]
+        costs:
+          1166: 25
+
+      - id: 129834 # Bishop's Cloak [cloak]
+        costs:
+          1166: 25
+
+      - id: 129832 # Blood Knight War Cloak [cloak]
+        costs:
+          1166: 25
+
+      - id: 129831 # Dory's Embrace [cloak]
+        costs:
+          1166: 25
+
+      - id: 129830 # Farstrider Defender's Cloak [cloak]
+        costs:
+          1166: 25
+
+      - id: 129833 # Shawl of Shifting Probabilities [cloak]
+        costs:
+          1166: 25
+
+      - id: 232478 # Area 52 Tabard [tabard]
+        costs:
+          1166: 500
+
+      - id: 23388 # Tranquillien Tabard [tabard]
+        costs:
+          1166: 500
+        requirements:
+          - "reputation: 922 exalted"
+
+      # Weapons
+
+      - id: 232029 # Auchenai Vindicator's Crystal Cleaver [1h ? axe]
+        costs:
+          1166: 1200
+
+      - id: 129858 # Gavel of Naaru Blessings [1h ? mace]
+        costs:
+          1166: 50
+
+      - id: 232044 # Hammer of the Forest Loas [1h ? mace]
+        costs:
+          1166: 1200
+
+      - id: 232040 # Corrupted Sunblade [1h ? sword]
+        costs:
+          1166: 1200
+
+      - id: 232039 # Crystal-Hooked Shortsword [1h ? sword]
+        costs:
+          1166: 1200
+
+      - id: 129861 # Sword of Unyielding Force [1h ? sword]
+        costs:
+          1166: 50
+
+      - id: 232023 # Chilled Obsidian Dragon's Tooth [? dagger]
+        costs:
+          1166: 1200
+
+      - id: 232022 # Point of the Nether Vortex [? dagger]
+        costs:
+          1166: 1200
+
+      - id: 129857 # Scryer's Blade of Focus [? dagger]
+        costs:
+          1166: 50
+
+      - id: 232021 # Sunburst Sticker [? dagger]
+        costs:
+          1166: 1200
+
+      - id: 129931 # The Mutilator [? dagger]
+        costs:
+          1166: 50
+
+      - id: 232024 # Sunfury Stalker's Fists [fist]
+        costs:
+          1166: 1200
+
+      - id: 129856 # Vanir's Fist of Brutality [fist]
+        costs:
+          1166: 50
+
+      - id: 232066 # Icefrost Focuser [wand]
+        costs:
+          1166: 1200
+
+      - id: 232062 # Shadowsword Vanquisher's Blade [2h ? axe]
+        costs:
+          1166: 1500
+
+      - id: 129827 # The Blade of Harbingers [2h ? axe]
+        costs:
+          1166: 100
+
+      - id: 232065 # Crimson Draenethyst Crusher [2h ? mace]
+        costs:
+          1166: 1500
+
+      - id: 232050 # Ashtongue Guardian's Spire [polearm]
+        costs:
+          1166: 1800
+
+      - id: 232048 # Felguard Sentinel's Polearm [polearm]
+        costs:
+          1166: 1800
+
+      - id: 232345 # Xu'rakas, Glaive of Command [polearm]
+        costs:
+          1166: 3000
+
+      - id: 232051 # Ashtongue Channeler's Staff [staff]
+        costs:
+          1166: 1800
+
+      - id: 232061 # Cenarion Guardian's Stave [staff]
+        costs:
+          1166: 1800
+
+      - id: 129829 # Staff of the Forest Lord [staff]
+        costs:
+          1166: 100
+
+      - id: 129828 # Staff of the Soul-Eater [staff]
+        costs:
+          1166: 100
+
+      - id: 232067 # Amani'shi Voodoo Bow [bow]
+        costs:
+          1166: 1800
+
+      - id: 232001 # Blazing Skyhawk Repeater [crossbow]
+        costs:
+          1166: 1800
+
+      - id: 129845 # Crossbow of Relentless Strikes [crossbow]
+        costs:
+          1166: 100
+
+      - id: 232002 # Amani Tracker's Blunderbuss [gun]
+        costs:
+          1166: 1800
+
+      - id: 129839 # Talisman of Kalecgos [off-hand]
+        costs:
+          1166: 35
+
+      - id: 129847 # Azure-Shield of Coldarra [shield]
+        costs:
+          1166: 35
+
+      - id: 232057 # Drake's Breath Heater Shield [shield]
+        costs:
+          1166: 1500
+
+      - id: 129846 # Mazthoril Honor Shield [shield]
+        costs:
+          1166: 35
