@@ -3,12 +3,13 @@ groups:
 
 - name: "Bonus Reward"
   things:
-  - 1577 # Ash'adar, Harbringer of Dawn (February 2023)
-  - 1582 # Savage Green Battle Turtle (May 2023)
-  - 1575 # Quawks (June 2023)
-  - 1744 # Grotto Netherwing Drake (July 2023)
-  - 1574 # Crusty Crawler (September 2023)
-  - 1799 # Eve's Ghastly Rider (October 2023)
+    - 1577 # Ash'adar, Harbringer of Dawn (February 2023)
+    - 1582 # Savage Green Battle Turtle (May 2023)
+    - 1575 # Quawks (June 2023)
+    - 1744 # Grotto Netherwing Drake (July 2023)
+    - 1574 # Crusty Crawler (September 2023)
+    - 1799 # Eve's Ghastly Rider (October 2023)
+    - 1550 # Depthstalker (2024-10)
 
 - name: "Trading Post"
   things:
@@ -41,7 +42,8 @@ groups:
     - 2201 # Sentinel War Wolf (August 2024)
     - 2198 # Kor'kron Warsaber (August 2024)
     - 2239 # Keg Leg's Radiant Crocolisk (September 2024)
-    - 2249 # Hand of Reshkigaal (October 2024)
+    - 2249 # Hand of Reshkigaal (2024-10)
+    - 2036 # Brilliant Sunburst Peafowl (2025-01)
     - 2241 # Plunderlord's Weathered Crocolisk (2025-01)
     - 2347 # Savage Alabaster Battle Turtle (2025-01)
 

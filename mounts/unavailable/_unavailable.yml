@@ -16,4 +16,8 @@ groups:
 
 - name: "Store"
   things:
+    - 2304 # Chaos-Forged Gryphon
+    - 2305 # Chaos-Forged Hippogryph
+    - 2307 # Chaos-Forged Dreadwing
+    - 2308 # Chaos-Forged Wind Rider
     - 2265 # Trader's Gilded Brutosaur

@@ -1,22 +1,18 @@
 name: "Achievements"
 groups:
 
-- name: "Delves"
+- name: "Misc"
   things:
-  - 2230 # Ivory Goliathus (Glory of the Delver)
+    - 2190 # Shadow of Doubt (Meta)
+    - 2181 # Swarmite Skyhunter (Khaz Algar Glyph Hunter)
+    - 2332 # The Breaker's Song (Isle Remember You)
 
-- name: "Dungeons"
+- name: "Instances"
   things:
-  - 2244 # Diamond Mechsuit (KSM Season 1)
+    - 2244 # Diamond Mechsuit (KSM Season 1)
+    - 2230 # Ivory Goliathus (Glory of the Delver)
+    - 2180 # Shadowed Swarmite (Glory of the Nerub-ar Raider)
 
-- name: "Raids"
+- name: "PvP"
   things:
-  - 2180 # Shadowed Swarmite (Glory of the Nerub-ar Raider)
-
-- name: "World PvP"
-  things:
-  - 2167 # Raging Cinderbee
-
-- name: "Exploration"
-  things:
-  - 2181 # Swarmite Skyhunter (Khaz Algar Glyph Hunter)
+    - 2167 # Raging Cinderbee
