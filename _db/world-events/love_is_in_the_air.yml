@@ -1,0 +1,169 @@
+tags:
+  - "event:love-is-in-the-air"
+
+things:
+  - id: 211812
+    type: "vendor"
+    name: "Kiera Torres"
+    note: "Lovely Prizes and Heirlooms"
+
+    locations:
+      elwynn_forest:
+        - 32.2 50.4 #alliance
+
+    contents: &lovely-contents
+
+      # Mounts
+
+      - id: 210973 # Heartseeker Mana Ray
+        costs:
+          1049927: 270
+
+      - id: 72146 # Swift Lovebird
+        costs:
+          1049927: 270
+
+      # Pets
+
+      - id: 205156 # Heartseeker Moth
+        costs:
+          1049927: 40
+
+      - id: 116155 # Lovebird Hatchling
+        costs:
+          1049927: 40
+
+      - id: 22235 # Truesilver Shafted Arrow
+        costs:
+          1049927: 40
+
+      # Toys
+
+      - id: 210975 # Date Simulation Modulator
+        costs:
+          1049927: 100
+
+      - id: 211864 # Exquisite Love Boat
+        costs:
+          1049927: 270
+
+      - id: 210974 # Eyes For You Only
+        costs:
+          1049927: 40
+
+      - id: 142341 # Love Boat
+        costs:
+          1049927: 270
+
+      - id: 165670 # Peddlefeet's Lovely Hearthstone
+        costs:
+          1049927: 150
+
+      - id: 34480 # Romantic Picnic Basket
+        costs:
+          1049927: 10
+
+      # Transmog
+
+      - id: 151765 # Blue Dinner Suit
+        costs:
+          1049927: 20
+
+      - id: 151764 # Purple Dinner Suit
+        costs:
+          1049927: 20
+
+      - id: 151766 # Red Dinner Suit
+        costs:
+          1049927: 20
+
+      - id: 151770 # Lovely Black Dress
+        costs:
+          1049927: 20
+
+      - id: 151768 # Lovely Blue Dress
+        costs:
+          1049927: 20
+
+      - id: 151767 # Lovely Purple Dress
+        costs:
+          1049927: 20
+
+      - id: 151769 # Lovely Red Dress
+        costs:
+          1049927: 20
+
+  - id: 214481
+    type: "vendor"
+    name: "Lythianne Morningspear"
+    note: "Lovely Prizes and Heirlooms"
+
+    locations:
+      durotar:
+        - 41.8 17.2 #horde
+
+    contents: *lovely-contents
+
+  - id: 211887
+    type: "vendor"
+    name: "Sylandra Silverbreeze"
+    note: "Flower Vendor"
+
+    locations:
+      elwynn_forest:
+        - 34.2 48.8 #alliance
+
+    contents: &flower-contents
+
+      # 0
+
+      - id: 211359 # Eternal Black Rose [subclass=5 head]
+        costs:
+          1049927: 20
+
+      - id: 211358 # Eternal Blue Rose [subclass=5 head]
+        costs:
+          1049927: 20
+
+      - id: 211357 # Eternal Orange Rose [subclass=5 head]
+        costs:
+          1049927: 20
+
+      - id: 211355 # Eternal Pink Rose [subclass=5 head]
+        costs:
+          1049927: 20
+
+      - id: 211354 # Eternal White Rose [subclass=5 head]
+        costs:
+          1049927: 20
+
+      - id: 211352 # Eternal Yellow Rose [subclass=5 head]
+        costs:
+          1049927: 20
+
+      - id: 3420 # Black Rose [off-hand]
+        costs:
+        0: 1 # Gold
+
+      - id: 3419 # Red Rose [off-hand]
+        costs:
+        0: 1 # Gold
+
+      - id: 3422 # Beautiful Wildflowers [off-hand]
+        costs:
+        0: 1 # Gold
+
+      - id: 3421 # Simple Wildflowers [off-hand]
+        costs:
+        0: 1 # Gold
+
+  - id: 214488
+    type: "vendor"
+    name: "Hana Breezeheart"
+    note: "Flower Vendor"
+
+    locations:
+      durotar:
+        - 41.4 17.8 #horde
+
+    contents: *flower-contents

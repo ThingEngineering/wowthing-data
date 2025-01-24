@@ -1,0 +1,225 @@
+tags:
+  - "event:lunar-festival"
+
+things:
+  - id: 15864
+    type: "vendor"
+    name: "Valadar Starsong"
+    note: "Coin of Ancestry Collector"
+
+    locations:
+      moonglade:
+        - 54 35
+
+    contents:
+
+      # Customizations
+
+      - id: 211868 # Winding Slitherdrake: Lunar Festival Armor
+        costs:
+          0: 50000 # Gold
+
+      # Pets
+
+      - id: 74611 # Festival Lantern
+        costs:
+          1021100: 50
+
+      - id: 74610 # Lunar Lantern
+        costs:
+          1021100: 50
+
+      # Armor
+
+      - id: 151355 # Crown of Courage [subclass=5 head]
+        costs:
+          1021100: 25
+
+      - id: 151353 # Crown of Dark Blossoms [subclass=5 head]
+        costs:
+          1021100: 25
+
+      - id: 151352 # Crown of Good Fortune [subclass=5 head]
+        costs:
+          1021100: 25
+
+      - id: 151354 # Crown of Prosperity [subclass=5 head]
+        costs:
+          1021100: 25
+
+      - id: 21541 # Festive Black Pant Suit [subclass=5 chest]
+        costs:
+          1021100: 5
+
+      - id: 21544 # Festive Blue Pant Suit [subclass=5 chest]
+        costs:
+          1021100: 5
+
+      - id: 21543 # Festive Teal Pant Suit [subclass=5 chest]
+        costs:
+          1021100: 5
+
+      - id: 21157 # Festive Green Dress [subclass=5 chest]
+        costs:
+          1021100: 5
+
+      - id: 21538 # Festive Pink Dress [subclass=5 chest]
+        costs:
+          1021100: 5
+
+      - id: 21539 # Festive Purple Dress [subclass=5 chest]
+        costs:
+          1021100: 5
+
+  - id: 15909
+    type: "vendor"
+    name: "Fariel Starsong"
+    note: "Coin of Ancestry Collector"
+
+    locations:
+      moonglade:
+        - 54 35
+
+    contents:
+
+      # Customizations
+
+      - id: 211868 # Winding Slitherdrake: Lunar Festival Armor
+        costs:
+          0: 50000 # Gold
+
+      # Toys
+
+      - id: 89999 # Everlasting Alliance Firework
+        costs:
+          1021100: 25
+
+      - id: 90000 # Everlasting Horde Firework
+        costs:
+          1021100: 25
+
+      - id: 165669 # Lunar Elder's Hearthstone
+        costs:
+          1021100: 30
+
+      - id: 165671 # Blue Dragon Head Costume
+        costs:
+          1021100: 25
+
+      - id: 165672 # Blue Dragon Body Costume
+        costs:
+          1021100: 10
+
+      - id: 165673 # Blue Dragon Tail Costume
+        costs:
+          1021100: 25
+
+      - id: 165674 # Green Dragon Head Costume
+        costs:
+          1021100: 25
+
+      - id: 165675 # Green Dragon Body Costume
+        costs:
+          1021100: 10
+
+      - id: 165676 # Green Dragon Tail Costume
+        costs:
+          1021100: 25
+
+      - id: 143827 # Red Dragon Head Costume
+        costs:
+          1021100: 25
+
+      - id: 143828 # Red Dragon Body Costume
+        costs:
+          1021100: 10
+
+      - id: 143829 # Red Dragon Tail Costume
+        costs:
+          1021100: 25
+
+      # Recipes
+
+      - id: 44916 # Pattern: Festival Dress
+        costs:
+          1021100: 5
+
+      - id: 44917 # Pattern: Festival Suit
+        costs:
+          1021100: 5
+
+      - id: 44918 # Schematic: Cluster Launcher
+        costs:
+          1021100: 5
+
+      - id: 44919 # Schematic: Firework Launcher
+        costs:
+          1021100: 5
+
+      - id: 116142 # Schematic: Alliance Firework
+        costs:
+          1021100: 5
+
+      - id: 116144 # Schematic: Horde Firework
+        costs:
+          1021100: 5
+
+      - id: 116146 # Schematic: Snake Firework
+        costs:
+          1021100: 5
+
+      # Small Rocket Recipes
+
+      - id: 21724 # Small Blue Rocket
+        costs:
+          1021100: 5
+
+      - id: 21725 # Small Green Rocket
+        costs:
+          1021100: 5
+
+      - id: 21726 # Small Red Rocket
+        costs:
+          1021100: 5
+
+      # Cluster Rocket Recipes
+
+      - id: 21730 # Blue Rocket Cluster
+        costs:
+          1021100: 5
+
+      - id: 21731 # Green Rocket Cluster
+        costs:
+          1021100: 5
+
+      - id: 21732 # Red Rocket Cluster
+        costs:
+          1021100: 5
+
+      # Large Rocket Recipes
+
+      - id: 21727 # Large Blue Rocket
+        costs:
+          1021100: 5
+
+      - id: 21728 # Large Green Rocket
+        costs:
+          1021100: 5
+
+      - id: 21729 # Large Red Rocket
+        costs:
+          1021100: 5
+
+      # Large Cluster Rocket Recipes
+
+      - id: 21733 # Large Blue Rocket Cluster
+        costs:
+          1021100: 5
+
+      - id: 21734 # Large Green Rocket Cluster
+        costs:
+          1021100: 5
+
+      - id: 21735 # Large Red Rocket Cluster
+        costs:
+          1021100: 5

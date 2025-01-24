@@ -1,0 +1,125 @@
+tags:
+  - "event:midsummer-fire-festival"
+
+things:
+  - id: 26123
+    type: "vendor"
+    name: "Midsummer Supplier"
+
+    locations:
+      stormwind_city:
+        - 47.4 71.4 #alliance
+      ironforge:
+        - 64.4 26.4 #alliance
+      darnassus:
+        - 62 48.4 #alliance
+      the_exodar:
+        - 42.4 25.4 #alliance
+
+    groups: &groups
+      - name: "Pets"
+        range: 3
+        sortKey: "00pets"
+
+      - name: "Toys"
+        range: 9
+        sortKey: "00toys"
+
+    contents: &contents
+
+      # Pets
+
+      - id: 116439 # Blazing Cindercrawler
+        costs:
+          1023247: 350
+
+      - id: 23083 # Captured Flame
+        costs:
+          1023247: 350
+
+      - id: 141714 # Igneous Flameling [doesn't automatically count as a pet?]
+        costs:
+          1023247: 350
+
+      # Toys
+
+      - id: 34686 # Brazier of Dancing Flames
+        costs:
+          1023247: 350
+
+      - id: 116440 # Burning Defender's Medallion
+        costs:
+          1023247: 500
+
+      - id: 116435 # Cozy Bonfire
+        costs:
+          1023247: 350
+
+      - id: 166746 # Fire Eater's Hearthstone
+        costs:
+          1023247: 300
+
+      - id: 188701 # Fire Festival Batons
+        costs:
+          1023247: 50
+
+      - id: 206038 # Flamin' Ring of Flashiness
+        costs:
+          1023247: 500
+
+      - id: 188699 # Insulated Dancing Insoles
+        costs:
+          1023247: 100
+
+      - id: 141649 # Set of Matches
+        costs:
+          1023247: 500
+
+      - id: 188695 # Summer Cranial Skillet
+        costs:
+          1023247: 150
+
+      # 0
+
+      - id: 74278 # Helm of the Fire Festival [subclass=5 head]
+        costs:
+          1023247: 350
+
+      - id: 23324 # Mantle of the Fire Festival [subclass=5 shoulders]
+        costs:
+          1023247: 100
+
+      - id: 220787 # Mantle of Midsummer [subclass=5 back]
+        costs:
+          1023247: 350
+
+      - id: 34685 # Vestment of Summer [subclass=5 chest]
+        costs:
+          1023247: 100
+
+      - id: 34683 # Sandals of Summer [subclass=5 feet]
+        costs:
+          1023247: 200
+
+      - id: 220785 # Midsummer Safeguard [shield]
+        costs:
+          1023247: 350
+
+  - id: 26124
+    type: "vendor"
+    name: "Midsummer Merchant"
+
+    locations:
+      tirisfal_glades:
+        - 62.2 67.4 #horde
+      undercity:
+        - 67.8 11.2 #horde
+      orgrimmar:
+        - 47.2 37.4 #horde
+      thunder_bluff:
+        - 19.8 24.4 #horde
+      silvermoon_city:
+        - 70.4 44 #horde
+
+    groups: *groups
+    contents: *contents

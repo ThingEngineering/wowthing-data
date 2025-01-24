@@ -1,0 +1,121 @@
+tags:
+  - "event:noblegarden"
+
+things:
+  - id: 32836
+    type: "vendor"
+    name: "Noblegarden Vendor"
+
+    locations:
+      dun_morogh:
+        - 54 50.8 #alliance
+      elwynn_forest:
+        - 42.4 65.8 #alliance
+      teldrassil:
+        - 55.6 51.2 #alliance
+      azuremyst_isle:
+        - 49 51.2 #alliance
+
+    contents: &contents
+
+      # Mounts
+
+      - id: 72145 # Swift Springstrider
+        costs:
+          1044791: 500
+
+      # Pets
+
+      - id: 212786 # Lovely Duckling
+        costs:
+          1044791: 250
+
+      - id: 116258 # Mystical Spring Bouquet
+        costs:
+          1044791: 100
+
+      - id: 141532 # Noblegarden Bunny
+        costs:
+          1044791: 200
+
+      - id: 44794 # Spring Rabbit's Foot
+        costs:
+          1044791: 100
+
+      # Toys
+
+      - id: 204675 # A Drake's Big Basket of Eggs
+        costs:
+          1044791: 200
+
+      - id: 165802 # Noble Gardener's Hearthstone
+        costs:
+          1044791: 250
+
+      # Mage
+
+      - id: 44793 # Tome of Polymorph: Rabbit
+        costs:
+          1044791: 100
+
+      # Armor
+
+      - id: 74282 # Black Spring Circlet [subclass=5 head]
+        costs:
+          1044791: 50
+
+      - id: 164922 # Blue Spring Circlet [subclass=5 head]
+        costs:
+          1044791: 50
+
+      - id: 164923 # Brown Spring Circlet [subclass=5 head]
+        costs:
+          1044791: 50
+
+      - id: 74283 # Pink Spring Circlet [subclass=5 head]
+        costs:
+          1044791: 50
+
+      - id: 44803 # Spring Circlet [subclass=5 head]
+        costs:
+          1044791: 50
+
+      - id: 164924 # Yellow Spring Circlet [subclass=5 head]
+        costs:
+          1044791: 50
+
+      - id: 151806 # Elegant Dress [subclass=5 chest]
+        costs:
+          1044791: 50
+
+      - id: 44800 # Spring Robes [subclass=5 chest]
+        costs:
+          1044791: 50
+
+      - id: 6833 # White Tuxedo Shirt [shirt]
+        costs:
+          1044791: 25
+
+      - id: 151804 # Black Tuxedo Pants [subclass=5 legs]
+        costs:
+          1044791: 25
+
+      - id: 45073 # Spring Flowers [off-hand]
+        costs:
+          1044791: 50
+
+  - id: 32837
+    type: "vendor"
+    name: "Noblegarden Merchant"
+
+    locations:
+      durotar:
+        - 52.2 41.4 #horde
+      tirisfal_glades:
+        - 61.4 53 #horde
+      mulgore:
+        - 47 59.8 #horde
+      eversong_woods:
+        - 47.4 47.2 #horde
+
+    contents: *contents

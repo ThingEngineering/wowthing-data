@@ -1,10 +1,10 @@
+tags:
+  - "event:plunderstorm"
+
 things:
   - id: 5000000
     type: "vendor"
     name: "Plunderstore"
-
-    tags:
-      - "event:plunderstorm"
 
     groups:
       - name: "Armor - Stormridden"
