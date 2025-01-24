@@ -109,10 +109,12 @@
 
 02-wrath-of-the-lich-king/_.yml
     02-wrath-of-the-lich-king/dalaran.yml
+        02-wrath-of-the-lich-king/dalaran/professions.yml
         02-wrath-of-the-lich-king/dalaran/tier_07.yml
         02-wrath-of-the-lich-king/dalaran/tier_08.yml
         02-wrath-of-the-lich-king/dalaran/tier_09.yml
         02-wrath-of-the-lich-king/dalaran/tier_10.yml
+        02-wrath-of-the-lich-king/dalaran/timewalking.yml
     02-wrath-of-the-lich-king/dalaran_underbelly.yml
 
 01-the-burning-crusade/_.yml
