@@ -1,0 +1,95 @@
+name: "Timewalking"
+groups:
+
+- name: "Weekly Quest (below max level)"
+  type: armor
+  sets:
+    - "Timely Tourist Armor"
+  data:
+    cloth:
+      - name: "Timely Tourist Cloth"
+        itemsV2:
+          - 226098 # Timely Tourist's Cord
+          - 226095 # Timely Tourist's Cowl
+          - 226099 # Timely Tourist's Cuffs
+          - 226094 # Timely Tourist's Handwraps
+          - 226096 # Timely Tourist's Leggings
+          - 226092 # Timely Tourist's Robes
+          - 226093 # Timely Tourist's Sandals
+          - 226097 # Timely Tourist's Shoulderpads
+
+    leather:
+      - name: "Timely Tourist Leather"
+        itemsV2:
+          - 226091 # Timely Tourist's Bindings
+          - 226085 # Timely Tourist's Boots
+          - 226089 # Timely Tourist's Epaulets
+          - 226086 # Timely Tourist's Gloves
+          - 226087 # Timely Tourist's Headgear
+          - 226088 # Timely Tourist's Pants
+          - 226090 # Timely Tourist's Sash
+          - 226084 # Timely Tourist's Vest
+    
+    mail:
+      - name: "Timely Tourist Mail"
+        itemsV2:
+          - 226082 # Timely Tourist's Belt
+          - 226083 # Timely Tourist's Bracers
+          - 226076 # Timely Tourist's Chainmail
+          - 226079 # Timely Tourist's Coif
+          - 226080 # Timely Tourist's Greaves
+          - 226078 # Timely Tourist's Grips
+          - 226081 # Timely Tourist's Shoulderguards
+          - 226077 # Timely Tourist's Striders
+
+    plate:
+      - name: "Timely Tourist Plate"
+        itemsV2:
+          - 226068 # Timely Tourist's Breastplate
+          - 226070 # Timely Tourist's Gauntlets
+          - 226074 # Timely Tourist's Girdle
+          - 226071 # Timely Tourist's Helm
+          - 226072 # Timely Tourist's Legguards
+          - 226073 # Timely Tourist's Pauldrons
+          - 226069 # Timely Tourist's Sabatons
+          - 226075 # Timely Tourist's Vambraces
+
+- name: "Weekly Quest (below max level)"
+  type: all
+  sets:
+    - "Timely Tourist Cloaks"
+  data:
+    all:
+      - name: "Timely Tourist Cloaks"
+        itemsV2:
+          - 226051 # Timely Tourist's Cloak
+          - 226050 # Timely Tourist's Shawl
+
+- name: "Weekly Quest (below max level)"
+  type: all
+  sets:
+    - "Timely Tourist Weapons"
+  data:
+    all:
+      - name: "Timely Tourist Weapons"
+        itemsV2:
+          - 226064 # Timely Tourist's Beacon Staff
+          - 226056 # Timely Tourist's Blade
+          - 226167 # Timely Tourist's Bolthrower
+          - 226169 # Timely Tourist's Chisel
+          - 226171 # Timely Tourist's Cleaver
+          - 226063 # Timely Tourist's Drill-Tipped Stave
+          - 226055 # Timely Tourist's Hammer
+          - 226170 # Timely Tourist's Hatchet
+          - 226065 # Timely Tourist's Lantern
+          - 226062 # Timely Tourist's Polearm
+          - 226054 # Timely Tourist's Pummeler
+          - 226053 # Timely Tourist's Ritual Knife
+          - 226052 # Timely Tourist's Shank
+          - 226058 # Timely Tourist's Sharpshooter
+          - 226066 # Timely Tourist's Shield
+          - 226061 # Timely Tourist's Spade
+          - 226168 # Timely Tourist's Spellblade
+          - 226057 # Timely Tourist's Sword
+          - 226059 # Timely Tourist's Torch
+          - 226060 # Timely Tourist's Waraxe
