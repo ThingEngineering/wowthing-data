@@ -16,15 +16,6 @@ things:
       the_exodar:
         - 42.4 25.4 #alliance
 
-    groups: &groups
-      - name: "Pets"
-        range: 3
-        sortKey: "00pets"
-
-      - name: "Toys"
-        range: 9
-        sortKey: "00toys"
-
     contents: &contents
 
       # Pets
@@ -37,7 +28,7 @@ things:
         costs:
           1023247: 350
 
-      - id: 141714 # Igneous Flameling [doesn't automatically count as a pet?]
+      - id: 141714 # Igneous Flameling
         costs:
           1023247: 350
 
@@ -121,5 +112,4 @@ things:
       silvermoon_city:
         - 70.4 44 #horde
 
-    groups: *groups
     contents: *contents
