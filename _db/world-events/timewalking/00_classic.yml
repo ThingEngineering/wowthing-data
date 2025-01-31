@@ -11,7 +11,7 @@ things:
 
     groups:
       - name: "Classic TW - Misc"
-        range: 4
+        range: 5
         sortKey: "z-tw-00-00"
 
       - name: "Classic TW - Armor"
@@ -43,6 +43,12 @@ things:
       - id: 224406 # Misty
         costs:
           1166: 2200
+
+      # Toys
+
+      - id: 224192 # Practice Ravager
+        costs:
+          1166: 200
 
       # Armor
 
@@ -124,22 +130,6 @@ things:
         costs:
           1166: 2500
 
-      - id: 225189 # Lightforged Blade [2h ? sword]
-        costs:
-          1166: 100
-
-      - id: 225190 # Pendulum of Doom [2h ? axe]
-        costs:
-          1166: 100
-
-      - id: 224190 # Kreeg's Hardy Draught
-        costs:
-          1166: 25
-
-      - id: 224192 # Practice Ravager
-        costs:
-          1166: 200
-
       - id: 225200 # Alcor's Sunrazor [? dagger]
         costs:
           1166: 50
@@ -159,6 +149,14 @@ things:
       - id: 225197 # Crimson Shocker [wand]
         costs:
           1166: 50
+
+      - id: 225189 # Lightforged Blade [2h ? sword]
+        costs:
+          1166: 100
+
+      - id: 225190 # Pendulum of Doom [2h ? axe]
+        costs:
+          1166: 100
 
       - id: 227707 # Doomwail Reaper [polearm]
         costs:
