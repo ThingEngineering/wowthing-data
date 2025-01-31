@@ -195,6 +195,7 @@ def main():
 
     r = requests.get(sys.argv[1], headers=HEADERS)
     expand = len(sys.argv) >= 3 and sys.argv[2] == 'e'
+    no_gold = len(sys.argv) >= 3 and sys.argv[2] == 'nogold'
 
     m = MAPPER_RE.search(r.text)
     mapper = None
@@ -292,6 +293,10 @@ def main():
                 print(f'      # Skipped id={item["id"]} name={item["name"]} slot={item_slot}')
             continue
 
+        costs = item['cost'][0]
+        if no_gold and costs[0] > 0 and len(costs[1]) == 0 and len(costs[2]) == 0:
+            continue
+
         if expand:
             if char_class != 0:
                 note = char_class
@@ -335,14 +340,13 @@ def main():
             print(f'      - id: {item["id"]} # {item["name"]}{type_str}')
             print( '        costs:')
 
-            costs = item['cost']
             # print(costs)
-            if costs[0][0] > 0:
-                print(f'        0: {max(1, math.floor(costs[0][0] / 10000))} # Gold')
+            if costs[0] > 0:
+                print(f'          0: {max(1, math.floor(costs[0] / 10000))} # Gold')
 
-            if len(costs[0]) >= 2:
+            if len(costs) >= 2:
                 # print(costs)
-                for cost in costs[0][1]:
+                for cost in costs[1]:
                     print(f'          {cost[0]}: {cost[1]}')
 
             if len(costs) == 3:
