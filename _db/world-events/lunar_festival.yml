@@ -19,6 +19,12 @@ things:
         costs:
           0: 50000 # Gold
 
+      # Mounts
+
+      - id: 232901 # Lunar Launcher
+        costs:
+          1021100: 75
+
       # Pets
 
       - id: 74611 # Festival Lantern
