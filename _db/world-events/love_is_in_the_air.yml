@@ -29,6 +29,10 @@ things:
         costs:
           1049927: 40
 
+      - id: 232923 # Living Rose
+        costs:
+          1049927: 40
+
       - id: 116155 # Lovebird Hatchling
         costs:
           1049927: 40
@@ -64,6 +68,10 @@ things:
           1049927: 10
 
       # Transmog
+
+      - id: 232925 # Ensemble: Truly Heartfelt Shoulders
+        costs:
+          1049927: 40
 
       - id: 151765 # Blue Dinner Suit
         costs:
