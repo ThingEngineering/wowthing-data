@@ -9,31 +9,41 @@ groups:
     alliance:
       - id: 78328
         name: "Take a Look Around"
+        description: "{price:10|1049927} \u2192 {price:5|1049927}"
 
       - id: 78332
         name: "I Smell Trouble"
+        description: "{price:15|1049927} \u2192 {price:5|1049927}"
       
       - id: 78337
         name: "An Unwelcome Gift"
+        description: "{price:15|1049927} \u2192 {price:5|1049927}"
       
       - id: 78369
         name: "Crushing the Crown"
+        description: "{price:50|1049927} \u2192 {price:25|1049927}"
       
       - id: 78379
         name: "The Stench of Revenge"
+        description: "{price:50|1049927} \u2192 {price:25|1049927}"
 
     horde:
       - id: 78980
         name: "Take a Look Around"
+        description: "{price:10|1049927} \u2192  {price:5|1049927}"
 
       - id: 78982
         name: "I Smell Trouble"
+        description: "{price:15|1049927} \u2192 {price:5|1049927}"
       
       - id: 78983
         name: "An Unwelcome Gift"
+        description: "{price:15|1049927} \u2192 {price:5|1049927}"
       
       - id: 78984
         name: "Crushing the Crown"
+        description: "{price:50|1049927} \u2192 {price:25|1049927}"
       
       - id: 78985
         name: "The Stench of Revenge"
+        description: "{price:50|1049927} \u2192 {price:25|1049927}"
