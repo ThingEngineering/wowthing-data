@@ -7,39 +7,33 @@ groups:
   type: quest
   data:
     alliance:
-      - name: "Uncommon Scents"
-        id: 24804
+      - id: 78328
+        name: "Take a Look Around"
 
-      - name: "Something Stinks"
-        id: 24655
-
-      - name: "Pilfering Perfume"
-        id: 24656
-
-      - name: "Fireworks at the Gilded Rose"
-        id: 24848
-
-      - name: "Hot on the Trail"
-        id: 24849
-
-      - name: "A Friendly Chat..."
-        id: 24657
+      - id: 78332
+        name: "I Smell Trouble"
+      
+      - id: 78337
+        name: "An Unwelcome Gift"
+      
+      - id: 78369
+        name: "Crushing the Crown"
+      
+      - id: 78379
+        name: "The Stench of Revenge"
 
     horde:
-      - name: "Uncommon Scents"
-        id: 24805
+      - id: 78980
+        name: "Take a Look Around"
 
-      - name: "Something Stinks"
-        id: 24536
-
-      - name: "Pilfering Perfume"
-        id: 24541
-
-      - name: "Fireworks at the Gilded Rose"
-        id: 24850
-
-      - name: "Hot on the Trail"
-        id: 24851
-
-      - name: "A Friendly Chat..."
-        id: 24576
+      - id: 78982
+        name: "I Smell Trouble"
+      
+      - id: 78983
+        name: "An Unwelcome Gift"
+      
+      - id: 78984
+        name: "Crushing the Crown"
+      
+      - id: 78985
+        name: "The Stench of Revenge"
