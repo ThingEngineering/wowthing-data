@@ -481,6 +481,13 @@
   - 99367 # Legwraps of the Ternion Glory [Priest]
   - 99426 # Leggings of the Horned Nightmare [Warlock]
 
+105867: # Essence of the Cursed Conqueror
+  - 1099724
+  - 1099718
+  - 1099715
+  - 1099721
+  - 1099712
+
 99725: # Helm of the Cursed Protector
   - 99402 # Headguard of the Unblinking Vigil [Hunter]
   - 99384 # Crown of Seven Sacred Seals [Monk]
@@ -536,6 +543,13 @@
   - 99410 # Legguards of the Prehistoric Marauder [Warrior]
   - 99413 # Legplates of the Prehistoric Marauder [Warrior]
 
+105866: # Essence of the Cursed Protector
+  - 1099725
+  - 1099719
+  - 1099716
+  - 1099722
+  - 1099713
+
 99723: # Helm of the Cursed Vanquisher
   - 99323 # Faceguard of Cyclopean Dread [Death Knight]
   - 99337 # Helmet of Cyclopean Dread [Death Knight]
@@ -585,3 +599,10 @@
   - 99429 # Legwraps of the Shattered Vale [Druid]
   - 99399 # Chronomancer Leggings [Mage]
   - 99349 # Legguards of the Barbed Assassin [Rogue]
+
+105868: # Essence of the Cursed Vanquisher
+  - 1099723
+  - 1099717
+  - 1099714
+  - 1099720
+  - 1099726

@@ -62,9 +62,9 @@
 
 65000: # Crown of the Forlorn Protector
   - 65206 # Lightning-Charged Headguard [Hunter]
-  - 65246 # Faceguard of the Raging Elements [Shaman]
-  - 65256 # Headpiece of the Raging Elements [Shaman]
-  - 65251 # Helmet of the Raging Elements [Shaman]
+  - 65256 # Headpiece of the Raging Elements [Enhancement Shaman]
+  - 65251 # Helmet of the Raging Elements [Elemental Shaman]
+  - 65246 # Faceguard of the Raging Elements [Resto Shaman]
   - 65271 # Earthen Faceguard [Warrior]
   - 65266 # Earthen Helmet [Warrior]
 
