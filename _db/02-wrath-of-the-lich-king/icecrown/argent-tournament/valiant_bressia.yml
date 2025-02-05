@@ -1,0 +1,554 @@
+things:
+  - id: 35578
+    type: "vendor"
+    name: "Valiant Bressia"
+    note: "Triumphant Armor Vendor"
+
+    locations:
+      here:
+        - 75.4 22 #horde
+
+    groups:
+      - name: "Armor - T09 Death Knight"
+        range: 10
+        sortKey: "armor-t09-1-death-knight"
+
+      - name: "Armor - T09 Druid"
+        range: 15
+        sortKey: "armor-t09-1-druid"
+
+      - name: "Armor - T09 Hunter"
+        range: 5
+        sortKey: "armor-t09-1-hunter"
+
+      - name: "Armor - T09 Mage"
+        range: 5
+        sortKey: "armor-t09-1-mage"
+
+      - name: "Armor - T09 Paladin"
+        range: 15
+        sortKey: "armor-t09-1-paladin"
+
+      - name: "Armor - T09 Priest"
+        range: 10
+        sortKey: "armor-t09-1-priest"
+
+      - name: "Armor - T09 Rogue"
+        range: 5
+        sortKey: "armor-t09-1-rogue"
+
+      - name: "Armor - T09 Shaman"
+        range: 15
+        sortKey: "armor-t09-1-shaman"
+
+      - name: "Armor - T09 Warlock"
+        range: 5
+        sortKey: "armor-t09-1-warlock"
+
+      - name: "Armor - T09 Warrior"
+        range: 10
+        sortKey: "armor-t09-1-warrior"
+
+    contents:
+
+      # Death Knight set=841
+      # - Blood
+      - id: 48555 # Koltira's Faceguard of Triumph [plate head]
+        costs:
+          0: 136 # Gold
+          1047242: 1
+
+      - id: 48553 # Koltira's Pauldrons of Triumph [plate shoulders]
+        costs:
+          0: 136 # Gold
+          1047242: 1
+
+      - id: 48557 # Koltira's Chestguard of Triumph [plate chest]
+        costs:
+          0: 182 # Gold
+          1047242: 1
+
+      - id: 48556 # Koltira's Handguards of Triumph [plate hands]
+        costs:
+          0: 89 # Gold
+          1047242: 1
+
+      - id: 48554 # Koltira's Legguards of Triumph [plate legs]
+        costs:
+          0: 178 # Gold
+          1047242: 1
+
+      # - Frost/Unholy
+      - id: 48498 # Koltira's Helmet of Triumph [plate head]
+        costs:
+          0: 136 # Gold
+          1047242: 1
+
+      - id: 48496 # Koltira's Shoulderplates of Triumph [plate shoulders]
+        costs:
+          0: 136 # Gold
+          1047242: 1
+
+      - id: 48500 # Koltira's Battleplate of Triumph [plate chest]
+        costs:
+          0: 182 # Gold
+          1047242: 1
+
+      - id: 48499 # Koltira's Gauntlets of Triumph [plate hands]
+        costs:
+          0: 89 # Gold
+          1047242: 1
+
+      - id: 48497 # Koltira's Legplates of Triumph [plate legs]
+        costs:
+          0: 178 # Gold
+          1047242: 1
+
+      # Druid set=826
+      # - Balance
+      - id: 48181 # Runetotem's Cover of Triumph [leather head]
+        costs:
+          0: 128 # Gold
+          1047242: 1
+
+      - id: 48178 # Runetotem's Mantle of Triumph [leather shoulders]
+        costs:
+          0: 128 # Gold
+          1047242: 1
+
+      - id: 48179 # Runetotem's Vestments of Triumph [leather chest]
+        costs:
+          0: 172 # Gold
+          1047242: 1
+
+      - id: 48182 # Runetotem's Gloves of Triumph [leather hands]
+        costs:
+          0: 84 # Gold
+          1047242: 1
+
+      - id: 48180 # Runetotem's Trousers of Triumph [leather legs]
+        costs:
+          0: 168 # Gold
+          1047242: 1
+
+      # - Feral/Guardian
+      - id: 48194 # Runetotem's Headguard of Triumph [leather head]
+        costs:
+          0: 128 # Gold
+          1047242: 1
+
+      - id: 48197 # Runetotem's Shoulderpads of Triumph [leather shoulders]
+        costs:
+          0: 128 # Gold
+          1047242: 1
+
+      - id: 48196 # Runetotem's Raiments of Triumph [leather chest]
+        costs:
+          0: 172 # Gold
+          1047242: 1
+
+      - id: 48193 # Runetotem's Handgrips of Triumph [leather hands]
+        costs:
+          0: 84 # Gold
+          1047242: 1
+
+      - id: 48195 # Runetotem's Legguards of Triumph [leather legs]
+        costs:
+          0: 168 # Gold
+          1047242: 1
+
+      # - Restoration
+      - id: 48151 # Runetotem's Headpiece of Triumph [leather head]
+        costs:
+          0: 128 # Gold
+          1047242: 1
+
+      - id: 48148 # Runetotem's Spaulders of Triumph [leather shoulders]
+        costs:
+          0: 128 # Gold
+          1047242: 1
+
+      - id: 48149 # Runetotem's Robe of Triumph [leather chest]
+        costs:
+          0: 172 # Gold
+          1047242: 1
+
+      - id: 48152 # Runetotem's Handguards of Triumph [leather hands]
+        costs:
+          0: 84 # Gold
+          1047242: 1
+
+      - id: 48150 # Runetotem's Leggings of Triumph [leather legs]
+        costs:
+          0: 168 # Gold
+          1047242: 1
+
+      # Hunter set=738
+
+      - id: 48272 # Windrunner's Headpiece of Triumph [mail head]
+        costs:
+          0: 160 # Gold
+          1047242: 1
+
+      - id: 48270 # Windrunner's Spaulders of Triumph [mail shoulders]
+        costs:
+          0: 160 # Gold
+          1047242: 1
+
+      - id: 48274 # Windrunner's Tunic of Triumph [mail chest]
+        costs:
+          0: 215 # Gold
+          1047242: 1
+
+      - id: 48273 # Windrunner's Handguards of Triumph [mail hands]
+        costs:
+          0: 105 # Gold
+          1047242: 1
+
+      - id: 48271 # Windrunner's Legguards of Triumph [mail legs]
+        costs:
+          0: 210 # Gold
+          1047242: 1
+
+      # Mage set=723
+
+      - id: 47771 # Sunstrider's Hood of Triumph [cloth head]
+        costs:
+          0: 128 # Gold
+          1047242: 1
+
+      - id: 47768 # Sunstrider's Shoulderpads of Triumph [cloth shoulders]
+        costs:
+          0: 128 # Gold
+          1047242: 1
+
+      - id: 47769 # Sunstrider's Robe of Triumph [cloth chest]
+        costs:
+          0: 172 # Gold
+          1047242: 1
+
+      - id: 47772 # Sunstrider's Gauntlets of Triumph [cloth hands]
+        costs:
+          0: 84 # Gold
+          1047242: 1
+
+      - id: 47770 # Sunstrider's Leggings of Triumph [cloth legs]
+        costs:
+          0: 168 # Gold
+          1047242: 1
+
+      # Paladin set=707
+
+      - id: 48659 # Liadrin's Faceguard of Triumph [plate head]
+        costs:
+          0: 152 # Gold
+          1047242: 1
+
+      - id: 48592 # Liadrin's Headpiece of Triumph [plate head]
+        costs:
+          0: 128 # Gold
+          1047242: 1
+
+      - id: 48624 # Liadrin's Helm of Triumph [plate head]
+        costs:
+          0: 128 # Gold
+          1047242: 1
+
+      - id: 48661 # Liadrin's Shoulderguards of Triumph [plate shoulders]
+        costs:
+          0: 152 # Gold
+          1047242: 1
+
+      - id: 48622 # Liadrin's Shoulderplates of Triumph [plate shoulders]
+        costs:
+          0: 128 # Gold
+          1047242: 1
+
+      - id: 48590 # Liadrin's Spaulders of Triumph [plate shoulders]
+        costs:
+          0: 128 # Gold
+          1047242: 1
+
+      - id: 48626 # Liadrin's Battleplate of Triumph [plate chest]
+        costs:
+          0: 172 # Gold
+          1047242: 1
+
+      - id: 48657 # Liadrin's Breastplate of Triumph [plate chest]
+        costs:
+          0: 172 # Gold
+          1047242: 1
+
+      - id: 48594 # Liadrin's Tunic of Triumph [plate chest]
+        costs:
+          0: 204 # Gold
+          1047242: 1
+
+      - id: 48625 # Liadrin's Gauntlets of Triumph [plate hands]
+        costs:
+          0: 84 # Gold
+          1047242: 1
+
+      - id: 48593 # Liadrin's Gloves of Triumph [plate hands]
+        costs:
+          0: 99 # Gold
+          1047242: 1
+
+      - id: 48658 # Liadrin's Handguards of Triumph [plate hands]
+        costs:
+          0: 84 # Gold
+          1047242: 1
+
+      - id: 48591 # Liadrin's Greaves of Triumph [plate legs]
+        costs:
+          0: 199 # Gold
+          1047242: 1
+
+      - id: 48660 # Liadrin's Legguards of Triumph [plate legs]
+        costs:
+          0: 199 # Gold
+          1047242: 1
+
+      - id: 48623 # Liadrin's Legplates of Triumph [plate legs]
+        costs:
+          0: 168 # Gold
+          1047242: 1
+
+      # Priest set=350
+      # - Disc/Holy
+      - id: 48065 # Zabra's Cowl of Triumph [cloth head]
+        costs:
+          0: 144 # Gold
+          1047242: 1
+
+      - id: 48062 # Zabra's Shoulderpads of Triumph [cloth shoulders]
+        costs:
+          0: 144 # Gold
+          1047242: 1
+
+      - id: 48063 # Zabra's Robe of Triumph [cloth chest]
+        costs:
+          0: 193 # Gold
+          1047242: 1
+
+      - id: 48066 # Zabra's Gloves of Triumph [cloth hands]
+        costs:
+          0: 94 # Gold
+          1047242: 1
+
+      - id: 48064 # Zabra's Leggings of Triumph [cloth legs]
+        costs:
+          0: 189 # Gold
+          1047242: 1
+
+      # - Shadow
+      - id: 48095 # Zabra's Circlet of Triumph [cloth head]
+        costs:
+          0: 144 # Gold
+          1047242: 1
+
+      - id: 48092 # Zabra's Mantle of Triumph [cloth shoulders]
+        costs:
+          0: 144 # Gold
+          1047242: 1
+
+      - id: 48093 # Zabra's Raiments of Triumph [cloth chest]
+        costs:
+          0: 193 # Gold
+          1047242: 1
+
+      - id: 48096 # Zabra's Handwraps of Triumph [cloth hands]
+        costs:
+          0: 94 # Gold
+          1047242: 1
+
+      - id: 48094 # Zabra's Pants of Triumph [cloth legs]
+        costs:
+          0: 189 # Gold
+          1047242: 1
+
+      # Rogue set=691
+
+      - id: 48240 # Garona's Helmet of Triumph [leather head]
+        costs:
+          0: 128 # Gold
+          1047242: 1
+
+      - id: 48238 # Garona's Pauldrons of Triumph [leather shoulders]
+        costs:
+          0: 128 # Gold
+          1047242: 1
+
+      - id: 48242 # Garona's Breastplate of Triumph [leather chest]
+        costs:
+          0: 172 # Gold
+          1047242: 1
+
+      - id: 48241 # Garona's Gauntlets of Triumph [leather hands]
+        costs:
+          0: 84 # Gold
+          1047242: 1
+
+      - id: 48239 # Garona's Legplates of Triumph [leather legs]
+        costs:
+          0: 168 # Gold
+          1047242: 1
+
+      # Shaman set=641
+      # - Elemental
+      - id: 48333 # Thrall's Helm of Triumph [mail head]
+        costs:
+          0: 128 # Gold
+          1047242: 1
+
+      - id: 48331 # Thrall's Shoulderpads of Triumph [mail shoulders]
+        costs:
+          0: 144 # Gold
+          1047242: 1
+
+      - id: 48335 # Thrall's Hauberk of Triumph [mail chest]
+        costs:
+          0: 193 # Gold
+          1047242: 1
+
+      - id: 48334 # Thrall's Gloves of Triumph [mail hands]
+        costs:
+          0: 94 # Gold
+          1047242: 1
+
+      - id: 48332 # Thrall's Kilt of Triumph [mail legs]
+        costs:
+          0: 189 # Gold
+          1047242: 1
+
+      # - Enhancement
+      - id: 48363 # Thrall's Faceguard of Triumph [mail head]
+        costs:
+          0: 144 # Gold
+          1047242: 1
+
+      - id: 48361 # Thrall's Shoulderguards of Triumph [mail shoulders]
+        costs:
+          0: 128 # Gold
+          1047242: 1
+
+      - id: 48365 # Thrall's Chestguard of Triumph [mail chest]
+        costs:
+          0: 182 # Gold
+          1047242: 1
+
+      - id: 48364 # Thrall's Grips of Triumph [mail hands]
+        costs:
+          0: 94 # Gold
+          1047242: 1
+
+      - id: 48362 # Thrall's War-Kilt of Triumph [mail legs]
+        costs:
+          0: 168 # Gold
+          1047242: 1
+
+      # - Restoration
+      - id: 48302 # Thrall's Headpiece of Triumph [mail head]
+        costs:
+          0: 128 # Gold
+          1047242: 1
+
+      - id: 48304 # Thrall's Spaulders of Triumph [mail shoulders]
+        costs:
+          0: 136 # Gold
+          1047242: 1
+
+      - id: 48300 # Thrall's Tunic of Triumph [mail chest]
+        costs:
+          0: 193 # Gold
+          1047242: 1
+
+      - id: 48301 # Thrall's Handguards of Triumph [mail hands]
+        costs:
+          0: 84 # Gold
+          1047242: 1
+
+      - id: 48303 # Thrall's Legguards of Triumph [mail legs]
+        costs:
+          0: 189 # Gold
+          1047242: 1
+
+      # Warlock set=675
+
+      - id: 47804 # Gul'dan's Hood of Triumph [cloth head]
+        costs:
+          0: 128 # Gold
+          1047242: 1
+
+      - id: 47807 # Gul'dan's Shoulderpads of Triumph [cloth shoulders]
+        costs:
+          0: 128 # Gold
+          1047242: 1
+
+      - id: 47806 # Gul'dan's Robe of Triumph [cloth chest]
+        costs:
+          0: 172 # Gold
+          1047242: 1
+
+      - id: 47803 # Gul'dan's Gloves of Triumph [cloth hands]
+        costs:
+          0: 84 # Gold
+          1047242: 1
+
+      - id: 47805 # Gul'dan's Leggings of Triumph [cloth legs]
+        costs:
+          0: 168 # Gold
+          1047242: 1
+
+      # Warrior set=657
+      # - Arms/Fury
+      - id: 48393 # Hellscream's Helmet of Triumph [plate head]
+        costs:
+          0: 144 # Gold
+          1047242: 1
+
+      - id: 48395 # Hellscream's Shoulderplates of Triumph [plate shoulders]
+        costs:
+          0: 144 # Gold
+          1047242: 1
+
+      - id: 48391 # Hellscream's Battleplate of Triumph [plate chest]
+        costs:
+          0: 193 # Gold
+          1047242: 1
+
+      - id: 48392 # Hellscream's Gauntlets of Triumph [plate hands]
+        costs:
+          0: 94 # Gold
+          1047242: 1
+
+      - id: 48394 # Hellscream's Legplates of Triumph [plate legs]
+        costs:
+          0: 189 # Gold
+          1047242: 1
+
+      # - Protection
+      - id: 48463 # Hellscream's Greathelm of Triumph [plate head]
+        costs:
+          0: 128 # Gold
+          1047242: 1
+
+      - id: 48465 # Hellscream's Pauldrons of Triumph [plate shoulders]
+        costs:
+          0: 144 # Gold
+          1047242: 1
+
+      - id: 48461 # Hellscream's Breastplate of Triumph [plate chest]
+        costs:
+          0: 193 # Gold
+          1047242: 1
+
+      - id: 48462 # Hellscream's Handguards of Triumph [plate hands]
+        costs:
+          0: 94 # Gold
+          1047242: 1
+
+      - id: 48464 # Hellscream's Legguards of Triumph [plate legs]
+        costs:
+          0: 189 # Gold
+          1047242: 1
