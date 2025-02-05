@@ -43,17 +43,9 @@ things:
 
       # Toys
 
-      - id: 210975 # Date Simulation Modulator
-        costs:
-          1049927: 100
-
       - id: 211864 # Exquisite Love Boat
         costs:
           1049927: 270
-
-      - id: 210974 # Eyes For You Only
-        costs:
-          1049927: 40
 
       - id: 142341 # Love Boat
         costs:
@@ -62,6 +54,14 @@ things:
       - id: 165670 # Peddlefeet's Lovely Hearthstone
         costs:
           1049927: 150
+
+      - id: 210975 # Date Simulation Modulator
+        costs:
+          1049927: 100
+
+      - id: 210974 # Eyes For You Only
+        costs:
+          1049927: 40
 
       - id: 34480 # Romantic Picnic Basket
         costs:

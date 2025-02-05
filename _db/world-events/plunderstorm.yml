@@ -49,18 +49,6 @@ things:
       
       # Pets
 
-      - id: 233251 # Bubbles
-        costs:
-          2922: 500
-
-      - id: 233248 # Glamrok
-        costs:
-          2922: 1000
-
-      - id: 233252 # Happy
-        costs:
-          2922: 250
-
       - id: 235989 # Parley
         costs:
           2922: 2000
@@ -68,6 +56,18 @@ things:
       - id: 233247 # Sparklesnap
         costs:
           2922: 2000
+
+      - id: 233248 # Glamrok
+        costs:
+          2922: 1000
+
+      - id: 233251 # Bubbles
+        costs:
+          2922: 500
+
+      - id: 233252 # Happy
+        costs:
+          2922: 250
 
       # Toys
 
