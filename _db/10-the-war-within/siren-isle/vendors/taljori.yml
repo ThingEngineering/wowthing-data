@@ -9,7 +9,7 @@ things:
 
     groups:
       - name: "Ensembles"
-        range: 7
+        range: 7 1
         sortKey: "01-ensembles"
 
       - name: "Armor - Cosmetic"
@@ -21,6 +21,10 @@ things:
         sortKey: "02-weapons-1"
 
     contents:
+
+      - id: 234230 # Technique: Glyph of the Twilight Pistol Shot
+        costs:
+          3090: 350
 
       # Ensemble
 
@@ -104,39 +108,23 @@ things:
         costs:
           3090: 350
 
-      - id: 233807 # Bloodwake Hullrender [2h ? sword]
-        costs:
-          3090: 350
-
-      - id: 233806 # Burly Vrykul's Greatsword [2h ? sword]
-        costs:
-          3090: 350
-
-      - id: 228648 # Roaring War-Queen's Citrine
-        costs:
-          3090: 50
-
-      - id: 234230 # Technique: Glyph of the Twilight Pistol Shot
-        costs:
-          3090: 350
-
       - id: 233832 # Tidestalker's Gutter [? dagger]
         costs:
           3090: 350
-
-      - id: 228647 # Seabed Leviathan's Citrine
-        costs:
-          3090: 50
 
       - id: 233830 # Pincer of the Tidestalker [fist]
         costs:
           3090: 350
 
-      - id: 228646 # Legendary Skipper's Citrine
-        costs:
-          3090: 50
-
       - id: 233805 # Vrykul Pyromancer's Wand [wand]
+        costs:
+          3090: 350
+
+      - id: 233807 # Bloodwake Hullrender [2h ? sword]
+        costs:
+          3090: 350
+
+      - id: 233806 # Burly Vrykul's Greatsword [2h ? sword]
         costs:
           3090: 350
 
