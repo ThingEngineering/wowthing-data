@@ -6,7 +6,7 @@ things:
 
     locations:
       here:
-        - 75.4 22 #horde
+        - 75.4 22 horde
 
     groups:
       - name: "Armor - T09 Death Knight"

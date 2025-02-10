@@ -1,0 +1,175 @@
+things:
+  - id: 34885
+    type: "vendor"
+    name: "Dame Evniki Kapsalis"
+    note: "Crusader's Quartermaster"
+
+    locations:
+      here:
+        - 69.4 23.2
+
+    groups:
+      - name: "Tabards"
+        range: 1 4
+
+      - name: "Armor - Heirloom"
+        range: 8
+        sortKey: "1-armor-2"
+
+      - name: "Weapons - Heirloom"
+        range: -1
+        sortKey: "2-weapon-2"
+
+    contents:
+
+      # Mount
+
+      - id: 47179 # Argent Charger [Paladin]
+        costs:
+          241: 100
+
+      - id: 47180 # Argent Warhorse
+        costs:
+          241: 100
+
+      # Toy
+
+      - id: 46843 # Argent Crusader's Banner
+        costs:
+          241: 15
+
+      # Misc
+
+      - id: 47541 # Argent Pony Bridle
+        costs:
+          241: 150
+
+      # Tabard
+
+      - id: 46874 # Argent Crusader's Tabard [tabard]
+        costs:
+          241: 50
+
+      # 0 set=1424
+
+      - id: 122360 # Tattered Dreadmist Mantle [cloth shoulders]
+        costs:
+          241: 25
+
+      - id: 122384 # Tattered Dreadmist Robe [cloth chest]
+        costs:
+          241: 25
+
+      # 0 set=1427
+
+      - id: 122358 # Stained Shadowcraft Spaulders [leather shoulders]
+        costs:
+          241: 25
+
+      - id: 122383 # Stained Shadowcraft Tunic [leather chest]
+        costs:
+          241: 25
+
+      # 0
+
+      - id: 122359 # Preened Ironfeather Shoulders [leather shoulders]
+        costs:
+          241: 25
+
+      - id: 122382 # Preened Ironfeather Breastplate [leather chest]
+        costs:
+          241: 25
+
+      # 0 set=1429
+
+      - id: 122357 # Mystical Pauldrons of Elements [mail shoulders]
+        costs:
+          241: 25
+
+      - id: 122380 # Mystical Vest of Elements [mail chest]
+        costs:
+          241: 25
+
+      # 0
+
+      - id: 122356 # Champion Herod's Shoulder [mail shoulders]
+        costs:
+          241: 25
+
+      - id: 122379 # Champion's Deathdealer Breastplate [mail chest]
+        costs:
+          241: 25
+
+      # 0 set=853
+
+      - id: 122388 # Burnished Pauldrons of Might [plate shoulders]
+        costs:
+          241: 25
+
+      - id: 122387 # Burnished Breastplate of Might [plate chest]
+        costs:
+          241: 25
+
+      # 0 set=1431
+
+      - id: 122355 # Polished Spaulders of Valor [plate shoulders]
+        costs:
+          241: 25
+
+      - id: 122381 # Polished Breastplate of Valor [plate chest]
+        costs:
+          241: 25
+
+      # 0
+
+      - id: 122354 # Devout Aurastone Hammer [1h ? mace]
+        costs:
+          241: 25
+
+      - id: 122385 # Venerable Mass of McGowan [1h ? mace]
+        costs:
+          241: 25
+
+      - id: 122389 # Bloodsoaked Skullforge Reaver [1h ? sword]
+        costs:
+          241: 25
+
+      - id: 122351 # Venerable Dal'Rend's Sacred Charge [1h ? sword]
+        costs:
+          241: 25
+
+      - id: 122350 # Balanced Heartseeker [? dagger]
+        costs:
+          241: 25
+
+      - id: 122349 # Bloodied Arcanite Reaper [2h ? axe]
+        costs:
+          241: 40
+
+      - id: 122386 # Repurposed Lava Dredger [2h ? mace]
+        costs:
+          241: 40
+
+      - id: 122363 # Burnished Warden Staff [staff]
+        costs:
+          241: 40
+
+      - id: 122353 # Dignified Headmaster's Charge [staff]
+        costs:
+          241: 40
+
+      - id: 122352 # Charmed Ancient Bone Bow [bow]
+        costs:
+          241: 40
+
+      - id: 122390 # Musty Tome of the Lost [off-hand]
+        costs:
+          241: 25
+
+      - id: 122391 # Flamescarred Draconian Deflector [shield]
+        costs:
+          241: 25
+
+      - id: 122392 # Weathered Observer's Shield [shield]
+        costs:
+          241: 25

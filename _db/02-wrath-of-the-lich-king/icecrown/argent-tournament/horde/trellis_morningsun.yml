@@ -1,0 +1,130 @@
+things:
+  - id: 33557
+    type: "vendor"
+    name: "Trellis Morningsun"
+    note: "Silvermoon Quartermaster"
+
+    locations:
+      here:
+        - 76.2 23.8 horde
+
+    groups:
+      - name: "Tabards"
+        range: 1 7
+
+      - name: "Armor"
+        range: 8
+        sortKey: "1-armor-1"
+
+      - name: "Weapons"
+        range: -1
+        sortKey: "2-weapon-1"
+
+    contents:
+
+      # Mount
+
+      - id: 45725 # Argent Hippogryph
+        costs:
+          241: 150
+
+      - id: 45596 # Silvermoon Hawkstrider
+        costs:
+          241: 100
+
+      - id: 46751 # Swift Red Hawkstrider
+        costs:
+          0: 500 # Gold
+
+      - id: 46751 # Swift Red Hawkstrider
+        costs:
+          0: 500 # Gold
+          241: 5
+
+      # Pet
+
+      - id: 44982 # Enchanted Broom
+        costs:
+          241: 40
+
+      # Toy
+
+      - id: 45017 # Silvermoon City Banner
+        costs:
+          241: 15
+
+      # Misc
+
+      - id: 122232 # Music Roll: The Argent Tournament
+        costs:
+          241: 25
+
+      # Tabard
+
+      - id: 45585 # Silvermoon City Tabard [tabard]
+        costs:
+          0: 1 # Gold
+
+      - id: 45209 # Sash of Trumpeted Pride [cloth waist]
+        costs:
+          241: 10
+
+      - id: 45211 # Waistguard of Equine Fury [leather waist]
+        costs:
+          241: 10
+
+      - id: 45220 # Treads of the Earnest Squire [leather feet]
+        costs:
+          241: 10
+
+      - id: 45215 # Links of Unquenched Savagery [mail waist]
+        costs:
+          241: 10
+
+      - id: 45221 # Treads of Whispering Dreams [mail feet]
+        costs:
+          241: 10
+
+      - id: 45216 # Gauntlets of Mending Touch [plate hands]
+        costs:
+          241: 10
+
+      - id: 45217 # Clinch of Savage Fury [plate waist]
+        costs:
+          241: 10
+
+      - id: 45218 # Blood-Caked Stompers [plate feet]
+        costs:
+          241: 10
+
+      - id: 45204 # Axe of the Sen'jin Protector [1h ? axe]
+        costs:
+          241: 25
+
+      - id: 45203 # Grimhorn Crusher [1h ? mace]
+        costs:
+          241: 25
+
+      - id: 45208 # Blade of the Keening Banshee [1h ? sword]
+        costs:
+          241: 25
+
+      - id: 45214 # Scalpel of the Royal Apothecary [? dagger]
+        costs:
+          241: 25
+
+      - id: 45222 # Spinal Destroyer [? dagger]
+        costs:
+          241: 25
+
+      - id: 45205 # Greatsword of the Sin'dorei [2h ? sword]
+        costs:
+          241: 25
+
+      - id: 45212 # Staff of Feral Furies [staff]
+        costs:
+          241: 25
+
+      - id: 45210 # Sen'jin Beakblade Longrifle [gun]
+        costs:
+          241: 25

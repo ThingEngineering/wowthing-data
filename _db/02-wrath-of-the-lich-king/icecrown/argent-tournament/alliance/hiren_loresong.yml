@@ -1,0 +1,45 @@
+things:
+  - id: 167030
+    type: "vendor"
+    name: "Hiren Loresong"
+    note: "Silver Covenant Quartermaster"
+
+    locations:
+      here:
+        - 76.2 19.4 alliance
+
+    groups:
+      - name: "Tabards"
+        range: 1 3
+
+    contents:
+
+      # Mount
+
+      - id: 46815 # Quel'dorei Steed
+        costs:
+          241: 100
+        requirements:
+          - "reputation: 0 exalted"
+
+      - id: 46813 # Silver Covenant Hippogryph
+        costs:
+          241: 150
+        requirements:
+          - "reputation: 0 exalted"
+
+      # Pet
+
+      - id: 46820 # Shimmering Wyrmling
+        costs:
+          241: 40
+        requirements:
+          - "reputation: 0 exalted"
+
+      # Tabard
+
+      - id: 46817 # Silver Covenant Tabard [tabard]
+        costs:
+          241: 50
+        requirements:
+          - "reputation: 0 exalted"

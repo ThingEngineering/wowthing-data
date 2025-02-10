@@ -1,0 +1,134 @@
+things:
+  - id: 33657
+    type: "vendor"
+    name: "Irisee"
+    note: "Exodar Quartermaster"
+
+    locations:
+      here:
+        - 76.2 19.2 alliance
+    
+    groups:
+      - name: "Tabards"
+        range: 1 7
+
+      - name: "Armor"
+        range: 8
+        sortKey: "1-armor-1"
+
+      - name: "Weapons"
+        range: -1
+        sortKey: "2-weapon-1"
+
+    contents:
+
+      # Mount
+
+      - id: 45725 # Argent Hippogryph
+        costs:
+          241: 150
+
+      - id: 45590 # Exodar Elekk
+        costs:
+          241: 100
+
+      - id: 46745 # Great Red Elekk
+        costs:
+          0: 500 # Gold
+
+      - id: 46745 # Great Red Elekk
+        costs:
+          0: 500 # Gold
+          241: 5
+
+      # Pet
+
+      - id: 44984 # Ammen Vale Lashling
+        costs:
+          241: 40
+
+      # Toy
+
+      - id: 45020 # Exodar Banner
+        costs:
+          241: 15
+
+      # Misc
+
+      - id: 122232 # Music Roll: The Argent Tournament
+        costs:
+          241: 25
+
+      # Armor
+
+      - id: 45580 # Exodar Tabard [tabard]
+        costs:
+          0: 1 # Gold
+
+      - id: 45156 # Sash of Shattering Hearts [cloth waist]
+        costs:
+          241: 10
+
+      - id: 45181 # Wrap of the Everliving Tree [leather waist]
+        costs:
+          241: 10
+
+      - id: 45159 # Treads of Nimble Evasion [leather feet]
+        costs:
+          241: 10
+
+      - id: 45184 # Cinch of Bonded Servitude [mail waist]
+        costs:
+          241: 10
+
+      - id: 45183 # Treads of the Glorious Spirit [mail feet]
+        costs:
+          241: 10
+
+      - id: 45182 # Gauntlets of Shattered Pride [plate hands]
+        costs:
+          241: 10
+
+      - id: 45160 # Girdle of Valorous Defeat [plate waist]
+        costs:
+          241: 10
+
+      - id: 45163 # Stanchions of Unseatable Furor [plate feet]
+        costs:
+          241: 10
+
+      - id: 45076 # Teldrassil Protector [1h ? axe]
+        costs:
+          241: 25
+
+      - id: 45075 # Ironforge Smasher [1h ? mace]
+        costs:
+          241: 25
+
+      - id: 45129 # Gnomeregan Bonechopper [1h ? sword]
+        costs:
+          241: 25
+
+      - id: 45074 # Claymore of the Prophet [2h ? sword]
+        costs:
+          241: 25
+
+      - id: 45078 # Dagger of Lunar Purity [? dagger]
+        costs:
+          241: 25
+
+      - id: 45077 # Dagger of the Rising Moon [? dagger]
+        costs:
+          241: 25
+
+      - id: 45128 # Silvery Sylvan Stave [staff]
+        costs:
+          241: 25
+
+      - id: 45130 # Blunderbuss of Khaz Modan [gun]
+        costs:
+          241: 25
+
+      - id: 164932 # Grapeshotter of Khaz Modan [gun]
+        costs:
+          241: 25
