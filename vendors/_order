@@ -109,6 +109,8 @@
 
 02-wrath-of-the-lich-king/_.yml
     02-wrath-of-the-lich-king/icecrown.yml
+        02-wrath-of-the-lich-king/icecrown/argent_tournament.yml
+        02-wrath-of-the-lich-king/icecrown/trial_of_the_crusader.yml
     -
     02-wrath-of-the-lich-king/dalaran.yml
         02-wrath-of-the-lich-king/dalaran/professions.yml

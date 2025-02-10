@@ -1,0 +1,5 @@
+name: "Argent Tournament"
+vendorMaps:
+  - "02-wrath-of-the-lich-king/icecrown"
+vendorTags:
+  - "event:argent-tournament"

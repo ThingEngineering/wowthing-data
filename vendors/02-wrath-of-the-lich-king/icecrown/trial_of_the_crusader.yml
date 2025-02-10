@@ -1,0 +1,5 @@
+name: "Trial of the Crusader"
+vendorMaps:
+  - "02-wrath-of-the-lich-king/icecrown"
+vendorTags:
+  - "instance:trial-of-the-crusader"
