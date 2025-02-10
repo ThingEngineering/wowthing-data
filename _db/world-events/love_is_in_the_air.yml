@@ -9,7 +9,7 @@ things:
 
     locations:
       elwynn_forest:
-        - 32.2 50.4 #alliance
+        - 32.2 50.4 alliance
 
     contents: &lovely-contents
 
@@ -108,7 +108,7 @@ things:
 
     locations:
       durotar:
-        - 41.8 17.2 #horde
+        - 41.8 17.2 horde
 
     contents: *lovely-contents
 
@@ -119,7 +119,7 @@ things:
 
     locations:
       elwynn_forest:
-        - 34.2 48.8 #alliance
+        - 34.2 48.8 alliance
 
     contents: &flower-contents
 
@@ -172,6 +172,6 @@ things:
 
     locations:
       durotar:
-        - 41.4 17.8 #horde
+        - 41.4 17.8 horde
 
     contents: *flower-contents

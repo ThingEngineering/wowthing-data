@@ -8,13 +8,13 @@ things:
 
     locations:
       dun_morogh:
-        - 54 50.8 #alliance
+        - 54 50.8 alliance
       elwynn_forest:
-        - 42.4 65.8 #alliance
+        - 42.4 65.8 alliance
       teldrassil:
-        - 55.6 51.2 #alliance
+        - 55.6 51.2 alliance
       azuremyst_isle:
-        - 49 51.2 #alliance
+        - 49 51.2 alliance
 
     contents: &contents
 
@@ -110,12 +110,12 @@ things:
 
     locations:
       durotar:
-        - 52.2 41.4 #horde
+        - 52.2 41.4 horde
       tirisfal_glades:
-        - 61.4 53 #horde
+        - 61.4 53 horde
       mulgore:
-        - 47 59.8 #horde
+        - 47 59.8 horde
       eversong_woods:
-        - 47.4 47.2 #horde
+        - 47.4 47.2 horde
 
     contents: *contents

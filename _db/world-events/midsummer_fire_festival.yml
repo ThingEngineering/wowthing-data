@@ -8,13 +8,13 @@ things:
 
     locations:
       stormwind_city:
-        - 47.4 71.4 #alliance
+        - 47.4 71.4 alliance
       ironforge:
-        - 64.4 26.4 #alliance
+        - 64.4 26.4 alliance
       darnassus:
-        - 62 48.4 #alliance
+        - 62 48.4 alliance
       the_exodar:
-        - 42.4 25.4 #alliance
+        - 42.4 25.4 alliance
 
     contents: &contents
 
@@ -102,14 +102,14 @@ things:
 
     locations:
       tirisfal_glades:
-        - 62.2 67.4 #horde
+        - 62.2 67.4 horde
       undercity:
-        - 67.8 11.2 #horde
+        - 67.8 11.2 horde
       orgrimmar:
-        - 47.2 37.4 #horde
+        - 47.2 37.4 horde
       thunder_bluff:
-        - 19.8 24.4 #horde
+        - 19.8 24.4 horde
       silvermoon_city:
-        - 70.4 44 #horde
+        - 70.4 44 horde
 
     contents: *contents

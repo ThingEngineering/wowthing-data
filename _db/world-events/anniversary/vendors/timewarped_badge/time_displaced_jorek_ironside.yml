@@ -6,7 +6,7 @@ things:
 
     locations:
       tanaris:
-        - 62.8 51 #horde
+        - 62.8 51 horde
 
     groups:
       - name: "AV - Armor"

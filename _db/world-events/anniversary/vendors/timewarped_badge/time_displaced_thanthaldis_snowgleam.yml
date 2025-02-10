@@ -6,7 +6,7 @@ things:
 
     locations:
       tanaris:
-        - 62.8 51 #alliance
+        - 62.8 51 alliance
 
     groups:
       - name: "AV - Armor"
