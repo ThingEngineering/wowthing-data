@@ -1,0 +1,149 @@
+things:
+  - id: 164095
+    type: "vendor"
+    name: "Purveyor Zo'kuul"
+    note: "Assessor of Conflict"
+
+    locations:
+      here:
+        - 35 57.4
+
+    groups:
+      - name: "S30 - Aspirant"
+        range: 5
+
+      - name: "S31 - Aspirant"
+        range: 5
+
+      - name: "S32/33 - Aspirant"
+        range: 6
+
+    tags:
+      - "pvp-s30"
+      - "pvp-s31"
+      - "pvp-s32"
+      - "pvp-s33"
+
+    contents:
+
+      # Season 1
+
+      - id: 201868 # Ensemble: Sinful Aspirant's Cloth Armor
+        costs:
+          1137642: 12
+
+      - id: 201867 # Ensemble: Sinful Aspirant's Leather Armor
+        costs:
+          1137642: 12
+
+      - id: 201866 # Ensemble: Sinful Aspirant's Mail Armor
+        costs:
+          1137642: 12
+
+      - id: 201865 # Ensemble: Sinful Aspirant's Plate Armor
+        costs:
+          1137642: 12
+
+      - id: 201878 # Arsenal: Sinful Aspirant's Weapons
+        costs:
+          1137642: 80
+
+      # Season 2
+
+      - id: 201860 # Ensemble: Unchained Aspirant's Cloth Armor
+        costs:
+          1137642: 12
+
+      - id: 201859 # Ensemble: Unchained Aspirant's Leather Armor
+        costs:
+          1137642: 12
+
+      - id: 201858 # Ensemble: Unchained Aspirant's Mail Armor
+        costs:
+          1137642: 12
+
+      - id: 201857 # Ensemble: Unchained Aspirant's Plate Armor
+        costs:
+          1137642: 12
+
+      - id: 201877 # Arsenal: Unchained Aspirant's Weapons
+        costs:
+          1137642: 80
+
+      # Season 3/4
+
+      - id: 201844 # Ensemble: Cosmic Aspirant's Cloth Armor
+        costs:
+          1137642: 12
+
+      - id: 201843 # Ensemble: Cosmic Aspirant's Leather Armor
+        costs:
+          1137642: 12
+
+      - id: 201842 # Ensemble: Cosmic Aspirant's Mail Armor
+        costs:
+          1137642: 12
+
+      - id: 201841 # Ensemble: Cosmic Aspirant's Plate Armor
+        costs:
+          1137642: 12
+
+      - id: 223639 # Unburied Aspirant's Cloak Rack
+        costs:
+          1137642: 1
+
+      - id: 201875 # Arsenal: Cosmic Aspirant's Weapons
+        costs:
+          1137642: 80
+
+      # - id: 183347 # Memory of Devastating Chains
+      #   costs:
+      #     1792: 1500
+
+      # - id: 183331 # Memory of Invigorating Shadowdust
+      #   costs:
+      #     1792: 1500
+
+      # - id: 183246 # Memory of Sephuz
+      #   costs:
+      #     1792: 1500
+
+      # - id: 183301 # Memory of Uther
+      #   costs:
+      #     1792: 1500
+
+      # - id: 183268 # Memory of a Grisly Icicle
+      #   costs:
+      #     1792: 1500
+
+      # - id: 183317 # Memory of a Heavenly Vault
+      #   costs:
+      #     1792: 1500
+
+      # - id: 183252 # Memory of a Trapping Apparatus
+      #   costs:
+      #     1792: 1500
+
+      # - id: 182625 # Memory of an Everlasting Grip
+      #   costs:
+      #     1792: 1500
+
+      # - id: 183368 # Memory of the Dark Portal
+      #   costs:
+      #     1792: 1500
+
+      # - id: 183222 # Memory of the Elder Druid
+      #   costs:
+      #     1792: 1500
+
+      # - id: 183211 # Memory of the Hour of Darkness
+      #   costs:
+      #     1792: 1500
+
+      # - id: 183378 # Memory of the Leaper
+      #   costs:
+      #     1792: 1500
+
+      # - id: 183285 # Memory of the Swiftsure Wraps
+      #   costs:
+      #     1792: 1500

@@ -1,0 +1,157 @@
+things:
+  - id: 168011
+    type: "vendor"
+    name: "Zo'sorg"
+    note: "Master of Conflict"
+
+    locations:
+      here:
+        - 34.4 57
+
+    groups:
+      - name: "S30 - Gladiator"
+        range: 10
+
+      - name: "S31 - Gladiator"
+        range: 7
+
+      - name: "S32/33 - Gladiator"
+        range: -1
+
+    tags:
+      - "pvp-s30"
+      - "pvp-s31"
+      - "pvp-s32"
+      - "pvp-s33"
+
+    contents:
+
+      # Season 1
+
+      - id: 201872 # Ensemble: Sinful Gladiator's Cloth Armor
+        costs:
+          1137642: 12
+
+      - id: 201871 # Ensemble: Sinful Gladiator's Leather Armor
+        costs:
+          1137642: 12
+
+      - id: 201870 # Ensemble: Sinful Gladiator's Mail Armor
+        costs:
+          1137642: 12
+
+      - id: 201869 # Ensemble: Sinful Gladiator's Plate Armor
+        costs:
+          1137642: 12
+
+      - id: 180431 # Sinful Gladiator's Tabard [tabard]
+        costs:
+          1792: 100
+
+      - id: 223640 # Unburied Gladiator's Cloak Rack
+        costs:
+          1137642: 1
+
+      - id: 201882 # Arsenal: Sinful Gladiator's Ardenweald Weapons
+        costs:
+          1137642: 80
+
+      - id: 201881 # Arsenal: Sinful Gladiator's Bastion Weapons
+        costs:
+          1137642: 80
+
+      - id: 201880 # Arsenal: Sinful Gladiator's Maldraxxus Weapons
+        costs:
+          1137642: 80
+
+      - id: 201879 # Arsenal: Sinful Gladiator's Revendreth Weapons
+        costs:
+          1137642: 80
+
+      # Season 2
+
+      - id: 201864 # Ensemble: Unchained Gladiator's Cloth Armor
+        costs:
+          1137642: 12
+
+      - id: 201863 # Ensemble: Unchained Gladiator's Leather Armor
+        costs:
+          1137642: 12
+
+      - id: 201862 # Ensemble: Unchained Gladiator's Mail Armor
+        costs:
+          1137642: 12
+
+      - id: 201861 # Ensemble: Unchained Gladiator's Plate Armor
+        costs:
+          1137642: 12
+
+      - id: 185303 # Unchained Gladiator's Tabard [tabard]
+        costs:
+          1792: 100
+
+      - id: 201876 # Arsenal: Unchained Gladiator's Weapons
+        costs:
+          1137642: 80
+
+      # Season 3/4
+
+      - id: 201856 # Ensemble: Cosmic Gladiator's Death Knight Armor
+        costs:
+          1137642: 12
+
+      - id: 201855 # Ensemble: Cosmic Gladiator's Demon Hunter Armor
+        costs:
+          1137642: 12
+
+      - id: 201854 # Ensemble: Cosmic Gladiator's Druid Armor
+        costs:
+          1137642: 12
+
+      - id: 201853 # Ensemble: Cosmic Gladiator's Hunter Armor
+        costs:
+          1137642: 12
+
+      - id: 201852 # Ensemble: Cosmic Gladiator's Mage Armor
+        costs:
+          1137642: 12
+
+      - id: 201851 # Ensemble: Cosmic Gladiator's Monk Armor
+        costs:
+          1137642: 12
+
+      - id: 201850 # Ensemble: Cosmic Gladiator's Paladin Armor
+        costs:
+          1137642: 12
+
+      - id: 201849 # Ensemble: Cosmic Gladiator's Priest Armor
+        costs:
+          1137642: 12
+
+      - id: 201848 # Ensemble: Cosmic Gladiator's Rogue Armor
+        costs:
+          1137642: 12
+
+      - id: 201847 # Ensemble: Cosmic Gladiator's Shaman Armor
+        costs:
+          1137642: 12
+
+      - id: 201846 # Ensemble: Cosmic Gladiator's Warlock Armor
+        costs:
+          1137642: 12
+
+      - id: 201845 # Ensemble: Cosmic Gladiator's Warrior Armor
+        costs:
+          1137642: 12
+
+      - id: 186777 # Cosmic Gladiator's Tabard [tabard]
+        costs:
+          1792: 100
+
+      - id: 192206 # Eternal Gladiator's Tabard [tabard]
+        costs:
+          1792: 100
+
+      - id: 201873 # Arsenal: Cosmic Gladiator's Weapons
+        costs:
+          1137642: 80
