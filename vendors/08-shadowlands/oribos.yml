@@ -2,3 +2,5 @@ name: "Oribos"
 vendorMaps:
   - z8_oribos_1
   - z8_oribos_2
+vendorTags:
+  - "zone:oribos"
