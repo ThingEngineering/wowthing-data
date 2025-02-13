@@ -9,9 +9,9 @@ things:
         - 43 42.2
 
     groups:
-      - name: "Recipes"
-        range: 6
-        sortKey: "00-recipes"
+      # - name: "Recipes"
+      #   range: 6
+      #   sortKey: "00-recipes"
 
       - name: "S34 - War Mode Armor"
         range: 4
@@ -53,57 +53,57 @@ things:
         range: 13
         sortKey: "pvp-1-s36-9"
 
-      - name: "S37 - War Mode Cloth"
-        range: 8
-        sortKey: "pvp-1-s37-1"
+      # - name: "S37 - War Mode Cloth"
+      #   range: 8
+      #   sortKey: "pvp-1-s37-1"
 
-      - name: "S37 - War Mode Leather"
-        range: 8
-        sortKey: "pvp-1-s37-2"
+      # - name: "S37 - War Mode Leather"
+      #   range: 8
+      #   sortKey: "pvp-1-s37-2"
 
-      - name: "S37 - War Mode Mail"
-        range: 8
-        sortKey: "pvp-1-s37-3"
+      # - name: "S37 - War Mode Mail"
+      #   range: 8
+      #   sortKey: "pvp-1-s37-3"
 
-      - name: "S37 - War Mode Plate"
-        range: 8
-        sortKey: "pvp-1-s37-4"
+      # - name: "S37 - War Mode Plate"
+      #   range: 8
+      #   sortKey: "pvp-1-s37-4"
 
-      - name: "S37 - War Mode Cloaks"
-        range: 4
-        sortKey: "pvp-1-s37-5"
+      # - name: "S37 - War Mode Cloaks"
+      #   range: 4
+      #   sortKey: "pvp-1-s37-5"
 
-      - name: "S37 - War Mode Weapons"
-        range: -1
-        sortKey: "pvp-1-s37-9"
+      # - name: "S37 - War Mode Weapons"
+      #   range: -1
+      #   sortKey: "pvp-1-s37-9"
 
     contents:
 
       # Recipes
 
-      - id: 208312 # Technique: Verdant Combatant's Emblem
-        costs:
-          1190450: 3
+      # - id: 208312 # Technique: Verdant Combatant's Emblem
+      #   costs:
+      #     1190450: 3
 
-      - id: 208311 # Technique: Verdant Combatant's Insignia of Alacrity
-        costs:
-          1190450: 3
+      # - id: 208311 # Technique: Verdant Combatant's Insignia of Alacrity
+      #   costs:
+      #     1190450: 3
 
-      - id: 208310 # Technique: Verdant Combatant's Medallion
-        costs:
-          1190450: 3
+      # - id: 208310 # Technique: Verdant Combatant's Medallion
+      #   costs:
+      #     1190450: 3
 
-      - id: 211611 # Technique: Draconic Combatant's Emblem
-        costs:
-          1190450: 3
+      # - id: 211611 # Technique: Draconic Combatant's Emblem
+      #   costs:
+      #     1190450: 3
 
-      - id: 211610 # Technique: Draconic Combatant's Insignia of Alacrity
-        costs:
-          1190450: 3
+      # - id: 211610 # Technique: Draconic Combatant's Insignia of Alacrity
+      #   costs:
+      #     1190450: 3
 
-      - id: 211609 # Technique: Draconic Combatant's Medallion
-        costs:
-          1190450: 3
+      # - id: 211609 # Technique: Draconic Combatant's Medallion
+      #   costs:
+      #     1190450: 3
 
       # Season 1 [S34]
 

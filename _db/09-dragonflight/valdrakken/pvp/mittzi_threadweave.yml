@@ -1,0 +1,186 @@
+things:
+  - id: 214682
+    type: "vendor"
+    name: "Mittzi Threadweave"
+    note: "Verdant Combatant Recipes"
+
+    locations:
+      here:
+        - 44.6 42.4
+    
+    groups:
+      - name: "S34 - Recipes"
+        range: -1
+        sortKey: "pvp-4-s34"
+
+    contents:
+
+      # 0
+
+      - id: 208300 # Pattern: Verdant Combatant's Adamant Chainmail
+        costs:
+          1137642: 3
+
+      - id: 208299 # Pattern: Verdant Combatant's Adamant Cowl
+        costs:
+          1137642: 3
+
+      - id: 208305 # Pattern: Verdant Combatant's Adamant Cuffs
+        costs:
+          1137642: 3
+
+      - id: 208302 # Pattern: Verdant Combatant's Adamant Epaulets
+        costs:
+          1137642: 3
+
+      - id: 208304 # Pattern: Verdant Combatant's Adamant Gauntlets
+        costs:
+          1137642: 3
+
+      - id: 208306 # Pattern: Verdant Combatant's Adamant Girdle
+        costs:
+          1137642: 3
+
+      - id: 208301 # Pattern: Verdant Combatant's Adamant Leggings
+        costs:
+          1137642: 3
+
+      - id: 208303 # Pattern: Verdant Combatant's Adamant Treads
+        costs:
+          1137642: 3
+
+      - id: 208298 # Pattern: Verdant Combatant's Resilient Belt
+        costs:
+          1137642: 3
+
+      - id: 208295 # Pattern: Verdant Combatant's Resilient Boots
+        costs:
+          1137642: 3
+
+      - id: 208292 # Pattern: Verdant Combatant's Resilient Chestpiece
+        costs:
+          1137642: 3
+
+      - id: 208296 # Pattern: Verdant Combatant's Resilient Gloves
+        costs:
+          1137642: 3
+
+      - id: 208291 # Pattern: Verdant Combatant's Resilient Mask
+        costs:
+          1137642: 3
+
+      - id: 208294 # Pattern: Verdant Combatant's Resilient Shoulderpads
+        costs:
+          1137642: 3
+
+      - id: 208293 # Pattern: Verdant Combatant's Resilient Trousers
+        costs:
+          1137642: 3
+
+      - id: 208297 # Pattern: Verdant Combatant's Resilient Wristwraps
+        costs:
+          1137642: 3
+
+      - id: 208272 # Pattern: Verdant Combatant's Wildercloth Bands
+        costs:
+          1137642: 3
+
+      - id: 208273 # Pattern: Verdant Combatant's Wildercloth Cloak
+        costs:
+          1137642: 3
+
+      - id: 208274 # Pattern: Verdant Combatant's Wildercloth Gloves
+        costs:
+          1137642: 3
+
+      - id: 208275 # Pattern: Verdant Combatant's Wildercloth Hood
+        costs:
+          1137642: 3
+
+      - id: 208276 # Pattern: Verdant Combatant's Wildercloth Leggings
+        costs:
+          1137642: 3
+
+      - id: 208277 # Pattern: Verdant Combatant's Wildercloth Sash
+        costs:
+          1137642: 3
+
+      - id: 208278 # Pattern: Verdant Combatant's Wildercloth Shoulderpads
+        costs:
+          1137642: 3
+
+      - id: 208279 # Pattern: Verdant Combatant's Wildercloth Treads
+        costs:
+          1137642: 3
+
+      - id: 208280 # Pattern: Verdant Combatant's Wildercloth Tunic
+        costs:
+          1137642: 3
+
+      - id: 208317 # Schematic: Verdant Combatant's Cloth Goggles
+        costs:
+          1137642: 3
+
+      - id: 208318 # Schematic: Verdant Combatant's Leather Goggles
+        costs:
+          1137642: 3
+
+      - id: 208319 # Schematic: Verdant Combatant's Mail Goggles
+        costs:
+          1137642: 3
+
+      - id: 208320 # Schematic: Verdant Combatant's Plate Goggles
+        costs:
+          1137642: 3
+
+      - id: 208287 # Plans: Verdant Combatant's Draconium Armguards
+        costs:
+          1137642: 3
+
+      - id: 208282 # Plans: Verdant Combatant's Draconium Breastplate
+        costs:
+          1137642: 3
+
+      - id: 208285 # Plans: Verdant Combatant's Draconium Gauntlets
+        costs:
+          1137642: 3
+
+      - id: 208283 # Plans: Verdant Combatant's Draconium Greaves
+        costs:
+          1137642: 3
+
+      - id: 208281 # Plans: Verdant Combatant's Draconium Helm
+        costs:
+          1137642: 3
+
+      - id: 208284 # Plans: Verdant Combatant's Draconium Pauldrons
+        costs:
+          1137642: 3
+
+      - id: 208286 # Plans: Verdant Combatant's Draconium Sabatons
+        costs:
+          1137642: 3
+
+      - id: 208288 # Plans: Verdant Combatant's Draconium Waistguard
+        costs:
+          1137642: 3
+
+      - id: 208289 # Design: Verdant Combatant's Jeweled Amulet
+        costs:
+          1137642: 3
+
+      - id: 208290 # Design: Verdant Combatant's Jeweled Signet
+        costs:
+          1137642: 3
+
+      - id: 208312 # Technique: Verdant Combatant's Emblem
+        costs:
+          1137642: 3
+
+      - id: 208311 # Technique: Verdant Combatant's Insignia of Alacrity
+        costs:
+          1137642: 3
+
+      - id: 208310 # Technique: Verdant Combatant's Medallion
+        costs:
+          1137642: 3

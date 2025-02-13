@@ -1,0 +1,186 @@
+things:
+  - id: 209377
+    type: "vendor"
+    name: "Zaeka Steelbender"
+    note: "Obsidian Combatant Recipes"
+
+    locations:
+      here:
+        - 44.6 42.4
+
+    groups:
+      - name: "S35 - Recipes"
+        range: -1
+        sortKey: "pvp-4-s35"
+
+    contents:
+
+      # 0
+
+      - id: 204157 # Pattern: Obsidian Combatant's Adamant Chainmail
+        costs:
+          1137642: 3
+
+      - id: 204156 # Pattern: Obsidian Combatant's Adamant Cowl
+        costs:
+          1137642: 3
+
+      - id: 204162 # Pattern: Obsidian Combatant's Adamant Cuffs
+        costs:
+          1137642: 3
+
+      - id: 204159 # Pattern: Obsidian Combatant's Adamant Epaulets
+        costs:
+          1137642: 3
+
+      - id: 204161 # Pattern: Obsidian Combatant's Adamant Gauntlets
+        costs:
+          1137642: 3
+
+      - id: 204163 # Pattern: Obsidian Combatant's Adamant Girdle
+        costs:
+          1137642: 3
+
+      - id: 204158 # Pattern: Obsidian Combatant's Adamant Leggings
+        costs:
+          1137642: 3
+
+      - id: 204160 # Pattern: Obsidian Combatant's Adamant Treads
+        costs:
+          1137642: 3
+
+      - id: 204155 # Pattern: Obsidian Combatant's Resilient Belt
+        costs:
+          1137642: 3
+
+      - id: 204152 # Pattern: Obsidian Combatant's Resilient Boots
+        costs:
+          1137642: 3
+
+      - id: 204149 # Pattern: Obsidian Combatant's Resilient Chestpiece
+        costs:
+          1137642: 3
+
+      - id: 204153 # Pattern: Obsidian Combatant's Resilient Gloves
+        costs:
+          1137642: 3
+
+      - id: 204148 # Pattern: Obsidian Combatant's Resilient Mask
+        costs:
+          1137642: 3
+
+      - id: 204151 # Pattern: Obsidian Combatant's Resilient Shoulderpads
+        costs:
+          1137642: 3
+
+      - id: 204150 # Pattern: Obsidian Combatant's Resilient Trousers
+        costs:
+          1137642: 3
+
+      - id: 204154 # Pattern: Obsidian Combatant's Resilient Wristwraps
+        costs:
+          1137642: 3
+
+      - id: 204129 # Pattern: Obsidian Combatant's Wildercloth Bands
+        costs:
+          1137642: 3
+
+      - id: 204130 # Pattern: Obsidian Combatant's Wildercloth Cloak
+        costs:
+          1137642: 3
+
+      - id: 204131 # Pattern: Obsidian Combatant's Wildercloth Gloves
+        costs:
+          1137642: 3
+
+      - id: 204132 # Pattern: Obsidian Combatant's Wildercloth Hood
+        costs:
+          1137642: 3
+
+      - id: 204133 # Pattern: Obsidian Combatant's Wildercloth Leggings
+        costs:
+          1137642: 3
+
+      - id: 204134 # Pattern: Obsidian Combatant's Wildercloth Sash
+        costs:
+          1137642: 3
+
+      - id: 204135 # Pattern: Obsidian Combatant's Wildercloth Shoulderpads
+        costs:
+          1137642: 3
+
+      - id: 204136 # Pattern: Obsidian Combatant's Wildercloth Treads
+        costs:
+          1137642: 3
+
+      - id: 204137 # Pattern: Obsidian Combatant's Wildercloth Tunic
+        costs:
+          1137642: 3
+
+      - id: 205282 # Schematic: Obsidian Combatant's Cloth Goggles
+        costs:
+          1137642: 3
+
+      - id: 205283 # Schematic: Obsidian Combatant's Leather Goggles
+        costs:
+          1137642: 3
+
+      - id: 205284 # Schematic: Obsidian Combatant's Mail Goggles
+        costs:
+          1137642: 3
+
+      - id: 205285 # Schematic: Obsidian Combatant's Plate Goggles
+        costs:
+          1137642: 3
+
+      - id: 204144 # Plans: Obsidian Combatant's Draconium Armguards
+        costs:
+          1137642: 3
+
+      - id: 204139 # Plans: Obsidian Combatant's Draconium Breastplate
+        costs:
+          1137642: 3
+
+      - id: 204142 # Plans: Obsidian Combatant's Draconium Gauntlets
+        costs:
+          1137642: 3
+
+      - id: 204140 # Plans: Obsidian Combatant's Draconium Greaves
+        costs:
+          1137642: 3
+
+      - id: 204138 # Plans: Obsidian Combatant's Draconium Helm
+        costs:
+          1137642: 3
+
+      - id: 204141 # Plans: Obsidian Combatant's Draconium Pauldrons
+        costs:
+          1137642: 3
+
+      - id: 204143 # Plans: Obsidian Combatant's Draconium Sabatons
+        costs:
+          1137642: 3
+
+      - id: 204145 # Plans: Obsidian Combatant's Draconium Waistguard
+        costs:
+          1137642: 3
+
+      - id: 204146 # Design: Obsidian Combatant's Jeweled Amulet
+        costs:
+          1137642: 3
+
+      - id: 204147 # Design: Obsidian Combatant's Jeweled Signet
+        costs:
+          1137642: 3
+
+      - id: 204169 # Technique: Obsidian Combatant's Emblem
+        costs:
+          1137642: 3
+
+      - id: 204168 # Technique: Obsidian Combatant's Insignia of Alacrity
+        costs:
+          1137642: 3
+
+      - id: 204167 # Technique: Obsidian Combatant's Medallion
+        costs:
+          1137642: 3

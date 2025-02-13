@@ -1,0 +1,260 @@
+things:
+  - id: 221421
+    type: "vendor"
+    name: "Eraneth"
+    note: "Draconic Combatant Recipes"
+
+    locations:
+      here:
+        - 43.4 42.4
+
+    groups:
+      - name: "Recipes"
+        range: 15
+        sortKey: "pvp-4-s00"
+
+      - name: "S37 - Recipes"
+        range: -1
+        sortKey: "pvp-4-s37"
+
+    contents:
+
+      # Recipes
+
+      - id: 194646 # Design: Djaradin's "Pinata"
+        costs:
+          1137642: 3
+
+      - id: 193877 # Pattern: Infurious Boots of Reprieve
+        costs:
+          1137642: 3
+
+      - id: 193884 # Pattern: Infurious Chainhelm Protector
+        costs:
+          1137642: 3
+
+      - id: 193879 # Pattern: Infurious Footwraps of Indemnity
+        costs:
+          1137642: 3
+
+      - id: 200103 # Pattern: Infurious Hide
+        costs:
+          1137642: 3
+
+      - id: 200104 # Pattern: Infurious Scales
+        costs:
+          1137642: 3
+
+      - id: 193871 # Pattern: Infurious Spirit's Hood
+        costs:
+          1137642: 3
+
+      - id: 194257 # Pattern: Infurious Binding of Gesticulation
+        costs:
+          1137642: 3
+
+      - id: 194258 # Pattern: Infurious Legwraps of Possibility
+        costs:
+          1137642: 3
+
+      - id: 194269 # Pattern: Infurious Wildercloth Bolt
+        costs:
+          1137642: 3
+
+      - id: 200102 # Plans: Infurious Alloy
+        costs:
+          1137642: 3
+
+      - id: 194484 # Plans: Infurious Helm of Vengeance
+        costs:
+          1137642: 3
+
+      - id: 194485 # Plans: Infurious Warboots of Impunity
+        costs:
+          1137642: 3
+
+      - id: 199241 # Schematic: H.E.L.P.
+        costs:
+          1137642: 3
+
+      - id: 199238 # Schematic: Sticky Warp Grenade
+        costs:
+          1137642: 3
+
+      - id: 199239 # Schematic: Tinker: Alarm-O-Turret
+        costs:
+          1137642: 3
+
+      - id: 199299 # Schematic: Tinker: Polarity Amplifier
+        costs:
+          1137642: 3
+
+      # 0
+
+      - id: 211599 # Pattern: Draconic Combatant's Adamant Chainmail
+        costs:
+          1137642: 3
+
+      - id: 211598 # Pattern: Draconic Combatant's Adamant Cowl
+        costs:
+          1137642: 3
+
+      - id: 211604 # Pattern: Draconic Combatant's Adamant Cuffs
+        costs:
+          1137642: 3
+
+      - id: 211601 # Pattern: Draconic Combatant's Adamant Epaulets
+        costs:
+          1137642: 3
+
+      - id: 211603 # Pattern: Draconic Combatant's Adamant Gauntlets
+        costs:
+          1137642: 3
+
+      - id: 211605 # Pattern: Draconic Combatant's Adamant Girdle
+        costs:
+          1137642: 3
+
+      - id: 211600 # Pattern: Draconic Combatant's Adamant Leggings
+        costs:
+          1137642: 3
+
+      - id: 211602 # Pattern: Draconic Combatant's Adamant Treads
+        costs:
+          1137642: 3
+
+      - id: 211597 # Pattern: Draconic Combatant's Resilient Belt
+        costs:
+          1137642: 3
+
+      - id: 211594 # Pattern: Draconic Combatant's Resilient Boots
+        costs:
+          1137642: 3
+
+      - id: 211591 # Pattern: Draconic Combatant's Resilient Chestpiece
+        costs:
+          1137642: 3
+
+      - id: 211595 # Pattern: Draconic Combatant's Resilient Gloves
+        costs:
+          1137642: 3
+
+      - id: 211590 # Pattern: Draconic Combatant's Resilient Mask
+        costs:
+          1137642: 3
+
+      - id: 211593 # Pattern: Draconic Combatant's Resilient Shoulderpads
+        costs:
+          1137642: 3
+
+      - id: 211592 # Pattern: Draconic Combatant's Resilient Trousers
+        costs:
+          1137642: 3
+
+      - id: 211596 # Pattern: Draconic Combatant's Resilient Wristwraps
+        costs:
+          1137642: 3
+
+      - id: 211571 # Pattern: Draconic Combatant's Wildercloth Bands
+        costs:
+          1137642: 3
+
+      - id: 211572 # Pattern: Draconic Combatant's Wildercloth Cloak
+        costs:
+          1137642: 3
+
+      - id: 211573 # Pattern: Draconic Combatant's Wildercloth Gloves
+        costs:
+          1137642: 3
+
+      - id: 211574 # Pattern: Draconic Combatant's Wildercloth Hood
+        costs:
+          1137642: 3
+
+      - id: 211575 # Pattern: Draconic Combatant's Wildercloth Leggings
+        costs:
+          1137642: 3
+
+      - id: 211576 # Pattern: Draconic Combatant's Wildercloth Sash
+        costs:
+          1137642: 3
+
+      - id: 211577 # Pattern: Draconic Combatant's Wildercloth Shoulderpads
+        costs:
+          1137642: 3
+
+      - id: 211578 # Pattern: Draconic Combatant's Wildercloth Treads
+        costs:
+          1137642: 3
+
+      - id: 211579 # Pattern: Draconic Combatant's Wildercloth Tunic
+        costs:
+          1137642: 3
+
+      - id: 211616 # Schematic: Draconic Combatant's Cloth Goggles
+        costs:
+          1137642: 3
+
+      - id: 211617 # Schematic: Draconic Combatant's Leather Goggles
+        costs:
+          1137642: 3
+
+      - id: 211618 # Schematic: Draconic Combatant's Mail Goggles
+        costs:
+          1137642: 3
+
+      - id: 211619 # Schematic: Draconic Combatant's Plate Goggles
+        costs:
+          1137642: 3
+
+      - id: 211586 # Plans: Draconic Combatant's Draconium Armguards
+        costs:
+          1137642: 3
+
+      - id: 211581 # Plans: Draconic Combatant's Draconium Breastplate
+        costs:
+          1137642: 3
+
+      - id: 211584 # Plans: Draconic Combatant's Draconium Gauntlets
+        costs:
+          1137642: 3
+
+      - id: 211582 # Plans: Draconic Combatant's Draconium Greaves
+        costs:
+          1137642: 3
+
+      - id: 211580 # Plans: Draconic Combatant's Draconium Helm
+        costs:
+          1137642: 3
+
+      - id: 211583 # Plans: Draconic Combatant's Draconium Pauldrons
+        costs:
+          1137642: 3
+
+      - id: 211585 # Plans: Draconic Combatant's Draconium Sabatons
+        costs:
+          1137642: 3
+
+      - id: 211587 # Plans: Draconic Combatant's Draconium Waistguard
+        costs:
+          1137642: 3
+
+      - id: 211588 # Design: Draconic Combatant's Jeweled Amulet
+        costs:
+          1137642: 3
+
+      - id: 211589 # Design: Draconic Combatant's Jeweled Signet
+        costs:
+          1137642: 3
+
+      - id: 211611 # Technique: Draconic Combatant's Emblem
+        costs:
+          1137642: 3
+
+      - id: 211610 # Technique: Draconic Combatant's Insignia of Alacrity
+        costs:
+          1137642: 3
+
+      - id: 211609 # Technique: Draconic Combatant's Medallion
+        costs:
+          1137642: 3

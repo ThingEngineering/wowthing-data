@@ -1,0 +1,170 @@
+things:
+  - id: 196661
+    type: "vendor"
+    name: "Korganar Smolderforge"
+    note: "Crimson Combatant Recipes"
+
+    locations:
+      here:
+        - 43.4 42.4
+
+    groups:
+      - name: "S36 - Recipes"
+        range: -1
+        sortKey: "pvp-4-s36"
+
+    contents:
+
+      # 0
+
+      - id: 197973 # Pattern: Crimson Combatant's Adamant Chainmail
+        costs:
+          1137642: 3
+
+      - id: 197972 # Pattern: Crimson Combatant's Adamant Cowl
+        costs:
+          1137642: 3
+
+      - id: 197978 # Pattern: Crimson Combatant's Adamant Cuffs
+        costs:
+          1137642: 3
+
+      - id: 197975 # Pattern: Crimson Combatant's Adamant Epaulets
+        costs:
+          1137642: 3
+
+      - id: 197977 # Pattern: Crimson Combatant's Adamant Gauntlets
+        costs:
+          1137642: 3
+
+      - id: 197979 # Pattern: Crimson Combatant's Adamant Girdle
+        costs:
+          1137642: 3
+
+      - id: 197974 # Pattern: Crimson Combatant's Adamant Leggings
+        costs:
+          1137642: 3
+
+      - id: 197976 # Pattern: Crimson Combatant's Adamant Treads
+        costs:
+          1137642: 3
+
+      - id: 197971 # Pattern: Crimson Combatant's Resilient Belt
+        costs:
+          1137642: 3
+
+      - id: 197968 # Pattern: Crimson Combatant's Resilient Boots
+        costs:
+          1137642: 3
+
+      - id: 197965 # Pattern: Crimson Combatant's Resilient Chestpiece
+        costs:
+          1137642: 3
+
+      - id: 197969 # Pattern: Crimson Combatant's Resilient Gloves
+        costs:
+          1137642: 3
+
+      - id: 197964 # Pattern: Crimson Combatant's Resilient Mask
+        costs:
+          1137642: 3
+
+      - id: 197967 # Pattern: Crimson Combatant's Resilient Shoulderpads
+        costs:
+          1137642: 3
+
+      - id: 197966 # Pattern: Crimson Combatant's Resilient Trousers
+        costs:
+          1137642: 3
+
+      - id: 197970 # Pattern: Crimson Combatant's Resilient Wristwraps
+        costs:
+          1137642: 3
+
+      - id: 194270 # Pattern: Crimson Combatant's Wildercloth Bands
+        costs:
+          1137642: 3
+
+      - id: 194271 # Pattern: Crimson Combatant's Wildercloth Cloak
+        costs:
+          1137642: 3
+
+      - id: 194272 # Pattern: Crimson Combatant's Wildercloth Gloves
+        costs:
+          1137642: 3
+
+      - id: 194273 # Pattern: Crimson Combatant's Wildercloth Hood
+        costs:
+          1137642: 3
+
+      - id: 194274 # Pattern: Crimson Combatant's Wildercloth Leggings
+        costs:
+          1137642: 3
+
+      - id: 194275 # Pattern: Crimson Combatant's Wildercloth Sash
+        costs:
+          1137642: 3
+
+      - id: 194276 # Pattern: Crimson Combatant's Wildercloth Shoulderpads
+        costs:
+          1137642: 3
+
+      - id: 194277 # Pattern: Crimson Combatant's Wildercloth Treads
+        costs:
+          1137642: 3
+
+      - id: 194278 # Pattern: Crimson Combatant's Wildercloth Tunic
+        costs:
+          1137642: 3
+
+      - id: 194459 # Plans: Crimson Combatant's Draconium Armguards
+        costs:
+          1137642: 3
+
+      - id: 194454 # Plans: Crimson Combatant's Draconium Breastplate
+        costs:
+          1137642: 3
+
+      - id: 194457 # Plans: Crimson Combatant's Draconium Gauntlets
+        costs:
+          1137642: 3
+
+      - id: 194455 # Plans: Crimson Combatant's Draconium Greaves
+        costs:
+          1137642: 3
+
+      - id: 194453 # Plans: Crimson Combatant's Draconium Helm
+        costs:
+          1137642: 3
+
+      - id: 194456 # Plans: Crimson Combatant's Draconium Pauldrons
+        costs:
+          1137642: 3
+
+      - id: 194458 # Plans: Crimson Combatant's Draconium Sabatons
+        costs:
+          1137642: 3
+
+      - id: 194460 # Plans: Crimson Combatant's Draconium Waistguard
+        costs:
+          1137642: 3
+
+      - id: 194637 # Design: Crimson Combatant's Jeweled Amulet
+        costs:
+          1137642: 3
+
+      - id: 194638 # Design: Crimson Combatant's Jeweled Signet
+        costs:
+          1137642: 3
+
+      - id: 203380 # Technique: Crimson Combatant's Emblem
+        costs:
+          1137642: 3
+
+      - id: 203379 # Technique: Crimson Combatant's Insignia of Alacrity
+        costs:
+          1137642: 3
+
+      - id: 203378 # Technique: Crimson Combatant's Medallion
+        costs:
+          1137642: 3
