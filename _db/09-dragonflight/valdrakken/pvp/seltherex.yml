@@ -1,0 +1,90 @@
+things:
+  - id: 199601
+    type: "vendor"
+    name: "Seltherex"
+    note: "Honor Quartermaster"
+
+    locations:
+      here:
+        - 44.4 37
+
+    groups:
+      - name: "S34 - Aspirant"
+        range: 5
+        sortKey: "pvp-2-s34"
+
+      - name: "S35 - Aspirant"
+        range: 5
+        sortKey: "pvp-2-s35"
+
+      - name: "S36/37 - Aspirant"
+        range: -1
+        sortKey: "pvp-2-s36"
+
+    contents:
+
+      # Season 1 [S34]
+
+      - id: 230869 # Ensemble: Crimson Aspirant's Cloth Armor
+        costs:
+          1137642: 12
+
+      - id: 230870 # Ensemble: Crimson Aspirant's Leather Armor
+        costs:
+          1137642: 12
+
+      - id: 230871 # Ensemble: Crimson Aspirant's Mail Armor
+        costs:
+          1137642: 12
+
+      - id: 230872 # Ensemble: Crimson Aspirant's Plate Armor
+        costs:
+          1137642: 12
+
+      - id: 230899 # Arsenal: Crimson Aspirant's Weapons
+        costs:
+          1137642: 80
+
+      # Season 2 [S35]
+
+      - id: 230951 # Ensemble: Obsidian Aspirant's Cloth Armor
+        costs:
+          1137642: 12
+
+      - id: 230952 # Ensemble: Obsidian Aspirant's Leather Armor
+        costs:
+          1137642: 12
+
+      - id: 230953 # Ensemble: Obsidian Aspirant's Mail Armor
+        costs:
+          1137642: 12
+
+      - id: 230954 # Ensemble: Obsidian Aspirant's Plate Armor
+        costs:
+          1137642: 12
+
+      - id: 230981 # Arsenal: Obsidian Aspirant's Weapons
+        costs:
+          1137642: 80
+
+      # Season 3/4 [S36/37]
+
+      - id: 231120 # Ensemble: Verdant Aspirant's Cloth Armor
+        costs:
+          1137642: 12
+
+      - id: 231121 # Ensemble: Verdant Aspirant's Leather Armor
+        costs:
+          1137642: 12
+
+      - id: 231122 # Ensemble: Verdant Aspirant's Mail Armor
+        costs:
+          1137642: 12
+
+      - id: 231123 # Ensemble: Verdant Aspirant's Plate Armor
+        costs:
+          1137642: 12
+
+      - id: 231150 # Arsenal: Verdant Aspirant's Weapons
+        costs:
+          1137642: 80

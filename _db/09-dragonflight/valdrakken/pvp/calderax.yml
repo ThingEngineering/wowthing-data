@@ -1,0 +1,198 @@
+things:
+  - id: 199599
+    type: "vendor"
+    name: "Calderax"
+    note: "Conquest Quartermaster"
+
+    locations:
+      here:
+        - 44.4 36.8
+
+    groups:
+      - name: "S34 - Gladiator"
+        range: 14
+        sortKey: "pvp-3-s34"
+
+      - name: "S35 - Gladiator"
+        range: 14
+        sortKey: "pvp-3-s35"
+
+      - name: "S36/37 - Gladiator"
+        range: -1
+        sortKey: "pvp-3-s36"
+
+    contents:
+
+      # Season 1 [S34]
+
+      - id: 230873 # Ensemble: Crimson Gladiator's Death Knight Armor
+        costs:
+          1137642: 12
+
+      - id: 230874 # Ensemble: Crimson Gladiator's Demon Hunter Armor
+        costs:
+          1137642: 12
+
+      - id: 230875 # Ensemble: Crimson Gladiator's Druid Armor
+        costs:
+          1137642: 12
+
+      - id: 230876 # Ensemble: Crimson Gladiator's Evoker Armor
+        costs:
+          1137642: 12
+
+      - id: 230877 # Ensemble: Crimson Gladiator's Hunter Armor
+        costs:
+          1137642: 12
+
+      - id: 230878 # Ensemble: Crimson Gladiator's Mage Armor
+        costs:
+          1137642: 12
+
+      - id: 230879 # Ensemble: Crimson Gladiator's Monk Armor
+        costs:
+          1137642: 12
+
+      - id: 230880 # Ensemble: Crimson Gladiator's Paladin Armor
+        costs:
+          1137642: 12
+
+      - id: 230881 # Ensemble: Crimson Gladiator's Priest Armor
+        costs:
+          1137642: 12
+
+      - id: 230882 # Ensemble: Crimson Gladiator's Rogue Armor
+        costs:
+          1137642: 12
+
+      - id: 230883 # Ensemble: Crimson Gladiator's Shaman Armor
+        costs:
+          1137642: 12
+
+      - id: 230884 # Ensemble: Crimson Gladiator's Warlock Armor
+        costs:
+          1137642: 12
+
+      - id: 230885 # Ensemble: Crimson Gladiator's Warrior Armor
+        costs:
+          1137642: 12
+
+      - id: 230900 # Arsenal: Crimson Gladiator's Weapons
+        costs:
+          1137642: 80
+
+      # Season 2 [S35]
+
+      - id: 230955 # Ensemble: Obsidian Gladiator's Death Knight Armor
+        costs:
+          1137642: 12
+
+      - id: 230956 # Ensemble: Obsidian Gladiator's Demon Hunter Armor
+        costs:
+          1137642: 12
+
+      - id: 230957 # Ensemble: Obsidian Gladiator's Druid Armor
+        costs:
+          1137642: 12
+
+      - id: 230958 # Ensemble: Obsidian Gladiator's Evoker Armor
+        costs:
+          1137642: 12
+
+      - id: 230959 # Ensemble: Obsidian Gladiator's Hunter Armor
+        costs:
+          1137642: 12
+
+      - id: 230960 # Ensemble: Obsidian Gladiator's Mage Armor
+        costs:
+          1137642: 12
+
+      - id: 230961 # Ensemble: Obsidian Gladiator's Monk Armor
+        costs:
+          1137642: 12
+
+      - id: 230962 # Ensemble: Obsidian Gladiator's Paladin Armor
+        costs:
+          1137642: 12
+
+      - id: 230963 # Ensemble: Obsidian Gladiator's Priest Armor
+        costs:
+          1137642: 12
+
+      - id: 230964 # Ensemble: Obsidian Gladiator's Rogue Armor
+        costs:
+          1137642: 12
+
+      - id: 230965 # Ensemble: Obsidian Gladiator's Shaman Armor
+        costs:
+          1137642: 12
+
+      - id: 230966 # Ensemble: Obsidian Gladiator's Warlock Armor
+        costs:
+          1137642: 12
+
+      - id: 230967 # Ensemble: Obsidian Gladiator's Warrior Armor
+        costs:
+          1137642: 12
+
+      - id: 230982 # Arsenal: Obsidian Gladiator's Weapons
+        costs:
+          1137642: 80
+
+      # Season 3/4 [S36/37]
+
+      - id: 231124 # Ensemble: Verdant Gladiator's Death Knight Armor
+        costs:
+          1137642: 12
+
+      - id: 231125 # Ensemble: Verdant Gladiator's Demon Hunter Armor
+        costs:
+          1137642: 12
+
+      - id: 231126 # Ensemble: Verdant Gladiator's Druid Armor
+        costs:
+          1137642: 12
+
+      - id: 231127 # Ensemble: Verdant Gladiator's Evoker Armor
+        costs:
+          1137642: 12
+
+      - id: 231128 # Ensemble: Verdant Gladiator's Hunter Armor
+        costs:
+          1137642: 12
+
+      - id: 231129 # Ensemble: Verdant Gladiator's Mage Armor
+        costs:
+          1137642: 12
+
+      - id: 231130 # Ensemble: Verdant Gladiator's Monk Armor
+        costs:
+          1137642: 12
+
+      - id: 231131 # Ensemble: Verdant Gladiator's Paladin Armor
+        costs:
+          1137642: 12
+
+      - id: 231132 # Ensemble: Verdant Gladiator's Priest Armor
+        costs:
+          1137642: 12
+
+      - id: 231133 # Ensemble: Verdant Gladiator's Rogue Armor
+        costs:
+          1137642: 12
+
+      - id: 231134 # Ensemble: Verdant Gladiator's Shaman Armor
+        costs:
+          1137642: 12
+
+      - id: 231135 # Ensemble: Verdant Gladiator's Warlock Armor
+        costs:
+          1137642: 12
+
+      - id: 231136 # Ensemble: Verdant Gladiator's Warrior Armor
+        costs:
+          1137642: 12
+
+      - id: 231151 # Arsenal: Verdant Gladiator's Weapons
+        costs:
+          1137642: 80

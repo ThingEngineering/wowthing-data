@@ -1,0 +1,706 @@
+things:
+  - id: 197553
+    type: "vendor"
+    name: "Fieldmaster Emberath"
+    note: "War Mode Quartermaster"
+
+    locations:
+      here:
+        - 43 42.2
+
+    groups:
+      - name: "Recipes"
+        range: 6
+        sortKey: "00-recipes"
+
+      - name: "S34 - War Mode Armor"
+        range: 4
+        sortKey: "pvp-1-s34-0"
+
+      - name: "S34 - War Mode Weapons"
+        range: 12
+        sortKey: "pvp-1-s34-9"
+
+      - name: "S35 - War Mode Armor"
+        range: 4
+        sortKey: "pvp-1-s35-0"
+
+      - name: "S35 - War Mode Weapons"
+        range: 13
+        sortKey: "pvp-1-s35-9"
+
+      - name: "S36 - War Mode Cloth"
+        range: 8
+        sortKey: "pvp-1-s36-1"
+
+      - name: "S36 - War Mode Leather"
+        range: 8
+        sortKey: "pvp-1-s36-2"
+
+      - name: "S36 - War Mode Mail"
+        range: 8
+        sortKey: "pvp-1-s36-3"
+
+      - name: "S36 - War Mode Plate"
+        range: 8
+        sortKey: "pvp-1-s36-4"
+
+      - name: "S36 - War Mode Cloaks"
+        range: 4
+        sortKey: "pvp-1-s36-5"
+
+      - name: "S36 - War Mode Weapons"
+        range: 13
+        sortKey: "pvp-1-s36-9"
+
+      - name: "S37 - War Mode Cloth"
+        range: 8
+        sortKey: "pvp-1-s37-1"
+
+      - name: "S37 - War Mode Leather"
+        range: 8
+        sortKey: "pvp-1-s37-2"
+
+      - name: "S37 - War Mode Mail"
+        range: 8
+        sortKey: "pvp-1-s37-3"
+
+      - name: "S37 - War Mode Plate"
+        range: 8
+        sortKey: "pvp-1-s37-4"
+
+      - name: "S37 - War Mode Cloaks"
+        range: 4
+        sortKey: "pvp-1-s37-5"
+
+      - name: "S37 - War Mode Weapons"
+        range: -1
+        sortKey: "pvp-1-s37-9"
+
+    contents:
+
+      # Recipes
+
+      - id: 208312 # Technique: Verdant Combatant's Emblem
+        costs:
+          1190450: 3
+
+      - id: 208311 # Technique: Verdant Combatant's Insignia of Alacrity
+        costs:
+          1190450: 3
+
+      - id: 208310 # Technique: Verdant Combatant's Medallion
+        costs:
+          1190450: 3
+
+      - id: 211611 # Technique: Draconic Combatant's Emblem
+        costs:
+          1190450: 3
+
+      - id: 211610 # Technique: Draconic Combatant's Insignia of Alacrity
+        costs:
+          1190450: 3
+
+      - id: 211609 # Technique: Draconic Combatant's Medallion
+        costs:
+          1190450: 3
+
+      # Season 1 [S34]
+
+      - id: 211140 # Ensemble: Drakebreaker's Cloth Armor
+        costs:
+          1137642: 12
+
+      - id: 211138 # Ensemble: Drakebreaker's Leather Armor
+        costs:
+          1137642: 12
+
+      - id: 211135 # Ensemble: Drakebreaker's Mail Armor
+        costs:
+          1137642: 12
+
+      - id: 211100 # Ensemble: Drakebreaker's Plate Armor
+        costs:
+          1137642: 12
+
+      - id: 211148 # Arsenal: Drakebreaker's Axe [1h axe]
+        costs:
+          1137642: 5
+
+      - id: 211144 # Arsenal: Drakebreaker's Club [1h mace]
+        costs:
+          1137642: 5
+
+      - id: 211143 # Arsenal: Drakebreaker's Spiked Hammer [1h mace]
+        costs:
+          1137642: 5
+
+      - id: 211146 # Arsenal: Drakebreaker's Knife [dagger]
+        costs:
+          1137642: 5
+
+      - id: 211147 # Arsenal: Drakebreaker's Warglaive [warglaive]
+        costs:
+          1137642: 5
+
+      - id: 211153 # Arsenal: Drakebreaker's Greatsword [2h sword]
+        costs:
+          1137642: 5
+
+      - id: 211152 # Arsenal: Drakebreaker's Polearm [polearm]
+        costs:
+          1137642: 5
+
+      - id: 211154 # Arsenal: Drakebreaker's Stave [staff]
+        costs:
+          1137642: 5
+
+      - id: 211157 # Arsenal: Drakebreaker's Gun [gun]
+        costs:
+          1137642: 5
+
+      - id: 211156 # Arsenal: Drakebreaker's Wand [wand]
+        costs:
+          1137642: 5
+
+      - id: 211155 # Arsenal: Drakebreaker's Offhand [off-hand]
+        costs:
+          1137642: 5
+
+      - id: 211150 # Arsenal: Drakebreaker's Shield [shield]
+        costs:
+          1137642: 5
+
+      # Season 2 [S35]
+
+      - id: 211141 # Ensemble: Scalewarden's Cloth Armor
+        costs:
+          1137642: 12
+
+      - id: 211139 # Ensemble: Scalewarden's Leather Armor
+        costs:
+          1137642: 12
+
+      - id: 211136 # Ensemble: Scalewarden's Mail Armor
+        costs:
+          1137642: 12
+
+      - id: 211134 # Ensemble: Scalewarden's Plate Armor
+        costs:
+          1137642: 12
+
+      - id: 211172 # Arsenal: Scalewarden's Axe [1h axe]
+        costs:
+          1137642: 5
+
+      - id: 211176 # Arsenal: Scalewarden's Club [1h mace]
+        costs:
+          1137642: 5
+
+      - id: 211175 # Arsenal: Scalewarden's Mace [1h mace]
+        costs:
+          1137642: 5
+
+      - id: 211177 # Arsenal: Scalewarden's Shortsword [1h sword]
+        costs:
+          1137642: 5
+
+      - id: 211174 # Arsenal: Scalewarden's Dagger [dagger]
+        costs:
+          1137642: 5
+
+      - id: 211173 # Arsenal: Scalewarden's Warglaive [warglaive]
+        costs:
+          1137642: 5
+
+      - id: 211169 # Arsenal: Scalewarden's Greatsword [2h sword]
+        costs:
+          1137642: 5
+
+      - id: 211170 # Arsenal: Scalewarden's Polearm [polearm]
+        costs:
+          1137642: 5
+
+      - id: 211168 # Arsenal: Scalewarden's Stave [staff]
+        costs:
+          1137642: 5
+
+      - id: 211165 # Arsenal: Scalewarden's Gun [gun]
+        costs:
+          1137642: 5
+
+      - id: 211166 # Arsenal: Scalewarden's Wand [wand]
+        costs:
+          1137642: 5
+
+      - id: 211167 # Arsenal: Scalewarden's Offhand [off-hand]
+        costs:
+          1137642: 5
+
+      - id: 211171 # Arsenal: Scalewarden's Shield [shield]
+        costs:
+          1137642: 5
+
+      # Season 3 [S36] Cloth
+
+      - id: 211214 # Hellbloom Crown [cloth head]
+        costs:
+          2123: 300
+
+      - id: 211218 # Hellbloom Mantle [cloth shoulders]
+        costs:
+          2123: 200
+
+      - id: 211211 # Hellbloom Garb [cloth chest]
+        costs:
+          2123: 300
+
+      - id: 211217 # Hellbloom Bindings [cloth wrists]
+        costs:
+          2123: 120
+
+      - id: 211213 # Hellbloom Gloves [cloth hands]
+        costs:
+          2123: 200
+
+      - id: 211216 # Hellbloom Cord [cloth waist]
+        costs:
+          2123: 120
+
+      - id: 211215 # Hellbloom Pants [cloth legs]
+        costs:
+          2123: 300
+
+      - id: 211212 # Hellbloom Slippers [cloth feet]
+        costs:
+          2123: 200
+
+      # Season 3 [S36] Leather
+
+      - id: 211221 # Hellbloom Hood [leather head]
+        costs:
+          2123: 300
+
+      - id: 211226 # Hellbloom Shoulderguard [leather shoulders]
+        costs:
+          2123: 200
+
+      - id: 211225 # Hellbloom Jerkin [leather chest]
+        costs:
+          2123: 300
+
+      - id: 211224 # Hellbloom Wraps [leather wrists]
+        costs:
+          2123: 120
+
+      - id: 211220 # Hellbloom Handwraps [leather hands]
+        costs:
+          2123: 200
+
+      - id: 211223 # Hellbloom Belt [leather waist]
+        costs:
+          2123: 120
+
+      - id: 211222 # Hellbloom Breeches [leather legs]
+        costs:
+          2123: 300
+
+      - id: 211219 # Hellbloom Boots [leather feet]
+        costs:
+          2123: 200
+
+      # Season 3 [S36] Mail
+
+      - id: 211238 # Hellbloom Helm [mail head]
+        costs:
+          2123: 300
+
+      - id: 211240 # Hellbloom Epaulets [mail shoulders]
+        costs:
+          2123: 200
+
+      - id: 211235 # Hellbloom Chainmail [mail chest]
+        costs:
+          2123: 300
+
+      - id: 211242 # Hellbloom Armguards [mail wrists]
+        costs:
+          2123: 120
+
+      - id: 211237 # Hellbloom Grips [mail hands]
+        costs:
+          2123: 200
+
+      - id: 211241 # Hellbloom Cinch [mail waist]
+        costs:
+          2123: 120
+
+      - id: 211239 # Hellbloom Leggings [mail legs]
+        costs:
+          2123: 300
+
+      - id: 211236 # Hellbloom Greaves [mail feet]
+        costs:
+          2123: 200
+
+      # Season 3 [S36] Plate
+
+      - id: 211227 # Hellbloom Faceplate [plate head]
+        costs:
+          2123: 300
+
+      - id: 211232 # Hellbloom Spaulders [plate shoulders]
+        costs:
+          2123: 200
+
+      - id: 211228 # Hellbloom Cuirass [plate chest]
+        costs:
+          2123: 300
+
+      - id: 211234 # Hellbloom Bracers [plate wrists]
+        costs:
+          2123: 120
+
+      - id: 211230 # Hellbloom Gauntlets [plate hands]
+        costs:
+          2123: 200
+
+      - id: 211233 # Hellbloom Clasp [plate waist]
+        costs:
+          2123: 120
+
+      - id: 211231 # Hellbloom Legguards [plate legs]
+        costs:
+          2123: 300
+
+      - id: 211229 # Hellbloom Sabatons [plate feet]
+        costs:
+          2123: 200
+
+      # Season 3 [S36] Cloaks
+
+      - id: 211243 # Hellbloom Cape [cloak]
+        costs:
+          2123: 120
+
+      - id: 211245 # Hellbloom Cloak [cloak]
+        costs:
+          2123: 120
+
+      - id: 211246 # Hellbloom Drape [cloak]
+        costs:
+          2123: 120
+
+      - id: 211244 # Hellbloom Shawl [cloak]
+        costs:
+          2123: 120
+
+      # Season 3 [S36] Weapons
+
+      - id: 224000 # Arsenal: Hellbloom Axe [1h axe]
+        costs:
+          1137642: 5
+
+      - id: 223989 # Arsenal: Hellbloom Club [1h mace]
+        costs:
+          1137642: 5
+
+      - id: 223990 # Arsenal: Hellbloom Hammer [1h mace]
+        costs:
+          1137642: 5
+
+      - id: 223998 # Arsenal: Hellbloom Sword [1h sword]
+        costs:
+          1137642: 5
+
+      - id: 223991 # Arsenal: Hellbloom Knife [dagger]
+        costs:
+          1137642: 5
+
+      - id: 223997 # Arsenal: Hellbloom Warglaive [warglaive]
+        costs:
+          1137642: 5
+
+      - id: 223999 # Arsenal: Hellbloom Greatsword [2h sword]
+        costs:
+          1137642: 5
+
+      - id: 223993 # Arsenal: Hellbloom Polearm [polearm]
+        costs:
+          1137642: 5
+
+      - id: 223995 # Arsenal: Hellbloom Staff [staff]
+        costs:
+          1137642: 5
+
+      - id: 223996 # Arsenal: Hellbloom Bow [bow]
+        costs:
+          1137642: 5
+
+      - id: 223992 # Arsenal: Hellbloom Wand [wand]
+        costs:
+          1137642: 5
+
+      - id: 224001 # Arsenal: Hellbloom Branch [off-hand]
+        costs:
+          1137642: 5
+
+      - id: 223994 # Arsenal: Hellbloom Shield [shield]
+        costs:
+          1137642: 5
+
+      # Season 4 [S37] Cloth
+
+      - id: 217072 # Draconic Warmonger's Crown [cloth head]
+        costs:
+          2123: 300
+
+      - id: 217076 # Draconic Warmonger's Mantle [cloth shoulders]
+        costs:
+          2123: 200
+
+      - id: 217069 # Draconic Warmonger's Garb [cloth chest]
+        costs:
+          2123: 300
+
+      - id: 217075 # Draconic Warmonger's Bindings [cloth wrists]
+        costs:
+          2123: 120
+
+      - id: 217071 # Draconic Warmonger's Gloves [cloth hands]
+        costs:
+          2123: 200
+
+      - id: 217074 # Draconic Warmonger's Cord [cloth waist]
+        costs:
+          2123: 120
+
+      - id: 217073 # Draconic Warmonger's Pants [cloth legs]
+        costs:
+          2123: 300
+
+      - id: 217070 # Draconic Warmonger's Slippers [cloth feet]
+        costs:
+          2123: 200
+
+      # Season 4 [S37] Leather
+
+      - id: 217079 # Draconic Warmonger's Hood [leather head]
+        costs:
+          2123: 300
+
+      - id: 217084 # Draconic Warmonger's Shoulderguard [leather shoulders]
+        costs:
+          2123: 200
+
+      - id: 217083 # Draconic Warmonger's Jerkin [leather chest]
+        costs:
+          2123: 300
+
+      - id: 217082 # Draconic Warmonger's Wraps [leather wrists]
+        costs:
+          2123: 120
+
+      - id: 217078 # Draconic Warmonger's Handwraps [leather hands]
+        costs:
+          2123: 200
+
+      - id: 217081 # Draconic Warmonger's Belt [leather waist]
+        costs:
+          2123: 120
+
+      - id: 217080 # Draconic Warmonger's Breeches [leather legs]
+        costs:
+          2123: 300
+
+      - id: 217077 # Draconic Warmonger's Boots [leather feet]
+        costs:
+          2123: 200
+
+      # Season 4 [S37] Mail
+
+      - id: 217096 # Draconic Warmonger's Helm [mail head]
+        costs:
+          2123: 300
+
+      - id: 217098 # Draconic Warmonger's Epaulets [mail shoulders]
+        costs:
+          2123: 200
+
+      - id: 217093 # Draconic Warmonger's Chainmail [mail chest]
+        costs:
+          2123: 300
+
+      - id: 217100 # Draconic Warmonger's Armguards [mail wrists]
+        costs:
+          2123: 120
+
+      - id: 217095 # Draconic Warmonger's Grips [mail hands]
+        costs:
+          2123: 200
+
+      - id: 217099 # Draconic Warmonger's Cinch [mail waist]
+        costs:
+          2123: 120
+
+      - id: 217097 # Draconic Warmonger's Leggings [mail legs]
+        costs:
+          2123: 300
+
+      - id: 217094 # Draconic Warmonger's Greaves [mail feet]
+        costs:
+          2123: 200
+
+      # Season 4 [S37] Plate
+
+      - id: 217085 # Draconic Warmonger's Faceplate [plate head]
+        costs:
+          2123: 300
+
+      - id: 217090 # Draconic Warmonger's Spaulders [plate shoulders]
+        costs:
+          2123: 200
+
+      - id: 217086 # Draconic Warmonger's Cuirass [plate chest]
+        costs:
+          2123: 300
+
+      - id: 217092 # Draconic Warmonger's Bracers [plate wrists]
+        costs:
+          2123: 120
+
+      - id: 217088 # Draconic Warmonger's Gauntlets [plate hands]
+        costs:
+          2123: 200
+
+      - id: 217091 # Draconic Warmonger's Clasp [plate waist]
+        costs:
+          2123: 120
+
+      - id: 217089 # Draconic Warmonger's Legguards [plate legs]
+        costs:
+          2123: 300
+
+      - id: 217087 # Draconic Warmonger's Sabatons [plate feet]
+        costs:
+          2123: 200
+
+      # Season 4 [S37] Cloaks
+
+      - id: 217103 # Draconic Warmonger's Cloak [cloak]
+        costs:
+          2123: 120
+
+      - id: 217104 # Draconic Warmonger's Drape [cloak]
+        costs:
+          2123: 120
+
+      - id: 217101 # Draconic Warmonger's Cape [cloak]
+        costs:
+          2123: 120
+
+      - id: 217102 # Draconic Warmonger's Shawl [cloak]
+        costs:
+          2123: 120
+
+      # Season 4 [S37] Weapons
+
+      - id: 217044 # Draconic Warmonger's Battleaxe [1h ? axe]
+        costs:
+          2123: 250
+
+      - id: 217046 # Draconic Warmonger's Carver [1h ? axe]
+        costs:
+          2123: 250
+
+      - id: 217045 # Draconic Warmonger's Hatchet [1h ? axe]
+        costs:
+          2123: 300
+
+      - id: 217056 # Draconic Warmonger's Club [1h ? mace]
+        costs:
+          2123: 300
+
+      - id: 217064 # Draconic Warmonger's Crusher [1h ? mace]
+        costs:
+          2123: 250
+
+      - id: 217058 # Draconic Warmonger's Cudgel [1h ? mace]
+        costs:
+          2123: 250
+
+      - id: 217065 # Draconic Warmonger's Hammer [1h ? mace]
+        costs:
+          2123: 300
+
+      - id: 217063 # Draconic Warmonger's Mace [1h ? mace]
+        costs:
+          2123: 250
+
+      - id: 217057 # Draconic Warmonger's Scepter [1h ? mace]
+        costs:
+          2123: 250
+
+      - id: 217066 # Draconic Warmonger's Sabre [1h ? sword]
+        costs:
+          2123: 250
+
+      - id: 217050 # Draconic Warmonger's Shortsword [1h ? sword]
+        costs:
+          2123: 250
+
+      - id: 217049 # Draconic Warmonger's Spellblade [1h ? sword]
+        costs:
+          2123: 300
+
+      - id: 217067 # Draconic Warmonger's Dagger [? dagger]
+        costs:
+          2123: 300
+
+      - id: 217068 # Draconic Warmonger's Dirk [? dagger]
+        costs:
+          2123: 250
+
+      - id: 217048 # Draconic Warmonger's Twinblade [warglaive]
+        costs:
+          2123: 250
+
+      - id: 217055 # Draconic Warmonger's Broadsword [2h ? sword]
+        costs:
+          2123: 450
+
+      - id: 217054 # Draconic Warmonger's Greatsword [2h ? sword]
+        costs:
+          2123: 450
+
+      - id: 217060 # Draconic Warmonger's Impaler [polearm]
+        costs:
+          2123: 450
+
+      - id: 217061 # Draconic Warmonger's Spear [polearm]
+        costs:
+          2123: 450
+
+      - id: 217053 # Draconic Warmonger's Battlestaff [staff]
+        costs:
+          2123: 450
+
+      - id: 217052 # Draconic Warmonger's Spire [staff]
+        costs:
+          2123: 450
+
+      - id: 217047 # Draconic Warmonger's Flameshot [bow]
+        costs:
+          2123: 450
+
+      - id: 217062 # Draconic Warmonger's Wand [wand]
+        costs:
+          2123: 300
+
+      - id: 217051 # Draconic Warmonger's Branch [off-hand]
+        costs:
+          2123: 150
+
+      - id: 217059 # Draconic Warmonger's Aegis [shield]
+        costs:
+          2123: 150
