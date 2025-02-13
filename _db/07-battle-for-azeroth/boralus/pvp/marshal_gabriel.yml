@@ -1,0 +1,188 @@
+things:
+  - id: 143560
+    type: "vendor"
+    name: "Marshal Gabriel"
+    note: "Second-in-Command"
+
+    locations:
+      here:
+        - 56.4 25.8 alliance
+
+    groups:
+      - name: "S26 - Aspirant"
+        range: 5
+
+      - name: "S26 - Gladiator"
+        range: 5
+
+      - name: "S27 - Aspirant"
+        range: 5
+
+      - name: "S27 - Gladiator"
+        range: 5
+
+      - name: "S28 - Aspirant"
+        range: 5
+
+      - name: "S28 - Gladiator"
+        range: 5
+
+      - name: "S29 - Aspirant"
+        range: 1
+
+      - name: "S29 - Gladiator"
+        range: 5
+
+    contents:
+
+      # Season 1 [S26]
+
+      - id: 180178 # Ensemble: Dread Aspirant's Cloth Armor
+        costs:
+          1137642: 12
+
+      - id: 180180 # Ensemble: Dread Aspirant's Leather Armor
+        costs:
+          1137642: 12
+
+      - id: 180182 # Ensemble: Dread Aspirant's Mail Armor
+        costs:
+          1137642: 12
+
+      - id: 180184 # Ensemble: Dread Aspirant's Plate Armor
+        costs:
+          1137642: 12
+
+      - id: 184668 # Arsenal: Dread Aspirant's Weapons
+        costs:
+          1137642: 80
+
+      - id: 184419 # Ensemble: Dread Gladiator's Cloth Armor
+        costs:
+          1137642: 12
+
+      - id: 184421 # Ensemble: Dread Gladiator's Leather Armor
+        costs:
+          1137642: 12
+
+      - id: 184423 # Ensemble: Dread Gladiator's Mail Armor
+        costs:
+          1137642: 12
+
+      - id: 184425 # Ensemble: Dread Gladiator's Plate Armor
+        costs:
+          1137642: 12
+
+      - id: 184666 # Arsenal: Dread Gladiator's Weapons
+        costs:
+          1137642: 80
+
+      # Season 2 [S27]
+
+      - id: 180186 # Ensemble: Sinister Aspirant's Cloth Armor
+        costs:
+          1137642: 12
+
+      - id: 180188 # Ensemble: Sinister Aspirant's Leather Armor
+        costs:
+          1137642: 12
+
+      - id: 180190 # Ensemble: Sinister Aspirant's Mail Armor
+        costs:
+          1137642: 12
+
+      - id: 180192 # Ensemble: Sinister Aspirant's Plate Armor
+        costs:
+          1137642: 12
+
+      - id: 184672 # Arsenal: Sinister Aspirant's Weapons
+        costs:
+          1137642: 80
+
+      - id: 184427 # Ensemble: Sinister Gladiator's Cloth Armor
+        costs:
+          1137642: 12
+
+      - id: 184429 # Ensemble: Sinister Gladiator's Leather Armor
+        costs:
+          1137642: 12
+
+      - id: 184431 # Ensemble: Sinister Gladiator's Mail Armor
+        costs:
+          1137642: 12
+
+      - id: 184433 # Ensemble: Sinister Gladiator's Plate Armor
+        costs:
+          1137642: 12
+
+      - id: 184670 # Arsenal: Sinister Gladiator's Weapons
+        costs:
+          1137642: 80
+
+      # Season 3 [S28]
+
+      - id: 180194 # Ensemble: Notorious Aspirant's Cloth Armor
+        costs:
+          1137642: 12
+
+      - id: 180196 # Ensemble: Notorious Aspirant's Leather Armor
+        costs:
+          1137642: 12
+
+      - id: 180198 # Ensemble: Notorious Aspirant's Mail Armor
+        costs:
+          1137642: 12
+
+      - id: 180200 # Ensemble: Notorious Aspirant's Plate Armor
+        costs:
+          1137642: 12
+
+      - id: 184676 # Arsenal: Notorious Aspirant's Weapons
+        costs:
+          1137642: 80
+
+      - id: 184436 # Ensemble: Notorious Gladiator's Cloth Armor
+        costs:
+          1137642: 12
+
+      - id: 184438 # Ensemble: Notorious Gladiator's Leather Armor
+        costs:
+          1137642: 12
+
+      - id: 184440 # Ensemble: Notorious Gladiator's Mail Armor
+        costs:
+          1137642: 12
+
+      - id: 184442 # Ensemble: Notorious Gladiator's Plate Armor
+        costs:
+          1137642: 12
+
+      - id: 184674 # Arsenal: Notorious Gladiator's Weapons
+        costs:
+          1137642: 80
+
+      # Season 4 [S29]
+
+      - id: 184680 # Arsenal: Corrupted Aspirant's Weapons
+        costs:
+          1137642: 80
+
+      - id: 180203 # Ensemble: Corrupted Gladiator's Cloth Armor
+        costs:
+          1137642: 12
+
+      - id: 180204 # Ensemble: Corrupted Gladiator's Leather Armor
+        costs:
+          1137642: 12
+
+      - id: 180205 # Ensemble: Corrupted Gladiator's Mail Armor
+        costs:
+          1137642: 12
+
+      - id: 180206 # Ensemble: Corrupted Gladiator's Plate Armor
+        costs:
+          1137642: 12
+
+      - id: 184678 # Arsenal: Corrupted Gladiator's Weapons
+        costs:
+          1137642: 80
