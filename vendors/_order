@@ -150,9 +150,6 @@ pvp/_pvp.yml
     pvp/01_the_burning_crusade.yml
     pvp/00_classic.yml
 
-remix/_.yml
-    remix/04-pandaria.yml
-
 world-events/_world_events.yml
     world-events/anniversary.yml
     world-events/brewfest.yml
@@ -164,6 +161,3 @@ world-events/_world_events.yml
     world-events/noblegarden.yml
     world-events/plunderstorm.yml
     world-events/timewalking.yml
-    -
-    world-events/09-elemental_invasion.yml
-    world-events/10-radiant_echoes.yml
