@@ -1,0 +1,15 @@
+things:
+  - id: 29744
+    type: "vendor"
+    name: "Rork Sharpchin"
+    note: "Explorers' League"
+
+    locations:
+      here:
+        - 28.8 74 alliance
+
+    contents:
+
+      - id: 43499 # Iron Boot Flask [toy]
+        costs:
+          1042780: 10

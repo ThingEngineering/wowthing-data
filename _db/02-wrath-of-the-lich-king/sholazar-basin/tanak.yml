@@ -1,0 +1,84 @@
+things:
+  - id: 31911
+    type: "vendor"
+    name: "Tanak"
+    note: "Frenzyheart Quartermaster"
+
+    locations:
+      here:
+        - 55 69
+
+    groups:
+      - name: "Frenzyheart - Jar"
+        range: 1
+        sortkey: 01-frenzyheart-1
+
+      - name: "Frenzyheart - Recipes"
+        range: 2
+        sortkey: 01-frenzyheart-2
+
+      - name: "Frenzyheart - Transmog"
+        range: -1
+        sortkey: 01-frenzyheart-3
+
+    contents:
+
+      # Disgusting Jar
+
+      - id: 44719 # Frenzyheart Brew [toy]
+        costs:
+          0: 3 # Gold
+        requirements:
+          - "reputation: 0 revered"
+
+      # Recipe
+
+      - id: 41723 # Design: Jagged Forest Emerald
+        costs:
+          0: 4 # Gold
+        requirements:
+          - "reputation: 0 revered"
+
+      - id: 41561 # Design: Reckless Huge Citrine
+        costs:
+          0: 2 # Gold
+        requirements:
+          - "reputation: 0 friendly"
+
+      # Transmog
+
+      - id: 44116 # Muddied Crimson Gloves [cloth hands]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation: 0 revered"
+
+      - id: 44117 # Azure Strappy Pants [leather legs]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation: 0 revered"
+
+      - id: 44122 # Scavenged Feathery Leggings [mail legs]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation: 0 revered"
+
+      - id: 44121 # Sparkly Shiny Gloves [plate hands]
+        costs:
+          0: 25 # Gold
+        requirements:
+          - "reputation: 0 revered"
+
+      - id: 44120 # Giant-Sized Gauntlets [plate hands]
+        costs:
+          0: 25 # Gold
+        requirements:
+          - "reputation: 0 revered"
+
+      - id: 44123 # Discarded Titanium Legplates [plate legs]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation: 0 revered"

@@ -1,0 +1,123 @@
+things:
+  - id: 32763
+    type: "vendor"
+    name: "Sairuk"
+    note: "Kalu'ak Quartermaster"
+
+    locations:
+      here:
+        - 48.4 75.6
+
+    contents:
+
+      # 0
+
+      - id: 44723 # Nurtured Penguin Egg
+        costs:
+          0: 12 # Gold
+        requirements:
+          - "reputation: 0 exalted"
+
+      - id: 44050 # Mastercraft Kalu'ak Fishing Pole
+        costs:
+          0: 27 # Gold
+        requirements:
+          - "reputation: 0 exalted"
+
+      - id: 44052 # Totemic Purification Rod [1h ? mace]
+        costs:
+          0: 65 # Gold
+        requirements:
+          - "reputation: 0 revered"
+
+      - id: 44509 # Pattern: Trapper's Traveling Pack
+        costs:
+          0: 5 # Gold
+        requirements:
+          - "reputation: 0 revered"
+
+      - id: 45774 # Pattern: Emerald Bag
+        costs:
+          0: 5 # Gold
+        requirements:
+          - "reputation: 0 revered"
+
+      - id: 44051 # Traditional Flensing Knife [? dagger]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation: 0 revered"
+
+      - id: 44053 # Whale-Stick Harpoon [polearm]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation: 0 revered"
+
+      # 0 set=382
+
+      - id: 44062 # Turtle-Minders Robe [cloth chest]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation: 0 honored"
+
+      # 0 set=1529
+
+      - id: 44061 # Pigment-Stained Robes [cloth chest]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation: 0 honored"
+
+      # 0 set=4126
+
+      - id: 44055 # Whale-Skin Vest [leather chest]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation: 0 honored"
+
+      # 0
+
+      - id: 44054 # Whale-Skin Breastplate [leather chest]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation: 0 honored"
+
+      - id: 44059 # Cuttlefish Scale Breastplate [mail chest]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation: 0 honored"
+
+      - id: 44060 # Cuttlefish Tooth Ringmail [mail chest]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation: 0 honored"
+
+      - id: 44057 # Ivory-Reinforced Chestguard [plate chest]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation: 0 honored"
+
+      - id: 44058 # Whalebone Carapace [plate chest]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation: 0 honored"
+
+      - id: 41574 # Design: Defender's Shadow Crystal
+        costs:
+          0: 2 # Gold
+        requirements:
+          - "reputation: 0 honored"
+
+      - id: 41568 # Design: Purified Shadow Crystal
+        costs:
+          0: 2 # Gold
+        requirements:
+          - "reputation: 0 friendly"

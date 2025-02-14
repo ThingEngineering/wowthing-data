@@ -1,0 +1,67 @@
+things:
+  - id: 32773
+    type: "vendor"
+    name: "Logistics Officer Brighton"
+    note: "Alliance Vanguard Quartermaster"
+
+    locations:
+      here:
+        - 59.6 63.8 alliance
+
+    contents:
+
+      # 0
+
+      - id: 44503 # Schematic: Mekgineer's Chopper
+        costs:
+          0: 400 # Gold
+        requirements:
+          - "reputation: 0 exalted"
+
+      - id: 44937 # Plans: Titanium Plating
+        costs:
+          0: 12 # Gold
+        requirements:
+          - "reputation: 0 exalted"
+
+      - id: 38455 # Hammer of the Alliance Vanguard [1h ? mace]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation: 0 revered"
+
+      - id: 38465 # Vanguard Soldier's Dagger [? dagger]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation: 0 revered"
+
+      - id: 38464 # Gnomish Magician's Quill [wand]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation: 0 revered"
+
+      - id: 38457 # Sawed-Off Hand Cannon [gun]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation: 0 revered"
+
+      - id: 38459 # Orb of the Eastern Kingdoms [off-hand]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation: 0 revered"
+
+      - id: 38463 # Lordaeron's Resolve [shield]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation: 0 revered"
+
+      - id: 38453 # Shield of the Lion-Hearted [shield]
+        costs:
+          0: 39 # Gold
+        requirements:
+          - "reputation: 0 revered"

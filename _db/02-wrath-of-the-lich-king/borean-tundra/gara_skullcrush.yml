@@ -1,0 +1,74 @@
+things:
+  - id: 32565
+    type: "vendor"
+    name: "Gara Skullcrush"
+    note: "Horde Expedition Quartermaster"
+
+    locations:
+      here:
+        - 41.4 53.6 horde
+
+    groups:
+      - name: "Horde Expedition - Recipes"
+        range: 2
+      
+      - name: "Horde Expedition - Transmog"
+        range: -1
+
+    contents:
+
+      # 0
+
+      - id: 44938 # Plans: Titanium Plating
+        costs:
+          0: 12 # Gold
+        requirements:
+          - "reputation: 0 exalted"
+
+      - id: 44502 # Schematic: Mechano-Hog
+        costs:
+          0: 400 # Gold
+        requirements:
+          - "reputation: 0 exalted"
+
+      - id: 38454 # Warsong Punisher [1h ? mace]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation: 0 revered"
+
+      - id: 38461 # Warsong Shanker [? dagger]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation: 0 revered"
+
+      - id: 38456 # Sin'dorei Recurve Bow [bow]
+        costs:
+          0: 46 # Gold
+        requirements:
+          - "reputation: 0 revered"
+
+      - id: 38460 # Charged Wand of the Cleft [wand]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation: 0 revered"
+
+      - id: 38458 # Darkspear Orb [off-hand]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation: 0 revered"
+
+      - id: 38452 # Bulwark of the Warchief [shield]
+        costs:
+          0: 39 # Gold
+        requirements:
+          - "reputation: 0 revered"
+
+      - id: 38462 # Warsong Stormshield [shield]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation: 0 revered"

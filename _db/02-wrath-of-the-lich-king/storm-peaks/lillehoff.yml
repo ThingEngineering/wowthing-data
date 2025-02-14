@@ -1,0 +1,108 @@
+things:
+  - id: 32540
+    type: "vendor"
+    name: "Lillehoff"
+    note: "The Sons of Hodir Quartermaster"
+
+    locations:
+      here:
+        - 66 61.4
+
+    groups:
+      - name: "Sons of Hodir - Mounts"
+        range: 4
+        sortkey: 01-sons-1
+
+      - name: "Sons of Hodir - Recipes"
+        range: 3
+        sortkey: 01-sons-2
+
+      - name: "Sons of Hodir - Transmog"
+        range: -1
+        sortkey: 01-sons-3
+
+    contents:
+
+      # Mount
+
+      - id: 43961 # Reins of the Grand Ice Mammoth
+        costs:
+          0: 10000 # Gold
+        requirements:
+          - "reputation: 0 exalted"
+
+      - id: 44086 # Reins of the Grand Ice Mammoth
+        costs:
+          0: 10000 # Gold
+        requirements:
+          - "reputation: 0 exalted"
+
+      - id: 43958 # Reins of the Ice Mammoth
+        costs:
+          0: 1000 # Gold
+        requirements:
+          - "reputation: 0 revered"
+
+      - id: 44080 # Reins of the Ice Mammoth
+        costs:
+          0: 800 # Gold
+        requirements:
+          - "reputation: 0 revered"
+
+      # Recipe
+
+      - id: 41720 # Design: Smooth Autumn's Glow [jewelcrafting]
+        costs:
+          0: 4 # Gold
+        requirements:
+          - "reputation: 0 exalted"
+
+      - id: 44510 # Pattern: Mammoth Mining Bag [leatherworking]
+        costs:
+          0: 5 # Gold
+        requirements:
+          - "reputation: 0 honored"
+
+      - id: 42184 # Pattern: Glacial Bag [tailoring]
+        costs:
+          0: 4 # Gold
+        requirements:
+          - "reputation: 0 exalted"
+
+      # Transmog
+
+      - id: 44194 # Giant-Friend Kilt [leather legs]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation: 0 revered"
+
+      - id: 44190 # Spaulders of Frozen Knives [leather shoulders]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation: 0 honored"
+
+      - id: 44189 # Giant Ring Belt [mail waist]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation: 0 honored"
+
+      - id: 44195 # Spaulders of the Giant Lords [plate shoulders]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation: 0 revered"
+
+      - id: 44192 # Stalactite Chopper [1h ? axe]
+        costs:
+          0: 73 # Gold
+        requirements:
+          - "reputation: 0 revered"
+
+      - id: 44193 # Broken Stalactite [? dagger]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation: 0 revered"

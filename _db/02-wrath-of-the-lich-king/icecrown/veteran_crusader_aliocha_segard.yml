@@ -1,0 +1,416 @@
+things:
+  - id: 30431
+    type: "vendor"
+    name: "Veteran Crusader Aliocha Segard"
+    note: "Argent Crusade Quartermaster"
+
+    locations:
+      here:
+        - 87.4 75.6
+
+    contents:
+      # Skipped id=44283 name=Signet of Hopeful Light slot=11
+
+      # 0
+
+      - id: 44297 # Boots of the Neverending Path [leather feet]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation: 0 exalted"
+
+      - id: 44295 # Polished Regimental Hauberk [mail chest]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation: 0 exalted"
+
+      # 0 set=4135
+
+      - id: 44296 # Helm of Purified Thoughts [plate head]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation: 0 exalted"
+
+      # 0
+
+      - id: 42187 # Pattern: Brilliant Spellthread
+        costs:
+          0: 5 # Gold
+        requirements:
+          - "reputation: 0 exalted"
+
+      # 0 set=4132
+
+      - id: 44248 # Battle Mender's Helm [mail head]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation: 0 revered"
+
+      # 0
+
+      - id: 44247 # Fang-Deflecting Faceguard [plate head]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation: 0 revered"
+
+      - id: 44244 # Argent Skeleton Crusher [2h ? mace]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation: 0 revered"
+
+      - id: 41726 # Design: Guardian's Twilight Opal
+        costs:
+          0: 4 # Gold
+        requirements:
+          - "reputation: 0 revered"
+
+      - id: 44214 # Purifying Torch [wand]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation: 0 revered"
+
+      - id: 44245 # Zombie Sweeper Shotgun [gun]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation: 0 revered"
+
+      # 0 set=4135
+
+      - id: 44239 # Standard Issue Legguards [plate legs]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation: 0 honored"
+
+      # 0
+
+      - id: 44240 # Special Issue Legplates [plate legs]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation: 0 honored"
+
+      - id: 44216 # Cloak of Holy Extermination [cloak]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation: 0 honored"
+
+      - id: 43154 # Tabard of the Argent Crusade [tabard]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation: 0 friendly"
+
+      # 20
+
+      - id: 183524 # Argent Conscript's Drape [cloak]
+        costs:
+          1754: 15
+
+      - id: 183552 # Argent Conscript's Drape [cloak]
+        costs:
+          1754: 15
+
+      # 21
+
+      - id: 183549 # Argent Conscript's Cloak [cloak]
+        costs:
+          1754: 15
+
+      - id: 183553 # Argent Conscript's Cloak [cloak]
+        costs:
+          1754: 15
+
+      # 22
+
+      - id: 183550 # Argent Conscript's Cape [cloak]
+        costs:
+          1754: 15
+
+      - id: 183554 # Argent Conscript's Lined Cloak [cloak]
+        costs:
+          1754: 15
+
+      # 23
+
+      - id: 183555 # Argent Conscript's Cape [cloak]
+        costs:
+          1754: 15
+
+      - id: 183551 # Argent Conscript's Lined Cloak [cloak]
+        costs:
+          1754: 15
+
+      # 0
+
+      - id: 180454 # Anti-Doom Broom
+        costs:
+          1754: 15
+
+      - id: 183546 # Argent Conscript's Circlet [cloth head]
+        costs:
+          1754: 15
+
+      - id: 183575 # Argent Conscript's Skullcap [cloth head]
+        costs:
+          1754: 15
+
+      - id: 183545 # Argent Conscript's Mantle [cloth shoulders]
+        costs:
+          1754: 15
+
+      - id: 183574 # Argent Conscript's Mantle [cloth shoulders]
+        costs:
+          1754: 15
+
+      - id: 183525 # Argent Conscript's Robe [cloth chest]
+        costs:
+          1754: 15
+
+      - id: 183535 # Argent Conscript's Robe [cloth chest]
+        costs:
+          1754: 15
+
+      - id: 183532 # Argent Conscript's Bracers [cloth wrists]
+        costs:
+          1754: 15
+
+      - id: 183541 # Argent Conscript's Bracers [cloth wrists]
+        costs:
+          1754: 15
+
+      - id: 183547 # Argent Conscript's Gloves [cloth hands]
+        costs:
+          1754: 15
+
+      - id: 183576 # Argent Conscript's Gloves [cloth hands]
+        costs:
+          1754: 15
+
+      - id: 183548 # Argent Conscript's Cord [cloth waist]
+        costs:
+          1754: 15
+
+      - id: 183577 # Argent Conscript's Cord [cloth waist]
+        costs:
+          1754: 15
+
+      - id: 183529 # Argent Conscript's Leggings [cloth legs]
+        costs:
+          1754: 15
+
+      - id: 183539 # Argent Conscript's Leggings [cloth legs]
+        costs:
+          1754: 15
+
+      - id: 183527 # Argent Conscript's Treads [cloth feet]
+        costs:
+          1754: 15
+
+      - id: 183538 # Argent Conscript's Treads [cloth feet]
+        costs:
+          1754: 15
+
+      - id: 183557 # Argent Conscript's Cowl [leather head]
+        costs:
+          1754: 15
+
+      - id: 183579 # Argent Conscript's Mask [leather head]
+        costs:
+          1754: 15
+
+      - id: 183556 # Argent Conscript's Pauldrons [leather shoulders]
+        costs:
+          1754: 15
+
+      - id: 183578 # Argent Conscript's Pauldrons [leather shoulders]
+        costs:
+          1754: 15
+
+      - id: 183526 # Argent Conscript's Tunic [leather chest]
+        costs:
+          1754: 15
+
+      - id: 183537 # Argent Conscript's Tunic [leather chest]
+        costs:
+          1754: 15
+
+      - id: 183534 # Argent Conscript's Wriststraps [leather wrists]
+        costs:
+          1754: 15
+
+      - id: 183544 # Argent Conscript's Wriststraps [leather wrists]
+        costs:
+          1754: 15
+
+      - id: 183528 # Argent Conscript's Grips [leather hands]
+        costs:
+          1754: 15
+
+      - id: 183580 # Argent Conscript's Grips [leather hands]
+        costs:
+          1754: 15
+
+      - id: 183559 # Argent Conscript's Belt [leather waist]
+        costs:
+          1754: 15
+
+      - id: 183582 # Argent Conscript's Belt [leather waist]
+        costs:
+          1754: 15
+
+      - id: 183531 # Argent Conscript's Leggings [leather legs]
+        costs:
+          1754: 15
+
+      - id: 183540 # Argent Conscript's Leggings [leather legs]
+        costs:
+          1754: 15
+
+      - id: 183558 # Argent Conscript's Boots [leather feet]
+        costs:
+          1754: 15
+
+      - id: 183581 # Argent Conscript's Boots [leather feet]
+        costs:
+          1754: 15
+
+      - id: 183561 # Argent Conscript's Helmet [mail head]
+        costs:
+          1754: 15
+
+      - id: 183585 # Argent Conscript's Helmet [mail head]
+        costs:
+          1754: 15
+
+      - id: 183560 # Argent Conscript's Shoulderguards [mail shoulders]
+        costs:
+          1754: 15
+
+      - id: 183583 # Argent Conscript's Shoulderguards [mail shoulders]
+        costs:
+          1754: 15
+
+      - id: 183536 # Argent Conscript's Mail Shirt [mail chest]
+        costs:
+          1754: 15
+
+      - id: 183563 # Argent Conscript's Mail Shirt [mail chest]
+        costs:
+          1754: 15
+
+      - id: 183533 # Argent Conscript's Wristclamps [mail wrists]
+        costs:
+          1754: 15
+
+      - id: 183543 # Argent Conscript's Wristclamps [mail wrists]
+        costs:
+          1754: 15
+
+      - id: 183562 # Argent Conscript's Overgloves [mail hands]
+        costs:
+          1754: 15
+
+      - id: 183586 # Argent Conscript's Overgloves [mail hands]
+        costs:
+          1754: 15
+
+      - id: 183565 # Argent Conscript's Cinch [mail waist]
+        costs:
+          1754: 15
+
+      - id: 183588 # Argent Conscript's Cinch [mail waist]
+        costs:
+          1754: 15
+
+      - id: 183530 # Argent Conscript's Pants [mail legs]
+        costs:
+          1754: 15
+
+      - id: 183584 # Argent Conscript's Pants [mail legs]
+        costs:
+          1754: 15
+
+      - id: 183564 # Argent Conscript's Folded Boots [mail feet]
+        costs:
+          1754: 15
+
+      - id: 183587 # Argent Conscript's Folded Boots [mail feet]
+        costs:
+          1754: 15
+
+      - id: 183569 # Argent Conscript's Greathelm [plate head]
+        costs:
+          1754: 15
+
+      - id: 183591 # Argent Conscript's Tuskhelm [plate head]
+        costs:
+          1754: 15
+
+      - id: 183567 # Argent Conscript's Spaulders [plate shoulders]
+        costs:
+          1754: 15
+
+      - id: 183589 # Argent Conscript's Spaulders [plate shoulders]
+        costs:
+          1754: 15
+
+      - id: 183571 # Argent Conscript's Breastplate [plate chest]
+        costs:
+          1754: 15
+
+      - id: 183593 # Argent Conscript's Breastplate [plate chest]
+        costs:
+          1754: 15
+
+      - id: 183542 # Argent Conscript's Wristplates [plate wrists]
+        costs:
+          1754: 15
+
+      - id: 183566 # Argent Conscript's Wristplates [plate wrists]
+        costs:
+          1754: 15
+
+      - id: 183570 # Argent Conscript's Gauntlets [plate hands]
+        costs:
+          1754: 15
+
+      - id: 183592 # Argent Conscript's Gauntlets [plate hands]
+        costs:
+          1754: 15
+
+      - id: 183573 # Argent Conscript's Buckle [plate waist]
+        costs:
+          1754: 15
+
+      - id: 183595 # Argent Conscript's Buckle [plate waist]
+        costs:
+          1754: 15
+
+      - id: 183568 # Argent Conscript's Greaves [plate legs]
+        costs:
+          1754: 15
+
+      - id: 183590 # Argent Conscript's Greaves [plate legs]
+        costs:
+          1754: 15
+
+      - id: 183572 # Argent Conscript's Greaves [plate feet]
+        costs:
+          1754: 15
+
+      - id: 183594 # Argent Conscript's Greaves [plate feet]
+        costs:
+          1754: 15
+
+      - id: 183621 # Putrid Geist
+        costs:
+          1754: 20

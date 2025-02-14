@@ -1,0 +1,33 @@
+things:
+  - id: 30006
+    type: "vendor"
+    name: "Warsmith Sigfinna"
+    note: "Arms & Armor"
+
+    locations:
+      here:
+        - 47.4 70.4
+
+    contents:
+
+      # 0
+
+      - id: 41752 # Brunnhildar Axe [1h ? axe]
+        costs:
+          0: 8 # Gold
+
+      - id: 43601 # Brunnhildar Great Axe [2h ? axe]
+        costs:
+          0: 10 # Gold
+
+      - id: 43600 # Brunnhildar Harpoon [polearm]
+        costs:
+          0: 10 # Gold
+
+      - id: 41746 # Brunnhildar Bow [bow]
+        costs:
+          0: 10 # Gold
+
+      - id: 41754 # Brunnhildar Shield [shield]
+        costs:
+          0: 5 # Gold

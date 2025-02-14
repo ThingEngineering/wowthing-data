@@ -1,0 +1,119 @@
+things:
+  - id: 32533
+    type: "vendor"
+    name: "Cielstrasza"
+    note: "Wyrmrest Accord Quartermaster"
+
+    locations:
+      here:
+        - 59.8 53
+
+    contents:
+
+      # 0 set=4143
+
+      - id: 44202 # Sandals of Crimson Fury [cloth feet]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation: 0 exalted"
+
+      # 0
+
+      - id: 44203 # Dragonfriend Bracers [leather wrists]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation: 0 exalted"
+
+      - id: 44204 # Grips of Fierce Pronouncements [mail hands]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation: 0 exalted"
+
+      - id: 44205 # Legplates of Bloody Reprisal [plate legs]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation: 0 exalted"
+
+      - id: 41722 # Design: Stalwart Monarch Topaz
+        costs:
+          0: 3 # Gold
+        requirements:
+          - "reputation: 0 exalted"
+
+      - id: 43955 # Reins of the Red Drake
+        costs:
+          0: 2000 # Gold
+        requirements:
+          - "reputation: 0 exalted"
+
+      # 0 set=4138
+
+      - id: 44200 # Ancestral Sinew Wristguards [cloth wrists]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation: 0 revered"
+
+      # 0
+
+      - id: 44198 # Breastplate of the Solemn Council [plate chest]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation: 0 revered"
+
+      - id: 44201 # Sabatons of Draconic Vigor [plate feet]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation: 0 revered"
+
+      - id: 44199 # Gavel of the Brewing Storm [1h ? mace]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation: 0 revered"
+
+      - id: 42185 # Pattern: Mysterious Bag
+        costs:
+          0: 4 # Gold
+        requirements:
+          - "reputation: 0 revered"
+
+      - id: 44187 # Fang of Truth [1h ? sword]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation: 0 honored"
+
+      - id: 44196 # Sash of the Wizened Wyrm [cloth waist]
+        costs:
+          0: 14 # Gold
+        requirements:
+          - "reputation: 0 honored"
+
+      # 0 set=4134
+
+      - id: 44197 # Bracers of Accorded Courtesy [plate wrists]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation: 0 honored"
+
+      # 0
+
+      - id: 44188 # Cloak of Peaceful Resolutions [cloak]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation: 0 honored"
+
+      - id: 43156 # Tabard of the Wyrmrest Accord [tabard]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation: 0 friendly"

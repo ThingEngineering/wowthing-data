@@ -1,0 +1,121 @@
+things:
+  - id: 32538
+    type: "vendor"
+    name: "Duchess Mynx"
+    note: "Ebon Blade Quartermaster"
+
+    locations:
+      here:
+        - 43.4 20.6
+
+    contents:
+
+      # 0 set=4138
+
+      - id: 44302 # Belt of Dark Mending [cloth waist]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation: 0 exalted"
+
+      # 0
+
+      - id: 44303 # Darkheart Chestguard [leather chest]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation: 0 exalted"
+
+      # 0 set=4131
+
+      - id: 44305 # Kilt of Dark Mercy [mail legs]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation: 0 exalted"
+
+      # 0
+
+      - id: 44306 # Death-Inured Sabatons [plate feet]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation: 0 exalted"
+
+      - id: 41725 # Design: Timeless Twilight Opal
+        costs:
+          0: 4 # Gold
+        requirements:
+          - "reputation: 0 exalted"
+
+      - id: 44250 # Reaper of Dark Souls [1h ? sword]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation: 0 revered"
+
+      - id: 44256 # Sterile Flesh-Handling Gloves [cloth hands]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation: 0 revered"
+
+      - id: 44258 # Wound-Binder's Wristguards [leather wrists]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation: 0 revered"
+
+      - id: 44257 # Spaulders of the Black Arrow [mail shoulders]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation: 0 revered"
+
+      - id: 44249 # Runeblade of Demonstrable Power [2h ? sword]
+        costs:
+          0: 74 # Gold
+        requirements:
+          - "reputation: 0 revered"
+
+      - id: 42183 # Pattern: Abyssal Bag
+        costs:
+          0: 5 # Gold
+        requirements:
+          - "reputation: 0 revered"
+
+      - id: 41721 # Design: Deadly Monarch Topaz
+        costs:
+          0: 3 # Gold
+        requirements:
+          - "reputation: 0 revered"
+
+      - id: 44243 # Toxin-Tempered Sabatons [plate feet]
+        costs:
+          0: 28 # Gold
+        requirements:
+          - "reputation: 0 honored"
+
+      - id: 44242 # Dark Soldier Cape [cloak]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation: 0 honored"
+
+      - id: 44241 # Unholy Persuader [fist]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation: 0 honored"
+
+      - id: 43155 # Tabard of the Ebon Blade [tabard]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation: 0 friendly"
+
+      - id: 41562 # Design: Deadly Huge Citrine
+        costs:
+          0: 2 # Gold
+        requirements:
+          - "reputation: 0 friendly"

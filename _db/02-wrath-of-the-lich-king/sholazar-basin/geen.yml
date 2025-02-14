@@ -1,0 +1,110 @@
+things:
+  - id: 31910
+    type: "vendor"
+    name: "Geen"
+    note: "Oracles Quartermaster"
+
+    locations:
+      here:
+        - 54.4 56.2
+
+    groups:
+      - name: "Oracles - Egg"
+        range: 5
+        sortkey: 01-oracles-1
+
+      - name: "Oracles - Recipes"
+        range: 2
+        sortkey: 01-oracles-2
+
+      - name: "Oracles - Transmog"
+        range: -1
+        sortkey: 01-oracles-3
+
+    contents:
+
+      - id: 44707 # Reins fo the Green Proto-Drake
+        costs:
+          0: 3 # Gold
+        requirements:
+          - "reputation: 0 revered"
+
+      - id: 39898 # Cobra Hatchling
+        costs:
+          0: 3 # Gold
+        requirements:
+          - "reputation: 0 revered"
+
+      - id: 44721 # Proto-Drake Whelp
+        costs:
+          0: 3 # Gold
+        requirements:
+          - "reputation: 0 revered"
+
+      - id: 39896 # Tickbird Hatchling
+        costs:
+          0: 3 # Gold
+        requirements:
+          - "reputation: 0 revered"
+
+      - id: 39899 # White Tickbird Hatchling
+        costs:
+          0: 3 # Gold
+        requirements:
+          - "reputation: 0 revered"
+
+      - id: 41724 # Design: Misty Forest Emerald
+        costs:
+          0: 4 # Gold
+        requirements:
+          - "reputation: 0 revered"
+
+      - id: 41567 # Design: Nimble Dark Jade
+        costs:
+          0: 2 # Gold
+        requirements:
+          - "reputation: 0 friendly"
+
+      # 0
+
+      - id: 44104 # Fishy Cinch [cloth waist]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation: 0 revered"
+
+      - id: 44106 # Glitterscale Wrap [leather waist]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation: 0 revered"
+
+      - id: 44110 # Sharkjaw Cap [mail head]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation: 0 revered"
+
+      - id: 44109 # Toothslice Helm [mail head]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation: 0 revered"
+
+      - id: 44112 # Glimmershell Shoulder Protectors [plate shoulders]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation: 0 revered"
+
+      - id: 44111 # Gold Star Spaulders [plate shoulders]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation: 0 revered"
+
+      - id: 44108 # Shinygem Rod [wand]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation: 0 revered"

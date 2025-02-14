@@ -1,0 +1,107 @@
+things:
+  - id: 32287
+    type: "vendor"
+    name: "Archmage Alvareaux"
+    note: "Kirin Tor Quartermaster"
+
+    locations:
+      here:
+        - 25.4 47.4
+
+    contents:
+
+      # 0
+
+      - id: 44180 # Robes of Crackling Flame [cloth chest]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation: 0 exalted"
+
+      - id: 44181 # Ghostflicker Waistband [leather waist]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation: 0 exalted"
+
+      - id: 44182 # Boots of Twinkling Stars [mail feet]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation: 0 exalted"
+
+      - id: 44183 # Fireproven Gauntlets [plate hands]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation: 0 exalted"
+
+      - id: 42188 # Pattern: Sapphire Spellthread
+        costs:
+          0: 4 # Gold
+        requirements:
+          - "reputation: 0 exalted"
+
+      - id: 41718 # Design: Brilliant Scarlet Ruby
+        costs:
+          0: 3 # Gold
+        requirements:
+          - "reputation: 0 exalted"
+
+      - id: 44179 # Mind-Expanding Leggings [leather legs]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation: 0 revered"
+
+      - id: 44176 # Girdle of the Warrior Magi [plate waist]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation: 0 revered"
+
+      - id: 44173 # Flameheart Spell Scalpel [? dagger]
+        costs:
+          0: 70 # Gold
+        requirements:
+          - "reputation: 0 revered"
+
+      - id: 44174 # Stave of Shrouded Mysteries [staff]
+        costs:
+          0: 92 # Gold
+        requirements:
+          - "reputation: 0 revered"
+
+      - id: 44170 # Helm of the Majestic Stag [leather head]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation: 0 honored"
+
+      # 0 set=4131
+
+      - id: 44171 # Spaulders of Grounded Lightning [mail shoulders]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation: 0 honored"
+
+      # 0
+
+      - id: 44167 # Shroud of Dedicated Research [cloak]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation: 0 honored"
+
+      - id: 44166 # Lightblade Rivener [? dagger]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation: 0 honored"
+
+      - id: 43157 # Tabard of the Kirin Tor [tabard]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation: 0 friendly"

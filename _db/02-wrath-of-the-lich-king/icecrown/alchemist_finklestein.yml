@@ -1,0 +1,129 @@
+things:
+  - id: 37687
+    type: "vendor"
+    name: "Alchemist Finklestein"
+    note: "Ashen Verdict Quartermaster"
+
+    locations:
+      here:
+        - 36.2 20.6 # TODO use ICC location
+
+    groups:
+      - name: "Ashen Verdict - Recipes"
+        range: -1
+
+    contents:
+
+      # Blacksmithing
+
+      - id: 49974 # Plans: Boots of Kingly Upheaval
+        costs:
+          1049908: 1
+        requirements:
+          - "reputation: 0 honored"
+
+      - id: 49972 # Plans: Hellfrozen Bonegrinders
+        costs:
+          1049908: 1
+        requirements:
+          - "reputation: 0 honored"
+
+      - id: 49971 # Plans: Legplates of Painful Death
+        costs:
+          1049908: 1
+        requirements:
+          - "reputation: 0 revered"
+
+      - id: 49973 # Plans: Pillars of Might
+        costs:
+          1049908: 1
+        requirements:
+          - "reputation: 0 revered"
+
+      - id: 49970 # Plans: Protectors of Life
+        costs:
+          1049908: 1
+        requirements:
+          - "reputation: 0 honored"
+
+      - id: 49969 # Plans: Puresteel Legplates
+        costs:
+          1049908: 1
+        requirements:
+          - "reputation: 0 revered"
+
+      # Leatheworking
+
+      - id: 49959 # Pattern: Bladeborn Leggings
+        costs:
+          1049908: 1
+        requirements:
+          - "reputation: 0 revered"
+
+      - id: 49958 # Pattern: Blessed Cenarion Boots
+        costs:
+          1049908: 1
+        requirements:
+          - "reputation: 0 honored"
+
+      - id: 49965 # Pattern: Draconic Bonesplinter Legguards
+        costs:
+          1049908: 1
+        requirements:
+          - "reputation: 0 revered"
+
+      - id: 49963 # Pattern: Earthsoul Boots
+        costs:
+          1049908: 1
+        requirements:
+          - "reputation: 0 honored"
+
+      - id: 49961 # Pattern: Footpads of Impending Death
+        costs:
+          1049908: 1
+        requirements:
+          - "reputation: 0 honored"
+
+      - id: 49957 # Pattern: Legwraps of Unleashed Nature
+        costs:
+          1049908: 1
+        requirements:
+          - "reputation: 0 revered"
+
+      - id: 49962 # Pattern: Lightning-Infused Leggings
+        costs:
+          1049908: 1
+        requirements:
+          - "reputation: 0 revered"
+
+      - id: 49966 # Pattern: Rock-Steady Treads
+        costs:
+          1049908: 1
+        requirements:
+          - "reputation: 0 honored"
+
+      # Tailoring
+
+      - id: 49954 # Pattern: Deathfrost Boots
+        costs:
+          1049908: 1
+        requirements:
+          - "reputation: 0 honored"
+
+      - id: 49953 # Pattern: Leggings of Woven Death
+        costs:
+          1049908: 1
+        requirements:
+          - "reputation: 0 revered"
+
+      - id: 49955 # Pattern: Lightweave Leggings
+        costs:
+          1049908: 1
+        requirements:
+          - "reputation: 0 revered"
+
+      - id: 49956 # Pattern: Sandals of Consecration
+        costs:
+          1049908: 1
+        requirements:
+          - "reputation: 0 honored"

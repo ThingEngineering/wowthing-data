@@ -1,0 +1,25 @@
+things:
+  - id: 30067
+    type: "vendor"
+    name: "Initiate Claget"
+    note: "Blades"
+
+    locations:
+      here: # icecrown
+        - 20.4 47.8
+
+    contents:
+
+      # 0
+
+      - id: 40006 # Forsaken Sword [1h ? sword]
+        costs:
+          0: 1 # Gold
+
+      - id: 40004 # Forsaken Greatsword [2h ? sword]
+        costs:
+          0: 1 # Gold
+
+      - id: 40005 # Forsaken Blade [? dagger]
+        costs:
+          0: 1 # Gold

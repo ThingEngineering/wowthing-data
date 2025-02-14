@@ -1,0 +1,17 @@
+things:
+  - id: 29014
+    type: "vendor"
+    name: "Grakjek"
+    note: "Bowyer"
+
+    locations:
+      here: # sholazar_basin
+        - 55.8 70.2
+
+    contents:
+
+      # 0
+
+      - id: 39522 # Wolvar Shortbow [bow]
+        costs:
+          0: 1 # Gold

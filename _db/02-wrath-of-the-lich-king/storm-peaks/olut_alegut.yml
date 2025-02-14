@@ -1,0 +1,14 @@
+things:
+  - id: 30472
+    type: "vendor"
+    name: "Olut Alegut"
+
+    locations:
+      here:
+        - 37 49.4 horde
+
+    contents:
+
+      - id: 43499 # Iron Boot Flask [toy]
+        costs:
+          1042780: 10
