@@ -255,7 +255,7 @@ def main():
 
                 for map in map_set:
                     map_name = map.get('uiMapName', 'unknown').lower().replace(' ', '_').replace('-', '_').replace("'", '')
-                    print(f'      {map_name}:')
+                    print(f'      here: # {map_name}')
                     
                     for coord in map['coords']:
                         print(f'        - {coord[0]} {coord[1]}{faction}')
