@@ -108,9 +108,14 @@
     03-cataclysm/uldum.yml
 
 02-wrath-of-the-lich-king/_.yml
+    02-wrath-of-the-lich-king/borean_tundra.yml
+    02-wrath-of-the-lich-king/dragonblight.yml
+    02-wrath-of-the-lich-king/howling_fjord.yml
     02-wrath-of-the-lich-king/icecrown.yml
         02-wrath-of-the-lich-king/icecrown/argent_tournament.yml
         02-wrath-of-the-lich-king/icecrown/trial_of_the_crusader.yml
+    02-wrath-of-the-lich-king/sholazar_basin.yml
+    02-wrath-of-the-lich-king/storm_peaks.yml
     -
     02-wrath-of-the-lich-king/dalaran.yml
         02-wrath-of-the-lich-king/dalaran/professions.yml
