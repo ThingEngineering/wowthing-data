@@ -8,7 +8,7 @@ things:
 
     groups:
       - name: "Armor - Stormridden"
-        range: 9 12
+        range: 9 11
         sortKey: "02-armor-1"
 
       - name: "Armor - Strapping"
@@ -71,13 +71,15 @@ things:
 
       # Toys
 
-      - id: 216907 # A Tiny Plumed Tricorne
-        costs:
-          2922: 500
-
       - id: 170197 # Swarthy Warning Sign
         costs:
           2922: 500
+
+      # Misc
+
+      # - id: 216907 # A Tiny Plumed Tricorne
+      #   costs:
+      #     2922: 500
 
       # Armor - Stormridden
 
