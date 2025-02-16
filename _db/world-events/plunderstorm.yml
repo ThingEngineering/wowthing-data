@@ -7,8 +7,20 @@ things:
     name: "Plunderstore"
 
     groups:
+      - name: "Mounts"
+        range: 5
+        sortKey: "00mounts"
+      
+      - name: "Pets"
+        range: 5
+        sortKey: "00pets"
+      
+      - name: "Toys"
+        range: 2
+        sortKey: "00toys"
+
       - name: "Armor - Stormridden"
-        range: 9 11
+        range: 9
         sortKey: "02-armor-1"
 
       - name: "Armor - Strapping"
@@ -71,15 +83,14 @@ things:
 
       # Toys
 
-      - id: 170197 # Swarthy Warning Sign
+      - id: 216907 # A Tiny Plumed Tricorne
+        trackingQuestId: 80093
         costs:
           2922: 500
 
-      # Misc
-
-      # - id: 216907 # A Tiny Plumed Tricorne
-      #   costs:
-      #     2922: 500
+      - id: 170197 # Swarthy Warning Sign
+        costs:
+          2922: 500
 
       # Armor - Stormridden
 
