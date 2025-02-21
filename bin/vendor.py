@@ -114,20 +114,20 @@ SORT_SUBCLASS = {
     (2, 0): 100, # 1h axe
     (2, 4): 101, # 1h mace
     (2, 8): 102, # 1h sword
-    (2, 15): 120, # dagger
-    (2, 13): 121, # fist
-    (2, 19): 122, # wand
-    (2, 9): 123, # warglaive
+    (2, 15): 103, # dagger
+    (2, 13): 104, # fist
+    (2, 9): 105, # warglaive
     (2, 1): 110, # 2h axe
     (2, 5): 111, # 2h mace
     (2, 9): 112, # 2h sword
-    (2, 6): 130, # polearm
-    (2, 10): 131, # staff
-    (2, 2): 140, # bow
-    (2, 18): 141, # crossbow
-    (2, 3): 142, # gun
-    (4, -5): 150, # off-hand
-    (4, 6): 151, # shield
+    (2, 6): 113, # polearm
+    (2, 10): 114, # staff
+    (2, 2): 120, # bow
+    (2, 18): 121, # crossbow
+    (2, 3): 122, # gun
+    (2, 19): 123, # wand
+    (4, -5): 130, # off-hand
+    (4, 6): 131, # shield
 }
 SORT_KEY = {
     1: 1, # head
