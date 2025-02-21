@@ -1,7 +1,7 @@
 name: ">Pet Battles"
 groups:
 
-- name: "Azure Span, The"
+- name: "Azure Span"
   things:
     - 3357 # Azure Crystalspine
     - 3356 # Chalkshell Turtle
@@ -64,7 +64,7 @@ groups:
     - 3336 # Vorquin Runt
     - 3301 # Wild Duckling
 
-- name: "Waking Shores, The"
+- name: "Waking Shores"
   things:
     - 3367 # Emberling
     - 3313 # Grassland Stomper

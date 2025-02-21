@@ -9,7 +9,7 @@ groups:
     - 200198 # Primalist Prison
     - 200857 # Talisman of Sargha
 
-- name: "Azure Span, The"
+- name: "Azure Span"
   things:
     - 200160 # Notfar's Favorite Food
 
