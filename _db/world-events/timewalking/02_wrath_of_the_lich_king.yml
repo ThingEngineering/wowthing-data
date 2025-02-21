@@ -1,3 +1,7 @@
+tags:
+  - "expansion:2"
+  - "expansion:wrath-of-the-lich-king"
+
 things:
   - id: 98690
     type: "vendor"
@@ -21,12 +25,11 @@ things:
         range: 16
         sortKey: "z-tw-02-2"
 
-      - name: "WotLK TW - Weapons"
+      - name: "WotLK TW - $$$ Weapons"
         range: -1
-        sortKey: "z-tw-02-3"
+        sortKey: "z-tw-02-5"
 
     contents:
-
       # Mounts
 
       - id: 129922 # Bridle of the Ironbound Wraithcharger

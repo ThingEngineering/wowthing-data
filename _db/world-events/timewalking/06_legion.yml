@@ -1,3 +1,7 @@
+tags:
+  - "expansion:6"
+  - "expansion:legion"
+
 things:
   - id: 180899
     type: "vendor"
@@ -7,9 +11,6 @@ things:
     locations:
       06-legion/dalaran:
         - 68.4 48.4
-
-    tags:
-      - "expansion:legion"
 
     groups:
       - name: "Legion TW - Misc"
@@ -25,11 +26,14 @@ things:
         sortKey: "z-tw-06-2"
 
       - name: "Legion TW - Weapons"
+        range: 6
+        sortKey: "z-tw-06-4"
+
+      - name: "Legion TW - $$$ Weapons"
         range: -1
-        sortKey: "z-tw-06-3"
+        sortKey: "z-tw-06-5"
 
     contents:
-
       # Mounts
 
       - id: 187595 # Favor of the Val'sharah Hippogryph
@@ -130,6 +134,28 @@ things:
         costs:
           1166: 50
 
+      - id: 187567 # Nightborne Arcsaber [1h ? sword]
+        costs:
+          1166: 50
+
+      - id: 187578 # Warpcaster's Staff [staff]
+        costs:
+          1166: 100
+
+      - id: 187565 # Argussian Reach Longbow [bow]
+        costs:
+          1166: 100
+
+      - id: 187564 # Nightborne Arcshield [shield]
+        costs:
+          1166: 35
+
+      - id: 187563 # Suramar Guard's Shield [shield]
+        costs:
+          1166: 35
+
+      # $$$ Weapons
+
       - id: 234954 # Corrupted Knot [1h mace]
         costs:
           1166: 1200
@@ -137,10 +163,6 @@ things:
       - id: 234953 # Edge of the First Blade [1h sword]
         costs:
           1166: 1200
-
-      - id: 187567 # Nightborne Arcsaber [1h ? sword]
-        costs:
-          1166: 50
 
       - id: 234959 # Key to the Halls [dagger]
         costs:
@@ -170,21 +192,9 @@ things:
         costs:
           1166: 1500
 
-      - id: 187578 # Warpcaster's Staff [staff]
-        costs:
-          1166: 100
-
-      - id: 187565 # Argussian Reach Longbow [bow]
-        costs:
-          1166: 100
-
       - id: 234957 # Monstrous Gluttony [shield]
         costs:
           1166: 1500
-
-      - id: 187564 # Nightborne Arcshield [shield]
-        costs:
-          1166: 35
 
       - id: 187562 # Replica Aegis of Aggramar [shield]
         costs:
@@ -193,7 +203,3 @@ things:
       - id: 227287 # Skovald's Resolve [shield]
         costs:
           1166: 2000
-
-      - id: 187563 # Suramar Guard's Shield [shield]
-        costs:
-          1166: 35

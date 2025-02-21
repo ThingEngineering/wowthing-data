@@ -69,6 +69,7 @@
     -
     06-legion/dalaran.yml
     06-legion/dalaran_underbelly.yml
+    06-legion/timewalking.yml
 
 05-warlords-of-draenor/_.yml
     05-warlords-of-draenor/tanaan_jungle.yml
@@ -80,6 +81,7 @@
     -
     05-warlords-of-draenor/stormshield.yml
     05-warlords-of-draenor/warspear.yml
+    05-warlords-of-draenor/timewalking.yml
 
 04-mists-of-pandaria/_.yml
     04-mists-of-pandaria/isle_of_giants.yml
@@ -93,6 +95,8 @@
     04-mists-of-pandaria/townlong_steppes.yml
     04-mists-of-pandaria/vale_of_eternal_blossoms.yml
     04-mists-of-pandaria/valley_of_the_four_winds.yml
+    -
+    04-mists-of-pandaria/timewalking.yml
 
 03-cataclysm/_.yml
     03-cataclysm/molten_front.yml
@@ -106,6 +110,8 @@
     03-cataclysm/mount_hyjal.yml
     03-cataclysm/twilight_highlands.yml
     03-cataclysm/uldum.yml
+    -
+    03-cataclysm/timewalking.yml
 
 02-wrath-of-the-lich-king/_.yml
     02-wrath-of-the-lich-king/borean_tundra.yml
@@ -137,8 +143,10 @@
     01-the-burning-crusade/netherstorm.yml
     -
     01-the-burning-crusade/shattrath_city.yml
+    01-the-burning-crusade/timewalking.yml
 
 00-classic/_.yml
+    00-classic/timewalking.yml
 
 -
 
@@ -155,6 +163,15 @@ pvp/_pvp.yml
     pvp/01_the_burning_crusade.yml
     pvp/00_classic.yml
 
+timewalking.yml
+    00-classic/timewalking.yml Classic
+    01-the-burning-crusade/timewalking.yml Burning Crusade
+    02-wrath-of-the-lich-king/dalaran/timewalking.yml Wrath of the Lich King
+    03-cataclysm/timewalking.yml Cataclysm
+    04-mists-of-pandaria/timewalking.yml Mists of Pandaria
+    05-warlords-of-draenor/timewalking.yml Warlords of Draenor
+    06-legion/timewalking.yml Legion
+
 world-events/_world_events.yml
     world-events/anniversary.yml
     world-events/brewfest.yml
@@ -165,4 +182,3 @@ world-events/_world_events.yml
     world-events/midsummer_fire_festival.yml
     world-events/noblegarden.yml
     world-events/plunderstorm.yml
-    world-events/timewalking.yml

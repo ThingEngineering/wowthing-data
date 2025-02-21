@@ -1,3 +1,7 @@
+tags:
+  - "expansion:0"
+  - "expansion:classic"
+
 things:
   - id: 234555
     type: "vendor"
@@ -19,11 +23,14 @@ things:
         sortKey: "z-tw-00-2"
 
       - name: "Classic TW - Weapons"
+        range: 14
+        sortKey: "z-tw-00-4"
+
+      - name: "Classic TW - $$$ Weapons"
         range: -1
-        sortKey: "z-tw-00-3"
+        sortKey: "z-tw-00-5"
 
     contents:
-
       # Mounts
 
       - id: 224398 # Reins of the Frayfeather Hippogryph
@@ -118,18 +125,6 @@ things:
         costs:
           1166: 50
 
-      - id: 227703 # Farstrider's Huntsblade [1h ? sword]
-        costs:
-          1166: 1500
-
-      - id: 234624 # Longsword of the Knight's Pledge [1h ? sword]
-        costs:
-          1166: 1500
-
-      - id: 227704 # Claymore of the Knight's Pledge [2h ? sword]
-        costs:
-          1166: 2500
-
       - id: 225200 # Alcor's Sunrazor [? dagger]
         costs:
           1166: 50
@@ -137,10 +132,6 @@ things:
       - id: 225191 # Gut Ripper [? dagger]
         costs:
           1166: 50
-
-      - id: 227705 # Runed-Ice Dirk [? dagger]
-        costs:
-          1166: 1500
 
       - id: 225188 # Lefty's Brass Knuckle [fist]
         costs:
@@ -158,33 +149,13 @@ things:
         costs:
           1166: 100
 
-      - id: 227707 # Doomwail Reaper [polearm]
-        costs:
-          1166: 2500
-
       - id: 225196 # Grimlok's Charge [polearm]
         costs:
           1166: 100
 
-      - id: 227718 # Bearded Branch of Lore [staff]
-        costs:
-          1166: 2500
-
-      - id: 227706 # Doomreaper's Scythe [staff]
-        costs:
-          1166: 2500
-
       - id: 225193 # Elemental Mage Staff [staff]
         costs:
           1166: 100
-
-      - id: 227709 # Kirin Tor Adept's Stave [staff]
-        costs:
-          1166: 2500
-
-      - id: 227711 # Tusked Branch of War [staff]
-        costs:
-          1166: 2500
 
       - id: 225198 # Warden Staff [staff]
         costs:
@@ -198,6 +169,48 @@ things:
         costs:
           1166: 100
 
+      - id: 225194 # Redbeard Crest [shield]
+        costs:
+          1166: 35
+
+      # $$$ Weapons
+
+      - id: 227703 # Farstrider's Huntsblade [1h ? sword]
+        costs:
+          1166: 1500
+
+      - id: 234624 # Longsword of the Knight's Pledge [1h ? sword]
+        costs:
+          1166: 1500
+
+      - id: 227705 # Runed-Ice Dirk [? dagger]
+        costs:
+          1166: 1500
+
+      - id: 227704 # Claymore of the Knight's Pledge [2h ? sword]
+        costs:
+          1166: 2500
+
+      - id: 227707 # Doomwail Reaper [polearm]
+        costs:
+          1166: 2500
+
+      - id: 227718 # Bearded Branch of Lore [staff]
+        costs:
+          1166: 2500
+
+      - id: 227706 # Doomreaper's Scythe [staff]
+        costs:
+          1166: 2500
+
+      - id: 227709 # Kirin Tor Adept's Stave [staff]
+        costs:
+          1166: 2500
+
+      - id: 227711 # Tusked Branch of War [staff]
+        costs:
+          1166: 2500
+
       - id: 227717 # Sermons of the Naaru [off-hand]
         costs:
           1166: 1500
@@ -209,7 +222,3 @@ things:
       - id: 227714 # Gilded Drakecrest Shield [shield]
         costs:
           1166: 2000
-
-      - id: 225194 # Redbeard Crest [shield]
-        costs:
-          1166: 35

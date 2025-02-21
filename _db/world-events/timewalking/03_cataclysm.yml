@@ -1,3 +1,7 @@
+tags:
+  - "expansion:3"
+  - "expansion:cataclysm"
+
 things:
   - id: 101759
     type: "vendor"
@@ -28,7 +32,6 @@ things:
         sortKey: "z-tw-03-2"
 
     contents:
-
       # Mounts
 
       - id: 234730 # Broodling of Sinestra
@@ -50,7 +53,7 @@ things:
           1166: 1500
 
       # Recipes
-      
+
       - id: 13497 # Recipe: Greater Arcane Protection Potion [alchemy]
         costs:
           1166: 1500

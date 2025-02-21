@@ -1,3 +1,7 @@
+tags:
+  - "expansion:1"
+  - "expansion:the-burning-crusade"
+
 things:
   - id: 98685
     type: "vendor"
@@ -22,11 +26,14 @@ things:
         sortKey: "z-tw-01-2"
 
       - name: "TBC TW - Weapons"
+        range: 12
+        sortKey: "z-tw-01-4"
+
+      - name: "TBC TW - $$$ Weapons"
         range: -1
-        sortKey: "z-tw-01-3"
+        sortKey: "z-tw-01-5"
 
     contents:
-
       # Mounts
 
       - id: 224399 # Reins of the Amani Hunting Bear
@@ -171,13 +178,59 @@ things:
 
       # Weapons
 
-      - id: 232029 # Auchenai Vindicator's Crystal Cleaver [1h ? axe]
-        costs:
-          1166: 1200
-
       - id: 129858 # Gavel of Naaru Blessings [1h ? mace]
         costs:
           1166: 50
+
+      - id: 129861 # Sword of Unyielding Force [1h ? sword]
+        costs:
+          1166: 50
+
+      - id: 129857 # Scryer's Blade of Focus [? dagger]
+        costs:
+          1166: 50
+
+      - id: 129931 # The Mutilator [? dagger]
+        costs:
+          1166: 50
+
+      - id: 129856 # Vanir's Fist of Brutality [fist]
+        costs:
+          1166: 50
+
+      - id: 129827 # The Blade of Harbingers [2h ? axe]
+        costs:
+          1166: 100
+
+      - id: 129829 # Staff of the Forest Lord [staff]
+        costs:
+          1166: 100
+
+      - id: 129828 # Staff of the Soul-Eater [staff]
+        costs:
+          1166: 100
+
+      - id: 129845 # Crossbow of Relentless Strikes [crossbow]
+        costs:
+          1166: 100
+
+      - id: 129839 # Talisman of Kalecgos [off-hand]
+        costs:
+          1166: 35
+
+      - id: 129847 # Azure-Shield of Coldarra [shield]
+        costs:
+          1166: 35
+
+      - id: 129846 # Mazthoril Honor Shield [shield]
+        costs:
+          1166: 35
+
+      # $$$ Weapons
+
+      - id: 232029 # Auchenai Vindicator's Crystal Cleaver [1h ? axe]
+        costs:
+          1166: 1200
 
       - id: 232044 # Hammer of the Forest Loas [1h ? mace]
         costs:
@@ -191,10 +244,6 @@ things:
         costs:
           1166: 1200
 
-      - id: 129861 # Sword of Unyielding Force [1h ? sword]
-        costs:
-          1166: 50
-
       - id: 232023 # Chilled Obsidian Dragon's Tooth [? dagger]
         costs:
           1166: 1200
@@ -203,37 +252,17 @@ things:
         costs:
           1166: 1200
 
-      - id: 129857 # Scryer's Blade of Focus [? dagger]
-        costs:
-          1166: 50
-
       - id: 232021 # Sunburst Sticker [? dagger]
         costs:
           1166: 1200
 
-      - id: 129931 # The Mutilator [? dagger]
-        costs:
-          1166: 50
-
       - id: 232024 # Sunfury Stalker's Fists [fist]
-        costs:
-          1166: 1200
-
-      - id: 129856 # Vanir's Fist of Brutality [fist]
-        costs:
-          1166: 50
-
-      - id: 232066 # Icefrost Focuser [wand]
         costs:
           1166: 1200
 
       - id: 232062 # Shadowsword Vanquisher's Blade [2h ? axe]
         costs:
           1166: 1500
-
-      - id: 129827 # The Blade of Harbingers [2h ? axe]
-        costs:
-          1166: 100
 
       - id: 232065 # Crimson Draenethyst Crusher [2h ? mace]
         costs:
@@ -259,14 +288,6 @@ things:
         costs:
           1166: 1800
 
-      - id: 129829 # Staff of the Forest Lord [staff]
-        costs:
-          1166: 100
-
-      - id: 129828 # Staff of the Soul-Eater [staff]
-        costs:
-          1166: 100
-
       - id: 232067 # Amani'shi Voodoo Bow [bow]
         costs:
           1166: 1800
@@ -275,26 +296,14 @@ things:
         costs:
           1166: 1800
 
-      - id: 129845 # Crossbow of Relentless Strikes [crossbow]
-        costs:
-          1166: 100
-
       - id: 232002 # Amani Tracker's Blunderbuss [gun]
         costs:
           1166: 1800
 
-      - id: 129839 # Talisman of Kalecgos [off-hand]
+      - id: 232066 # Icefrost Focuser [wand]
         costs:
-          1166: 35
-
-      - id: 129847 # Azure-Shield of Coldarra [shield]
-        costs:
-          1166: 35
+          1166: 1200
 
       - id: 232057 # Drake's Breath Heater Shield [shield]
         costs:
           1166: 1500
-
-      - id: 129846 # Mazthoril Honor Shield [shield]
-        costs:
-          1166: 35

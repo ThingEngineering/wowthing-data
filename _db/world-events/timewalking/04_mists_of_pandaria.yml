@@ -1,3 +1,7 @@
+tags:
+  - "expansion:4"
+  - "expansion:mists-of-pandaria"
+
 things:
   - id: 118828
     type: "vendor"
@@ -17,12 +21,15 @@ things:
         range: 18
         sortKey: "z-tw-04-2"
 
-      - name: "MoP TW - Weapons"
-        range: -1
+      - name: "MoP TW - $$$ Armor"
+        range: 8
         sortKey: "z-tw-04-3"
 
-    contents:
+      - name: "MoP TW - $$$ Weapons"
+        range: -1
+        sortKey: "z-tw-04-5"
 
+    contents:
       # Mounts
 
       - id: 234740 # Copper-Maned Quilen Reins
@@ -56,32 +63,6 @@ things:
       - id: 144393 # Portable Yak Wash
         costs:
           1166: 500
-
-      # 0
-
-      - id: 234795 # Shado-Pan Guise [subclass=5 head]
-        costs:
-          1166: 1000
-
-      - id: 234757 # Kor'kron Pauldrons [subclass=5 shoulders]
-        costs:
-          1166: 1000
-
-      - id: 234762 # Embroidered Shado-Pan Robes [subclass=5 chest]
-        costs:
-          1166: 1000
-
-      - id: 234759 # Gilded Shado-Pan Robes [subclass=5 chest]
-        costs:
-          1166: 1000
-
-      - id: 234796 # Embroidered Shado-Pan Kilt [subclass=5 legs]
-        costs:
-          1166: 800
-
-      - id: 234794 # Gilded Shado-Pan Kilt [subclass=5 legs]
-        costs:
-          1166: 800
 
       # Armor
 
@@ -156,6 +137,32 @@ things:
       - id: 144055 # Sagewhisper's Wrap [cloak]
         costs:
           1166: 25
+
+      # $$$ Armor
+
+      - id: 234795 # Shado-Pan Guise [subclass=5 head]
+        costs:
+          1166: 1000
+
+      - id: 234757 # Kor'kron Pauldrons [subclass=5 shoulders]
+        costs:
+          1166: 1000
+
+      - id: 234762 # Embroidered Shado-Pan Robes [subclass=5 chest]
+        costs:
+          1166: 1000
+
+      - id: 234759 # Gilded Shado-Pan Robes [subclass=5 chest]
+        costs:
+          1166: 1000
+
+      - id: 234796 # Embroidered Shado-Pan Kilt [subclass=5 legs]
+        costs:
+          1166: 800
+
+      - id: 234794 # Gilded Shado-Pan Kilt [subclass=5 legs]
+        costs:
+          1166: 800
 
       - id: 234756 # Kor'kron Tabard [tabard]
         costs:
