@@ -1,0 +1,555 @@
+things:
+  - id: 35577
+    type: "vendor"
+    name: "Valiant Laradia"
+    note: "Triumphant Armor Vendor"
+
+    locations:
+      here: # icecrown
+        - 75.4 21.4 alliance
+
+    groups:
+      - name: "Armor - T09 Death Knight"
+        range: 10
+        sortKey: "armor-t09-1-death-knight"
+
+      - name: "Armor - T09 Druid"
+        range: 15
+        sortKey: "armor-t09-1-druid"
+
+      - name: "Armor - T09 Hunter"
+        range: 5
+        sortKey: "armor-t09-1-hunter"
+
+      - name: "Armor - T09 Mage"
+        range: 5
+        sortKey: "armor-t09-1-mage"
+
+      - name: "Armor - T09 Paladin"
+        range: 15
+        sortKey: "armor-t09-1-paladin"
+
+      - name: "Armor - T09 Priest"
+        range: 10
+        sortKey: "armor-t09-1-priest"
+
+      - name: "Armor - T09 Rogue"
+        range: 5
+        sortKey: "armor-t09-1-rogue"
+
+      - name: "Armor - T09 Shaman"
+        range: 15
+        sortKey: "armor-t09-1-shaman"
+
+      - name: "Armor - T09 Warlock"
+        range: 5
+        sortKey: "armor-t09-1-warlock"
+
+      - name: "Armor - T09 Warrior"
+        range: 10
+        sortKey: "armor-t09-1-warrior"
+
+    contents:
+
+      # Death Knight set=842
+      # - Blood
+      - id: 48540 # Thassarian's Faceguard of Triumph [plate head]
+        costs:
+          0: 144 # Gold
+          1047242: 1
+
+      - id: 48542 # Thassarian's Pauldrons of Triumph [plate shoulders]
+        costs:
+          0: 144 # Gold
+          1047242: 1
+
+      - id: 48538 # Thassarian's Chestguard of Triumph [plate chest]
+        costs:
+          0: 193 # Gold
+          1047242: 1
+
+      - id: 48539 # Thassarian's Handguards of Triumph [plate hands]
+        costs:
+          0: 94 # Gold
+          1047242: 1
+
+      - id: 48541 # Thassarian's Legguards of Triumph [plate legs]
+        costs:
+          0: 189 # Gold
+          1047242: 1
+      
+      # - Frost/Unholy
+      - id: 48483 # Thassarian's Helmet of Triumph [plate head]
+        costs:
+          0: 144 # Gold
+          1047242: 1
+
+      - id: 48485 # Thassarian's Shoulderplates of Triumph [plate shoulders]
+        costs:
+          0: 144 # Gold
+          1047242: 1
+
+      - id: 48481 # Thassarian's Battleplate of Triumph [plate chest]
+        costs:
+          0: 193 # Gold
+          1047242: 1
+
+      - id: 48482 # Thassarian's Gauntlets of Triumph [plate hands]
+        costs:
+          0: 94 # Gold
+          1047242: 1
+
+      - id: 48484 # Thassarian's Legplates of Triumph [plate legs]
+        costs:
+          0: 189 # Gold
+          1047242: 1
+
+      # Druid set=825
+      # - Balance
+      - id: 48164 # Malfurion's Cover of Triumph [leather head]
+        costs:
+          0: 136 # Gold
+          1047242: 1
+
+      - id: 48167 # Malfurion's Mantle of Triumph [leather shoulders]
+        costs:
+          0: 136 # Gold
+          1047242: 1
+
+      - id: 48166 # Malfurion's Vestments of Triumph [leather chest]
+        costs:
+          0: 182 # Gold
+          1047242: 1
+
+      - id: 48163 # Malfurion's Gloves of Triumph [leather hands]
+        costs:
+          0: 89 # Gold
+          1047242: 1
+
+      - id: 48165 # Malfurion's Trousers of Triumph [leather legs]
+        costs:
+          0: 178 # Gold
+          1047242: 1
+
+      # - Feral/Guardian
+      - id: 48211 # Malfurion's Headguard of Triumph [leather head]
+        costs:
+          0: 136 # Gold
+          1047242: 1
+
+      - id: 48208 # Malfurion's Shoulderpads of Triumph [leather shoulders]
+        costs:
+          0: 136 # Gold
+          1047242: 1
+
+      - id: 48209 # Malfurion's Raiments of Triumph [leather chest]
+        costs:
+          0: 182 # Gold
+          1047242: 1
+
+      - id: 48212 # Malfurion's Handgrips of Triumph [leather hands]
+        costs:
+          0: 89 # Gold
+          1047242: 1
+
+      - id: 48210 # Malfurion's Legguards of Triumph [leather legs]
+        costs:
+          0: 178 # Gold
+          1047242: 1
+
+      # - Restoration
+      - id: 48134 # Malfurion's Headpiece of Triumph [leather head]
+        costs:
+          0: 136 # Gold
+          1047242: 1
+
+      - id: 48137 # Malfurion's Spaulders of Triumph [leather shoulders]
+        costs:
+          0: 136 # Gold
+          1047242: 1
+
+      - id: 48136 # Malfurion's Robe of Triumph [leather chest]
+        costs:
+          0: 182 # Gold
+          1047242: 1
+
+      - id: 48133 # Malfurion's Handguards of Triumph [leather hands]
+        costs:
+          0: 89 # Gold
+          1047242: 1
+
+      - id: 48135 # Malfurion's Leggings of Triumph [leather legs]
+        costs:
+          0: 178 # Gold
+          1047242: 1
+
+      # Hunter set=739
+
+      - id: 48257 # Windrunner's Headpiece of Triumph [mail head]
+        costs:
+          0: 152 # Gold
+          1047242: 1
+
+      - id: 48259 # Windrunner's Spaulders of Triumph [mail shoulders]
+        costs:
+          0: 152 # Gold
+          1047242: 1
+
+      - id: 48255 # Windrunner's Tunic of Triumph [mail chest]
+        costs:
+          0: 204 # Gold
+          1047242: 1
+
+      - id: 48256 # Windrunner's Handguards of Triumph [mail hands]
+        costs:
+          0: 99 # Gold
+          1047242: 1
+
+      - id: 48258 # Windrunner's Legguards of Triumph [mail legs]
+        costs:
+          0: 199 # Gold
+          1047242: 1
+
+      # Mage set=722
+
+      - id: 47754 # Khadgar's Hood of Triumph [cloth head]
+        costs:
+          0: 144 # Gold
+          1047242: 1
+
+      - id: 47757 # Khadgar's Shoulderpads of Triumph [cloth shoulders]
+        costs:
+          0: 144 # Gold
+          1047242: 1
+
+      - id: 47756 # Khadgar's Robe of Triumph [cloth chest]
+        costs:
+          0: 193 # Gold
+          1047242: 1
+
+      - id: 47753 # Khadgar's Gauntlets of Triumph [cloth hands]
+        costs:
+          0: 94 # Gold
+          1047242: 1
+
+      - id: 47755 # Khadgar's Leggings of Triumph [cloth legs]
+        costs:
+          0: 189 # Gold
+          1047242: 1
+
+      # Paladin set=706
+      # - Holy
+      - id: 48577 # Turalyon's Headpiece of Triumph [plate head]
+        costs:
+          0: 128 # Gold
+          1047242: 1
+
+      - id: 48579 # Turalyon's Spaulders of Triumph [plate shoulders]
+        costs:
+          0: 128 # Gold
+          1047242: 1
+
+      - id: 48575 # Turalyon's Tunic of Triumph [plate chest]
+        costs:
+          0: 172 # Gold
+          1047242: 1
+
+      - id: 48576 # Turalyon's Gloves of Triumph [plate hands]
+        costs:
+          0: 105 # Gold
+          1047242: 1
+
+      - id: 48578 # Turalyon's Greaves of Triumph [plate legs]
+        costs:
+          0: 168 # Gold
+          1047242: 1
+
+      # - Protection
+      - id: 48639 # Turalyon's Faceguard of Triumph [plate head]
+        costs:
+          0: 160 # Gold
+          1047242: 1
+
+      - id: 48637 # Turalyon's Shoulderguards of Triumph [plate shoulders]
+        costs:
+          0: 160 # Gold
+          1047242: 1
+
+      - id: 48641 # Turalyon's Breastplate of Triumph [plate chest]
+        costs:
+          0: 215 # Gold
+          1047242: 1
+
+      - id: 48640 # Turalyon's Handguards of Triumph [plate hands]
+        costs:
+          0: 105 # Gold
+          1047242: 1
+
+      - id: 48638 # Turalyon's Legguards of Triumph [plate legs]
+        costs:
+          0: 210 # Gold
+          1047242: 1
+
+      - id: 48609 # Turalyon's Helm of Triumph [plate head]
+        costs:
+          0: 160 # Gold
+          1047242: 1
+
+      - id: 48611 # Turalyon's Shoulderplates of Triumph [plate shoulders]
+        costs:
+          0: 128 # Gold
+          1047242: 1
+
+      - id: 48607 # Turalyon's Battleplate of Triumph [plate chest]
+        costs:
+          0: 172 # Gold
+          1047242: 1
+
+      - id: 48608 # Turalyon's Gauntlets of Triumph [plate hands]
+        costs:
+          0: 105 # Gold
+          1047242: 1
+
+      - id: 48610 # Turalyon's Legplates of Triumph [plate legs]
+        costs:
+          0: 168 # Gold
+          1047242: 1
+
+      # Priest set=349
+      # - Disc/Holy
+      - id: 47984 # Velen's Cowl of Triumph [cloth head]
+        costs:
+          0: 160 # Gold
+          1047242: 1
+
+      - id: 47987 # Velen's Shoulderpads of Triumph [cloth shoulders]
+        costs:
+          0: 160 # Gold
+          1047242: 1
+
+      - id: 47986 # Velen's Robe of Triumph [cloth chest]
+        costs:
+          0: 215 # Gold
+          1047242: 1
+
+      - id: 47983 # Velen's Gloves of Triumph [cloth hands]
+        costs:
+          0: 105 # Gold
+          1047242: 1
+
+      - id: 47985 # Velen's Leggings of Triumph [cloth legs]
+        costs:
+          0: 210 # Gold
+          1047242: 1
+
+      # - Shadow
+      - id: 48078 # Velen's Circlet of Triumph [cloth head]
+        costs:
+          0: 160 # Gold
+          1047242: 1
+
+      - id: 48081 # Velen's Mantle of Triumph [cloth shoulders]
+        costs:
+          0: 160 # Gold
+          1047242: 1
+
+      - id: 48080 # Velen's Raiments of Triumph [cloth chest]
+        costs:
+          0: 215 # Gold
+          1047242: 1
+
+      - id: 48077 # Velen's Handwraps of Triumph [cloth hands]
+        costs:
+          0: 105 # Gold
+          1047242: 1
+
+      - id: 48079 # Velen's Pants of Triumph [cloth legs]
+        costs:
+          0: 210 # Gold
+          1047242: 1
+
+      # Rogue set=690
+
+      - id: 48225 # VanCleef's Helmet of Triumph [leather head]
+        costs:
+          0: 128 # Gold
+          1047242: 1
+
+      - id: 48227 # VanCleef's Pauldrons of Triumph [leather shoulders]
+        costs:
+          0: 128 # Gold
+          1047242: 1
+
+      - id: 48223 # VanCleef's Breastplate of Triumph [leather chest]
+        costs:
+          0: 172 # Gold
+          1047242: 1
+
+      - id: 48224 # VanCleef's Gauntlets of Triumph [leather hands]
+        costs:
+          0: 89 # Gold
+          1047242: 1
+
+      - id: 48226 # VanCleef's Legplates of Triumph [leather legs]
+        costs:
+          0: 210 # Gold
+          1047242: 1
+
+      # Shaman set=640
+      # - Elemental
+      - id: 48318 # Nobundo's Helm of Triumph [mail head]
+        costs:
+          0: 160 # Gold
+          1047242: 1
+
+      - id: 48320 # Nobundo's Shoulderpads of Triumph [mail shoulders]
+        costs:
+          0: 160 # Gold
+          1047242: 1
+
+      - id: 48316 # Nobundo's Hauberk of Triumph [mail chest]
+        costs:
+          0: 215 # Gold
+          1047242: 1
+
+      - id: 48317 # Nobundo's Gloves of Triumph [mail hands]
+        costs:
+          0: 105 # Gold
+          1047242: 1
+
+      - id: 48319 # Nobundo's Kilt of Triumph [mail legs]
+        costs:
+          0: 210 # Gold
+          1047242: 1
+
+      # - Enhancement
+      - id: 48348 # Nobundo's Faceguard of Triumph [mail head]
+        costs:
+          0: 160 # Gold
+          1047242: 1
+
+      - id: 48350 # Nobundo's Shoulderguards of Triumph [mail shoulders]
+        costs:
+          0: 160 # Gold
+          1047242: 1
+
+      - id: 48346 # Nobundo's Chestguard of Triumph [mail chest]
+        costs:
+          0: 215 # Gold
+          1047242: 1
+
+      - id: 48347 # Nobundo's Grips of Triumph [mail hands]
+        costs:
+          0: 105 # Gold
+          1047242: 1
+
+      - id: 48349 # Nobundo's War-Kilt of Triumph [mail legs]
+        costs:
+          0: 210 # Gold
+          1047242: 1
+
+      # - Restoration
+      - id: 48287 # Nobundo's Headpiece of Triumph [mail head]
+        costs:
+          0: 160 # Gold
+          1047242: 1
+
+      - id: 48289 # Nobundo's Spaulders of Triumph [mail shoulders]
+        costs:
+          0: 160 # Gold
+          1047242: 1
+
+      - id: 48285 # Nobundo's Tunic of Triumph [mail chest]
+        costs:
+          0: 215 # Gold
+          1047242: 1
+
+      - id: 48286 # Nobundo's Handguards of Triumph [mail hands]
+        costs:
+          0: 105 # Gold
+          1047242: 1
+
+      - id: 48288 # Nobundo's Legguards of Triumph [mail legs]
+        costs:
+          0: 210 # Gold
+          1047242: 1
+
+      # Warlock set=674
+
+      - id: 47778 # Kel'Thuzad's Hood of Triumph [cloth head]
+        costs:
+          0: 160 # Gold
+          1047242: 1
+
+      - id: 47781 # Kel'Thuzad's Shoulderpads of Triumph [cloth shoulders]
+        costs:
+          0: 160 # Gold
+          1047242: 1
+
+      - id: 47779 # Kel'Thuzad's Robe of Triumph [cloth chest]
+        costs:
+          0: 215 # Gold
+          1047242: 1
+
+      - id: 47782 # Kel'Thuzad's Gloves of Triumph [cloth hands]
+        costs:
+          0: 105 # Gold
+          1047242: 1
+
+      - id: 47780 # Kel'Thuzad's Leggings of Triumph [cloth legs]
+        costs:
+          0: 210 # Gold
+          1047242: 1
+
+      # Warrior set=658
+      # - Arms/Fury
+      - id: 48378 # Wrynn's Helmet of Triumph [plate head]
+        costs:
+          0: 136 # Gold
+          1047242: 1
+
+      - id: 48380 # Wrynn's Shoulderplates of Triumph [plate shoulders]
+        costs:
+          0: 136 # Gold
+          1047242: 1
+
+      - id: 48376 # Wrynn's Battleplate of Triumph [plate chest]
+        costs:
+          0: 172 # Gold
+          1047242: 1
+
+      - id: 48377 # Wrynn's Gauntlets of Triumph [plate hands]
+        costs:
+          0: 84 # Gold
+          1047242: 1
+
+      - id: 48379 # Wrynn's Legplates of Triumph [plate legs]
+        costs:
+          0: 178 # Gold
+          1047242: 1
+
+      # - Protection
+      - id: 48430 # Wrynn's Greathelm of Triumph [plate head]
+        costs:
+          0: 128 # Gold
+          1047242: 1
+
+      - id: 48454 # Wrynn's Pauldrons of Triumph [plate shoulders]
+        costs:
+          0: 136 # Gold
+          1047242: 1
+
+      - id: 48450 # Wrynn's Breastplate of Triumph [plate chest]
+        costs:
+          0: 172 # Gold
+          1047242: 1
+
+      - id: 48452 # Wrynn's Handguards of Triumph [plate hands]
+        costs:
+          0: 89 # Gold
+          1047242: 1
+
+      - id: 48446 # Wrynn's Legguards of Triumph [plate legs]
+        costs:
+          0: 178 # Gold
+          1047242: 1

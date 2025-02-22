@@ -238,28 +238,8 @@ things:
           1047242: 1
 
       # Paladin set=707
-
-      - id: 48659 # Liadrin's Faceguard of Triumph [plate head]
-        costs:
-          0: 152 # Gold
-          1047242: 1
-
+      # - Holy
       - id: 48592 # Liadrin's Headpiece of Triumph [plate head]
-        costs:
-          0: 128 # Gold
-          1047242: 1
-
-      - id: 48624 # Liadrin's Helm of Triumph [plate head]
-        costs:
-          0: 128 # Gold
-          1047242: 1
-
-      - id: 48661 # Liadrin's Shoulderguards of Triumph [plate shoulders]
-        costs:
-          0: 152 # Gold
-          1047242: 1
-
-      - id: 48622 # Liadrin's Shoulderplates of Triumph [plate shoulders]
         costs:
           0: 128 # Gold
           1047242: 1
@@ -269,24 +249,9 @@ things:
           0: 128 # Gold
           1047242: 1
 
-      - id: 48626 # Liadrin's Battleplate of Triumph [plate chest]
-        costs:
-          0: 172 # Gold
-          1047242: 1
-
-      - id: 48657 # Liadrin's Breastplate of Triumph [plate chest]
-        costs:
-          0: 172 # Gold
-          1047242: 1
-
       - id: 48594 # Liadrin's Tunic of Triumph [plate chest]
         costs:
           0: 204 # Gold
-          1047242: 1
-
-      - id: 48625 # Liadrin's Gauntlets of Triumph [plate hands]
-        costs:
-          0: 84 # Gold
           1047242: 1
 
       - id: 48593 # Liadrin's Gloves of Triumph [plate hands]
@@ -294,19 +259,56 @@ things:
           0: 99 # Gold
           1047242: 1
 
-      - id: 48658 # Liadrin's Handguards of Triumph [plate hands]
-        costs:
-          0: 84 # Gold
-          1047242: 1
-
       - id: 48591 # Liadrin's Greaves of Triumph [plate legs]
         costs:
           0: 199 # Gold
           1047242: 1
 
+      # - Protection
+      - id: 48659 # Liadrin's Faceguard of Triumph [plate head]
+        costs:
+          0: 152 # Gold
+          1047242: 1
+
+      - id: 48661 # Liadrin's Shoulderguards of Triumph [plate shoulders]
+        costs:
+          0: 152 # Gold
+          1047242: 1
+
+      - id: 48657 # Liadrin's Breastplate of Triumph [plate chest]
+        costs:
+          0: 172 # Gold
+          1047242: 1
+
+      - id: 48658 # Liadrin's Handguards of Triumph [plate hands]
+        costs:
+          0: 84 # Gold
+          1047242: 1
+
       - id: 48660 # Liadrin's Legguards of Triumph [plate legs]
         costs:
           0: 199 # Gold
+          1047242: 1
+
+      # - Retribution
+      - id: 48624 # Liadrin's Helm of Triumph [plate head]
+        costs:
+          0: 128 # Gold
+          1047242: 1
+
+      - id: 48622 # Liadrin's Shoulderplates of Triumph [plate shoulders]
+        costs:
+          0: 128 # Gold
+          1047242: 1
+
+      - id: 48626 # Liadrin's Battleplate of Triumph [plate chest]
+        costs:
+          0: 172 # Gold
+          1047242: 1
+
+      - id: 48625 # Liadrin's Gauntlets of Triumph [plate hands]
+        costs:
+          0: 84 # Gold
           1047242: 1
 
       - id: 48623 # Liadrin's Legplates of Triumph [plate legs]
