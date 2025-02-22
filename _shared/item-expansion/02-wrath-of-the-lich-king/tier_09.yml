@@ -1,0 +1,234 @@
+# Trial of the Crusader
+
+47242:
+  # Death Knight set=841
+  # - Blood
+  - 48540 # Thassarian's Faceguard of Triumph [plate head]
+  - 48542 # Thassarian's Pauldrons of Triumph [plate shoulders]
+  - 48538 # Thassarian's Chestguard of Triumph [plate chest]
+  - 48539 # Thassarian's Handguards of Triumph [plate hands]
+  - 48541 # Thassarian's Legguards of Triumph [plate legs]
+  - 48555 # Koltira's Faceguard of Triumph [plate head]
+  - 48553 # Koltira's Pauldrons of Triumph [plate shoulders]
+  - 48557 # Koltira's Chestguard of Triumph [plate chest]
+  - 48556 # Koltira's Handguards of Triumph [plate hands]
+  - 48554 # Koltira's Legguards of Triumph [plate legs]
+  # - Frost/Unholy
+  - 48483 # Thassarian's Helmet of Triumph [plate head]
+  - 48485 # Thassarian's Shoulderplates of Triumph [plate shoulders]
+  - 48481 # Thassarian's Battleplate of Triumph [plate chest]
+  - 48482 # Thassarian's Gauntlets of Triumph [plate hands]
+  - 48484 # Thassarian's Legplates of Triumph [plate legs]
+  - 48498 # Koltira's Helmet of Triumph [plate head]
+  - 48496 # Koltira's Shoulderplates of Triumph [plate shoulders]
+  - 48500 # Koltira's Battleplate of Triumph [plate chest]
+  - 48499 # Koltira's Gauntlets of Triumph [plate hands]
+  - 48497 # Koltira's Legplates of Triumph [plate legs]
+  # Druid set=826
+  # - Balance
+  - 48164 # Malfurion's Cover of Triumph [leather head]
+  - 48167 # Malfurion's Mantle of Triumph [leather shoulders]
+  - 48166 # Malfurion's Vestments of Triumph [leather chest]
+  - 48163 # Malfurion's Gloves of Triumph [leather hands]
+  - 48165 # Malfurion's Trousers of Triumph [leather legs]
+  - 48181 # Runetotem's Cover of Triumph [leather head]
+  - 48178 # Runetotem's Mantle of Triumph [leather shoulders]
+  - 48179 # Runetotem's Vestments of Triumph [leather chest]
+  - 48182 # Runetotem's Gloves of Triumph [leather hands]
+  - 48180 # Runetotem's Trousers of Triumph [leather legs]
+  # - Feral/Guardian
+  - 48211 # Malfurion's Headguard of Triumph [leather head]
+  - 48208 # Malfurion's Shoulderpads of Triumph [leather shoulders]
+  - 48209 # Malfurion's Raiments of Triumph [leather chest]
+  - 48212 # Malfurion's Handgrips of Triumph [leather hands]
+  - 48210 # Malfurion's Legguards of Triumph [leather legs]
+  - 48194 # Runetotem's Headguard of Triumph [leather head]
+  - 48197 # Runetotem's Shoulderpads of Triumph [leather shoulders]
+  - 48196 # Runetotem's Raiments of Triumph [leather chest]
+  - 48193 # Runetotem's Handgrips of Triumph [leather hands]
+  - 48195 # Runetotem's Legguards of Triumph [leather legs]
+  # - Restoration
+  - 48134 # Malfurion's Headpiece of Triumph [leather head]
+  - 48137 # Malfurion's Spaulders of Triumph [leather shoulders]
+  - 48136 # Malfurion's Robe of Triumph [leather chest]
+  - 48133 # Malfurion's Handguards of Triumph [leather hands]
+  - 48135 # Malfurion's Leggings of Triumph [leather legs]
+  - 48151 # Runetotem's Headpiece of Triumph [leather head]
+  - 48148 # Runetotem's Spaulders of Triumph [leather shoulders]
+  - 48149 # Runetotem's Robe of Triumph [leather chest]
+  - 48152 # Runetotem's Handguards of Triumph [leather hands]
+  - 48150 # Runetotem's Leggings of Triumph [leather legs]
+  # Hunter set=738
+  - 48257 # Windrunner's Headpiece of Triumph [mail head] A
+  - 48259 # Windrunner's Spaulders of Triumph [mail shoulders]
+  - 48255 # Windrunner's Tunic of Triumph [mail chest]
+  - 48256 # Windrunner's Handguards of Triumph [mail hands]
+  - 48258 # Windrunner's Legguards of Triumph [mail legs]
+  - 48272 # Windrunner's Headpiece of Triumph [mail head] H
+  - 48270 # Windrunner's Spaulders of Triumph [mail shoulders]
+  - 48274 # Windrunner's Tunic of Triumph [mail chest]
+  - 48273 # Windrunner's Handguards of Triumph [mail hands]
+  - 48271 # Windrunner's Legguards of Triumph [mail legs]
+  # Mage set=723
+  - 47771 # Sunstrider's Hood of Triumph [cloth head]
+  - 47768 # Sunstrider's Shoulderpads of Triumph [cloth shoulders]
+  - 47769 # Sunstrider's Robe of Triumph [cloth chest]
+  - 47772 # Sunstrider's Gauntlets of Triumph [cloth hands]
+  - 47770 # Sunstrider's Leggings of Triumph [cloth legs]
+  # Paladin set=707
+  - 48659 # Liadrin's Faceguard of Triumph [plate head]
+  - 48592 # Liadrin's Headpiece of Triumph [plate head]
+  - 48624 # Liadrin's Helm of Triumph [plate head]
+  - 48661 # Liadrin's Shoulderguards of Triumph [plate shoulders]
+  - 48622 # Liadrin's Shoulderplates of Triumph [plate shoulders]
+  - 48590 # Liadrin's Spaulders of Triumph [plate shoulders]
+  - 48626 # Liadrin's Battleplate of Triumph [plate chest]
+  - 48657 # Liadrin's Breastplate of Triumph [plate chest]
+  - 48594 # Liadrin's Tunic of Triumph [plate chest]
+  - 48625 # Liadrin's Gauntlets of Triumph [plate hands]
+  - 48593 # Liadrin's Gloves of Triumph [plate hands]
+  - 48658 # Liadrin's Handguards of Triumph [plate hands]
+  - 48591 # Liadrin's Greaves of Triumph [plate legs]
+  - 48660 # Liadrin's Legguards of Triumph [plate legs]
+  - 48623 # Liadrin's Legplates of Triumph [plate legs]
+  # Priest set=350
+  # - Disc/Holy
+  - 48065 # Zabra's Cowl of Triumph [cloth head]
+  - 48062 # Zabra's Shoulderpads of Triumph [cloth shoulders]
+  - 48063 # Zabra's Robe of Triumph [cloth chest]
+  - 48066 # Zabra's Gloves of Triumph [cloth hands]
+  - 48064 # Zabra's Leggings of Triumph [cloth legs]
+  # - Shadow
+  - 48095 # Zabra's Circlet of Triumph [cloth head]
+  - 48092 # Zabra's Mantle of Triumph [cloth shoulders]
+  - 48093 # Zabra's Raiments of Triumph [cloth chest]
+  - 48096 # Zabra's Handwraps of Triumph [cloth hands]
+  - 48094 # Zabra's Pants of Triumph [cloth legs]
+  # Rogue set=691
+  - 48240 # Garona's Helmet of Triumph [leather head]
+  - 48238 # Garona's Pauldrons of Triumph [leather shoulders]
+  - 48242 # Garona's Breastplate of Triumph [leather chest]
+  - 48241 # Garona's Gauntlets of Triumph [leather hands]
+  - 48239 # Garona's Legplates of Triumph [leather legs]
+  # Shaman set=641
+  # - Elemental
+  - 48333 # Thrall's Helm of Triumph [mail head]
+  - 48331 # Thrall's Shoulderpads of Triumph [mail shoulders]
+  - 48335 # Thrall's Hauberk of Triumph [mail chest]
+  - 48334 # Thrall's Gloves of Triumph [mail hands]
+  - 48332 # Thrall's Kilt of Triumph [mail legs]
+  # - Enhancement
+  - 48363 # Thrall's Faceguard of Triumph [mail head]
+  - 48361 # Thrall's Shoulderguards of Triumph [mail shoulders]
+  - 48365 # Thrall's Chestguard of Triumph [mail chest]
+  - 48364 # Thrall's Grips of Triumph [mail hands]
+  - 48362 # Thrall's War-Kilt of Triumph [mail legs]
+  # - Restoration
+  - 48302 # Thrall's Headpiece of Triumph [mail head]
+  - 48304 # Thrall's Spaulders of Triumph [mail shoulders]
+  - 48300 # Thrall's Tunic of Triumph [mail chest]
+  - 48301 # Thrall's Handguards of Triumph [mail hands]
+  - 48303 # Thrall's Legguards of Triumph [mail legs]
+  # Warlock set=675
+  - 47804 # Gul'dan's Hood of Triumph [cloth head]
+  - 47807 # Gul'dan's Shoulderpads of Triumph [cloth shoulders]
+  - 47806 # Gul'dan's Robe of Triumph [cloth chest]
+  - 47803 # Gul'dan's Gloves of Triumph [cloth hands]
+  - 47805 # Gul'dan's Leggings of Triumph [cloth legs]
+  # Warrior set=657
+  # - Arms/Fury
+  - 48393 # Hellscream's Helmet of Triumph [plate head]
+  - 48395 # Hellscream's Shoulderplates of Triumph [plate shoulders]
+  - 48391 # Hellscream's Battleplate of Triumph [plate chest]
+  - 48392 # Hellscream's Gauntlets of Triumph [plate hands]
+  - 48394 # Hellscream's Legplates of Triumph [plate legs]
+  # - Protection
+  - 48463 # Hellscream's Greathelm of Triumph [plate head]
+  - 48465 # Hellscream's Pauldrons of Triumph [plate shoulders]
+  - 48461 # Hellscream's Breastplate of Triumph [plate chest]
+  - 48462 # Hellscream's Handguards of Triumph [plate hands]
+  - 48464 # Hellscream's Legguards of Triumph [plate legs]
+
+
+  # Hunter set=739
+  # Mage set=722
+  - 47754 # Khadgar's Hood of Triumph [cloth head]
+  - 47757 # Khadgar's Shoulderpads of Triumph [cloth shoulders]
+  - 47756 # Khadgar's Robe of Triumph [cloth chest]
+  - 47753 # Khadgar's Gauntlets of Triumph [cloth hands]
+  - 47755 # Khadgar's Leggings of Triumph [cloth legs]
+  # Paladin set=706
+  # - Holy
+  - 48577 # Turalyon's Headpiece of Triumph [plate head]
+  - 48579 # Turalyon's Spaulders of Triumph [plate shoulders]
+  - 48575 # Turalyon's Tunic of Triumph [plate chest]
+  - 48576 # Turalyon's Gloves of Triumph [plate hands]
+  - 48578 # Turalyon's Greaves of Triumph [plate legs]
+  # - Protection
+  - 48639 # Turalyon's Faceguard of Triumph [plate head]
+  - 48637 # Turalyon's Shoulderguards of Triumph [plate shoulders]
+  - 48641 # Turalyon's Breastplate of Triumph [plate chest]
+  - 48640 # Turalyon's Handguards of Triumph [plate hands]
+  - 48638 # Turalyon's Legguards of Triumph [plate legs]
+  - 48609 # Turalyon's Helm of Triumph [plate head]
+  - 48611 # Turalyon's Shoulderplates of Triumph [plate shoulders]
+  - 48607 # Turalyon's Battleplate of Triumph [plate chest]
+  - 48608 # Turalyon's Gauntlets of Triumph [plate hands]
+  - 48610 # Turalyon's Legplates of Triumph [plate legs]
+  # Priest set=349
+  # - Disc/Holy
+  - 47984 # Velen's Cowl of Triumph [cloth head]
+  - 47987 # Velen's Shoulderpads of Triumph [cloth shoulders]
+  - 47986 # Velen's Robe of Triumph [cloth chest]
+  - 47983 # Velen's Gloves of Triumph [cloth hands]
+  - 47985 # Velen's Leggings of Triumph [cloth legs]
+  # - Shadow
+  - 48078 # Velen's Circlet of Triumph [cloth head]
+  - 48081 # Velen's Mantle of Triumph [cloth shoulders]
+  - 48080 # Velen's Raiments of Triumph [cloth chest]
+  - 48077 # Velen's Handwraps of Triumph [cloth hands]
+  - 48079 # Velen's Pants of Triumph [cloth legs]
+  # Rogue set=690
+  - 48225 # VanCleef's Helmet of Triumph [leather head]
+  - 48227 # VanCleef's Pauldrons of Triumph [leather shoulders]
+  - 48223 # VanCleef's Breastplate of Triumph [leather chest]
+  - 48224 # VanCleef's Gauntlets of Triumph [leather hands]
+  - 48226 # VanCleef's Legplates of Triumph [leather legs]
+  # Shaman set=640
+  # - Elemental
+  - 48318 # Nobundo's Helm of Triumph [mail head]
+  - 48320 # Nobundo's Shoulderpads of Triumph [mail shoulders]
+  - 48316 # Nobundo's Hauberk of Triumph [mail chest]
+  - 48317 # Nobundo's Gloves of Triumph [mail hands]
+  - 48319 # Nobundo's Kilt of Triumph [mail legs]
+  # - Enhancement
+  - 48348 # Nobundo's Faceguard of Triumph [mail head]
+  - 48350 # Nobundo's Shoulderguards of Triumph [mail shoulders]
+  - 48346 # Nobundo's Chestguard of Triumph [mail chest]
+  - 48347 # Nobundo's Grips of Triumph [mail hands]
+  - 48349 # Nobundo's War-Kilt of Triumph [mail legs]
+  # - Restoration
+  - 48287 # Nobundo's Headpiece of Triumph [mail head]
+  - 48289 # Nobundo's Spaulders of Triumph [mail shoulders]
+  - 48285 # Nobundo's Tunic of Triumph [mail chest]
+  - 48286 # Nobundo's Handguards of Triumph [mail hands]
+  - 48288 # Nobundo's Legguards of Triumph [mail legs]
+  # Warlock set=674
+  - 47778 # Kel'Thuzad's Hood of Triumph [cloth head]
+  - 47781 # Kel'Thuzad's Shoulderpads of Triumph [cloth shoulders]
+  - 47779 # Kel'Thuzad's Robe of Triumph [cloth chest]
+  - 47782 # Kel'Thuzad's Gloves of Triumph [cloth hands]
+  - 47780 # Kel'Thuzad's Leggings of Triumph [cloth legs]
+  # Warrior set=658
+  # - Arms/Fury
+  - 48378 # Wrynn's Helmet of Triumph [plate head]
+  - 48380 # Wrynn's Shoulderplates of Triumph [plate shoulders]
+  - 48376 # Wrynn's Battleplate of Triumph [plate chest]
+  - 48377 # Wrynn's Gauntlets of Triumph [plate hands]
+  - 48379 # Wrynn's Legplates of Triumph [plate legs]
+  # - Protection
+  - 48430 # Wrynn's Greathelm of Triumph [plate head]
+  - 48454 # Wrynn's Pauldrons of Triumph [plate shoulders]
+  - 48450 # Wrynn's Breastplate of Triumph [plate chest]
+  - 48452 # Wrynn's Handguards of Triumph [plate hands]
+  - 48446 # Wrynn's Legguards of Triumph [plate legs]
