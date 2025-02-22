@@ -1,0 +1,272 @@
+things:
+  - id: 226250
+    type: "vendor"
+    name: "Reno Jackson"
+    note: "Delve Treasures"
+
+    locations:
+      here: # dornogal
+        - 47.6 45
+
+    groups:
+      - name: "Delves - Misc"
+        range: 1
+        sortKey: "delve-1"
+      
+      - name: "Delves - Schematics"
+        range: 5
+        sortKey: "delve-2"
+      
+      - name: "Delves - Cloth"
+        range: 9
+        sortKey: "delve-3-1"
+      
+      - name: "Delves - Leather"
+        range: 9
+        sortKey: "delve-3-2"
+      
+      - name: "Delves - Mail"
+        range: 9
+        sortKey: "delve-3-3"
+      
+      - name: "Delves - Plate"
+        range: 9
+        sortKey: "delve-3-4"
+      
+      - name: "Delves - Weapons"
+        range: -1
+        sortKey: "delve-4"
+
+    contents:
+
+      # Toy
+
+      - id: 223312 # Trusty Hat
+        costs:
+          2815: 10
+
+      # Misc
+
+      - id: 224981 # Delver's Dirigible Schematic: Brown Paint
+        costs:
+          2815: 10
+
+      - id: 224982 # Delver's Dirigible Schematic: Exhaust
+        costs:
+          2815: 10
+
+      - id: 224980 # Delver's Dirigible Schematic: Front-Mounted Lantern
+        costs:
+          2815: 10
+
+      - id: 224960 # Delver's Dirigible Schematic: Lantern Wing
+        costs:
+          2815: 10
+
+      - id: 224979 # Delver's Dirigible Schematic: Zeppelin
+        costs:
+          2815: 10
+
+      # 0
+
+      # 0 set=3640
+
+      - id: 225390 # Cave Topographer's Cowl [cloth head]
+        costs:
+          2815: 3250
+
+      - id: 225392 # Cave Topographer's Shoulders [cloth shoulders]
+        costs:
+          2815: 2600
+
+      - id: 225414 # Cave Topographer's Drape [cloak]
+        costs:
+          2815: 1300
+
+      - id: 225387 # Cave Topographer's Vestment [cloth chest]
+        costs:
+          2815: 3250
+
+      - id: 225394 # Cave Topographer's Cuffs [cloth wrists]
+        costs:
+          2815: 1300
+
+      - id: 225389 # Cave Topographer's Handwraps [cloth hands]
+        costs:
+          2815: 2600
+
+      - id: 225393 # Cave Topographer's Cord [cloth waist]
+        costs:
+          2815: 1300
+
+      - id: 225391 # Cave Topographer's Leggings [cloth legs]
+        costs:
+          2815: 3250
+
+      - id: 225388 # Cave Topographer's Sandals [cloth feet]
+        costs:
+          2815: 2600
+
+      # 0 set=3641
+
+      - id: 225398 # Treasure-Seeker's Helm [leather head]
+        costs:
+          2815: 3250
+
+      - id: 225400 # Treasure-Seeker's Epaulets [leather shoulders]
+        costs:
+          2815: 2600
+
+      - id: 225413 # Treasure-Seeker's Shawl [cloak]
+        costs:
+          2815: 1300
+
+      - id: 225395 # Treasure-Seeker's Vest [leather chest]
+        costs:
+          2815: 3250
+
+      - id: 225402 # Treasure-Seeker's Bindings [leather wrists]
+        costs:
+          2815: 1300
+
+      - id: 225397 # Treasure-Seeker's Grips [leather hands]
+        costs:
+          2815: 2600
+
+      - id: 225401 # Treasure-Seeker's Sash [leather waist]
+        costs:
+          2815: 1300
+
+      - id: 225399 # Treasure-Seeker's Breeches [leather legs]
+        costs:
+          2815: 3250
+
+      - id: 225396 # Treasure-Seeker's Boots [leather feet]
+        costs:
+          2815: 2600
+
+      # 0 set=3642
+
+      - id: 225383 # Torchbearer's Coif [mail head]
+        costs:
+          2815: 3250
+
+      - id: 225385 # Torchbearer's Shoulderguards [mail shoulders]
+        costs:
+          2815: 2600
+
+      - id: 225412 # Torchbearer's Greatcloak [cloak]
+        costs:
+          2815: 1300
+
+      - id: 225379 # Torchbearer's Chainmail [mail chest]
+        costs:
+          2815: 3250
+
+      - id: 225386 # Torchbearer's Bracers [mail wrists]
+        costs:
+          2815: 1300
+
+      - id: 225382 # Torchbearer's Grips [mail hands]
+        costs:
+          2815: 2600
+
+      - id: 225380 # Torchbearer's Cinch [mail waist]
+        costs:
+          2815: 1300
+
+      - id: 225384 # Torchbearer's Greaves [mail legs]
+        costs:
+          2815: 3250
+
+      - id: 225381 # Torchbearer's Striders [mail feet]
+        costs:
+          2815: 2600
+
+      # 0 set=3643
+
+      - id: 225406 # Secret-Dredger's Helm [plate head]
+        costs:
+          2815: 3250
+
+      - id: 225408 # Secret-Dredger's Mantle [plate shoulders]
+        costs:
+          2815: 2600
+
+      - id: 225411 # Secret-Dredger's Cloak [cloak]
+        costs:
+          2815: 1300
+
+      - id: 225403 # Secret-Dredger's Breastplate [plate chest]
+        costs:
+          2815: 3250
+
+      - id: 225410 # Secret-Dredger's Armplates [plate wrists]
+        costs:
+          2815: 1300
+
+      - id: 225405 # Secret-Dredger's Gauntlets [plate hands]
+        costs:
+          2815: 2600
+
+      - id: 225409 # Secret-Dredger's Girdle [plate waist]
+        costs:
+          2815: 1300
+
+      - id: 225407 # Secret-Dredger's Legguards [plate legs]
+        costs:
+          2815: 3250
+
+      - id: 225404 # Secret-Dredger's Sabatons [plate feet]
+        costs:
+          2815: 2600
+
+      # 0
+
+      - id: 225497 # Torchlit Pickaxe [1h ? axe]
+        costs:
+          2815: 3500
+
+      - id: 225501 # Pathfinder's Stonecarver [1h ? sword]
+        costs:
+          2815: 3500
+
+      - id: 225499 # Lapidarius Gemcutter [? dagger]
+        costs:
+          2815: 3500
+
+      - id: 225498 # Umbral Artist's Chisel [? dagger]
+        costs:
+          2815: 3500
+
+      - id: 225500 # Bedrock Breaker [fist]
+        costs:
+          2815: 3500
+
+      - id: 225502 # Mountain Shaper's Greataxe [2h ? axe]
+        costs:
+          2815: 3500
+
+      - id: 225506 # Mana-Lined Slab Slicer [2h ? sword]
+        costs:
+          2815: 3500
+
+      - id: 225505 # Luminous Lampspire [staff]
+        costs:
+          2815: 3500
+
+      - id: 225504 # Skypiercing Drillstaff [staff]
+        costs:
+          2815: 3500
+
+      - id: 225503 # Trailblazer's Hookshoot [crossbow]
+        costs:
+          2815: 3500
+
+      - id: 225507 # Brilliant Beacon [off-hand]
+        costs:
+          2815: 3500
+
+      - id: 225508 # Unhinged Vault-Hatch [shield]
+        costs:
+          2815: 3500

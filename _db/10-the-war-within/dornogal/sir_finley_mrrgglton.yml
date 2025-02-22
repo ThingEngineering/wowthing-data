@@ -1,0 +1,154 @@
+things:
+  - id: 208070
+    type: "vendor"
+    name: "Sir Finley Mrrgglton"
+    note: "Delve Treasures"
+
+    locations:
+      here: # dornogal
+        - 47.4 43.6
+
+    groups:
+      - name: "Delves - Misc"
+        range: 4
+        sortKey: "delve-1"
+
+      - name: "Delves - Schematics"
+        range: 4
+        sortKey: "delve-2"
+      
+      - name: "Delves - Armor"
+        range: 9
+        sortKey: "delve-3-0"
+      
+      - name: "Delves - Weapons"
+        range: -1
+        sortKey: "delve-4"
+
+    contents:
+
+      # Pet
+
+      - id: 222974 # Sir Shady Mrrgglton Junior
+        costs:
+          2803: 10000
+
+      # Toy
+
+      - id: 211931 # Abyss Caller Horn
+        costs:
+          2803: 500
+
+      - id: 228413 # Lampyridae Lure
+        costs:
+          2803: 500
+
+      - id: 225910 # Pileus Delight
+        costs:
+          2803: 500
+
+      # Misc
+
+      - id: 224771 # Delver's Dirigible Schematic: Empennage
+        costs:
+          2803: 2000
+
+      - id: 224770 # Delver's Dirigible Schematic: Front-Mounted Propeller
+        costs:
+          2803: 2500
+
+      - id: 224769 # Delver's Dirigible Schematic: Rotor Blades
+        costs:
+          2803: 3000
+
+      - id: 224768 # Delver's Dirigible Schematic: Wing-Mounted Propeller
+        costs:
+          2803: 2500
+
+      # 0
+
+      - id: 212166 # Coral Nautic Helm [subclass=5 head]
+        costs:
+          2803: 2500
+
+      - id: 212169 # Mint-Scented Candle Hat [subclass=5 head]
+        costs:
+          2803: 2500
+
+      - id: 212163 # Soporific Shroom Cap [subclass=5 head]
+        costs:
+          2803: 2500
+
+      - id: 212173 # Rulk'Nerub Raptorial Spine [subclass=5 back]
+        costs:
+          2803: 2500
+
+      - id: 225065 # Torchbearer's Haversack [subclass=5 back]
+        costs:
+          2803: 2500
+
+      - id: 211005 # Cave Topographer's Drape [cloak]
+        costs:
+          2803: 500
+
+      - id: 211062 # Treasure-Seeker's Shawl [cloak]
+        costs:
+          2803: 500
+
+      - id: 211007 # Torchbearer's Greatcloak [cloak]
+        costs:
+          2803: 500
+
+      - id: 211006 # Secret-Dredger's Cloak [cloak]
+        costs:
+          2803: 500
+
+      # 0
+
+      - id: 219356 # Torchlit Pickaxe [1h ? axe]
+        costs:
+          2803: 1250
+
+      - id: 211048 # Pathfinder's Stonecarver [1h ? sword]
+        costs:
+          2803: 1250
+
+      - id: 211047 # Lapidarius Gemcutter [? dagger]
+        costs:
+          2803: 1250
+
+      - id: 211046 # Umbral Artist's Chisel [? dagger]
+        costs:
+          2803: 1250
+
+      - id: 219355 # Bedrock Breaker [fist]
+        costs:
+          2803: 1250
+
+      - id: 219354 # Mountain Shaper's Greataxe [2h ? axe]
+        costs:
+          2803: 2500
+
+      - id: 219351 # Mana-Lined Slab Slicer [2h ? sword]
+        costs:
+          2803: 2500
+
+      - id: 211059 # Luminous Lampspire [staff]
+        costs:
+          2803: 2500
+
+      - id: 219352 # Skypiercing Drillstaff [staff]
+        costs:
+          2803: 2500
+
+      - id: 219353 # Trailblazer's Hookshoot [crossbow]
+        costs:
+          2803: 2500
+
+      - id: 211041 # Brilliant Beacon [off-hand]
+        costs:
+          2803: 1250
+
+      - id: 211040 # Unhinged Vault-Hatch [shield]
+        costs:
+          2803: 1250
