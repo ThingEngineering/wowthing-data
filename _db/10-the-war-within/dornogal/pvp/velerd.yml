@@ -1,0 +1,385 @@
+things:
+  - id: 219217
+    type: "vendor"
+    name: "Velerd"
+    note: "Honor Quartermaster"
+
+    locations:
+      here: # dornogal
+        - 55 76.4
+        - 55 76.6
+
+    groups:
+      - name: "Honor - Cloth"
+        range: 16
+        sortKey: "pvp-2-1"
+
+      - name: "Honor - Leather"
+        range: 16
+        sortKey: "pvp-2-2"
+
+      - name: "Honor - Mail"
+        range: 16
+        sortKey: "pvp-2-3"
+
+      - name: "Honor - Plate"
+        range: 16
+        sortKey: "pvp-2-4"
+
+      - name: "Honor - Cloaks"
+        range: 4
+        sortKey: "pvp-2-5"
+
+      - name: "Honor - Weapons"
+        range: -1
+        sortKey: "pvp-2-9"
+
+    contents:
+
+      # 0 set=3699
+
+      - id: 218402 # Forged Aspirant's Silk Cover [cloth head]
+        costs:
+          1792: 875
+
+      - id: 218370 # Forged Aspirant's Silk Hood [cloth head]
+        costs:
+          1792: 875
+
+      - id: 218379 # Forged Aspirant's Silk Mantle [cloth shoulders]
+        costs:
+          1792: 700
+
+      - id: 218411 # Forged Aspirant's Silk Shawl [cloth shoulders]
+        costs:
+          1792: 700
+
+      - id: 218358 # Forged Aspirant's Silk Robe [cloth chest]
+        costs:
+          1792: 875
+
+      - id: 218390 # Forged Aspirant's Silk Shirt [cloth chest]
+        costs:
+          1792: 875
+
+      - id: 218417 # Forged Aspirant's Silk Bindings [cloth wrists]
+        costs:
+          1792: 525
+
+      - id: 218385 # Forged Aspirant's Silk Wristwraps [cloth wrists]
+        costs:
+          1792: 525
+
+      - id: 218368 # Forged Aspirant's Silk Gloves [cloth hands]
+        costs:
+          1792: 700
+
+      - id: 218400 # Forged Aspirant's Silk Handwraps [cloth hands]
+        costs:
+          1792: 700
+
+      - id: 218414 # Forged Aspirant's Silk Belt [cloth waist]
+        costs:
+          1792: 700
+
+      - id: 218382 # Forged Aspirant's Silk Cord [cloth waist]
+        costs:
+          1792: 700
+
+      - id: 218374 # Forged Aspirant's Silk Leggings [cloth legs]
+        costs:
+          1792: 875
+
+      - id: 218406 # Forged Aspirant's Silk Legwraps [cloth legs]
+        costs:
+          1792: 875
+
+      - id: 218395 # Forged Aspirant's Silk Footwraps [cloth feet]
+        costs:
+          1792: 700
+
+      - id: 218363 # Forged Aspirant's Silk Treads [cloth feet]
+        costs:
+          1792: 700
+
+      # 0 set=3698
+
+      - id: 218372 # Forged Aspirant's Leather Helm [leather head]
+        costs:
+          1792: 875
+
+      - id: 218404 # Forged Aspirant's Leather Mask [leather head]
+        costs:
+          1792: 875
+
+      - id: 218409 # Forged Aspirant's Leather Mantle [leather shoulders]
+        costs:
+          1792: 700
+
+      - id: 218377 # Forged Aspirant's Leather Spaulders [leather shoulders]
+        costs:
+          1792: 700
+
+      - id: 218393 # Forged Aspirant's Leather Tunic [leather chest]
+        costs:
+          1792: 875
+
+      - id: 218361 # Forged Aspirant's Leather Vest [leather chest]
+        costs:
+          1792: 875
+
+      - id: 218420 # Forged Aspirant's Leather Armguards [leather wrists]
+        costs:
+          1792: 525
+
+      - id: 218388 # Forged Aspirant's Leather Wristwraps [leather wrists]
+        costs:
+          1792: 525
+
+      - id: 218366 # Forged Aspirant's Leather Gloves [leather hands]
+        costs:
+          1792: 700
+
+      - id: 218398 # Forged Aspirant's Leather Grips [leather hands]
+        costs:
+          1792: 700
+
+      - id: 218384 # Forged Aspirant's Leather Belt [leather waist]
+        costs:
+          1792: 700
+
+      - id: 218416 # Forged Aspirant's Leather Cord [leather waist]
+        costs:
+          1792: 700
+
+      - id: 218376 # Forged Aspirant's Leather Breeches [leather legs]
+        costs:
+          1792: 875
+
+      - id: 218408 # Forged Aspirant's Leather Leggings [leather legs]
+        costs:
+          1792: 875
+
+      - id: 218365 # Forged Aspirant's Leather Boots [leather feet]
+        costs:
+          1792: 700
+
+      - id: 218397 # Forged Aspirant's Leather Footpads [leather feet]
+        costs:
+          1792: 700
+
+      # 0 set=3697
+
+      - id: 218403 # Forged Aspirant's Chain Headguard [mail head]
+        costs:
+          1792: 875
+
+      - id: 218371 # Forged Aspirant's Chain Helm [mail head]
+        costs:
+          1792: 875
+
+      - id: 218412 # Forged Aspirant's Chain Shoulderguards [mail shoulders]
+        costs:
+          1792: 700
+
+      - id: 218380 # Forged Aspirant's Chain Spaulders [mail shoulders]
+        costs:
+          1792: 700
+
+      - id: 218392 # Forged Aspirant's Armored Tunic [mail chest]
+        costs:
+          1792: 875
+
+      - id: 218360 # Forged Aspirant's Armored Vest [mail chest]
+        costs:
+          1792: 875
+
+      - id: 218419 # Forged Aspirant's Chain Bracer [mail wrists]
+        costs:
+          1792: 525
+
+      - id: 218387 # Forged Aspirant's Chain Wristwraps [mail wrists]
+        costs:
+          1792: 525
+
+      - id: 218369 # Forged Aspirant's Chain Gauntlets [mail hands]
+        costs:
+          1792: 700
+
+      - id: 218401 # Forged Aspirant's Chain Handguards [mail hands]
+        costs:
+          1792: 700
+
+      - id: 218383 # Forged Aspirant's Chain Belt [mail waist]
+        costs:
+          1792: 700
+
+      - id: 218415 # Forged Aspirant's Chain Clasp [mail waist]
+        costs:
+          1792: 700
+
+      - id: 218375 # Forged Aspirant's Chain Leggings [mail legs]
+        costs:
+          1792: 875
+
+      - id: 218407 # Forged Aspirant's Chain Wargreaves [mail legs]
+        costs:
+          1792: 875
+
+      - id: 218364 # Forged Aspirant's Chain Sabatons [mail feet]
+        costs:
+          1792: 700
+
+      - id: 218396 # Forged Aspirant's Chain Stompers [mail feet]
+        costs:
+          1792: 700
+
+      # 0 set=3696
+
+      - id: 218389 # Forged Aspirant's Plate Headguard [plate head]
+        costs:
+          1792: 875
+
+      - id: 218357 # Forged Aspirant's Plate Helm [plate head]
+        costs:
+          1792: 875
+
+      - id: 218410 # Forged Aspirant's Plate Pauldrons [plate shoulders]
+        costs:
+          1792: 700
+
+      - id: 218378 # Forged Aspirant's Plate Shoulders [plate shoulders]
+        costs:
+          1792: 700
+
+      - id: 218359 # Forged Aspirant's Chestplate [plate chest]
+        costs:
+          1792: 875
+
+      - id: 218391 # Forged Aspirant's Plate Armor [plate chest]
+        costs:
+          1792: 875
+
+      - id: 218418 # Forged Aspirant's Plate Armguards [plate wrists]
+        costs:
+          1792: 525
+
+      - id: 218386 # Forged Aspirant's Plate Cuffs [plate wrists]
+        costs:
+          1792: 525
+
+      - id: 218367 # Forged Aspirant's Plate Gauntlets [plate hands]
+        costs:
+          1792: 700
+
+      - id: 218399 # Forged Aspirant's Plate Handguards [plate hands]
+        costs:
+          1792: 700
+
+      - id: 218381 # Forged Aspirant's Plate Girdle [plate waist]
+        costs:
+          1792: 700
+
+      - id: 218413 # Forged Aspirant's Plate Greatbelt [plate waist]
+        costs:
+          1792: 700
+
+      - id: 218373 # Forged Aspirant's Plate Legguards [plate legs]
+        costs:
+          1792: 875
+
+      - id: 218405 # Forged Aspirant's Plate Wargreaves [plate legs]
+        costs:
+          1792: 875
+
+      - id: 218394 # Forged Aspirant's Plate Stompers [plate feet]
+        costs:
+          1792: 700
+
+      - id: 218362 # Forged Aspirant's Plate Warboots [plate feet]
+        costs:
+          1792: 700
+
+      # 0 set=3697
+
+      - id: 218434 # Forged Aspirant's Cape [cloak]
+        costs:
+          1792: 525
+
+      - id: 218433 # Forged Aspirant's Cloak [cloak]
+        costs:
+          1792: 525
+
+      - id: 218432 # Forged Aspirant's Drape [cloak]
+        costs:
+          1792: 525
+
+      - id: 218435 # Forged Aspirant's Greatcloak [cloak]
+        costs:
+          1792: 525
+
+      # Weapons
+
+      - id: 218436 # Forged Aspirant's Battleaxe [1h ? axe]
+        costs:
+          1792: 875
+
+      - id: 218451 # Forged Aspirant's Chopper [1h ? axe]
+        costs:
+          1792: 875
+
+      - id: 218438 # Forged Aspirant's Mace [1h ? mace]
+        costs:
+          1792: 875
+
+      - id: 218448 # Forged Aspirant's Morningstar [1h ? mace]
+        costs:
+          1792: 875
+
+      - id: 218444 # Forged Aspirant's Scepter [1h ? mace]
+        costs:
+          1792: 1225
+
+      - id: 218437 # Forged Aspirant's Dagger [? dagger]
+        costs:
+          1792: 875
+
+      - id: 218449 # Forged Aspirant's Knife [? dagger]
+        costs:
+          1792: 1225
+
+      - id: 218443 # Forged Aspirant's Warglaive [warglaive]
+        costs:
+          1792: 875
+
+      - id: 218441 # Forged Aspirant's Greatsword [2h ? sword]
+        costs:
+          1792: 1750
+
+      - id: 218447 # Forged Aspirant's Halberd [polearm]
+        costs:
+          1792: 1750
+
+      - id: 218439 # Forged Aspirant's Polearm [polearm]
+        costs:
+          1792: 1750
+
+      - id: 218440 # Forged Aspirant's Staff [staff]
+        costs:
+          1792: 1750
+
+      - id: 218446 # Forged Aspirant's Rifle [gun]
+        costs:
+          1792: 1750
+
+      - id: 218452 # Forged Aspirant's Wand [wand]
+        costs:
+          1792: 1225
+
+      - id: 218442 # Forged Aspirant's Censer [off-hand]
+        costs:
+          1792: 525
+
+      - id: 218445 # Forged Aspirant's Shield [shield]
+        costs:
+          1792: 525

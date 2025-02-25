@@ -1,0 +1,1252 @@
+things:
+  - id: 219222
+    type: "vendor"
+    name: "Lalandi"
+    note: "Conquest Quartermaster"
+
+    locations:
+      here: # dornogal
+        - 55.2 76.2
+
+    groups:
+      - name: "Conquest - Death Knight"
+        range: 19
+        sortKey: "pvp-3-01"
+
+      - name: "Conquest - Demon Hunter"
+        range: 19
+        sortKey: "pvp-3-02"
+
+      - name: "Conquest - Druid"
+        range: 19
+        sortKey: "pvp-3-03"
+
+      - name: "Conquest - Evoker"
+        range: 19
+        sortKey: "pvp-3-04"
+
+      - name: "Conquest - Hunter"
+        range: 19
+        sortKey: "pvp-3-05"
+
+      - name: "Conquest - Mage"
+        range: 19
+        sortKey: "pvp-3-06"
+
+      - name: "Conquest - Monk"
+        range: 19
+        sortKey: "pvp-3-07"
+
+      - name: "Conquest - Paladin"
+        range: 19
+        sortKey: "pvp-3-08"
+
+      - name: "Conquest - Priest"
+        range: 19
+        sortKey: "pvp-3-09"
+
+      - name: "Conquest - Rogue"
+        range: 19
+        sortKey: "pvp-3-10"
+
+      - name: "Conquest - Shaman"
+        range: 19
+        sortKey: "pvp-3-11"
+
+      - name: "Conquest - Warlock"
+        range: 19
+        sortKey: "pvp-3-12"
+
+      - name: "Conquest - Warrior"
+        range: 19
+        sortKey: "pvp-3-13"
+
+      - name: "Conquest - Weapons"
+        range: -1
+        sortKey: "pvp-3-99"
+
+    contents:
+
+      # Death Knight set=3822
+
+      - id: 218656 # Forged Gladiator's Plate Helm [plate head]
+        costs:
+          1602: 875
+
+      - id: 218657 # Forged Gladiator's Plate Helmet [plate head]
+        costs:
+          1602: 875
+
+      - id: 218661 # Forged Gladiator's Plate Pauldrons [plate shoulders]
+        costs:
+          1602: 700
+
+      - id: 218660 # Forged Gladiator's Plate Shoulders [plate shoulders]
+        costs:
+          1602: 700
+
+      - id: 218666 # Forged Gladiator's Cloak [cloak]
+        costs:
+          1602: 525
+
+      - id: 218667 # Forged Gladiator's Drape [cloak]
+        costs:
+          1602: 525
+
+      - id: 218668 # Forged Gladiator's Shawl [cloak]
+        costs:
+          1602: 525
+
+      - id: 218650 # Forged Gladiator's Chestguard [plate chest]
+        costs:
+          1602: 875
+
+      - id: 218651 # Forged Gladiator's Chestplate [plate chest]
+        costs:
+          1602: 875
+
+      - id: 218665 # Forged Gladiator's Plate Vambraces [plate wrists]
+        costs:
+          1602: 525
+
+      - id: 218664 # Forged Gladiator's Plate Wristguards [plate wrists]
+        costs:
+          1602: 525
+
+      - id: 218654 # Forged Gladiator's Plate Gauntlets [plate hands]
+        costs:
+          1602: 700
+
+      - id: 218655 # Forged Gladiator's Plate Handguards [plate hands]
+        costs:
+          1602: 700
+
+      - id: 218662 # Forged Gladiator's Plate Girdle [plate waist]
+        costs:
+          1602: 700
+
+      - id: 218663 # Forged Gladiator's Plate Greatbelt [plate waist]
+        costs:
+          1602: 700
+
+      - id: 218658 # Forged Gladiator's Plate Legguards [plate legs]
+        costs:
+          1602: 875
+
+      - id: 218659 # Forged Gladiator's Plate Wargreaves [plate legs]
+        costs:
+          1602: 875
+
+      - id: 218653 # Forged Gladiator's Plate Stompers [plate feet]
+        costs:
+          1602: 700
+
+      - id: 218652 # Forged Gladiator's Plate Warboots [plate feet]
+        costs:
+          1602: 700
+
+      # Demon Hunter set=3823
+
+      - id: 218542 # Forged Gladiator's Leather Helm [leather head]
+        costs:
+          1602: 875
+
+      - id: 218543 # Forged Gladiator's Leather Mask [leather head]
+        costs:
+          1602: 875
+
+      - id: 218547 # Forged Gladiator's Leather Shoulderpads [leather shoulders]
+        costs:
+          1602: 700
+
+      - id: 218546 # Forged Gladiator's Leather Spaulders [leather shoulders]
+        costs:
+          1602: 700
+
+      - id: 218552 # Forged Gladiator's Cloak [cloak]
+        costs:
+          1602: 525
+
+      - id: 218553 # Forged Gladiator's Drape [cloak]
+        costs:
+          1602: 525
+
+      - id: 218554 # Forged Gladiator's Shawl [cloak]
+        costs:
+          1602: 525
+
+      - id: 218537 # Forged Gladiator's Leather Jerkin [leather chest]
+        costs:
+          1602: 875
+
+      - id: 218536 # Forged Gladiator's Leather Vest [leather chest]
+        costs:
+          1602: 875
+
+      - id: 218551 # Forged Gladiator's Leather Wristguards [leather wrists]
+        costs:
+          1602: 525
+
+      - id: 218550 # Forged Gladiator's Leather Wristwraps [leather wrists]
+        costs:
+          1602: 525
+
+      - id: 218540 # Forged Gladiator's Leather Gloves [leather hands]
+        costs:
+          1602: 700
+
+      - id: 218541 # Forged Gladiator's Leather Grips [leather hands]
+        costs:
+          1602: 700
+
+      - id: 218548 # Forged Gladiator's Leather Belt [leather waist]
+        costs:
+          1602: 700
+
+      - id: 218549 # Forged Gladiator's Leather Strap [leather waist]
+        costs:
+          1602: 700
+
+      - id: 218544 # Forged Gladiator's Leather Breeches [leather legs]
+        costs:
+          1602: 875
+
+      - id: 218545 # Forged Gladiator's Leather Legwraps [leather legs]
+        costs:
+          1602: 875
+
+      - id: 218538 # Forged Gladiator's Leather Boots [leather feet]
+        costs:
+          1602: 700
+
+      - id: 218539 # Forged Gladiator's Leather Treads [leather feet]
+        costs:
+          1602: 700
+
+      # Druid set=3824
+
+      - id: 218523 # Forged Gladiator's Leather Helm [leather head]
+        costs:
+          1602: 875
+
+      - id: 218524 # Forged Gladiator's Leather Mask [leather head]
+        costs:
+          1602: 875
+
+      - id: 218528 # Forged Gladiator's Leather Shoulderpads [leather shoulders]
+        costs:
+          1602: 700
+
+      - id: 218527 # Forged Gladiator's Leather Spaulders [leather shoulders]
+        costs:
+          1602: 700
+
+      - id: 218533 # Forged Gladiator's Cloak [cloak]
+        costs:
+          1602: 525
+
+      - id: 218534 # Forged Gladiator's Drape [cloak]
+        costs:
+          1602: 525
+
+      - id: 218535 # Forged Gladiator's Shawl [cloak]
+        costs:
+          1602: 525
+
+      - id: 218517 # Forged Gladiator's Leather Vest [leather chest]
+        costs:
+          1602: 875
+
+      - id: 218518 # Forged Gladiator's Leather Vestments [leather chest]
+        costs:
+          1602: 875
+
+      - id: 218532 # Forged Gladiator's Leather Wristguards [leather wrists]
+        costs:
+          1602: 525
+
+      - id: 218531 # Forged Gladiator's Leather Wristwraps [leather wrists]
+        costs:
+          1602: 525
+
+      - id: 218521 # Forged Gladiator's Leather Gloves [leather hands]
+        costs:
+          1602: 700
+
+      - id: 218522 # Forged Gladiator's Leather Grips [leather hands]
+        costs:
+          1602: 700
+
+      - id: 218529 # Forged Gladiator's Leather Belt [leather waist]
+        costs:
+          1602: 700
+
+      - id: 218530 # Forged Gladiator's Leather Strap [leather waist]
+        costs:
+          1602: 700
+
+      - id: 218525 # Forged Gladiator's Leather Breeches [leather legs]
+        costs:
+          1602: 875
+
+      - id: 218526 # Forged Gladiator's Leather Legwraps [leather legs]
+        costs:
+          1602: 875
+
+      - id: 218519 # Forged Gladiator's Leather Boots [leather feet]
+        costs:
+          1602: 700
+
+      - id: 218520 # Forged Gladiator's Leather Treads [leather feet]
+        costs:
+          1602: 700
+
+      # Evoker set=3825
+
+      - id: 218600 # Forged Gladiator's Chain Faceguard [mail head]
+        costs:
+          1602: 875
+
+      - id: 218599 # Forged Gladiator's Chain Helm [mail head]
+        costs:
+          1602: 875
+
+      - id: 218603 # Forged Gladiator's Chain Monnion [mail shoulders]
+        costs:
+          1602: 700
+
+      - id: 218604 # Forged Gladiator's Chain Shoulderguard [mail shoulders]
+        costs:
+          1602: 700
+
+      - id: 218609 # Forged Gladiator's Cloak [cloak]
+        costs:
+          1602: 525
+
+      - id: 218610 # Forged Gladiator's Drape [cloak]
+        costs:
+          1602: 525
+
+      - id: 218611 # Forged Gladiator's Shawl [cloak]
+        costs:
+          1602: 525
+
+      - id: 218593 # Forged Gladiator's Armored Scales [mail chest]
+        costs:
+          1602: 875
+
+      - id: 218594 # Forged Gladiator's Scaleguard [mail chest]
+        costs:
+          1602: 875
+
+      - id: 218608 # Forged Gladiator's Chain Bracers [mail wrists]
+        costs:
+          1602: 525
+
+      - id: 218607 # Forged Gladiator's Chain Wristguards [mail wrists]
+        costs:
+          1602: 525
+
+      - id: 218597 # Forged Gladiator's Chain Gauntlets [mail hands]
+        costs:
+          1602: 700
+
+      - id: 218598 # Forged Gladiator's Chain Handguards [mail hands]
+        costs:
+          1602: 700
+
+      - id: 218605 # Forged Gladiator's Chain Belt [mail waist]
+        costs:
+          1602: 700
+
+      - id: 218606 # Forged Gladiator's Chain Girdle [mail waist]
+        costs:
+          1602: 700
+
+      - id: 218602 # Forged Gladiator's Chain Breeches [mail legs]
+        costs:
+          1602: 875
+
+      - id: 218601 # Forged Gladiator's Chain Leggings [mail legs]
+        costs:
+          1602: 875
+
+      - id: 218596 # Forged Gladiator's Chain Boots [mail feet]
+        costs:
+          1602: 700
+
+      - id: 218595 # Forged Gladiator's Chain Sabatons [mail feet]
+        costs:
+          1602: 700
+
+      # Hunter set=3826
+
+      - id: 218619 # Forged Gladiator's Chain Faceguard [mail head]
+        costs:
+          1602: 875
+
+      - id: 218618 # Forged Gladiator's Chain Helm [mail head]
+        costs:
+          1602: 875
+
+      - id: 218622 # Forged Gladiator's Chain Monnion [mail shoulders]
+        costs:
+          1602: 700
+
+      - id: 218623 # Forged Gladiator's Chain Shoulderguard [mail shoulders]
+        costs:
+          1602: 700
+
+      - id: 218628 # Forged Gladiator's Cloak [cloak]
+        costs:
+          1602: 525
+
+      - id: 218629 # Forged Gladiator's Drape [cloak]
+        costs:
+          1602: 525
+
+      - id: 218630 # Forged Gladiator's Shawl [cloak]
+        costs:
+          1602: 525
+
+      - id: 218613 # Forged Gladiator's Chain Tunic [mail chest]
+        costs:
+          1602: 875
+
+      - id: 218612 # Forged Gladiator's Chain Vest [mail chest]
+        costs:
+          1602: 875
+
+      - id: 218627 # Forged Gladiator's Chain Bracers [mail wrists]
+        costs:
+          1602: 525
+
+      - id: 218626 # Forged Gladiator's Chain Wristguards [mail wrists]
+        costs:
+          1602: 525
+
+      - id: 218616 # Forged Gladiator's Chain Gauntlets [mail hands]
+        costs:
+          1602: 700
+
+      - id: 218617 # Forged Gladiator's Chain Handguards [mail hands]
+        costs:
+          1602: 700
+
+      - id: 218624 # Forged Gladiator's Chain Belt [mail waist]
+        costs:
+          1602: 700
+
+      - id: 218625 # Forged Gladiator's Chain Girdle [mail waist]
+        costs:
+          1602: 700
+
+      - id: 218621 # Forged Gladiator's Chain Breeches [mail legs]
+        costs:
+          1602: 875
+
+      - id: 218620 # Forged Gladiator's Chain Leggings [mail legs]
+        costs:
+          1602: 875
+
+      - id: 218615 # Forged Gladiator's Chain Boots [mail feet]
+        costs:
+          1602: 700
+
+      - id: 218614 # Forged Gladiator's Chain Sabatons [mail feet]
+        costs:
+          1602: 700
+
+      # Mage set=3821
+
+      - id: 218467 # Forged Gladiator's Silk Cap [cloth head]
+        costs:
+          1602: 875
+
+      - id: 218466 # Forged Gladiator's Silk Hat [cloth head]
+        costs:
+          1602: 875
+
+      - id: 218471 # Forged Gladiator's Silk Amice [cloth shoulders]
+        costs:
+          1602: 700
+
+      - id: 218470 # Forged Gladiator's Silk Mantle [cloth shoulders]
+        costs:
+          1602: 700
+
+      - id: 218476 # Forged Gladiator's Cloak [cloak]
+        costs:
+          1602: 525
+
+      - id: 218477 # Forged Gladiator's Drape [cloak]
+        costs:
+          1602: 525
+
+      - id: 218478 # Forged Gladiator's Shawl [cloak]
+        costs:
+          1602: 525
+
+      - id: 218461 # Forged Gladiator's Silk Blouse [cloth chest]
+        costs:
+          1602: 875
+
+      - id: 218460 # Forged Gladiator's Silk Tunic [cloth chest]
+        costs:
+          1602: 875
+
+      - id: 218475 # Forged Gladiator's Silk Armbands [cloth wrists]
+        costs:
+          1602: 525
+
+      - id: 218474 # Forged Gladiator's Silk Wristwraps [cloth wrists]
+        costs:
+          1602: 525
+
+      - id: 218464 # Forged Gladiator's Silk Gloves [cloth hands]
+        costs:
+          1602: 700
+
+      - id: 218465 # Forged Gladiator's Silk Handwraps [cloth hands]
+        costs:
+          1602: 700
+
+      - id: 218473 # Forged Gladiator's Silk Belt [cloth waist]
+        costs:
+          1602: 700
+
+      - id: 218472 # Forged Gladiator's Silk Cord [cloth waist]
+        costs:
+          1602: 700
+
+      - id: 218468 # Forged Gladiator's Silk Leggings [cloth legs]
+        costs:
+          1602: 875
+
+      - id: 218469 # Forged Gladiator's Silk Trousers [cloth legs]
+        costs:
+          1602: 875
+
+      - id: 218462 # Forged Gladiator's Silk Slippers [cloth feet]
+        costs:
+          1602: 700
+
+      - id: 218463 # Forged Gladiator's Silk Treads [cloth feet]
+        costs:
+          1602: 700
+
+      # Monk set=3827
+
+      - id: 218561 # Forged Gladiator's Leather Helm [leather head]
+        costs:
+          1602: 875
+
+      - id: 218562 # Forged Gladiator's Leather Mask [leather head]
+        costs:
+          1602: 875
+
+      - id: 218566 # Forged Gladiator's Leather Shoulderpads [leather shoulders]
+        costs:
+          1602: 700
+
+      - id: 218565 # Forged Gladiator's Leather Spaulders [leather shoulders]
+        costs:
+          1602: 700
+
+      - id: 218571 # Forged Gladiator's Cloak [cloak]
+        costs:
+          1602: 525
+
+      - id: 218572 # Forged Gladiator's Drape [cloak]
+        costs:
+          1602: 525
+
+      - id: 218573 # Forged Gladiator's Shawl [cloak]
+        costs:
+          1602: 525
+
+      - id: 218556 # Forged Gladiator's Leather Jerkin [leather chest]
+        costs:
+          1602: 875
+
+      - id: 218555 # Forged Gladiator's Leather Vest [leather chest]
+        costs:
+          1602: 875
+
+      - id: 218570 # Forged Gladiator's Leather Wristguards [leather wrists]
+        costs:
+          1602: 525
+
+      - id: 218569 # Forged Gladiator's Leather Wristwraps [leather wrists]
+        costs:
+          1602: 525
+
+      - id: 218559 # Forged Gladiator's Leather Gloves [leather hands]
+        costs:
+          1602: 700
+
+      - id: 218560 # Forged Gladiator's Leather Grips [leather hands]
+        costs:
+          1602: 700
+
+      - id: 218567 # Forged Gladiator's Leather Belt [leather waist]
+        costs:
+          1602: 700
+
+      - id: 218568 # Forged Gladiator's Leather Strap [leather waist]
+        costs:
+          1602: 700
+
+      - id: 218563 # Forged Gladiator's Leather Breeches [leather legs]
+        costs:
+          1602: 875
+
+      - id: 218564 # Forged Gladiator's Leather Legwraps [leather legs]
+        costs:
+          1602: 875
+
+      - id: 218557 # Forged Gladiator's Leather Boots [leather feet]
+        costs:
+          1602: 700
+
+      - id: 218558 # Forged Gladiator's Leather Treads [leather feet]
+        costs:
+          1602: 700
+
+      # Paladin set=3828
+
+      - id: 218675 # Forged Gladiator's Plate Helm [plate head]
+        costs:
+          1602: 875
+
+      - id: 218676 # Forged Gladiator's Plate Helmet [plate head]
+        costs:
+          1602: 875
+
+      - id: 218680 # Forged Gladiator's Plate Pauldrons [plate shoulders]
+        costs:
+          1602: 700
+
+      - id: 218679 # Forged Gladiator's Plate Shoulders [plate shoulders]
+        costs:
+          1602: 700
+
+      - id: 218685 # Forged Gladiator's Cloak [cloak]
+        costs:
+          1602: 525
+
+      - id: 218686 # Forged Gladiator's Drape [cloak]
+        costs:
+          1602: 525
+
+      - id: 218687 # Forged Gladiator's Shawl [cloak]
+        costs:
+          1602: 525
+
+      - id: 218669 # Forged Gladiator's Chestguard [plate chest]
+        costs:
+          1602: 875
+
+      - id: 218670 # Forged Gladiator's Chestplate [plate chest]
+        costs:
+          1602: 875
+
+      - id: 218684 # Forged Gladiator's Plate Vambraces [plate wrists]
+        costs:
+          1602: 525
+
+      - id: 218683 # Forged Gladiator's Plate Wristguards [plate wrists]
+        costs:
+          1602: 525
+
+      - id: 218673 # Forged Gladiator's Plate Gauntlets [plate hands]
+        costs:
+          1602: 700
+
+      - id: 218674 # Forged Gladiator's Plate Handguards [plate hands]
+        costs:
+          1602: 700
+
+      - id: 218681 # Forged Gladiator's Plate Girdle [plate waist]
+        costs:
+          1602: 700
+
+      - id: 218682 # Forged Gladiator's Plate Greatbelt [plate waist]
+        costs:
+          1602: 700
+
+      - id: 218677 # Forged Gladiator's Plate Legguards [plate legs]
+        costs:
+          1602: 875
+
+      - id: 218678 # Forged Gladiator's Plate Tasses [plate legs]
+        costs:
+          1602: 875
+
+      - id: 218672 # Forged Gladiator's Plate Stompers [plate feet]
+        costs:
+          1602: 700
+
+      - id: 218671 # Forged Gladiator's Plate Warboots [plate feet]
+        costs:
+          1602: 700
+
+      # Priest set=3829
+
+      - id: 218486 # Forged Gladiator's Silk Guise [cloth head]
+        costs:
+          1602: 875
+
+      - id: 218485 # Forged Gladiator's Silk Hood [cloth head]
+        costs:
+          1602: 875
+
+      - id: 218490 # Forged Gladiator's Silk Amice [cloth shoulders]
+        costs:
+          1602: 700
+
+      - id: 218489 # Forged Gladiator's Silk Mantle [cloth shoulders]
+        costs:
+          1602: 700
+
+      - id: 218495 # Forged Gladiator's Cloak [cloak]
+        costs:
+          1602: 525
+
+      - id: 218496 # Forged Gladiator's Drape [cloak]
+        costs:
+          1602: 525
+
+      - id: 218497 # Forged Gladiator's Shawl [cloak]
+        costs:
+          1602: 525
+
+      - id: 218479 # Forged Gladiator's Silk Robes [cloth chest]
+        costs:
+          1602: 875
+
+      - id: 218480 # Forged Gladiator's Silk Vestments [cloth chest]
+        costs:
+          1602: 875
+
+      - id: 218494 # Forged Gladiator's Silk Armbands [cloth wrists]
+        costs:
+          1602: 525
+
+      - id: 218493 # Forged Gladiator's Silk Wristwraps [cloth wrists]
+        costs:
+          1602: 525
+
+      - id: 218483 # Forged Gladiator's Silk Gloves [cloth hands]
+        costs:
+          1602: 700
+
+      - id: 218484 # Forged Gladiator's Silk Handwraps [cloth hands]
+        costs:
+          1602: 700
+
+      - id: 218492 # Forged Gladiator's Silk Belt [cloth waist]
+        costs:
+          1602: 700
+
+      - id: 218491 # Forged Gladiator's Silk Cord [cloth waist]
+        costs:
+          1602: 700
+
+      - id: 218487 # Forged Gladiator's Silk Leggings [cloth legs]
+        costs:
+          1602: 875
+
+      - id: 218488 # Forged Gladiator's Silk Trousers [cloth legs]
+        costs:
+          1602: 875
+
+      - id: 218481 # Forged Gladiator's Silk Slippers [cloth feet]
+        costs:
+          1602: 700
+
+      - id: 218482 # Forged Gladiator's Silk Treads [cloth feet]
+        costs:
+          1602: 700
+
+      # Rogue set=3830
+
+      - id: 218580 # Forged Gladiator's Leather Helm [leather head]
+        costs:
+          1602: 875
+
+      - id: 218581 # Forged Gladiator's Leather Mask [leather head]
+        costs:
+          1602: 875
+
+      - id: 218585 # Forged Gladiator's Leather Shoulderpads [leather shoulders]
+        costs:
+          1602: 700
+
+      - id: 218584 # Forged Gladiator's Leather Spaulders [leather shoulders]
+        costs:
+          1602: 700
+
+      - id: 218590 # Forged Gladiator's Cloak [cloak]
+        costs:
+          1602: 525
+
+      - id: 218591 # Forged Gladiator's Drape [cloak]
+        costs:
+          1602: 525
+
+      - id: 218592 # Forged Gladiator's Shawl [cloak]
+        costs:
+          1602: 525
+
+      - id: 218575 # Forged Gladiator's Leather Jerkin [leather chest]
+        costs:
+          1602: 875
+
+      - id: 218574 # Forged Gladiator's Leather Vest [leather chest]
+        costs:
+          1602: 875
+
+      - id: 218589 # Forged Gladiator's Leather Wristguards [leather wrists]
+        costs:
+          1602: 525
+
+      - id: 218588 # Forged Gladiator's Leather Wristwraps [leather wrists]
+        costs:
+          1602: 525
+
+      - id: 218578 # Forged Gladiator's Leather Gloves [leather hands]
+        costs:
+          1602: 700
+
+      - id: 218579 # Forged Gladiator's Leather Grips [leather hands]
+        costs:
+          1602: 700
+
+      - id: 218586 # Forged Gladiator's Leather Belt [leather waist]
+        costs:
+          1602: 700
+
+      - id: 218587 # Forged Gladiator's Leather Strap [leather waist]
+        costs:
+          1602: 700
+
+      - id: 218582 # Forged Gladiator's Leather Breeches [leather legs]
+        costs:
+          1602: 875
+
+      - id: 218583 # Forged Gladiator's Leather Legwraps [leather legs]
+        costs:
+          1602: 875
+
+      - id: 218576 # Forged Gladiator's Leather Boots [leather feet]
+        costs:
+          1602: 700
+
+      - id: 218577 # Forged Gladiator's Leather Treads [leather feet]
+        costs:
+          1602: 700
+
+      # Shaman set=3831
+
+      - id: 218638 # Forged Gladiator's Chain Faceguard [mail head]
+        costs:
+          1602: 875
+
+      - id: 218637 # Forged Gladiator's Chain Helm [mail head]
+        costs:
+          1602: 875
+
+      - id: 218641 # Forged Gladiator's Chain Monnion [mail shoulders]
+        costs:
+          1602: 700
+
+      - id: 218642 # Forged Gladiator's Chain Shoulderguard [mail shoulders]
+        costs:
+          1602: 700
+
+      - id: 218647 # Forged Gladiator's Cloak [cloak]
+        costs:
+          1602: 525
+
+      - id: 218648 # Forged Gladiator's Drape [cloak]
+        costs:
+          1602: 525
+
+      - id: 218649 # Forged Gladiator's Shawl [cloak]
+        costs:
+          1602: 525
+
+      - id: 218632 # Forged Gladiator's Chain Tunic [mail chest]
+        costs:
+          1602: 875
+
+      - id: 218631 # Forged Gladiator's Chain Vest [mail chest]
+        costs:
+          1602: 875
+
+      - id: 218646 # Forged Gladiator's Chain Bracers [mail wrists]
+        costs:
+          1602: 525
+
+      - id: 218645 # Forged Gladiator's Chain Wristguards [mail wrists]
+        costs:
+          1602: 525
+
+      - id: 218635 # Forged Gladiator's Chain Gauntlets [mail hands]
+        costs:
+          1602: 700
+
+      - id: 218636 # Forged Gladiator's Chain Handguards [mail hands]
+        costs:
+          1602: 700
+
+      - id: 218643 # Forged Gladiator's Chain Belt [mail waist]
+        costs:
+          1602: 700
+
+      - id: 218644 # Forged Gladiator's Chain Girdle [mail waist]
+        costs:
+          1602: 700
+
+      - id: 218640 # Forged Gladiator's Chain Breeches [mail legs]
+        costs:
+          1602: 875
+
+      - id: 218639 # Forged Gladiator's Chain Leggings [mail legs]
+        costs:
+          1602: 875
+
+      - id: 218634 # Forged Gladiator's Chain Boots [mail feet]
+        costs:
+          1602: 700
+
+      - id: 218633 # Forged Gladiator's Chain Sabatons [mail feet]
+        costs:
+          1602: 700
+
+      # Warlock set=3833
+
+      - id: 218505 # Forged Gladiator's Silk Guise [cloth head]
+        costs:
+          1602: 875
+
+      - id: 218504 # Forged Gladiator's Silk Hood [cloth head]
+        costs:
+          1602: 875
+
+      - id: 218509 # Forged Gladiator's Silk Amice [cloth shoulders]
+        costs:
+          1602: 700
+
+      - id: 218508 # Forged Gladiator's Silk Mantle [cloth shoulders]
+        costs:
+          1602: 700
+
+      - id: 218514 # Forged Gladiator's Cloak [cloak]
+        costs:
+          1602: 525
+
+      - id: 218515 # Forged Gladiator's Drape [cloak]
+        costs:
+          1602: 525
+
+      - id: 218516 # Forged Gladiator's Shawl [cloak]
+        costs:
+          1602: 525
+
+      - id: 218498 # Forged Gladiator's Silk Raiment [cloth chest]
+        costs:
+          1602: 875
+
+      - id: 218499 # Forged Gladiator's Silk Vestments [cloth chest]
+        costs:
+          1602: 875
+
+      - id: 218513 # Forged Gladiator's Silk Armbands [cloth wrists]
+        costs:
+          1602: 525
+
+      - id: 218512 # Forged Gladiator's Silk Wristwraps [cloth wrists]
+        costs:
+          1602: 525
+
+      - id: 218502 # Forged Gladiator's Silk Gloves [cloth hands]
+        costs:
+          1602: 700
+
+      - id: 218503 # Forged Gladiator's Silk Handwraps [cloth hands]
+        costs:
+          1602: 700
+
+      - id: 218511 # Forged Gladiator's Silk Belt [cloth waist]
+        costs:
+          1602: 700
+
+      - id: 218510 # Forged Gladiator's Silk Cord [cloth waist]
+        costs:
+          1602: 700
+
+      - id: 218506 # Forged Gladiator's Silk Leggings [cloth legs]
+        costs:
+          1602: 875
+
+      - id: 218507 # Forged Gladiator's Silk Trousers [cloth legs]
+        costs:
+          1602: 875
+
+      - id: 218500 # Forged Gladiator's Silk Slippers [cloth feet]
+        costs:
+          1602: 700
+
+      - id: 218501 # Forged Gladiator's Silk Treads [cloth feet]
+        costs:
+          1602: 700
+
+      # Warrior set=3832
+
+      - id: 218694 # Forged Gladiator's Plate Helm [plate head]
+        costs:
+          1602: 875
+
+      - id: 218695 # Forged Gladiator's Plate Helmet [plate head]
+        costs:
+          1602: 875
+
+      - id: 218699 # Forged Gladiator's Plate Pauldrons [plate shoulders]
+        costs:
+          1602: 700
+
+      - id: 218698 # Forged Gladiator's Plate Shoulders [plate shoulders]
+        costs:
+          1602: 700
+
+      - id: 218704 # Forged Gladiator's Cloak [cloak]
+        costs:
+          1602: 525
+
+      - id: 218705 # Forged Gladiator's Drape [cloak]
+        costs:
+          1602: 525
+
+      - id: 218706 # Forged Gladiator's Shawl [cloak]
+        costs:
+          1602: 525
+
+      - id: 218688 # Forged Gladiator's Chestguard [plate chest]
+        costs:
+          1602: 875
+
+      - id: 218689 # Forged Gladiator's Chestplate [plate chest]
+        costs:
+          1602: 875
+
+      - id: 218703 # Forged Gladiator's Plate Vambraces [plate wrists]
+        costs:
+          1602: 525
+
+      - id: 218702 # Forged Gladiator's Plate Wristguards [plate wrists]
+        costs:
+          1602: 525
+
+      - id: 218692 # Forged Gladiator's Plate Gauntlets [plate hands]
+        costs:
+          1602: 700
+
+      - id: 218693 # Forged Gladiator's Plate Handguards [plate hands]
+        costs:
+          1602: 700
+
+      - id: 218700 # Forged Gladiator's Plate Girdle [plate waist]
+        costs:
+          1602: 700
+
+      - id: 218701 # Forged Gladiator's Plate Greatbelt [plate waist]
+        costs:
+          1602: 700
+
+      - id: 218696 # Forged Gladiator's Plate Legguards [plate legs]
+        costs:
+          1602: 875
+
+      - id: 218697 # Forged Gladiator's Plate Wargreaves [plate legs]
+        costs:
+          1602: 875
+
+      - id: 218691 # Forged Gladiator's Plate Stompers [plate feet]
+        costs:
+          1602: 700
+
+      - id: 218690 # Forged Gladiator's Plate Warboots [plate feet]
+        costs:
+          1602: 700
+
+      # 0 set=4190
+
+      - id: 218736 # Forged Gladiator's Skewer [1h ? sword]
+        costs:
+          1602: 900
+
+      - id: 218736 # Forged Gladiator's Skewer [1h ? sword]
+        costs:
+          1232603: 1
+
+      - id: 218735 # Forged Gladiator's Sword [1h ? sword]
+        costs:
+          1602: 900
+
+      - id: 218735 # Forged Gladiator's Sword [1h ? sword]
+        costs:
+          1232603: 1
+
+      - id: 218727 # Forged Gladiator's Axe [1h ? axe]
+        costs:
+          1602: 875
+
+      - id: 218727 # Forged Gladiator's Axe [1h ? axe]
+        costs:
+          1232603: 1
+
+      - id: 218718 # Forged Gladiator's Splitter [1h ? axe]
+        costs:
+          1602: 875
+
+      - id: 218718 # Forged Gladiator's Splitter [1h ? axe]
+        costs:
+          1232603: 1
+
+      - id: 218724 # Forged Gladiator's Scepter [1h ? mace]
+        costs:
+          1602: 1225
+
+      - id: 218724 # Forged Gladiator's Scepter [1h ? mace]
+        costs:
+          1232603: 1
+
+      - id: 218719 # Forged Gladiator's Dagger [? dagger]
+        costs:
+          1602: 875
+
+      - id: 218719 # Forged Gladiator's Dagger [? dagger]
+        costs:
+          1232603: 1
+
+      - id: 218728 # Forged Gladiator's Pincer [? dagger]
+        costs:
+          1602: 1225
+
+      - id: 218728 # Forged Gladiator's Pincer [? dagger]
+        costs:
+          1232603: 1
+
+      - id: 218729 # Forged Gladiator's Claws [fist]
+        costs:
+          1602: 875
+
+      - id: 218729 # Forged Gladiator's Claws [fist]
+        costs:
+          1232603: 1
+
+      - id: 218720 # Forged Gladiator's Warglaive [warglaive]
+        costs:
+          1602: 875
+
+      - id: 218720 # Forged Gladiator's Warglaive [warglaive]
+        costs:
+          1232603: 1
+
+      - id: 218733 # Forged Gladiator's Greataxe [2h ? axe]
+        costs:
+          1602: 1750
+
+      - id: 218733 # Forged Gladiator's Greataxe [2h ? axe]
+        costs:
+          1232603: 1
+
+      - id: 218733 # Forged Gladiator's Greataxe [2h ? axe]
+        costs:
+          1232603: 2
+
+      - id: 218734 # Forged Gladiator's Pulverizer [2h ? mace]
+        costs:
+          1602: 1750
+
+      - id: 218734 # Forged Gladiator's Pulverizer [2h ? mace]
+        costs:
+          1232603: 1
+
+      - id: 218734 # Forged Gladiator's Pulverizer [2h ? mace]
+        costs:
+          1232603: 2
+
+      - id: 218721 # Forged Gladiator's Spear [polearm]
+        costs:
+          1602: 1750
+
+      - id: 218721 # Forged Gladiator's Spear [polearm]
+        costs:
+          1232603: 2
+
+      - id: 218737 # Forged Gladiator's Battlestaff [staff]
+        costs:
+          1602: 1750
+
+      - id: 218737 # Forged Gladiator's Battlestaff [staff]
+        costs:
+          1232603: 2
+
+      - id: 218731 # Forged Gladiator's Greatstaff [staff]
+        costs:
+          1602: 1750
+
+      - id: 218731 # Forged Gladiator's Greatstaff [staff]
+        costs:
+          1232603: 2
+
+      - id: 218722 # Forged Gladiator's Staff [staff]
+        costs:
+          1602: 1750
+
+      - id: 218722 # Forged Gladiator's Staff [staff]
+        costs:
+          1232603: 2
+
+      - id: 218723 # Forged Gladiator's Bow [bow]
+        costs:
+          1602: 1750
+
+      - id: 218723 # Forged Gladiator's Bow [bow]
+        costs:
+          1232603: 2
+
+      - id: 218730 # Forged Gladiator's Crossbow [crossbow]
+        costs:
+          1602: 1750
+
+      - id: 218730 # Forged Gladiator's Crossbow [crossbow]
+        costs:
+          1232603: 2
+
+      - id: 218725 # Forged Gladiator's Focus [off-hand]
+        costs:
+          1602: 525
+
+      - id: 218725 # Forged Gladiator's Focus [off-hand]
+        costs:
+          1232603: 1
+
+      - id: 218732 # Forged Gladiator's Bulwark [shield]
+        costs:
+          1602: 525
+
+      - id: 218732 # Forged Gladiator's Bulwark [shield]
+        costs:
+          1232603: 1
+
+      - id: 218726 # Forged Gladiator's Shield [shield]
+        costs:
+          1602: 525
+
+      - id: 218726 # Forged Gladiator's Shield [shield]
+        costs:
+          1232603: 1
