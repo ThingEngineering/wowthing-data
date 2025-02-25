@@ -13,7 +13,7 @@ things:
         range: 10
 
       - name: "S31 - Gladiator"
-        range: 7
+        range: 6
 
       - name: "S32/33 - Gladiator"
         range: -1
