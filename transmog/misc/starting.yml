@@ -1,0 +1,35 @@
+name: "Starting"
+groups:
+
+- name: "Starting Gear"
+  type: class
+  sets:
+    - "Goblin"
+  data:
+    hunter:
+      - name: "Goblin Trapper"
+        wowheadSetId:
+        itemsV2:
+          - 49502 # Goblin Trapper's Shirt
+          - 49503 # Goblin Trapper's Pants
+          - 49504 # Goblin Trapper's Boots
+          - 2508 # Old Blunderbuss
+
+    mage:
+      - name: "Goblin Apprentice"
+        wowheadSetId:
+        itemsV2:
+          - 49505 # Goblin Apprentice's Shirt
+          - 49506 # Goblin Apprentice's Pants
+          - 49508 # Goblin Apprentice's Boots
+          - 35 # Bent Staff
+
+    rogue:
+      - name: "Goblin Thug"
+        wowheadSetId:
+        itemsV2:
+          - 49514 # Goblin Thug's Tunic
+          - 49515 # Goblin Thug's Pants
+          - 49516 # Goblin Thug's Boots
+          - 36 # Worn Mace
+          - 50055 # Worn Dirk
