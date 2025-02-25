@@ -14,36 +14,36 @@ groups:
     death-knight:
       # Exhumed Centurion's Relics [Mythic]
       - transmogSetId: 3719
-        wowheadSetId:
+        wowheadSetId: 12390
 
       # Exhumed Centurion's Relics [Heroic]
       - transmogSetId: 3718
-        wowheadSetId:
+        wowheadSetId: 12385
 
       # Exhumed Centurion's Relics [Normal]
       - transmogSetId: 3711
-        wowheadSetId:
+        wowheadSetId: 12386
 
       # Exhumed Centurion's Relics [Raid Finder]
       - transmogSetId: 3720
-        wowheadSetId:
+        wowheadSetId: 12391
 
     demon-hunter:
       # Husk of the Hypogeal Nemesis [Mythic]
       - transmogSetId: 3722
-        wowheadSetId:
+        wowheadSetId: 12392
 
       # Husk of the Hypogeal Nemesis [Heroic]
       - transmogSetId: 3721
-        wowheadSetId:
+        wowheadSetId: 12350
 
       # Husk of the Hypogeal Nemesis [Normal]
       - transmogSetId: 3723
-        wowheadSetId:
+        wowheadSetId: 12383
 
       # Husk of the Hypogeal Nemesis [Raid Finder]
       - transmogSetId: 3724
-        wowheadSetId:
+        wowheadSetId: 12393
 
     druid:
       # Mane of the Greatlynx [Mythic]
@@ -99,19 +99,19 @@ groups:
     mage:
       # Sparks of Violet Rebirth [Mythic]
       - transmogSetId: 3738
-        wowheadSetId:
+        wowheadSetId: 12408
 
       # Sparks of Violet Rebirth [Heroic]
       - transmogSetId: 3737
-        wowheadSetId:
+        wowheadSetId: 12409
 
       # Sparks of Violet Rebirth [Normal]
       - transmogSetId: 3739
-        wowheadSetId:
+        wowheadSetId: 12410
 
       # Sparks of Violet Rebirth [Raid Finder]
       - transmogSetId: 3740
-        wowheadSetId:
+        wowheadSetId: 12411
 
     monk:
       # Gatecrasher's Fortitude [Mythic]
