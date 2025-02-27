@@ -2,6 +2,50 @@ name: "The War Within"
 minimumLevel: 70
 reputations:
 
+# 11.1
+-
+  - both:
+      id: 2673 # Bilgewater Cartel
+      icon: "item/229935" # Crimson Armored Growler
+      iconText: "Bilge"
+
+  - both:
+      id: 2675 # Blackwater Cartel
+      icon: "item/229948" # Blackwater Shredder Deluxe Mk 2
+      iconText: "Black"
+
+  - both:
+      id: 2677 # Steamwheedle Cartel
+      icon: "item/229956" # Mean Green Flying Machine
+      iconText: "Steam"
+
+  - both:
+      id: 2671 # Venture Company
+      icon: "item/229946" # Ocher Delivery Rocket
+      iconText: "Vent"
+
+  - both:
+      id: 2669 # Darkfuse Solutions
+      icon: "achievement/41350" # A Long Fuse
+      iconText: "Dark"
+
+# 11.0 Friends
+-
+  - both:
+      id: 2605 # The General
+      icon: "achievement/40875" # True Strength
+      iconText: "Gen"
+
+  - both:
+      id: 2607 # The Vizier
+      icon: "achievement/40876" # Vox Arachni
+      iconText: "Viz"
+
+  - both:
+      id: 2601 # The Weaver
+      icon: "achievement/40874" # The Grand Tapestry
+      iconText: "Weav"
+
 # 11.0
 -
   - both:
@@ -24,23 +68,6 @@ reputations:
       icon: "achievement/40838" # The Severed Threads
       iconText: "ST"
 
-# 11.0 Friends
--
-  - both:
-      id: 2605 # The General
-      icon: "achievement/40875" # True Strength
-      iconText: "Gen"
-
-  - both:
-      id: 2607 # The Vizier
-      icon: "achievement/40876" # Vox Arachni
-      iconText: "Viz"
-
-  - both:
-      id: 2601 # The Weaver
-      icon: "achievement/40874" # The Grand Tapestry
-      iconText: "Weav"
-
 -
   - both:
       id: 2640 # Brann Bronzebeard    
@@ -50,4 +77,9 @@ reputations:
   - both:
       id: 2644 # Delves: Season 1
       icon: "achievement/40103" # Nemesis
-      iconText: "Delve"
+      iconText: "S1"
+
+  - both:
+      id: 2683 # Delves: Season 2
+      icon: "achievement/41530" # My New Nemesis
+      iconText: "S2"
