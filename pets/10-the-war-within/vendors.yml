@@ -25,3 +25,16 @@ groups:
 - name: "Siren Isle"
   things:
     - 4727 # Skitterbite
+
+- name: "Undermine"
+  things:
+    - 4645 # Bilgewater Junkhauler
+    - 4649 # Blackwater Kegmover
+    - 4638 # Crimson Mechasaur
+    - 4632 # Eepy
+    - 4661 # Mechagopher
+    - 4644 # Professor Punch
+    - 4641 # Rocketfist
+    - 4648 # Steamwheedle Flunkie
+    - 4650 # Venture Companyman
+    - 4637 # Wavebreaker Mechasaur

@@ -106,3 +106,19 @@ groups:
     - 4711 # Snapdragon Pup
     - 4731 # Storm-Infused Snapdragon
     - 4628 # Tidal Kroling
+
+- name: "Undermine"
+  things:
+    - 4652 # Acid-Drenched Rat
+    - 4693 # Alchemical Runoff
+    - 4656 # Bombshell Crab
+    - 4658 # Cave Crab
+    - 4663 # Lime Roboclucker
+    - 4660 # Paleshell Crab
+    - 4667 # Spring-Loaded Ribbitron
+    - 4668 # Ultrahopper EX
+    - 4654 # Underroach
+    - 4662 # Varmint MK II
+    - 4657 # Venture Bombshell
+    - 4651 # Wily Rat
+ 
