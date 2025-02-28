@@ -1,12 +1,183 @@
 name: PvP
 groups:
 
+- name: "The War Within Season 2"
+  tag: "S39"
+  type: class
+  sets:
+    - "Elite Armor*"
+    - "Gladiator Armor"
+  data:
+    death-knight:
+      # Prized Gladiator's Plate Armor [Elite]
+      - transmogSetId: 4019
+        wowheadSetId:
+
+      # Prized Gladiator's Plate Armor [Gladiator]
+      - transmogSetId: 4006
+        wowheadSetId:
+
+    demon-hunter:
+      # Prized Gladiator's Leather Armor [Elite]
+      - transmogSetId: 4020
+        wowheadSetId:
+
+      # Prized Gladiator's Leather Armor [Gladiator]
+      - transmogSetId: 4007
+        wowheadSetId:
+
+    druid:
+      # Prized Gladiator's Leather Armor [Elite]
+      - transmogSetId: 4021
+        wowheadSetId:
+
+      # Prized Gladiator's Leather Armor [Gladiator]
+      - transmogSetId: 4008
+        wowheadSetId:
+
+    evoker:
+      # Prized Gladiator's Chain Armor [Elite]
+      - transmogSetId: 4022
+        wowheadSetId:
+
+      # Prized Gladiator's Chain Armor [Gladiator]
+      - transmogSetId: 4009
+        wowheadSetId:
+
+    hunter:
+      # Prized Gladiator's Chain Armor [Elite]
+      - transmogSetId: 4023
+        wowheadSetId:
+
+      # Prized Gladiator's Chain Armor [Gladiator]
+      - transmogSetId: 4010
+        wowheadSetId:
+
+    mage:
+      # Prized Gladiator's Silk Armor [Elite]
+      - transmogSetId: 4024
+        wowheadSetId:
+
+      # Prized Gladiator's Silk Armor [Gladiator]
+      - transmogSetId: 4011
+        wowheadSetId:
+
+    monk:
+      # Prized Gladiator's Leather Armor [Elite]
+      - transmogSetId: 4025
+        wowheadSetId:
+
+      # Prized Gladiator's Leather Armor [Gladiator]
+      - transmogSetId: 4012
+        wowheadSetId:
+
+    paladin:
+      # Prized Gladiator's Plate Armor [Elite]
+      - transmogSetId: 4026
+        wowheadSetId:
+
+      # Prized Gladiator's Plate Armor [Gladiator]
+      - transmogSetId: 4013
+        wowheadSetId:
+
+    priest:
+      # Prized Gladiator's Silk Armor [Elite]
+      - transmogSetId: 4027
+        wowheadSetId:
+
+      # Prized Gladiator's Silk Armor [Gladiator]
+      - transmogSetId: 4014
+        wowheadSetId:
+
+    rogue:
+      # Prized Gladiator's Leather Armor [Elite]
+      - transmogSetId: 4028
+        wowheadSetId:
+
+      # Prized Gladiator's Leather Armor [Gladiator]
+      - transmogSetId: 4015
+        wowheadSetId:
+
+    shaman:
+      # Prized Gladiator's Chain Armor [Elite]
+      - transmogSetId: 4029
+        wowheadSetId:
+
+      # Prized Gladiator's Chain Armor [Gladiator]
+      - transmogSetId: 4016
+        wowheadSetId:
+
+    warlock:
+      # Prized Gladiator's Silk Armor [Elite]
+      - transmogSetId: 4030
+        wowheadSetId:
+
+      # Prized Gladiator's Silk Armor [Gladiator]
+      - transmogSetId: 4018
+        wowheadSetId:
+
+    warrior:
+      # Prized Gladiator's Plate Armor [Elite]
+      - transmogSetId: 4031
+        wowheadSetId:
+
+      # Prized Gladiator's Plate Armor [Gladiator]
+      - transmogSetId: 4017
+        wowheadSetId:
+
+- name: "The War Within Season 2"
+  tag: "S39"
+  type: armor
+  sets:
+    - "Aspirant Armor"
+  data:
+    cloth:
+      # Prized Aspirant's Silk Armor [Aspirant]
+      - transmogSetId: 4337
+        wowheadSetId:
+
+    leather:
+      # Prized Aspirant's Leather Armor [Aspirant]
+      - transmogSetId: 4338
+        wowheadSetId:
+
+    mail:
+      # Prized Aspirant's Chain Armor [Aspirant]
+      - transmogSetId: 4339
+        wowheadSetId:
+
+    plate:
+      # Prized Aspirant's Plate Armor [Aspirant]
+      - transmogSetId: 4340
+        wowheadSetId:
+
+- name: "The War Within Season 2"
+  tag: "S39"
+  type: all
+  sets:
+    - "Elite Weapons*"
+    - "Gladiator Weapons"
+    - "Aspirant Weapons"
+  data:
+    all:
+      # Prized Elite's Arsenal [Gladiator]
+      - transmogSetId: 4194
+        wowheadSetId:
+
+      # Prized Gladiator's Arsenal [Gladiator]
+      - transmogSetId: 4193
+        wowheadSetId:
+
+      # Prized Aspirant's Arsenal [Gladiator]
+      - transmogSetId: 4192
+        wowheadSetId:
+
 - name: "The War Within Season 1"
   tag: "S38"
   type: class
   sets:
-    - "Elite*"
-    - "Gladiator"
+    - "Elite Armor*"
+    - "Gladiator Armor"
   data:
     death-knight:
       # Forged Gladiator's Plate Armor [Elite]
@@ -129,7 +300,7 @@ groups:
   tag: "S38"
   type: armor
   sets:
-    - "Aspirant"
+    - "Aspirant Armor"
   data:
     cloth:
       # Forged Aspirant's Silk Armor [Aspirant]
@@ -149,4 +320,25 @@ groups:
     plate:
       # Forged Aspirant's Plate Armor [Aspirant]
       - transmogSetId: 3696
+        wowheadSetId:
+
+- name: "The War Within Season 1"
+  tag: "S38"
+  type: all
+  sets:
+    - "Elite Weapons*"
+    - "Gladiator Weapons"
+    - "Aspirant Weapons"
+  data:
+    all:
+      # Forged Elite's Arsenal [Elite]
+      - transmogSetId: 4191
+        wowheadSetId:
+
+      # Forged Gladiator's Arsenal [Gladiator]
+      - transmogSetId: 4190
+        wowheadSetId:
+
+      # Forged Aspirant's Arsenal [Aspirant]
+      - transmogSetId: 4189
         wowheadSetId:

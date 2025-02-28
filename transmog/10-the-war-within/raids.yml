@@ -1,6 +1,237 @@
 name: "Raids"
 groups:
   
+# group 305
+- name: "Liberation of Undermine"
+  tag: "T27"
+  type: class
+  sets:
+  - "Mythic"
+  - "Heroic"
+  - "Normal"
+  - "Raid Finder"
+  data:
+    death-knight:
+      # Cauldron Champion's Encore [Mythic]
+      - transmogSetId: 4276
+        wowheadSetId:
+
+      # Cauldron Champion's Encore [Heroic]
+      - transmogSetId: 4275
+        wowheadSetId:
+
+      # Cauldron Champion's Encore [Normal]
+      - transmogSetId: 4277
+        wowheadSetId:
+
+      # Cauldron Champion's Encore [Raid Finder]
+      - transmogSetId: 4278
+        wowheadSetId:
+
+    demon-hunter:
+      # Fel-Dealer's Contraband [Mythic]
+      - transmogSetId: 4280
+        wowheadSetId:
+
+      # Fel-Dealer's Contraband [Heroic]
+      - transmogSetId: 4279
+        wowheadSetId:
+
+      # Fel-Dealer's Contraband [Normal]
+      - transmogSetId: 4281
+        wowheadSetId:
+
+      # Fel-Dealer's Contraband [Raid Finder]
+      - transmogSetId: 4282
+        wowheadSetId:
+
+    druid:
+      # Roots of Reclaiming Blight [Mythic]
+      - transmogSetId: 4284
+        wowheadSetId:
+
+      # Roots of Reclaiming Blight [Heroic]
+      - transmogSetId: 4283
+        wowheadSetId:
+
+      # Roots of Reclaiming Blight [Normal]
+      - transmogSetId: 4285
+        wowheadSetId:
+
+      # Roots of Reclaiming Blight [Raid Finder]
+      - transmogSetId: 4286
+        wowheadSetId:
+
+    evoker:
+      # Opulent Treasurescale's Hoard [Mythic]
+      - transmogSetId: 4288
+        wowheadSetId:
+
+      # Opulent Treasurescale's Hoard [Heroic]
+      - transmogSetId: 4287
+        wowheadSetId:
+
+      # Opulent Treasurescale's Hoard [Normal]
+      - transmogSetId: 4289
+        wowheadSetId:
+
+      # Opulent Treasurescale's Hoard [Raid Finder]
+      - transmogSetId: 4290
+        wowheadSetId:
+
+    hunter:
+      # Tireless Collector's Bounties [Mythic]
+      - transmogSetId: 4292
+        wowheadSetId:
+
+      # Tireless Collector's Bounties [Heroic]
+      - transmogSetId: 4291
+        wowheadSetId:
+
+      # Tireless Collector's Bounties [Normal]
+      - transmogSetId: 4293
+        wowheadSetId:
+
+      # Tireless Collector's Bounties [Raid Finder]
+      - transmogSetId: 4294
+        wowheadSetId:
+
+    mage:
+      # Jewels of the Aspectral Emissary [Mythic]
+      - transmogSetId: 4296
+        wowheadSetId:
+
+      # Jewels of the Aspectral Emissary [Heroic]
+      - transmogSetId: 4295
+        wowheadSetId:
+
+      # Jewels of the Aspectral Emissary [Normal]
+      - transmogSetId: 4297
+        wowheadSetId:
+
+      # Jewels of the Aspectral Emissary [Raid Finder]
+      - transmogSetId: 4298
+        wowheadSetId:
+
+    monk:
+      # Ageless Serpent's Foresight [Mythic]
+      - transmogSetId: 4300
+        wowheadSetId:
+
+      # Ageless Serpent's Foresight [Heroic]
+      - transmogSetId: 4299
+        wowheadSetId:
+
+      # Ageless Serpent's Foresight [Normal]
+      - transmogSetId: 4301
+        wowheadSetId:
+
+      # Ageless Serpent's Foresight [Raid Finder]
+      - transmogSetId: 4302
+        wowheadSetId:
+
+    paladin:
+      # Oath of the Aureate Sentry [Mythic]
+      - transmogSetId: 4304
+        wowheadSetId:
+
+      # Oath of the Aureate Sentry [Heroic]
+      - transmogSetId: 4303
+        wowheadSetId:
+
+      # Oath of the Aureate Sentry [Normal]
+      - transmogSetId: 4305
+        wowheadSetId:
+
+      # Oath of the Aureate Sentry [Raid Finder]
+      - transmogSetId: 4306
+        wowheadSetId:
+
+    priest:
+      # Confessor's Unshakable Virtue [Mythic]
+      - transmogSetId: 4308
+        wowheadSetId:
+
+      # Confessor's Unshakable Virtue [Heroic]
+      - transmogSetId: 4307
+        wowheadSetId:
+
+      # Confessor's Unshakable Virtue [Normal]
+      - transmogSetId: 4309
+        wowheadSetId:
+
+      # Confessor's Unshakable Virtue [Raid Finder]
+      - transmogSetId: 4310
+        wowheadSetId:
+
+    rogue:
+      # Spectral Gambler's Last Call [Mythic]
+      - transmogSetId: 4312
+        wowheadSetId:
+
+      # Spectral Gambler's Last Call [Heroic]
+      - transmogSetId: 4311
+        wowheadSetId:
+
+      # Spectral Gambler's Last Call [Normal]
+      - transmogSetId: 4313
+        wowheadSetId:
+
+      # Spectral Gambler's Last Call [Raid Finder]
+      - transmogSetId: 4314
+        wowheadSetId:
+
+    shaman:
+      # Currents of the Gale Sovereign [Mythic]
+      - transmogSetId: 4316
+        wowheadSetId:
+
+      # Currents of the Gale Sovereign [Heroic]
+      - transmogSetId: 4315
+        wowheadSetId:
+
+      # Currents of the Gale Sovereign [Normal]
+      - transmogSetId: 4317
+        wowheadSetId:
+
+      # Currents of the Gale Sovereign [Raid Finder]
+      - transmogSetId: 4318
+        wowheadSetId:
+
+    warlock:
+      # Spliced Fiendtrader's Influence [Mythic]
+      - transmogSetId: 4320
+        wowheadSetId:
+
+      # Spliced Fiendtrader's Influence [Heroic]
+      - transmogSetId: 4319
+        wowheadSetId:
+
+      # Spliced Fiendtrader's Influence [Normal]
+      - transmogSetId: 4321
+        wowheadSetId:
+
+      # Spliced Fiendtrader's Influence [Raid Finder]
+      - transmogSetId: 4322
+        wowheadSetId:
+
+    warrior:
+      # Enforcer's Backalley Brawlplate [Mythic]
+      - transmogSetId: 4324
+        wowheadSetId:
+
+      # Enforcer's Backalley Brawlplate [Heroic]
+      - transmogSetId: 4323
+        wowheadSetId:
+
+      # Enforcer's Backalley Brawlplate [Normal]
+      - transmogSetId: 4325
+        wowheadSetId:
+
+      # Enforcer's Backalley Brawlplate [Raid Finder]
+      - transmogSetId: 4326
+        wowheadSetId:
+
 # group 273
 - name: "Nerub-ar Palace"
   tag: "T26"
