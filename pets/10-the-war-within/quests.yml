@@ -15,3 +15,7 @@ groups:
 - name: "Ringing Deeps"
   things:
     - 4570 # Cinderwold Sizzlestinger
+
+- name: "Undermine"
+  things:
+    - 4701 # Spotty [Oh, Rats!]

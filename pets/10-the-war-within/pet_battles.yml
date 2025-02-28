@@ -84,6 +84,7 @@ groups:
     - 4499 # Common Ploughworm
     - 4498 # Ebon Ploughworm
     - 4514 # Fallowspark Glowfly
+    - 4484 # Frenzied Bloodtick
     - 4535 # Ghostcap Menace
     - 4518 # Magmashell Crawler
     - 4533 # Meek Bloodlasher
@@ -91,6 +92,7 @@ groups:
     - 4571 # Pinkskin Burrower
     - 4573 # Skittish Sniffler
     - 4574 # Snuffling
+    - 4507 # Sporbit
     - 4521 # Subterranean Dartswog
     - 4522 # Troglofrog
     - 4516 # Vibrant Glowfly

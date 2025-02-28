@@ -5,10 +5,12 @@ groups:
   things:
     - 4489 # Bouncer
     - 4537 # Chester
+    - 4647 # Mr. DELVER
     - 4575 # Sneef
     - 4506 # Violet Sporbit
     - 4496 # Wriggle
 
-- name: "Cinderbrew Meadery"
+- name: "Dungeons"
   things:
-    - 4469 # Bop
+    - 4469 # Bop [Cinderbrew Meadery]
+    - 4759 # Craboom [Operation: Floodgate]

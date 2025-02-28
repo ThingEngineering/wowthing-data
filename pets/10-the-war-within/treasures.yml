@@ -27,3 +27,7 @@ groups:
 - name: "Siren Isle"
   things:
     - 4708 # Marmaduke
+
+- name: "Undermine"
+  things:
+    - 4642 # Gorillion [Inoperative Gorillion]
