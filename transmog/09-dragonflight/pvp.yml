@@ -5,8 +5,8 @@ groups:
   tag: "S36-37"
   type: class
   sets:
-    - "Elite*"
-    - "Gladiator"
+    - "Elite Armor*"
+    - "Gladiator Armor"
   data:
     death-knight:
       # Verdant Gladiator's Plate Armor [Elite]
@@ -129,7 +129,7 @@ groups:
   tag: "S36-37"
   type: armor
   sets:
-  - "Aspirant"
+  - "Aspirant Armor"
   data:
     cloth:
       # Verdant Aspirant's Silk Vestments [Aspirant]
@@ -151,12 +151,33 @@ groups:
       - transmogSetId: 3292
         wowheadSetId:
 
+- name: "Dragonflight Season 3 / 4"
+  tag: "S36-37"
+  type: all
+  sets:
+    - "Elite Weapons*"
+    - "Gladiator Weapons"
+    - "Aspirant Weapons"
+  data:
+    all:
+      # Verdant Elite's Weapons [Elite]
+      - transmogSetId: 3938
+        wowheadSetId:
+
+      # Verdant Gladiator's Weapons [Gladiator]
+      - transmogSetId: 3937
+        wowheadSetId:
+
+      # Verdant Aspirant's Weapons [Aspirant]
+      - transmogSetId: 3936
+        wowheadSetId:
+
 - name: "Dragonflight Season 2"
   tag: "S35"
   type: class
   sets:
-  - "Elite*"
-  - "Gladiator"
+  - "Elite Armor*"
+  - "Gladiator Armor"
   data:
     death-knight:
       # Obsidian Gladiator's Plate Armor [Elite]
@@ -279,7 +300,7 @@ groups:
   tag: "S35"
   type: armor
   sets:
-  - "Aspirant"
+  - "Aspirant Armor"
   data:
     cloth:
       # Obsidian Aspirant's Silk Vestments [Aspirant]
@@ -301,12 +322,33 @@ groups:
       - transmogSetId: 3010
         wowheadSetId:
 
+- name: "Dragonflight Season 2"
+  tag: "S35"
+  type: all
+  sets:
+    - "Elite Weapons*"
+    - "Gladiator Weapons"
+    - "Aspirant Weapons"
+  data:
+    all:
+      # Obsidian Elite's Weapons [Elite]
+      - transmogSetId: 3935
+        wowheadSetId:
+
+      # Obsidian Gladiator's Weapons [Gladiator]
+      - transmogSetId: 3934
+        wowheadSetId:
+
+      # Crimson & Obsidian Aspirant's Weapons [Aspirant]
+      - transmogSetId: 3931
+        wowheadSetId:
+
 - name: "Dragonflight Season 1"
   tag: "S34"
   type: class
   sets:
-  - "Elite*"
-  - "Gladiator"
+  - "Elite Armor*"
+  - "Gladiator Armor"
   data:
     death-knight:
       # Crimson Gladiator's Plate Armor [Elite]
@@ -429,7 +471,7 @@ groups:
   tag: "S34"
   type: armor
   sets:
-  - "Aspirant"
+  - "Aspirant Armor"
   data:
     cloth:
       # Crimson Aspirant's Silk Vestments [Aspirant]
@@ -449,4 +491,25 @@ groups:
     plate:
       # Crimson Aspirant's Plate Battlegear [Aspirant]
       - transmogSetId: 2715
+        wowheadSetId:
+
+- name: "Dragonflight Season 1"
+  tag: "S34"
+  type: all
+  sets:
+    - "Elite Weapons*"
+    - "Gladiator Weapons"
+    - "Aspirant Weapons"
+  data:
+    all:
+      # Crimson Elite's Weapons [Elite]
+      - transmogSetId: 3933
+        wowheadSetId:
+
+      # Crimson Gladiator's Weapons [Gladiator]
+      - transmogSetId: 3932
+        wowheadSetId:
+
+      # Crimson & Obsidian Aspirant's Weapons [Aspirant]
+      - transmogSetId: 3931
         wowheadSetId:
