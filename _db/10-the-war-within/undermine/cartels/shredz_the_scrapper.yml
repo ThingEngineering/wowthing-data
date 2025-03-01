@@ -1,0 +1,44 @@
+things:
+  - id: 231407
+    type: "vendor"
+    name: "Shredz the Scrapper"
+    note: "Venture Quartermaster"
+
+    locations:
+      here: # undermine
+        - 53.2 72.6
+
+    groups:
+      - name: "Venture Company"
+        range: -1
+        sortKey: "rep-1"
+
+    contents:
+
+      - id: 229946 # Ocher Delivery Rocket [mount]
+        costs:
+          2815: 11375
+
+      - id: 232851 # Rocketfist [pet]
+        costs:
+          2815: 6500
+
+      - id: 235672 # Venture Co. Banner [toy]
+        costs:
+          2815: 5000
+
+      - id: 235799 # Throwin' Sawblade [toy]
+        costs:
+          2815: 5000
+
+      - id: 235391 # Paint: Yellow Cake Yellow [car?]
+        costs:
+          2815: 1350
+
+      - id: 236669 # The Whole Brass Band [car?]
+        costs:
+          2815: 975
+
+      - id: 231542 # Venture Co. Undermine Tabard [tabard]
+        costs:
+          2815: 1625

@@ -1,0 +1,44 @@
+things:
+  - id: 231406
+    type: "vendor"
+    name: "Rocco Razzboom"
+    note: "Bilgewater Quartermaster"
+
+    locations:
+      here: # undermine
+        - 39 22
+
+    groups:
+      - name: "Bilgewater Cartel"
+        range: -1
+        sortKey: "rep-1"
+
+    contents:
+
+      - id: 229935 # Crimson Armored Growler [mount]
+        costs:
+          2815: 8125
+
+      - id: 232845 # Bilgewater Junkhauler [pet]
+        costs:
+          2815: 6500
+
+      - id: 235670 # Bilgewater Cartel Banner [toy]
+        costs:
+          2815: 5000
+
+      - id: 235807 # Storefront-in-a-Box [toy]
+        costs:
+          2815: 5000
+
+      - id: 235388 # Paint: Redlining Red [car?]
+        costs:
+          2815: 1350
+
+      - id: 236672 # The Ol' Low-and-Slow [car?]
+        costs:
+          2815: 975
+
+      - id: 231526 # Bilgewater Undermine Tabard [tabard]
+        costs:
+          2815: 1625

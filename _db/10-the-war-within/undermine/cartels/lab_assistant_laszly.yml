@@ -1,0 +1,44 @@
+things:
+  - id: 231408
+    type: "vendor"
+    name: "Lab Assistant Laszly"
+    note: "Steamwheedle Quartermaster"
+
+    locations:
+      here: # undermine
+        - 27.2 72.4
+
+    groups:
+      - name: "Steamwheedle Cartel"
+        range: -1
+        sortKey: "rep-1"
+
+    contents:
+
+      - id: 229956 # Mean Green Flying Machine [mount]
+        costs:
+          2815: 11375
+
+      - id: 232853 # Eepy [pet]
+        costs:
+          2815: 6500
+
+      - id: 226373 # Everlasting Noggenfogger Elixir [toy]
+        costs:
+          2815: 5000
+
+      - id: 235669 # Steamwheedle Cartel Banner [toy]
+        costs:
+          2815: 5000
+
+      - id: 236670 # Maniacal Melodies [car?]
+        costs:
+          2815: 975
+
+      - id: 235389 # Paint: Goblin Green [car?]
+        costs:
+          2815: 1350
+
+      - id: 231527 # Steamwheedle Undermine Tabard [tabard]
+        costs:
+          2815: 1625

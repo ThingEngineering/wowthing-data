@@ -1,0 +1,25 @@
+things:
+  - id: 228286
+    type: "vendor"
+    name: "Skedgit Cinderbangs"
+    note: "Entrepreneur Inc."
+
+    locations:
+      here: # undermine
+        - 43.2 82.8
+
+    contents:
+
+      # 0
+
+      - id: 229952 # Asset Advocator
+        costs:
+          1234741: 25
+
+      - id: 229941 # Innovation Investigator
+        costs:
+          1234741: 25
+
+      - id: 229954 # Margin Manipulator
+        costs:
+          1234741: 25

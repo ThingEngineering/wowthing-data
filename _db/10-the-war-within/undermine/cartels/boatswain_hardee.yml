@@ -1,0 +1,46 @@
+things:
+  - id: 231405
+    type: "vendor"
+    name: "Boatswain Hardee"
+    note: "Blackwater Quartermaster"
+
+    locations:
+      here: # undermine
+        - 63.2 16.8
+
+    groups:
+      - name: "Blackwater Cartel"
+        range: -1
+        sortKey: "rep-1"
+
+    contents:
+
+      # 0
+
+      - id: 229948 # Blackwater Shredder Deluxe Mk 2 [mount]
+        costs:
+          2815: 8125
+
+      - id: 232839 # Wavebreaker Mechasaur [pet]
+        costs:
+          2815: 6500
+
+      - id: 235671 # Blackwater Cartel Banner [toy]
+        costs:
+          2815: 5000
+
+      - id: 235801 # Personal Fishing Barge [toy]
+        costs:
+          2815: 5000
+
+      - id: 235390 # Paint: Body Roll Blue [car?]
+        costs:
+          2815: 1350
+
+      - id: 236671 # The Buzzer [car?]
+        costs:
+          2815: 975
+
+      - id: 231528 # Blackwater Undermine Tabard [tabard]
+        costs:
+          2815: 1625

@@ -1,0 +1,172 @@
+things:
+  - id: 231409
+    type: "vendor"
+    name: "Smaks Topskimmer"
+    note: "Renown Quartermaster"
+
+    locations:
+      here: # undermine
+        - 43.6 50.8
+
+    groups:
+      - name: "CoU - Mounts"
+        range: 2
+        sortKey: "rep-0-0"
+
+      - name: "CoU - Professions"
+        range: 15
+        sortKey: "rep-0-1"
+
+      # - name: "CoU - Knowledge"
+      #   range: 11
+      #   sortKey: "rep-0-2"
+
+      - name: "CoU - Cosmetic"
+        range: 7
+        sortKey: "rep-0-3"
+
+      - name: "CoU - Armor"
+        range: -1
+        sortKey: "rep-0-4"
+
+    contents:
+
+      # Mount
+
+      - id: 229944 # The Topskimmer Special
+        costs:
+          2815: 11375
+
+      - id: 229936 # Violet Armored Growler
+        costs:
+          2815: 8125
+
+      # Recipe
+
+      - id: 235338 # Pattern: Charged Armor Kit
+        costs:
+          1210814: 150
+
+      - id: 234274 # Schematic: 22H Slicks
+        costs:
+          1210814: 150
+
+      - id: 232535 # Technique: Contract: The Cartels of Undermine
+        costs:
+          1210814: 150
+
+      - id: 233022 # Technique: Vantus Rune: Liberation of Undermine
+        costs:
+          1210814: 150
+
+      - id: 232499 # Undermine Treatise on Alchemy
+        costs:
+          1210814: 50
+
+      - id: 232500 # Undermine Treatise on Blacksmithing
+        costs:
+          1210814: 50
+
+      - id: 232501 # Undermine Treatise on Enchanting
+        costs:
+          1210814: 50
+
+      - id: 232507 # Undermine Treatise on Engineering
+        costs:
+          1210814: 50
+
+      - id: 232503 # Undermine Treatise on Herbalism
+        costs:
+          1210814: 50
+
+      - id: 232508 # Undermine Treatise on Inscription
+        costs:
+          1210814: 50
+
+      - id: 232504 # Undermine Treatise on Jewelcrafting
+        costs:
+          1210814: 50
+
+      - id: 232505 # Undermine Treatise on Leatherworking
+        costs:
+          1210814: 50
+
+      - id: 232509 # Undermine Treatise on Mining
+        costs:
+          1210814: 50
+
+      - id: 232506 # Undermine Treatise on Skinning
+        costs:
+          1210814: 50
+
+      - id: 232502 # Undermine Treatise on Tailoring
+        costs:
+          1210814: 50
+
+      # Ensemble
+
+      - id: 237112 # Craftiest in Town's Attire
+        costs:
+          2815: 9750
+
+      - id: 237102 # Slickest in Town's Attire
+        costs:
+          2815: 9750
+
+      - id: 237034 # Smartest in Town's Attire
+        costs:
+          2815: 9750
+
+      - id: 237122 # Toughest in Town's Attire
+        costs:
+          2815: 9750
+
+      - id: 231743 # Undermine Enforcer's Helmet [subclass=5 head]
+        costs:
+          2815: 1625
+
+      - id: 231749 # Undermine Enforcer's Spikes [subclass=5 shoulders]
+        costs:
+          2815: 3250
+
+      - id: 232515 # Experimental Goblin Jetpack [subclass=5 back]
+        costs:
+          2815: 3250
+
+      # Armor
+
+      - id: 232410 # Craftsman's Repurposed Mitts [cloth hands]
+        costs:
+          2815: 3900
+
+      - id: 232379 # Slime-Slicked Slippers [cloth feet]
+        costs:
+          2815: 2600
+
+      - id: 232411 # Goblin Boxer's Wraps [leather hands]
+        costs:
+          2815: 3900
+
+      - id: 232381 # Mostly Cobbled Shoes [leather feet]
+        costs:
+          2815: 2600
+
+      - id: 232412 # Undermine Smelter's Gloves [mail hands]
+        costs:
+          2815: 3900
+
+      - id: 232383 # Soot-Encrusted Kickers [mail feet]
+        costs:
+          2815: 2600
+
+      - id: 232413 # Retired Bouncer's Gauntlets [plate hands]
+        costs:
+          2815: 3900
+
+      - id: 232384 # Aqirite-Toe Boots [plate feet]
+        costs:
+          2815: 2600
+
+      # - id: 232981 # GNZ Airmaster 9000
+      #   costs:
+      #     2815: 2600
