@@ -5,6 +5,11 @@ reputations:
 # 11.1
 -
   - both:
+      id: 2653 # The Cartels of Undermine
+      icon: "achievement/41086" # Ally of Undermine
+      iconText: "CoU"
+
+  - both:
       id: 2673 # Bilgewater Cartel
       icon: "item/229935" # Crimson Armored Growler
       iconText: "Bilge"
