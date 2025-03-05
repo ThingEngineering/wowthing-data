@@ -23,7 +23,8 @@ groups:
     - 202856 # Warcraft Rumble Toy: Stonehoof Tauren
     - 202859 # Warcraft Rumble Toy: Undead Ghoul
     - 202865 # Warcraft Rumble Toy: Whelp Egg
- 
+    - 232301 # Tempered Banner of the Algari
+
 - name: "PvP"
   things:
     - 206343 # Crimson Legend's Pennant (Legend: Dragonflight Season 1)

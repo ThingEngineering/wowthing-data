@@ -8,4 +8,10 @@ groups:
 - name: "Delves"
   things:
     - 225556 # Ancient Construct (chest)
+    - 230850 # Delve-O-Bot 7001 (journey)
+    - 230924 # Spotlight Materializer 1000 (chest)
     - 225547 # Toxic Victory (Zekvir achievement)
+
+- name: "Raids"
+  things:
+    - 236687 # Explosive Hearthstone

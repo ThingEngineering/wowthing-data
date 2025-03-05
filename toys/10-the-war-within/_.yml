@@ -3,7 +3,9 @@ groups:
 
 - name: "Achievements"
   things:
+    - 235050 # Desk-in-a-Box
     - 224251 # Memory Chord
+    - 236769 # Gallagio Pipeline Rerouter (A Good Day to Dye Hard, Liberation of Undermine)
 
 - name: "PvP"
   things:
@@ -12,3 +14,8 @@ groups:
     - 232305 # Forged Champion's Prestigious Banner
     - 227538 # Unbound Legend's Pennant
     - 227539 # Unbound Strategist's Pennant
+
+- name: "Quests"
+  things:
+    - 235041 # Cyrce's Circlet
+    - 233202 # G.O.L.E.M, Jr.

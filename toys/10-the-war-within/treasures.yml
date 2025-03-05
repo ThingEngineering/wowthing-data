@@ -19,3 +19,8 @@ groups:
 - name: "Ringing Deeps"
   things:
     - 224783 # Sovereign's Finery Chest
+
+- name: "Undermine"
+  things:
+    - 235220 # Fireworks Hat
+    - 234951 # Uncracked Cold Ones

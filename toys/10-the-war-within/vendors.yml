@@ -21,3 +21,15 @@ groups:
     - 235015 # Awakened Supply Crate
     - 233486 # Hallowfall Supply Cache
     - 234473 # Soweezi's Comfy Lawn Chair
+
+- name: "Undermine"
+  things:
+    - 235670 # Bilgewater Cartel Banner
+    - 235671 # Blackwater Cartel Banner
+    - 235669 # Steamwheedle Cartel Banner
+    - 235672 # Venture Co. Banner
+    - 234950 # Atomic Regoblinator
+    - 235801 # Personal Fishing Barge
+    - 235807 # Storefront-in-a-Box
+    - 235799 # Throwin' Sawblade
+    - 237382 # Undermine Supply Crate
