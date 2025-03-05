@@ -46,3 +46,11 @@ groups:
   things:
   - 2023 # Noble Flying Carpet
   - 430 # Swift Springstrider
+
+- name: "Plunderstorm"
+  things:
+    - 2324 # Hooktalon
+    - 2240 # Plunderlord's Midnight Crocolisk
+    - 2090 # Polly Roger
+    - 994 # Royal Seafeather
+    - 1259 # Silver Tidestallion

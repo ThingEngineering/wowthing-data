@@ -9,6 +9,7 @@ groups:
     - 1744 # Grotto Netherwing Drake (July 2023)
     - 1574 # Crusty Crawler (September 2023)
     - 1799 # Eve's Ghastly Rider (October 2023)
+    - 2238 # Plunderlord's Golden Crocolisk (2024-09)
     - 1550 # Depthstalker (2024-10)
 
 - name: "Trading Post"
@@ -46,12 +47,22 @@ groups:
     - 2036 # Brilliant Sunburst Peafowl (2025-01)
     - 2241 # Plunderlord's Weathered Crocolisk (2025-01)
     - 2347 # Savage Alabaster Battle Turtle (2025-01)
+    - 2489 # Pearlescent Butterfly (2025-03)
+    - 2491 # Ruby Butterfly (2025-03)
 
 - name: "Unavailable"
   things:
     - 1583 # Armored Siege Kodo
     - 1595 # Cerulean Marsh Hopper
     - 1579 # Coral-Stalker Waveray
+    - 2495 # Emerald Snail
     - 799 # Molten Flarecore
+    - 2488 # Shimmermist Free Runner
     - 1958 # Twilight Sky Prowler
     - 2187 # Underlight Shorestalker
+    - 2494 # Midnight Butterfly
+    - 2492 # Spring Butterfly
+    - 2482 # Lively Darkmoon Charger
+    - 2481 # Midnight Darkmoon Charger
+    - 2483 # Violet Darkmoon Charger
+    - 2484 # Snowy Darkmoon Charger

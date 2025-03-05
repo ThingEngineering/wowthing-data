@@ -14,9 +14,3 @@ groups:
   - 1725 # Inferno Armoredon (KSM Season 2)
   - 1801 # Verdant Armoredon (KSM Season 3)
   - 2055 # Infinite Armoredon (KSM Season 4)
-
-- name: "Plunderstorm"
-  things:
-  - 2090 # Polly Roger
-  - 994 # Royal Seafeather
-  - 1259 # Silver Tidestallion

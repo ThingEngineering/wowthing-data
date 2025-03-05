@@ -3,17 +3,19 @@ groups:
 
 - name: Game Editions
   things:
-  - 468 # Imperial Quilen (MoP) (Also in Store)
-  - 600 # Dread Raven (WoD)
-  - 763 # Illidari Felstalker (Legion)
-  - 997 # Gilded Ravasaur (Battle for Azeroth Collector's Edition)
-  - 996 # Seabraid Stallion (Battle for Azeroth Collector's Edition)
-  - 1289 # Ensorcelled Everwyrm (Shadowlands Heroic Edition)
-  - 1556 # Tangled Dreamweaver (Dragonflight Heroic Edition)
-  - 1792 # Algarian Stormrider (The War Within Heroic Edition)
-  - 1444 # Viridian Phase-Hunter (TBC Classic Deluxe Edition)
-  - 1602 # Tuskarr Shoreglider (WotLK Classic Epic Upgrade)
-  - 1812 # Runebound Firelord (Cataclysm Classic ??)
+    - 468 # Imperial Quilen (MoP) (Also in Store)
+    - 600 # Dread Raven (WoD)
+    - 763 # Illidari Felstalker (Legion)
+    - 997 # Gilded Ravasaur (Battle for Azeroth Collector's Edition)
+    - 996 # Seabraid Stallion (Battle for Azeroth Collector's Edition)
+    - 1289 # Ensorcelled Everwyrm (Shadowlands Heroic Edition)
+    - 1556 # Tangled Dreamweaver (Dragonflight Heroic Edition)
+    - 1792 # Algarian Stormrider (The War Within Heroic Edition)
+    - 1444 # Viridian Phase-Hunter (TBC Classic Deluxe Edition)
+    - 1602 # Tuskarr Shoreglider (WotLK Classic Epic Upgrade)
+    - 1812 # Runebound Firelord (Cataclysm Classic ??)
+    - 2476 # Sha-Warped Cloud Serpent (MoP Classic ??)
+    - 2477 # Sha-Warped Riding Tiger (MoP Classic ??)
 
 - name: Promotions
   things:
@@ -52,6 +54,11 @@ groups:
     - 1594 # Jade, Bright Foreseer
     - 1291 # Lucky Yun
     - 949 # Luminous Starseeker
+    - 2346 # Meeksi Brewthief
+    - 2344 # Meeksi Rollingpaw
+    - 2342 # Meeksi Rufflefur
+    - 2343 # Meeksi Softpaw
+    - 2345 # Meeksi Teatuft
     - 741 # Mystic Runesaber
     - 1456 # Sapphire Skyblazer (6 month sub reward)
     - 1011 # Shu-zen, the Divine Sentinel
