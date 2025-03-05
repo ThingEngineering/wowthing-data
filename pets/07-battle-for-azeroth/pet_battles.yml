@@ -85,8 +85,10 @@ groups:
 
 - name: Zuldazar
   things:
-  - 2537 # Baby Zandalari Raptor (Zuldazar)
-  - 2385 # Barrier Hermit (Zuldazar)
-  - 2387 # Golden Beetle (Zuldazar)
-  - 2390 # Leafy Flutterwing (Zuldazar)
-  - 2384 # Shore Butterfly (Zuldazar)
+    - 2537 # Baby Zandalari Raptor (Zuldazar)
+    - 2385 # Barrier Hermit (Zuldazar)
+    - 2387 # Golden Beetle (Zuldazar)
+    - 4659 # Kaja Crab
+    - 2390 # Leafy Flutterwing (Zuldazar)
+    - 2384 # Shore Butterfly (Zuldazar)
+    - 4666 # Tropical Frog
