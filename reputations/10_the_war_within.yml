@@ -5,6 +5,12 @@ reputations:
 # 11.1
 -
   - both:
+      id: 2685 # Gallagio Loyalty Rewards Club
+      icon: "item/229940" # Flarendo the Furious
+      iconText: "Gal"
+
+-
+  - both:
       id: 2653 # The Cartels of Undermine
       icon: "achievement/41086" # Ally of Undermine
       iconText: "CoU"
