@@ -1,0 +1,111 @@
+# Liberation of Undermine
+#  bin/expand_sets.py 1867 1868 1869 1870 1871 1872 1873 1874 1875 1876 1877 1878 1879
+
+# Death Knight, Demon Hunter, Warlock
+228807: # Dreadful Gilded Gallybux [head]
+  - 229253 # Cauldron Champion's Crown [Death Knight Head]
+  - 229316 # Fel-Dealer's Visor [Demon Hunter Head]
+  - 229325 # Spliced Fiendtrader's Transcendence [Warlock Head]
+
+228815: # Dreadful Polished Gallybux [shoulders]
+  - 229251 # Cauldron Champion's Screamplate [Death Knight Shoulders]
+  - 229314 # Fel-Dealer's Recycled Reavers [Demon Hunter Shoulders]
+  - 229323 # Spliced Fiendtrader's Loyal Servants [Warlock Shoulders]
+
+228799: # Dreadful Greased Gallybux [chest]
+  - 229256 # Cauldron Champion's Ribcage [Death Knight Chest]
+  - 229319 # Fel-Dealer's Soul Engine [Demon Hunter Chest]
+  - 229328 # Spliced Fiendtrader's Surgical Gown [Warlock Chest]
+
+228803: # Dreadful Bloody Gallybux [hands]
+  - 229254 # Cauldron Champion's Fistguards [Death Knight Hands]
+  - 229317 # Fel-Dealer's Underhandlers [Demon Hunter Hands]
+  - 229326 # Spliced Fiendtrader's Demonic Grasp [Warlock Hands]
+
+228811: # Dreadful Rusty Gallybux [legs]
+  - 229252 # Cauldron Champion's Tattered Cuisses [Death Knight Legs]
+  - 229315 # Fel-Dealer's Fur Kilt [Demon Hunter Legs]
+  - 229324 # Spliced Fiendtrader's Skin Tights [Warlock Legs]
+
+# Druid, Hunter Mage
+228808: # Mystic Gilded Gallybux [head]
+  - 229307 # Branches of Reclaiming Blight [Druid Head]
+  - 229271 # Tireless Collector's Chained Cowl [Hunter Head]
+  - 229343 # Aspectral Emissary's Crystalline Cowl [Mage Head]
+
+228816: # Mystic Polished Gallybux [shoulders]
+  - 229305 # Jaws of Reclaiming Blight [Druid Shoulders]
+  - 229269 # Tireless Collector's Hunted Heads [Hunter Shoulders]
+  - 229341 # Aspectral Emissary's Arcane Vents [Mage Shoulders]
+
+228800: # Mystic Blasphemer's Effigy [chest]
+  - 229310 # Robes of Reclaiming Blight [Druid Chest]
+  - 229274 # Tireless Collector's Battlegear [Hunter Chest]
+  - 229346 # Aspectral Emissary's Primal Robes [Mage Chest]
+
+228804: # Mystic Bloody Gallybux [hands]
+  - 229308 # Grips of Reclaiming Blight [Druid Hands]
+  - 229272 # Tireless Collector's Gauntlets [Hunter Hands]
+  - 229344 # Aspectral Emissary's Hardened Grasp [Mage Hands]
+
+228812: # Mystic Rusty Gallybux [legs]
+  - 229306 # Moccasins of Reclaiming Blight [Druid Legs]
+  - 229270 # Tireless Collector's Armored Breeches [Hunter Legs]
+  - 229342 # Aspectral Emissary's Trousers [Mage Legs]
+
+# Paladin, Priest, Shaman
+228809: # Venerated Gilded Gallybux [head]
+  - 229244 # Aureate Sentry's Pledge [Paladin Head]
+  - 229334 # Confessor's Unshakable Halo [Priest Head]
+  - 229262 # Gale Sovereign's Charged Hood [Shaman Head]
+
+228817: # Venerated Polished Gallybux [shoulders]
+  - 229242 # Aureate Sentry's Roaring Will [Paladin Shoulders]
+  - 229332 # Confessor's Unshakable Radiance [Priest Shoulders]
+  - 229260 # Gale Sovereign's Zephyrs [Shaman Shoulders]
+
+228801: # Venerated Blasphemer's Effigy [chest]
+  - 229247 # Aureate Sentry's Encasement [Paladin Chest]
+  - 229337 # Confessor's Unshakable Vestment [Priest Chest]
+  - 229265 # Gale Sovereign's Clouded Hauberk [Shaman Chest]
+
+228805: # Venerated Bloody Gallybux [hands]
+  - 229245 # Aureate Sentry's Gauntlets [Paladin Hands]
+  - 229335 # Confessor's Unshakable Mitts [Priest Hands]
+  - 229263 # Gale Sovereign's Grasps [Shaman Hands]
+
+228813: # Venerated Rusty Gallybux [legs]
+  - 229243 # Aureate Sentry's Legguards [Paladin Legs]
+  - 229333 # Confessor's Unshakable Leggings [Priest Legs]
+  - 229261 # Gale Sovereign's Pantaloons [Shaman Legs]
+
+# Evoker, Monk, Rogue, Warrior
+228810: # Zenith Gilded Gallybux [head]
+  - 229280 # Opulent Treasurescale's Crowned Jewel [Evoker Head]
+  - 229298 # Ageless Serpent's Mane [Monk Head]
+  - 229289 # Spectral Gambler's Damned Visage [Rogue Head]
+  - 229235 # Enforcer's Backalley Faceshield [Warrior Head]
+
+228818: # Zenith Polished Gallybux [shoulders]
+  - 229278 # Opulent Treasurescale's Gleaming Mantle [Evoker Shoulders]
+  - 229296 # Ageless Serpent's Shoulderpads [Monk Shoulders]
+  - 229287 # Spectral Gambler's Bladed Mantle [Rogue Shoulders]
+  - 229233 # Enforcer's Backalley Shoulderplates [Warrior Shoulders]
+
+228802: # Zenith Blasphemer's Effigy [chest]
+  - 229283 # Opulent Treasurescale's Tunic [Evoker Chest]
+  - 229301 # Ageless Serpent's Inked Coils [Monk Chest]
+  - 229292 # Spectral Gambler's Vest [Rogue Chest]
+  - 229238 # Enforcer's Backalley Vestplate [Warrior Chest]
+
+228806: # Zenith Bloody Gallybux [hands]
+  - 229281 # Opulent Treasurescale's Gold-Counters [Evoker Hands]
+  - 229299 # Ageless Serpent's Handguards [Monk Hands]
+  - 229290 # Spectral Gambler's Gloves [Rogue Hands]
+  - 229236 # Enforcer's Backalley Crushers [Warrior Hands]
+
+228814: # Zenith Rusty Gallybux [legs]
+  - 229279 # Opulent Treasurescale's Petticoat [Evoker Legs]
+  - 229297 # Ageless Serpent's Leggings [Monk Legs]
+  - 229288 # Spectral Gambler's Pantaloons [Rogue Legs]
+  - 229234 # Enforcer's Backalley Chausses [Warrior Legs]
