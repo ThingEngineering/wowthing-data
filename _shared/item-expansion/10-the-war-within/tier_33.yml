@@ -1,0 +1,135 @@
+# Nerub-ar Palace
+#  bin/expand_sets.py 1684 1685 1686 1687 1688 1689 1690 1691 1692 1693 1694 1695 1696
+
+# Death Knight, Demon Hunter, Warlock
+225622: # Dreadful Conniver's Badge
+  - 212002 # Exhumed Centurion's Galea [Death Knight Head]
+  - 212065 # Impalers of the Hypogeal Nemesis [Demon Hunter Head]
+  - 212074 # Hexflame Coven's All-Seeing Eye [Warlock Head]
+
+225630: # Dreadful Obscenity's Idol
+  - 212000 # Exhumed Centurion's Spikes [Death Knight Shoulders]
+  - 212063 # War-Mantle of the Hypogeal Nemesis [Demon Hunter Shoulders]
+  - 212072 # Hexflame Coven's Altar [Warlock Shoulders]
+
+225614: # Dreadful Blasphemer's Effigy
+  - 212005 # Exhumed Centurion's Breastplate [Death Knight Chest]
+  - 212068 # Chestguard of the Hypogeal Nemesis [Demon Hunter Chest]
+  - 212077 # Hexflame Coven's Ritual Harness [Warlock Chest]
+
+225618: # Dreadful Stalwart's Emblem
+  - 212003 # Exhumed Centurion's Gauntlets [Death Knight Hands]
+  - 212066 # Claws of the Hypogeal Nemesis [Demon Hunter Hands]
+  - 212075 # Hexflame Coven's Sleeves [Warlock Hands]
+
+225626: # Dreadful Slayer's Icon
+  - 212001 # Exhumed Centurion's Chausses [Death Knight Legs]
+  - 212064 # Pantaloons of the Hypogeal Nemesis [Demon Hunter Legs]
+  - 212073 # Hexflame Coven's Leggings [Warlock Legs]
+
+# Druid, Hunter Mage
+225623: # Mystic Conniver's Badge [head]
+  - 212092 # Hood of Violet Rebirth [Mage Head]
+  - 212020 # Lightless Scavenger's Skull [Hunter Head]
+  - 212056 # Mask of the Greatlynx [Druid Head]
+
+225631: # Mystic Obscenity's Idol [shoulders]
+  - 212054 # Maw of the Greatlynx [Druid Shoulders]
+  - 212018 # Lightless Scavenger's Taxidermy [Hunter Shoulders]
+  - 212090 # Beacons of Violet Rebirth [Mage Shoulders]
+
+225615: # Mystic Blasphemer's Effigy [chest]
+  - 212059 # Hide of the Greatlynx [Druid Chest]
+  - 212023 # Lightless Scavenger's Tunic [Hunter Chest]
+  - 212095 # Runecoat of Violet Rebirth [Mage Chest]
+
+225619: # Mystic Stalwart's Emblem [hands]
+  - 212057 # Eviscerators of the Greatlynx [Druid Hands]
+  - 212021 # Lightless Scavenger's Mitts [Hunter Hands]
+  - 212093 # Jeweled Gauntlets of Violet Rebirth [Mage Hands]
+
+225627: # Mystic Slayer's Icon [legs]
+  - 212055 # Leggings of the Greatlynx [Druid Legs]
+  - 212019 # Lightless Scavenger's Stalkings [Hunter Legs]
+  - 212091 # Coattails of Violet Rebirth [Mage Legs]
+
+# Paladin, Priest, Shaman
+225624: # Venerated Conniver's Badge [head]
+  - 211993 # Entombed Seraph's Casque [Paladin Head]
+  - 212083 # Living Luster's Semblance [Priest Head]
+  - 212011 # Noetic of the Forgotten Reservoir [Shaman Head]
+
+225632: # Venerated Obscenity's Idol [shoulders]
+  - 211991 # Entombed Seraph's Plumes [Paladin Shoulders]
+  - 212081 # Living Luster's Dominion [Priest Shoulders]
+  - 212009 # Concourse of the Forgotten Reservoir [Shaman Shoulders]
+
+225616: # Venerated Blasphemer's Effigy [chest]
+  - 211996 # Entombed Seraph's Breastplate [Paladin Chest]
+  - 212086 # Living Luster's Raiment [Priest Chest]
+  - 212014 # Vestments of the Forgotten Reservoir [Shaman Chest]
+
+225620: # Venerated Stalwart's Emblem [hands]
+  - 211994 # Entombed Seraph's Castigation [Paladin Hands]
+  - 212084 # Living Luster's Touch [Priest Hands]
+  - 212012 # Covenant of the Forgotten Reservoir [Shaman Hands]
+
+225628: # Venerated Slayer's Icon [legs]
+  - 211992 # Entombed Seraph's Greaves [Paladin Legs]
+  - 212082 # Living Luster's Trousers [Priest Legs]
+  - 212010 # Sarong of the Forgotten Reservoir [Shaman Legs]
+
+# Evoker, Monk, Rogue, Warrior
+225625: # Zenith Conniver's Badge [head]
+  - 212029 # Horns of the Destroyer [Evoker Head]
+  - 212047 # Gatecrasher's Horns [Monk Head]
+  - 212038 # K'areshi Phantom's Emptiness [Rogue Head]
+  - 211984 # Warsculptor's Barbute [Warrior Head]
+
+225633: # Zenith Obscenity's Idol [shoulders]
+  - 212027 # Fumaroles of the Destroyer [Evoker Shoulders]
+  - 212045 # Gatecrasher's Enduring Effigy [Monk Shoulders]
+  - 212036 # K'areshi Phantom's Shoulderpads [Rogue Shoulders]
+  - 211982 # Warsculptor's Horned Spaulders [Warrior Shoulders]
+
+225617: # Zenith Blasphemer's Effigy [chest]
+  - 212032 # Scales of the Destroyer [Evoker Chest]
+  - 212050 # Gatecrasher's Gi [Monk Chest]
+  - 212041 # K'areshi Phantom's Nexus Wraps [Rogue Chest]
+  - 211987 # Warsculptor's Furred Plastron [Warrior Chest]
+
+225621: # Zenith Stalwart's Emblem [hands]
+  - 212030 # Rippers of the Destroyer [Evoker Hands]
+  - 212048 # Gatecrasher's Protectors [Monk Hands]
+  - 212039 # K'areshi Phantom's Grips [Rogue Hands]
+  - 211985 # Warsculptor's Crushers [Warrior Hands]
+
+225629: # Zenith Slayer's Icon [legs]
+  - 212028 # Legguards of the Destroyer [Evoker Legs]
+  - 212046 # Gatecrasher's Kilt [Monk Legs]
+  - 212037 # K'areshi Phantom's Leggings [Rogue Legs]
+  - 211983 # Warsculptor's Cuisses [Warrior Legs]
+
+# Any
+225634: # Web-Wrapped Curio
+  - 1225622: # Dreadful Conniver's Badge [head]
+  - 1225630: # Dreadful Obscenity's Idol [shoulders]
+  - 1225614: # Dreadful Blasphemer's Effigy [chest]
+  - 1225618: # Dreadful Stalwart's Emblem [hands]
+  - 1225626: # Dreadful Slayer's Icon [legs]
+  - 1225623: # Mystic Conniver's Badge [head]
+  - 1225631: # Mystic Obscenity's Idol [shoulders]
+  - 1225615: # Mystic Blasphemer's Effigy [chest]
+  - 1225619: # Mystic Stalwart's Emblem [hands]
+  - 1225627: # Mystic Slayer's Icon [legs]
+  - 1225624: # Venerated Conniver's Badge [head]
+  - 1225632: # Venerated Obscenity's Idol [shoulders]
+  - 1225616: # Venerated Blasphemer's Effigy [chest]
+  - 1225620: # Venerated Stalwart's Emblem [hands]
+  - 1225628: # Venerated Slayer's Icon [legs]
+  - 1225625: # Zenith Conniver's Badge [head]
+  - 1225633: # Zenith Obscenity's Idol [shoulders]
+  - 1225617: # Zenith Blasphemer's Effigy [chest]
+  - 1225621: # Zenith Stalwart's Emblem [hands]
+  - 1225629: # Zenith Slayer's Icon [legs]
+  
