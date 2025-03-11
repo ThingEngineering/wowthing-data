@@ -1,17 +1,33 @@
 name: "Seasonal"
 groups:
 
-- name: "Upgrade Tutorial"
-  icon: "item/221269"
-  iconText: "Up"
+- name: "Season 2"
+  icon: "achievement/40732"
+  iconText: "S2"
   lookup: none
   minimumLevel: 80
   type: quest
   data:
     0:
-      - id: 82042
-      - id: 82050
-      - id: 82059
+      - id: 86396 # The Better Part of Valorstones
+      - id: 86399 # Don't Undermine the Crests
+      - id: 86401 # Crest Transmutation
+
+      - name: separator
+
+      - id: 86369 # A Sparkling Fortune
+        description: "{price:2|1230905}" # Fractured Spark of Fortunes
+
+      - name: separator
+
+      - id: 85242 # Seasonal Refresher
+        name: "Seasonal Refresher"
+
+      - id: 85243 # I Want My Hat Back
+        name: "I Want My Hat Back"
+
+      - id: 85244 # Defeating the Underpin
+        name: "Defeating the Underpin"
 
 - name: "Season 1"
   icon: "achievement/40732"
