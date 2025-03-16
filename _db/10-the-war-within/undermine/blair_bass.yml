@@ -1,0 +1,23 @@
+things:
+  - id: 226994
+    type: "vendor"
+    name: "Blair Bass"
+    note: '"Gold" Fish Exchange'
+
+    locations:
+      here: # undermine
+        - 34 71.4
+
+    contents:
+
+      - id: 237346 # Artisan Beverage Goblet Bobber
+        costs:
+          1227673: 5
+
+      - id: 237345 # Limited Edition Rocket Bobber
+        costs:
+          1227673: 5
+
+      - id: 237347 # Organically-Sourced Wellington Bobber
+        costs:
+          1227673: 5
