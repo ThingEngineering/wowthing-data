@@ -11,7 +11,7 @@ things:
     trackingQuestId: 82819
     locations:
       here:
-        - "58.8 64.2"
+        - "54.8 64.2"
     contents:
       - type: "item"
         id: 220774 # Goblin Mini Fridge
