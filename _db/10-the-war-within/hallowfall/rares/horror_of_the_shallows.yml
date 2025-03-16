@@ -1,0 +1,18 @@
+things:
+  - id: 221668
+    type: "npc"
+    name: "Horror of the Shallows"
+    reset: "daily"
+    trackingQuestId: 81836
+
+    locations:
+      here: # hallowfall
+        - 33.1 26.9
+
+    contents:
+
+      - id: 221211 # Grasp of the Shallows [cloth hands]
+
+      - id: 221248 # Deep Terror Carver [1h ? axe]
+
+      - id: 221255 # Sharpened Scalepiercer [? dagger]

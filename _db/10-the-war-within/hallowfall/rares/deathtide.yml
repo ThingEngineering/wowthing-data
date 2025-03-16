@@ -1,0 +1,17 @@
+things:
+  - id: 221753
+    type: "npc"
+    name: "Deathtide"
+    note: "The Viscous Swell"
+    reset: "daily"
+    trackingQuestId: 81880
+
+    locations:
+      here: # hallowfall
+        - 44.8 42.8
+
+    contents:
+
+      - id: 225997 # Earthen Adventurer's Spaulders [subclass=5 shoulders]
+
+      - id: 223920 # Slime Deflecting Stopper [shield]

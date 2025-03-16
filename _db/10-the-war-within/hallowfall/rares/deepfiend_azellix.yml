@@ -1,0 +1,20 @@
+things:
+  - id: 218458
+    type: "npc"
+    name: "Deepfiend Azellix"
+    reset: "daily"
+    trackingQuestId: 80011
+
+    locations:
+      here: # hallowfall
+        - 72 64.2
+
+    contents:
+
+      - id: 223395 # Deepfiend Shoulderpads [cloth shoulders]
+
+      - id: 223393 # Deepfiend Spaulders [leather shoulders]
+
+      - id: 223396 # Deepfiend Shoulder Shells [mail shoulders]
+
+      - id: 223394 # Deepfiend Pauldrons [plate shoulders]

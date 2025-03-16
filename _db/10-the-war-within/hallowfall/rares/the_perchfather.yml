@@ -1,0 +1,20 @@
+things:
+  - id: 221648
+    type: "npc"
+    name: "The Perchfather"
+    reset: "daily"
+    trackingQuestId: 81791
+
+    locations:
+      here: # hallowfall
+        - 44 16.4
+
+    contents:
+
+      - id: 221229 # Perchfather's Cuffs [plate wrists]
+
+      - id: 221251 # Bestial Underground Cleaver [2h ? axe]
+
+      - id: 221246 # Fierce Beast Staff [staff]
+
+      - id: 221247 # Cavernous Critter Shooter [crossbow]

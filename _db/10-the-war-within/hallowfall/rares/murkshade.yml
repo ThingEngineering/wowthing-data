@@ -1,0 +1,20 @@
+things:
+  - id: 218452
+    type: "npc"
+    name: "Murkshade"
+    reset: "daily"
+    trackingQuestId: 80010
+
+    locations:
+      here: # hallowfall
+        - 52.2 26.8
+
+    contents:
+
+      - id: 223384 # Murkshade Gloves [cloth hands]
+
+      - id: 223382 # Murkshade Grips [leather hands]
+
+      - id: 223385 # Murkshade Gauntlets [mail hands]
+
+      - id: 223383 # Murkshade Handguards [plate hands]

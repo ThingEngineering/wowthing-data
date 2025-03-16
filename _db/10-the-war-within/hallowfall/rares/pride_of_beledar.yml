@@ -1,0 +1,22 @@
+things:
+  - id: 221786
+    type: "npc"
+    name: "Pride of Beledar"
+    reset: "daily"
+    trackingQuestId: 81882
+
+    locations:
+      here: # hallowfall
+        - 57.3 48.6
+
+    contents:
+
+      - id: 221225 # Benevolent Hornstag Cinch [cloth waist]
+
+      - id: 221251 # Bestial Underground Cleaver [2h ? axe]
+
+      - id: 223007 # Lance of Beledar's Pride [polearm]
+
+      - id: 221246 # Fierce Beast Staff [staff]
+
+      - id: 221247 # Cavernous Critter Shooter [crossbow]

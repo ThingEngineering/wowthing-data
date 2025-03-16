@@ -1,0 +1,20 @@
+things:
+  - id: 218426
+    type: "npc"
+    name: "Ixlorb the Spinner"
+    reset: "daily"
+    trackingQuestId: 80006
+
+    locations:
+      here: # hallowfall
+        - 57 64.2
+
+    contents:
+
+      - id: 223374 # Nerubian Weaver's Gown [cloth chest]
+
+      - id: 223381 # Nerubian Weaver's Vest [leather chest]
+
+      - id: 223380 # Nerubian Weaver's Chainmail [mail chest]
+
+      - id: 223379 # Nerubian Weaver's Chestplate [plate chest]

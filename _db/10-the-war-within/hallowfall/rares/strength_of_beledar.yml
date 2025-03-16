@@ -1,0 +1,22 @@
+things:
+  - id: 221690
+    type: "npc"
+    name: "Strength of Beledar"
+    reset: "daily"
+    trackingQuestId: 81849
+
+    locations:
+      here: # hallowfall
+        - 43.6 29.9
+
+    contents:
+
+      - id: 221216 # Bruin Strength Legplates [plate legs]
+
+      - id: 221508 # Pelt of Beledar's Strength [cloak]
+
+      - id: 221251 # Bestial Underground Cleaver [2h ? axe]
+
+      - id: 221246 # Fierce Beast Staff [staff]
+
+      - id: 221247 # Cavernous Critter Shooter [crossbow]

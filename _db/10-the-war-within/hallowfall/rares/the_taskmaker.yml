@@ -1,0 +1,18 @@
+things:
+  - id: 218444
+    type: "npc"
+    name: "The Taskmaker"
+    reset: "daily"
+    trackingQuestId: 80009
+
+    locations:
+      here: # hallowfall
+        - 56.4 69
+
+    contents:
+
+      - id: 221215 # Taskmaster's Mining Cap [leather head]
+
+      - id: 221240 # Nerubian Stagshell Gouger [1h ? sword]
+
+      - id: 221252 # Nerubian Slayer's Claymore [2h ? sword]

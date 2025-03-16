@@ -1,0 +1,21 @@
+things:
+  - id: 221551
+    type: "npc"
+    name: "Grimslice"
+    note: "Ragefin Champion"
+    reset: "daily"
+    trackingQuestId: 81761
+
+    locations:
+      here: # hallowfall
+        - 35.0 58.7
+
+    contents:
+
+      - id: 223398 # Abyssal Hunter's Sash [cloth waist]
+
+      - id: 223400 # Abyssal Hunter's Cinch [leather waist]
+
+      - id: 223399 # Abyssal Hunter's Chain [mail waist]
+
+      - id: 223397 # Abyssal Hunter's Girdle [plate waist]

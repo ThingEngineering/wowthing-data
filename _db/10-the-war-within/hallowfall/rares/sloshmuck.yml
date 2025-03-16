@@ -1,0 +1,18 @@
+things:
+  - id: 215805
+    type: "npc"
+    name: "Sloshmuck"
+    reset: "daily"
+    trackingQuestId: 79271
+
+    locations:
+      here: # hallowfall
+        - 73.4 52.4
+
+    contents:
+
+      - id: 221223 # Bog Beast Mantle [mail shoulders]
+
+      - id: 221250 # Creeping Lasher Machete [1h ? sword]
+
+      - id: 221253 # Cultivator's Plant Puncher [fist]

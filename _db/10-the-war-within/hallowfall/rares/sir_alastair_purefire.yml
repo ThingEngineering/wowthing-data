@@ -1,0 +1,19 @@
+things:
+  - id: 221708
+    type: "npc"
+    name: "Sir Alastair Purefire"
+    note: "Order of the Sacred Flame"
+    reset: "daily"
+    trackingQuestId: 81853
+
+    locations:
+      here: # hallowfall
+        - 35.9 35.5
+
+    contents:
+
+      - id: 221245 # Righteous Path Treads [leather feet]
+
+      - id: 220330 # Pierced Armguards [mail wrists]
+
+      - id: 221241 # Priestly Agent's Knife [? dagger]
