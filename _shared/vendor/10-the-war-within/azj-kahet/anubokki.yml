@@ -11,14 +11,14 @@ sells:
   # 0
 
   - type: item
+    id: 226519 # General's Expertise [toy]
+    costs:
+      3056: 1100
+
+  - type: item
     id: 228944 # Crypt Lord's Severed Thread
     costs:
       3056: 250
-
-  - type: item
-    id: 226519 # General's Expertise
-    costs:
-      3056: 1100
 
   - type: item
     id: 223278 # Heritage Undercrawler
