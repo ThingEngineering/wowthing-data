@@ -1,0 +1,25 @@
+things:
+  - id: 231012
+    type: "npc"
+    name: "Candy Stickemup"
+    note: "Gutter Thief"
+    reset: "weekly"
+    trackingQuestId: 84927
+
+    locations:
+      here: # undermine
+        - 42.2 76.7
+
+    contents:
+
+      - id: 235304 # Gutter Rat Mask [cloth head]
+
+      - id: 235310 # Flashy Patchwork Trousers [cloth legs]
+
+      - id: 235327 # Mend-and-Match Shoulderpads [leather shoulders]
+
+      - id: 235320 # S.1.Z.Z.L.E.S.T.E.P Boots [mail feet]
+
+      - id: 235347 # 100% Sharp Glimmerblade [? dagger]
+
+      - id: 235348 # Back Alley Shank [? dagger]

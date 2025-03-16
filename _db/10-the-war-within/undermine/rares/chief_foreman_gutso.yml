@@ -1,0 +1,21 @@
+things:
+  - id: 230828
+    type: "npc"
+    name: "Chief Foreman Gutso"
+    note: "Venture Co."
+    reset: "weekly"
+    trackingQuestId: 84907
+
+    locations:
+      here: # undermine
+        - 59.5 84.7
+
+    contents:
+
+      - id: 235311 # Rocket-Powered Shoulderguards [plate shoulders]
+
+      - id: 235300 # Cloak of Mecha Shards [cloak]
+
+      - id: 235351 # Hypersteel CX4 Greatsword [1h ? sword]
+
+      - id: 235357 # Bulletscar Barricade [shield]

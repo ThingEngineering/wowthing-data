@@ -1,0 +1,21 @@
+things:
+  - id: 230840
+    type: "npc"
+    name: "Flyboy Snooty"
+    note: "Darkfuse Drone Master"
+    reset: "weekly"
+    trackingQuestId: 84911
+
+    locations:
+      here: # undermine
+        - 60.6 9.6
+
+    contents:
+
+      - id: 235351 # Hypersteel CX4 Greatsword [1h ? sword]
+
+      - id: 235312 # Snooty's Aviator Bindings [plate wrists]
+
+      - id: 235316 # Whirly-Giggle Windwhir Wrap [plate waist]
+
+      - id: 235300 # Cloak of Mecha Shards [cloak]

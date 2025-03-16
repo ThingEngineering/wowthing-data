@@ -1,0 +1,32 @@
+things:
+  - id: 231396
+    type: "vendor"
+    name: "Sitch Lowdown"
+    note: "Darkfuse Solutions Quartermaster"
+
+    locations:
+      here: # undermine
+        - 30.6 38.8
+
+    groups:
+      - name: "Darkfuse Solutions"
+        range: -1
+        sortKey: "rep-9"
+
+    contents:
+
+      - id: 229950 # Darkfuse Demolisher [mount]
+        costs:
+          2815: 11375
+
+      - id: 234950 # Atomic Regoblinator [toy]
+        costs:
+          2815: 5000
+
+      - id: 231550 # Darkfuse Lowdown Coat [subclass=5 chest]
+        costs:
+          2815: 3250
+
+      - id: 235558 # Box of Darkfuse Miscellany
+        costs:
+          3226: 100

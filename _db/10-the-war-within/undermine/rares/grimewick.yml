@@ -1,0 +1,16 @@
+things:
+  - id: 231017
+    type: "npc"
+    name: "Grimewick"
+    reset: "weekly"
+    trackingQuestId: 84928
+
+    locations:
+      here: # undermine
+        - 67.5 33.5
+
+    contents:
+
+      - id: 235319 # Tidebomb Chestpiece [mail chest]
+
+      - id: 235323 # Blastshell Bracers [mail wrists]

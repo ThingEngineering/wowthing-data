@@ -1,0 +1,23 @@
+things:
+  - id: 230946
+    type: "npc"
+    name: "V.V. Goosworth"
+    note: "Disgraced Slimeologist"
+    reset: "weekly"
+    trackingQuestId: 84920
+
+    locations:
+      here: # undermine
+        - 36.9 78.2
+
+    contents:
+
+      - id: 235306 # Ooze-fused Mantle [cloth shoulders]
+
+      - id: 235310 # Flashy Patchwork Trousers [cloth legs]
+
+      - id: 235329 # Cowl of Acidic Mire [leather head]
+
+      - id: 235327 # Mend-and-Match Shoulderpads [leather shoulders]
+
+      - id: 235320 # S.1.Z.Z.L.E.S.T.E.P Boots [mail feet]

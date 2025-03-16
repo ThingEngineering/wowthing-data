@@ -1,0 +1,30 @@
+things:
+  - id: 231821
+    type: "npc"
+    name: "The Gobfather"
+    note: "Demodome Champion"
+    reset: "weekly"
+    trackingQuestId: 85089
+    accountWide: true
+
+    locations:
+      here: # undermine
+        - 50.4 19.1
+
+    contents:
+
+      - id: 232726 # Well-Trodden Mechanic's Shoes [cloth feet]
+
+      - id: 232725 # Pilot's Oiled Trousers [cloth legs]
+
+      - id: 232727 # Cavern Stalker's Trophy Girdle [leather waist]
+
+      - id: 232728 # Darkfuse Dinner Jacket [leather chest]
+
+      - id: 232729 # Horn-Adorned Chausses [mail legs]
+
+      - id: 232730 # Cauldron Master Cleats [mail feet]
+
+      - id: 232732 # Champion's Gilded Stompers [plate feet]
+
+      - id: 232731 # Steadfast Contender's Breastplate [plate chest]

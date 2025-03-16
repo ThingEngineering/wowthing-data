@@ -1,0 +1,23 @@
+things:
+  - id: 230940
+    type: "npc"
+    name: "Tally Doublespeak"
+    note: "Chief Darkfuse Propagandist"
+    reset: "weekly"
+    trackingQuestId: 84919
+
+    locations:
+      here: # undermine
+        - 36.2 43.3
+
+    contents:
+
+      - id: 235310 # Flashy Patchwork Trousers [cloth legs]
+
+      - id: 235327 # Mend-and-Match Shoulderpads [leather shoulders]
+
+      - id: 235328 # Boots of the Silver Tongue [leather feet]
+
+      - id: 235320 # S.1.Z.Z.L.E.S.T.E.P Boots [mail feet]
+
+      - id: 235355 # Gossi-blin's Baton [staff]

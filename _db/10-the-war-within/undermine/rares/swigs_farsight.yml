@@ -1,0 +1,23 @@
+things:
+  - id: 231288
+    type: "npc"
+    name: "Swigs Farsight"
+    note: "The Knightrider"
+    reset: "weekly"
+    trackingQuestId: 85004
+
+    locations:
+      here: # undermine
+        - 41.3 43.6
+
+    contents:
+
+      - id: 235307 # Smoketrail Belt [cloth waist]
+
+      - id: 235310 # Flashy Patchwork Trousers [cloth legs]
+
+      - id: 235327 # Mend-and-Match Shoulderpads [leather shoulders]
+
+      - id: 235320 # S.1.Z.Z.L.E.S.T.E.P Boots [mail feet]
+
+      - id: 235314 # Knightrider's Steelfists [plate hands]

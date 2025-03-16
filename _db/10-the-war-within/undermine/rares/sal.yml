@@ -1,0 +1,23 @@
+things:
+  - id: 230979
+    type: "npc"
+    name: "S.A.L."
+    note: "Super Augmented Laborer"
+    reset: "weekly"
+    trackingQuestId: 84922
+
+    locations:
+      here: # undermine
+        - 41.8 25.3
+
+    contents:
+
+      - id: 235322 # Junkyard Clawguards [mail hands]
+
+      - id: 235315 # Rocketstep Boots [plate feet]
+
+      - id: 235300 # Cloak of Mecha Shards [cloak]
+
+      - id: 235351 # Hypersteel CX4 Greatsword [1h ? sword]
+
+      - id: 235356 # Sapper's Spark Reactor [off-hand]

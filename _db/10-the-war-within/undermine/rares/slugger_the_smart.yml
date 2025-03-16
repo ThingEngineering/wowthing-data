@@ -1,0 +1,22 @@
+things:
+  - id: 230800
+    type: "npc"
+    name: "Slugger the Smart"
+    reset: "weekly"
+    trackingQuestId: 84895
+
+    locations:
+      here: # undermine
+        - 52.3 40.8
+
+    contents:
+
+      - id: 235310 # Flashy Patchwork Trousers [cloth legs]
+
+      - id: 235327 # Mend-and-Match Shoulderpads [leather shoulders]
+
+      - id: 235320 # S.1.Z.Z.L.E.S.T.E.P Boots [mail feet]
+
+      - id: 235349 # Shadowfume Club [1h ? mace]
+
+      - id: 235347 # 100% Sharp Glimmerblade [? dagger]

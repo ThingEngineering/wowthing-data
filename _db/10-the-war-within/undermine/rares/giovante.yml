@@ -1,0 +1,23 @@
+things:
+  - id: 234499
+    type: "npc"
+    name: "Giovante"
+    note: "Unwitting Trial"
+    reset: "weekly"
+    trackingQuestId: 86307
+
+    locations:
+      here: # undermine
+        - 32.0 76.5
+
+    contents:
+
+      - id: 235310 # Flashy Patchwork Trousers [cloth legs]
+
+      - id: 235327 # Mend-and-Match Shoulderpads [leather shoulders]
+
+      - id: 235823 # Scrap-Plated Pants [leather legs]
+
+      - id: 235320 # S.1.Z.Z.L.E.S.T.E.P Boots [mail feet]
+
+      - id: 235824 # Flame Sputterer [gun]

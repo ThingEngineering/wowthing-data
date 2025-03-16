@@ -1,0 +1,19 @@
+things:
+  - id: 233471
+    type: "npc"
+    name: "Scrapchewer"
+    note: "Workplace Liability"
+    reset: "weekly"
+    trackingQuestId: 85778
+
+    locations:
+      here: # undermine
+        - 56.7 79.0
+
+    contents:
+
+      - id: 235829 # Welded Scrap Hood [mail head]
+
+      - id: 235830 # Unstable Missilecaps [mail shoulders]
+
+      - id: 235831 # Battery-Powered Longshank [1h ? sword]

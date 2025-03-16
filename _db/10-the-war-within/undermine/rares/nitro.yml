@@ -1,0 +1,19 @@
+things:
+  - id: 230995
+    type: "npc"
+    name: "Nitro"
+    note: "Black Blood Hound"
+    reset: "weekly"
+    trackingQuestId: 84926
+
+    locations:
+      here: # undermine
+        - 47 55.7
+
+    contents:
+
+      - id: 235325 # Rusthide Gloves [leather hands]
+
+      - id: 235324 # Scavenger's Lost Bind [leather waist]
+
+      - id: 235318 # Ironfang Plate Legguards [plate legs]

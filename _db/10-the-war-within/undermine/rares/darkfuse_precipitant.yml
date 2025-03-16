@@ -1,0 +1,23 @@
+things:
+  - id: 231310
+    type: "npc"
+    name: "Darkfuse Precipitant"
+    reset: "weekly"
+    trackingQuestId: 85010
+
+    locations:
+      here: # undermine
+        - 40.8 91.4
+        - 41.4 92
+
+    contents:
+
+      - id: 229955 # Darkfuse Spy-Eye [mount]
+
+      - id: 220311 # Moth-Ridden Leggings [cloth legs]
+
+      - id: 235832 # Oil-Splattered Cloak [cloak]
+
+      - id: 235834 # Rocketgrip Turboslicer [warglaive]
+
+      - id: 235833 # Serrated Slickgrip [polearm]

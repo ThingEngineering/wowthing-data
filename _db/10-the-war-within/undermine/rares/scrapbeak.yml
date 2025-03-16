@@ -1,0 +1,19 @@
+things:
+  - id: 230931
+    type: "npc"
+    name: "Scrapbeak"
+    note: "Scourge of the Course"
+    reset: "weekly"
+    trackingQuestId: 84917
+
+    locations:
+      here: # undermine
+        - 68.6 81.2
+
+    contents:
+
+      - id: 235305 # Golfer's Truestrike Gloves [cloth hands]
+
+      - id: 235321 # Feather-Spike Girdle [mail waist]
+
+      - id: 235301 # Drape of the Dazzling Feather [cloak]

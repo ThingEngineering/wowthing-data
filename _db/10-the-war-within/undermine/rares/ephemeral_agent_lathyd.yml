@@ -1,0 +1,18 @@
+things:
+  - id: 230746
+    type: "npc"
+    name: "Ephemeral Agent Lathyd"
+    reset: "weekly"
+    trackingQuestId: 84877
+
+    locations:
+      here: # undermine
+        - 26.5 68.4
+
+    contents:
+
+      - id: 235309 # Gloomshroud Robe [cloth chest]
+
+      - id: 235350 # Void-forged Cudgel [1h ? mace]
+
+      - id: 235352 # Netherflare Wand [wand]

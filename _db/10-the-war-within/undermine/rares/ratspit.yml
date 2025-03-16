@@ -1,0 +1,17 @@
+things:
+  - id: 230934
+    type: "npc"
+    name: "Ratspit"
+    note: "Court of Rats"
+    reset: "weekly"
+    trackingQuestId: 84918
+
+    locations:
+      here: # undermine
+        - 25.3 36.7
+
+    contents:
+
+      - id: 235308 # Filthtread Boots [cloth feet]
+
+      - id: 235326 # Ratspit's Heirloom Wristwraps [leather wrists]
