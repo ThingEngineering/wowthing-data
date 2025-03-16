@@ -1,0 +1,20 @@
+things:
+  - id: 216031
+    type: "npc"
+    name: "Abyssal Devourer"
+    reset: "daily"
+    trackingQuestId: 81695
+
+    locations:
+      here: # azj_kahet
+        - 47.4 43.7
+
+    contents:
+
+      - id: 223390 # Leggings of Dark Hunger [cloth legs]
+
+      - id: 223392 # Trousers of Dark Hunger [leather legs]
+
+      - id: 223391 # Legguards of Dark Hunger [mail legs]
+
+      - id: 223389 # Legplates of Dark Hunger [plate legs]

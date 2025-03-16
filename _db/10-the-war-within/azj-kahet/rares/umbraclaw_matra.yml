@@ -1,0 +1,18 @@
+things:
+  - id: 216051
+    type: "npc"
+    name: "Umbraclaw Matra"
+    reset: "daily"
+    trackingQuestId: 82037
+
+    locations:
+      here: # azj_kahet
+        - 64.5 3.4
+
+    contents:
+
+      - id: 223930 # Monstrous Chain Pincers [mail hands]
+
+      - id: 221240 # Nerubian Stagshell Gouger [1h ? sword]
+
+      - id: 221252 # Nerubian Slayer's Claymore [2h ? sword]

@@ -1,0 +1,19 @@
+things:
+  - id: 216044
+    type: "npc"
+    name: "Maddened Siegebomber"
+    note: "Flies in a big figure 8"
+    reset: "daily"
+    trackingQuestId: 81706
+
+    locations:
+      here: # azj_kahet
+        - 66.4 56.4
+
+    contents:
+
+      - id: 221217 # Nerubian Bomber's Leggings [cloth legs]
+
+      - id: 221240 # Nerubian Stagshell Gouger [1h ? sword]
+
+      - id: 221252 # Nerubian Slayer's Claymore [2h ? sword]

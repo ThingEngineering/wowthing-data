@@ -1,0 +1,20 @@
+things:
+  - id: 222624
+    type: "npc"
+    name: "Deepcrawler Tx'kesh"
+    reset: "daily"
+    trackingQuestId: 82077
+
+    locations:
+      here: # azj_kahet
+        - 64.4 6.4
+
+    contents:
+
+      - id: 223923 # Gilded Cryptlord's Sabatons [plate feet]
+
+      - id: 223917 # Nerubian Covert's Cloak [cloak]
+
+      - id: 223915 # Nerubian Orator's Stiletto [? dagger]
+
+      - id: 223916 # Nerubian Cutthroat's Reach [polearm]

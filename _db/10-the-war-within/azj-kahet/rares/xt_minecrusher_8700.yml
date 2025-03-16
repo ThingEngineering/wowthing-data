@@ -1,0 +1,14 @@
+things:
+  - id: 216034
+    type: "npc"
+    name: "XT-Minecrusher 8700"
+    reset: "daily"
+    trackingQuestId: 81703
+
+    locations:
+      here: # azj_kahet
+        - 76.6 57.8
+
+    contents:
+
+      - id: 221231 # Steam-Powered Wristwatch [leather wrists]

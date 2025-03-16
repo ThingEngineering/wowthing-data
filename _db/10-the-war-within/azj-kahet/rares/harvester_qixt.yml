@@ -1,0 +1,20 @@
+things:
+  - id: 216050
+    type: "npc"
+    name: "Harvester Qixt"
+    reset: "daily"
+    trackingQuestId: 82036
+
+    locations:
+      here: # azj_kahet___lower
+        - 62.4 86.4
+
+    contents:
+
+      - id: 223941 # Nerubian Cultivator's Girdle [plate waist]
+
+      - id: 223917 # Nerubian Covert's Cloak [cloak]
+
+      - id: 223915 # Nerubian Orator's Stiletto [? dagger]
+
+      - id: 223916 # Nerubian Cutthroat's Reach [polearm]

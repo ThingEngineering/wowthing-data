@@ -1,0 +1,20 @@
+things:
+  - id: 216047
+    type: "npc"
+    name: "The One Left"
+    reset: "daily"
+    trackingQuestId: 82290
+
+    locations:
+      here: # azj_kahet
+        - 63.5 95.2
+
+    contents:
+
+      - id: 225998 # Earthen Adventurer's Cloak [subclass=5 back]
+
+      - id: 221251 # Bestial Underground Cleaver [2h ? axe]
+
+      - id: 221246 # Fierce Beast Staff [staff]
+
+      - id: 221247 # Cavernous Critter Shooter [crossbow]

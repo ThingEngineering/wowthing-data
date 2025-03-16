@@ -1,0 +1,20 @@
+things:
+  - id: 216037
+    type: "npc"
+    name: "Vilewing"
+    reset: "daily"
+    trackingQuestId: 81700
+
+    locations:
+      here: # azj_kahet
+        - 36.6 44.3
+
+    contents:
+
+      - id: 223386 # Vilewing Crown [cloth head]
+
+      - id: 223388 # Vilewing Cap [leather head]
+
+      - id: 223387 # Vilewing Chain Helm [mail head]
+
+      - id: 223405 # Vilewing Visor [plate head]

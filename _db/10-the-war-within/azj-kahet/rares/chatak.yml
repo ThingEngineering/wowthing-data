@@ -1,0 +1,17 @@
+things:
+  - id: 216042
+    type: "npc"
+    name: "Cha'tak"
+    note: "Behind the waterfall"
+    reset: "daily"
+    trackingQuestId: 81704
+
+    locations:
+      here: # azj_kahet
+        - 70.7 21.4
+
+    contents:
+
+      - id: 221212 # Death Burrower Handguards [mail hands]
+
+      - id: 221237 # Lamentable Vagrant's Lantern [off-hand]

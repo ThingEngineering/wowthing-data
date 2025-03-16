@@ -1,0 +1,20 @@
+things:
+  - id: 216048
+    type: "npc"
+    name: "Jix'ak the Crazed"
+    reset: "daily"
+    trackingQuestId: 82034
+
+    locations:
+      here: # azj_kahet___lower
+        - 65.1 85.7
+
+    contents:
+
+      - id: 223950 # Corruption Sifter's Treads [leather feet]
+
+      - id: 223917 # Nerubian Covert's Cloak [cloak]
+
+      - id: 223915 # Nerubian Orator's Stiletto [? dagger]
+
+      - id: 223916 # Nerubian Cutthroat's Reach [polearm]

@@ -1,0 +1,20 @@
+things:
+  - id: 216046
+    type: "npc"
+    name: "Tka'ktath"
+    note: "Queen's Sweetie"
+    reset: "daily"
+    trackingQuestId: 82289
+
+    locations:
+      here: # azj_kahet
+        - 62.8 66.7
+
+    contents:
+
+      - id: 224150 # Siesbarg [mount]
+        note: "Drops {item:225952} that starts a quest chain"
+
+      - id: 221240 # Nerubian Stagshell Gouger [1h ? sword]
+
+      - id: 221252 # Nerubian Slayer's Claymore [2h ? sword]

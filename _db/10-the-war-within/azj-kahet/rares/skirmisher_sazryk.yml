@@ -1,0 +1,21 @@
+things:
+  - id: 216052
+    type: "npc"
+    name: "Skirmisher Sa'zryk"
+    note: "Patrols along the path"
+    reset: "daily"
+    trackingQuestId: 82078
+
+    locations:
+      here: # azj_kahet
+        - 61.3 7.6
+
+    contents:
+
+      - id: 223939 # Esteemed Nerubian's Mantle [cloth shoulders]
+
+      - id: 223917 # Nerubian Covert's Cloak [cloak]
+
+      - id: 223915 # Nerubian Orator's Stiletto [? dagger]
+
+      - id: 223916 # Nerubian Cutthroat's Reach [polearm]

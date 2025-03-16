@@ -1,0 +1,18 @@
+things:
+  - id: 216043
+    type: "npc"
+    name: "Monstrous Lasharoth"
+    reset: "daily"
+    trackingQuestId: 81705
+
+    locations:
+      here: # azj_kahet
+        - 68.9 72.2
+
+    contents:
+
+      - id: 221227 # Monstrous Fungal Cord [leather waist]
+
+      - id: 221250 # Creeping Lasher Machete [1h ? sword]
+
+      - id: 221253 # Cultivator's Plant Puncher [fist]

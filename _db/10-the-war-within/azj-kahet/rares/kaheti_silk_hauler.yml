@@ -1,0 +1,19 @@
+things:
+  - id: 221327
+    type: "npc"
+    name: "Kaheti Silk Hauler"
+    note: "Patrols along the road"
+    reset: "daily"
+    trackingQuestId: 81702
+
+    locations:
+      here: # azj_kahet
+        - 63.2 25.2
+
+    contents:
+
+      - id: 221206 # Reinforced Chitin Chestpiece [plate chest]
+
+      - id: 221240 # Nerubian Stagshell Gouger [1h ? sword]
+
+      - id: 221252 # Nerubian Slayer's Claymore [2h ? sword]

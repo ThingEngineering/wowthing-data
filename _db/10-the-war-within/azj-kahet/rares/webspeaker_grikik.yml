@@ -1,0 +1,14 @@
+things:
+  - id: 216041
+    type: "npc"
+    name: "Webspeaker Grik'ik"
+    reset: "daily"
+    trackingQuestId: 81699
+
+    locations:
+      here: # azj_kahet
+        - 61.3 27.3
+
+    contents:
+
+      - id: 223369 # Webspeaker's Spiritual Cloak [cloak]

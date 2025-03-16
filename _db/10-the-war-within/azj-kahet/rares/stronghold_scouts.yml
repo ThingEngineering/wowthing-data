@@ -1,0 +1,20 @@
+things:
+  - id: 216032
+    type: "npc"
+    name: "Stronghold Scouts"
+    reset: "daily"
+    trackingQuestId: 81694
+
+    locations:
+      here: # azj_kahet
+        - 45.5 42.1
+
+    contents:
+
+      - id: 223406 # Slippers of the Nerubian Twins [cloth feet]
+
+      - id: 223408 # Treads of the Nerubian Twins [leather feet]
+
+      - id: 223407 # Sabatons of the Nerubian Twins [mail feet]
+
+      - id: 223378 # Footguards of the Nerubian Twins [plate feet]

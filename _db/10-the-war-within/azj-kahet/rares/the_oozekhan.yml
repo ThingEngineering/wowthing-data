@@ -1,0 +1,14 @@
+things:
+  - id: 216049
+    type: "npc"
+    name: "The Oozekhan"
+    reset: "daily"
+    trackingQuestId: 82035
+
+    locations:
+      here: # azj_kahet___lower
+        - 61.7 89.4
+
+    contents:
+
+      - id: 223931 # Black Blood Cowl [cloth head]

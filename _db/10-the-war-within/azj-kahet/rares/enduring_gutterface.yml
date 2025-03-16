@@ -1,0 +1,18 @@
+things:
+  - id: 216045
+    type: "npc"
+    name: "Enduring Gutterface"
+    reset: "daily"
+    trackingQuestId: 81707
+
+    locations:
+      here: # azj_kahet
+        - 58 62.3
+
+    contents:
+
+      - id: 221243 # Slippers of Delirium [cloth feet]
+
+      - id: 221248 # Deep Terror Carver [1h ? axe]
+
+      - id: 221255 # Sharpened Scalepiercer [? dagger]
