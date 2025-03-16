@@ -1,0 +1,15 @@
+things:
+  - id: 219279
+    type: "npc"
+    name: "Flamekeeper Graz"
+    reset: "daily"
+
+    locations:
+      here: # isle_of_dorn
+        - 63.8 40.4
+
+    contents:
+
+      - id: 221244 # Flamekeeper's Footpads [mail feet]
+
+      - id: 221249 # Kobold Rodent Squasher [1h ? mace]

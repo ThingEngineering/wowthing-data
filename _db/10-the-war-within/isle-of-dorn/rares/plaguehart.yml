@@ -1,0 +1,19 @@
+things:
+  - id: 219267
+    type: "npc"
+    name: "Plaguehart"
+    reset: "daily"
+
+    locations:
+      here: # isle_of_dorn
+        - 50.4 70
+
+    contents:
+
+      - id: 221213 # Shawl of the Plagued [cloth head]
+
+      - id: 221251 # Bestial Underground Cleaver [2h ? axe]
+
+      - id: 221246 # Fierce Beast Staff [staff]
+
+      - id: 221247 # Cavernous Critter Shooter [crossbow]

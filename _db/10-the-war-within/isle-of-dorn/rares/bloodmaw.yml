@@ -1,0 +1,19 @@
+things:
+  - id: 219264
+    type: "npc"
+    name: "Bloodmaw"
+    reset: "daily"
+
+    locations:
+      here: # isle_of_dorn
+        - 41.2 77.4
+
+    contents:
+
+      - id: 223349 # Wolf Packleader's Cowl [cloth head]
+
+      - id: 223351 # Wolf Packleader's Hood [leather head]
+
+      - id: 223350 # Wolf Packleader's Helm [mail head]
+
+      - id: 223370 # Wolf Packleader's Visor [plate head]

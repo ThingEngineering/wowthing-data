@@ -1,0 +1,15 @@
+things:
+  - id: 220883
+    type: "npc"
+    name: "Sweetspark the Oozeful"
+    reset: "daily"
+
+    locations:
+      here: # isle_of_dorn
+        - 69.4 38.4
+
+    contents:
+
+      - id: 223929 # Honey Sweetener's Squeezers [cloth hands]
+
+      - id: 223920 # Slime Deflecting Stopper [shield]

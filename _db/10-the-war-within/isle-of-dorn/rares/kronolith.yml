@@ -1,0 +1,17 @@
+things:
+  - id: 219270
+    type: "npc"
+    name: "Kronolith, Might of the Mountain"
+    reset: "daily"
+
+    locations:
+      here: # isle_of_dorn
+        - 48 27
+
+    contents:
+
+      - id: 221210 # Grips of the Earth [plate hands]
+
+      - id: 221507 # Earth Golem's Wrap [cloak]
+
+      - id: 221254 # Earthshatter Lance [polearm]

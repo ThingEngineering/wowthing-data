@@ -1,0 +1,15 @@
+things:
+  - id: 219269
+    type: "npc"
+    name: "Tempest Lord Incarnus"
+    reset: "daily"
+
+    locations:
+      here: # isle_of_dorn
+        - 57.4 16.2
+
+    contents:
+
+      - id: 221230 # Storm Bindings [mail wrists]
+
+      - id: 221236 # Stormbreaker's Shield [shield]

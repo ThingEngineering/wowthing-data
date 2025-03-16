@@ -1,0 +1,15 @@
+things:
+  - id: 221126
+    type: "npc"
+    name: "Tephratennae"
+    reset: "daily"
+
+    locations:
+      here: # isle_of_dorn
+        - 71.4 38
+
+    contents:
+
+      - id: 223937 # Honey Deliverer's Leggings [leather legs]
+
+      - id: 223922 # Cinder Pollen Cloak [cloak]

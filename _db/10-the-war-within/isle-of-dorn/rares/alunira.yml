@@ -1,0 +1,14 @@
+things:
+  - id: 219281
+    type: "npc"
+    name: "Alunira"
+    note: "{price:10|1224025} to break her shield"
+    reset: "daily"
+
+    locations:
+      here: # isle_of_dorn
+        - 23 58.6
+
+    contents:
+
+      - id: 223270 # Alunira [mount]

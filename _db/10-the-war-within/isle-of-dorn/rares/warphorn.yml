@@ -1,0 +1,19 @@
+things:
+  - id: 219263
+    type: "npc"
+    name: "Warphorn"
+    reset: "daily"
+
+    locations:
+      here: # isle_of_dorn
+        - 57 32.9
+
+    contents:
+
+      - id: 223341 # Warphorn's Resilient Mane [cloth chest]
+
+      - id: 223344 # Warphorn's Resilient Vest [leather chest]
+
+      - id: 223343 # Warphorn's Resilient Chainmail [mail chest]
+
+      - id: 223342 # Warphorn's Resilient Chestplate [plate chest]

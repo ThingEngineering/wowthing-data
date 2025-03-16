@@ -1,0 +1,19 @@
+things:
+  - id: 222380
+    type: "npc"
+    name: "Rotfist"
+    note: "Violet Hold Prisoner"
+    reset: "daily"
+    zoneMapsGroupId: 2
+
+    locations:
+      here: # isle_of_dorn
+        - 30.8 52.2
+
+    contents:
+
+      - id: 226116 # Coagulating Phlegm Churner [subclass=5 back]
+
+      - id: 226112 # Rotfist Flesh Carver [1h ? sword]
+
+      - id: 226115 # Contaminating Cleaver [2h ? axe]

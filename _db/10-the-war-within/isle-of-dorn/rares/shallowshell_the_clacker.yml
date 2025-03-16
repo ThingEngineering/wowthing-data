@@ -1,0 +1,17 @@
+things:
+  - id: 219278
+    type: "npc"
+    name: "Shallowshell the Clacker"
+    reset: "daily"
+
+    locations:
+      here: # isle_of_dorn
+        - 74 27.6
+
+    contents:
+
+      - id: 221224 # Bouldershell Waistguard [plate waist]
+
+      - id: 221248 # Deep Terror Carver [1h ? axe]
+
+      - id: 221255 # Sharpened Scalepiercer [? dagger]

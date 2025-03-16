@@ -1,0 +1,20 @@
+things:
+  - id: 213115
+    type: "npc"
+    name: "Rustul Titancap"
+    note: "King Mushroom"
+    reset: "daily"
+
+    locations:
+      here: # isle_of_dorn
+        - 35.4 73.4
+
+    contents:
+
+      - id: 223364 # Wristwraps of the Titancap [cloth wrists]
+
+      - id: 223367 # Cuffs of the Titancap [leather wrists]
+
+      - id: 223366 # Bracers of the Titancap [mail wrists]
+
+      - id: 223365 # Wristguards of the Titancap [plate wrists]

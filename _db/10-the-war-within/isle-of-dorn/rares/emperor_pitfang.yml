@@ -1,0 +1,19 @@
+things:
+  - id: 219265
+    type: "npc"
+    name: "Emperor Pitfang"
+    reset: "daily"
+
+    locations:
+      here: # isle_of_dorn
+        - 47.8 60.2
+
+    contents:
+
+      - id: 223347 # Viper's Stone Mitts [cloth hands]
+
+      - id: 223345 # Viper's Stone Grips [leather hands]
+
+      - id: 223348 # Viper's Stone Gauntlets [mail hands]
+
+      - id: 223346 # Viper's Stone Handguards [plate hands]

@@ -1,0 +1,19 @@
+things:
+  - id: 219262
+    type: "npc"
+    name: "Springbubble"
+    reset: "daily"
+
+    locations:
+      here: # isle_of_dorn
+        - 58.7 60.7
+
+    contents:
+
+      - id: 223358 # Mantle of the Steamsurger [cloth shoulders]
+
+      - id: 223356 # Shoulderpads of the Steamsurger [leather shoulders]
+
+      - id: 223359 # Epaulets of the Steamsurger [mail shoulders]
+
+      - id: 223357 # Spaulders of the Steamsurger [plate shoulders]

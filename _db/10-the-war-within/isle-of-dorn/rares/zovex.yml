@@ -1,0 +1,19 @@
+things:
+  - id: 219284
+    type: "npc"
+    name: "Zovex"
+    note: "Violet Hold Prisoner"
+    reset: "daily"
+    zoneMapsGroupId: 2
+
+    locations:
+      here: # isle_of_dorn
+        - 30.8 52.2
+
+    contents:
+
+      - id: 226118 # Arcane Prisoner's Puncher [fist]
+
+      - id: 226119 # Arcane Sharpshooter's Crossbow [crossbow]
+
+      - id: 226117 # Dalaran Guardian's Arcanotool [off-hand]

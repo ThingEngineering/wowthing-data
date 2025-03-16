@@ -1,0 +1,19 @@
+things:
+  - id: 220890
+    type: "npc"
+    name: "Matriarch Charfuria"
+    reset: "daily"
+
+    locations:
+      here: # isle_of_dorn
+        - 72.4 40.4
+
+    contents:
+
+      - id: 223948 # Stubborn Wolf's Greathelm [plate head]
+
+      - id: 221251 # Bestial Underground Cleaver [2h ? axe]
+
+      - id: 221246 # Fierce Beast Staff [staff]
+
+      - id: 221247 # Cavernous Critter Shooter [crossbow]

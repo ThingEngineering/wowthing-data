@@ -1,0 +1,17 @@
+things:
+  - id: 219271
+    type: "npc"
+    name: "Twice-Stinger the Wretched"
+    reset: "daily"
+
+    locations:
+      here: # isle_of_dorn
+        - 57 22.4
+
+    contents:
+
+      - id: 221219 # Silkwing Trousers [leather legs]
+
+      - id: 221506 # Arachnid's Web-Sown Guise [cloak]
+
+      - id: 221239 # Spider Blasting Blunderbuss [gun]

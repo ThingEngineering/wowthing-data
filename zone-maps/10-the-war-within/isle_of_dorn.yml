@@ -7,3 +7,8 @@ farms:
   groupId: 1
   location: 57 64
   type: group
+
+- name: "Prisoners"
+  groupId: 2
+  location: 31 55
+  type: group

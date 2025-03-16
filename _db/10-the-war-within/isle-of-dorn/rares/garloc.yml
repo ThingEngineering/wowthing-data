@@ -1,0 +1,18 @@
+things:
+  - id: 219268
+    type: "npc"
+    name: "Gar'loc"
+    note: "High Sea Shaman"
+    reset: "daily"
+    trackingQuestId: 81899
+
+    locations:
+      here: # isle_of_dorn
+        - 53.4 80
+
+    contents:
+      - id: 221222 # Water-Imbued Spaulders [cloth shoulders]
+
+      - id: 221248 # Deep Terror Carver [1h ? axe]
+
+      - id: 221255 # Sharpened Scalepiercer [? dagger]
