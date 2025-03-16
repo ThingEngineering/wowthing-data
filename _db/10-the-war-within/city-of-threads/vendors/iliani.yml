@@ -1,0 +1,32 @@
+things:
+  - id: 218193
+    type: "vendor"
+    name: "Iliani"
+    note: "Enchanting Supplies"
+
+    locations:
+      here: # city_of_threads
+        - 45.4 33.4
+
+    contents:
+
+      # 0
+
+      - id: 224428 # Pattern: Magically "Infinite" Messenger
+        costs:
+          3056: 1500
+          1210814: 150
+
+      - id: 223136 # Formula: Enchant Bracers - Chant of Armored Avoidance
+        costs:
+          3056: 1500
+          1210814: 150
+
+      - id: 223137 # Formula: Enchant Bracers - Chant of Armored Leech
+        costs:
+          3056: 1500
+          1210814: 150
+
+      - id: 224050 # Web Sparkles: Pretty and Powerful
+        costs:
+          3056: 565

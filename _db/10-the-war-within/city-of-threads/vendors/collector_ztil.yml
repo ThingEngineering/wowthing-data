@@ -1,0 +1,33 @@
+things:
+  - id: 223280
+    type: "vendor"
+    name: "Collector Z'til"
+    note: "Alien Antiquities"
+
+    locations:
+      here: # city_of_threads
+        - 69.8 31.2
+
+    contents:
+
+      # 0
+
+      - id: 226520 # Queen's Pheromone
+        costs:
+          3056: 8888888
+
+      # - id: 226512 # Treasure Map: Forgotten Memorial
+      #   costs:
+      #     3056: 25
+
+      # - id: 226513 # Treasure Map: Kaheti Excavation
+      #   costs:
+      #     3056: 25
+
+      # - id: 226514 # Treasure Map: Weave-Rat Cache
+      #   costs:
+      #     3056: 25
+
+      - id: 226177 # Recipe: Outsider's Provisions [cooking]
+        costs:
+          3056: 2638

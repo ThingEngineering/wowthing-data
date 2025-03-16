@@ -1,0 +1,45 @@
+things:
+  - id: 223281
+    type: "vendor"
+    name: "Venomscribe Xesh XI"
+    note: "Books & Scrolls"
+
+    locations:
+      here: # city_of_threads
+        - 76.8 37.4
+
+    contents:
+
+      # 0
+
+      - id: 223136 # Formula: Enchant Bracers - Chant of Armored Avoidance [enchanting]
+        costs:
+          3056: 1500
+          1210814: 150
+
+      - id: 223137 # Formula: Enchant Bracers - Chant of Armored Leech [enchanting]
+        costs:
+          3056: 1500
+          1210814: 150
+
+      - id: 224430 # Pattern: Darkmoon Duffle [tailoring]
+        costs:
+          3056: 1500
+          1210814: 150
+
+      - id: 224428 # Pattern: Magically "Infinite" Messenger [tailoring]
+        costs:
+          3056: 1500
+          1210814: 150
+
+      - id: 224053 # Eight Views on Defense against Hostile Runes
+        costs:
+          3056: 565
+        requirements:
+          - "profession inscription tww 1"
+
+      - id: 224050 # Web Sparkles: Pretty and Powerful
+        costs:
+          3056: 565
+        requirements:
+          - "profession enchanting tww 1"

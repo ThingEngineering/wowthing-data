@@ -1,0 +1,36 @@
+things:
+  - id: 218214
+    type: "vendor"
+    name: "Ruukk"
+    note: "Silks & Secrets"
+
+    locations:
+      here: # city_of_threads
+        - 51.4 12.4
+
+    contents:
+
+      # 0
+
+      # - id: 226515 # Rumor Map: Bounties
+      #   costs:
+      #     3056: 25
+
+      # - id: 226516 # Rumor Map: Disruption
+      #   costs:
+      #     3056: 25
+
+      # - id: 226517 # Rumor Map: Espionage
+      #   costs:
+      #     3056: 25
+
+      - id: 224423 # Pattern: Artisan Alchemist's Robe [tailoring]
+        costs:
+          3056: 1500
+          1210814: 150
+
+      - id: 224036 # And That's A Web-Wrap!
+        costs:
+          3056: 565
+        requirements:
+          - "profession tailoring tww 1"

@@ -1,0 +1,40 @@
+things:
+  - id: 218166
+    type: "vendor"
+    name: "Rakka"
+    note: "Mining & Blacksmithing Supplies"
+
+    locations:
+      here: # city_of_threads
+        - 46.4 21.8
+
+    contents:
+
+      # 0
+
+      - id: 224432 # Pattern: Excavator's Haversack
+        costs:
+          3056: 1500
+          1210814: 150
+
+      - id: 223042 # Plans: Charged Slicer
+        costs:
+          3056: 1500
+          1210814: 150
+
+      - id: 223058 # Plans: Coreforged Skeleton Key
+        costs:
+          3056: 1500
+          1210814: 150
+
+      - id: 224055 # A Rocky Start
+        costs:
+          3056: 565
+
+      - id: 226519 # General's Expertise
+        costs:
+          3056: 1100
+
+      - id: 224038 # Smithing After Saronite
+        costs:
+          3056: 565

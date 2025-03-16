@@ -1,0 +1,35 @@
+things:
+  - id: 223278
+    type: "vendor"
+    name: "Apothecary Rz"
+    note: "Boutique Demolitions"
+
+    locations:
+      here: # city_of_threads
+        - 62.4 38
+
+    contents:
+
+      # 0
+
+      - id: 224425 # Pattern: Concoctor's Clutch [tailoring]
+        costs:
+          3056: 1500
+          1210814: 150
+
+      - id: 224429 # Pattern: Prodigy's Toolbox [tailoring]
+        costs:
+          3056: 1500
+          1210814: 150
+
+      - id: 224052 # Clocks, Gears, Sprockets, and Legs [engineering]
+        costs:
+          3056: 565
+        requirements:
+          - "profession engineering tww 1"
+
+      - id: 224024 # Theories of Bodily Transmutation, Chapter 8 [alchemy]
+        costs:
+          3056: 565
+        requirements:
+          - "profession alchemy tww 1"

@@ -1,0 +1,41 @@
+things:
+  - id: 218165
+    type: "vendor"
+    name: "Kama"
+    note: "Skinning & Leatherworking Supplies"
+
+    locations:
+      here: # city_of_threads
+        - 43 20.4
+
+    contents:
+
+      # 0
+
+      - id: 223111 # Pattern: Deep Tracker's Cap
+        costs:
+          3056: 1500
+          1210814: 150
+
+      - id: 223112 # Pattern: Deep Tracker's Pack
+        costs:
+          3056: 1500
+          1210814: 150
+
+      - id: 223105 # Pattern: Nerubian Alchemist's Hat
+        costs:
+          3056: 1500
+          1210814: 150
+
+      - id: 224427 # Pattern: Hideshaper's Workbag
+        costs:
+          3056: 1500
+          1210814: 150
+
+      - id: 224056 # Uses for Leftover Husks (After You Take Them Apart)
+        costs:
+          3056: 565
+
+      - id: 224007 # Uses for Leftover Husks (How to Take Them Apart)
+        costs:
+          3056: 565

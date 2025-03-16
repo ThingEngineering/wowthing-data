@@ -1,0 +1,24 @@
+things:
+  - id: 218190
+    type: "vendor"
+    name: "Saaria"
+    note: "Tailoring Supplies"
+
+    locations:
+      here: # city_of_threads
+        - 50.2 17
+
+    contents:
+
+      # 0
+
+      - id: 224423 # Pattern: Artisan Alchemist's Robe
+        costs:
+          3056: 1500
+          1210814: 150
+
+      - id: 224036 # And That's A Web-Wrap!
+        costs:
+          3056: 565
+        requirements:
+          - "profession tailoring tww 1"

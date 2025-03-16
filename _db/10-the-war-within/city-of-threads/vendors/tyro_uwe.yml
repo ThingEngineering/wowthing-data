@@ -1,0 +1,29 @@
+things:
+  - id: 218209
+    type: "vendor"
+    name: "Tyro Uwe"
+    note: "Custom Twitchery Goods"
+
+    locations:
+      here: # city_of_threads
+        - 44.8 16.6
+
+    contents:
+
+      # 0
+
+      - id: 221850 # Freshly Webbed Kebab [pet]
+        costs:
+          3056: 2250
+
+      - id: 222973 # Fringe [pet]
+        costs:
+          3056: 2250
+
+      - id: 222968 # Itchbite [pet]
+        costs:
+          3056: 2250
+
+      - id: 223956 # Recipe: Everything-on-a-Stick
+        costs:
+          3056: 1500

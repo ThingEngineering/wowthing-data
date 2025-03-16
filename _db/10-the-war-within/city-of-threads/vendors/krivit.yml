@@ -1,0 +1,24 @@
+things:
+  - id: 223282
+    type: "vendor"
+    name: "Krivit"
+    note: "Proveyor of History"
+
+    locations:
+      here: # city_of_threads
+        - 32.4 54.4
+
+    contents:
+
+      # 0
+
+      - id: 224430 # Pattern: Darkmoon Duffle [tailoring]
+        costs:
+          3056: 1500
+          1210814: 150
+
+      - id: 224053 # Eight Views on Defense against Hostile Runes [inscription]
+        costs:
+          3056: 565
+        requirements:
+          - "profession inscription tww 1"

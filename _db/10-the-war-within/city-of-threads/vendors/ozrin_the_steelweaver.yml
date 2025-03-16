@@ -1,0 +1,44 @@
+things:
+  - id: 223272
+    type: "vendor"
+    name: "Ozrin the Steelweaver"
+    note: "Blacksmithing Trainer"
+
+    locations:
+      here: # city_of_threads
+        - 65.8 40
+
+    contents:
+
+      # 0
+
+      - id: 226519 # General's Expertise [toy]
+        costs:
+          3056: 1100
+
+      - id: 224432 # Pattern: Excavator's Haversack [tailoring]
+        costs:
+          3056: 1500
+          1210814: 150
+
+      - id: 223042 # Plans: Charged Slicer [blacksmithing]
+        costs:
+          3056: 1500
+          1210814: 150
+
+      - id: 223058 # Plans: Coreforged Skeleton Key [blacksmithing]
+        costs:
+          3056: 1500
+          1210814: 150
+
+      - id: 224055 # A Rocky Start [mining]
+        costs:
+          3056: 565
+        requirements:
+          - "profession mining tww 1"
+
+      - id: 224038 # Smithing After Saronite [blacksmithing]
+        costs:
+          3056: 565
+        requirements:
+          - "profession blacksmithing tww 1"

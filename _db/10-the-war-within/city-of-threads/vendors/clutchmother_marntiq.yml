@@ -1,0 +1,21 @@
+things:
+  - id: 218207
+    type: "vendor"
+    name: "Clutchmother Marn'tiq"
+    note: "Pet Battle Master"
+
+    locations:
+      here: # city_of_threads
+        - 44.2 17.2
+
+    contents:
+
+      # 0
+
+      - id: 222973 # Fringe
+        costs:
+          3056: 2250
+
+      - id: 222968 # Itchbite
+        costs:
+          3056: 2250

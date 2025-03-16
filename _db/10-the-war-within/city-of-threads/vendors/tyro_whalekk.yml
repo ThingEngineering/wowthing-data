@@ -1,0 +1,17 @@
+things:
+  - id: 218210
+    type: "vendor"
+    name: "Tyro Whalekk"
+    note: "Organic Pet Food"
+
+    locations:
+      here: # city_of_threads
+        - 43.4 16.8
+
+    contents:
+
+      # 0
+
+      - id: 223960 # Recipe: Little Buddy Biscuits
+        costs:
+          3056: 1500

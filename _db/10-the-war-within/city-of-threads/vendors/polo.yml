@@ -1,0 +1,25 @@
+things:
+  - id: 218189
+    type: "vendor"
+    name: "Polo"
+    note: "Cooking Supplies"
+
+    locations:
+      here: # city_of_threads
+        - 48 25.6
+
+    contents:
+
+      # 0
+
+      - id: 224152 # Recipe: Empress' Farewell
+        costs:
+          3056: 1500
+
+      - id: 223955 # Recipe: Fine Egg Powder
+        costs:
+          3056: 1500
+
+      - id: 223958 # Recipe: Spongey Scramble
+        costs:
+          3056: 1500

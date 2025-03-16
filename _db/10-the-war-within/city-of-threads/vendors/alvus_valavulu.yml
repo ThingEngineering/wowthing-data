@@ -1,0 +1,36 @@
+things:
+  - id: 218179
+    type: "vendor"
+    name: "Alvus Valavulu"
+    note: "Jewelcrafting Supplies"
+
+    locations:
+      here: # city_of_threads
+        - 47.4 18.4
+
+    contents:
+
+      # 0
+
+      - id: 224433 # Pattern: Jeweler's Purse
+        costs:
+          3056: 1500
+          1210814: 150
+
+      - id: 228914 # Arachnophile Spectacles
+        costs:
+          3056: 1500
+
+      - id: 223082 # Design: Ominous Energy Crystal
+        costs:
+          3056: 1500
+          1210814: 150
+
+      - id: 223081 # Design: Sifted Cave Sand
+        costs:
+          3056: 1500
+          1210814: 150
+
+      - id: 224054 # Emergent Crystals of the Surface-Dwellers
+        costs:
+          3056: 565

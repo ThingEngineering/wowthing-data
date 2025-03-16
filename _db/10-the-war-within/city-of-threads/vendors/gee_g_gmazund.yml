@@ -1,0 +1,34 @@
+things:
+  - id: 218223
+    type: "vendor"
+    name: "Gee G. G'mazund"
+    note: "The City Ravel"
+
+    locations:
+      here: # city_of_threads
+        - 54.4 16
+
+    contents:
+
+      # 0
+
+      # - id: 226515 # Rumor Map: Bounties
+      #   costs:
+      #     3056: 25
+
+      # - id: 226516 # Rumor Map: Disruption
+      #   costs:
+      #     3056: 25
+
+      # - id: 226517 # Rumor Map: Espionage
+      #   costs:
+      #     3056: 25
+
+      - id: 224430 # Pattern: Darkmoon Duffle
+        costs:
+          3056: 1500
+          1210814: 150
+
+      - id: 224053 # Eight Views on Defense against Hostile Runes
+        costs:
+          3056: 565

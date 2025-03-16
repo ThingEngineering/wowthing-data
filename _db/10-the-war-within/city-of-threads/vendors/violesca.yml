@@ -1,0 +1,24 @@
+things:
+  - id: 218212
+    type: "vendor"
+    name: "Violesca"
+    note: "Dyes, Inks, and Shells"
+
+    locations:
+      here: # city_of_threads
+        - 51.6 14
+
+    contents:
+
+      # 0
+
+      - id: 224430 # Pattern: Darkmoon Duffle
+        costs:
+          3056: 1500
+          1210814: 150
+
+      - id: 224053 # Eight Views on Defense against Hostile Runes
+        costs:
+          3056: 565
+        requirements:
+          - "profession inscription tww 1"

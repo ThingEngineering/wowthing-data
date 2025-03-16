@@ -1,0 +1,24 @@
+things:
+  - id: 225611
+    type: "vendor"
+    name: "Assistant Ulo'vix"
+    note: "Alchemy Training & Supplies"
+
+    locations:
+      here: # city_of_threads
+        - 67.4 31.4
+
+    contents:
+
+      # 0
+
+      - id: 224425 # Pattern: Concoctor's Clutch [tailoring]
+        costs:
+          3056: 1500
+          1210814: 150
+
+      - id: 224024 # Theories of Bodily Transmutation, Chapter 8 [alchemy]
+        costs:
+          3056: 565
+        requirements:
+          - "profession alchemy tww 1"

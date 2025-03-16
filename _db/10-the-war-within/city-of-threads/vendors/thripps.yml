@@ -1,0 +1,24 @@
+things:
+  - id: 218202
+    type: "vendor"
+    name: "Thripps"
+    note: "Web Furnishings"
+
+    locations:
+      here: # city_of_threads
+        - 50 31.4
+
+    contents:
+
+      # 0
+
+      - id: 224423 # Pattern: Artisan Alchemist's Robe [tailoring]
+        costs:
+          3056: 1500
+          1210814: 150
+
+      - id: 224036 # And That's A Web-Wrap!
+        costs:
+          3056: 565
+        requirements:
+          - "profession tailoring tww 1"

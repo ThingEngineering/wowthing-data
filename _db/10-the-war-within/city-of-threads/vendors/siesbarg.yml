@@ -1,0 +1,24 @@
+things:
+  - id: 218192
+    type: "vendor"
+    name: "Siesbarg"
+    note: "Alchemy Supplies"
+
+    locations:
+      here: # city_of_threads
+        - 45.4 12.4
+
+    contents:
+
+      # 0
+
+      - id: 224425 # Pattern: Concoctor's Clutch
+        costs:
+          3056: 1500
+          1210814: 150
+
+      - id: 224024 # Theories of Bodily Transmutation, Chapter 8
+        costs:
+          3056: 565
+        requirements:
+          - "profession alchemy tww 1"

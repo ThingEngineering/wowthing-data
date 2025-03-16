@@ -1,0 +1,17 @@
+things:
+  - id: 218218
+    type: "vendor"
+    name: '"Eight-Shaker" Sallow'
+    note: "Apertifologist"
+
+    locations:
+      here: # city_of_threads
+        - 53.2 15.4
+
+    contents:
+
+      # 0
+
+      - id: 223957 # Recipe: Protein Slurp
+        costs:
+          3056: 1500

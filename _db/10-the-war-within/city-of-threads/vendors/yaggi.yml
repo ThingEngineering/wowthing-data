@@ -1,0 +1,21 @@
+things:
+  - id: 218200
+    type: "vendor"
+    name: "Yaggi"
+    note: "Stick Cook"
+
+    locations:
+      here: # city_of_threads
+        - 49.6 26.2
+
+    contents:
+
+      # 0
+
+      - id: 221850 # Freshly Webbed Kebab [pet]
+        costs:
+          3056: 2250
+
+      - id: 223956 # Recipe: Everything-on-a-Stick
+        costs:
+          3056: 1500

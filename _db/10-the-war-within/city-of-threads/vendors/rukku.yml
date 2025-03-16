@@ -1,0 +1,24 @@
+things:
+  - id: 218195
+    type: "vendor"
+    name: "Rukku"
+    note: "Engineering Supplies"
+
+    locations:
+      here: # city_of_threads
+        - 58.2 31.6
+
+    contents:
+
+      # 0
+
+      - id: 224429 # Pattern: Prodigy's Toolbox
+        costs:
+          3056: 1500
+          1210814: 150
+
+      - id: 224052 # Clocks, Gears, Sprockets, and Legs
+        costs:
+          3056: 565
+        requirements:
+          - "profession engineering tww 1"

@@ -1,0 +1,48 @@
+things:
+  - id: 218224
+    type: "vendor"
+    name: '"Calmest" Gobbu'
+    note: "Pots, Urns, and Armaments"
+
+    locations:
+      here: # city_of_threads
+        - 46.4 29.4
+
+    contents:
+
+      # 0
+
+      - id: 224432 # Pattern: Excavator's Haversack
+        costs:
+          3056: 1500
+          1210814: 150
+
+      - id: 223042 # Plans: Charged Slicer
+        costs:
+          3056: 1500
+          1210814: 150
+
+      - id: 223058 # Plans: Coreforged Skeleton Key
+        costs:
+          3056: 1500
+          1210814: 150
+
+      - id: 222973 # Fringe
+        costs:
+          3056: 2250
+
+      - id: 222968 # Itchbite
+        costs:
+          3056: 2250
+
+      - id: 224055 # A Rocky Start
+        costs:
+          3056: 565
+
+      - id: 226519 # General's Expertise
+        costs:
+          3056: 1100
+
+      - id: 224038 # Smithing After Saronite
+        costs:
+          3056: 565
