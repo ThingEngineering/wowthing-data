@@ -193,7 +193,11 @@ def main():
             item_to_set[item_id] = set_id
 
 
-    r = requests.get(sys.argv[1], headers=HEADERS)
+    url = sys.argv[1]
+    if url.isdigit():
+        url = f'https://www.wowhead.com/npc={url}'
+
+    r = requests.get(url, headers=HEADERS)
     expand = len(sys.argv) >= 3 and sys.argv[2] == 'e'
     no_gold = len(sys.argv) >= 3 and sys.argv[2] == 'nogold'
 
