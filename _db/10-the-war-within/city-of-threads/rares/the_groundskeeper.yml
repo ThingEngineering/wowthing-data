@@ -1,0 +1,18 @@
+things:
+  - id: 216038
+    type: "npc"
+    name: "The Groundskeeper"
+    reset: "daily"
+    trackingQuestId: 81634
+
+    locations:
+      here: # city_of_threads
+        - 30.6 55.5
+
+    contents:
+
+      - id: 221214 # Chitin Chain Headpiece [mail head]
+
+      - id: 221240 # Nerubian Stagshell Gouger [1h ? sword]
+
+      - id: 221252 # Nerubian Slayer's Claymore [2h ? sword]

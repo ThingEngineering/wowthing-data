@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../../../_schema/db.json
+
+tags:
+  - "treasure"
+
+things:
+  - type: "object"
+    id: 446421
+    name: "Trapped Trove"
+    reset: "never"
+    trackingQuestId: 82727
+    locations:
+      here:
+        - "67.4 74.4"
+    contents:
+      - type: "item"
+        id: 222966 # Spinner [pet]

@@ -1,0 +1,19 @@
+things:
+  - id: 216039
+    type: "npc"
+    name: "Xishorr"
+    note: "Shadow of Xishirra"
+    reset: "daily"
+    trackingQuestId: 81701
+
+    locations:
+      here: # city_of_threads___lower
+        - 67.3 58.4
+
+    contents:
+
+      - id: 221221 # Venomous Lurker's Shoulderplates [plate shoulders]
+
+      - id: 221506 # Arachnid's Web-Sown Guise [cloak]
+
+      - id: 221239 # Spider Blasting Blunderbuss [gun]
