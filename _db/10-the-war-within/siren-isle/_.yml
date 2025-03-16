@@ -1,4 +1,7 @@
 location: "10-the-war-within/siren_isle"
 
+requirements:
+  - "level 80"
+
 tags:
   - "zone:siren-isle"

@@ -1,4 +1,7 @@
 location: "10-the-war-within/undermine"
 
+requirements:
+  - "level 80"
+
 tags:
   - "zone:undermine"
