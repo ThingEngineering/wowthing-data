@@ -258,6 +258,7 @@ def main():
 
         if contents_type == 'drops':
             print(f'    reset: "daily"')
+            print(f'    trackingQuestId: ')
 
         print()
         print('    locations:')
