@@ -3,6 +3,16 @@ mapName: "10-the-war-within/hallowfall"
 minimumLevel: 70
 farms:
 
+- name: "Mereldar"
+  groupId: 1
+  location: 42 53
+  type: group
+
+- name: "Farm"
+  groupId: 2
+  location: 48 62
+  type: group
+
 - name: "Beledar's Spawn"
   location: 48.9 32.0
   note: "Only in dark phase, spawns in a bunch of places"

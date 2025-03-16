@@ -12,9 +12,10 @@ things:
     name: "{item:226269}"
     reset: "never"
     trackingQuestId: 83844
+    zoneMapsGroupId: 1
     locations:
       here:
-        - "42.7 55.1" # HALLOWFALL
+        - "42.7 55.1"
     requirements:
       - "profession alchemy tww 1"
     contents:
@@ -27,9 +28,10 @@ things:
     name: "{item:226270}"
     reset: "never"
     trackingQuestId: 83845
+    zoneMapsGroupId: 1
     locations:
       here:
-        - "41.7 55.8" # HALLOWFALL
+        - "41.7 55.8"
     requirements:
       - "profession alchemy tww 1"
     contents:
@@ -44,9 +46,10 @@ things:
     name: "{item:226280}"
     reset: "never"
     trackingQuestId: 83852
+    zoneMapsGroupId: 2
     locations:
       here:
-        - "47.6 61.0" # HALLOWFALL
+        - "47.6 61.0"
     requirements:
       - "profession blacksmithing tww 1"
     contents:
@@ -59,9 +62,10 @@ things:
     name: "{item:226281}"
     reset: "never"
     trackingQuestId: 83853
+    zoneMapsGroupId: 1
     locations:
       here:
-        - "44.1 55.6" # HALLOWFALL
+        - "44.1 55.6"
     requirements:
       - "profession blacksmithing tww 1"
     contents:
@@ -76,9 +80,10 @@ things:
     name: "{item:226289}"
     reset: "never"
     trackingQuestId: 83863
+    zoneMapsGroupId: 2
     locations:
       here:
-        - "48.6 64.5" # HALLOWFALL
+        - "48.6 64.5"
     requirements:
       - "profession enchanting tww 1"
     contents:
@@ -93,7 +98,7 @@ things:
     trackingQuestId: 83862
     locations:
       here:
-        - "40.1 70.5" # HALLOWFALL
+        - "40.1 70.5"
     requirements:
       - "profession enchanting tww 1"
     contents:
@@ -108,9 +113,10 @@ things:
     name: "{item:226297}"
     reset: "never"
     trackingQuestId: 83871
+    zoneMapsGroupId: 1
     locations:
       here:
-        - "41.5 48.9" # HALLOWFALL
+        - "41.5 48.9"
     requirements:
       - "profession engineering tww 1"
     contents:
@@ -123,9 +129,10 @@ things:
     name: "{item:226296}"
     reset: "never"
     trackingQuestId: 83870
+    zoneMapsGroupId: 2
     locations:
       here:
-        - "46.3 61.3" # HALLOWFALL
+        - "46.3 61.3"
     requirements:
       - "profession engineering tww 1"
     contents:
@@ -140,9 +147,10 @@ things:
     name: "{item:226304}"
     reset: "never"
     trackingQuestId: 83878
+    zoneMapsGroupId: 2
     locations:
       here:
-        - "47.7 63.3" # HALLOWFALL
+        - "47.7 63.3"
     requirements:
       - "profession herbalism tww 1"
     contents:
@@ -157,7 +165,7 @@ things:
     trackingQuestId: 83879
     locations:
       here:
-        - "36.0 55.0" # HALLOWFALL
+        - "36.0 55.0"
     requirements:
       - "profession herbalism tww 1"
     contents:
@@ -172,9 +180,10 @@ things:
     name: "{item:226313}"
     reset: "never"
     trackingQuestId: 83887
+    zoneMapsGroupId: 1
     locations:
       here:
-        - "42.8 49.0" # HALLOWFALL
+        - "42.8 49.0"
     requirements:
       - "profession inscription tww 1"
     contents:
@@ -187,9 +196,10 @@ things:
     name: "{item:226312}"
     reset: "never"
     trackingQuestId: 83886
+    zoneMapsGroupId: 1
     locations:
       here:
-        - "43.2 58.9" # HALLOWFALL
+        - "43.2 58.9"
     requirements:
       - "profession inscription tww 1"
     contents:
@@ -204,9 +214,10 @@ things:
     name: "{item:226320}"
     reset: "never"
     trackingQuestId: 83894
+    zoneMapsGroupId: 2
     locations:
       here:
-        - "47.3 60.6" # HALLOWFALL
+        - "47.3 60.6"
     requirements:
       - "profession jewelcrafting tww 1"
     contents:
@@ -221,9 +232,10 @@ things:
     name: "{item:226328}"
     reset: "never"
     trackingQuestId: 83902
+    zoneMapsGroupId: 2
     locations:
       here:
-        - "47.5 65.1" # HALLOWFALL
+        - "47.5 65.1"
     requirements:
       - "profession leatherworking tww 1"
     contents:
@@ -236,9 +248,10 @@ things:
     name: "{item:226329}"
     reset: "never"
     trackingQuestId: 83903
+    zoneMapsGroupId: 1
     locations:
       here:
-        - "41.5 57.8" # HALLOWFALL
+        - "41.5 57.8"
     requirements:
       - "profession leatherworking tww 1"
     contents:
@@ -253,9 +266,10 @@ things:
     name: "{item:226336}"
     reset: "never"
     trackingQuestId: 83910
+    zoneMapsGroupId: 2
     locations:
       here:
-        - "46.1 64.4" # HALLOWFALL
+        - "46.1 64.4"
     requirements:
       - "profession mining tww 1"
     contents:
@@ -268,9 +282,10 @@ things:
     name: "{item:226337}"
     reset: "never"
     trackingQuestId: 83911
+    zoneMapsGroupId: 1
     locations:
       here:
-        - "43.1 56.8" # HALLOWFALL
+        - "43.1 56.8"
     requirements:
       - "profession mining tww 1"
     contents:
@@ -285,9 +300,10 @@ things:
     name: "{item:226345}"
     reset: "never"
     trackingQuestId: 83919
+    zoneMapsGroupId: 1
     locations:
       here:
-        - "42.2 53.9" # HALLOWFALL
+        - "42.2 53.9"
     requirements:
       - "profession skinning tww 1"
     contents:
@@ -300,9 +316,10 @@ things:
     name: "{item:226344}"
     reset: "never"
     trackingQuestId: 83918
+    zoneMapsGroupId: 2
     locations:
       here:
-        - "49.3 62.1" # HALLOWFALL
+        - "49.3 62.1"
     requirements:
       - "profession skinning tww 1"
     contents:
@@ -317,9 +334,10 @@ things:
     name: "{item:226352}"
     reset: "never"
     trackingQuestId: 83926
+    zoneMapsGroupId: 2
     locations:
       here:
-        - "49.2 62.3" # HALLOWFALL
+        - "49.2 62.3"
     requirements:
       - "profession tailoring tww 1"
     contents:
@@ -334,7 +352,7 @@ things:
     trackingQuestId: 83927
     locations:
       here:
-        - "40.1 68.1" # HALLOWFALL
+        - "40.1 68.1"
     requirements:
       - "profession tailoring tww 1"
     contents:

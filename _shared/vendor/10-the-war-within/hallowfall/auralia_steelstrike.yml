@@ -1,6 +1,7 @@
 id: 213145
 name: "Auralia Steelstrike"
 note: "Renown Quartermaster"
+zoneMapsGroupId: 1
 
 locations:
   10-the-war-within/hallowfall:
