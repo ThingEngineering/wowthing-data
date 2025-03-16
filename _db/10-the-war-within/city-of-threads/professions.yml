@@ -1,0 +1,135 @@
+requirements:
+
+tags:
+  - "treasure:profession"
+
+things:
+  
+  # Alchemy
+
+  - type: "object"
+    id: 456019
+    name: "{item:226271}"
+    reset: "never"
+    trackingQuestId: 83846
+    locations:
+      here:
+        - "45.4 13.2"
+      10-the-war-within/azj-kahet:
+        - "47.2 69.7"
+    requirements:
+      - "profession alchemy tww 1"
+    contents:
+      - type: "item"
+        id: 226271 # Nerubian Mixing Salts
+        note: "{price:3|2785}" # Alchemy Knowledge
+
+  # Enchanting
+
+  - type: "object"
+    id: 456003
+    name: "{item:226290}"
+    reset: "never"
+    trackingQuestId: 83864
+    locations:
+      here:
+        - "61.7 22.0"
+      10-the-war-within/azj-kahet:
+        - "52.8 72.8"
+    requirements:
+      - "profession enchanting tww 1"
+    contents:
+      - type: "item"
+        id: 226290 # Book of Dark Magic
+        note: "{price:3|2787}" # Enchanting Knowledge
+
+  # Herbalism
+
+  - type: "object"
+    id: 455986
+    name: "{item:226307}"
+    reset: "never"
+    trackingQuestId: 83881
+    locations:
+      here:
+        - "46.8 16.1"
+      10-the-war-within/azj-kahet:
+        - "47.6 70.7"
+    requirements:
+      - "profession herbalism tww 1"
+    contents:
+      - type: "item"
+        id: 226307 # Tunneler's Shovel
+        note: "{price:3|2789}" # Herbalism Knowledge
+
+  - type: "object"
+    id: 455987
+    name: "{item:226306}"
+    reset: "never"
+    trackingQuestId: 83880
+    locations:
+      here:
+        - "54.6 20.9"
+      10-the-war-within/azj-kahet:
+        - "50.4 72.3"
+    requirements:
+      - "profession herbalism tww 1"
+    contents:
+      - type: "item"
+        id: 226306 # Web-Entangled Lotus
+        note: "{price:3|2789}" # Herbalism Knowledge
+
+  # Mining
+
+  - type: "object"
+    id: 455955
+    name: "{item:226338}"
+    reset: "never"
+    trackingQuestId: 83912
+    locations:
+      here:
+        - "46.8 21.7"
+      10-the-war-within/azj-kahet:
+        - "47.7 72.6"
+    requirements:
+      - "profession mining tww 1"
+    contents:
+      - type: "item"
+        id: 226338 # Heavy Spider Crusher
+        note: "{price:3|2793}" # Mining Knowledge
+
+  - type: "object"
+    id: 455954
+    name: "{item:226339}"
+    reset: "never"
+    trackingQuestId: 83913
+    locations:
+      here:
+        - "48.0 40.6"
+      10-the-war-within/azj-kahet:
+        - "48.1 79.1"
+    requirements:
+      - "profession mining tww 1"
+    contents:
+      - type: "item"
+        id: 226339 # Nerubian Mining Supplies
+        note: "{price:3|2793}" # Mining Knowledge
+
+  # Skinning
+
+  - type: "object"
+    id: 455947
+    name: "{item:226346}"
+    reset: "never"
+    trackingQuestId: 83920
+    locations:
+      here:
+        - "45.5 49.4"
+      10-the-war-within/azj-kahet:
+        - "46.8 82.3"
+    requirements:
+      - "profession skinning tww 1"
+    contents:
+      - type: "item"
+        id: 226346 # Nerubian's Slicking Iron
+        note: "{price:3|2794}" # Skinning Knowledge

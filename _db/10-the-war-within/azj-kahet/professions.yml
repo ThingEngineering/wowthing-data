@@ -22,21 +22,6 @@ things:
         id: 226272 # Dark Apothecary's Vial
         note: "{price:3|2785}" # Alchemy Knowledge
 
-  - type: "object"
-    id: 456019
-    name: "{item:226271}"
-    reset: "never"
-    trackingQuestId: 83846
-    locations:
-      here:
-        - "47.2 69.7"
-    requirements:
-      - "profession alchemy tww 1"
-    contents:
-      - type: "item"
-        id: 226271 # Nerubian Mixing Salts
-        note: "{price:3|2785}" # Alchemy Knowledge
-
   # Blacksmithing
 
   - type: "object"
@@ -70,21 +55,6 @@ things:
         note: "{price:3|2786}" # Blacksmithing Knowledge
 
   # Enchanting
-
-  - type: "object"
-    id: 456003
-    name: "{item:226290}"
-    reset: "never"
-    trackingQuestId: 83864
-    locations:
-      here:
-        - "52.8 72.8"
-    requirements:
-      - "profession enchanting tww 1"
-    contents:
-      - type: "item"
-        id: 226290 # Book of Dark Magic
-        note: "{price:3|2787}" # Enchanting Knowledge
 
   - type: "object"
     id: 456002
@@ -133,38 +103,6 @@ things:
         id: 226298 # Puppeted Mechanical Spider
         note: "{price:3|2788}" # Engineering Knowledge
 
-  # Herbalism
-
-  - type: "object"
-    id: 455986
-    name: "{item:226307}"
-    reset: "never"
-    trackingQuestId: 83881
-    locations:
-      here:
-        - "47.6 70.7"
-    requirements:
-      - "profession herbalism tww 1"
-    contents:
-      - type: "item"
-        id: 226307 # Tunneler's Shovel
-        note: "{price:3|2789}" # Herbalism Knowledge
-
-  - type: "object"
-    id: 455987
-    name: "{item:226306}"
-    reset: "never"
-    trackingQuestId: 83880
-    locations:
-      here:
-        - "50.4 72.3"
-    requirements:
-      - "profession herbalism tww 1"
-    contents:
-      - type: "item"
-        id: 226306 # Web-Entangled Lotus
-        note: "{price:3|2789}" # Herbalism Knowledge
-
   # Inscription
   
   - type: "object"
@@ -174,7 +112,7 @@ things:
     trackingQuestId: 83888
     locations:
       here:
-        - "55.8 43.9" # AZJ_KAHET
+        - "55.8 43.9"
     requirements:
       - "profession inscription tww 1"
     contents:
@@ -189,7 +127,7 @@ things:
     trackingQuestId: 83889
     locations:
       here:
-        - "50.1 30.8" # NERUBAR
+        - "50.1 30.8"
     requirements:
       - "profession inscription tww 1"
     contents:
@@ -206,7 +144,7 @@ things:
     trackingQuestId: 83897
     locations:
       here:
-        - "56.1 58.6" # AZJ_KAHET
+        - "56.1 58.6"
     requirements:
       - "profession jewelcrafting tww 1"
     contents:
@@ -221,7 +159,7 @@ things:
     trackingQuestId: 83896
     locations:
       here:
-        - "47.7 19.4" # NERUBAR
+        - "47.7 19.4"
     requirements:
       - "profession jewelcrafting tww 1"
     contents:
@@ -238,7 +176,7 @@ things:
     trackingQuestId: 83905
     locations:
       here:
-        - "59.9 54.0" # AZJ_KAHET
+        - "59.9 54.0"
     requirements:
       - "profession leatherworking tww 1"
     contents:
@@ -253,45 +191,13 @@ things:
     trackingQuestId: 83904
     locations:
       here:
-        - "55.0 27.0" # NERUBAR
+        - "55.0 27.0"
     requirements:
       - "profession leatherworking tww 1"
     contents:
       - type: "item"
         id: 226330 # Nerubian Tanning Mallet
         note: "{price:3|2792}" # Leatherworking Knowledge
-
-  # Mining
-
-  - type: "object"
-    id: 455955
-    name: "{item:226338}"
-    reset: "never"
-    trackingQuestId: 83912
-    locations:
-      here:
-        - "47.7 72.6"
-    requirements:
-      - "profession mining tww 1"
-    contents:
-      - type: "item"
-        id: 226338 # Heavy Spider Crusher
-        note: "{price:3|2793}" # Mining Knowledge
-
-  - type: "object"
-    id: 455954
-    name: "{item:226339}"
-    reset: "never"
-    trackingQuestId: 83913
-    locations:
-      here:
-        - "48.1 79.1"
-    requirements:
-      - "profession mining tww 1"
-    contents:
-      - type: "item"
-        id: 226339 # Nerubian Mining Supplies
-        note: "{price:3|2793}" # Mining Knowledge
 
   # Skinning
 
@@ -302,27 +208,12 @@ things:
     trackingQuestId: 83921
     locations:
       here:
-        - "56.5 55.2" # AZJ_KAHET
+        - "56.5 55.2"
     requirements:
       - "profession skinning tww 1"
     contents:
       - type: "item"
         id: 226347 # Carapace Shiner
-        note: "{price:3|2794}" # Skinning Knowledge
-
-  - type: "object"
-    id: 455947
-    name: "{item:226346}"
-    reset: "never"
-    trackingQuestId: 83920
-    locations:
-      here:
-        - "46.8 82.3"
-    requirements:
-      - "profession skinning tww 1"
-    contents:
-      - type: "item"
-        id: 226346 # Nerubian's Slicking Iron
         note: "{price:3|2794}" # Skinning Knowledge
 
   # Tailoring
@@ -334,7 +225,7 @@ things:
     trackingQuestId: 83929
     locations:
       here:
-        - "50.2 16.7" # NERUBAR
+        - "50.2 16.7"
     requirements:
       - "profession tailoring tww 1"
     contents:
@@ -349,7 +240,7 @@ things:
     trackingQuestId: 83928
     locations:
       here:
-        - "53.2 53.1" # AZJ_KAHET
+        - "53.2 53.1"
     requirements:
       - "profession tailoring tww 1"
     contents:
