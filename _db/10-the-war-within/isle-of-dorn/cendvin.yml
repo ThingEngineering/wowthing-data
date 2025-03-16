@@ -1,0 +1,19 @@
+things:
+  - id: 226205
+    type: "vendor"
+    name: "Cendvin"
+    note: "Meadery Requisitions"
+
+    locations:
+      here: # isle_of_dorn
+        - 74.4 45.2
+
+    contents:
+
+      - id: 223153 # Reins of the Soaring Meaderbee
+        costs:
+          1225557: 900
+
+      - id: 228424 # Recipe: Cinder Nectar
+        costs:
+          0: 20 # Gold
