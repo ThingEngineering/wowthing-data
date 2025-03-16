@@ -113,13 +113,13 @@ SORT_SUBCLASS = {
     (4, -6): 30, # Cloak
     (2, 0): 100, # 1h axe
     (2, 4): 101, # 1h mace
-    (2, 8): 102, # 1h sword
+    (2, 7): 102, # 1h sword
     (2, 15): 103, # dagger
     (2, 13): 104, # fist
     (2, 9): 105, # warglaive
     (2, 1): 110, # 2h axe
     (2, 5): 111, # 2h mace
-    (2, 9): 112, # 2h sword
+    (2, 8): 112, # 2h sword
     (2, 6): 113, # polearm
     (2, 10): 114, # staff
     (2, 2): 120, # bow
@@ -284,7 +284,7 @@ def main():
         SORT_CHRCLASS.get(item.get("reqclass", 0), 999),
         SORT_SUBCLASS.get(
             (item["classs"], item.get("subclass", 0)),
-            SORT_CLASS.get(item["classs"], item["classs"] + 100 + item.get("subclass", 0)),
+            SORT_CLASS.get(item["classs"], item["classs"] + 500 + item.get("subclass", 0)),
         ),
         item_to_set.get(item["id"], 99999),
         SORT_KEY.get(item.get("slot", 0), item.get("slot", 0) + 100),
