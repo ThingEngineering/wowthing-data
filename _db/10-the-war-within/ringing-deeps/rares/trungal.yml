@@ -1,0 +1,21 @@
+things:
+  - id: 220268
+    type: "npc"
+    name: "Trungal"
+    note: "Whose Roots Run Deep"
+    reset: "daily"
+    trackingQuestId: 80574
+
+    locations:
+      here: # the_ringing_deeps
+        - 67.09 46.29
+
+    contents:
+
+      - id: 221228 # Infested Fungal Wristwraps [cloth wrists]
+
+      - id: 220316 # Distressed Boots [leather feet]
+
+      - id: 221250 # Creeping Lasher Machete [1h ? sword]
+
+      - id: 221253 # Cultivator's Plant Puncher [fist]

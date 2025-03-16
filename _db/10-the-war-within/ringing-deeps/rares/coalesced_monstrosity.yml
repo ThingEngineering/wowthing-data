@@ -1,0 +1,14 @@
+things:
+  - id: 220266
+    type: "npc"
+    name: "Coalesced Monstrosity"
+    reset: "daily"
+    trackingQuestId: 81511
+
+    locations:
+      here: # the_ringing_deeps
+        - 53.7 38.1
+
+    contents:
+
+      - id: 221226 # Voidtouched Waistguard [mail waist]

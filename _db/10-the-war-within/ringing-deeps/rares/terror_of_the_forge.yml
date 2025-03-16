@@ -1,0 +1,18 @@
+things:
+  - id: 220271
+    type: "npc"
+    name: "Terror of the Forge"
+    reset: "daily"
+    trackingQuestId: 80507
+
+    locations:
+      here: # the_ringing_deeps
+        - 43.73 12.09
+
+    contents:
+
+      - id: 221242 # Forgeborn Helm [plate head]
+
+      - id: 221248 # Deep Terror Carver [1h ? axe]
+
+      - id: 221255 # Sharpened Scalepiercer [? dagger]

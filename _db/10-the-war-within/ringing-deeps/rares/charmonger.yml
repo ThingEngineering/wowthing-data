@@ -1,0 +1,16 @@
+things:
+  - id: 220267
+    type: "npc"
+    name: "Charmonger"
+    reset: "daily"
+    trackingQuestId: 81562
+
+    locations:
+      here: # the_ringing_deeps
+        - 37.2 16.9
+
+    contents:
+
+      - id: 221209 # Flame Trader's Gloves [leather hands]
+
+      - id: 221249 # Kobold Rodent Squasher [1h ? mace]

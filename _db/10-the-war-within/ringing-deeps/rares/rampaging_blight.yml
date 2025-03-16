@@ -1,0 +1,21 @@
+things:
+  - id: 220273
+    type: "npc"
+    name: "Rampaging Blight"
+    note: "Evolved Monstrosity"
+    reset: "daily"
+    trackingQuestId: 81563
+
+    locations:
+      here: # the_ringing_deeps
+        - 53.39 54.80
+
+    contents:
+
+      - id: 223401 # Corrupted Earthen Wristwraps [cloth wrists]
+
+      - id: 223404 # Corrupted Earthen Cuffs [leather wrists]
+
+      - id: 223403 # Corrupted Earthen Binds [mail wrists]
+
+      - id: 223402 # Corrupted Earthen Wristguards [plate wrists]

@@ -1,0 +1,19 @@
+things:
+  - id: 220269
+    type: "npc"
+    name: "Cragmund"
+    note: "Guardian of the River"
+    reset: "daily"
+    trackingQuestId: 81511
+
+    locations:
+      here: # the_ringing_deeps
+        - 46.8 46.4
+
+    contents:
+
+      - id: 221205 # Vest of the River [cloth chest]
+
+      - id: 221507 # Earth Golem's Wrap [cloak]
+
+      - id: 221254 # Earthshatter Lance [polearm]

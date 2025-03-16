@@ -1,0 +1,21 @@
+things:
+  - id: 220275
+    type: "npc"
+    name: "King Splash"
+    note: "Lord of the Water"
+    reset: "daily"
+    trackingQuestId: 80547
+
+    locations:
+      here: # the_ringing_deeps
+        - 40.05 35.08
+
+    contents:
+
+      - id: 223353 # Waterskipper's Trousers [cloth legs]
+
+      - id: 223355 # Waterskipper's Leggings [leather legs]
+
+      - id: 223354 # Waterskipper's Chain Leggings [mail legs]
+
+      - id: 223352 # Waterskipper's Legplates [plate legs]

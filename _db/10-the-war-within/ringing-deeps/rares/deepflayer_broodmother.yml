@@ -1,0 +1,19 @@
+things:
+  - id: 220286
+    type: "npc"
+    name: "Deepflayer Broodmother"
+    note: "The Cavern's Shadow"
+    reset: "daily"
+    trackingQuestId: 80536
+
+    locations:
+      here: # the_ringing_deeps
+        - 51.56 8.43
+
+    contents:
+
+      - id: 221507 # Earth Golem's Wrap [cloak]
+
+      - id: 225999 # Earthen Adventurer's Tabard [tabard]
+
+      - id: 221254 # Earthshatter Lance [polearm]

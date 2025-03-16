@@ -1,0 +1,21 @@
+things:
+  - id: 220270
+    type: "npc"
+    name: "Zilthara"
+    note: "The Deepflayer Devourer"
+    reset: "daily"
+    trackingQuestId: 80506
+
+    locations:
+      here: # the_ringing_deeps
+        - 48.71 26.57
+
+    contents:
+
+      - id: 221220 # Basilisk Scale Pauldrons [leather shoulders]
+
+      - id: 221251 # Bestial Underground Cleaver [2h ? axe]
+
+      - id: 221246 # Fierce Beast Staff [staff]
+
+      - id: 221247 # Cavernous Critter Shooter [crossbow]

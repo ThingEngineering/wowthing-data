@@ -1,0 +1,21 @@
+things:
+  - id: 220274
+    type: "npc"
+    name: "Aquellion"
+    note: "The Raging Spring"
+    reset: "daily"
+    trackingQuestId: 80557
+
+    locations:
+      here: # the_ringing_deeps
+        - 46.40 66.19
+
+    contents:
+
+      - id: 223371 # Slippers of Shallow Waters [cloth feet]
+
+      - id: 223373 # Treads of Shallow Waters [leather feet]
+
+      - id: 223372 # Sabatons of Shallow Waters [mail feet]
+
+      - id: 223340 # Footguards of Shallow Waters [plate feet]

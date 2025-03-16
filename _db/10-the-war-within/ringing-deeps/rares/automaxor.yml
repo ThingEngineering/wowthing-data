@@ -1,0 +1,16 @@
+things:
+  - id: 220265
+    type: "npc"
+    name: "Automaxor"
+    reset: "daily"
+    trackingQuestId: 81674
+
+    locations:
+      here: # the_ringing_deeps
+        - 48.4 19.9
+
+    contents:
+
+      - id: 221218 # Reinforced Construct's Greaves [mail legs]
+
+      - id: 221238 # Pillar of Constructs [staff]

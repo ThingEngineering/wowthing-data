@@ -1,0 +1,18 @@
+things:
+  - id: 221199
+    type: "npc"
+    name: "Hungerer of the Deeps"
+    reset: "daily"
+    trackingQuestId: 81648
+
+    locations:
+      here: # the_ringing_deeps
+        - 61.20 49.49
+
+    contents:
+
+      - id: 223949 # Dark Depth Stompers [mail feet]
+
+      - id: 221248 # Deep Terror Carver [1h ? axe]
+
+      - id: 221255 # Sharpened Scalepiercer [? dagger]

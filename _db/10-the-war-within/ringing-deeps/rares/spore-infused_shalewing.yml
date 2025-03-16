@@ -1,0 +1,18 @@
+things:
+  - id: 221217
+    type: "npc"
+    name: "Spore-Infused Shalewing"
+    reset: "daily"
+    trackingQuestId: 81652
+
+    locations:
+      here: # the_ringing_deeps
+        - 64.05 47.54
+
+    contents:
+
+      - id: 223942 # Spore-Encrusted Ribbon [cloth waist]
+
+      - id: 223919 # Abducted Lawman's Gavel [1h ? mace]
+
+      - id: 223918 # Specter Stalker's Shotgun [gun]

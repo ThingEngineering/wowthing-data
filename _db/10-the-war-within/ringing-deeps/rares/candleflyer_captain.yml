@@ -1,0 +1,20 @@
+things:
+  - id: 220276
+    type: "npc"
+    name: "Candleflyer Captain"
+    reset: "daily"
+    trackingQuestId: 80505
+
+    locations:
+      here: # the_ringing_deeps
+        - 61.80 28.40
+
+    contents:
+
+      - id: 223361 # Flying Kobold's Seatbelt [cloth waist]
+
+      - id: 223363 # Flying Kobold's Seatbelt [leather waist]
+
+      - id: 223362 # Flying Kobold's Seatbelt [mail waist]
+
+      - id: 223360 # Flying Kobold's Seatbelt [plate waist]

@@ -1,0 +1,19 @@
+things:
+  - id: 220285
+    type: "npc"
+    name: "Lurker of the Deeps"
+    note: "Pull 5 levers across the zone to summon, need a group"
+    reset: "daily"
+    trackingQuestId: 81633
+
+    locations:
+      here: # the_ringing_deeps
+        - 57.01 76.82
+
+    contents:
+
+      - id: 223501 # Regurgitated Mole Reins [mount]
+
+      - id: 221248 # Deep Terror Carver [1h ? axe]
+
+      - id: 221255 # Sharpened Scalepiercer [? dagger]
