@@ -1,0 +1,48 @@
+things:
+  - id: 221224
+    type: "npc"
+    name: "Shurrai"
+    note: "Atrocity of the Undersea"
+    reset: "weekly"
+    trackingQuestId: 83467
+
+    locations:
+      here: # hallowfall
+        - 45.6 18.4
+
+    requirements:
+      - "level 80"
+
+    contents:
+
+      - id: 225731 # Lightseeker's Robes [cloth chest]
+        requirements:
+          - "armor cloth"
+
+      - id: 225730 # Stone Gaze Ceinture [cloth waist]
+        requirements:
+          - "armor cloth"
+
+      - id: 225733 # Abyssal Tendril Tights [leather legs]
+        requirements:
+          - "armor leather"
+
+      - id: 225732 # Deep Dweller's Tabi [leather feet]
+        requirements:
+          - "armor leather"
+
+      - id: 225735 # Dornish Warden's Coat [mail chest]
+        requirements:
+          - "armor mail"
+
+      - id: 225734 # Sturdy Chitinous Striders [mail feet]
+        requirements:
+          - "armor mail"
+
+      - id: 225745 # Crystal Star Cuisses [plate legs]
+        requirements:
+          - "armor plate"
+
+      - id: 225746 # Girdle of the Gleaming Dawn [plate waist]
+        requirements:
+          - "armor plate"

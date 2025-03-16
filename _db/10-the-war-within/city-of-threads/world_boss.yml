@@ -1,0 +1,50 @@
+things:
+  - id: 221067
+    type: "npc"
+    name: "Orta"
+    note: "The Broken Mountain"
+    reset: "weekly"
+    trackingQuestId: 83468
+
+    locations:
+      here: # city_of_threads
+        - 17.0 33.8
+      10-the-war-within/azj-kahet:
+        - 37.3 76.8
+
+    requirements:
+      - "level 80"
+
+    contents:
+
+      - id: 225731 # Lightseeker's Robes [cloth chest]
+        requirements:
+          - "armor cloth"
+
+      - id: 225730 # Stone Gaze Ceinture [cloth waist]
+        requirements:
+          - "armor cloth"
+
+      - id: 225733 # Abyssal Tendril Tights [leather legs]
+        requirements:
+          - "armor leather"
+
+      - id: 225732 # Deep Dweller's Tabi [leather feet]
+        requirements:
+          - "armor leather"
+
+      - id: 225735 # Dornish Warden's Coat [mail chest]
+        requirements:
+          - "armor mail"
+
+      - id: 225734 # Sturdy Chitinous Striders [mail feet]
+        requirements:
+          - "armor mail"
+
+      - id: 225745 # Crystal Star Cuisses [plate legs]
+        requirements:
+          - "armor plate"
+
+      - id: 225746 # Girdle of the Gleaming Dawn [plate waist]
+        requirements:
+          - "armor plate"
