@@ -3,7 +3,7 @@ things:
     type: "npc"
     name: "Tally Doublespeak"
     note: "Chief Darkfuse Propagandist"
-    reset: "weekly"
+    reset: "daily"
     trackingQuestId: 84919
 
     locations:

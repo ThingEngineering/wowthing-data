@@ -3,7 +3,7 @@ things:
     type: "npc"
     name: "Nitro"
     note: "Black Blood Hound"
-    reset: "weekly"
+    reset: "daily"
     trackingQuestId: 84926
 
     locations:

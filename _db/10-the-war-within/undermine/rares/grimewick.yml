@@ -2,7 +2,7 @@ things:
   - id: 231017
     type: "npc"
     name: "Grimewick"
-    reset: "weekly"
+    reset: "daily"
     trackingQuestId: 84928
 
     locations:

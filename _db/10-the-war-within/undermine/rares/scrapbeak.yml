@@ -3,7 +3,7 @@ things:
     type: "npc"
     name: "Scrapbeak"
     note: "Scourge of the Course"
-    reset: "weekly"
+    reset: "daily"
     trackingQuestId: 84917
 
     locations:

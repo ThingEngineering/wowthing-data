@@ -3,7 +3,7 @@ things:
     type: "npc"
     name: "Swigs Farsight"
     note: "The Knightrider"
-    reset: "weekly"
+    reset: "daily"
     trackingQuestId: 85004
 
     locations:

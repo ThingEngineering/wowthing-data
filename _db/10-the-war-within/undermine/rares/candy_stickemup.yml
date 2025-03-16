@@ -3,7 +3,7 @@ things:
     type: "npc"
     name: "Candy Stickemup"
     note: "Gutter Thief"
-    reset: "weekly"
+    reset: "daily"
     trackingQuestId: 84927
 
     locations:

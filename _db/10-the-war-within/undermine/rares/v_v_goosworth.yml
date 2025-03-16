@@ -3,7 +3,7 @@ things:
     type: "npc"
     name: "V.V. Goosworth"
     note: "Disgraced Slimeologist"
-    reset: "weekly"
+    reset: "daily"
     trackingQuestId: 84920
 
     locations:

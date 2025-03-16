@@ -3,7 +3,7 @@ things:
     type: "npc"
     name: "S.A.L."
     note: "Super Augmented Laborer"
-    reset: "weekly"
+    reset: "daily"
     trackingQuestId: 84922
 
     locations:
