@@ -12,10 +12,10 @@ things:
 
     contents:
 
-      - id: 235351 # Hypersteel CX4 Greatsword [1h ? sword]
-
       - id: 235312 # Snooty's Aviator Bindings [plate wrists]
 
       - id: 235316 # Whirly-Giggle Windwhir Wrap [plate waist]
 
       - id: 235300 # Cloak of Mecha Shards [cloak]
+
+      - id: 235351 # Hypersteel CX4 Greatsword [1h ? sword]

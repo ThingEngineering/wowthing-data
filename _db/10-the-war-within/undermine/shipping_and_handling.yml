@@ -1,0 +1,52 @@
+things:
+  - id: 86775 # Urge to Surge
+    type: "quest"
+    name: "Shipping & Handling Job Streaks"
+    reset: "none"
+    zoneMapsGroupId: 1
+
+    locations:
+      here:
+        - 1 1
+
+    contents:
+
+      - id: 229947 # Violet Goblin Shredder [mount]
+    
+      - id: 232852 # Mutt [pet]
+
+      - id: 232847 # Personal-Use Sapper [pet]
+
+      - id: 231556 # Breakneck Cabbie's Coat [cosmetic back]
+
+      # Cloth
+
+      - id: 233265 # Laundered Shoulderpads [cloth shoulders]
+      - id: 233266 # Laundered Cord [cloth waist]
+      - id: 233262 # Laundered Handwraps [cloth hands]
+      - id: 233264 # Laundered Leggings [cloth legs]
+      - id: 237126 # Laundered Cape [back]
+
+      # Leather
+
+      - id: 233340 # Upcycled Epaulets [leather shoulders
+      - id: 233337 # Upcycled Gloves [leather hands]
+      - id: 233341 # Upcycled Sash [leather waist]
+      - id: 233339 # Upcycled Breeches [leather legs]
+      - id: 237125 # Upcycled Cloak [back]
+
+      # Mail
+
+      - id: 233348 # Power-Washed Shoulderguards [mail shoulders]
+      - id: 233345 # Power-Washed Grips [mail hands]
+      - id: 233349 # Power-Washed Belt [mail waist]
+      - id: 233347 # Power-Washed Greaves [mail legs]
+      - id: 237124 # Power-Washed Drape [back]
+
+      # Plate
+
+      - id: 233549 # Descaled Mantle [plate shoulders]
+      - id: 233546 # Descaled Gauntlets [plate hands]
+      - id: 233550 # Descaled Girdle [plate waist]
+      - id: 233548 # Descaled Legguards [plate legs]
+      - id: 237123 # Descaled Capelet [back]

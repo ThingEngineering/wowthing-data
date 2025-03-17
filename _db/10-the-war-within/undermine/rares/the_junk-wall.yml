@@ -12,12 +12,12 @@ things:
 
     contents:
 
-      - id: 235351 # Hypersteel CX4 Greatsword [1h ? sword]
-
       - id: 235313 # Shockproof Helm [plate head]
 
       - id: 235315 # Rocketstep Boots [plate feet]
 
       - id: 235300 # Cloak of Mecha Shards [cloak]
+
+      - id: 235351 # Hypersteel CX4 Greatsword [1h ? sword]
 
       - id: 235354 # Scrapblaster Lance [polearm]

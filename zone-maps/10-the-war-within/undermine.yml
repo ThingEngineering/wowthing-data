@@ -2,3 +2,8 @@ name: "Undermine"
 mapName: "10-the-war-within/undermine"
 minimumLevel: 70
 farms:
+
+- name: "Zone"
+  groupId: 1
+  location: 15 80
+  type: group

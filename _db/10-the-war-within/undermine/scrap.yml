@@ -1,0 +1,66 @@
+things:
+  - id: 500750 # Random S.C.R.A.P box
+    type: "object"
+    name: "S.C.R.A.P Reward Boxes"
+    reset: "none"
+    zoneMapsGroupId: 1
+
+    locations:
+      here:
+        - 1 1
+
+    contents:
+
+      - id: 236191 # Mechanic's Best Motivator [cosmetic 1h mace]
+
+      - id: 236181 # Center-Stage Remover [cosmetic 1h sword]
+
+      - id: 236178 # Gammy's Hand-Me-Down Bow [cosmetic bow]
+
+      - id: 236161 # Boiler Spureme 300 [cosmetic gun]
+
+      # Cloth
+      - id: 233263 # Laundered Cowl [cloth head]
+      - id: 233260 # Laundered Vestment [cloth chest]
+      - id: 233267 # Laundered Cuffs [cloth wrists]
+      - id: 233261 # Laundered Sandals [cloth feet]
+
+      # Leather
+      - id: 233338 # Upcycled Helm [leather head]
+      - id: 233335 # Upcycled Jerkin [leather chest]
+      - id: 233342 # Upcycled Bindings [leather wrists]
+      - id: 233336 # Upcycled Waders [leather feet]
+
+      # Mail
+      - id: 233346 # Power-Washed Coif [mail head]
+      - id: 233343 # Power-Washed Chainmail [mail chest]
+      - id: 233350 # Power-Washed Bracers [mail wrists]
+      - id: 233344 # Power-Washed Striders [mail feet]
+
+      # Plate
+      - id: 233547 # Descaled Helm [plate head]
+      - id: 233544 # Descaled Breastplate [plate chest]
+      - id: 233551 # Descaled Armplates [plate wrists]
+      - id: 233545 # Descaled Sabatons [plate feet]
+
+  - id: 234621
+    type: "npc"
+    name: "Gallagio Garbage"
+    note: "Can spawn when reaching 500 score on a S.C.R.A.P pile"
+    reset: "daily"
+    trackingQuestId: 87007
+    zoneMapsGroupId: 1
+
+    locations:
+      here: # undermine
+        - 1 1
+
+    contents:
+
+      - id: 229953 # Salvaged Goblin Gazillionaire's Flying Machine [mount]
+
+      - id: 235821 # Pressed-Gold Pantaloons [mail legs]
+
+      - id: 235822 # Coin-Woven Shawl [cloak]
+
+      - id: 235854 # Gold-Inlaid Jetpack [subclass=5 back]
