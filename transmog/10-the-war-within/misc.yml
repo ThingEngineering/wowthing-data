@@ -1,6 +1,59 @@
 name: "Miscellaneous"
 groups:
 
+- name: "Undermine"
+  type: armor
+  sets:
+    - "Quest Rewards" # Undermine Revolutionary
+    - "World Drops" # Rustfang Rebel
+    - "Delves" # Junkreaver
+    - "Outdoor Activities" # Descaled Wear
+    - "Renown"
+  data:
+    cloth:
+      - transmogSetId: 4342 # Undermine Revolutionary's Vestments [Quest Rewards]
+
+      - transmogSetId: 4354 # Mindboost Scholar Regalia [World Quests/Drops]
+
+      - transmogSetId: 4267 # Noxious Injector Apparatus [Delves]
+
+      - transmogSetId: 4358 # Laundered Attire [Outdoor Activities]
+
+      - transmogSetId: 4351 # Smartest in Town [Renown]
+
+    leather:
+      - transmogSetId: 4344 # Undermine Revolutionary's Battlegear [Quest Rewards]
+
+      - transmogSetId: 4355 # Smoketrail Racer Suit [World Quests/Drops]
+
+      - transmogSetId: 4268 # Nitroclad Kit [Delves]
+
+      - transmogSetId: 4359 # Upcycled Outfit [Outdoor Activities]
+
+      - transmogSetId: 4350 # Slickest in Town [Renown]
+
+    mail:
+      - transmogSetId: 4345 # Undermine Revolutionary's Guise [Quest Rewards]
+
+      - transmogSetId: 4356 # Dustfire Outlaw Attire [World Quests/Drops]
+
+      - transmogSetId: 4269 # Blastborne Loadout [Delves]
+
+      - transmogSetId: 4360 # Power-Washed Wardrobe [Outdoor Activities]
+
+      - transmogSetId: 4353 # Craftiest in Town [Renown]
+
+    plate:
+      - transmogSetId: 4343 # Undermine Revolutionary's Battleplate [Quest Rewards]
+
+      - transmogSetId: 4357 # Rustfang Rebel Gear [World Quests/Drops]
+
+      - transmogSetId: 4270 # Junkreaver's Apparel [Delves]
+
+      - transmogSetId: 4361 # Descaled Wear [Outdoor Activities]
+
+      - transmogSetId: 4352 # Toughest in Town [Renown]
+
 - name: "Hallowfall"
   type: armor
   sets:
