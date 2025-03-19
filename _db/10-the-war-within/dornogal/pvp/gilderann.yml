@@ -35,246 +35,252 @@ things:
 
     contents:
 
-      # 0 set=3881
+      # 0 set=4267
 
-      - id: 223810 # Forged Warmonger's Crown [cloth head]
+      - id: 230109 # Prized Warmonger's Crown [cloth head]
         costs:
           2123: 875
 
-      - id: 223814 # Forged Warmonger's Mantle [cloth shoulders]
+      - id: 230113 # Prized Warmonger's Mantle [cloth shoulders]
         costs:
           2123: 700
 
-      - id: 223807 # Forged Warmonger's Garb [cloth chest]
+      - id: 230106 # Prized Warmonger's Garb [cloth chest]
         costs:
           2123: 875
 
-      - id: 223813 # Forged Warmonger's Bindings [cloth wrists]
+      - id: 230112 # Prized Warmonger's Bindings [cloth wrists]
         costs:
           2123: 525
 
-      - id: 223809 # Forged Warmonger's Gloves [cloth hands]
+      - id: 230108 # Prized Warmonger's Gloves [cloth hands]
         costs:
           2123: 700
 
-      - id: 223812 # Forged Warmonger's Cord [cloth waist]
+      - id: 230111 # Prized Warmonger's Cord [cloth waist]
         costs:
           2123: 700
 
-      - id: 223811 # Forged Warmonger's Pants [cloth legs]
+      - id: 230110 # Prized Warmonger's Pants [cloth legs]
         costs:
           2123: 875
 
-      - id: 223808 # Forged Warmonger's Slippers [cloth feet]
+      - id: 230107 # Prized Warmonger's Slippers [cloth feet]
         costs:
           2123: 700
 
-      # 0 set=3880
+      # 0 set=4268
 
-      - id: 223817 # Forged Warmonger's Hood [leather head]
+      - id: 230116 # Prized Warmonger's Hood [leather head]
         costs:
           2123: 875
 
-      - id: 223822 # Forged Warmonger's Shoulderguard [leather shoulders]
+      - id: 230121 # Prized Warmonger's Shoulderguard [leather shoulders]
         costs:
           2123: 700
 
-      - id: 223821 # Forged Warmonger's Jerkin [leather chest]
+      - id: 230120 # Prized Warmonger's Jerkin [leather chest]
         costs:
           2123: 875
 
-      - id: 223820 # Forged Warmonger's Wraps [leather wrists]
+      - id: 230119 # Prized Warmonger's Wraps [leather wrists]
         costs:
           2123: 525
 
-      - id: 223816 # Forged Warmonger's Handwraps [leather hands]
+      - id: 230115 # Prized Warmonger's Handwraps [leather hands]
         costs:
           2123: 700
 
-      - id: 223819 # Forged Warmonger's Belt [leather waist]
+      - id: 230118 # Prized Warmonger's Belt [leather waist]
         costs:
           2123: 700
 
-      - id: 223818 # Forged Warmonger's Breeches [leather legs]
+      - id: 230117 # Prized Warmonger's Breeches [leather legs]
         costs:
           2123: 875
 
-      - id: 223815 # Forged Warmonger's Boots [leather feet]
+      - id: 230114 # Prized Warmonger's Boots [leather feet]
         costs:
           2123: 700
 
-      # 0 set=3878
+      # 0 set=4269
 
-      - id: 223834 # Forged Warmonger's Helm [mail head]
+      - id: 230133 # Prized Warmonger's Helm [mail head]
         costs:
           2123: 875
 
-      - id: 223836 # Forged Warmonger's Epaulets [mail shoulders]
+      - id: 230135 # Prized Warmonger's Epaulets [mail shoulders]
         costs:
           2123: 700
 
-      - id: 223831 # Forged Warmonger's Chestguard [mail chest]
+      - id: 230130 # Prized Warmonger's Chestguard [mail chest]
         costs:
           2123: 875
 
-      - id: 223838 # Forged Warmonger's Armguards [mail wrists]
+      - id: 230137 # Prized Warmonger's Armguards [mail wrists]
         costs:
           2123: 525
 
-      - id: 223833 # Forged Warmonger's Grips [mail hands]
+      - id: 230132 # Prized Warmonger's Grips [mail hands]
         costs:
           2123: 700
 
-      - id: 223837 # Forged Warmonger's Cinch [mail waist]
+      - id: 230136 # Prized Warmonger's Cinch [mail waist]
         costs:
           2123: 700
 
-      - id: 223835 # Forged Warmonger's Leggings [mail legs]
+      - id: 230134 # Prized Warmonger's Leggings [mail legs]
         costs:
           2123: 875
 
-      - id: 223832 # Forged Warmonger's Greaves [mail feet]
+      - id: 230131 # Prized Warmonger's Greaves [mail feet]
         costs:
           2123: 700
 
-      # 0 set=3879
+      # 0 set=4270
 
-      - id: 223823 # Forged Warmonger's Faceplate [plate head]
+      - id: 230122 # Prized Warmonger's Faceplate [plate head]
         costs:
           2123: 875
 
-      - id: 223828 # Forged Warmonger's Spaulders [plate shoulders]
+      - id: 230127 # Prized Warmonger's Spaulders [plate shoulders]
         costs:
           2123: 700
 
-      - id: 223824 # Forged Warmonger's Cuirass [plate chest]
+      - id: 230123 # Prized Warmonger's Cuirass [plate chest]
         costs:
           2123: 875
 
-      - id: 223830 # Forged Warmonger's Bracers [plate wrists]
+      - id: 230129 # Prized Warmonger's Bracers [plate wrists]
         costs:
           2123: 525
 
-      - id: 223826 # Forged Warmonger's Gauntlets [plate hands]
+      - id: 230125 # Prized Warmonger's Gauntlets [plate hands]
         costs:
           2123: 700
 
-      - id: 223829 # Forged Warmonger's Clasp [plate waist]
+      - id: 230128 # Prized Warmonger's Clasp [plate waist]
         costs:
           2123: 700
 
-      - id: 223827 # Forged Warmonger's Legguards [plate legs]
+      - id: 230126 # Prized Warmonger's Legguards [plate legs]
         costs:
           2123: 875
 
-      - id: 223825 # Forged Warmonger's Sabatons [plate feet]
+      - id: 230124 # Prized Warmonger's Sabatons [plate feet]
         costs:
           2123: 700
 
-      # Cloak
+      # 0 set=4267
 
-      - id: 223839 # Forged Warmonger's Cape [cloak]
+      - id: 230140 # Prized Warmonger's Cloak [cloak]
         costs:
           2123: 525
 
-      - id: 223841 # Forged Warmonger's Cloak [cloak]
+      # 0 set=4268
+
+      - id: 230141 # Prized Warmonger's Drape [cloak]
         costs:
           2123: 525
 
-      - id: 223842 # Forged Warmonger's Drape [cloak]
+      # 0 set=4269
+
+      - id: 230138 # Prized Warmonger's Cape [cloak]
         costs:
           2123: 525
 
-      - id: 223840 # Forged Warmonger's Shawl [cloak]
+      # 0 set=4270
+
+      - id: 230139 # Prized Warmonger's Shawl [cloak]
         costs:
           2123: 525
 
       # 0
 
-      - id: 223844 # Forged Warmonger's Battleaxe [1h ? axe]
+      - id: 230142 # Prized Warmonger's Battleaxe [1h ? axe]
         costs:
           2123: 875
 
-      - id: 223846 # Forged Warmonger's Carver [1h ? axe]
+      - id: 230144 # Prized Warmonger's Carver [1h ? axe]
         costs:
           2123: 875
 
-      - id: 223845 # Forged Warmonger's Hatchet [1h ? axe]
+      - id: 230143 # Prized Warmonger's Hatchet [1h ? axe]
         costs:
           2123: 1225
 
-      - id: 223856 # Forged Warmonger's Club [1h ? mace]
+      - id: 230153 # Prized Warmonger's Club [1h ? mace]
         costs:
           2123: 1225
 
-      - id: 223864 # Forged Warmonger's Crusher [1h ? mace]
+      - id: 230161 # Prized Warmonger's Crusher [1h ? mace]
         costs:
           2123: 875
 
-      - id: 223858 # Forged Warmonger's Cudgel [1h ? mace]
+      - id: 230155 # Prized Warmonger's Gavel [1h ? mace]
         costs:
           2123: 875
 
-      - id: 223857 # Forged Warmonger's Hammer [1h ? mace]
+      - id: 230154 # Prized Warmonger's Hammer [1h ? mace]
         costs:
           2123: 875
 
-      - id: 223863 # Forged Warmonger's Mace [1h ? mace]
+      - id: 230160 # Prized Warmonger's Mace [1h ? mace]
         costs:
           2123: 875
 
-      - id: 223865 # Forged Warmonger's Scepter [1h ? mace]
+      - id: 230162 # Prized Warmonger's Scepter [1h ? mace]
         costs:
           2123: 1225
 
-      - id: 223867 # Forged Warmonger's Dagger [? dagger]
+      - id: 230163 # Prized Warmonger's Dagger [? dagger]
         costs:
           2123: 1225
 
-      - id: 223868 # Forged Warmonger's Dirk [? dagger]
+      - id: 230164 # Prized Warmonger's Dirk [? dagger]
         costs:
           2123: 875
 
-      - id: 223848 # Forged Warmonger's Twinblade [warglaive]
+      - id: 230146 # Prized Warmonger's Twinblade [warglaive]
         costs:
           2123: 875
 
-      - id: 223855 # Forged Warmonger's Broadsword [2h ? sword]
+      - id: 230151 # Prized Warmonger's Broadsword [2h ? sword]
         costs:
           2123: 1750
 
-      - id: 223854 # Forged Warmonger's Greatsword [2h ? sword]
+      - id: 230150 # Prized Warmonger's Greatsword [2h ? sword]
         costs:
           2123: 1750
 
-      - id: 223860 # Forged Warmonger's Impaler [polearm]
+      - id: 230157 # Prized Warmonger's Impaler [polearm]
         costs:
           2123: 1750
 
-      - id: 223861 # Forged Warmonger's Spear [polearm]
+      - id: 230158 # Prized Warmonger's Spear [polearm]
         costs:
           2123: 1750
 
-      - id: 223853 # Forged Warmonger's Battlestaff [staff]
+      - id: 230149 # Prized Warmonger's Battlestaff [staff]
         costs:
           2123: 1750
 
-      - id: 223852 # Forged Warmonger's Spire [staff]
+      - id: 230148 # Prized Warmonger's Spire [staff]
         costs:
           2123: 1750
 
-      - id: 223847 # Forged Warmonger's Flameshot [gun]
+      - id: 230145 # Prized Warmonger's Flameshot [gun]
         costs:
           2123: 1750
 
-      - id: 223862 # Forged Warmonger's Wand [wand]
+      - id: 230159 # Prized Warmonger's Wand [wand]
         costs:
           2123: 1225
 
-      - id: 223851 # Forged Warmonger's Branch [off-hand]
+      - id: 230147 # Prized Warmonger's Firebomb [off-hand]
         costs:
           2123: 525
 
-      - id: 223859 # Forged Warmonger's Aegis [shield]
+      - id: 230156 # Prized Warmonger's Aegis [shield]
         costs:
           2123: 525
