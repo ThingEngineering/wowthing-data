@@ -10,14 +10,14 @@ things:
 
     contents:
 
-      - id: 237346 # Artisan Beverage Goblet Bobber
+      - id: 237346 # Artisan Beverage Goblet Bobber [toy]
         costs:
           1227673: 5
 
-      - id: 237345 # Limited Edition Rocket Bobber
+      - id: 237345 # Limited Edition Rocket Bobber [toy]
         costs:
           1227673: 5
 
-      - id: 237347 # Organically-Sourced Wellington Bobber
+      - id: 237347 # Organically-Sourced Wellington Bobber [toy]
         costs:
           1227673: 5

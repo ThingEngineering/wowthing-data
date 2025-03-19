@@ -12,14 +12,14 @@ things:
 
       # 0
 
-      - id: 229952 # Asset Advocator
+      - id: 229952 # Asset Advocator [mount]
         costs:
           1234741: 25
 
-      - id: 229941 # Innovation Investigator
+      - id: 229941 # Innovation Investigator [mount]
         costs:
           1234741: 25
 
-      - id: 229954 # Margin Manipulator
+      - id: 229954 # Margin Manipulator [mount]
         costs:
           1234741: 25

@@ -12,30 +12,18 @@ things:
 
       # 0
 
-      - id: 237382 # Undermine Supply Crate
-        costs:
-          3218: 999
-
-      - id: 232858 # Cruncher
+      - id: 232858 # Cruncher [pet]
         costs:
           3220: 1
 
-      - id: 232859 # Lab Rat
+      - id: 232859 # Lab Rat [pet]
         costs:
           3220: 3
 
-      - id: 232986 # GE86 Advance
+      - id: 237382 # Undermine Supply Crate [toy]
+        costs:
+          3218: 999
+
+      - id: 232986 # GE86 Advance [DRIVE]
         costs:
           3220: 1
-
-      - id: 233558 # S.C.R.A.P. Scrubber Deluxe
-        costs:
-          1233246: 1
-
-      - id: 233557 # Sifted Pile of Scrap
-        costs:
-          3220: 1
-
-      - id: 233557 # Sifted Pile of Scrap
-        costs:
-          3218: 333
