@@ -10,44 +10,74 @@ things:
 
     groups:
       - name: "Delves - Misc"
-        range: 4
+        range: 6
         sortKey: "delve-1"
 
       - name: "Delves - Schematics"
-        range: 4
-        sortKey: "delve-2"
-      
-      - name: "Delves - Armor"
         range: 9
+        sortKey: "delve-2"
+
+      - name: "Delves - Ensembles"
+        range: 5
         sortKey: "delve-3-0"
       
+      - name: "Delves - Cloth"
+        range: 9
+        sortKey: "delve-3-1"
+      
+      - name: "Delves - Leather"
+        range: 9
+        sortKey: "delve-3-2"
+      
+      - name: "Delves - Mail"
+        range: 9
+        sortKey: "delve-3-3"
+      
+      - name: "Delves - Plate"
+        range: 9
+        sortKey: "delve-3-4"
+      
+      - name: "Delves - Cosmetic"
+        range: 5
+        sortKey: "delve-3-6"
+
       - name: "Delves - Weapons"
         range: -1
         sortKey: "delve-4"
 
     contents:
 
-      # Pet
+      # Misc
 
-      - id: 222974 # Sir Shady Mrrgglton Junior
+      - id: 222974 # Sir Shady Mrrgglton Junior [pet]
         costs:
           2803: 10000
 
-      # Toy
-
-      - id: 211931 # Abyss Caller Horn
+      - id: 211931 # Abyss Caller Horn [toy]
         costs:
           2803: 500
 
-      - id: 228413 # Lampyridae Lure
+      - id: 228413 # Lampyridae Lure [toy]
         costs:
           2803: 500
 
-      - id: 225910 # Pileus Delight
+      - id: 225910 # Pileus Delight [toy]
         costs:
           2803: 500
 
-      # Misc
+      - id: 230924 # Spotlight Materializer 1000 [toy]
+        costs:
+          2803: 500
+
+      - id: 231064 # Throwaway Gangster Disguise [toy]
+        costs:
+          2803: 2500
+
+      # Schematics
+
+      - id: 235685 # Delver's Dirigible Schematic: Drill
+        costs:
+          2803: 2500
 
       - id: 224771 # Delver's Dirigible Schematic: Empennage
         costs:
@@ -57,7 +87,23 @@ things:
         costs:
           2803: 2500
 
+      - id: 235684 # Delver's Dirigible Schematic: Glider
+        costs:
+          2803: 3000
+
       - id: 224769 # Delver's Dirigible Schematic: Rotor Blades
+        costs:
+          2803: 3000
+
+      - id: 235687 # Delver's Dirigible Schematic: Spoiler
+        costs:
+          2803: 2000
+
+      - id: 235683 # Delver's Dirigible Schematic: Turbine
+        costs:
+          2803: 2500
+
+      - id: 235686 # Delver's Dirigible Schematic: White Paint
         costs:
           2803: 3000
 
@@ -65,7 +111,181 @@ things:
         costs:
           2803: 2500
 
-      # 0
+      # Ensembles
+
+      - id: 234385 # Ensemble: Aegis of Hidden Stars
+        costs:
+          2803: 5000
+
+      - id: 234384 # Ensemble: Chains of the Stygian Sea
+        costs:
+          2803: 5000
+
+      - id: 234383 # Ensemble: Myconic Shell
+        costs:
+          2803: 5000
+
+      - id: 234382 # Ensemble: Unkindled Waxweave Panoply
+        costs:
+          2803: 5000
+
+      - id: 234388 # Arsenal: Hallowfall Weaponry
+        costs:
+          2803: 5000
+
+      # 0 set=3640
+
+      - id: 211011 # Cave Topographer's Cowl [cloth head]
+        costs:
+          2803: 875
+
+      - id: 211039 # Cave Topographer's Shoulders [cloth shoulders]
+        costs:
+          2803: 750
+
+      - id: 211005 # Cave Topographer's Drape [cloak]
+        costs:
+          2803: 500
+
+      - id: 211008 # Cave Topographer's Vestment [cloth chest]
+        costs:
+          2803: 875
+
+      - id: 211014 # Cave Topographer's Cuffs [cloth wrists]
+        costs:
+          2803: 625
+
+      - id: 211010 # Cave Topographer's Handwraps [cloth hands]
+        costs:
+          2803: 750
+
+      - id: 211013 # Cave Topographer's Cord [cloth waist]
+        costs:
+          2803: 625
+
+      - id: 211012 # Cave Topographer's Leggings [cloth legs]
+        costs:
+          2803: 875
+
+      - id: 211009 # Cave Topographer's Sandals [cloth feet]
+        costs:
+          2803: 750
+
+      # 0 set=3641
+
+      - id: 211017 # Treasure-Seeker's Helm [leather head]
+        costs:
+          2803: 875
+
+      - id: 211038 # Treasure-Seeker's Epaulets [leather shoulders]
+        costs:
+          2803: 750
+
+      - id: 211062 # Treasure-Seeker's Shawl [cloak]
+        costs:
+          2803: 500
+
+      - id: 211037 # Treasure-Seeker's Vest [leather chest]
+        costs:
+          2803: 875
+
+      - id: 211020 # Treasure-Seeker's Bindings [leather wrists]
+        costs:
+          2803: 625
+
+      - id: 211016 # Treasure-Seeker's Grips [leather hands]
+        costs:
+          2803: 750
+
+      - id: 211019 # Treasure-Seeker's Sash [leather waist]
+        costs:
+          2803: 625
+
+      - id: 211018 # Treasure-Seeker's Breeches [leather legs]
+        costs:
+          2803: 875
+
+      - id: 211015 # Treasure-Seeker's Boots [leather feet]
+        costs:
+          2803: 750
+
+      # 0 set=3642
+
+      - id: 211024 # Torchbearer's Coif [mail head]
+        costs:
+          2803: 875
+
+      - id: 211026 # Torchbearer's Shoulderguards [mail shoulders]
+        costs:
+          2803: 750
+
+      - id: 211007 # Torchbearer's Greatcloak [cloak]
+        costs:
+          2803: 500
+
+      - id: 211021 # Torchbearer's Chainmail [mail chest]
+        costs:
+          2803: 875
+
+      - id: 211028 # Torchbearer's Bracers [mail wrists]
+        costs:
+          2803: 625
+
+      - id: 211023 # Torchbearer's Grips [mail hands]
+        costs:
+          2803: 750
+
+      - id: 211027 # Torchbearer's Cinch [mail waist]
+        costs:
+          2803: 625
+
+      - id: 211025 # Torchbearer's Greaves [mail legs]
+        costs:
+          2803: 875
+
+      - id: 211022 # Torchbearer's Striders [mail feet]
+        costs:
+          2803: 750
+
+      # 0 set=3643
+
+      - id: 211029 # Secret-Dredger's Helm [plate head]
+        costs:
+          2803: 875
+
+      - id: 211034 # Secret-Dredger's Mantle [plate shoulders]
+        costs:
+          2803: 750
+
+      - id: 211006 # Secret-Dredger's Cloak [cloak]
+        costs:
+          2803: 500
+
+      - id: 211030 # Secret-Dredger's Breastplate [plate chest]
+        costs:
+          2803: 875
+
+      - id: 211036 # Secret-Dredger's Armplates [plate wrists]
+        costs:
+          2803: 625
+
+      - id: 211032 # Secret-Dredger's Gauntlets [plate hands]
+        costs:
+          2803: 750
+
+      - id: 211035 # Secret-Dredger's Girdle [plate waist]
+        costs:
+          2803: 625
+
+      - id: 211033 # Secret-Dredger's Legguards [plate legs]
+        costs:
+          2803: 875
+
+      - id: 211031 # Secret-Dredger's Sabatons [plate feet]
+        costs:
+          2803: 750
+
+      # Cosmetic
 
       - id: 212166 # Coral Nautic Helm [subclass=5 head]
         costs:
@@ -79,29 +299,17 @@ things:
         costs:
           2803: 2500
 
-      - id: 212173 # Rulk'Nerub Raptorial Spine [subclass=5 back]
+      - id: 235617 # Lucky Goblin's Strapped Rockets [subclass=5 back]
         costs:
           2803: 2500
+
+      # - id: 212173 # Rulk'Nerub Raptorial Spine [subclass=5 back]
+      #   costs:
+      #     2803: 2500
 
       - id: 225065 # Torchbearer's Haversack [subclass=5 back]
         costs:
           2803: 2500
-
-      - id: 211005 # Cave Topographer's Drape [cloak]
-        costs:
-          2803: 500
-
-      - id: 211062 # Treasure-Seeker's Shawl [cloak]
-        costs:
-          2803: 500
-
-      - id: 211007 # Torchbearer's Greatcloak [cloak]
-        costs:
-          2803: 500
-
-      - id: 211006 # Secret-Dredger's Cloak [cloak]
-        costs:
-          2803: 500
 
       # 0
 

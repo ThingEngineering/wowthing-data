@@ -10,7 +10,7 @@ things:
 
     groups:
       - name: "Delves - Misc"
-        range: 1
+        range: 4
         sortKey: "delve-1"
       
       - name: "Delves - Schematics"
@@ -39,35 +39,49 @@ things:
 
     contents:
 
-      # Toy
-
-      - id: 223312 # Trusty Hat
-        costs:
-          2815: 10
-
       # Misc
 
-      - id: 224981 # Delver's Dirigible Schematic: Brown Paint
+      - id: 230850 # Delve-O-Bot 7001 [toy]
         costs:
           2815: 10
 
-      - id: 224982 # Delver's Dirigible Schematic: Exhaust
+      - id: 228413 # Lampyridae Lure [toy]
+        costs:
+          2815: 5000
+
+      - id: 225910 # Pileus Delight [toy]
+        costs:
+          2815: 5000
+
+      - id: 235608 # Nightfall Sanctum Campsite
         costs:
           2815: 10
 
-      - id: 224980 # Delver's Dirigible Schematic: Front-Mounted Lantern
+      # - id: 223312 # Trusty Hat
+      #   costs:
+      #     2815: 10
+
+      # Schematics
+
+      - id: 230219 # Delver's Gob-Trotter Schematic: Balloon
         costs:
           2815: 10
 
-      - id: 224960 # Delver's Dirigible Schematic: Lantern Wing
+      - id: 230217 # Delver's Gob-Trotter Schematic: Flamethrower
         costs:
           2815: 10
 
-      - id: 224979 # Delver's Dirigible Schematic: Zeppelin
+      - id: 230220 # Delver's Gob-Trotter Schematic: Green
         costs:
           2815: 10
 
-      # 0
+      - id: 230216 # Delver's Gob-Trotter Schematic: Harpoon
+        costs:
+          2815: 10
+
+      - id: 230218 # Delver's Gob-Trotter Schematic: Pipes
+        costs:
+          2815: 10
 
       # 0 set=3640
 
