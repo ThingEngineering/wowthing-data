@@ -1,0 +1,55 @@
+# yaml-language-server: $schema=../../../_schema/db.json
+
+tags:
+  - "treasure"
+
+things:
+  - type: "object"
+    id: 499090
+    name: "{item:235220}"
+    reset: "never"
+    trackingQuestId: 85856
+    locations:
+      here:
+        - "57.9 52.9"
+    contents:
+      - type: "item"
+        id: 235220 # Fireworks Hat [toy]
+
+  - type: "object"
+    id: 499119
+    name: "Lonely Tub"
+    reset: "never"
+    trackingQuestId: 85860
+    locations:
+      here:
+        - "59.3 19.0"
+    contents:
+      - type: "item"
+        id: 235279 # Scorched Shorts [cosmetic legs]
+
+  - type: "object"
+    id: 509567
+    name: "The Undermine Guide to Authentic Cooking"
+    note: "Need to know Undermine Clam Chowder from Classic"
+    reset: "never"
+    locations:
+      here:
+        - "38.5 88.5"
+    contents:
+      - type: "item"
+        id: 235800 # Recipe: Authentic Undermine Clam Chowder
+        requirements:
+          - "profession cooking tww 35"
+
+  - type: "object"
+    id: 477374
+    name: "{item:234951}"
+    reset: "never"
+    trackingQuestId: 85495
+    locations:
+      here:
+        - "53.3 52.6"
+    contents:
+      - type: "item"
+        id: 234951 # Uncracked Cold Ones [toy]
