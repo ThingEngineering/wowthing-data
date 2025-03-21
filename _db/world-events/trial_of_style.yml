@@ -1,0 +1,405 @@
+tags:
+  - "event:trial-of-style"
+
+things:
+  - id: 54473
+    type: "vendor"
+    name: "Warpweaver Dushar"
+    note: "Transmogrifier"
+
+    locations:
+      00-classic/orgrimmar:
+        - 58 65.4 horde
+
+    groups: &groups
+      - name: "Armor - Head"
+        range: 8
+
+      - name: "Armor - Shoulders"
+        range: 2
+
+      - name: "Armor - Hands"
+        range: 1
+
+      - name: "Armor - Waist"
+        range: 7
+
+      - name: "Armor - Legs"
+        range: 5
+      
+      - name: "Armor - Feet"
+        range: 13
+
+      - name: "Armor - Legwraps"
+        range: 18
+
+      - name: "Armor - Misc"
+        range: 9
+
+      - name: "Ensembles"
+        range: 13
+      
+      - name: "Weapons"
+        range: -1
+
+    contents: &contents
+
+      # Head
+
+      - id: 202308 # Alley Skulker's Bandana [subclass=5 head]
+        costs:
+          1151134: 25
+
+      - id: 202303 # Crimson Beanie [subclass=5 head]
+        costs:
+          1151134: 25
+
+      - id: 202306 # Dread Captain's Chapeau [subclass=5 head]
+        costs:
+          1151134: 25
+
+      - id: 202304 # Green Beanie [subclass=5 head]
+        costs:
+          1151134: 25
+
+      - id: 202305 # Stevedore's Skullcap [subclass=5 head]
+        costs:
+          1151134: 25
+
+      - id: 202298 # Trader's Bicorne [subclass=5 head]
+        costs:
+          1151134: 25
+
+      - id: 235021 # Vigilante's Sepia Mask [subclass=5 head]
+        costs:
+          1151134: 25
+
+      - id: 202307 # Well-Worn Tricorne [subclass=5 head]
+        costs:
+          1151134: 25
+
+      # Shoulders
+
+      - id: 212626 # Dueler's Sepia Shoulder Cape [subclass=5 shoulders]
+        costs:
+          1151134: 25
+
+      - id: 230035 # Prowler's Sepia Shoulder Cape [subclass=5 shoulders]
+        costs:
+          1151134: 25
+
+      # Hands
+
+      - id: 213441 # Earth Mother's Sepia Gloves [subclass=5 hands]
+        costs:
+          1151134: 25
+
+      # Waist
+
+      - id: 189870 # Arcanofire Wrap [cloth waist]
+        costs:
+          1151134: 15
+
+      - id: 190888 # Embrace of the Great Dark Beyond [cloth waist]
+        costs:
+          1151134: 15
+
+      - id: 190429 # Clasp of Ursine Rage [leather waist]
+        costs:
+          1151134: 15
+
+      - id: 190544 # Ultramafic Girdle [mail waist]
+        costs:
+          1151134: 15
+
+      - id: 190858 # Girdle of Chilled Embers [plate waist]
+        costs:
+          1151134: 15
+
+      - id: 190673 # Waistguard of the Infernal Eye [plate waist]
+        costs:
+          1151134: 15
+
+      - id: 190064 # Ymirjar Berserker's Girdle [plate waist]
+        costs:
+          1151134: 15
+
+      # Legs
+      - id: 233081 # Short Sepia War Skirt [subclass=5 legs]
+        costs:
+          1151134: 25
+      
+      - id: 233120 # Short Sepia War Skirt and Leg Wraps [subclass=5 legs]
+        costs:
+          1151134: 50
+      
+      - id: 233098 # Long Sepia War Skirt [subclass=5 legs]
+        costs:
+          1151134: 25
+
+      - id: 233137 # Long Sepia War Skirt and Leg Wraps [subclass=5 legs]
+        costs:
+          1151134: 50
+
+      - id: 210850 # Trader's Sepia Sarong [subclass=5 legs]
+        costs:
+          1151134: 25
+
+      # Feet
+      
+      - id: 233171 # Banded Sepia War Slippers [subclass=5 feet]
+        costs:
+          1151134: 15
+
+      - id: 233154 # Banded Sepia War Wraps [subclass=5 feet]
+        costs:
+          1151134: 25
+
+      - id: 188237 # Conjuror's Slippers [subclass=5 feet]
+        costs:
+          1151134: 7
+
+      - id: 188249 # Freezing Footguards [subclass=5 feet]
+        costs:
+          1151134: 15
+
+      - id: 188236 # Patroller's Footwear [subclass=5 feet]
+        costs:
+          1151134: 7
+
+      - id: 188248 # Searing Stompers [subclass=5 feet]
+        costs:
+          1151134: 15
+
+      - id: 188243 # Shadow-Stitched Stalkers [subclass=5 feet]
+        costs:
+          1151134: 10
+
+      - id: 188244 # Virulent Gravetreaders [subclass=5 feet]
+        costs:
+          1151134: 10
+
+      - id: 190803 # Lost Acolyte's Boots [cloth feet]
+        costs:
+          1151134: 15
+
+      - id: 190202 # Scoundrel's Missing Boots [leather feet]
+        costs:
+          1151134: 15
+
+      - id: 190830 # Mad Thief's Boots [leather feet]
+        costs:
+          1151134: 15
+
+      - id: 190697 # Boots of a Broken World [mail feet]
+        costs:
+          1151134: 15
+
+      - id: 190167 # Vault Stalker's Greaves [mail feet]
+        costs:
+          1151134: 15
+
+      # Armor - Feet/Legwraps
+
+      - id: 237243 # Banded Aquatic War Legwraps [subclass=5 feet]
+        costs:
+          1151134: 15
+
+      - id: 237254 # Banded Azure War Legwraps [subclass=5 feet]
+        costs:
+          1151134: 15
+
+      - id: 237250 # Banded Brick War Legwraps [subclass=5 feet]
+        costs:
+          1151134: 15
+
+      - id: 237251 # Banded Camo War Legwraps [subclass=5 feet]
+        costs:
+          1151134: 15
+
+      - id: 237247 # Banded Carrot War Legwraps [subclass=5 feet]
+        costs:
+          1151134: 15
+
+      - id: 237253 # Banded Cloudy War Legwraps [subclass=5 feet]
+        costs:
+          1151134: 15
+
+      - id: 237256 # Banded Crimson War Legwraps [subclass=5 feet]
+        costs:
+          1151134: 15
+
+      - id: 237252 # Banded Deep War Legwraps [subclass=5 feet]
+        costs:
+          1151134: 15
+
+      - id: 237248 # Banded Faded War Legwraps [subclass=5 feet]
+        costs:
+          1151134: 15
+
+      - id: 237257 # Banded Grassy War Legwraps [subclass=5 feet]
+        costs:
+          1151134: 15
+
+      - id: 237249 # Banded Lively War Legwraps [subclass=5 feet]
+        costs:
+          1151134: 15
+
+      - id: 237255 # Banded Midnight War Legwraps [subclass=5 feet]
+        costs:
+          1151134: 15
+
+      - id: 237245 # Banded Plum War Legwraps [subclass=5 feet]
+        costs:
+          1151134: 15
+
+      - id: 237246 # Banded Rosy War Legwraps [subclass=5 feet]
+        costs:
+          1151134: 15
+
+      - id: 237240 # Banded Sepia War Legwraps [subclass=5 feet]
+        costs:
+          1151134: 15
+
+      - id: 237242 # Banded Snowy War Legwraps [subclass=5 feet]
+        costs:
+          1151134: 15
+
+      - id: 237241 # Banded Sunny War Legwraps [subclass=5 feet]
+        costs:
+          1151134: 15
+
+      - id: 237244 # Banded Violet War Legwraps [subclass=5 feet]
+        costs:
+          1151134: 15
+
+      # Misc
+      
+      - id: 213432 # Duelist's Cedar Doublet [shirt]
+        costs:
+          1151134: 25
+
+      - id: 213435 # Duelist's Crimson Doublet [shirt]
+        costs:
+          1151134: 25
+
+      - id: 213433 # Duelist's Ivy Doublet [shirt]
+        costs:
+          1151134: 25
+
+      - id: 213437 # Duelist's Marble Doublet [shirt]
+        costs:
+          1151134: 25
+
+      - id: 213430 # Duelist's Midnight Doublet [shirt]
+        costs:
+          1151134: 25
+
+      - id: 213431 # Duelist's Navy Doublet [shirt]
+        costs:
+          1151134: 25
+
+      - id: 213434 # Duelist's Royal Doublet [shirt]
+        costs:
+          1151134: 25
+
+      - id: 151116 # Fashionable Undershirt [shirt]
+        costs:
+          1151134: 1
+
+      - id: 213518 # Classic Sepia Tabard [tabard]
+        costs:
+          1151134: 25
+
+      # Ensemble
+
+      - id: 151119 # Ensemble: Der'izu Armor [S1]
+        costs:
+          1151134: 60
+
+      - id: 151117 # Ensemble: Mana-Etched Regalia [S1]
+        costs:
+          1151134: 60
+
+      - id: 151118 # Ensemble: Obsidian Prowler's Garb [S1]
+        costs:
+          1151134: 60
+
+      - id: 151120 # Ensemble: Righteous Battleplate [S1]
+        costs:
+          1151134: 60
+
+      - id: 157576 # Ensemble: Crimson Sentinel Garb [S2]
+        costs:
+          1151134: 60
+
+      - id: 157577 # Ensemble: Goldspine Plate [S2]
+        costs:
+          1151134: 60
+
+      - id: 157573 # Ensemble: Mindwrack Raiment [S2]
+        costs:
+          1151134: 60
+
+      - id: 157574 # Ensemble: Tundraspite Armor [S2]
+        costs:
+          1151134: 60
+
+      - id: 168061 # Ensemble: Amaranthine Path Armor [S4]
+        costs:
+          1151134: 60
+
+      - id: 168060 # Ensemble: Chainmail of the Timeless Hunt [S4]
+        costs:
+          1151134: 60
+
+      - id: 168059 # Ensemble: Restless Dreambound Battlegear [S4]
+        costs:
+          1151134: 60
+
+      - id: 168058 # Ensemble: Tranquil Spiritbind Regalia [S4]
+        costs:
+          1151134: 60
+
+      - id: 230166 # Ensemble: Prowler's Sepia Headgear [??]
+        costs:
+          1151134: 60
+
+      # Weapon
+
+      - id: 190686 # Anetheron's Edge [1h ? sword]
+        costs:
+          1151134: 50
+
+      - id: 202296 # Deathmantle Ripper [? dagger]
+        costs:
+          1151134: 50
+
+      - id: 202295 # Anointed Crusader's Claymore [2h ? sword]
+        costs:
+          1151134: 50
+
+      - id: 202297 # Jade Arcus [polearm]
+        costs:
+          1151134: 50
+
+      - id: 202300 # Zealot's Prayer Staff [staff]
+        costs:
+          1151134: 50
+
+      - id: 202301 # Focalized Mana Accelerator [gun]
+        costs:
+          1151134: 50
+      
+  - id: 54442
+    type: "vendor"
+    name: "Warpweaver Hashom"
+    note: "Transmogrifier"
+
+    locations:
+      00-classic/stormwind-city:
+        - 50.8 60.8 alliance
+
+    groups: *groups
+
+    contents: *contents
