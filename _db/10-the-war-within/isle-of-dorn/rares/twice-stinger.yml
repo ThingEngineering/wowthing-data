@@ -3,6 +3,7 @@ things:
     type: "npc"
     name: "Twice-Stinger the Wretched"
     reset: "daily"
+    trackingQuestId: 81904
 
     locations:
       here: # isle_of_dorn

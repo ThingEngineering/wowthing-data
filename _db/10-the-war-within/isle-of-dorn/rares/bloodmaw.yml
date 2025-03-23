@@ -3,6 +3,7 @@ things:
     type: "npc"
     name: "Bloodmaw"
     reset: "daily"
+    trackingQuestId: 81893
 
     locations:
       here: # isle_of_dorn

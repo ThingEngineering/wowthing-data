@@ -4,6 +4,7 @@ things:
     name: "Rotfist"
     note: "Violet Hold Prisoner"
     reset: "daily"
+    trackingQuestId: 82205
     zoneMapsGroupId: 2
 
     locations:

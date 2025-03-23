@@ -3,6 +3,7 @@ things:
     type: "npc"
     name: "Kronolith, Might of the Mountain"
     reset: "daily"
+    trackingQuestId: 81902
 
     locations:
       here: # isle_of_dorn

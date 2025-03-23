@@ -3,6 +3,7 @@ things:
     type: "npc"
     name: "Escaped Cutthroat"
     reset: "daily"
+    trackingQuestId: 81907
 
     locations:
       here: # isle_of_dorn

@@ -3,6 +3,7 @@ things:
     type: "npc"
     name: "Warphorn"
     reset: "daily"
+    trackingQuestId: 81894
 
     locations:
       here: # isle_of_dorn

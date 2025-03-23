@@ -4,6 +4,7 @@ things:
     name: "Zovex"
     note: "Violet Hold Prisoner"
     reset: "daily"
+    trackingQuestId: 82203
     zoneMapsGroupId: 2
 
     locations:

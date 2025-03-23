@@ -3,6 +3,7 @@ things:
     type: "npc"
     name: "Matriarch Charfuria"
     reset: "daily"
+    trackingQuestId: 81921
 
     locations:
       here: # isle_of_dorn

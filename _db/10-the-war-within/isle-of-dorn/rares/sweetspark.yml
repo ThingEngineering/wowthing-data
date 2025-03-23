@@ -3,6 +3,7 @@ things:
     type: "npc"
     name: "Sweetspark the Oozeful"
     reset: "daily"
+    trackingQuestId: 81922
 
     locations:
       here: # isle_of_dorn

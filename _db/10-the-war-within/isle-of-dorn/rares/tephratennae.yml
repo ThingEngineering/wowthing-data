@@ -3,6 +3,7 @@ things:
     type: "npc"
     name: "Tephratennae"
     reset: "daily"
+    trackingQuestId: 81923
 
     locations:
       here: # isle_of_dorn

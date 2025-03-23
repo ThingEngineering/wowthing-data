@@ -3,6 +3,7 @@ things:
     type: "npc"
     name: "Emperor Pitfang"
     reset: "daily"
+    trackingQuestId: 81895
 
     locations:
       here: # isle_of_dorn

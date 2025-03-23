@@ -3,6 +3,7 @@ things:
     type: "npc"
     name: "Tempest Lord Incarnus"
     reset: "daily"
+    trackingQuestId: 81901
 
     locations:
       here: # isle_of_dorn

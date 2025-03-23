@@ -3,6 +3,7 @@ things:
     type: "npc"
     name: "Shallowshell the Clacker"
     reset: "daily"
+    trackingQuestId: 81903
 
     locations:
       here: # isle_of_dorn

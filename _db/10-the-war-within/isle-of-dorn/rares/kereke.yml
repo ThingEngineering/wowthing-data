@@ -4,6 +4,7 @@ things:
     name: "Kereke"
     note: "Violet Hold Prisoner"
     reset: "daily"
+    trackingQuestId: 82204
     zoneMapsGroupId: 2
 
     locations:

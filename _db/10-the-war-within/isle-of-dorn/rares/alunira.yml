@@ -4,6 +4,7 @@ things:
     name: "Alunira"
     note: "{price:10|1224025} to break her shield"
     reset: "daily"
+    trackingQuestId: 85158
 
     locations:
       here: # isle_of_dorn

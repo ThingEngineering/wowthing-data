@@ -4,6 +4,7 @@ things:
     name: "Rustul Titancap"
     note: "King Mushroom"
     reset: "daily"
+    trackingQuestId: 78619
 
     locations:
       here: # isle_of_dorn

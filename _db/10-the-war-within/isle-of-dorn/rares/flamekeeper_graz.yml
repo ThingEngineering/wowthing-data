@@ -3,6 +3,7 @@ things:
     type: "npc"
     name: "Flamekeeper Graz"
     reset: "daily"
+    trackingQuestId: 81905
 
     locations:
       here: # isle_of_dorn
