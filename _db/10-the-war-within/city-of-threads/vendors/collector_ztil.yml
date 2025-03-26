@@ -14,7 +14,7 @@ things:
 
       - id: 226520 # Queen's Pheromone
         costs:
-          3056: 8888888
+          3056: 8888
 
       # - id: 226512 # Treasure Map: Forgotten Memorial
       #   costs:
