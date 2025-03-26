@@ -1,0 +1,20 @@
+name: "11.1 Storyline"
+groups:
+
+- name: "Undermined"
+  icon: "achievement/40900" # Undermined
+  lookup: none
+  type: questline
+  data:
+    0:
+      - id: 5617 # Trust Issues
+
+      - id: 5661 # Undermine Awaits
+
+      - id: 5614 # Uncovering the Truth
+
+      - id: 5615 # Breaking the Shackles
+
+      - id: 5668 # Ignite the Fuel of Change
+
+      - id: 5694 # Homecoming

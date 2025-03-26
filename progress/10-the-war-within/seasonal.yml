@@ -1,8 +1,20 @@
 name: "Seasonal"
 groups:
 
+- name: "Season 1"
+  icon: "achievement/40723" # Web-Wrapped in the Finest Silks
+  iconText: "S1"
+  lookup: none
+  minimumLevel: 80
+  type: quest
+  data:
+    0:
+      - id: 81595 # Seasonal Start
+      - id: 81596 # Delve Hunter
+      - id: 83500 # Zekvir, Hand of the Harbinger
+
 - name: "Season 2"
-  icon: "achievement/40732"
+  icon: "achievement/41665" # Dressed to the Mines
   iconText: "S2"
   lookup: none
   minimumLevel: 80
@@ -16,7 +28,10 @@ groups:
       - name: separator
 
       - id: 86369 # A Sparkling Fortune
-        description: "{price:2|1230905}" # Fractured Spark of Fortunes
+        description: "{price:1|1230905}" # Fractured Spark of Fortunes
+
+      - id: 90660 # A Golden Circumstance
+        description: "{price:1|1230905}" # Fractured Spark of Fortunes
 
       - name: separator
 
@@ -28,15 +43,3 @@ groups:
 
       - id: 85244 # Defeating the Underpin
         name: "Defeating the Underpin"
-
-- name: "Season 1"
-  icon: "achievement/40732"
-  iconText: "S1"
-  lookup: none
-  minimumLevel: 80
-  type: quest
-  data:
-    0:
-      - id: 81595 # Seasonal Start
-      - id: 81596 # Delve Hunter
-      - id: 83500 # Zekvir, Hand of the Harbinger
