@@ -17,161 +17,161 @@ sells:
   - type: item
     id: 219127 # Cast Artisan's Talent
     costs:
-      1223951: 1
+      2815: 9750 # Resonance Crystals
 
   - type: item
     id: 219129 # Sooty Artisan's Talent
     costs:
-      1223951: 1
+      2815: 9750 # Resonance Crystals
 
   - type: item
     id: 219128 # Stained Artisan's Talent
     costs:
-      1223951: 1
+      2815: 9750 # Resonance Crystals
 
   - type: item
     id: 219126 # Woven Artisan's Talent
     costs:
-      1223951: 1
+      2815: 9750 # Resonance Crystals
 
   # Cartographer's Orientation
 
   - type: item
     id: 219133 # Deep Cartographer's Orientation
     costs:
-      1223951: 1
+      2815: 9750 # Resonance Crystals
 
   - type: item
     id: 219134 # Mossy Cartographer's Orientation
     costs:
-      1223951: 1
+      2815: 9750 # Resonance Crystals
 
   - type: item
     id: 219131 # Oceanic Cartographer's Orientation
     costs:
-      1223951: 1
+      2815: 9750 # Resonance Crystals
 
   - type: item
     id: 219130 # Saffron Cartographer's Orientation
     costs:
-      1223951: 1
+      2815: 9750 # Resonance Crystals
 
   # Educator's Knowledge
 
   - type: item
     id: 219100 # Cardinal Educator's Knowledge
     costs:
-      1223951: 1
+      2815: 9750 # Resonance Crystals
 
   - type: item
     id: 219103 # Cobalt Educator's Knowledge
     costs:
-      1223951: 1
+      2815: 9750 # Resonance Crystals
 
   - type: item
     id: 219102 # Leafy Educator's Knowledge
     costs:
-      1223951: 1
+      2815: 9750 # Resonance Crystals
 
   - type: item
     id: 219101 # Lilac Educator's Knowledge
     costs:
-      1223951: 1
+      2815: 9750 # Resonance Crystals
 
   - type: item
     id: 219104 # Midnight Educator's Knowledge
     costs:
-      1223951: 1
+      2815: 9750 # Resonance Crystals
 
   # Patron's Elegance
 
   - type: item
     id: 219113 # Celestial Patron's Elegance
     costs:
-      1223951: 1
+      2815: 9750 # Resonance Crystals
 
   - type: item
     id: 219114 # Court Patron's Elegance
     costs:
-      1223951: 1
+      2815: 9750 # Resonance Crystals
 
   - type: item
     id: 219111 # Royal Patron's Elegance
     costs:
-      1223951: 1
+      2815: 9750 # Resonance Crystals
 
   - type: item
     id: 219112 # Verdant Patron's Elegance
     costs:
-      1223951: 1
+      2815: 9750 # Resonance Crystals
 
   # Peddler's Trinkets
 
   - type: item
     id: 219116 # Arcane Peddler's Trinkets
     costs:
-      1223951: 1
+      2815: 9750 # Resonance Crystals
 
   - type: item
     id: 219117 # Curious Peddler's Trinkets
     costs:
-      1223951: 1
+      2815: 9750 # Resonance Crystals
 
   - type: item
     id: 219119 # Occult Peddler's Trinkets
     costs:
-      1223951: 1
+      2815: 9750 # Resonance Crystals
 
   - type: item
     id: 219118 # Peculiar Peddler's Trinkets
     costs:
-      1223951: 1
+      2815: 9750 # Resonance Crystals
 
   # Quotidian Wear
 
   - type: item
     id: 219107 # Earthy Quotidian Wear
     costs:
-      1223951: 1
+      2815: 9750 # Resonance Crystals
 
   - type: item
     id: 219106 # Maroon Quotidian Wear
     costs:
-      1223951: 1
+      2815: 9750 # Resonance Crystals
 
   - type: item
     id: 219109 # Taupe Quotidian Wear
     costs:
-      1223951: 1
+      2815: 9750 # Resonance Crystals
 
   - type: item
     id: 219108 # Umber Quotidian Wear
     costs:
-      1223951: 1
+      2815: 9750 # Resonance Crystals
 
   # Toiler's Uniform
 
   - type: item
     id: 219123 # Toiler's Beige Uniform
     costs:
-      1223951: 1
+      2815: 9750 # Resonance Crystals
 
   - type: item
     id: 219122 # Toiler's Burgundy Uniform
     costs:
-      1223951: 1
+      2815: 9750 # Resonance Crystals
 
   - type: item
     id: 219120 # Toiler's Khaki Uniform
     costs:
-      1223951: 1
+      2815: 9750 # Resonance Crystals
 
   - type: item
     id: 219124 # Toiler's Navy Uniform
     costs:
-      1223951: 1
+      2815: 9750 # Resonance Crystals
 
   - type: item
     id: 219121 # Toiler's Ochre Uniform
     costs:
-      1223951: 1
+      2815: 9750 # Resonance Crystals
