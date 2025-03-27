@@ -32,9 +32,9 @@ sells:
       823: 5000
 
   - type: transmog
-    id: 122308 # Ethereal Windcrystal Hood [cloth head]
+    id: 116953 # Windcrystal Hood [cloth head]
     costs:
-      0: 20000 # Gold
+      0: 1000 # Gold
 
   - type: transmog
     id: 116957 # Exceptional Windcrystal Hood [cloth head]
@@ -47,19 +47,14 @@ sells:
       0: 10000 # Gold
 
   - type: transmog
-    id: 116953 # Windcrystal Hood [cloth head]
+    id: 122308 # Ethereal Windcrystal Hood [cloth head]
     costs:
-      0: 1000 # Gold
+      0: 20000 # Gold
 
   - type: transmog
     id: 116954 # Crystalhide Cowl [leather head]
     costs:
       0: 1000 # Gold
-
-  - type: transmog
-    id: 122309 # Ethereal Crystalhide Cowl [leather head]
-    costs:
-      0: 20000 # Gold
 
   - type: transmog
     id: 116958 # Exceptional Crystalhide Cowl [leather head]
@@ -72,14 +67,14 @@ sells:
       0: 10000 # Gold
 
   - type: transmog
+    id: 122309 # Ethereal Crystalhide Cowl [leather head]
+    costs:
+      0: 20000 # Gold
+
+  - type: transmog
     id: 116955 # Crystal-Leaf Helm [mail head]
     costs:
       0: 1000 # Gold
-
-  - type: transmog
-    id: 122310 # Ethereal Crystal-Leaf Helm [mail head]
-    costs:
-      0: 20000 # Gold
 
   - type: transmog
     id: 116959 # Exceptional Crystal-Leaf Helm [mail head]
@@ -92,14 +87,14 @@ sells:
       0: 10000 # Gold
 
   - type: transmog
+    id: 122310 # Ethereal Crystal-Leaf Helm [mail head]
+    costs:
+      0: 20000 # Gold
+
+  - type: transmog
     id: 116956 # Crystal-Plated Greathelm [plate head]
     costs:
       0: 1000 # Gold
-
-  - type: transmog
-    id: 122311 # Ethereal Crystal-Plated Greathelm [plate head]
-    costs:
-      0: 20000 # Gold
 
   - type: transmog
     id: 116960 # Exceptional Crystal-Plated Greathelm [plate head]
@@ -110,3 +105,8 @@ sells:
     id: 115399 # Flawless Crystal-Plated Greathelm [plate head]
     costs:
       0: 10000 # Gold
+
+  - type: transmog
+    id: 122311 # Ethereal Crystal-Plated Greathelm [plate head]
+    costs:
+      0: 20000 # Gold

@@ -25,127 +25,7 @@ sells:
       0: 1000 # Gold
 
   - type: transmog
-    id: 116976 # Crystal Reinforced Doomcloak [cloak]
-    costs:
-      0: 1000 # Gold
-
-  - type: transmog
-    id: 116973 # Crystal-Edged Bladecloak [cloak]
-    costs:
-      0: 1000 # Gold
-
-  - type: transmog
-    id: 116973 # Crystal-Edged Bladecloak [cloak]
-    costs:
-      0: 1000 # Gold
-
-  - type: transmog
-    id: 116974 # Crystalclasp Stormcloak [cloak]
-    costs:
-      0: 1000 # Gold
-
-  - type: transmog
-    id: 116974 # Crystalclasp Stormcloak [cloak]
-    costs:
-      0: 1000 # Gold
-
-  - type: transmog
-    id: 122332 # Ethereal Crystal Reinforced Doomcloak [cloak]
-    costs:
-      0: 20000 # Gold
-
-  - type: transmog
-    id: 122332 # Ethereal Crystal Reinforced Doomcloak [cloak]
-    costs:
-      0: 20000 # Gold
-
-  - type: transmog
-    id: 122329 # Ethereal Crystal-Edged Bladecloak [cloak]
-    costs:
-      0: 20000 # Gold
-
-  - type: transmog
-    id: 122329 # Ethereal Crystal-Edged Bladecloak [cloak]
-    costs:
-      0: 20000 # Gold
-
-  - type: transmog
-    id: 122330 # Ethereal Crystalclasp Stormcloak [cloak]
-    costs:
-      0: 20000 # Gold
-
-  - type: transmog
-    id: 122330 # Ethereal Crystalclasp Stormcloak [cloak]
-    costs:
-      0: 20000 # Gold
-
-  - type: transmog
-    id: 122331 # Ethereal Refractory Heartcloak [cloak]
-    costs:
-      0: 20000 # Gold
-
-  - type: transmog
-    id: 122331 # Ethereal Refractory Heartcloak [cloak]
-    costs:
-      0: 20000 # Gold
-
-  - type: transmog
-    id: 122328 # Ethereal Shard-Covered Dreadcloak [cloak]
-    costs:
-      0: 20000 # Gold
-
-  - type: transmog
-    id: 122328 # Ethereal Shard-Covered Dreadcloak [cloak]
-    costs:
-      0: 20000 # Gold
-
-  - type: transmog
     id: 115394 # Exceptional Crystal Reinforced Doomcloak [cloak]
-    costs:
-      0: 5000 # Gold
-
-  - type: transmog
-    id: 115394 # Exceptional Crystal Reinforced Doomcloak [cloak]
-    costs:
-      0: 5000 # Gold
-
-  - type: transmog
-    id: 115391 # Exceptional Crystal-Edged Bladecloak [cloak]
-    costs:
-      0: 5000 # Gold
-
-  - type: transmog
-    id: 115391 # Exceptional Crystal-Edged Bladecloak [cloak]
-    costs:
-      0: 5000 # Gold
-
-  - type: transmog
-    id: 115392 # Exceptional Crystalclasp Stormcloak [cloak]
-    costs:
-      0: 5000 # Gold
-
-  - type: transmog
-    id: 115392 # Exceptional Crystalclasp Stormcloak [cloak]
-    costs:
-      0: 5000 # Gold
-
-  - type: transmog
-    id: 115393 # Exceptional Refractory Heartcloak [cloak]
-    costs:
-      0: 5000 # Gold
-
-  - type: transmog
-    id: 115393 # Exceptional Refractory Heartcloak [cloak]
-    costs:
-      0: 5000 # Gold
-
-  - type: transmog
-    id: 115395 # Exceptional Shard-Covered Dreadcloak [cloak]
-    costs:
-      0: 5000 # Gold
-
-  - type: transmog
-    id: 115395 # Exceptional Shard-Covered Dreadcloak [cloak]
     costs:
       0: 5000 # Gold
 
@@ -155,9 +35,19 @@ sells:
       0: 10000 # Gold
 
   - type: transmog
-    id: 116972 # Flawless Crystal Reinforced Doomcloak [cloak]
+    id: 122332 # Ethereal Crystal Reinforced Doomcloak [cloak]
     costs:
-      0: 10000 # Gold
+      0: 20000 # Gold
+
+  - type: transmog
+    id: 116973 # Crystal-Edged Bladecloak [cloak]
+    costs:
+      0: 1000 # Gold
+
+  - type: transmog
+    id: 115391 # Exceptional Crystal-Edged Bladecloak [cloak]
+    costs:
+      0: 5000 # Gold
 
   - type: transmog
     id: 116969 # Flawless Crystal-Edged Bladecloak [cloak]
@@ -165,9 +55,19 @@ sells:
       0: 10000 # Gold
 
   - type: transmog
-    id: 116969 # Flawless Crystal-Edged Bladecloak [cloak]
+    id: 122329 # Ethereal Crystal-Edged Bladecloak [cloak]
     costs:
-      0: 10000 # Gold
+      0: 20000 # Gold
+
+  - type: transmog
+    id: 116974 # Crystalclasp Stormcloak [cloak]
+    costs:
+      0: 1000 # Gold
+
+  - type: transmog
+    id: 115392 # Exceptional Crystalclasp Stormcloak [cloak]
+    costs:
+      0: 5000 # Gold
 
   - type: transmog
     id: 116970 # Flawless Crystalclasp Stormcloak [cloak]
@@ -175,29 +75,9 @@ sells:
       0: 10000 # Gold
 
   - type: transmog
-    id: 116970 # Flawless Crystalclasp Stormcloak [cloak]
+    id: 122330 # Ethereal Crystalclasp Stormcloak [cloak]
     costs:
-      0: 10000 # Gold
-
-  - type: transmog
-    id: 116971 # Flawless Refractory Heartcloak [cloak]
-    costs:
-      0: 10000 # Gold
-
-  - type: transmog
-    id: 116971 # Flawless Refractory Heartcloak [cloak]
-    costs:
-      0: 10000 # Gold
-
-  - type: transmog
-    id: 116951 # Flawless Shard-Covered Dreadcloak [cloak]
-    costs:
-      0: 10000 # Gold
-
-  - type: transmog
-    id: 116951 # Flawless Shard-Covered Dreadcloak [cloak]
-    costs:
-      0: 10000 # Gold
+      0: 20000 # Gold
 
   - type: transmog
     id: 116975 # Refractory Heartcloak [cloak]
@@ -205,9 +85,19 @@ sells:
       0: 1000 # Gold
 
   - type: transmog
-    id: 116975 # Refractory Heartcloak [cloak]
+    id: 115393 # Exceptional Refractory Heartcloak [cloak]
     costs:
-      0: 1000 # Gold
+      0: 5000 # Gold
+
+  - type: transmog
+    id: 116971 # Flawless Refractory Heartcloak [cloak]
+    costs:
+      0: 10000 # Gold
+
+  - type: transmog
+    id: 122331 # Ethereal Refractory Heartcloak [cloak]
+    costs:
+      0: 20000 # Gold
 
   - type: transmog
     id: 116952 # Shard-Covered Dreadcloak [cloak]
@@ -215,6 +105,16 @@ sells:
       0: 1000 # Gold
 
   - type: transmog
-    id: 116952 # Shard-Covered Dreadcloak [cloak]
+    id: 115395 # Exceptional Shard-Covered Dreadcloak [cloak]
     costs:
-      0: 1000 # Gold
+      0: 5000 # Gold
+
+  - type: transmog
+    id: 116951 # Flawless Shard-Covered Dreadcloak [cloak]
+    costs:
+      0: 10000 # Gold
+
+  - type: transmog
+    id: 122328 # Ethereal Shard-Covered Dreadcloak [cloak]
+    costs:
+      0: 20000 # Gold

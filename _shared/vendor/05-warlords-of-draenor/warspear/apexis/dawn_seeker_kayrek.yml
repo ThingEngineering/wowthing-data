@@ -32,9 +32,9 @@ sells:
       823: 5000
 
   - type: transmog
-    id: 122312 # Ethereal Windcrystal Bracers [cloth wrists]
+    id: 116965 # Windcrystal Bracers [cloth wrists]
     costs:
-      0: 20000 # Gold
+      0: 1000 # Gold
 
   - type: transmog
     id: 116961 # Exceptional Windcrystal Bracers [cloth wrists]
@@ -47,19 +47,14 @@ sells:
       0: 10000 # Gold
 
   - type: transmog
-    id: 116965 # Windcrystal Bracers [cloth wrists]
+    id: 122312 # Ethereal Windcrystal Bracers [cloth wrists]
     costs:
-      0: 1000 # Gold
+      0: 20000 # Gold
 
   - type: transmog
     id: 116966 # Crystalhide Bracers [leather wrists]
     costs:
       0: 1000 # Gold
-
-  - type: transmog
-    id: 122313 # Ethereal Crystalhide Bracers [leather wrists]
-    costs:
-      0: 20000 # Gold
 
   - type: transmog
     id: 116962 # Exceptional Crystalhide Bracers [leather wrists]
@@ -72,14 +67,14 @@ sells:
       0: 10000 # Gold
 
   - type: transmog
+    id: 122313 # Ethereal Crystalhide Bracers [leather wrists]
+    costs:
+      0: 20000 # Gold
+
+  - type: transmog
     id: 116967 # Crystal-Leaf Bracers [mail wrists]
     costs:
       0: 1000 # Gold
-
-  - type: transmog
-    id: 122314 # Ethereal Crystal-Leaf Bracers [mail wrists]
-    costs:
-      0: 20000 # Gold
 
   - type: transmog
     id: 116963 # Exceptional Crystal-Leaf Bracers [mail wrists]
@@ -92,14 +87,14 @@ sells:
       0: 10000 # Gold
 
   - type: transmog
+    id: 122314 # Ethereal Crystal-Leaf Bracers [mail wrists]
+    costs:
+      0: 20000 # Gold
+
+  - type: transmog
     id: 116968 # Crystal-Plated Bracers [plate wrists]
     costs:
       0: 1000 # Gold
-
-  - type: transmog
-    id: 122315 # Ethereal Crystal-Plated Bracers [plate wrists]
-    costs:
-      0: 20000 # Gold
 
   - type: transmog
     id: 116964 # Exceptional Crystal-Plated Bracers [plate wrists]
@@ -110,3 +105,8 @@ sells:
     id: 115403 # Flawless Crystal-Plated Bracers [plate wrists]
     costs:
       0: 10000 # Gold
+
+  - type: transmog
+    id: 122315 # Ethereal Crystal-Plated Bracers [plate wrists]
+    costs:
+      0: 20000 # Gold
