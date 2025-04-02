@@ -25,21 +25,6 @@ things:
   # Blacksmithing
 
   - type: "object"
-    id: 456011
-    name: "{item:226282}"
-    reset: "never"
-    trackingQuestId: 83854
-    locations:
-      here:
-        - "46.6 22.7"
-    requirements:
-      - "profession blacksmithing tww 1"
-    contents:
-      - type: "item"
-        id: 226282 # Nerubian Smith's Kit
-        note: "{price:3|2786}" # Blacksmithing Knowledge
-
-  - type: "object"
     id: 456010
     name: "{item:226283}"
     reset: "never"
@@ -152,21 +137,6 @@ things:
         id: 226323 # Nerubian Bench Blocks
         note: "{price:3|2791}" # Jewelcrafting Knowledge
 
-  - type: "object"
-    id: 455971
-    name: "{item:226322}"
-    reset: "never"
-    trackingQuestId: 83896
-    locations:
-      here:
-        - "47.7 19.4"
-    requirements:
-      - "profession jewelcrafting tww 1"
-    contents:
-      - type: "item"
-        id: 226322 # Ritual Caster's Crystal
-        note: "{price:3|2791}" # Jewelcrafting Knowledge
-
   # Leatherworking
 
   - type: "object"
@@ -217,21 +187,6 @@ things:
         note: "{price:3|2794}" # Skinning Knowledge
 
   # Tailoring
-
-  - type: "object"
-    id: 455938
-    name: "{item:226355}"
-    reset: "never"
-    trackingQuestId: 83929
-    locations:
-      here:
-        - "50.2 16.7"
-    requirements:
-      - "profession tailoring tww 1"
-    contents:
-      - type: "item"
-        id: 226355 # Nerubian's Pincushion
-        note: "{price:3|2795}" # Tailoring Knowledge
 
   - type: "object"
     id: 455939

@@ -225,6 +225,22 @@ things:
         id: 226320 # Arathi Sizing Gauges
         note: "{price:3|2791}" # Jewelcrafting Knowledge
 
+  - type: "object"
+    id: 455972
+    name: "{item:226321}"
+    reset: "never"
+    trackingQuestId: 83895
+    zoneMapsGroupId: 1
+    locations:
+      here:
+        - "44.7 50.9"
+    requirements:
+      - "profession jewelcrafting tww 1"
+    contents:
+      - type: "item"
+        id: 226321 # Librarian's Magnifiers
+        note: "{price:3|2791}" # Jewelcrafting Knowledge
+
   # Leatherworking
 
   - type: "object"

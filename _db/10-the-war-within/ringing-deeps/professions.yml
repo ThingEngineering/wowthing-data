@@ -229,21 +229,6 @@ things:
         id: 226319 # Jeweler's Delicate Drill
         note: "{price:3|2791}" # Jewelcrafting Knowledge
 
-  - type: "object"
-    id: 455972
-    name: "{item:226321}"
-    reset: "never"
-    trackingQuestId: 83895
-    locations:
-      here:
-        - "40.7 50.9"
-    requirements:
-      - "profession jewelcrafting tww 1"
-    contents:
-      - type: "item"
-        id: 226321 # Librarian's Magnifiers
-        note: "{price:3|2791}" # Jewelcrafting Knowledge
-
   # Leatherworking
 
   - type: "object"
