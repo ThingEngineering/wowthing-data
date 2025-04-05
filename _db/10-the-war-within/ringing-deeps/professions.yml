@@ -59,6 +59,7 @@ things:
     name: "{item:226278}"
     reset: "never"
     trackingQuestId: 83850
+    zoneMapsGroupId: 1
     locations:
       here:
         - "43.7 33.2"
@@ -140,6 +141,7 @@ things:
     name: "{item:226302}"
     reset: "never"
     trackingQuestId: 83876
+    zoneMapsGroupId: 1
     locations:
       here:
         - "44.2 35.0"
@@ -187,6 +189,7 @@ things:
     name: "{item:226310}"
     reset: "never"
     trackingQuestId: 83884
+    zoneMapsGroupId: 1
     locations:
       here:
         - "44.5 34.3"
@@ -204,6 +207,7 @@ things:
     name: "{item:226318}"
     reset: "never"
     trackingQuestId: 83892
+    zoneMapsGroupId: 1
     locations:
       here:
         - "44.5 35.2"
@@ -266,6 +270,7 @@ things:
     name: "{item:226326}"
     reset: "never"
     trackingQuestId: 83900
+    zoneMapsGroupId: 1
     locations:
       here:
         - "43.1 34.9"
@@ -362,6 +367,7 @@ things:
     name: "{item:226350}"
     reset: "never"
     trackingQuestId: 83924
+    zoneMapsGroupId: 1
     locations:
       here:
         - "44.8 32.8"

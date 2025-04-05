@@ -2,3 +2,8 @@ name: "Ringing Deeps"
 mapName: "10-the-war-within/ringing_deeps"
 minimumLevel: 70
 farms:
+
+- name: "Gundargaz"
+  groupId: 1
+  location: 44 35
+  type: group

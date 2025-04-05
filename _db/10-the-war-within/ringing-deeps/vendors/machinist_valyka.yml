@@ -1,0 +1,22 @@
+things:
+  - id: 217730
+    type: "vendor"
+    name: "Machinist Valyka"
+    note: "Blacksmith"
+    zoneMapsGroupId: 1
+
+    locations:
+      here: # the_ringing_deeps
+        - 47.6 32.8
+
+    contents:
+
+      # 0
+
+      - id: 235037 # Crumpled Schematic: Wormhole Generator: Undermine [engineering]
+        costs:
+          0: 1 # Gold
+
+      - id: 219413 # Schematic: Stonebound Lantern [engineering]
+        costs:
+          0: 1 # Gold

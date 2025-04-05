@@ -1,0 +1,109 @@
+things:
+  - id: 221390
+    type: "vendor"
+    name: "Waxmonger Squick"
+    note: "Renown Quartermaster"
+    zoneMapsGroupId: 1
+
+    locations:
+      here: # the_ringing_deeps
+        - 47.2 32.8
+
+    groups:
+      - name: "Assembly - Misc"
+        range: 4
+        sortKey: "rep-1-1"
+
+      - name: "Assembly - Profession"
+        range: 6
+        sortKey: "rep-1-2"
+
+      - name: "Assembly - Transmog"
+        range: 10
+        sortKey: "rep-1-3"
+
+    contents:
+
+      - id: 223505 # Crimson Mudnose [mount]
+        costs:
+          2815: 8125
+
+      - id: 222989 # Cyan Glowmite [mount]
+        costs:
+          2815: 11375
+
+      - id: 223623 # Guacamole [pet]
+        costs:
+          2815: 6500
+
+      - id: 228698 # Candleflexer's Dumbbell [toy]
+        costs:
+          2815: 5000
+
+      # Profession
+
+      - id: 225995 # Pattern: Hideseeker's Tote [tailoring
+        costs:
+          1210814: 150
+
+      - id: 224418 # Recipe: Everything Stew [cooking]
+        costs:
+          2815: 1000
+
+      - id: 223063 # Technique: Contract: Assembly of the Deeps [inscription]
+        costs:
+          1210814: 150
+
+      - id: 224653 # Machine-Learned Engineering Notes
+        costs:
+          1210814: 50
+
+      - id: 224654 # Machine-Learned Inscription Notes
+        costs:
+          1210814: 50
+
+      - id: 224651 # Machine-Learned Mining Notes
+        costs:
+          1210814: 50
+
+      # Transmog
+
+      - id: 223294 # Noncandescent Smithing Hood [cloth head]
+        costs:
+          2815: 2600
+
+      - id: 223305 # Noncandescent Smithing Cord [cloth waist]
+        costs:
+          2815: 3900
+
+      - id: 212107 # Inflammable Forging Goggles [leather head]
+        costs:
+          2815: 2600
+
+      - id: 223306 # Inflammable Forging Cinch [leather waist]
+        costs:
+          2815: 3900
+
+      - id: 223293 # Unmelting Ironworker Helmet [mail head]
+        costs:
+          2815: 2600
+
+      - id: 223307 # Unmelting Ironworker Clasp [mail waist]
+        costs:
+          2815: 3900
+
+      - id: 223295 # Slag-Accruing Mask [plate head]
+        costs:
+          2815: 2600
+
+      - id: 223304 # Slag-Accruing Waistguard [plate waist]
+        costs:
+          2815: 3900
+
+      - id: 218341 # Shoulderguards of the Assembly [subclass=5 shoulders]
+        costs:
+          2815: 3250
+
+      - id: 218342 # Shawl of the Assembly [subclass=5 back]
+        costs:
+          2815: 1625

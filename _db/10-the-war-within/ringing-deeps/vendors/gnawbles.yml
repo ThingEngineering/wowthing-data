@@ -1,0 +1,26 @@
+things:
+  - id: 216164
+    type: "vendor"
+    name: "Gnawbles"
+    note: "Snuffling and Ruby Vendor"
+    zoneMapsGroupId: 1
+
+    locations:
+      here: # the_ringing_deeps
+        - 47.6 35.2
+
+    contents:
+
+      # 0
+
+      - id: 224646 # Coppers the Kobold [pet]
+        costs:
+          1224642: 1
+
+      - id: 224760 # Wobbles [pot]
+        costs:
+          1224642: 1
+
+      - id: 224643 # Pet-Sized Candle [toy]
+        costs:
+          1224642: 1

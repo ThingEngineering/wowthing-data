@@ -1,0 +1,23 @@
+things:
+  - id: 83333
+    type: "event"
+    name: "Awakening the Machine"
+    minimumLevel: 80
+    reset: "weekly"
+    trackingQuestId: 83333
+    zoneMapsGroupId: 1
+
+    locations:
+      here: # ringing_deeps
+        - 43.3 32.0
+
+    contents:
+      - id: 223040 # Plans: Charged Crusher [blacksmithing]
+      - id: 223128 # Formula: Enchant Chest - Oathsworn's Strength [enchanting]
+      - id: 224426 # Pattern: Ignition Satchel [tailoring]
+
+      - id: 223269 # Machine Defense Unit 1-11 [mount]
+      - id: 226221 # Machine-Warden's Pauldrons [cosmetic shoulders]
+      - id: 226218 # Machine-Warden's Cloak [cosmetic back]
+      - id: 229000 # Machine-Warden's Cog [cosmetic back]
+      - id: 226220 # Machine-Warden's Tabard [cosmetic tabard]
