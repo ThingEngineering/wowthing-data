@@ -213,11 +213,11 @@ groups:
       - name: "Base Weapons"
         wowheadSetId:
         itemsV2:
-          - 109168_6 # Shrediron's Shredder [gun]
-          - 111526_6 # Etched-Blade Warstaff [stave]
-          - 113131_6 # Warmaster's Firestick [wand]
-          - 113134_6 # Crystalfire Spellstaff [stave]
-          - 113270_6 # Shadowtome [off-hand]
+          - 109168_0 # Shrediron's Shredder [gun]
+          - 111526_0 # Etched-Blade Warstaff [stave]
+          - 113131_0 # Warmaster's Firestick [wand]
+          - 113134_0 # Crystalfire Spellstaff [stave]
+          - 113270_0 # Shadowtome [off-hand]
           - 116453_6 # Steelforged Greataxe
           - 116454_6 # Steelforged Saber
           - 116644_6 # Steelforged Dagger
