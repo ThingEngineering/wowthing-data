@@ -130,26 +130,75 @@ groups:
   type: armor
   sets:
     - "Aspirant Armor"
+    - "Warmonger Armor"
   data:
     cloth:
       # Prized Aspirant's Silk Armor [Aspirant]
       - transmogSetId: 4337
         wowheadSetId:
 
+      - name: "Prized Warmonger's Cloth"
+        itemsV2:
+          - 230106_0 # Prized Warmonger's Garb
+          - 230107_0 # Prized Warmonger's Slippers
+          - 230108_0 # Prized Warmonger's Gloves
+          - 230109_0 # Prized Warmonger's Crown
+          - 230110_0 # Prized Warmonger's Pants
+          - 230111_0 # Prized Warmonger's Cord
+          - 230112_0 # Prized Warmonger's Bindings
+          - 230113_0 # Prized Warmonger's Mantle
+          - 230140_0 # Prized Warmonger's Cloak
+
     leather:
       # Prized Aspirant's Leather Armor [Aspirant]
       - transmogSetId: 4338
         wowheadSetId:
+
+      - name: "Prized Warmonger's Leather"
+        itemsV2:
+          - 230114_0 # Prized Warmonger's Boots
+          - 230115_0 # Prized Warmonger's Handwraps
+          - 230116_0 # Prized Warmonger's Hood
+          - 230117_0 # Prized Warmonger's Breeches
+          - 230118_0 # Prized Warmonger's Belt
+          - 230119_0 # Prized Warmonger's Wraps
+          - 230120_0 # Prized Warmonger's Jerkin
+          - 230121_0 # Prized Warmonger's Shoulderguard
+          - 230141_0 # Prized Warmonger's Drape
 
     mail:
       # Prized Aspirant's Chain Armor [Aspirant]
       - transmogSetId: 4339
         wowheadSetId:
 
+      - name: "Prized Warmonger's Mail"
+        itemsV2:
+          - 230130_0 # Prized Warmonger's Chestguard
+          - 230131_0 # Prized Warmonger's Greaves
+          - 230132_0 # Prized Warmonger's Grips
+          - 230133_0 # Prized Warmonger's Helm
+          - 230134_0 # Prized Warmonger's Leggings
+          - 230135_0 # Prized Warmonger's Epaulets
+          - 230136_0 # Prized Warmonger's Cinch
+          - 230137_0 # Prized Warmonger's Armguards
+          - 230138_0 # Prized Warmonger's Cape
+
     plate:
       # Prized Aspirant's Plate Armor [Aspirant]
       - transmogSetId: 4340
         wowheadSetId:
+
+      - name: "Prized Warmonger's Plate"
+        itemsV2:
+          - 230122_0 # Prized Warmonger's Faceplate
+          - 230123_0 # Prized Warmonger's Cuirass
+          - 230124_0 # Prized Warmonger's Sabatons
+          - 230125_0 # Prized Warmonger's Gauntlets
+          - 230126_0 # Prized Warmonger's Legguards
+          - 230127_0 # Prized Warmonger's Spaulders
+          - 230128_0 # Prized Warmonger's Clasp
+          - 230129_0 # Prized Warmonger's Bracers
+          - 230139_0 # Prized Warmonger's Shawl
 
 - name: "The War Within Season 2"
   tag: "S39"
@@ -158,20 +207,46 @@ groups:
     - "Elite Weapons*"
     - "Gladiator Weapons"
     - "Aspirant Weapons"
+    - "Warmonger Weapons"
   data:
     all:
-      # Prized Elite's Arsenal [Gladiator]
+      # Prized Elite's Arsenal
       - transmogSetId: 4194
         wowheadSetId:
 
-      # Prized Gladiator's Arsenal [Gladiator]
+      # Prized Gladiator's Arsenal
       - transmogSetId: 4193
         wowheadSetId:
 
-      # Prized Aspirant's Arsenal [Gladiator]
+      # Prized Aspirant's Arsenal
       - transmogSetId: 4192
         wowheadSetId:
-
+      
+      - name: "Prized Warmonger's Weapons"
+        itemsV2:
+          - 230142_0 # Prized Warmonger's Battleaxe
+          - 230143_0 # Prized Warmonger's Hatchet
+          - 230144_0 # Prized Warmonger's Carver
+          - 230145_0 # Prized Warmonger's Flameshot
+          - 230146_0 # Prized Warmonger's Twinblade
+          - 230147_0 # Prized Warmonger's Firebomb
+          - 230148_0 # Prized Warmonger's Spire
+          - 230149_0 # Prized Warmonger's Battlestaff
+          - 230150_0 # Prized Warmonger's Greatsword
+          - 230151_0 # Prized Warmonger's Broadsword
+          - 230153_0 # Prized Warmonger's Club
+          - 230154_0 # Prized Warmonger's Hammer
+          - 230155_0 # Prized Warmonger's Gavel
+          - 230156_0 # Prized Warmonger's Aegis
+          - 230157_0 # Prized Warmonger's Impaler
+          - 230158_0 # Prized Warmonger's Spear
+          - 230159_0 # Prized Warmonger's Wand
+          - 230160_0 # Prized Warmonger's Mace
+          - 230161_0 # Prized Warmonger's Crusher
+          - 230162_0 # Prized Warmonger's Scepter
+          - 230163_0 # Prized Warmonger's Dagger
+          - 230164_0 # Prized Warmonger's Dirk
+            
 - name: "The War Within Season 1"
   tag: "S38"
   type: class
