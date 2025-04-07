@@ -4,6 +4,260 @@ skipClasses:
 - evoker
 groups:
 
+- name: "Crafted"
+  type: armor
+  sets:
+    - "Base Armor"
+    - "Impressive Armor"
+    - "Remarkable Armor"
+    - "Engineering Helms"
+  data:
+    cloth:
+      - name: "Hexweave Cloth"
+        wowheadSetId:
+        itemsV2:
+          - 114809_6 # Hexweave Mantle
+          - 114810_6 # Hexweave Cowl
+          - 114811_6 # Hexweave Leggings
+          - 114812_6 # Hexweave Gloves
+          - 114813_6 # Hexweave Robe
+          - 114814_6 # Hexweave Bracers
+          - 114815_6 # Hexweave Slippers
+          - 114816_6 # Hexweave Belt
+
+      - name: "Impressive Hexweave Cloth"
+        wowheadSetId: 
+        itemsV2:
+          - 114809_7 # Hexweave Mantle + Impressive Hexweave Essence
+          - 114810_7 # Hexweave Cowl + Impressive Hexweave Essence
+          - 114811_7 # Hexweave Leggings + Impressive Hexweave Essence
+          - 114812_7 # Hexweave Gloves + Impressive Hexweave Essence
+          - 114813_7 # Hexweave Robe + Impressive Hexweave Essence
+          - 114814_7 # Hexweave Bracers + Impressive Hexweave Essence
+          - 114815_7 # Hexweave Slippers + Impressive Hexweave Essence
+          - 114816_7 # Hexweave Belt + Impressive Hexweave Essence
+
+      - name: "Remarkable Hexweave Cloth"
+        wowheadSetId:
+        itemsV2:
+          - 114809_8 # Hexweave Mantle + Remarkable Hexweave Essence
+          - 114810_8 # Hexweave Cowl + Remarkable Hexweave Essence
+          - 114811_8 # Hexweave Leggings + Remarkable Hexweave Essence
+          - 114812_8 # Hexweave Gloves + Remarkable Hexweave Essence
+          - 114813_8 # Hexweave Robe + Remarkable Hexweave Essence
+          - 114814_8 # Hexweave Bracers + Remarkable Hexweave Essence
+          - 114815_8 # Hexweave Slippers + Remarkable Hexweave Essence
+          - 114816_8 # Hexweave Belt + Remarkable Hexweave Essence
+
+      - name: "Engineering Helm"
+        itemsV2:
+          - 109172_0 # Plasma Mechshades
+
+    leather:
+      - name: "Supple Leather"
+        wowheadSetId:
+        itemsV2:
+          - 116176_6 # Supple Shoulderguards
+          - 116177_6 # Supple Helm
+          - 116178_6 # Supple Leggings
+          - 116179_6 # Supple Gloves
+          - 116180_6 # Supple Vest
+          - 116181_6 # Supple Bracers
+          - 116182_6 # Supple Boots
+          - 116183_6 # Supple Waistguard
+
+      - name: "Impressive Supple Leather"
+        wowheadSetId:
+        itemsV2:
+          - 116176_7 # Supple Shoulderguards + Impressive Burnished Essence
+          - 116177_7 # Supple Helm + Impressive Burnished Essence
+          - 116178_7 # Supple Leggings + Impressive Burnished Essence
+          - 116179_7 # Supple Gloves + Impressive Burnished Essence
+          - 116180_7 # Supple Vest + Impressive Burnished Essence
+          - 116181_7 # Supple Bracers + Impressive Burnished Essence
+          - 116182_7 # Supple Boots + Impressive Burnished Essence
+          - 116183_7 # Supple Waistguard + Impressive Burnished Essence
+
+      - name: "Remarkable Supple Leather"
+        wowheadSetId:
+        itemsV2:
+          - 116176_8 # Supple Shoulderguards + Remarkable Burnished Essence
+          - 116177_8 # Supple Helm + Remarkable Burnished Essence
+          - 116178_8 # Supple Leggings + Remarkable Burnished Essence
+          - 116179_8 # Supple Gloves + Remarkable Burnished Essence
+          - 116180_8 # Supple Vest + Remarkable Burnished Essence
+          - 116181_8 # Supple Bracers + Remarkable Burnished Essence
+          - 116182_8 # Supple Boots + Remarkable Burnished Essence
+          - 116183_8 # Supple Waistguard + Remarkable Burnished Essence
+
+      - name: "Engineering Helm"
+        itemsV2:
+          - 109171_0 # Night-Vision Mechshades
+
+    mail:
+      - name: "Wayfaring Mail"
+        wowheadSetId:
+        itemsV2:
+          - 116187_6 # Wayfaring Shoulderguards
+          - 116188_6 # Wayfaring Helm
+          - 116189_6 # Wayfaring Leggings
+          - 116190_6 # Wayfaring Gloves
+          - 116191_6 # Wayfaring Tunic
+          - 116192_6 # Wayfaring Bracers
+          - 116193_6 # Wayfaring Boots
+          - 116194_6 # Wayfaring Belt
+
+      - name: "Impressive Wayfaring Mail"
+        wowheadSetId:
+        itemsV2:
+          - 116187_7 # Wayfaring Shoulderguards + Impressive Burnished Essence
+          - 116188_7 # Wayfaring Helm + Impressive Burnished Essence
+          - 116189_7 # Wayfaring Leggings + Impressive Burnished Essence
+          - 116190_7 # Wayfaring Gloves + Impressive Burnished Essence
+          - 116191_7 # Wayfaring Tunic + Impressive Burnished Essence
+          - 116192_7 # Wayfaring Bracers + Impressive Burnished Essence
+          - 116193_7 # Wayfaring Boots + Impressive Burnished Essence
+          - 116194_7 # Wayfaring Belt + Impressive Burnished Essence
+
+      - name: "Remarkable Wayfaring Mail"
+        wowheadSetId:
+        itemsV2:
+          - 116187_8 # Wayfaring Shoulderguards + Remarkable Burnished Essence
+          - 116188_8 # Wayfaring Helm + Remarkable Burnished Essence
+          - 116189_8 # Wayfaring Leggings + Remarkable Burnished Essence
+          - 116190_8 # Wayfaring Gloves + Remarkable Burnished Essence
+          - 116191_8 # Wayfaring Tunic + Remarkable Burnished Essence
+          - 116192_8 # Wayfaring Bracers + Remarkable Burnished Essence
+          - 116193_8 # Wayfaring Boots + Remarkable Burnished Essence
+          - 116194_8 # Wayfaring Belt + Remarkable Burnished Essence
+
+      - name: "Engineering Helm"
+        itemsV2:
+          - 109173_0 # Cybergenetic Mechshades
+
+    plate:
+      - name: "Truesteel Plate"
+        wowheadSetId:
+        itemsV2:
+          - 114230_6 # Truesteel Helm
+          - 114231_6 # Truesteel Pauldrons
+          - 114232_6 # Truesteel Breastplate
+          - 114233_6 # Truesteel Waistguard
+          - 114234_6 # Truesteel Greaves
+          - 114235_6 # Truesteel Boots
+          - 114236_6 # Truesteel Armguards
+          - 114237_6 # Truesteel Gauntlets
+
+      - name: "Impressive Truesteel Plate"
+        wowheadSetId:
+        itemsV2:
+          - 114230_7 # Truesteel Helm + Impressive Burnished Essence
+          - 114231_7 # Truesteel Pauldrons + Impressive Burnished Essence
+          - 114232_7 # Truesteel Breastplate + Impressive Burnished Essence
+          - 114233_7 # Truesteel Waistguard + Impressive Burnished Essence
+          - 114234_7 # Truesteel Greaves + Impressive Burnished Essence
+          - 114235_7 # Truesteel Boots + Impressive Burnished Essence
+          - 114236_7 # Truesteel Armguards + Impressive Burnished Essence
+          - 114237_7 # Truesteel Gauntlets + Impressive Burnished Essence
+
+      - name: "Remarkable Truesteel Plate"
+        wowheadSetId:
+        itemsV2:
+          - 114230_8 # Truesteel Helm + Remarkable Burnished Essence
+          - 114231_8 # Truesteel Pauldrons + Remarkable Burnished Essence
+          - 114232_8 # Truesteel Breastplate + Remarkable Burnished Essence
+          - 114233_8 # Truesteel Waistguard + Remarkable Burnished Essence
+          - 114234_8 # Truesteel Greaves + Remarkable Burnished Essence
+          - 114235_8 # Truesteel Boots + Remarkable Burnished Essence
+          - 114236_8 # Truesteel Armguards + Remarkable Burnished Essence
+          - 114237_8 # Truesteel Gauntlets + Remarkable Burnished Essence
+
+      - name: "Engineering Helm"
+        itemsV2:
+          - 109174_0 # Razorguard Mechshades
+
+- name: "Crafted"
+  type: all
+  sets:
+    - "Leatherworking Cloaks"
+    - "Tailoring Cloaks"
+    - "Base Weapons"
+    - "Impressive Weapons"
+    - "Remarkable Weapons"
+  data:
+    all:
+      - name: "Leatherworking Cloaks"
+        itemsV2:
+        - 116171_6 # Powerful Burnished Cloak
+        - 116171_7 # Powerful Burnished Cloak + Impressive Burnished Essence
+        - 116171_8 # Powerful Burnished Cloak + Remarkable Burnished Essence
+        - 116174_6 # Nimble Burnished Cloak
+        - 116174_7 # Nimble Burnished Cloak + Impressive Burnished Essence
+        - 116174_8 # Nimble Burnished Cloak + Remarkable Burnished Essence
+        - 116175_6 # Brilliant Burnished Cloak
+        - 116175_7 # Brilliant Burnished Cloak + Impressive Burnished Essence
+        - 116175_8 # Brilliant Burnished Cloak + Remarkable Burnished Essence
+
+      - name: "Tailoring Cloaks"
+        itemsV2:
+        - 114817_6 # Powerful Hexweave Cloak
+        - 114817_7 # Powerful Hexweave Cloak + Impressive Hexweave Essence
+        - 114817_8 # Powerful Hexweave Cloak + Remarkable Hexweave Essence
+        - 114818_6 # Nimble Hexweave Cloak
+        - 114818_7 # Nimble Hexweave Cloak + Impressive Hexweave Essence
+        - 114818_8 # Nimble Hexweave Cloak + Remarkable Hexweave Essence
+        - 114819_6 # Brilliant Hexweave Cloak
+        - 114819_7 # Brilliant Hexweave Cloak + Impressive Hexweave Essence
+        - 114819_8 # Brilliant Hexweave Cloak + Remarkable Hexweave Essence
+
+      - name: "Base Weapons"
+        wowheadSetId:
+        itemsV2:
+          - 109168_6 # Shrediron's Shredder [gun]
+          - 111526_6 # Etched-Blade Warstaff [stave]
+          - 113131_6 # Warmaster's Firestick [wand]
+          - 113134_6 # Crystalfire Spellstaff [stave]
+          - 113270_6 # Shadowtome [off-hand]
+          - 116453_6 # Steelforged Greataxe
+          - 116454_6 # Steelforged Saber
+          - 116644_6 # Steelforged Dagger
+          - 116646_6 # Steelforged Hammer
+          - 116647_6 # Steelforged Shield
+          - 120259_6 # Steelforged Axe
+          - 120261_6 # Steelforged Aegis
+
+      - name: "Impressive Weapons"
+        wowheadSetId:
+        itemsV2:
+          - 109168_7 # Shrediron's Shredder + Impressive True Iron Trigger
+          - 111526_7 # Etched-Blade Warstaff + Impressive Weapon Crystal
+          - 113131_7 # Warmaster's Firestick + Impressive Weapon Crystal
+          - 113134_7 # Crystalfire Spellstaff+ Impressive Weapon Crystal
+          - 113270_7 # Shadowtome + Impressive Weapon Crystal
+          - 116453_7 # Steelforged Greataxe + Impressive Steelforged Essence
+          - 116454_7 # Steelforged Saber + Impressive Steelforged Essence
+          - 116644_7 # Steelforged Dagger + Impressive Steelforged Essence
+          - 116646_7 # Steelforged Hammer + Impressive Steelforged Essence
+          - 116647_7 # Steelforged Shield + Impressive Steelforged Essence
+          - 120259_7 # Steelforged Axe + Impressive Steelforged Essence
+          - 120261_7 # Steelforged Aegis + Impressive Steelforged Essence
+
+      - name: "Remarkable Weapons"
+        wowheadSetId:
+        itemsV2:
+          - 109168_8 # Shrediron's Shredder + Remarkable True Iron Trigger
+          - 111526_8 # Etched-Blade Warstaff + Remarkable Weapon Crystal
+          - 113131_8 # Warmaster's Firestick + Remarkable Weapon Crystal
+          - 113134_8 # Crystalfire Spellstaff + Remarkable Weapon Crystal
+          - 113270_8 # Shadowtome + Remarkable Weapon Crystal
+          - 116453_8 # Steelforged Greataxe + Remarkable Steelforged Essence
+          - 116454_8 # Steelforged Saber + Remarkable Steelforged Essence
+          - 116644_8 # Steelforged Dagger + Remarkable Steelforged Essence
+          - 116646_8 # Steelforged Hammer + Remarkable Steelforged Essence
+          - 116647_8 # Steelforged Shield + Remarkable Steelforged Essence
+          - 120259_8 # Steelforged Axe + Remarkable Steelforged Essence
+          - 120261_8 # Steelforged Aegis + Remarkable Steelforged Essence
+
 - name: "Reputations"
   type: armor
   sets:
