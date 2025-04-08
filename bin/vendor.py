@@ -213,14 +213,20 @@ def main():
 
     npc = json.loads(m.group(1))
 
-    m = SELLS_RE.search(r.text)
+    m = SELLS_RE.findall(r.text)
     if not m:
         print('sells_re fail')
         sys.exit(1)
+    
+    sells_data = m[0]
+    if sells_data[0] != 'sells':
+        for match in m:
+            if match[0] == 'sells':
+                sells_data = match
 
-    contents_type = m.group(1)
+    contents_type = sells_data[0]
 
-    item_json = re.sub(r'(standing|react|stack|avail|cost):', r'"\1":', m.group(2))
+    item_json = re.sub(r'(standing|react|stack|avail|cost):', r'"\1":', sells_data[1])
     item_json = re.sub(r',\]', ',0]', item_json)
     item_json = re.sub(r'\[,', '[0,', item_json)
     items = json.loads(item_json)
