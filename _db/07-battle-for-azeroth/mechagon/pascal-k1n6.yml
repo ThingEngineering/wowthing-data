@@ -1,0 +1,40 @@
+things:
+  - id: 150359
+    type: "vendor"
+    name: "Pascal-K1N6"
+    note: "Junkyard Tinkering"
+
+    locations:
+      here: # mechagon_island
+        - 71.4 32.6
+
+    contents:
+      - id: 167751 # Mechanocat Laser Pointer [mount]
+        costs:
+          1169610: 8 # S.P.A.R.E. Crate
+          1166970: 5 # Energy Cell
+          1168327: 4 # Chain Ignitercoil
+
+      - id: 169384 # Microbot XD [pet]
+        costs:
+          1169610: 5 # S.P.A.R.E. Crate
+          1166970: 4 # Energy Cell
+          1168327: 2 # Chain Ignitercoil
+
+      - id: 169383 # Utility Mechanoclaw [pet]
+        costs:
+          1169610: 3 # S.P.A.R.E. Crate
+          1166970: 3 # Energy Cell
+          1168327: 5 # Chain Ignitercoil
+
+      - id: 168907 # Holographic Digitalization Hearthstone [toy]
+        costs:
+          1169610: 4 # S.P.A.R.E. Crate
+          1166970: 5 # Energy Cell
+          1168327: 3 # Chain Ignitercoil
+
+      - id: 169155 # Scrapmaster's Blowtorch [1h axe]
+        costs:
+          1169610: 2 # S.P.A.R.E. Crate
+          1166970: 3 # Energy Cell
+          1168327: 2 # Chain Ignitercoil

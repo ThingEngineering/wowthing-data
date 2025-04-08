@@ -1,0 +1,91 @@
+things:
+  - id: 150716
+    type: "vendor"
+    name: "Stolen Royal Vendorbot"
+    note: "Rustbolt Quartermaster"
+
+    locations:
+      here: # mechagon_island
+        - 73.6 36.6
+
+    contents:
+
+      # 0
+
+      - id: 168829 # Rustbolt Resistor [mount]
+        costs:
+          0: 419430 # Gold
+        requirements:
+          - "reputation: 0 exalted"
+
+      - id: 169380 # Mustyfur Snooter [pet]
+        costs:
+          0: 400 # Gold
+        requirements:
+          - "reputation: 0 honored"
+
+      - id: 169108 # Rustbolt Banner [toy]
+        costs:
+          0: 409 # Gold
+        requirements:
+          - "reputation: 0 revered"
+
+      - id: 169112 # Blueprint: Advanced Adventurer Augment
+        costs:
+          0: 2048 # Gold
+        requirements:
+          - "reputation: 0 honored"
+
+      - id: 168493 # Blueprint: Battle Box
+        costs:
+          0: 1024 # Gold
+        requirements:
+          - "reputation: 0 exalted"
+
+      - id: 169134 # Blueprint: Extraordinary Adventurer Augment
+        costs:
+          0: 2048 # Gold
+        requirements:
+          - "reputation: 0 revered"
+
+      - id: 168369 # Recipe: Famine Evaluator And Snack Table [cooking]
+        costs:
+          0: 1520 # Gold
+        requirements:
+          - "reputation: 0 exalted"
+
+      - id: 168660 # Schematic: Blingtron 7000 [engineering]
+        costs:
+          0: 1520 # Gold
+        requirements:
+          - "reputation: 0 exalted"
+
+      - id: 168533 # Schematic: Ub3r-Module: P.O.G.O. [engineering]
+        costs:
+          0: 1120 # Gold
+        requirements:
+          - "reputation: 0 revered"
+
+      - id: 168535 # Schematic: Ub3r-Module: Scrap Cannon [engineering]
+        costs:
+          0: 1120 # Gold
+        requirements:
+          - "reputation: 0 revered"
+
+      - id: 168534 # Schematic: Ub3r-Module: Ub3r-Coil [engineering]
+        costs:
+          0: 1120 # Gold
+        requirements:
+          - "reputation: 0 revered"
+
+      - id: 169547 # Technique: Contract: Rustbolt Resistance [inscription]
+        costs:
+          0: 1120 # Gold
+        requirements:
+          - "reputation: 0 revered"
+
+      - id: 168619 # Rustbolt Resistance Tabard [tabard]
+        costs:
+          0: 128 # Gold
+        requirements:
+          - "reputation: 0 exalted"
