@@ -1,0 +1,18 @@
+things:
+  - id: 152084
+    type: "vendor"
+    name: "Mrrl"
+
+    locations:
+      here: # nazjatar
+        - 39.2 54.2 alliance
+        - 47 61.4 horde
+        - 48.2 45.2
+
+    contents:
+
+      - id: 169202 # Crimson Tidestallion [mount]
+        costs:
+          1169783: 4
+          1169780: 2
+          1170100: 1

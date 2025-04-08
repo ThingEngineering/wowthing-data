@@ -1,0 +1,77 @@
+things:
+  - id: 154002
+    type: "vendor"
+    name: "Atolia Seapearl"
+    note: "Quartermaster"
+
+    locations:
+      here: # nazjatar
+        - 50.8 65.2 horde
+
+    contents:
+
+      # 0
+
+      - id: 169274 # Tabard of the Unshackled [tabard]
+        costs:
+          0: 625 # Gold
+        requirements:
+          - "reputation 2373 exalted"
+
+      - id: 169603 # Recipe: Greater Mystical Cauldron
+        costs:
+          0: 1900 # Gold
+        requirements:
+          - "reputation 2373 exalted"
+
+      - id: 169600 # Recipe: Potion of Empowered Proximity
+        costs:
+          0: 1400 # Gold
+        requirements:
+          - "reputation 2373 revered"
+
+      - id: 169602 # Recipe: Potion of Focused Resolve
+        costs:
+          0: 1400 # Gold
+        requirements:
+          - "reputation 2373 revered"
+
+      - id: 169604 # Formula: Accord of Critical Strike
+        costs:
+          0: 1400 # Gold
+        requirements:
+          - "reputation 2373 revered"
+
+      - id: 169605 # Formula: Accord of Haste
+        costs:
+          0: 1400 # Gold
+        requirements:
+          - "reputation 2373 revered"
+
+      - id: 169606 # Formula: Accord of Mastery
+        costs:
+          0: 1400 # Gold
+        requirements:
+          - "reputation 2373 revered"
+
+      - id: 169607 # Formula: Accord of Versatility
+        costs:
+          0: 1400 # Gold
+        requirements:
+          - "reputation 2373 revered"
+
+      - id: 169549 # Technique: Contract: Unshackled
+        costs:
+          0: 1400 # Gold
+        requirements:
+          - "reputation 2373 revered"
+
+      - id: 169365 # Damplight Slug [pet]
+        costs:
+          0: 500 # Gold
+        requirements:
+          - "reputation 2373 friendly"
+
+      - id: 169353 # Lustrous Glimmershell [pet]
+        costs:
+          1721: 40

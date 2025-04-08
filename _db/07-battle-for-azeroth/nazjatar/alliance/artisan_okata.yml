@@ -1,0 +1,28 @@
+things:
+  - id: 153509
+    type: "vendor"
+    name: "Artisan Okata"
+    note: "Ancient Relics"
+    zoneMapsGroupId: 1
+
+    locations:
+      here: # nazjatar
+        - 37.8 55.6 alliance
+
+    contents:
+
+      # 0
+
+      - id: 167167 # Ankoan Waveray [mount]
+        costs:
+          1721: 250
+        requirements:
+          - "reputation 2400 exalted"
+
+      - id: 169352 # Pearlescent Glimmershell [pet]
+        costs:
+          1721: 150
+
+      - id: 170204 # Symbol of Gral [toy]
+        costs:
+          1721: 75

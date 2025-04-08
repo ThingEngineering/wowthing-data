@@ -1,0 +1,336 @@
+things:
+  - id: 154652
+    type: "vendor"
+    name: "Dazzerian"
+    note: "Nazjatar PvP Quartermaster"
+
+    locations:
+      here: # nazjatar
+        - 48.8 60.8 horde
+
+    groups:
+      - name: "PvP Recipes :blacksmithing:"
+        range: 22 4
+        sortKey: "recipe-pvp-1"
+
+      - name: "PvP Recipes :enchanting:"
+        range: 2
+        sortKey: "recipe-pvp-2"
+
+      - name: "PvP Recipes :engineering:"
+        range: 4
+        sortKey: "recipe-pvp-3"
+
+      - name: "PvP Recipes :inscription:"
+        range: 2
+        sortKey: "recipe-pvp-4"
+
+      - name: "PvP Recipes :jewelcrafting:"
+        range: 2
+        sortKey: "recipe-pvp-5"
+
+      - name: "PvP Recipes :leatherworking:"
+        range: 22
+        sortKey: "recipe-pvp-6"
+
+      - name: "PvP Recipes :tailoring:"
+        range: -1
+        sortKey: "recipe-pvp-7"
+
+    contents:
+
+      # Misc
+
+      - id: 169203 # Inkscale Deepseeker [mount]
+        costs:
+          1168802: 150
+
+      - id: 169357 # Chitterspine Devourer [pet]
+        costs:
+          1168802: 30
+
+      - id: 169276 # Horde War Banner [toy]
+        costs:
+          1168802: 10
+
+      - id: 169277 # Horde War Standard [toy]
+        costs:
+          1168802: 30
+
+      # Blacksmithing
+
+      - id: 169519 # Plans: Notorious Combatant's Cutlass
+        costs:
+          1137642: 2
+
+      - id: 169520 # Plans: Notorious Combatant's Cutlass
+        costs:
+          1137642: 4
+
+      - id: 169526 # Plans: Notorious Combatant's Deckpounder
+        costs:
+          1137642: 2
+
+      - id: 169528 # Plans: Notorious Combatant's Deckpounder
+        costs:
+          1137642: 4
+
+      - id: 169507 # Plans: Notorious Combatant's Plate Armguards
+        costs:
+          1137642: 2
+
+      - id: 169508 # Plans: Notorious Combatant's Plate Armguards
+        costs:
+          1137642: 4
+
+      - id: 169511 # Plans: Notorious Combatant's Plate Boots
+        costs:
+          1137642: 2
+
+      - id: 169512 # Plans: Notorious Combatant's Plate Boots
+        costs:
+          1137642: 4
+
+      - id: 169505 # Plans: Notorious Combatant's Plate Gauntlets
+        costs:
+          1137642: 2
+
+      - id: 169506 # Plans: Notorious Combatant's Plate Gauntlets
+        costs:
+          1137642: 4
+
+      - id: 169513 # Plans: Notorious Combatant's Plate Greaves
+        costs:
+          1137642: 2
+
+      - id: 169514 # Plans: Notorious Combatant's Plate Greaves
+        costs:
+          1137642: 4
+
+      - id: 169509 # Plans: Notorious Combatant's Plate Waistguard
+        costs:
+          1137642: 2
+
+      - id: 169510 # Plans: Notorious Combatant's Plate Waistguard
+        costs:
+          1137642: 4
+
+      - id: 169524 # Plans: Notorious Combatant's Polearm
+        costs:
+          1137642: 2
+
+      - id: 169525 # Plans: Notorious Combatant's Polearm
+        costs:
+          1137642: 4
+
+      - id: 169517 # Plans: Notorious Combatant's Shanker
+        costs:
+          1137642: 2
+
+      - id: 169518 # Plans: Notorious Combatant's Shanker
+        costs:
+          1137642: 4
+
+      - id: 169522 # Plans: Notorious Combatant's Shield
+        costs:
+          1137642: 2
+
+      - id: 169523 # Plans: Notorious Combatant's Shield
+        costs:
+          1137642: 4
+
+      - id: 169515 # Plans: Notorious Combatant's Spellblade
+        costs:
+          1137642: 2
+
+      - id: 169516 # Plans: Notorious Combatant's Spellblade
+        costs:
+          1137642: 4
+
+      # Enchanting
+
+      - id: 169539 # Formula: Notorious Combatant's Sorcerous Scepter
+        costs:
+          1137642: 2
+
+      - id: 169540 # Formula: Notorious Combatant's Sorcerous Scepter
+        costs:
+          1137642: 4
+
+      # Engineering
+
+      - id: 169541 # Schematic: Notorious Combatant's Discombobulator
+        costs:
+          1137642: 2
+
+      - id: 169542 # Schematic: Notorious Combatant's Discombobulator
+        costs:
+          1137642: 4
+
+      - id: 169543 # Schematic: Notorious Combatant's Stormsteel Destroyer
+        costs:
+          1137642: 2
+
+      - id: 169544 # Schematic: Notorious Combatant's Stormsteel Destroyer
+        costs:
+          1137642: 4
+
+      # Inscription
+
+      - id: 169545 # Technique: Notorious Combatant's Etched Vessel
+        costs:
+          1137642: 2
+
+      - id: 169546 # Technique: Notorious Combatant's Etched Vessel
+        costs:
+          1137642: 4
+
+      # Jewelcrafting
+
+      - id: 169551 # Design: Notorious Combatant's Intuitive Staff
+        costs:
+          1137642: 2
+
+      - id: 169552 # Design: Notorious Combatant's Intuitive Staff
+        costs:
+          1137642: 4
+
+      # Leatherworking
+
+      - id: 169573 # Pattern: Notorious Combatant's Bow
+        costs:
+          1137642: 2
+
+      - id: 169574 # Pattern: Notorious Combatant's Bow
+        costs:
+          1137642: 4
+
+      - id: 169557 # Pattern: Notorious Combatant's Leather Armguards
+        costs:
+          1137642: 2
+
+      - id: 169558 # Pattern: Notorious Combatant's Leather Armguards
+        costs:
+          1137642: 4
+
+      - id: 169555 # Pattern: Notorious Combatant's Leather Gauntlets
+        costs:
+          1137642: 2
+
+      - id: 169556 # Pattern: Notorious Combatant's Leather Gauntlets
+        costs:
+          1137642: 4
+
+      - id: 169561 # Pattern: Notorious Combatant's Leather Leggings
+        costs:
+          1137642: 2
+
+      - id: 169562 # Pattern: Notorious Combatant's Leather Leggings
+        costs:
+          1137642: 4
+
+      - id: 169553 # Pattern: Notorious Combatant's Leather Treads
+        costs:
+          1137642: 2
+
+      - id: 169554 # Pattern: Notorious Combatant's Leather Treads
+        costs:
+          1137642: 4
+
+      - id: 169559 # Pattern: Notorious Combatant's Leather Waistguard
+        costs:
+          1137642: 2
+
+      - id: 169560 # Pattern: Notorious Combatant's Leather Waistguard
+        costs:
+          1137642: 4
+
+      - id: 169565 # Pattern: Notorious Combatant's Mail Armguards
+        costs:
+          1137642: 2
+
+      - id: 169566 # Pattern: Notorious Combatant's Mail Armguards
+        costs:
+          1137642: 4
+
+      - id: 169563 # Pattern: Notorious Combatant's Mail Gauntlets
+        costs:
+          1137642: 2
+
+      - id: 169564 # Pattern: Notorious Combatant's Mail Gauntlets
+        costs:
+          1137642: 4
+
+      - id: 169571 # Pattern: Notorious Combatant's Mail Leggings
+        costs:
+          1137642: 2
+
+      - id: 169572 # Pattern: Notorious Combatant's Mail Leggings
+        costs:
+          1137642: 4
+
+      - id: 169569 # Pattern: Notorious Combatant's Mail Treads
+        costs:
+          1137642: 2
+
+      - id: 169570 # Pattern: Notorious Combatant's Mail Treads
+        costs:
+          1137642: 4
+
+      - id: 169567 # Pattern: Notorious Combatant's Mail Waistguard
+        costs:
+          1137642: 2
+
+      - id: 169568 # Pattern: Notorious Combatant's Mail Waistguard
+        costs:
+          1137642: 4
+
+      # Tailoring
+
+      - id: 169576 # Pattern: Notorious Combatant's Satin Belt
+        costs:
+          1137642: 2
+
+      - id: 169577 # Pattern: Notorious Combatant's Satin Belt
+        costs:
+          1137642: 4
+
+      - id: 169578 # Pattern: Notorious Combatant's Satin Boots
+        costs:
+          1137642: 2
+
+      - id: 169579 # Pattern: Notorious Combatant's Satin Boots
+        costs:
+          1137642: 4
+
+      - id: 169582 # Pattern: Notorious Combatant's Satin Bracers
+        costs:
+          1137642: 2
+
+      - id: 169583 # Pattern: Notorious Combatant's Satin Bracers
+        costs:
+          1137642: 4
+
+      - id: 169586 # Pattern: Notorious Combatant's Satin Cloak
+        costs:
+          1137642: 2
+
+      - id: 169587 # Pattern: Notorious Combatant's Satin Cloak
+        costs:
+          1137642: 4
+
+      - id: 169580 # Pattern: Notorious Combatant's Satin Mittens
+        costs:
+          1137642: 2
+
+      - id: 169581 # Pattern: Notorious Combatant's Satin Mittens
+        costs:
+          1137642: 4
+
+      - id: 169584 # Pattern: Notorious Combatant's Satin Pants
+        costs:
+          1137642: 2
+
+      - id: 169585 # Pattern: Notorious Combatant's Satin Pants
+        costs:
+          1137642: 4

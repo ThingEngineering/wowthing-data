@@ -1,0 +1,15 @@
+things:
+  - id: 154860
+    type: "vendor"
+    name: "Feylana the Handler"
+    note: "Hippogryph Vendor"
+
+    locations:
+      here: # nazjatar
+        - 73.6 46
+
+    contents:
+
+      - id: 169377 # Drowned Hatchling
+        costs:
+          1721: 40

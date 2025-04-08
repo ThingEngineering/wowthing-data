@@ -1,0 +1,25 @@
+things:
+  - id: 153512
+    type: "vendor"
+    name: "Finder Pruc"
+    note: "Ancient Relics"
+
+    locations:
+      here: # nazjatar
+        - 49 62.2 horde
+
+    contents:
+
+      - id: 167170 # Unshackled Waveray [mount]
+        costs:
+          1721: 250
+        requirements:
+          - "reputation 2397 exalted"
+
+      - id: 169352 # Pearlescent Glimmershell [pet]
+        costs:
+          1721: 150
+
+      - id: 170204 # Symbol of Gral [toy]
+        costs:
+          1721: 75

@@ -1,0 +1,76 @@
+things:
+  - id: 154140
+    type: "vendor"
+    name: "Speaker Utia"
+    note: "Waveblade Ankoan Emissary"
+    zoneMapsGroupId: 1
+
+    locations:
+      here: # nazjatar
+        - 38 55.6 alliance
+
+    contents:
+
+      - id: 169354 # Brilliant Glimmershell [pet]
+        costs:
+          1721: 40
+
+      - id: 169364 # Prismatic Softshell [pet]
+        costs:
+          0: 400 # Gold
+        requirements:
+          - "reputation 2400 friendly"
+
+      - id: 168610 # Tabard of the Waveblade Ankoan [tabard]
+        costs:
+          0: 500 # Gold
+        requirements:
+          - "reputation 2400 exalted"
+
+      - id: 169504 # Recipe: Greater Mystical Cauldron [alchemy]
+        costs:
+          0: 1520 # Gold
+        requirements:
+          - "reputation 2400 exalted"
+
+      - id: 169492 # Recipe: Potion of Empowered Proximity [alchemy]
+        costs:
+          0: 1120 # Gold
+        requirements:
+          - "reputation 2400 revered"
+
+      - id: 169494 # Recipe: Potion of Focused Resolve [alchemy]
+        costs:
+          0: 1120 # Gold
+        requirements:
+          - "reputation 2400 revered"
+
+      - id: 169530 # Formula: Accord of Critical Strike [enchanting]
+        costs:
+          0: 1120 # Gold
+        requirements:
+          - "reputation 2400 revered"
+
+      - id: 169531 # Formula: Accord of Haste [enchanting]
+        costs:
+          0: 1120 # Gold
+        requirements:
+          - "reputation 2400 revered"
+
+      - id: 169532 # Formula: Accord of Mastery [enchanting]
+        costs:
+          0: 1120 # Gold
+        requirements:
+          - "reputation 2400 revered"
+
+      - id: 169533 # Formula: Accord of Versatility [enchanting]
+        costs:
+          0: 1120 # Gold
+        requirements:
+          - "reputation 2400 revered"
+
+      - id: 169548 # Technique: Contract: Ankoan [inscription]
+        costs:
+          0: 1120 # Gold
+        requirements:
+          - "reputation 2400 revered"

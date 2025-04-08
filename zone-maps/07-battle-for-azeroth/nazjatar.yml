@@ -1,9 +1,16 @@
 name: Nazjatar
-mapName: z7_nazjatar
+mapName: "07-battle-for-azeroth/nazjatar"
 minimumLevel: 50
 requiredQuestId: 54972 55053 # [A] A Way Home/[H] A Way Home
 wowheadGuide: https://www.wowhead.com/guides/comprehensive-nazjatar-guide
 farms:
+
+# Group
+
+- name: "Alliance"
+  groupId: 1
+  location: 36.5 53.5
+  type: group
 
 # Instance
 
