@@ -1,0 +1,25 @@
+things:
+  - id: 193663
+    type: "npc"
+    name: "Craggravated Elemental"
+    note: "Click the rock wall to spawn"
+    reset: "daily"
+    trackingQuestId: 
+
+    locations:
+      here: # thaldraszus
+        - 45.6 85.2
+
+    contents:
+
+      - id: 196991 # Cliffside Wylderdrake: Black Horns
+
+      - id: 197624 # Windborne Velocidrake: Club Tail
+
+      - id: 200244 # Enchanted Muckstompers [leather feet]
+
+      - id: 200298 # Stoneshaped Greatbelt [plate waist]
+
+      - id: 200683 # Legguards of the Deep Strata [plate legs]
+
+      - id: 200246 # Lost Delving Lamp [staff]

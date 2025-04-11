@@ -1,0 +1,24 @@
+things:
+  - id: 193238
+    type: "npc"
+    name: "Spellwrought Snowman"
+    reset: "daily"
+    trackingQuestId: 
+
+    locations:
+      here: # the_azure_span
+        - 55 34
+
+    contents:
+
+      - id: 197001 # Cliffside Wylderdrake: Finned Cheek
+
+      - id: 197098 # Highland Drake: Finned Back
+
+      - id: 200211 # Snowman's Icy Gaze [cloth head]
+
+      - id: 200245 # Leviathan Lure [2h ? mace]
+
+      - id: 200135 # Corroded Greatsword [2h ? sword]
+
+      - id: 200187 # Rod of Glacial Force [staff]
