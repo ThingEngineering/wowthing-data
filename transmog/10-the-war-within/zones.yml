@@ -1,0 +1,200 @@
+name: "Zones"
+groups:
+
+- name: "Undermine"
+  type: armor
+  sets:
+    - "Delves" # Junkreaver
+    - "Outdoor Activities" # Descaled Wear
+    - "Quest Rewards" # Undermine Revolutionary
+    - "Renown"
+    - "World Drops" # Rustfang Rebel
+  data:
+    cloth:
+      - transmogSetId: 4267 # Noxious Injector Apparatus [Delves]
+
+      - transmogSetId: 4358 # Laundered Attire [Outdoor Activities]
+
+      - transmogSetId: 4342 # Undermine Revolutionary's Vestments [Quest Rewards]
+
+      - transmogSetId: 4351 # Smartest in Town [Renown]
+
+      - transmogSetId: 4354 # Mindboost Scholar Regalia [World Quests/Drops]
+
+    leather:
+      - transmogSetId: 4268 # Nitroclad Kit [Delves]
+
+      - transmogSetId: 4359 # Upcycled Outfit [Outdoor Activities]
+
+      - transmogSetId: 4344 # Undermine Revolutionary's Battlegear [Quest Rewards]
+
+      - transmogSetId: 4350 # Slickest in Town [Renown]
+
+      - transmogSetId: 4355 # Smoketrail Racer Suit [World Quests/Drops]
+
+    mail:
+      - transmogSetId: 4269 # Blastborne Loadout [Delves]
+
+      - transmogSetId: 4360 # Power-Washed Wardrobe [Outdoor Activities]
+
+      - transmogSetId: 4345 # Undermine Revolutionary's Guise [Quest Rewards]
+
+      - transmogSetId: 4353 # Craftiest in Town [Renown]
+
+      - transmogSetId: 4356 # Dustfire Outlaw Attire [World Quests/Drops]
+
+    plate:
+      - transmogSetId: 4270 # Junkreaver's Apparel [Delves]
+
+      - transmogSetId: 4361 # Descaled Wear [Outdoor Activities]
+
+      - transmogSetId: 4343 # Undermine Revolutionary's Battleplate [Quest Rewards]
+
+      - transmogSetId: 4352 # Toughest in Town [Renown]
+
+      - transmogSetId: 4357 # Rustfang Rebel Gear [World Quests/Drops]
+
+- name: "Siren Isle"
+  type: armor
+  sets:
+    - "Earthen Armor"
+  data:
+    cloth:
+      - name: "Earthen Scallywag's Cloth"
+        wowheadSetId: 12864
+        itemsV2:
+          - 229014 # Earthen Scallywag's Cowl [head]
+          - 229016 # Earthen Scallywag's Mantle [shoulders]
+          - 229010 # Earthen Scallywag's Cloak [back]
+          - 229011 # Earthen Scallywag's Vestment [chest]
+          - 229018 # Earthen Scallywag's Cuffs [wrists]
+          - 229013 # Earthen Scallywag's Handwraps [hands]
+          - 229017 # Earthen Scallywag's Cord [waist]
+          - 229015 # Earthen Scallywag's Leggings [legs]
+          - 229012 # Earthen Scallywag's Sandals [feet]
+
+    leather:
+      - name: "Earthen Deckhand's Leather"
+        wowheadSetId: 12865
+        itemsV2:
+          - 229045 # Earthen Deckhand's Cap [head]
+          - 229024 # Earthen Deckhand's Shoulderpads [shoulders]
+          - 229019 # Earthen Deckhand's ? [back]
+          - 229020 # Earthen Deckhand's Vest [chest]
+          - 229026 # Earthen Deckhand's Bindings [wrists]
+          - 229022 # Earthen Deckhand's Grips [hands]
+          - 229025 # Earthen Deckhand's Sash [waist]
+          - 229023 # Earthen Deckhand's Breeches [legs]
+          - 229021 # Earthen Deckhand's Waders [feet]
+
+    mail:
+      - name: "Earthen Islander's Mail"
+        wowheadSetId: 12866
+        itemsV2:
+          - 229031 # Earthen Islander's Coif [head]
+          - 229033 # Earthen Islander's Shoulderguards [shoulders]
+          - 229027 # Earthen Islander's Shawl [back]
+          - 229028 # Earthen Islander's Chainmail [chest]
+          - 229035 # Earthen Islander's Bracers [wrists]
+          - 229030 # Earthen Islander's Grips [hands]
+          - 229034 # Earthen Islander's Cinch [waist]
+          - 229032 # Earthen Islander's Greaves [legs]
+          - 229029 # Earthen Islander's Striders [feet]
+
+    plate:
+      - name: "Earthen Landlubber's Plate"
+        wowheadSetId: 12867
+        itemsV2:
+          - 229040 # Earthen Landlubber's Helm [head]
+          - 229042 # Earthen Landlubber's Mantle [shoulders]
+          - 229036 # Earthen Landlubber's Drape [back]
+          - 229037 # Earthen Landlubber's Breastplate [chest]
+          - 229044 # Earthen Landlubber's Armplates [wrists]
+          - 229039 # Earthen Landlubber's Gauntlets [hands]
+          - 229043 # Earthen Landlubber's Girdle [waist]
+          - 229041 # Earthen Landlubber's Legguards [legs]
+          - 229038 # Earthen Landlubber's Sabatons [feet]
+
+- name: "Siren Isle"
+  type: all
+  sets:
+    - "Earthen Deckhand's Weapons"
+    - "Earthen Landlubber's Weapons"
+    - "Earthen Scallywag's Weapons"
+  data:
+    all:
+      - name: "Earthen Deckhand's Weapons"
+        itemsV2:
+          - 229167 # Earthen Deckhand's Cleaver [1h axe]
+          - 229179 # Earthen Deckhand's Cudgel [1h mace]
+          - 229182 # Earthen Deckhand's Dagger [dagger]
+          - 229184 # Earthen Deckhand's Knuckles [fist]
+          - 229185 # Earthen Deckhand's Warglaive [warglaive]
+          - 229172 # Earthen Deckhand's Halberd [polearm]
+          - 229187 # Earthen Deckhand's Rod [staff]
+          - 229190 # Earthen Deckhand's Blunderbuss [gun]
+          - 229175 # Earthen Deckhand's Bulwark [shield]
+
+      - name: "Earthen Landlubber's Weapons"
+        itemsV2:
+          - 229168 # Earthen Landlubber's Axe [1h axe]
+          - 229169 # Earthen Landlubber's Sword [1h sword]
+          - 229183 # Earthen Landlubber's Knife [dagger]
+          - 229177 # Earthen Landlubber's Greataxe [2h axe]
+          - 229180 # Earthen Landlubber's Hammer [2h mace]
+          - 229176 # Earthen Landlubber's Greatsword [2h sword]
+          - 229171 # Earthen Landlubber's Polearm [polearm]
+          - 229191 # Earthen Landlubber's Crossbow [crossbow]
+          - 229174 # Earthen Landlubber's Shield [shield]
+
+      - name: "Earthen Scallywag's Weapons"
+        itemsV2:
+          - 229178 # Earthen Scallywag's Gavel [1h mace]
+          - 229170 # Earthen Scallywag's Saber [1h sword]
+          - 229192 # Earthen Scallywag's Kris [dagger]
+          - 229173 # Earthen Scallywag's Spear [polearm]
+          - 229186 # Earthen Scallywag's Greatstaff [staff]
+          - 229189 # Earthen Scallywag's Bow [bow]
+          - 229188 # Earthen Scallywag's Implement [off-hand]
+
+- name: "Hallowfall"
+  type: armor
+  sets:
+    - "Delves"
+    - "World Drops"
+  data:
+    cloth:
+      # Unkindled Waxweave Panoply [Delves]
+      - transmogSetId: 3881
+        wowheadSetId:
+
+      # Hallowfall Cloth Armor [World Drops]
+      - transmogSetId: 3658
+        wowheadSetId:
+
+    leather:
+      # Myconic Shell [Delves]
+      - transmogSetId: 3880
+        wowheadSetId:
+
+      # Hallowfall Leather Armor [World Drops]
+      - transmogSetId: 3657
+        wowheadSetId:
+
+    mail:
+      # Chains of the Stygian Sea [Delves]
+      - transmogSetId: 3878
+        wowheadSetId:
+
+      # Hallowfall Mail Armor [World Drops]
+      - transmogSetId: 3656
+        wowheadSetId:
+
+    plate:
+      # Aegis of Hidden Stars [Delves]
+      - transmogSetId: 3879
+        wowheadSetId:
+
+      # Hallowfall Plate Armor [World Drops]
+      - transmogSetId: 3655
+        wowheadSetId:

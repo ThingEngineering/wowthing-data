@@ -1,212 +1,163 @@
 name: "Dornogal"
 groups:
 
-- name: "Artisan's Talent"
-  type: all
+- name: "Osidion Ensembles"
+  type: multi
   sets:
-    - "Black"
-    - "Blue"
-    - "Green"
-    - "Purple"
-    - "Red"
+    - "Artisan's Talent"
+    - "Cartographer's Orientation"
+    - "Educator's Knowledge"
+    - "Patron's Elegance"
+    - "Peddler's Trinkets"
+    - "Quotidian Wear"
+    - "Toiler's Uniform"
   data:
-    all:
-      # Sooty Artisan's Talent [Black]
-      - transmogSetId: 3551
-        wowheadSetId:
-
-      # Stained Artisan's Talent [Blue]
-      - transmogSetId: 3550
-        wowheadSetId:
+    0:
 
       # Cast Artisan's Talent [Green]
       - transmogSetId: 3549
-        wowheadSetId:
-
-      # Woven Artisan's Talent [Purple]
-      - transmogSetId: 3548
-        wowheadSetId:
-
-      # Formed Artisan's Talent [Red]
-      - transmogSetId: 3547
-        wowheadSetId:
-
-- name: "Cartographer's Orientation"
-  type: all
-  sets:
-    - "Green"
-    - "Purple"
-    - "Red"
-    - "Teal"
-    - "Yellow"
-  data:
-    all:
-      # Mossy Cartographer's Orientation [Green]
-      - transmogSetId: 3556
-        wowheadSetId:
-
-      # Deep Cartographer's Orientation [Purple]
-      - transmogSetId: 3555
         wowheadSetId:
 
       # Crimson Cartographer's Orientation [Red]
       - transmogSetId: 3554
         wowheadSetId:
 
-      # Oceanic Cartographer's Orientation [Teal]
-      - transmogSetId: 3553
-        wowheadSetId:
-
-      # Saffron Cartographer's Orientation [Yellow]
-      - transmogSetId: 3552
-        wowheadSetId:
-
-- name: "Educator's Knowledge"
-  type: all
-  sets:
-    - "Black"
-    - "Blue"
-    - "Green"
-    - "Purple"
-    - "Red"
-  data:
-    all:
-      # Midnight Educator's Knowledge [Black]
-      - transmogSetId: 3526
-        wowheadSetId:
-
-      # Cobalt Educator's Knowledge [Blue]
-      - transmogSetId: 3525
-        wowheadSetId:
-
-      # Leafy Educator's Knowledge [Green]
-      - transmogSetId: 3524
-        wowheadSetId:
-
-      # Lilac Educator's Knowledge [Purple]
-      - transmogSetId: 3523
-        wowheadSetId:
-
       # Cardinal Educator's Knowledge [Red]
       - transmogSetId: 3522
-        wowheadSetId:
-
-- name: "Patron's Elegance"
-  type: all
-  sets:
-    - "Black"
-    - "Blue"
-    - "Green"
-    - "Purple"
-    - "Red"
-  data:
-    all:
-      # Court Patron's Elegance [Black]
-      - transmogSetId: 3536
         wowheadSetId:
 
       # Celestial Patron's Elegance [Blue]
       - transmogSetId: 3535
         wowheadSetId:
 
-      # Verdant Patron's Elegance [Green]
-      - transmogSetId: 3534
-        wowheadSetId:
-
-      # Royal Patron's Elegance [Purple]
-      - transmogSetId: 3533
-        wowheadSetId:
-
-      # Vermillion Patron's Elegance [Red]
-      - transmogSetId: 3532
-        wowheadSetId:
-
-- name: "Peddler's Trinkets"
-  type: all
-  sets:
-    - "Black"
-    - "Blue"
-    - "Green"
-    - "Purple"
-    - "Teal"
-  data:
-    all:
-      # Occult Peddler's Trinkets [Black]
-      - transmogSetId: 3541
-        wowheadSetId:
-
-      # Peculiar Peddler's Trinkets [Blue]
-      - transmogSetId: 3540
-        wowheadSetId:
-
-      # Curious Peddler's Trinkets [Green]
-      - transmogSetId: 3539
-        wowheadSetId:
-
       # Arcane Peddler's Trinkets [Purple]
       - transmogSetId: 3538
-        wowheadSetId:
-
-      # Versatile Peddler's Trinkets [Teal]
-      - transmogSetId: 3537
-        wowheadSetId:
-
-- name: "Quotidian Wear"
-  type: all
-  sets:
-    - "Beige"
-    - "Blue"
-    - "Green"
-    - "Red"
-    - "Yellow"
-  data:
-    all:
-      # Umber Quotidian Wear [Beige]
-      - transmogSetId: 3530
-        wowheadSetId:
-
-      # Taupe Quotidian Wear [Blue]
-      - transmogSetId: 3531
         wowheadSetId:
 
       # Earthy Quotidian Wear [Green]
       - transmogSetId: 3529
         wowheadSetId:
 
-      # Maroon Quotidian Wear [Red]
-      - transmogSetId: 3528
-        wowheadSetId:
-
-      # Sandy Quotidian Wear [Yellow]
-      - transmogSetId: 3527
-        wowheadSetId:
-
-- name: "Toiler's Uniform"
-  type: all
-  sets:
-    - "Beige"
-    - "Blue"
-    - "Burgundy"
-    - "Green"
-    - "Red"
-  data:
-    all:
       # Toiler's Beige Uniform [Beige]
       - transmogSetId: 3545
         wowheadSetId:
 
-      # Toiler's Navy Uniform [Blue]
-      - transmogSetId: 3546
+    1:
+
+      # Formed Artisan's Talent [Red]
+      - transmogSetId: 3547
+        wowheadSetId:
+
+      # Deep Cartographer's Orientation [Purple]
+      - transmogSetId: 3555
+        wowheadSetId:
+
+      # Cobalt Educator's Knowledge [Blue]
+      - transmogSetId: 3525
+        wowheadSetId:
+
+      # Court Patron's Elegance [Black]
+      - transmogSetId: 3536
+        wowheadSetId:
+
+      # Curious Peddler's Trinkets [Green]
+      - transmogSetId: 3539
+        wowheadSetId:
+
+      # Maroon Quotidian Wear [Red]
+      - transmogSetId: 3528
         wowheadSetId:
 
       # Toiler's Burgundy Uniform [Burgundy]
       - transmogSetId: 3544
         wowheadSetId:
 
-      # Toiler's Ochre Uniform [Green]
-      - transmogSetId: 3543
+    2:
+
+      # Sooty Artisan's Talent [Black]
+      - transmogSetId: 3551
+        wowheadSetId:
+
+      # Mossy Cartographer's Orientation [Green]
+      - transmogSetId: 3556
+        wowheadSetId:
+
+      # Leafy Educator's Knowledge [Green]
+      - transmogSetId: 3524
+        wowheadSetId:
+
+      # Royal Patron's Elegance [Purple]
+      - transmogSetId: 3533
+        wowheadSetId:
+
+      # Occult Peddler's Trinkets [Black]
+      - transmogSetId: 3541
+        wowheadSetId:
+
+      # Sandy Quotidian Wear [Yellow]
+      - transmogSetId: 3527
         wowheadSetId:
 
       # Toiler's Khaki Uniform [Red]
       - transmogSetId: 3542
+        wowheadSetId:
+
+    3: 
+
+      # Stained Artisan's Talent [Blue]
+      - transmogSetId: 3550
+        wowheadSetId:
+
+      # Oceanic Cartographer's Orientation [Teal]
+      - transmogSetId: 3553
+        wowheadSetId:
+
+      # Lilac Educator's Knowledge [Purple]
+      - transmogSetId: 3523
+        wowheadSetId:
+
+      # Verdant Patron's Elegance [Green]
+      - transmogSetId: 3534
+        wowheadSetId:
+
+      # Peculiar Peddler's Trinkets [Blue]
+      - transmogSetId: 3540
+        wowheadSetId:
+
+      # Taupe Quotidian Wear [Blue]
+      - transmogSetId: 3531
+        wowheadSetId:
+
+      # Toiler's Navy Uniform [Blue]
+      - transmogSetId: 3546
+        wowheadSetId:
+
+    4:
+
+      # Woven Artisan's Talent [Purple]
+      - transmogSetId: 3548
+        wowheadSetId:
+    
+      # Saffron Cartographer's Orientation [Yellow]
+      - transmogSetId: 3552
+        wowheadSetId:
+
+      # Midnight Educator's Knowledge [Black]
+      - transmogSetId: 3526
+        wowheadSetId:
+
+      # Vermillion Patron's Elegance [Red]
+      - transmogSetId: 3532
+        wowheadSetId:
+
+      # Versatile Peddler's Trinkets [Teal]
+      - transmogSetId: 3537
+        wowheadSetId:
+
+      # Umber Quotidian Wear [Beige]
+      - transmogSetId: 3530
+        wowheadSetId:
+
+      # Toiler's Ochre Uniform [Green]
+      - transmogSetId: 3543
         wowheadSetId:
