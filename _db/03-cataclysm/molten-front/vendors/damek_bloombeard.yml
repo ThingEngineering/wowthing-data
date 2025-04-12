@@ -1,0 +1,83 @@
+things:
+  - id: 53214
+    type: "vendor"
+    name: "Damek Bloombeard"
+    note: "Exceptional Equipment"
+
+    locations:
+      here: # unknown
+        - 47 89.2
+        - 47 90
+        - 47 90.6
+
+    contents:
+
+      - id: 70166 # Plans: Brainsplinter [blacksmithing]
+        costs:
+          0: 300 # Gold
+
+      - id: 70169 # Plans: Elementium-Edged Scalper [blacksmithing]
+        costs:
+          0: 300 # Gold
+
+      - id: 70168 # Plans: Lightforged Elementium Hammer [blacksmithing]
+        costs:
+          0: 300 # Gold
+
+      - id: 70172 # Plans: Masterwork Elementium Deathblade [blacksmithing]
+        costs:
+          0: 300 # Gold
+
+      - id: 70167 # Plans: Masterwork Elementium Spellblade [blacksmithing]
+        costs:
+          0: 300 # Gold
+
+      - id: 70170 # Plans: Pyrium Spellward [blacksmithing]
+        costs:
+          0: 300 # Gold
+
+      - id: 70171 # Plans: Unbreakable Guardian [blacksmithing]
+        costs:
+          0: 300 # Gold
+
+      - id: 70173 # Plans: Witch-Hunter's Harvester [blacksmithing]
+        costs:
+          0: 300 # Gold
+
+      - id: 71078 # Schematic: Extreme-Impact Hole Puncher [engineering]
+        costs:
+          0: 300 # Gold
+
+      - id: 70177 # Schematic: Flintlocke's Woodchucker [engineering]
+        costs:
+          0: 300 # Gold
+
+      # Armor
+
+      - id: 70118 # Widow's Clutches [cloth hands]
+        costs:
+          0: 73 # Gold
+
+      - id: 70114 # Fireplume Girdle [leather waist]
+        costs:
+          0: 90 # Gold
+
+      - id: 70115 # Fiery Treads [mail feet]
+        costs:
+          0: 163 # Gold
+
+      - id: 70121 # Ricket's Gun Show [plate wrists]
+        costs:
+          0: 117 # Gold
+
+      - id: 70116 # Gauntlets of Living Obsidium [plate hands]
+        costs:
+          0: 127 # Gold
+
+      - id: 70117 # Belt of Living Obsidium [plate waist]
+        costs:
+          0: 128 # Gold
+
+      - id: 70120 # Rickety Belt [plate waist]
+        costs:
+          0: 117 # Gold

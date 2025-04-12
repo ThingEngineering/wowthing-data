@@ -1,0 +1,35 @@
+things:
+  - id: 53881
+    type: "vendor"
+    name: "Ayla Shadowstorm"
+    note: "Treasures of Elune"
+
+    locations:
+      here: # unknown
+        - 44.2 86.2
+
+    contents:
+
+      - id: 70160 # Crimson Lasher [pet]
+        costs:
+          0: 1200 # Gold
+
+      - id: 70161 # Mushroom Chair [toy]
+        costs:
+          0: 400 # Gold
+
+      - id: 70174 # Pattern: Royal Scribe's Satchel [leatherworking]
+        costs:
+          0: 300 # Gold
+
+      - id: 70175 # Pattern: Triple-Reinforced Mining Bag [leatherworking]
+        costs:
+          0: 240 # Gold
+
+      - id: 70176 # Pattern: Luxurious Silk Gem Bag [tailoring]
+        costs:
+          0: 300 # Gold
+
+      - id: 70112 # Globe of Moonlight [off-hand]
+        costs:
+          0: 78 # Gold

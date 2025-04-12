@@ -1,0 +1,27 @@
+things:
+  - id: 53882
+    type: "vendor"
+    name: "Varlan Highbough"
+    note: "Provisions of the Grove"
+
+    locations:
+      here: # unknown
+        - 44.4 88.4
+
+    contents:
+
+      - id: 70140 # Hyjal Bear Cub [pet]
+        costs:
+          0: 1200 # Gold
+
+      - id: 70159 # Mylune's Call [toy]
+        costs:
+          0: 2800 # Gold
+
+      - id: 70122 # Aviana's Grips [leather hands]
+        costs:
+          0: 67 # Gold
+
+      - id: 70123 # Lancer's Greaves [mail feet]
+        costs:
+          0: 122 # Gold

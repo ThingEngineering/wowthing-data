@@ -1,0 +1,23 @@
+things:
+  - id: 52822
+    type: "vendor"
+    name: "Zen'Vorka"
+    note: "Favors of the World Tree"
+
+    locations:
+      here: # unknown
+        - 47 90
+
+    contents:
+
+      - id: 34955 # Scorched Stone [pet]
+        costs:
+          416: 30
+
+      - id: 70108 # Pyrelord Greaves [plate feet]
+        costs:
+          0: 180 # Gold
+
+      # - id: 71631 # Zen'Vorka's Cache
+      #   costs:
+      #     416: 30
