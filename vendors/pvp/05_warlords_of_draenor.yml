@@ -1,5 +1,4 @@
 name: "Warlords of Draenor"
 vendorTags:
-  - "pvp-s16"
-  - "pvp-s17"
-  - "pvp-s18"
+  - "expansion:warlords-of-draenor"
+  - "type:pvp"

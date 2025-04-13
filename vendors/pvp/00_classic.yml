@@ -1,2 +1,4 @@
 name: "Classic"
 vendorTags:
+  - "expansion:classic"
+  - "type:pvp"

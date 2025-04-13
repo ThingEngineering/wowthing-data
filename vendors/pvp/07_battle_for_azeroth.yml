@@ -1,6 +1,4 @@
 name: "Battle for Azeroth"
 vendorTags:
-  - "pvp-s26"
-  - "pvp-s27"
-  - "pvp-s28"
-  - "pvp-s29"
+  - "expansion:battle-for-azeroth"
+  - "type:pvp"

@@ -1,5 +1,4 @@
 name: "Cataclysm"
 vendorTags:
-  - "pvp-s09"
-  - "pvp-s10"
-  - "pvp-s11"
+  - "expansion:cataclysm"
+  - "type:pvp"

@@ -1,6 +1,4 @@
 name: "Shadowlands"
 vendorTags:
-  - "pvp-s30"
-  - "pvp-s31"
-  - "pvp-s32"
-  - "pvp-s33"
+  - "expansion:shadowlands"
+  - "type:pvp"

@@ -1,3 +1,4 @@
 name: "The War Within"
 vendorTags:
-  - "pvp-s38"
+  - "expansion:the-war-within"
+  - "type:pvp"

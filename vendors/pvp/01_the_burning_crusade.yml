@@ -1,6 +1,4 @@
 name: "Burning Crusade"
 vendorTags:
-  - "pvp-s01"
-  - "pvp-s02"
-  - "pvp-s03"
-  - "pvp-s04"
+  - "expansion:the-burning-crusade"
+  - "type:pvp"
