@@ -1,0 +1,19 @@
+things:
+  - id: 97361
+    type: "vendor"
+    name: "Oxana Demonslay"
+    note: "Weapons and Secrets"
+
+    locations:
+      here: # unknown
+        - 67.4 18
+
+    contents:
+
+      - id: 137831 # Design: Vindictive Pandemonite Choker
+        costs:
+          1149: 250
+
+      - id: 141038 # Technique: Glyph of Shadow-Enemies
+        costs:
+          1149: 100

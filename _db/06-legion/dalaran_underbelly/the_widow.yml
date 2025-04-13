@@ -1,0 +1,28 @@
+things:
+  - id: 97366
+    type: "vendor"
+    name: "The Widow"
+    note: "Tools of Deception"
+
+    locations:
+      here: # unknown
+        - 71.6 23.6
+
+    contents:
+
+      - id: 137706 # Schematic: Gunpowder Charge 2 [engineering]
+        costs:
+          1149: 250
+
+      - id: 137720 # Schematic: Gunpowder Charge 3 [engineering]
+        costs:
+          0: 1500 # Gold
+          1149: 500
+
+      - id: 137829 # Design: Subtle Shadowruby Pendant 2 [jewelcrafting]
+        costs:
+          1149: 250
+
+      - id: 141057 # Technique: Glyph of Flash Bang 2 [inscription]
+        costs:
+          1149: 100

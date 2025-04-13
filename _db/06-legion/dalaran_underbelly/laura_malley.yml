@@ -1,0 +1,27 @@
+things:
+  - id: 97364
+    type: "vendor"
+    name: "Laura Malley"
+    note: "Creatures"
+
+    locations:
+      here: # unknown
+        - 58.2 58.6
+
+    contents:
+
+      - id: 136904 # Sewer-Pipe Jelly [pet]
+        costs:
+          1149: 250
+
+      # - id: 139412 # Young Mutant Warturtles [pet spawner?]
+      #   costs:
+      #     1149: 1500
+
+      - id: 137932 # Pattern: Flaming Hoop
+        costs:
+          1149: 100
+
+      - id: 137934 # Pattern: Leather Pet Leash
+        costs:
+          1149: 50

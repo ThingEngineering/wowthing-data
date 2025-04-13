@@ -1,0 +1,75 @@
+things:
+  - id: 107760
+    type: "vendor"
+    name: "Strap Bucklebolt"
+    note: "Belts"
+
+    locations:
+      here: # unknown
+        - 65.8 80.6
+
+    contents:
+
+      - id: 137901 # Pattern: Battlebound Girdle
+        costs:
+          1149: 250
+
+      - id: 137913 # Pattern: Battlebound Girdle
+        costs:
+          1149: 500
+
+      - id: 137885 # Pattern: Dreadleather Belt
+        costs:
+          1149: 250
+
+      - id: 137893 # Pattern: Dreadleather Belt
+        costs:
+          0: 1500 # Gold
+          1149: 500
+
+      - id: 137917 # Pattern: Gravenscale Girdle
+        costs:
+          1149: 250
+
+      - id: 137925 # Pattern: Gravenscale Girdle
+        costs:
+          0: 1500 # Gold
+          1149: 500
+
+      - id: 137869 # Pattern: Warhide Belt
+        costs:
+          1149: 250
+
+      - id: 137881 # Pattern: Warhide Belt
+        costs:
+          1149: 500
+
+      - id: 137966 # Pattern: Imbued Silkweave Cinch
+        costs:
+          1149: 250
+
+      - id: 137974 # Pattern: Imbued Silkweave Cinch
+        costs:
+          0: 1500 # Gold
+          1149: 500
+
+      - id: 137954 # Pattern: Silkweave Cinch
+        costs:
+          1149: 250
+
+      - id: 137962 # Pattern: Silkweave Cinch
+        costs:
+          1149: 500
+
+      - id: 123949 # Plans: Demonsteel Waistguard
+        costs:
+          0: 1500 # Gold
+          1149: 500
+
+      - id: 123929 # Plans: Leystone Waistguard
+        costs:
+          1149: 250
+
+      - id: 123937 # Plans: Leystone Waistguard
+        costs:
+          1149: 500

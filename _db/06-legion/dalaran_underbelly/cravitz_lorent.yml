@@ -1,0 +1,35 @@
+things:
+  - id: 106887
+    type: "vendor"
+    name: "Cravitz Lorent"
+    note: "Shady Book Dealer"
+
+    locations:
+      here: # unknown
+        - 52.2 40
+      02-wrath-of-the-lich-king/dalaran_underbelly:
+        - 47.6 28.6
+
+    contents:
+
+      # Priest
+
+      - id: 136927 # Scarlet Confessional Book [toy]
+        costs:
+          0: 50 # Gold
+
+      # Rogue
+
+      - id: 136803 # Dirty Tricks, Vol 1: Detection [ability?]
+        costs:
+          0: 50 # Gold
+
+      # Shaman
+
+      - id: 136972 # Tome of Hex: Cockroach [ability?]
+        costs:
+          0: 50 # Gold
+
+      - id: 141056 # Technique: Glyph of Burnout
+        costs:
+          0: 35 # Gold

@@ -1,0 +1,19 @@
+things:
+  - id: 97363
+    type: "vendor"
+    name: "K'huta"
+    note: "Portals and Jujus"
+
+    locations:
+      here: # unknown
+        - 65.8 79.4
+
+    contents:
+
+      - id: 128625 # Formula: Leylight Brazier
+        costs:
+          1149: 250
+
+      - id: 141058 # Technique: Glyph of Critterhex
+        costs:
+          1149: 100

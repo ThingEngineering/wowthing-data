@@ -1,0 +1,23 @@
+things:
+  - id: 97360
+    type: "vendor"
+    name: "Matthew Rabis"
+    note: "Feral Warlock"
+
+    locations:
+      here: # unknown
+        - 47.2 56
+
+    contents:
+
+      - id: 139896 # Skinning Technique: Legion Gutting
+        costs:
+          1149: 250
+
+      - id: 137828 # Design: Twisted Pandemonite Choker
+        costs:
+          1149: 250
+
+      - id: 141066 # Technique: Grimoire of the Voidlord
+        costs:
+          1149: 100

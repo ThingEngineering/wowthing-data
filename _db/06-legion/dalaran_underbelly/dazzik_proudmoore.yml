@@ -1,0 +1,19 @@
+things:
+  - id: 97362
+    type: "vendor"
+    name: "Dazzik \"Proudmoore\""
+    note: "Magical Things"
+
+    locations:
+      here: # unknown
+        - 66.2 75
+
+    contents:
+
+      - id: 138016 # Clothes Chest Pattern: Dalaran Citizens
+        costs:
+          1149: 250
+
+      - id: 137826 # Design: Sorcerous Shadowruby Pendant
+        costs:
+          1149: 250

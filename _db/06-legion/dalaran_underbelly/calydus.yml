@@ -1,0 +1,14 @@
+things:
+  - id: 101097
+    type: "vendor"
+    name: "Calydus"
+
+    locations:
+      here: # unknown
+        - 56.4 64.6
+
+    contents:
+
+      - id: 143637 # Hellblazing Reins of the Brimstone Wrathsteed
+        costs:
+          1220: 1000
