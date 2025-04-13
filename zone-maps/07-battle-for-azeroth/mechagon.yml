@@ -26,7 +26,7 @@ farms:
   npcId: 150394
   questId: 55546
   drops:
-  - type: quest
+  - type: accountquest
     id: 55058 # Blueprint: Vaultbot Key
 
   - type: quest
@@ -52,7 +52,7 @@ farms:
   npcId: 153200
   questId: 55857
   drops:
-  - type: quest
+  - type: accountquest
     id: 55030 # Blueprint: Scrap Trap
 
   - type: quest
@@ -65,7 +65,7 @@ farms:
   npcId: 152001
   questId: 55537
   drops:
-  - type: quest
+  - type: accountquest
     id: 55061 # Blueprint: Mechano-Treat
 
   - type: pet
@@ -76,7 +76,7 @@ farms:
   npcId: 154739
   questId: 56368
   drops:
-  - type: quest
+  - type: accountquest
     id: 55078 # Blueprint: Utility Mechanoclaw
 
 - name: "Crazed Trogg"
@@ -84,13 +84,13 @@ farms:
   npcId: 149847
   questId: 55812
   drops:
-  - type: quest
+  - type: accountquest
     id: 55077 # Blueprint: Blue Spraybot
 
-  - type: quest
+  - type: accountquest
     id: 55076 # Blueprint: Green Spraybot
 
-  - type: quest
+  - type: accountquest
     id: 55075 # Blueprint: Orange Spraybot
 
   - type: quest
@@ -108,7 +108,7 @@ farms:
   npcId: 151569
   questId: 55514
   drops:
-  - type: quest
+  - type: accountquest
     id: 55057 # Blueprint: Canned Minnows
 
 - name: "Earthbreaker Gulroc"
@@ -116,7 +116,7 @@ farms:
   npcId: 150342
   questId: 55814
   drops:
-  - type: quest
+  - type: accountquest
     id: 55030 # Blueprint: Scrap Trap
 
   - type: quest
@@ -129,7 +129,7 @@ farms:
   npcId: 154153
   questId: 56207
   drops:
-  - type: quest
+  - type: accountquest
     id: 55082 # Blueprint: Rustbolt Pocket Turret
 
   - type: transmog
@@ -149,7 +149,7 @@ farms:
   npcId: 151202
   questId: 55513
   drops:
-  - type: quest
+  - type: accountquest
     id: 55063 # Blueprint: G99.99 Landshark
 
 - name: "Fungarian Furor"
@@ -170,7 +170,7 @@ farms:
   npcId: 153228
   questId: 55852
   drops:
-  - type: quest
+  - type: accountquest
     id: 55062 # Blueprint: Ultrasafe Transporter: Mechagon
 
   - type: transmog
@@ -191,7 +191,7 @@ farms:
   npcId: 154701
   questId: 56367
   drops:
-  - type: quest
+  - type: accountquest
     id: 55061 # Blueprint: Mechano-Treat
 
 - name: "Killsaw"
@@ -207,7 +207,7 @@ farms:
   npcId: 151933
   questId: 55544
   drops:
-  - type: quest
+  - type: accountquest
     id: 55081 # Blueprint: Anti-Gravity Pack
 
   - type: pet
@@ -218,7 +218,7 @@ farms:
   npcId: 151124
   questId: 55207
   drops:
-  - type: quest
+  - type: accountquest
     id: 55069 # Blueprint: Protocol Transference Device
 
   - type: quest
@@ -239,7 +239,7 @@ farms:
   npcId: 151627
   questId: 55859
   drops:
-  - type: quest
+  - type: accountquest
     id: 55068 # Blueprint: BAWLD-371
 
   - type: transmog
@@ -250,7 +250,7 @@ farms:
   npcId: 151296
   questId: 55515
   drops:
-  - type: quest
+  - type: accountquest
     id: 55071 # Blueprint: Emergency Rocket Chicken
 
 - name: "Ol' Big Tusk"
@@ -258,7 +258,7 @@ farms:
   npcId: 153206
   questId: 55853
   drops:
-  - type: quest
+  - type: accountquest
     id: 55061 # Blueprint: Mechano-Treat
 
   - type: quest
@@ -302,7 +302,7 @@ farms:
   npcId: 152182
   questId: 55811
   drops:
-  - type: quest
+  - type: accountquest
     id: 55081 # Blueprint: Anti-Gravity Pack
 
   - type: mount
@@ -321,7 +321,7 @@ farms:
   npcId: 150937
   questId: 55545
   drops:
-  - type: quest
+  - type: accountquest
     id: 55065 # Blueprint: Rustbolt Kegerator
 
 - name: "Steel Singer Freza"
@@ -329,7 +329,7 @@ farms:
   npcId: 153226
   questId: 55854
   drops:
-  - type: quest
+  - type: accountquest
     id: 55064 # Blueprint: Rustbolt Gramophone
 
   - type: quest
@@ -376,7 +376,7 @@ farms:
   npcId: 151625
   questId: 55364
   drops:
-  - type: quest
+  - type: accountquest
     id: 55061 # Blueprint: Mechano-Treat
 
   - type: transmog
@@ -454,7 +454,7 @@ farms:
   location: 70.0 62.0
   type: event
   drops:
-  - type: quest
+  - type: accountquest
     id: 55074 # Blueprint: Rustbolt Requisitions
     note: "Hard only"
     questId: 55848
