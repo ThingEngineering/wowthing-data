@@ -59,6 +59,10 @@ things:
         costs:
           1044791: 250
 
+      - id: 188694 # Spring Florist's Pouch
+        costs:
+          1044791: 50
+
       # Mage
 
       - id: 44793 # Tome of Polymorph: Rabbit
