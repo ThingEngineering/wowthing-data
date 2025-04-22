@@ -16,6 +16,13 @@ things:
       azuremyst_isle:
         - 49 51.2 alliance
 
+    groups:
+      - name: "Armor"
+        range: 10 8
+      
+      - name: "Weapons"
+        range: -1
+
     contents: &contents
 
       # Mounts
@@ -99,6 +106,28 @@ things:
       - id: 151804 # Black Tuxedo Pants [subclass=5 legs]
         costs:
           1044791: 25
+      
+      # Weapon
+
+      - id: 213064 # Paradise's Violet Axe [1h axe]
+        costs:
+          1044791: 100
+
+      - id: 213067 # Violet Floral Edge [dagger]
+        costs:
+          1044791: 100
+
+      - id: 213070 # Pristine Floral Stalk [polearm]
+        costs:
+          1044791: 100
+
+      - id: 213076 # Orchid Bow-quet [bow]
+        costs:
+          1044791: 100
+
+      - id: 213073 # Faded Floral Staff [stave]
+        costs:
+          1044791: 100
 
       - id: 45073 # Spring Flowers [off-hand]
         costs:
