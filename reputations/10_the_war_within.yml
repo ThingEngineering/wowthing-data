@@ -2,6 +2,13 @@ name: "The War Within"
 minimumLevel: 70
 reputations:
 
+# 11.1.5
+-
+  - both:
+      id: 2688 # Flame's Radiance
+      icon: "achievement/41997" # Owner of a Radiant Heart
+      iconText: "Flame"
+
 # 11.1
 -
   - both:
