@@ -1,0 +1,52 @@
+things:
+  - id: 240852
+    type: "vendor"
+    name: "Lars Bronsmaelt"
+    note: "Renown Quartermaster"
+
+    locations:
+      here: # hallowfall
+        - 28.2 56.2
+
+    groups:
+      - name: "Flame's Radiance"
+        range: -1
+        sortKey: "nightfall-0"
+
+    contents:
+
+      - id: 238829 # Radiant Imperial Lynx [mount]
+        costs:
+          2815: 8125
+
+      - id: 238986 # Mister Mans [pet]
+        costs:
+          2815: 6500
+
+      - id: 241188 # Swiftpaw [pet]
+        costs:
+          2815: 6500
+
+      - id: 238850 # Arathi Entertainer's Flame [toy]
+        costs:
+          2815: 5000
+
+      - id: 238852 # Flame's Radiance Banner [toy]
+        costs:
+          2815: 5000
+
+      - id: 239693 # Radiant Lynx Whistle [toy]
+        costs:
+          2815: 5000
+
+      - id: 238839 # Delver's Dirigible Schematic: Arathi Decal
+        costs:
+          2815: 2600
+
+      - id: 238837 # Delver's Dirigible Schematic: Pale Paint
+        costs:
+          2815: 3250
+
+      - id: 238824 # Radiant Traveler's Backpack [cloak]
+        costs:
+          2815: 3250

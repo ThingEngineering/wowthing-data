@@ -1,0 +1,180 @@
+things:
+  - id: 227797
+    type: "vendor"
+    name: "Raen Dawncavalyr"
+    note: "Head Armorer"
+
+    locations:
+      here: # hallowfall
+        - 28.2 56
+
+    groups:
+      - name: "Nightfall Cloth"
+        range: 9
+        sortKey: "nightfall-1-1"
+
+      - name: "Nightfall Leather"
+        range: 9
+        sortKey: "nightfall-1-2"
+
+      - name: "Nightfall Mail"
+        range: 9
+        sortKey: "nightfall-1-3"
+
+      - name: "Nightfall Plate"
+        range: 9
+        sortKey: "nightfall-1-4"
+
+    contents:
+
+      # 0 set=4392
+
+      - id: 237398 # Arathi Abbot's Cowl [cloth head]
+        costs:
+          1238920: 1
+
+      - id: 237400 # Arathi Abbot's Mantle [cloth shoulders]
+        costs:
+          1238920: 1
+
+      - id: 237394 # Arathi Abbot's Cloak [cloak]
+        costs:
+          1238920: 1
+
+      - id: 237395 # Arathi Abbot's Vestment [cloth chest]
+        costs:
+          1238920: 1
+
+      - id: 237402 # Arathi Abbot's Cuffs [cloth wrists]
+        costs:
+          1238920: 1
+
+      - id: 237397 # Arathi Abbot's Handwraps [cloth hands]
+        costs:
+          1238920: 1
+
+      - id: 237401 # Arathi Abbot's Cord [cloth waist]
+        costs:
+          1238920: 1
+
+      - id: 237399 # Arathi Abbot's Leggings [cloth legs]
+        costs:
+          1238920: 1
+
+      - id: 237396 # Arathi Abbot's Sandals [cloth feet]
+        costs:
+          1238920: 1
+
+      # 0 set=4391
+
+      - id: 237429 # Arathi Zealot's Hood [leather head]
+        costs:
+          1238920: 1
+
+      - id: 237408 # Arathi Zealot's Shoulderpads [leather shoulders]
+        costs:
+          1238920: 1
+
+      - id: 237403 # Arathi Zealot's Cape [cloak]
+        costs:
+          1238920: 1
+
+      - id: 237404 # Arathi Zealot's Vest [leather chest]
+        costs:
+          1238920: 1
+
+      - id: 237410 # Arathi Zealot's Bindings [leather wrists]
+        costs:
+          1238920: 1
+
+      - id: 237406 # Arathi Zealot's Grips [leather hands]
+        costs:
+          1238920: 1
+
+      - id: 237409 # Arathi Zealot's Sash [leather waist]
+        costs:
+          1238920: 1
+
+      - id: 237407 # Arathi Zealot's Breeches [leather legs]
+        costs:
+          1238920: 1
+
+      - id: 237405 # Arathi Zealot's Waders [leather feet]
+        costs:
+          1238920: 1
+
+      # 0 set=4390
+
+      - id: 237415 # Arathi Cleric's Coif [mail head]
+        costs:
+          1238920: 1
+
+      - id: 237417 # Arathi Cleric's Shoulderguards [mail shoulders]
+        costs:
+          1238920: 1
+
+      - id: 237411 # Arathi Cleric's Shawl [cloak]
+        costs:
+          1238920: 1
+
+      - id: 237412 # Arathi Cleric's Chainmail [mail chest]
+        costs:
+          1238920: 1
+
+      - id: 237419 # Arathi Cleric's Bracers [mail wrists]
+        costs:
+          1238920: 1
+
+      - id: 237414 # Arathi Cleric's Grips [mail hands]
+        costs:
+          1238920: 1
+
+      - id: 237418 # Arathi Cleric's Cinch [mail waist]
+        costs:
+          1238920: 1
+
+      - id: 237416 # Arathi Cleric's Greaves [mail legs]
+        costs:
+          1238920: 1
+
+      - id: 237413 # Arathi Cleric's Striders [mail feet]
+        costs:
+          1238920: 1
+
+      # 0 set=4389
+
+      - id: 237424 # Arathi Crusader's Helm [plate head]
+        costs:
+          1238920: 1
+
+      - id: 237426 # Arathi Crusader's Mantle [plate shoulders]
+        costs:
+          1238920: 1
+
+      - id: 237420 # Arathi Crusader's Drape [cloak]
+        costs:
+          1238920: 1
+
+      - id: 237421 # Arathi Crusader's Breastplate [plate chest]
+        costs:
+          1238920: 1
+
+      - id: 237428 # Arathi Crusader's Armplates [plate wrists]
+        costs:
+          1238920: 1
+
+      - id: 237423 # Arathi Crusader's Gauntlets [plate hands]
+        costs:
+          1238920: 1
+
+      - id: 237427 # Arathi Crusader's Girdle [plate waist]
+        costs:
+          1238920: 1
+
+      - id: 237425 # Arathi Crusader's Legguards [plate legs]
+        costs:
+          1238920: 1
+
+      - id: 237422 # Arathi Crusader's Sabatons [plate feet]
+        costs:
+          1238920: 1

@@ -1,0 +1,82 @@
+things:
+  - id: 240979
+    type: "vendor"
+    name: "Vesper Churnmoat"
+    note: "Corrupted Armor Rummager"
+
+    locations:
+      here: # hallowfall
+        - 28.2 56
+
+    groups:
+      - name: "Nightfall Weapons"
+        range: -1
+        sortKey: "nightfall-2"
+
+    contents:
+
+      # 0
+
+      - id: 237775 # Nightfall Curseblade's Cleaver [1h ? axe]
+        costs:
+          1238920: 1
+
+      - id: 237780 # Nightfall Curseblade's Cudgel [1h ? mace]
+        costs:
+          1238920: 1
+
+      - id: 237779 # Nightfall Darkcaster's Gavel [1h ? mace]
+        costs:
+          1238920: 1
+
+      - id: 237782 # Nightfall Curseblade's Knife [? dagger]
+        costs:
+          1238920: 1
+
+      - id: 237787 # Nightfall Darkcaster's Kris [? dagger]
+        costs:
+          1238920: 1
+
+      - id: 237781 # Nightfall Shadowalker's Dagger [? dagger]
+        costs:
+          1238920: 1
+
+      - id: 237789 # Nightfall Curseblade's Warglaive [warglaive]
+        costs:
+          1238920: 1
+
+      - id: 237778 # Nightfall Executioner's Greatsword [2h ? sword]
+        costs:
+          1238920: 1
+
+      - id: 237776 # Nightfall Executioner's Halberd [polearm]
+        costs:
+          1238920: 1
+
+      - id: 237783 # Nightfall Darkcaster's Greatstaff [staff]
+        costs:
+          1238920: 1
+
+      - id: 237784 # Nightfall Shadowalker's Rod [staff]
+        costs:
+          1238920: 1
+
+      - id: 237786 # Nightfall Curseblade's Blunderbuss [gun]
+        costs:
+          1238920: 1
+
+      - id: 237788 # Nightfall Shadowalker's Shotgun [gun]
+        costs:
+          1238920: 1
+
+      - id: 237790 # Nightfall Darkcaster's Wand [wand]
+        costs:
+          1238920: 1
+
+      - id: 237785 # Nightfall Darkcaster's Implement [off-hand]
+        costs:
+          1238920: 1
+
+      - id: 237777 # Nightfall Shadowalker's Bulwark [shield]
+        costs:
+          1238920: 1
