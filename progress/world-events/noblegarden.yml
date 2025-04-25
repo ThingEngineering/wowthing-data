@@ -1,0 +1,27 @@
+name: "Noblegarden"
+groups:
+  
+- name: "Duck Disguise"
+  icon: "achievement/20209" # Quacked Killer
+  iconText: "Noble"
+  lookup: none
+  type: quest
+  data:
+    0:
+      - id: 80083 # Black Duck Disguise
+        name: "{item:216890}"
+
+      - id: 80084 # Brown Duck Disguise
+        name: "{item:216897}"
+
+      - id: 80085 # Mallard Duck Disguise
+        name: "{item:216898}"
+
+      - id: 80087 # Pink Duck Disguise
+        name: "{item:216900}"
+
+      - id: 80088 # White Duck Disguise
+        name: "{item:216901}"
+
+      - id: 80089 # Yellow Duck Disguise
+        name: "{item:216902}"
