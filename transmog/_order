@@ -77,5 +77,6 @@ misc/_misc.yml
     misc/trial_of_style.yml
 
 world-events/_.yml
+    world-events/10_winds.yml
     world-events/anniversary.yml
     world-events/timewalking.yml

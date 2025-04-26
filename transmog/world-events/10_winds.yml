@@ -1,0 +1,90 @@
+name: "Winds of Mysterious Fortune"
+groups:
+
+- name: "Winds of Mysterious Fortune"
+  type: armor
+  sets:
+    - "Mysterious Armor"
+  data:
+    cloth:
+      - name: "Mysterious Cloth"
+        itemsV2:
+          - 235942 # Mysterious Cuffs
+          - 235943 # Mysterious Cord
+          - 235944 # Mysterious Shoulderpads
+          - 235945 # Mysterious Leggings
+          - 235946 # Mysterious Cowl
+          - 235947 # Mysterious Handwraps
+          - 235948 # Mysterious Sandals
+          - 235949 # Mysterious Robes
+
+    leather:
+      - name: "Mysterious Leather"
+        itemsV2:
+          - 235950 # Mysterious Bindings
+          - 235951 # Mysterious Sash
+          - 235952 # Mysterious Epaulets
+          - 235953 # Mysterious Pants
+          - 235954 # Mysterious Headgear
+          - 235955 # Mysterious Gloves
+          - 235956 # Mysterious Boots
+          - 235957 # Mysterious Vest
+
+    mail:
+      - name: "Mysterious Mail"
+        itemsV2:
+          - 235958 # Mysterious Bracers
+          - 235959 # Mysterious Belt
+          - 235960 # Mysterious Shoulderguards
+          - 235961 # Mysterious Greaves
+          - 235962 # Mysterious Coif
+          - 235963 # Mysterious Grips
+          - 235964 # Mysterious Striders
+          - 235965 # Mysterious Chainmail
+
+    plate:
+      - name: "Mysterious Plate"
+        itemsV2:
+          - 235966 # Mysterious Vambraces
+          - 235967 # Mysterious Girdle
+          - 235968 # Mysterious Pauldrons
+          - 235969 # Mysterious Helm
+          - 235970 # Mysterious Legguards
+          - 235971 # Mysterious Gauntlets
+          - 235972 # Mysterious Sabatons
+          - 235973 # Mysterious Breastplate  
+
+- name: "Winds of Mysterious Fortune"
+  type: all
+  sets:
+    - "Mysterious Cloaks"
+    - "Mysterious Weapons"
+  data:
+    all:
+      - name: "Mysterious Cloaks"
+        itemsV2:
+          - 235974 # Mysterious Cloak
+          - 235975 # Mysterious Shawl
+
+      - name: "Mysterious Weapons"
+        itemsV2:
+          - 235925 # Mysterious Beacon Staff
+          - 235932 # Mysterious Blade
+          - 235941 # Mysterious Bolthrower
+          - 235939 # Mysterious Chisel
+          - 235937 # Mysterious Cleaver
+          - 235924 # Mysterious Drill-Tipped Stave
+          - 235933 # Mysterious Hammer
+          - 235938 # Mysterious Hatchet
+          - 235923 # Mysterious Lantern
+          - 235926 # Mysterious Polearm
+          - 235934 # Mysterious Pummeler
+          - 235935 # Mysterious Ritual Knife
+          - 235936 # Mysterious Shank
+          - 235930 # Mysterious Sharpshooter
+          - 235922 # Mysterious Shield
+          - 235927 # Mysterious Spade
+          - 235940 # Mysterious Spellblade
+          - 235931 # Mysterious Sword
+          - 235929 # Mysterious Torch
+          - 235928 # Mysterious Waraxe
