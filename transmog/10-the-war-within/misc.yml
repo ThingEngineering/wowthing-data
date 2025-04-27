@@ -4,9 +4,9 @@ groups:
 - name: "Crafted"
   type: armor
   sets:
-    - "Epic"
-    - "Rare"
-    - "PvP"
+    - "Epic Armor"
+    - "Rare Armor"
+    - "PvP Armor"
   data:
     cloth:
       - name: "Consecrated Cloth"
@@ -146,3 +146,91 @@ groups:
           - 217148_6 # Algari Competitor's Plate Pauldrons
           - 217149_6 # Algari Competitor's Plate Waistguard
           - 217150_6 # Algari Competitor's Plate Armguards
+
+- name: "Crafted"
+  type: all
+  sets:
+    - "Epic Weapons"
+    - "Rare Weapons"
+    - "PvP Weapons"
+  data:
+    all:
+      - name: "Epic Weapons"
+        itemsV2:
+          - 221969 # P.0.W. x2 [engineering]
+          - 222432 # Everforged Defender [blacksmithing]
+          - 222438 # Everforged Stabber [blacksmithing]
+          - 222439 # Everforged Dagger [blacksmithing]
+          - 222440 # Everforged Longsword [blacksmithing]
+          - 222441 # Everforged Warglaive [blacksmithing]
+          - 222442 # Everforged Mace [blacksmithing]
+          - 222443 # Everforged Greataxe [blacksmithing]
+          - 222444 # Charged Hexsword [blacksmithing]
+          - 222445 # Charged Runeaxe [blacksmithing]
+          - 222446 # Charged Facesmasher [blacksmithing]
+          - 222447 # Charged Claymore [blacksmithing]
+          - 222448 # Charged Halberd [blacksmithing]
+          - 222449 # Charged Crusher [blacksmithing]
+          - 222450 # Charged Invoker [blacksmithing]
+          - 222451 # Charged Slicer [blacksmithing]
+          - 222459 # Beledar's Bulwark [blacksmithing]
+          - 222463 # Siphoning Stiletto [blacksmithing]
+          - 222566 # Vagabond's Torch [inscription]
+          - 222567 # Vagabond's Careful Crutch [inscription]
+          - 222568 # Vagabond's Bounding Baton [inscription]
+          - 224405 # Scepter of Radiant Magics [enchanting]
+
+      - name: "Rare Weapons"
+        itemsV2:
+          - 222464 # Ironclaw Stiletto [blacksmithing]
+          - 222465 # Ironclaw Dirk [blacksmithing]
+          - 222466 # Ironclaw Sword [blacksmithing]
+          - 222467_6 # Ironclaw Knuckles [blacksmithing]
+          - 222468_6 # Ironclaw Great Mace [blacksmithing]
+          - 222469_6 # Ironclaw Axe [blacksmithing]
+          - 222470_6 # Ironclaw Great Axe [blacksmithing]
+          - 222565 # Inquisitor's Torch [inscription]
+          - 222569 # Inquisitor's Crutch [inscription]
+          - 222570 # Inquisitor's Baton [inscription]
+          - 224404 # Enchanted Spearwood Wand [enchanting]
+          - 225646 # 4UT0-41M3R [engineering]
+
+      - name: "PvP Weapons"
+        itemsV2:
+          - 225366_159 # Algari Competitor's Pickaxe [blacksmithing]
+          - 225367_159 # Algari Competitor's Dagger [blacksmithing]
+          - 225368_159 # Algari Competitor's Pillar [inscription]
+          - 225369_159 # Algari Competitor's Staff [inscription]
+          - 225370_159 # Algari Competitor's Rifle [engineering]
+          - 225371_159 # Algari Competitor's Scepter [blacksmithing]
+          - 225372_159 # Algari Competitor's Lamp [inscription]
+          - 225373_159 # Algari Competitor's Shield [blacksmithing]
+          - 225374_159 # Algari Competitor's Axe [blacksmithing]
+          - 225375_159 # Algari Competitor's Skewer [blacksmithing]
+          - 225376_159 # Algari Competitor's Greatsword [blacksmithing]
+          - 225377_159 # Algari Competitor's Sword [blacksmithing]
+
+- name: "Horrific Visions Revisited"
+  type: armor
+  sets:
+    - "Vision Armor"
+  data:
+    cloth:
+      # Vision Manipulator's Vestments [Horrific Visions Revisited]
+      - transmogSetId: 4365
+        wowheadSetId:
+
+    leather:
+      # Garb of the Insatiable Vision [Horrific Visions Revisited]
+      - transmogSetId: 4364
+        wowheadSetId:
+
+    mail:
+      # Vision Tormentor's Battlekit [Horrific Visions Revisited]
+      - transmogSetId: 4363
+        wowheadSetId:
+
+    plate:
+      # Malignant Vision's Battleplate [Horrific Visions Revisited]
+      - transmogSetId: 4362
+        wowheadSetId:
