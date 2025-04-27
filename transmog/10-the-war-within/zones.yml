@@ -162,6 +162,8 @@ groups:
   sets:
     - "Delves"
     - "World Drops"
+    - "Flame's Radiance"
+    - "Nightfall"
   data:
     cloth:
       # Unkindled Waxweave Panoply [Delves]
@@ -170,6 +172,14 @@ groups:
 
       # Hallowfall Cloth Armor [World Drops]
       - transmogSetId: 3658
+        wowheadSetId:
+
+      # Arathi Abbot's Armor [Flame's Radiance]
+      - transmogSetId: 4392
+        wowheadSetId:
+
+      # Nightfall Darkcaster's Regalia [Nightfall]
+      - transmogSetId: 4388
         wowheadSetId:
 
     leather:
@@ -181,6 +191,14 @@ groups:
       - transmogSetId: 3657
         wowheadSetId:
 
+      # Arathi Zealot's Armor [Flame's Radiance]
+      - transmogSetId: 4391
+        wowheadSetId:
+
+      # Nightfall Curseblade's Regalia [Nightfall]
+      - transmogSetId: 4387
+        wowheadSetId:
+
     mail:
       # Chains of the Stygian Sea [Delves]
       - transmogSetId: 3878
@@ -190,6 +208,14 @@ groups:
       - transmogSetId: 3656
         wowheadSetId:
 
+      # Arathi Cleric's Armor [Flame's Radiance]
+      - transmogSetId: 4390
+        wowheadSetId:
+
+      # Nightfall Shadowalker's Regalia [Nightfall]
+      - transmogSetId: 4386
+        wowheadSetId:
+
     plate:
       # Aegis of Hidden Stars [Delves]
       - transmogSetId: 3879
@@ -197,4 +223,12 @@ groups:
 
       # Hallowfall Plate Armor [World Drops]
       - transmogSetId: 3655
+        wowheadSetId:
+
+      # Arathi Crusader's Armor [Flame's Radiance]
+      - transmogSetId: 4389
+        wowheadSetId:
+
+      # Nightfall Executioner's Regalia [Nightfall]
+      - transmogSetId: 4385
         wowheadSetId:
