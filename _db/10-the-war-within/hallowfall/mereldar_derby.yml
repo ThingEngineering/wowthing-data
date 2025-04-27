@@ -1,0 +1,65 @@
+things:
+  - id: 226846
+    type: "vendor"
+    name: "Captain Oathmyt"
+
+    locations:
+      here: # hallowfall
+        - 44.2 61.4
+
+    groups:
+      - name: "Mereldar Derby"
+        range: -1
+        sortKey: "mereldar-derby"
+
+    contents:
+
+      - id: 228422 # Recipe: Ghoulfish Delight
+        costs:
+          3055: 10
+
+      - id: 228421 # Recipe: Melted Candlebar
+        costs:
+          3055: 10
+
+      - id: 228423 # Recipe: Pep-In-Your-Step
+        costs:
+          3055: 10
+
+      - id: 225892 # Recipe: Rockslide Shake
+        costs:
+          3055: 10
+
+      # 0
+
+      - id: 224717 # Ensemble: Cerulean Dredger
+        costs:
+          3055: 500
+
+      - id: 217375 # Frenzied Hat of the Crimson Seas [subclass=5 head]
+        costs:
+          3055: 100
+
+      - id: 226376 # Dasher's Violet Rucksack [cloak]
+        costs:
+          3055: 50
+
+      - id: 226378 # Mereldar Artisan's Shoulderbag [cloak]
+        costs:
+          3055: 50
+
+      - id: 224727 # Dasher's Trophy Fish [1h ? mace]
+        costs:
+          3055: 250
+
+      - id: 226379 # Keen-eye 'Noculars [1h ? mace]
+        costs:
+          3055: 50
+
+      - id: 225758 # Hallowfall Harvester's Pitchfork [staff]
+        costs:
+          3055: 50
+
+      - id: 225763 # Fallen Dalaran Defender [shield]
+        costs:
+          3055: 50
