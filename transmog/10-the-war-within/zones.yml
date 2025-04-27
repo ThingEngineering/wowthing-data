@@ -118,44 +118,36 @@ groups:
 - name: "Siren Isle"
   type: all
   sets:
-    - "Earthen Deckhand's Weapons"
-    - "Earthen Landlubber's Weapons"
-    - "Earthen Scallywag's Weapons"
+    - "Earthen Weapons"
   data:
     all:
-      - name: "Earthen Deckhand's Weapons"
+      - name: "Earthen Weapons"
         itemsV2:
           - 229167 # Earthen Deckhand's Cleaver [1h axe]
-          - 229179 # Earthen Deckhand's Cudgel [1h mace]
-          - 229182 # Earthen Deckhand's Dagger [dagger]
-          - 229184 # Earthen Deckhand's Knuckles [fist]
-          - 229185 # Earthen Deckhand's Warglaive [warglaive]
-          - 229172 # Earthen Deckhand's Halberd [polearm]
-          - 229187 # Earthen Deckhand's Rod [staff]
-          - 229190 # Earthen Deckhand's Blunderbuss [gun]
-          - 229175 # Earthen Deckhand's Bulwark [shield]
-
-      - name: "Earthen Landlubber's Weapons"
-        itemsV2:
           - 229168 # Earthen Landlubber's Axe [1h axe]
           - 229169 # Earthen Landlubber's Sword [1h sword]
-          - 229183 # Earthen Landlubber's Knife [dagger]
-          - 229177 # Earthen Landlubber's Greataxe [2h axe]
-          - 229180 # Earthen Landlubber's Hammer [2h mace]
-          - 229176 # Earthen Landlubber's Greatsword [2h sword]
-          - 229171 # Earthen Landlubber's Polearm [polearm]
-          - 229191 # Earthen Landlubber's Crossbow [crossbow]
-          - 229174 # Earthen Landlubber's Shield [shield]
-
-      - name: "Earthen Scallywag's Weapons"
-        itemsV2:
-          - 229178 # Earthen Scallywag's Gavel [1h mace]
           - 229170 # Earthen Scallywag's Saber [1h sword]
-          - 229192 # Earthen Scallywag's Kris [dagger]
+          - 229171 # Earthen Landlubber's Polearm [polearm]
+          - 229172 # Earthen Deckhand's Halberd [polearm]
           - 229173 # Earthen Scallywag's Spear [polearm]
+          - 229174 # Earthen Landlubber's Shield [shield]
+          - 229175 # Earthen Deckhand's Bulwark [shield]
+          - 229176 # Earthen Landlubber's Greatsword [2h sword]
+          - 229177 # Earthen Landlubber's Greataxe [2h axe]
+          - 229178 # Earthen Scallywag's Gavel [1h mace]
+          - 229179 # Earthen Deckhand's Cudgel [1h mace]
+          - 229180 # Earthen Landlubber's Hammer [2h mace]
+          - 229182 # Earthen Deckhand's Dagger [dagger]
+          - 229183 # Earthen Landlubber's Knife [dagger]
+          - 229184 # Earthen Deckhand's Knuckles [fist]
+          - 229185 # Earthen Deckhand's Warglaive [warglaive]
           - 229186 # Earthen Scallywag's Greatstaff [staff]
-          - 229189 # Earthen Scallywag's Bow [bow]
+          - 229187 # Earthen Deckhand's Rod [staff]
           - 229188 # Earthen Scallywag's Implement [off-hand]
+          - 229189 # Earthen Scallywag's Bow [bow]
+          - 229190 # Earthen Deckhand's Blunderbuss [gun]
+          - 229191 # Earthen Landlubber's Crossbow [crossbow]
+          - 229192 # Earthen Scallywag's Kris [dagger]
 
 - name: "Hallowfall"
   type: armor
@@ -163,7 +155,7 @@ groups:
     - "Delves"
     - "World Drops"
     - "Flame's Radiance"
-    - "Nightfall"
+    - "Nightfall Armor"
   data:
     cloth:
       # Unkindled Waxweave Panoply [Delves]
@@ -232,3 +224,51 @@ groups:
       # Nightfall Executioner's Regalia [Nightfall]
       - transmogSetId: 4385
         wowheadSetId:
+
+- name: "Hallowfall"
+  type: all
+  sets:
+    - "Nightfall Weapons"
+    - "Nightfall Bonus Weapons"
+  data:
+    all:
+      - name: "Nightfall Weapons"
+        itemsV2:
+          - 237775 # Nightfall Curseblade's Cleaver
+          - 237776 # Nightfall Executioner's Halberd
+          - 237777 # Nightfall Shadowalker's Bulwark
+          - 237778 # Nightfall Executioner's Greatsword
+          - 237779 # Nightfall Darkcaster's Gavel
+          - 237780 # Nightfall Curseblade's Cudgel
+          - 237781 # Nightfall Shadowalker's Dagger
+          - 237782 # Nightfall Curseblade's Knife
+          - 237783 # Nightfall Darkcaster's Greatstaff
+          - 237784 # Nightfall Shadowalker's Rod
+          - 237785 # Nightfall Darkcaster's Implement
+          - 237786 # Nightfall Curseblade's Blunderbuss
+          - 237787 # Nightfall Darkcaster's Kris
+          - 237788 # Nightfall Shadowalker's Shotgun
+          - 237789 # Nightfall Curseblade's Warglaive
+          - 237790 # Nightfall Darkcaster's Wand
+
+      - name: "Nightfall Bonus Weapons"
+        itemsV2:
+          - 237791 # Arathi Zealot's Cleaver
+          - 237792 # Arathi Crusader's Halberd
+          - 237793 # Arathi Crusader's Bulwark
+          - 237794 # Arathi Crusader's Greatsword
+          - 237795 # Arathi Abbot's Gavel
+          - 237796 # Arathi Zealot's Cudgel
+          - 237797 # Arathi Zealot's Dagger
+          - 237798 # Arathi Zealot's Knife
+          - 237799 # Arathi Abbot's Greatstaff
+          - 237800 # Arathi Cleric's Rod
+          - 237801 # Arathi Abbot's Implement
+          - 237802 # Arathi Cleric's Blunderbuss
+          - 237803 # Arathi Abbot's Kris
+          - 237804 # Arathi Zealot's Shotgun
+          - 237805 # Arathi Zealot's Warglaive
+          - 237806 # Arathi Abbot's Wand
+          - 241033 # Arathi Templar's Claymore
+          - 241035 # Arathi Soldier's Morningstar
+          - 241036 # Arathi Anointer's Wand
