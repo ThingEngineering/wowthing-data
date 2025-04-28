@@ -33,7 +33,7 @@ groups:
 
 - name: "Korthia Campaign"
   icon: achievement/14961 # Chains of Domination
-  iconText: "Korthia"
+  iconText: "Korth"
   lookup: none
   type: quest
   data:
@@ -70,6 +70,24 @@ groups:
     - name: What Lies Ahead
       id: 64314
       description: Requires Renown 58
+
+- name: "Archivists"
+  icon: achievement/15069 # The Archivist's Codex
+  iconText: "Arch"
+  lookup: none
+  type: quest
+  data:
+    0:
+      - id: 63732 # Interrupt the Interrogations
+      - id: 63733 # Carving Out a Path
+      - id: 63734 # The Sundered Staff
+      - id: 63736 # An Infusion of Anima
+      - id: 63740 # Consulting the Experts
+      - id: 63739 # Hope Ascending
+      - id: 63737 # Finding One's True Purpose
+
+      - id: 63738 # Establishing the Archive
+        description: "Unlocks Archivist Roh-Suir"
 
 - name: separator
 
