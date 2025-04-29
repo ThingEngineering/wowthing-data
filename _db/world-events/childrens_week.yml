@@ -1,0 +1,171 @@
+tags:
+  - "event:childrens-week"
+
+things:
+  - id: 242651
+    type: "vendor"
+    name: "Brundia Braidhammer"
+    note: "Toy and Pet Seller"
+
+    locations:
+      here: # stormwind_city
+        - 56.4 54.2 alliance
+
+    contents:
+
+      - id: 221851 # Argos's Bell [pet]
+        costs:
+          1241215: 1
+
+      - id: 167010 # Beakbert [pet]
+        costs:
+          1241215: 1
+
+      - id: 46545 # Curious Oracle Hatchling [pet]
+        costs:
+          1241215: 1
+
+      - id: 46544 # Curious Wolvar Pup [pet]
+        costs:
+          1241215: 1
+
+      - id: 32616 # Egbert's Egg [pet]
+        costs:
+          1241215: 1
+
+      - id: 32622 # Elekk Training Collar [pet]
+        costs:
+          1241215: 1
+
+      - id: 167009 # Enchanted Saurolisk Scale [pet]
+        costs:
+          1241215: 1
+
+      - id: 232857 # Goggles's Favorite Chew-Wrench [pet]
+        costs:
+          1241215: 1
+
+      - id: 23007 # Piglet's Collar [pet]
+        costs:
+          1241215: 1
+
+      - id: 23015 # Rat Cage [pet]
+        costs:
+          1241215: 1
+
+      - id: 167008 # Sandy Hermit Crab Shell [pet]
+        costs:
+          1241215: 1
+
+      - id: 32617 # Sleepy Willy [pet]
+        costs:
+          1241215: 1
+
+      - id: 167011 # Slimy Pouch [pet]
+        costs:
+          1241215: 1
+
+      - id: 241193 # Threadis's Workshop Bot 2.0 [pet]
+        costs:
+          1241215: 1
+
+      - id: 23002 # Turtle Box [pet]
+        costs:
+          1241215: 1
+
+      - id: 69895 # Green Balloon [toy]
+        costs:
+          0: 1 # Gold
+
+      - id: 69896 # Yellow Balloon [toy]
+        costs:
+          0: 1 # Gold
+
+      - id: 242260 # Arsenal: Children's Stormwind Guard Weapon Set [subclass=5 item_slot=0]
+        costs:
+          1241215: 1
+
+  - id: 242676
+    type: "vendor"
+    name: "Leial Knitterton"
+    note: "Toy and Pet Seller"
+
+    locations:
+      here: # orgrimmar
+        - 58 56.8 horde
+
+    contents:
+
+      # 0
+
+      - id: 221851 # Argos's Bell [pet]
+        costs:
+          1241215: 1
+
+      - id: 167010 # Beakbert [pet]
+        costs:
+          1241215: 1
+
+      - id: 46545 # Curious Oracle Hatchling [pet]
+        costs:
+          1241215: 1
+
+      - id: 46544 # Curious Wolvar Pup [pet]
+        costs:
+          1241215: 1
+
+      - id: 32616 # Egbert's Egg [pet]
+        costs:
+          1241215: 1
+
+      - id: 32622 # Elekk Training Collar [pet]
+        costs:
+          1241215: 1
+
+      - id: 167009 # Enchanted Saurolisk Scale [pet]
+        costs:
+          1241215: 1
+
+      - id: 232857 # Goggles's Favorite Chew-Wrench [pet]
+        costs:
+          1241215: 1
+
+      - id: 23007 # Piglet's Collar [pet]
+        costs:
+          1241215: 1
+
+      - id: 23015 # Rat Cage [pet]
+        costs:
+          1241215: 1
+
+      - id: 167008 # Sandy Hermit Crab Shell [pet]
+        costs:
+          1241215: 1
+
+      - id: 32617 # Sleepy Willy [pet]
+        costs:
+          1241215: 1
+
+      - id: 167011 # Slimy Pouch [pet]
+        costs:
+          1241215: 1
+
+      - id: 241193 # Threadis's Workshop Bot 2.0 [pet]
+        costs:
+          1241215: 1
+
+      - id: 23002 # Turtle Box [pet]
+        costs:
+          1241215: 1
+
+      - id: 69895 # Green Balloon [toy]
+        costs:
+          0: 1 # Gold
+
+      - id: 69896 # Yellow Balloon [toy]
+        costs:
+          0: 1 # Gold
+
+      - id: 242265 # Arsenal: Children's Orgrimmar Guard Weapon Set [subclass=5 item_slot=0]
+        costs:
+          1241215: 1

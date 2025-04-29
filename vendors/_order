@@ -179,6 +179,7 @@ timewalking.yml
 world-events/_world_events.yml
     world-events/anniversary.yml
     world-events/brewfest.yml
+    world-events/childrens_week.yml
     world-events/darkmoon_faire.yml
     world-events/hallows_end.yml
     world-events/love_is_in_the_air.yml
