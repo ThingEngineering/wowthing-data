@@ -18,7 +18,7 @@ things:
 
     groups:
       - name: "Armor"
-        range: 10 8
+        range: 10 9
       
       - name: "Weapons"
         range: -1
