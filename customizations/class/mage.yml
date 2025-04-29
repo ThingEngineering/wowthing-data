@@ -4,18 +4,43 @@ groups:
 - name: "Polymorph"
   teachesSpells: true
   things:
-    - spellId:  61305 # Black Cat
-    - spellId: 277792 # Bumblebee
-    - spellId: 277787 # Direhorn
-    - spellId: 391622 # Duck
-    - spellId: 321395 # Mawrat
-    - spellId: 161354 # Monkey
-    - spellId: 460392 # Mosswool
-    - spellId: 161372 # Peacock
-    - spellId: 161355 # Penguin
-    - spellId:  28272 # Pig
-    - spellId: 161353 # Polar Bear Cub
-    - spellId: 126819 # Porcupine
-    - spellId:  61721 # Rabbit
-    - spellId:  61780 # Turkey
-    - spellId:  28271 # Turtle
+    - itemId: 44709 # Tome of Polymorph: Black Cat
+      spellId: 61305
+
+    - itemId: 162626 # Tome of Polymorph: Bumblebee
+      spellId: 277792
+
+    - itemId: 162625 # Tome of Polymorph: Direhorn
+      spellId: 277787
+
+    - itemId: 200205 # Tome of Polymorph: Duck
+      spellId: 391622
+
+    - spellId: 321395 # Polymorph: Mawrat
+
+    - itemId: 120138 # Tome of Polymorph: Monkey
+      spellId: 161354
+
+    - itemId: 227710 # Tome of Polymorph: Mosswool
+      spellId: 460392
+
+    - spellId: 161372 # Polymorph: Peacock
+
+    - itemId: 120139 # Tome of Polymorph: Penguin
+      spellId: 161355
+
+    - spellId: 28272 # Polymorph: Pig
+
+    - itemId: 120137 # Tome of Polymorph: Polar Bear Cub
+      spellId: 161353
+
+    - itemId: 120140 # Tome of Polymorph: Porcupine
+      spellId: 126819
+
+    - itemId: 44793 # Tome of Polymorph: Rabbit
+      spellId: 61721
+
+    - spellId: 61780 # Polymorph: Turkey
+
+    - itemId: 22739 # Tome of Polymorph: Turtle
+      spellId: 28271
