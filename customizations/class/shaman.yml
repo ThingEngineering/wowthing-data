@@ -4,11 +4,11 @@ groups:
 - name: "Hex"
   teachesSpells: true
   things:
-    - itemId: 136972 # Tome of Hex: Cockroach
-    - itemId: 136938 # Tome of Hex: Compy
-    - itemId: 172405 # Tome of Hex: Living Honey
-    - itemId: 159841 # Tome of Hex: Skeletal Hatchling
-    - itemId: 136971 # Tome of Hex: Snake
-    - itemId: 136969 # Tome of Hex: Spider
-    - itemId: 162624 # Tome of Hex: Wicker Mongrel
-    - itemId: 162623 # Tome of Hex: Zandalari Tendonripper
+    - spellId: 211015 # Cockroach
+    - spellId: 210873 # Compy
+    - spellId: 309328 # Living Honey
+    - spellId: 269352 # Skeletal Hatchling
+    - spellId: 211010 # Snake
+    - spellId: 211004 # Spider
+    - spellId: 277784 # Wicker Mongrel
+    - spellId: 277778 # Zandalari Tendonripper
