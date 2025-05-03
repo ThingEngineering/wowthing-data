@@ -24,6 +24,10 @@ things:
       - name: "Nightfall Plate"
         range: 9
         sortKey: "nightfall-1-4"
+      
+      - name: "Nightfall Weapons"
+        range: -1
+        sortKey: "nightfall-2"
 
     contents:
 
@@ -176,5 +180,82 @@ things:
           1238920: 1
 
       - id: 237422 # Arathi Crusader's Sabatons [plate feet]
+        costs:
+          1238920: 1
+
+      # Weapon
+      - id: 237791 # Arathi Zealot's Cleaver [1h axe]
+        costs:
+          1238920: 1
+
+      - id: 237795 # Arathi Abbot's Gavel [1h mace]
+        costs:
+          1238920: 1
+
+      - id: 241035 # Arathi Soldier's Morningstar [1h mace]
+        costs:
+          1238920: 1
+
+      - id: 237796 # Arathi Zealot's Cudgel [1h mace]
+        costs:
+          1238920: 1
+
+      - id: 237803 # Arathi Abbot's Kris [dagger]
+        costs:
+          1238920: 1
+
+      - id: 237797 # Arathi Zealot's Dagger [dagger]
+        costs:
+          1238920: 1
+
+      - id: 237798 # Arathi Zealot's Knife [dagger]
+        costs:
+          1238920: 1
+
+      - id: 237805 # Arathi Zealot's Warglaive [warglaive]
+        costs:
+          1238920: 1
+
+      - id: 237794 # Arathi Crusader's Greatsword [2h sword]
+        costs:
+          1238920: 1
+
+      - id: 241033 # Arathi Templar's Claymore [2h sword]
+        costs:
+          1238920: 1
+
+      - id: 237792 # Arathi Crusader's Halberd [polearm]
+        costs:
+          1238920: 1
+
+      - id: 237799 # Arathi Abbot's Greatstaff [staff]
+        costs:
+          1238920: 1
+
+      - id: 237800 # Arathi Cleric's Rod [staff]
+        costs:
+          1238920: 1
+
+      - id: 237802 # Arathi Cleric's Blunderbuss [gun]
+        costs:
+          1238920: 1
+
+      - id: 237804 # Arathi Zealot's Shotgun [gun]
+        costs:
+          1238920: 1
+
+      - id: 237806 # Arathi Abbot's Wand [wand]
+        costs:
+          1238920: 1
+
+      - id: 241036 # Arathi Anointer's Wand [wand]
+        costs:
+          1238920: 1
+
+      - id: 237801 # Arathi Abbot's Implement [off-hand]
+        costs:
+          1238920: 1
+
+      - id: 237793 # Arathi Crusader's Bulwark [shield]
         costs:
           1238920: 1
