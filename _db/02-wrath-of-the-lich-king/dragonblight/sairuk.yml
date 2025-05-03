@@ -18,11 +18,11 @@ things:
         requirements:
           - "reputation: 0 exalted"
 
-      - id: 44050 # Mastercraft Kalu'ak Fishing Pole
-        costs:
-          0: 27 # Gold
-        requirements:
-          - "reputation: 0 exalted"
+      # - id: 44050 # Mastercraft Kalu'ak Fishing Pole
+      #   costs:
+      #     0: 27 # Gold
+      #   requirements:
+      #     - "reputation: 0 exalted"
 
       - id: 44052 # Totemic Purification Rod [1h ? mace]
         costs:
