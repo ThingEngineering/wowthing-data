@@ -1,0 +1,610 @@
+things:
+  - id: 142564
+    type: "vendor"
+    name: "Leedan Gustaf"
+    note: "Profession Liaison"
+
+    locations:
+      here: # boralus
+        - 56.4 27 alliance
+
+    groups:
+      - name: "PvP Recipes :alchemy:"
+        range: 2
+        sortKey: "pvp-9-alchemy"
+
+      - name: "PvP Recipes :blacksmithing:"
+        range: 44
+        sortKey: "pvp-9-blacksmithing"
+
+      - name: "PvP Recipes :enchanting:"
+        range: 4
+        sortKey: "pvp-9-enchanting"
+
+      - name: "PvP Recipes :engineering:"
+        range: 8
+        sortKey: "pvp-9-engineering"
+
+      - name: "PvP Recipes :inscription:"
+        range: 4
+        sortKey: "pvp-9-inscription"
+
+      - name: "PvP Recipes :jewelcrafting:"
+        range: 4
+        sortKey: "pvp-9-jewelcrafting"
+
+      - name: "PvP Recipes :leatherworking:"
+        range: 44
+        sortKey: "pvp-9-leatherworking"
+
+      - name: "PvP Recipes :tailoring:"
+        range: -1
+        sortKey: "pvp-9-tailoring"
+
+    contents:
+
+      # S27 Alchemy
+
+      - id: 166272 # Recipe: Potion of the Unveiling Eye
+        costs:
+          1137642: 2
+
+      - id: 166271 # Recipe: Potion of the Unveiling Eye
+        costs:
+          1137642: 4
+
+      # S26 Blacksmithing
+
+      - id: 162277 # Plans: Honorable Combatant's Cutlass
+        costs:
+          1137642: 2
+
+      - id: 162278 # Plans: Honorable Combatant's Cutlass
+        costs:
+          1137642: 4
+
+      - id: 162279 # Plans: Honorable Combatant's Deckpounder
+        costs:
+          1137642: 2
+
+      - id: 162280 # Plans: Honorable Combatant's Deckpounder
+        costs:
+          1137642: 4
+
+      - id: 162271 # Plans: Honorable Combatant's Plate Armguards
+        costs:
+          1137642: 2
+
+      - id: 162272 # Plans: Honorable Combatant's Plate Armguards
+        costs:
+          1137642: 4
+
+      - id: 162262 # Plans: Honorable Combatant's Plate Boots
+        costs:
+          1137642: 2
+
+      - id: 162263 # Plans: Honorable Combatant's Plate Boots
+        costs:
+          1137642: 4
+
+      - id: 162265 # Plans: Honorable Combatant's Plate Gauntlets
+        costs:
+          1137642: 2
+
+      - id: 162266 # Plans: Honorable Combatant's Plate Gauntlets
+        costs:
+          1137642: 4
+
+      - id: 162267 # Plans: Honorable Combatant's Plate Greaves
+        costs:
+          1137642: 2
+
+      - id: 162268 # Plans: Honorable Combatant's Plate Greaves
+        costs:
+          1137642: 4
+
+      - id: 162273 # Plans: Honorable Combatant's Plate Shield
+        costs:
+          1137642: 2
+
+      - id: 162274 # Plans: Honorable Combatant's Plate Shield
+        costs:
+          1137642: 4
+
+      - id: 162269 # Plans: Honorable Combatant's Plate Waistguard
+        costs:
+          1137642: 2
+
+      - id: 162270 # Plans: Honorable Combatant's Plate Waistguard
+        costs:
+          1137642: 4
+
+      - id: 162283 # Plans: Honorable Combatant's Polearm
+        costs:
+          1137642: 2
+
+      - id: 162284 # Plans: Honorable Combatant's Polearm
+        costs:
+          1137642: 4
+
+      - id: 162281 # Plans: Honorable Combatant's Shanker
+        costs:
+          1137642: 2
+
+      - id: 162282 # Plans: Honorable Combatant's Shanker
+        costs:
+          1137642: 4
+
+      - id: 162668 # Plans: Honorable Combatant's Spellblade
+        costs:
+          1137642: 2
+
+      - id: 162669 # Plans: Honorable Combatant's Spellblade
+        costs:
+          1137642: 4
+
+      # S27 Blacksmithing
+
+      - id: 165290 # Plans: Sinister Combatant's Cutlass
+        costs:
+          1137642: 2
+
+      - id: 165291 # Plans: Sinister Combatant's Cutlass
+        costs:
+          1137642: 4
+
+      - id: 165292 # Plans: Sinister Combatant's Deckpounder
+        costs:
+          1137642: 2
+
+      - id: 165293 # Plans: Sinister Combatant's Deckpounder
+        costs:
+          1137642: 4
+
+      - id: 165288 # Plans: Sinister Combatant's Plate Armguards
+        costs:
+          1137642: 2
+
+      - id: 165289 # Plans: Sinister Combatant's Plate Armguards
+        costs:
+          1137642: 4
+
+      - id: 165278 # Plans: Sinister Combatant's Plate Boots
+        costs:
+          1137642: 2
+
+      - id: 165279 # Plans: Sinister Combatant's Plate Boots
+        costs:
+          1137642: 4
+
+      - id: 165280 # Plans: Sinister Combatant's Plate Gauntlets
+        costs:
+          1137642: 2
+
+      - id: 165281 # Plans: Sinister Combatant's Plate Gauntlets
+        costs:
+          1137642: 4
+
+      - id: 165282 # Plans: Sinister Combatant's Plate Greaves
+        costs:
+          1137642: 2
+
+      - id: 165283 # Plans: Sinister Combatant's Plate Greaves
+        costs:
+          1137642: 4
+
+      - id: 165284 # Plans: Sinister Combatant's Plate Shield
+        costs:
+          1137642: 2
+
+      - id: 165285 # Plans: Sinister Combatant's Plate Shield
+        costs:
+          1137642: 4
+
+      - id: 165286 # Plans: Sinister Combatant's Plate Waistguard
+        costs:
+          1137642: 2
+
+      - id: 165287 # Plans: Sinister Combatant's Plate Waistguard
+        costs:
+          1137642: 4
+
+      - id: 165298 # Plans: Sinister Combatant's Polearm
+        costs:
+          1137642: 2
+
+      - id: 165299 # Plans: Sinister Combatant's Polearm
+        costs:
+          1137642: 4
+
+      - id: 165296 # Plans: Sinister Combatant's Shanker
+        costs:
+          1137642: 2
+
+      - id: 165297 # Plans: Sinister Combatant's Shanker
+        costs:
+          1137642: 4
+
+      - id: 165294 # Plans: Sinister Combatant's Spellblade
+        costs:
+          1137642: 2
+
+      - id: 165295 # Plans: Sinister Combatant's Spellblade
+        costs:
+          1137642: 4
+
+      # S26 Enchanting
+
+      - id: 162308 # Formula: Honorable Combatant's Sorcerous Scepter
+        costs:
+          1137642: 2
+
+      - id: 162309 # Formula: Honorable Combatant's Sorcerous Scepter
+        costs:
+          1137642: 4
+
+      # S27 Enchanting
+
+      - id: 165300 # Formula: Sinister Combatant's Sorcerous Scepter
+        costs:
+          1137642: 2
+
+      - id: 165301 # Formula: Sinister Combatant's Sorcerous Scepter
+        costs:
+          1137642: 4
+
+      # S26 Engineering
+
+      - id: 163020 # Schematic: Honorable Combatant's Discombobulator
+        costs:
+          1137642: 2
+
+      - id: 163021 # Schematic: Honorable Combatant's Discombobulator
+        costs:
+          1137642: 4
+
+      - id: 163022 # Schematic: Honorable Combatant's Stormsteel Destroyer
+        costs:
+          1137642: 2
+
+      - id: 163023 # Schematic: Honorable Combatant's Stormsteel Destroyer
+        costs:
+          1137642: 4
+
+      # S27 Engineering
+
+      - id: 165302 # Schematic: Sinister Combatant's Discombobulator
+        costs:
+          1137642: 2
+
+      - id: 165303 # Schematic: Sinister Combatant's Discombobulator
+        costs:
+          1137642: 4
+
+      - id: 165304 # Schematic: Sinister Combatant's Stormsteel Destroyer
+        costs:
+          1137642: 2
+
+      - id: 165305 # Schematic: Sinister Combatant's Stormsteel Destroyer
+        costs:
+          1137642: 4
+
+      # S26 Inscription
+
+      - id: 162353 # Technique: Honorable Combatant's Etched Vessel
+        costs:
+          1137642: 2
+
+      - id: 162354 # Technique: Honorable Combatant's Etched Vessel
+        costs:
+          1137642: 4
+
+      # S27 Inscription
+
+      - id: 165306 # Technique: Sinister Combatant's Etched Vessel
+        costs:
+          1137642: 2
+
+      - id: 165307 # Technique: Sinister Combatant's Etched Vessel
+        costs:
+          1137642: 4
+
+      # S26 Jewelcrafting
+
+      - id: 163024 # Design: Honorable Combatant's Intuitive Staff
+        costs:
+          1137642: 2
+
+      - id: 163025 # Design: Honorable Combatant's Intuitive Staff
+        costs:
+          1137642: 4
+
+      # S27 Jewelcrafting
+
+      - id: 165308 # Design: Sinister Combatant's Intuitive Staff
+        costs:
+          1137642: 2
+
+      - id: 165309 # Design: Sinister Combatant's Intuitive Staff
+        costs:
+          1137642: 4
+
+      # S26 Leatherworking
+
+      - id: 162417 # Pattern: Honorable Combatant's Bow
+        costs:
+          1137642: 2
+
+      - id: 162418 # Pattern: Honorable Combatant's Bow
+        costs:
+          1137642: 4
+
+      - id: 162398 # Pattern: Honorable Combatant's Leather Armguards
+        costs:
+          1137642: 2
+
+      - id: 162399 # Pattern: Honorable Combatant's Leather Armguards
+        costs:
+          1137642: 4
+
+      - id: 162392 # Pattern: Honorable Combatant's Leather Gauntlets
+        costs:
+          1137642: 2
+
+      - id: 162393 # Pattern: Honorable Combatant's Leather Gauntlets
+        costs:
+          1137642: 4
+
+      - id: 162394 # Pattern: Honorable Combatant's Leather Leggings
+        costs:
+          1137642: 2
+
+      - id: 162395 # Pattern: Honorable Combatant's Leather Leggings
+        costs:
+          1137642: 4
+
+      - id: 162390 # Pattern: Honorable Combatant's Leather Treads
+        costs:
+          1137642: 2
+
+      - id: 162391 # Pattern: Honorable Combatant's Leather Treads
+        costs:
+          1137642: 4
+
+      - id: 162396 # Pattern: Honorable Combatant's Leather Waistguard
+        costs:
+          1137642: 2
+
+      - id: 162397 # Pattern: Honorable Combatant's Leather Waistguard
+        costs:
+          1137642: 4
+
+      - id: 162410 # Pattern: Honorable Combatant's Mail Armguards
+        costs:
+          1137642: 2
+
+      - id: 162411 # Pattern: Honorable Combatant's Mail Armguards
+        costs:
+          1137642: 4
+
+      - id: 162404 # Pattern: Honorable Combatant's Mail Gauntlets
+        costs:
+          1137642: 2
+
+      - id: 162405 # Pattern: Honorable Combatant's Mail Gauntlets
+        costs:
+          1137642: 4
+
+      - id: 162406 # Pattern: Honorable Combatant's Mail Leggings
+        costs:
+          1137642: 2
+
+      - id: 162407 # Pattern: Honorable Combatant's Mail Leggings
+        costs:
+          1137642: 4
+
+      - id: 162402 # Pattern: Honorable Combatant's Mail Treads
+        costs:
+          1137642: 2
+
+      - id: 162403 # Pattern: Honorable Combatant's Mail Treads
+        costs:
+          1137642: 4
+
+      - id: 162408 # Pattern: Honorable Combatant's Mail Waistguard
+        costs:
+          1137642: 2
+
+      - id: 162409 # Pattern: Honorable Combatant's Mail Waistguard
+        costs:
+          1137642: 4
+
+      # S27 Leatherworking
+
+      - id: 165330 # Pattern: Sinister Combatant's Bow
+        costs:
+          1137642: 2
+
+      - id: 165331 # Pattern: Sinister Combatant's Bow
+        costs:
+          1137642: 4
+
+      - id: 165318 # Pattern: Sinister Combatant's Leather Armguards
+        costs:
+          1137642: 2
+
+      - id: 165319 # Pattern: Sinister Combatant's Leather Armguards
+        costs:
+          1137642: 4
+
+      - id: 165312 # Pattern: Sinister Combatant's Leather Gauntlets
+        costs:
+          1137642: 2
+
+      - id: 165313 # Pattern: Sinister Combatant's Leather Gauntlets
+        costs:
+          1137642: 4
+
+      - id: 165314 # Pattern: Sinister Combatant's Leather Leggings
+        costs:
+          1137642: 2
+
+      - id: 165315 # Pattern: Sinister Combatant's Leather Leggings
+        costs:
+          1137642: 4
+
+      - id: 165310 # Pattern: Sinister Combatant's Leather Treads
+        costs:
+          1137642: 2
+
+      - id: 165311 # Pattern: Sinister Combatant's Leather Treads
+        costs:
+          1137642: 4
+
+      - id: 165316 # Pattern: Sinister Combatant's Leather Waistguard
+        costs:
+          1137642: 2
+
+      - id: 165317 # Pattern: Sinister Combatant's Leather Waistguard
+        costs:
+          1137642: 4
+
+      - id: 165328 # Pattern: Sinister Combatant's Mail Armguards
+        costs:
+          1137642: 2
+
+      - id: 165329 # Pattern: Sinister Combatant's Mail Armguards
+        costs:
+          1137642: 4
+
+      - id: 165322 # Pattern: Sinister Combatant's Mail Gauntlets
+        costs:
+          1137642: 2
+
+      - id: 165323 # Pattern: Sinister Combatant's Mail Gauntlets
+        costs:
+          1137642: 4
+
+      - id: 165324 # Pattern: Sinister Combatant's Mail Leggings
+        costs:
+          1137642: 2
+
+      - id: 165325 # Pattern: Sinister Combatant's Mail Leggings
+        costs:
+          1137642: 4
+
+      - id: 165320 # Pattern: Sinister Combatant's Mail Treads
+        costs:
+          1137642: 2
+
+      - id: 165321 # Pattern: Sinister Combatant's Mail Treads
+        costs:
+          1137642: 4
+
+      - id: 165326 # Pattern: Sinister Combatant's Mail Waistguard
+        costs:
+          1137642: 2
+
+      - id: 165327 # Pattern: Sinister Combatant's Mail Waistguard
+        costs:
+          1137642: 4
+
+      # S26 Tailoring
+
+      - id: 162439 # Pattern: Honorable Combatant's Satin Belt
+        costs:
+          1137642: 2
+
+      - id: 162440 # Pattern: Honorable Combatant's Satin Belt
+        costs:
+          1137642: 4
+
+      - id: 162433 # Pattern: Honorable Combatant's Satin Boots
+        costs:
+          1137642: 2
+
+      - id: 162434 # Pattern: Honorable Combatant's Satin Boots
+        costs:
+          1137642: 4
+
+      - id: 162441 # Pattern: Honorable Combatant's Satin Bracers
+        costs:
+          1137642: 2
+
+      - id: 162442 # Pattern: Honorable Combatant's Satin Bracers
+        costs:
+          1137642: 4
+
+      - id: 162431 # Pattern: Honorable Combatant's Satin Cloak
+        costs:
+          1137642: 2
+
+      - id: 162432 # Pattern: Honorable Combatant's Satin Cloak
+        costs:
+          1137642: 4
+
+      - id: 162435 # Pattern: Honorable Combatant's Satin Mittens
+        costs:
+          1137642: 2
+
+      - id: 162436 # Pattern: Honorable Combatant's Satin Mittens
+        costs:
+          1137642: 4
+
+      - id: 162437 # Pattern: Honorable Combatant's Satin Pants
+        costs:
+          1137642: 2
+
+      - id: 162438 # Pattern: Honorable Combatant's Satin Pants
+        costs:
+          1137642: 4
+
+      # S27 Tailoring
+
+      - id: 165340 # Pattern: Sinister Combatant's Satin Belt
+        costs:
+          1137642: 2
+
+      - id: 165341 # Pattern: Sinister Combatant's Satin Belt
+        costs:
+          1137642: 4
+
+      - id: 165334 # Pattern: Sinister Combatant's Satin Boots
+        costs:
+          1137642: 2
+
+      - id: 165335 # Pattern: Sinister Combatant's Satin Boots
+        costs:
+          1137642: 4
+
+      - id: 165342 # Pattern: Sinister Combatant's Satin Bracers
+        costs:
+          1137642: 2
+
+      - id: 165343 # Pattern: Sinister Combatant's Satin Bracers
+        costs:
+          1137642: 4
+
+      - id: 165332 # Pattern: Sinister Combatant's Satin Cloak
+        costs:
+          1137642: 2
+
+      - id: 165333 # Pattern: Sinister Combatant's Satin Cloak
+        costs:
+          1137642: 4
+
+      - id: 165336 # Pattern: Sinister Combatant's Satin Mittens
+        costs:
+          1137642: 2
+
+      - id: 165337 # Pattern: Sinister Combatant's Satin Mittens
+        costs:
+          1137642: 4
+
+      - id: 165338 # Pattern: Sinister Combatant's Satin Pants
+        costs:
+          1137642: 2
+
+      - id: 165339 # Pattern: Sinister Combatant's Satin Pants
+        costs:
+          1137642: 4

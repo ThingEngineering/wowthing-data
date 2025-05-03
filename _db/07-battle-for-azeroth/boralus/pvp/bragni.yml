@@ -1,0 +1,318 @@
+things:
+  - id: 161565
+    type: "vendor"
+    name: "Bragni"
+    note: "Profession Liason"
+
+    locations:
+      here: # boralus
+        - 56.4 27 alliance
+
+    groups:
+      - name: "PvP Recipes :blacksmithing:"
+        range: 22
+        sortKey: "pvp-9-blacksmithing"
+
+      - name: "PvP Recipes :enchanting:"
+        range: 2
+        sortKey: "pvp-9-enchanting"
+
+      - name: "PvP Recipes :engineering:"
+        range: 4
+        sortKey: "pvp-9-engineering"
+
+      - name: "PvP Recipes :inscription:"
+        range: 2
+        sortKey: "pvp-9-inscription"
+
+      - name: "PvP Recipes :jewelcrafting:"
+        range: 2
+        sortKey: "pvp-9-jewelcrafting"
+
+      - name: "PvP Recipes :leatherworking:"
+        range: 22
+        sortKey: "pvp-9-leatherworking"
+
+      - name: "PvP Recipes :tailoring:"
+        range: -1
+        sortKey: "pvp-9-tailoring"
+
+    contents:
+
+      # S29 Blacksmithing
+
+      - id: 170955 # Plans: Uncanny Combatant's Cutlass
+        costs:
+          1137642: 2
+
+      - id: 170954 # Plans: Uncanny Combatant's Cutlass
+        costs:
+          1137642: 4
+
+      - id: 170953 # Plans: Uncanny Combatant's Deckpounder
+        costs:
+          1137642: 2
+
+      - id: 170952 # Plans: Uncanny Combatant's Deckpounder
+        costs:
+          1137642: 4
+
+      - id: 170402 # Plans: Uncanny Combatant's Plate Armguards
+        costs:
+          1137642: 2
+
+      - id: 170403 # Plans: Uncanny Combatant's Plate Armguards
+        costs:
+          1137642: 4
+
+      - id: 170394 # Plans: Uncanny Combatant's Plate Boots
+        costs:
+          1137642: 2
+
+      - id: 170395 # Plans: Uncanny Combatant's Plate Boots
+        costs:
+          1137642: 4
+
+      - id: 170396 # Plans: Uncanny Combatant's Plate Gauntlets
+        costs:
+          1137642: 2
+
+      - id: 170397 # Plans: Uncanny Combatant's Plate Gauntlets
+        costs:
+          1137642: 4
+
+      - id: 170398 # Plans: Uncanny Combatant's Plate Greaves
+        costs:
+          1137642: 2
+
+      - id: 170399 # Plans: Uncanny Combatant's Plate Greaves
+        costs:
+          1137642: 4
+
+      - id: 170392 # Plans: Uncanny Combatant's Plate Waistguard
+        costs:
+          1137642: 2
+
+      - id: 170393 # Plans: Uncanny Combatant's Plate Waistguard
+        costs:
+          1137642: 4
+
+      - id: 170947 # Plans: Uncanny Combatant's Polearm
+        costs:
+          1137642: 2
+
+      - id: 170946 # Plans: Uncanny Combatant's Polearm
+        costs:
+          1137642: 4
+
+      - id: 170949 # Plans: Uncanny Combatant's Shanker
+        costs:
+          1137642: 2
+
+      - id: 170948 # Plans: Uncanny Combatant's Shanker
+        costs:
+          1137642: 4
+
+      - id: 170400 # Plans: Uncanny Combatant's Shield
+        costs:
+          1137642: 2
+
+      - id: 170401 # Plans: Uncanny Combatant's Shield
+        costs:
+          1137642: 4
+
+      - id: 170951 # Plans: Uncanny Combatant's Spellblade
+        costs:
+          1137642: 2
+
+      - id: 170950 # Plans: Uncanny Combatant's Spellblade
+        costs:
+          1137642: 4
+
+      # S29 Enchanting
+
+      - id: 171153 # Formula: Uncanny Combatant's Sorcerous Scepter
+        costs:
+          1137642: 2
+
+      - id: 171152 # Formula: Uncanny Combatant's Sorcerous Scepter
+        costs:
+          1137642: 4
+
+      # S29 Engineering
+
+      - id: 174273 # Schematic: Uncanny Combatant's Discombobulator
+        costs:
+          1137642: 2
+
+      - id: 174274 # Schematic: Uncanny Combatant's Discombobulator
+        costs:
+          1137642: 4
+
+      - id: 174271 # Schematic: Uncanny Combatant's Stormsteel Destroyer
+        costs:
+          1137642: 2
+
+      - id: 174272 # Schematic: Uncanny Combatant's Stormsteel Destroyer
+        costs:
+          1137642: 4
+
+      # S29 Inscription
+
+      - id: 171059 # Technique: Uncanny Combatant's Etched Vessel
+        costs:
+          1137642: 2
+
+      - id: 171058 # Technique: Uncanny Combatant's Etched Vessel
+        costs:
+          1137642: 4
+
+      # S29 Jewelcrafting
+
+      - id: 171159 # Design: Uncanny Combatant's Intuitive Staff
+        costs:
+          1137642: 2
+
+      - id: 171158 # Design: Uncanny Combatant's Intuitive Staff
+        costs:
+          1137642: 4
+
+      # S29 Leatherworking
+
+      - id: 170586 # Pattern: Uncanny Combatant's Bow
+        costs:
+          1137642: 2
+
+      - id: 170587 # Pattern: Uncanny Combatant's Bow
+        costs:
+          1137642: 4
+
+      - id: 170420 # Pattern: Uncanny Combatant's Leather Armguards
+        costs:
+          1137642: 2
+
+      - id: 170421 # Pattern: Uncanny Combatant's Leather Armguards
+        costs:
+          1137642: 4
+
+      - id: 170414 # Pattern: Uncanny Combatant's Leather Gauntlets
+        costs:
+          1137642: 2
+
+      - id: 170415 # Pattern: Uncanny Combatant's Leather Gauntlets
+        costs:
+          1137642: 4
+
+      - id: 170416 # Pattern: Uncanny Combatant's Leather Leggings
+        costs:
+          1137642: 2
+
+      - id: 170417 # Pattern: Uncanny Combatant's Leather Leggings
+        costs:
+          1137642: 4
+
+      - id: 170412 # Pattern: Uncanny Combatant's Leather Treads
+        costs:
+          1137642: 2
+
+      - id: 170413 # Pattern: Uncanny Combatant's Leather Treads
+        costs:
+          1137642: 4
+
+      - id: 170418 # Pattern: Uncanny Combatant's Leather Waistguard
+        costs:
+          1137642: 2
+
+      - id: 170419 # Pattern: Uncanny Combatant's Leather Waistguard
+        costs:
+          1137642: 4
+
+      - id: 170430 # Pattern: Uncanny Combatant's Mail Armguards
+        costs:
+          1137642: 2
+
+      - id: 170431 # Pattern: Uncanny Combatant's Mail Armguards
+        costs:
+          1137642: 4
+
+      - id: 170424 # Pattern: Uncanny Combatant's Mail Gauntlets
+        costs:
+          1137642: 2
+
+      - id: 170425 # Pattern: Uncanny Combatant's Mail Gauntlets
+        costs:
+          1137642: 4
+
+      - id: 170426 # Pattern: Uncanny Combatant's Mail Leggings
+        costs:
+          1137642: 2
+
+      - id: 170427 # Pattern: Uncanny Combatant's Mail Leggings
+        costs:
+          1137642: 4
+
+      - id: 170422 # Pattern: Uncanny Combatant's Mail Treads
+        costs:
+          1137642: 2
+
+      - id: 170423 # Pattern: Uncanny Combatant's Mail Treads
+        costs:
+          1137642: 4
+
+      - id: 170428 # Pattern: Uncanny Combatant's Mail Waistguard
+        costs:
+          1137642: 2
+
+      - id: 170429 # Pattern: Uncanny Combatant's Mail Waistguard
+        costs:
+          1137642: 4
+
+      # S29 Tailoring
+
+      - id: 170445 # Pattern: Uncanny Combatant's Satin Belt
+        costs:
+          1137642: 2
+
+      - id: 170446 # Pattern: Uncanny Combatant's Satin Belt
+        costs:
+          1137642: 4
+
+      - id: 170448 # Pattern: Uncanny Combatant's Satin Boots
+        costs:
+          1137642: 2
+
+      - id: 170449 # Pattern: Uncanny Combatant's Satin Boots
+        costs:
+          1137642: 4
+
+      - id: 170454 # Pattern: Uncanny Combatant's Satin Bracers
+        costs:
+          1137642: 2
+
+      - id: 170455 # Pattern: Uncanny Combatant's Satin Bracers
+        costs:
+          1137642: 4
+
+      - id: 170444 # Pattern: Uncanny Combatant's Satin Cloak
+        costs:
+          1137642: 2
+
+      - id: 170447 # Pattern: Uncanny Combatant's Satin Cloak
+        costs:
+          1137642: 4
+
+      - id: 170450 # Pattern: Uncanny Combatant's Satin Mittens
+        costs:
+          1137642: 2
+
+      - id: 170451 # Pattern: Uncanny Combatant's Satin Mittens
+        costs:
+          1137642: 4
+
+      - id: 170452 # Pattern: Uncanny Combatant's Satin Pants
+        costs:
+          1137642: 2
+
+      - id: 170453 # Pattern: Uncanny Combatant's Satin Pants
+        costs:
+          1137642: 4
