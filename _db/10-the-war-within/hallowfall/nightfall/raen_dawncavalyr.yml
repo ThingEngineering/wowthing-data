@@ -25,9 +25,9 @@ things:
         range: 9
         sortKey: "nightfall-1-4"
       
-      - name: "Nightfall Weapons"
+      - name: "Arathi Weapons"
         range: -1
-        sortKey: "nightfall-2"
+        sortKey: "nightfall-2-2"
 
     contents:
 

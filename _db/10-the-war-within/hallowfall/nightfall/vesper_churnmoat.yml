@@ -11,7 +11,7 @@ things:
     groups:
       - name: "Nightfall Weapons"
         range: -1
-        sortKey: "nightfall-2"
+        sortKey: "nightfall-2-1"
 
     contents:
 
