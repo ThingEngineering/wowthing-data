@@ -236,21 +236,6 @@ things:
   # Leatherworking
 
   - type: "object"
-    id: 455968
-    name: "{item:226325}"
-    reset: "never"
-    trackingQuestId: 83899
-    locations:
-      here:
-        - "54.6 30.7"
-    requirements:
-      - "profession leatherworking tww 1"
-    contents:
-      - type: "item"
-        id: 226325 # Dornogal Craftsman's Flat Knife
-        note: "{price:3|2792}" # Leatherworking Knowledge
-
-  - type: "object"
     id: 455966
     name: "{item:226327}"
     reset: "never"
