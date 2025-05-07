@@ -1,0 +1,213 @@
+things:
+  - id: 135815
+    type: "vendor"
+    name: "Quartermaster Alcorn"
+    note: "Order of Embers Emissary"
+
+    locations:
+      here: # drustvar
+        - 37.8 49 alliance
+
+    groups:
+      - name: "Reputation - Order of Embers"
+        range: -1
+        sortKey: "0-rep-order-of-embers"
+
+    contents:
+
+      # Mount
+
+      - id: 161908 # Reins of the Dusky Waycrest Gryphon
+        costs:
+          0: 90000 # Gold
+        requirements:
+          - "reputation 2161 exalted"
+
+      - id: 161910 # Reins of the Smoky Charger
+        costs:
+          0: 12500 # Gold
+        requirements:
+          - "reputation 2161 exalted"
+
+      # Pet
+
+      - id: 163491 # Pristine Falcon Feather
+        costs:
+          0: 1400 # Gold
+          1163036: 200
+        requirements:
+          - "reputation 2161 revered"
+
+      # Shaman
+
+      - id: 162624 # Tome of Hex: Wicker Mongrel
+        costs:
+          0: 1440 # Gold
+        requirements:
+          - "reputation 2161 revered"
+
+      # Alchemy
+
+      - id: 163314 # Recipe: Battle Potion of Agility
+        costs:
+          0: 1330 # Gold
+        requirements:
+          - "reputation 2161 revered"
+
+      - id: 162256 # Recipe: Coastal Rejuvenation Potion
+        costs:
+          0: 1400 # Gold
+        requirements:
+          - "reputation 2161 revered"
+
+      - id: 162135 # Recipe: Flask of the Undertow
+        costs:
+          0: 1400 # Gold
+        requirements:
+          - "reputation 2161 revered"
+
+      - id: 162131 # Recipe: Potion of Rising Death
+        costs:
+          0: 1330 # Gold
+        requirements:
+          - "reputation 2161 revered"
+
+      # Enchanting
+
+      - id: 162305 # Formula: Enchant Ring - Pact of Versatility
+        costs:
+          0: 1400 # Gold
+        requirements:
+          - "reputation 2161 revered"
+
+      - id: 162318 # Formula: Enchant Weapon - Gale-Force Striking
+        costs:
+          0: 1400 # Gold
+        requirements:
+          - "reputation 2161 revered"
+
+      - id: 162320 # Formula: Enchant Weapon - Versatile Navigation
+        costs:
+          0: 1400 # Gold
+        requirements:
+          - "reputation 2161 revered"
+
+      # Engineering
+
+      - id: 162329 # Schematic: AZ3-R1-T3 Orthogonal Optics
+        costs:
+          0: 1045 # Gold
+        requirements:
+          - "reputation 2161 honored"
+
+      - id: 162330 # Schematic: AZ3-R1-T3 Orthogonal Optics
+        costs:
+          0: 1330 # Gold
+        requirements:
+          - "reputation 2161 revered"
+
+      - id: 162322 # Schematic: Frost-Laced Ammunition
+        costs:
+          0: 1330 # Gold
+        requirements:
+          - "reputation 2161 revered"
+
+      # Inscription
+
+      - id: 162361 # Technique: Contract: Order of Embers
+        costs:
+          0: 1045 # Gold
+        requirements:
+          - "reputation 2161 honored"
+
+      # Jewelcrafting
+
+      - id: 162381 # Design: Royal Quartz Loop
+        costs:
+          0: 1400 # Gold
+        requirements:
+          - "reputation 2161 revered"
+
+      # Leatherworking
+
+      - id: 162412 # Pattern: Recurve Bow of the Strands
+        costs:
+          0: 1330 # Gold
+        requirements:
+          - "reputation 2161 revered"
+
+      # Tailoring
+
+      - id: 162421 # Pattern: Deep Sea Bag
+        costs:
+          0: 1330 # Gold
+        requirements:
+          - "reputation 2161 revered"
+
+      - id: 162427 # Pattern: Embroidered Deep Sea Cloak
+        costs:
+          0: 1330 # Gold
+        requirements:
+          - "reputation 2161 revered"
+
+      # Transmog
+
+      - id: 161591 # Eternal Flamekeeper's Handwraps [cloth hands]
+        costs:
+          0: 1900 # Gold
+        requirements:
+          - "reputation 2161 exalted"
+
+      - id: 161592 # Leggings of Devout Opposition [cloth legs]
+        costs:
+          0: 1330 # Gold
+        requirements:
+          - "reputation 2161 revered"
+
+      - id: 161594 # Woven Thornspeaker's Leggings [leather legs]
+        costs:
+          0: 1900 # Gold
+        requirements:
+          - "reputation 2161 exalted"
+
+      - id: 161593 # Footpads of the Deft Exorcist [leather feet]
+        costs:
+          0: 1330 # Gold
+        requirements:
+          - "reputation 2161 revered"
+
+      - id: 161595 # Grips of the Oathsworn [mail hands]
+        costs:
+          0: 1400 # Gold
+        requirements:
+          - "reputation 2161 revered"
+
+      - id: 161596 # Coven Buster's Waistguard [mail waist]
+        costs:
+          0: 1805 # Gold
+        requirements:
+          - "reputation 2161 exalted"
+
+      - id: 161597 # Gauntlets of Renewed Resolution [plate hands]
+        costs:
+          0: 1400 # Gold
+        requirements:
+          - "reputation 2161 revered"
+
+      - id: 161598 # Hexxed-Land Treads [plate feet]
+        costs:
+          0: 1805 # Gold
+        requirements:
+          - "reputation 2161 exalted"
+
+      - id: 160535 # Witch Hunter's Cape [cloak]
+        costs:
+          0: 1045 # Gold
+        requirements:
+          - "reputation 2161 honored"
+
+      - id: 160541 # Order of Embers Tabard [tabard]
+        costs:
+          0: 593 # Gold
+        requirements:
+          - "reputation 2161 exalted"
