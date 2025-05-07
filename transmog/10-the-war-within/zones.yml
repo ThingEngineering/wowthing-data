@@ -229,7 +229,7 @@ groups:
   type: all
   sets:
     - "Nightfall Weapons"
-    - "Nightfall Bonus Weapons"
+    - "Arathi Weapons"
   data:
     all:
       - name: "Nightfall Weapons"
@@ -251,7 +251,7 @@ groups:
           - 237789 # Nightfall Curseblade's Warglaive
           - 237790 # Nightfall Darkcaster's Wand
 
-      - name: "Nightfall Bonus Weapons"
+      - name: "Arathi Weapons"
         itemsV2:
           - 237791 # Arathi Zealot's Cleaver
           - 237792 # Arathi Crusader's Halberd
