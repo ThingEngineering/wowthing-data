@@ -1,6 +1,3 @@
 name: "Dalaran"
 vendorMaps:
   - z6_dalaran
-vendorTags:
-  - "expansion:legion"
-groups:
