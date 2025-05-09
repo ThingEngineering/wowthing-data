@@ -1,0 +1,325 @@
+things:
+  - id: 237817
+    type: "vendor"
+    name: "Nostwin"
+    note: "Time-Lost and Forgotten Treasures"
+
+    locations:
+      here: # timeless_isle
+        - 43.2 54.2
+
+    contents:
+
+      # 0
+
+      - id: 215200 # Ensemble: Timeworn Dreadful Mooncloth Regalia
+        costs:
+          1166: 4000
+
+      - id: 215198 # Ensemble: Timeworn Malevolent Mooncloth Regalia
+        costs:
+          1166: 4000
+
+      # 0 set=331
+
+      - id: 235772 # Trousers of the Ternion Glory [cloth legs]
+        costs:
+          1166: 700
+
+      # 0 set=332
+
+      - id: 235773 # Pants of the Ternion Glory [cloth legs]
+        costs:
+          1166: 700
+
+      # 0 set=333
+
+      - id: 235771 # Leggings of the Ternion Glory [cloth legs]
+        costs:
+          1166: 700
+
+      # 0 set=457
+
+      - id: 235774 # Shirt of the Horned Nightmare [cloth chest]
+        costs:
+          1166: 800
+
+      # 0 set=523
+
+      - id: 235767 # Chronomancer Vest [cloth chest]
+        costs:
+          1166: 800
+
+      - id: 235768 # Chronomancer Trousers [cloth legs]
+        costs:
+          1166: 700
+
+      # 0 set=524
+
+      - id: 235769 # Shirt of the Chronomancer [cloth chest]
+        costs:
+          1166: 800
+
+      - id: 235770 # Chronomancer Leggings [cloth legs]
+        costs:
+          1166: 700
+
+      # 0 set=525
+
+      - id: 235765 # Chronomancer Shirt [cloth chest]
+        costs:
+          1166: 800
+
+      - id: 235766 # Chronomancer Pants [cloth legs]
+        costs:
+          1166: 700
+
+      # 0
+
+      - id: 235718 # Crown of the Burning Scroll [cloth head]
+        costs:
+          1166: 800
+
+      - id: 235717 # Hood of the Burning Scroll [cloth head]
+        costs:
+          1166: 800
+
+      - id: 235735 # Sha-Skin Amice [cloth shoulders]
+        costs:
+          1166: 800
+
+      - id: 235733 # Sha-Skin Mantle [cloth shoulders]
+        costs:
+          1166: 800
+
+      - id: 235734 # Sha-Skin Shirt [cloth chest]
+        costs:
+          1166: 800
+
+      - id: 235732 # Sha-Skin Vestment [cloth chest]
+        costs:
+          1166: 800
+
+      - id: 235755 # Shirt of the Thousandfold Hells [cloth chest]
+        costs:
+          1166: 800
+
+      - id: 235754 # Vest of the Thousandfold Hells [cloth chest]
+        costs:
+          1166: 800
+
+      - id: 235719 # Mitts of the Burning Scroll [cloth hands]
+        costs:
+          1166: 700
+
+      - id: 235731 # Sha-Skin Mitts [cloth hands]
+        costs:
+          1166: 700
+
+      # 0 set=506
+
+      - id: 235780 # Vest of Seven Sacred Seals [leather chest]
+        costs:
+          1166: 800
+
+      # 0 set=507
+
+      - id: 235781 # Jerkin of Seven Sacred Seals [leather chest]
+        costs:
+          1166: 800
+
+      # 0 set=508
+
+      - id: 235779 # Tunic of Seven Sacred Seals [leather chest]
+        costs:
+          1166: 800
+
+      # 0 set=557
+
+      - id: 235777 # Pants of the Shattered Vale [leather legs]
+        costs:
+          1166: 700
+
+      # 0 set=558
+
+      - id: 235778 # Legguards of the Shattered Vale [leather legs]
+        costs:
+          1166: 700
+
+      # 0 set=559
+
+      - id: 235775 # Vestments of the Shattered Vale [leather chest]
+        costs:
+          1166: 800
+
+      - id: 235776 # Leggings of the Shattered Vale [leather legs]
+        costs:
+          1166: 700
+
+      # 0 set=560
+
+      - id: 235758 # Cap of the Haunted Forest [leather head]
+        costs:
+          1166: 800
+
+      - id: 235759 # Jerkin of the Haunted Forest [leather chest]
+        costs:
+          1166: 800
+
+      # 0 set=561
+
+      - id: 235760 # Helm of the Haunted Forest [leather head]
+        costs:
+          1166: 800
+
+      - id: 235761 # Vest of the Haunted Forest [leather chest]
+        costs:
+          1166: 800
+
+      # 0 set=562
+
+      - id: 235756 # Cover of the Haunted Forest [leather head]
+        costs:
+          1166: 800
+
+      - id: 235757 # Vest of the Haunted Forest [leather chest]
+        costs:
+          1166: 800
+
+      # 0
+
+      - id: 235722 # Cover of the Thousandfold Blades [leather head]
+        costs:
+          1166: 800
+
+      - id: 235725 # Red Crane Cover [leather head]
+        costs:
+          1166: 800
+
+      - id: 235729 # Eternal Blossom Mantle [leather shoulders]
+        costs:
+          1166: 800
+
+      - id: 235721 # Mantle of the Thousandfold Blades [leather shoulders]
+        costs:
+          1166: 800
+
+      - id: 235724 # Red Crane Spaulders [leather shoulders]
+        costs:
+          1166: 800
+
+      - id: 235728 # Eternal Blossom Jerkin [leather chest]
+        costs:
+          1166: 800
+
+      - id: 235727 # Eternal Blossom Tunic [leather chest]
+        costs:
+          1166: 800
+
+      - id: 235730 # Eternal Blossom Tunic [leather chest]
+        costs:
+          1166: 800
+
+      - id: 235726 # Eternal Blossom Bindings [leather wrists]
+        costs:
+          1166: 200
+
+      - id: 235723 # Red Crane Legguards [leather legs]
+        costs:
+          1166: 700
+
+      # 0 set=424
+
+      - id: 235763 # Robeguard of the Witch Doctor [mail chest]
+        costs:
+          1166: 800
+
+      # 0 set=425
+
+      - id: 235764 # Breastplate of the Witch Doctor [mail chest]
+        costs:
+          1166: 800
+
+      # 0 set=426
+
+      - id: 235762 # Vestments of the Witch Doctor [mail chest]
+        costs:
+          1166: 800
+
+      # 0
+
+      - id: 235751 # Yaungol Slayer's Spaulders [mail shoulders]
+        costs:
+          1166: 800
+
+      - id: 235749 # Firebird's Breastplate [mail chest]
+        costs:
+          1166: 800
+
+      - id: 235745 # Firebird's Cuirass [mail chest]
+        costs:
+          1166: 800
+
+      - id: 235747 # Firebird's Shirt [mail chest]
+        costs:
+          1166: 800
+
+      - id: 235750 # Yaungol Slayer's Belt [mail waist]
+        costs:
+          1166: 700
+
+      - id: 235746 # Firebird's Legguards [mail legs]
+        costs:
+          1166: 700
+
+      - id: 235748 # Firebird's Legwraps [mail legs]
+        costs:
+          1166: 700
+
+      # 0 set=487
+
+      - id: 235783 # Breastplate of Winged Triumph [plate chest]
+        costs:
+          1166: 800
+
+      # 0 set=488
+
+      - id: 235784 # Chestguard of Winged Triumph [plate chest]
+        costs:
+          1166: 800
+
+      # 0 set=489
+
+      - id: 235782 # Battleplate of Winged Triumph [plate chest]
+        costs:
+          1166: 800
+
+      # 0
+
+      - id: 235752 # Warhelm of Resounding Rings [plate head]
+        costs:
+          1166: 800
+
+      - id: 235742 # White Tiger Shoulderguards [plate shoulders]
+        costs:
+          1166: 800
+
+      - id: 235741 # White Tiger Spaulders [plate shoulders]
+        costs:
+          1166: 800
+
+      - id: 235743 # Breastplate of the Lost Catacomb [plate chest]
+        costs:
+          1166: 800
+
+      - id: 235744 # Chestguard of the Lost Catacomb [plate chest]
+        costs:
+          1166: 800
+
+      - id: 235739 # White Tiger Greaves [plate legs]
+        costs:
+          1166: 700
+
+      - id: 235740 # White Tiger Legplates [plate legs]
+        costs:
+          1166: 700

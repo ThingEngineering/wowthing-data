@@ -1,0 +1,29 @@
+things:
+  - id: 73082
+    type: "vendor"
+    name: "Master Li"
+    note: "Celestial Tournament Host"
+
+    locations:
+      here: # timeless_isle
+        - 34.8 59.4
+
+    contents:
+
+      # 0
+
+      - id: 102145 # Chi-Chi, Hatchling of Chi-Ji
+        costs:
+          1101529: 3
+
+      - id: 101771 # Xu-Fu, Cub of Xuen
+        costs:
+          1101529: 3
+
+      - id: 102147 # Yu'la, Broodling of Yu'lon
+        costs:
+          1101529: 3
+
+      - id: 102146 # Zao, Calfling of Niuzao
+        costs:
+          1101529: 3
