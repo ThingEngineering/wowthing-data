@@ -3,7 +3,7 @@ name: "Crafter Kwon"
 note: "Arms & Armor Repairs"
 
 locations:
-  z4_timeless_isle:
+  04-mists-of-pandaria/timeless_isle:
     - 38.4 46.6
 
 sets:

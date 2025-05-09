@@ -1,7 +1,7 @@
 id: 73819
 name: "Ku-Mo"
 locations:
-  z4_timeless_isle:
+  04-mists-of-pandaria/timeless_isle:
     - 41.2 63.6
 sells:
   - type: pet

@@ -108,9 +108,3 @@ sells:
     id: 112047 # Recipe: Transmorphic Tincture
     costs:
       1118700: 1
-
-  - type: item
-    id: 114028 # Small Pouch of Coins
-    costs:
-      1118700: 1
-

@@ -19,12 +19,6 @@ sells:
       823: 5000 # Apexis Crystal
     reputation: 1731 exalted # Council of Exarchs
 
-  - type: transmog
-    id: 119135 # Council of Exarchs Tabard [tabard]
-    costs:
-      0: 100 # Gold
-    reputation: 1731 exalted # Council of Exarchs
-
   - type: pet
     id: 1450 # Draenei Micro Defender
     costs:
@@ -32,15 +26,14 @@ sells:
       823: 2000 # Apexis Crystal
     reputation: 1731 revered # Council of Exarchs
 
-  - type: item
-    id: 118663 # Relic of Karabor
-    note: "Teleport to the Path of the Light in Karabor"
-    costs:
-      0: 2500 # Gold
-    reputation: 1731 revered # Council of Exarchs
-
   - type: toy
     id: 115472 # Permanent Time Bubble
     costs:
       0: 1000 # Gold
     reputation: 1731 honored # Council of Exarchs
+
+  - type: transmog
+    id: 119135 # Council of Exarchs Tabard [tabard]
+    costs:
+      0: 100 # Gold
+    reputation: 1731 exalted # Council of Exarchs

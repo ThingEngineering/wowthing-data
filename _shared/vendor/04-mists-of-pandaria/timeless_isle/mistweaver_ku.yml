@@ -1,7 +1,7 @@
 id: 73306
 name: "Mistweaver Ku"
 locations:
-  z4_timeless_isle:
+  04-mists-of-pandaria/timeless_isle:
     - 43.0 54.2
 tags:
   - "emperor-shaohao"
