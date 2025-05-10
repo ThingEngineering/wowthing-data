@@ -3,15 +3,11 @@ groups:
 
 - name: World Drops
   things:
-  -  36863 # Decahedral Dwarven Dice
-  -  63269 # Loaded Gnomish Dice
   -   1973 # Orb of Deception
   -  37254 # Super Simian Sphere
-  -  36862 # Worn Troll Dice
 
 - name: Misc
   things:
-  - 151877 # Barrel of Eyepatches (Pickpocketing?)
   -  89139 # Chain Pet Leash (pet supply bag?)
 #
 # Instances
@@ -21,12 +17,6 @@ groups:
   -  88566 # Krastinov's Bag of Horrors (H-Scholomance)
   -  35275 # Orb of the Sin'dorei (H-Magister's Terrace)
   -  13379 # Piccolo of the Flaming Fire (Stratholme)
-  - 153004 # Unstable Portal Emitter (Vixx the Collector, Seat of the Triumvirate)
-  - 152982 # Vixx's Chest of Tricks (Vixx the Collector, Seat of the Triumvirate)
-
-- name: Raids
-  things:
-  - 142536 # Memory Cube (The Nighthold -> Karazhan)
 
 # Quests
 
@@ -44,7 +34,6 @@ groups:
 # Vendor
 - name: Vendor
   things:
-  - 120857 # Barrel of Bandanas
   - 133511 # Gurboggle's Gleaming Bauble
   - 136855 # Hunter's Call
   -  43499 # Iron Boot Flask

@@ -18,3 +18,9 @@ groups:
     - 228705 # Arachnoserum
     - 226519 # General's Expertise
     - 228940 # Notorious Thread's Hearthstone
+
+- name: "Flame's Radiance"
+  things:
+    - 238850 # Arathi Entertainer's Flame
+    - 238852 # Flame's Radiance Banner
+    - 239693 # Radiant Lynx Whistle

@@ -1,0 +1,14 @@
+name: "Instances"
+groups:
+
+- name: "Dungeons"
+  things:
+    - 153004 # Unstable Portal Emitter (Vixx the Collector, Seat of the Triumvirate)
+    - 152982 # Vixx's Chest of Tricks (Vixx the Collector, Seat of the Triumvirate)
+    - 141331 # Vial of Green Goo (Engineer Omegaplugg, Gnomeregan)
+
+- name: "Raids"
+  things:
+    - 119211 # Golden Hearthstone Card: Lord Jaraxxus (Gul'dan, Nighthold)
+    - 142536 # Memory Cube (Chronomatic Anomaly, Nighthold -> quests)
+    - 143544 # Skull of Corruption (Gul'dan, Nighthold)

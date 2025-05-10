@@ -1,0 +1,26 @@
+name: "Order Halls"
+groups:
+
+- name: "Demon Hunter"
+  things:
+    - 147537 # A Tiny Set of Warglaives (Falara Nightsong, Demon Hunter)
+
+- name: "Mage"
+  things:
+    - 147838 # Akazamzarak's Spare Hat (Down the Rabbit Hole, Mage)
+
+- name: "Rogue"
+  things:
+    -  36863 # Decahedral Dwarven Dice (pickpocketing)
+    -  63269 # Loaded Gnomish Dice (pickpocketing)
+    -  36862 # Worn Troll Dice (pickpocketing)
+    - 120857 # Barrel of Bandanas (Coins of Air vendor)
+    - 151877 # Barrel of Eyepatches (Coins of Air vendor)
+    - 139587 # Suspicious Crate (The Vault daily)
+
+- name: "Shaman"
+  things:
+    - 143727 # Champion's Salute (Broken Shore Order Campaign) quest?
+    - 140632 # Lava Fountain (The Maelstrom)
+    - 147832 # Magical Saucer (Uhtel'nay, Hall of the Guardian?)
+    - 140160 # Stormforged Vrykul Horn (?, Warrior)

@@ -1,24 +1,6 @@
 name: Legion
 groups:
 
-- name: Instances
-  things:
-  - 119211 # Golden Hearthstone Card: Lord Jaraxxus (Gul'dan, Nighthold)
-  - 143544 # Skull of Corruption (The Nighthold - Gul'dan)
-  - 153004 # Unstable Portal Emitter (Vixx the Collector, The Seat of thew Triumvirate)
-  - 141331 # Vial of Green Goo (Engineer Omegaplugg, Gnomeregan)
-  - 152982 # Vixx's Chest of Tricks (Vixx the Collector, The Seat of thew Triumvirate)
-
-- name: Order Halls
-  things:
-  - 147537 # A Tiny Set of Warglaives (Falara Nightsong, Demon Hunter)
-  - 147838 # Akazamzarak's Spare Hat (Down the Rabbit Hole, Mage)
-  - 143727 # Champion's Salute (Broken Shore Order Campaign) quest?
-  - 140632 # Lava Fountain (The Maelstrom)
-  - 147832 # Magical Saucer (Uhtel'nay, Hall of the Guardian?)
-  - 140160 # Stormforged Vrykul Horn (?, Warrior)
-  - 139587 # Suspicious Crate (?, Rogue)
-
 - name: Quests
   things:
   - 141879 # Berglrgl Perrgl Girggrlf

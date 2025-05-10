@@ -14,4 +14,6 @@ groups:
 
 - name: "Raids"
   things:
-    - 236687 # Explosive Hearthstone
+    - 236687 # Explosive Hearthstone (Liberation of Undermine)
+    - 236749 # Take-Home Torq (Liberation of Undermine)
+    - 236751 # Take-Home Flarendo (Liberation of Undermine)
