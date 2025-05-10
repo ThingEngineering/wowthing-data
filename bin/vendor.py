@@ -318,6 +318,10 @@ def main():
         if no_gold and costs[0] > 0 and len(costs[1]) == 0 and len(costs[2]) == 0:
             continue
 
+        # weird deprecated MoP honor
+        if costs[0] == 0 and len(costs[1]) == 1 and len(costs[2]) == 0 and costs[1][0][0] == 392:
+            continue
+
         if contents_type == 'drops':
             count = item.get('count', 0)
             out_of = item.get('outof', 0)
