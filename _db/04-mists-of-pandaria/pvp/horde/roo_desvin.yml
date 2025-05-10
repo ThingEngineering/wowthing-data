@@ -1,0 +1,829 @@
+things:
+  - id: 75688
+    type: "vendor"
+    name: "Roo Desvin"
+    note: "Tyrannical Gladiator"
+
+    locations:
+      here: # kun_lai_summit
+        - 35.4 83.2 horde
+
+    groups:
+
+      - name: "S14 - Collections"
+        range: 12
+        sortKey: "9-14-0-1"
+      
+      - name: "S14 - Death Knight"
+        range: 5
+        sortKey: "9-14-1-deathknight"
+
+      - name: "S14 - Druid"
+        range: 15
+        sortKey: "9-14-1-druid"
+
+      - name: "S14 - Hunter"
+        range: 5
+        sortKey: "9-14-1-hunter"
+
+      - name: "S14 - Mage"
+        range: 5
+        sortKey: "9-14-1-mage"
+
+      - name: "S14 - Monk"
+        range: 10
+        sortKey: "9-14-1-monk"
+
+      - name: "S14 - Paladin"
+        range: 10
+        sortKey: "9-14-1-paladin"
+
+      - name: "S14 - Priest"
+        range: 10
+        sortKey: "9-14-1-priest"
+
+      - name: "S14 - Rogue"
+        range: 5
+        sortKey: "9-14-1-rogue"
+
+      - name: "S14 - Shaman"
+        range: 15
+        sortKey: "9-14-1-shaman"
+
+      - name: "S14 - Warlock"
+        range: 5
+        sortKey: "9-14-1-warlock"
+
+      - name: "S14 - Warrior"
+        range: 5
+        sortKey: "9-14-1-warrior"
+
+      - name: "S14 - Misc Cloth"
+        range: 9
+        sortKey: "9-14-2-1"
+
+      - name: "S14 - Misc Leather"
+        range: 12
+        sortKey: "9-14-2-2"
+
+      - name: "S14 - Misc Mail"
+        range: 12
+        sortKey: "9-14-2-3"
+
+      - name: "S14 - Misc Plate"
+        range: 12
+        sortKey: "9-14-2-4"
+
+      - name: "S14 - Cloaks"
+        range: 7
+        sortKey: "9-14-2-5"
+
+      - name: "S14 - Weapons"
+        range: -1
+        sortKey: "9-14-3-1"
+
+    contents:
+
+      - id: 138684 # Ensemble: Tyrannical Gladiator's Dreadplate Armor [death knight]
+        costs:
+          1137642: 12
+
+      - id: 138692 # Ensemble: Tyrannical Gladiator's Dragonhide Armor [druid]
+        costs:
+          1137642: 12
+
+      - id: 138690 # Ensemble: Tyrannical Gladiator's Chain Armor [hunter]
+        costs:
+          1137642: 12
+
+      - id: 138698 # Ensemble: Tyrannical Gladiator's Silk Armor [mage]
+        costs:
+          1137642: 12
+
+      - id: 138694 # Ensemble: Tyrannical Gladiator's Ironskin Armor [monk]
+        costs:
+          1137642: 12
+
+      - id: 138686 # Ensemble: Tyrannical Gladiator's Scaled Armor [paladin]
+        costs:
+          1137642: 12
+
+      - id: 138700 # Ensemble: Tyrannical Gladiator's Satin Armor [priest]
+        costs:
+          1137642: 12
+
+      - id: 138696 # Ensemble: Tyrannical Gladiator's Leather Armor [rogue]
+        costs:
+          1137642: 12
+
+      - id: 138688 # Ensemble: Tyrannical Gladiator's Ringmail Armor [shaman]
+        costs:
+          1137642: 12
+
+      - id: 138702 # Ensemble: Tyrannical Gladiator's Felweave Armor [warlock]
+        costs:
+          1137642: 12
+
+      - id: 138682 # Ensemble: Tyrannical Gladiator's Plate Armor [warrior]
+        costs:
+          1137642: 12
+
+      - id: 144245 # Arsenal: Tyrannical Gladiator's Weapons
+        costs:
+          1137642: 80
+
+      # Death Knight
+
+      - id: 100099 # Tyrannical Gladiator's Dreadplate Helm [plate head]
+        costs:
+          1137642: 3
+
+      - id: 100036 # Tyrannical Gladiator's Dreadplate Shoulders [plate shoulders]
+        costs:
+          1137642: 2
+
+      - id: 100062 # Tyrannical Gladiator's Dreadplate Chestpiece [plate chest]
+        costs:
+          1137642: 3
+
+      - id: 100034 # Tyrannical Gladiator's Dreadplate Gauntlets [plate hands]
+        costs:
+          1137642: 2
+
+      - id: 100035 # Tyrannical Gladiator's Dreadplate Legguards [plate legs]
+        costs:
+          1137642: 3
+
+      # Druid
+
+      - id: 100037 # Tyrannical Gladiator's Dragonhide Helm [leather head]
+        costs:
+          1137642: 3
+
+      - id: 100162 # Tyrannical Gladiator's Kodohide Helm [leather head]
+        costs:
+          1137642: 3
+
+      - id: 100017 # Tyrannical Gladiator's Wyrmhide Helm [leather head]
+        costs:
+          1137642: 3
+
+      - id: 100127 # Tyrannical Gladiator's Dragonhide Spaulders [leather shoulders]
+        costs:
+          1137642: 2
+
+      - id: 100042 # Tyrannical Gladiator's Kodohide Spaulders [leather shoulders]
+        costs:
+          1137642: 2
+
+      - id: 100086 # Tyrannical Gladiator's Wyrmhide Spaulders [leather shoulders]
+        costs:
+          1137642: 2
+
+      - id: 100126 # Tyrannical Gladiator's Dragonhide Robes [leather chest]
+        costs:
+          1137642: 3
+
+      - id: 100107 # Tyrannical Gladiator's Kodohide Robes [leather chest]
+        costs:
+          1137642: 3
+
+      - id: 99988 # Tyrannical Gladiator's Wyrmhide Robes [leather chest]
+        costs:
+          1137642: 3
+
+      - id: 100125 # Tyrannical Gladiator's Dragonhide Gloves [leather hands]
+        costs:
+          1137642: 2
+
+      - id: 100041 # Tyrannical Gladiator's Kodohide Gloves [leather hands]
+        costs:
+          1137642: 2
+
+      - id: 100082 # Tyrannical Gladiator's Wyrmhide Gloves [leather hands]
+        costs:
+          1137642: 2
+
+      - id: 100038 # Tyrannical Gladiator's Dragonhide Legguards [leather legs]
+        costs:
+          1137642: 3
+
+      - id: 100147 # Tyrannical Gladiator's Kodohide Legguards [leather legs]
+        costs:
+          1137642: 3
+
+      - id: 100153 # Tyrannical Gladiator's Wyrmhide Legguards [leather legs]
+        costs:
+          1137642: 3
+
+      # Hunter
+
+      - id: 100076 # Tyrannical Gladiator's Chain Helm [mail head]
+        costs:
+          1137642: 3
+
+      - id: 100120 # Tyrannical Gladiator's Chain Spaulders [mail shoulders]
+        costs:
+          1137642: 2
+
+      - id: 100075 # Tyrannical Gladiator's Chain Armor [mail chest]
+        costs:
+          1137642: 3
+
+      - id: 100123 # Tyrannical Gladiator's Chain Gauntlets [mail hands]
+        costs:
+          1137642: 2
+
+      - id: 100054 # Tyrannical Gladiator's Chain Leggings [mail legs]
+        costs:
+          1137642: 3
+
+      # Mage
+
+      - id: 100051 # Tyrannical Gladiator's Silk Cowl [cloth head]
+        costs:
+          1137642: 3
+
+      - id: 100059 # Tyrannical Gladiator's Silk Amice [cloth shoulders]
+        costs:
+          1137642: 2
+
+      - id: 100101 # Tyrannical Gladiator's Silk Robe [cloth chest]
+        costs:
+          1137642: 3
+
+      - id: 100121 # Tyrannical Gladiator's Silk Handguards [cloth hands]
+        costs:
+          1137642: 2
+
+      - id: 100032 # Tyrannical Gladiator's Silk Trousers [cloth legs]
+        costs:
+          1137642: 3
+
+      # Monk
+
+      - id: 100011 # Tyrannical Gladiator's Copperskin Helm [leather head]
+        costs:
+          1137642: 3
+
+      - id: 100098 # Tyrannical Gladiator's Ironskin Helm [leather head]
+        costs:
+          1137642: 3
+
+      - id: 100163 # Tyrannical Gladiator's Copperskin Spaulders [leather shoulders]
+        costs:
+          1137642: 2
+
+      - id: 100009 # Tyrannical Gladiator's Ironskin Spaulders [leather shoulders]
+        costs:
+          1137642: 2
+
+      - id: 100149 # Tyrannical Gladiator's Copperskin Tunic [leather chest]
+        costs:
+          1137642: 3
+
+      - id: 100106 # Tyrannical Gladiator's Ironskin Tunic [leather chest]
+        costs:
+          1137642: 3
+
+      - id: 100010 # Tyrannical Gladiator's Copperskin Gloves [leather hands]
+        costs:
+          1137642: 2
+
+      - id: 100061 # Tyrannical Gladiator's Ironskin Gloves [leather hands]
+        costs:
+          1137642: 2
+
+      - id: 100148 # Tyrannical Gladiator's Copperskin Legguards [leather legs]
+        costs:
+          1137642: 3
+
+      - id: 100040 # Tyrannical Gladiator's Ironskin Legguards [leather legs]
+        costs:
+          1137642: 3
+
+      # Paladin
+
+      - id: 100018 # Tyrannical Gladiator's Ornamented Headcover [plate head]
+        costs:
+          1137642: 3
+
+      - id: 100165 # Tyrannical Gladiator's Scaled Helm [plate head]
+        costs:
+          1137642: 3
+
+      - id: 100083 # Tyrannical Gladiator's Ornamented Spaulders [plate shoulders]
+        costs:
+          1137642: 2
+
+      - id: 100130 # Tyrannical Gladiator's Scaled Shoulders [plate shoulders]
+        costs:
+          1137642: 2
+
+      - id: 100015 # Tyrannical Gladiator's Ornamented Chestguard [plate chest]
+        costs:
+          1137642: 3
+
+      - id: 100133 # Tyrannical Gladiator's Scaled Chestpiece [plate chest]
+        costs:
+          1137642: 3
+
+      - id: 100108 # Tyrannical Gladiator's Ornamented Gloves [plate hands]
+        costs:
+          1137642: 2
+
+      - id: 100013 # Tyrannical Gladiator's Scaled Gauntlets [plate hands]
+        costs:
+          1137642: 2
+
+      - id: 100154 # Tyrannical Gladiator's Ornamented Legplates [plate legs]
+        costs:
+          1137642: 3
+
+      - id: 100166 # Tyrannical Gladiator's Scaled Legguards [plate legs]
+        costs:
+          1137642: 3
+
+      # Priest
+
+      - id: 100089 # Tyrannical Gladiator's Mooncloth Helm [cloth head]
+        costs:
+          1137642: 3
+
+      - id: 100137 # Tyrannical Gladiator's Satin Hood [cloth head]
+        costs:
+          1137642: 3
+
+      - id: 100136 # Tyrannical Gladiator's Mooncloth Mantle [cloth shoulders]
+        costs:
+          1137642: 2
+
+      - id: 100055 # Tyrannical Gladiator's Satin Mantle [cloth shoulders]
+        costs:
+          1137642: 2
+
+      - id: 100067 # Tyrannical Gladiator's Mooncloth Robe [cloth chest]
+        costs:
+          1137642: 3
+
+      - id: 99998 # Tyrannical Gladiator's Satin Robe [cloth chest]
+        costs:
+          1137642: 3
+
+      - id: 99989 # Tyrannical Gladiator's Mooncloth Gloves [cloth hands]
+        costs:
+          1137642: 2
+
+      - id: 100093 # Tyrannical Gladiator's Satin Gloves [cloth hands]
+        costs:
+          1137642: 2
+
+      - id: 100090 # Tyrannical Gladiator's Mooncloth Leggings [cloth legs]
+        costs:
+          1137642: 3
+
+      - id: 99996 # Tyrannical Gladiator's Satin Leggings [cloth legs]
+        costs:
+          1137642: 3
+
+      # Rogue
+
+      - id: 100096 # Tyrannical Gladiator's Leather Helm [leather head]
+        costs:
+          1137642: 3
+
+      - id: 100117 # Tyrannical Gladiator's Leather Spaulders [leather shoulders]
+        costs:
+          1137642: 2
+
+      - id: 100113 # Tyrannical Gladiator's Leather Tunic [leather chest]
+        costs:
+          1137642: 3
+
+      - id: 100047 # Tyrannical Gladiator's Leather Gloves [leather hands]
+        costs:
+          1137642: 2
+
+      - id: 100116 # Tyrannical Gladiator's Leather Legguards [leather legs]
+        costs:
+          1137642: 3
+
+      # Shaman
+
+      - id: 100100 # Tyrannical Gladiator's Linked Helm [mail head]
+        costs:
+          1137642: 3
+
+      - id: 100079 # Tyrannical Gladiator's Mail Helm [mail head]
+        costs:
+          1137642: 3
+
+      - id: 100104 # Tyrannical Gladiator's Ringmail Helm [mail head]
+        costs:
+          1137642: 3
+
+      - id: 100012 # Tyrannical Gladiator's Linked Spaulders [mail shoulders]
+        costs:
+          1137642: 2
+
+      - id: 100020 # Tyrannical Gladiator's Mail Spaulders [mail shoulders]
+        costs:
+          1137642: 2
+
+      - id: 100039 # Tyrannical Gladiator's Ringmail Spaulders [mail shoulders]
+        costs:
+          1137642: 2
+
+      - id: 100145 # Tyrannical Gladiator's Linked Armor [mail chest]
+        costs:
+          1137642: 3
+
+      - id: 100129 # Tyrannical Gladiator's Mail Armor [mail chest]
+        costs:
+          1137642: 3
+
+      - id: 100103 # Tyrannical Gladiator's Ringmail Armor [mail chest]
+        costs:
+          1137642: 3
+
+      - id: 100128 # Tyrannical Gladiator's Linked Gauntlets [mail hands]
+        costs:
+          1137642: 2
+
+      - id: 100078 # Tyrannical Gladiator's Mail Gauntlets [mail hands]
+        costs:
+          1137642: 2
+
+      - id: 100160 # Tyrannical Gladiator's Ringmail Gauntlets [mail hands]
+        costs:
+          1137642: 2
+
+      - id: 100164 # Tyrannical Gladiator's Linked Leggings [mail legs]
+        costs:
+          1137642: 3
+
+      - id: 100167 # Tyrannical Gladiator's Mail Leggings [mail legs]
+        costs:
+          1137642: 3
+
+      - id: 100105 # Tyrannical Gladiator's Ringmail Leggings [mail legs]
+        costs:
+          1137642: 3
+
+      # Warlock
+
+      - id: 100112 # Tyrannical Gladiator's Felweave Cowl [cloth head]
+        costs:
+          1137642: 3
+
+      - id: 100068 # Tyrannical Gladiator's Felweave Amice [cloth shoulders]
+        costs:
+          1137642: 2
+
+      - id: 100045 # Tyrannical Gladiator's Felweave Raiment [cloth chest]
+        costs:
+          1137642: 3
+
+      - id: 100111 # Tyrannical Gladiator's Felweave Handguards [cloth hands]
+        costs:
+          1137642: 2
+
+      - id: 100141 # Tyrannical Gladiator's Felweave Trousers [cloth legs]
+        costs:
+          1137642: 3
+
+      # Warrior
+
+      - id: 99993 # Tyrannical Gladiator's Plate Helm [plate head]
+        costs:
+          1137642: 3
+
+      - id: 100071 # Tyrannical Gladiator's Plate Shoulders [plate shoulders]
+        costs:
+          1137642: 2
+
+      - id: 100114 # Tyrannical Gladiator's Plate Chestpiece [plate chest]
+        costs:
+          1137642: 3
+
+      - id: 99992 # Tyrannical Gladiator's Plate Gauntlets [plate hands]
+        costs:
+          1137642: 2
+
+      - id: 100118 # Tyrannical Gladiator's Plate Legguards [plate legs]
+        costs:
+          1137642: 3
+
+      # 20 set=257
+
+      # 20 set=258
+
+      - id: 100073 # Tyrannical Gladiator's Cuffs of Accuracy [cloth wrists]
+        costs:
+          1137642: 1
+
+      - id: 100050 # Tyrannical Gladiator's Cuffs of Meditation [cloth wrists]
+        costs:
+          1137642: 1
+
+      - id: 100119 # Tyrannical Gladiator's Cuffs of Prowess [cloth wrists]
+        costs:
+          1137642: 1
+
+      - id: 100046 # Tyrannical Gladiator's Cord of Accuracy [cloth waist]
+        costs:
+          1137642: 1
+
+      - id: 100095 # Tyrannical Gladiator's Cord of Meditation [cloth waist]
+        costs:
+          1137642: 1
+
+      - id: 100070 # Tyrannical Gladiator's Cord of Cruelty [cloth waist]
+        costs:
+          1137642: 1
+
+      - id: 99994 # Tyrannical Gladiator's Treads of Alacrity [cloth feet]
+        costs:
+          1137642: 2
+
+      - id: 100072 # Tyrannical Gladiator's Treads of Cruelty [cloth feet]
+        costs:
+          1137642: 2
+
+      - id: 100138 # Tyrannical Gladiator's Treads of Meditation [cloth feet]
+        costs:
+          1137642: 2
+
+      # 21 set=259
+
+      - id: 100097 # Tyrannical Gladiator's Armwraps of Accuracy [leather wrists]
+        costs:
+          1137642: 1
+
+      - id: 100140 # Tyrannical Gladiator's Armwraps of Alacrity [leather wrists]
+        costs:
+          1137642: 1
+
+      - id: 100077 # Tyrannical Gladiator's Bindings of Meditation [leather wrists]
+        costs:
+          1137642: 1
+
+      - id: 100109 # Tyrannical Gladiator's Bindings of Prowess [leather wrists]
+        costs:
+          1137642: 1
+
+      - id: 100080 # Tyrannical Gladiator's Belt of Cruelty [leather waist]
+        costs:
+          1137642: 1
+
+      - id: 100161 # Tyrannical Gladiator's Belt of Meditation [leather waist]
+        costs:
+          1137642: 1
+
+      - id: 100094 # Tyrannical Gladiator's Waistband of Accuracy [leather waist]
+        costs:
+          1137642: 1
+
+      - id: 100030 # Tyrannical Gladiator's Waistband of Cruelty [leather waist]
+        costs:
+          1137642: 1
+
+      - id: 100102 # Tyrannical Gladiator's Boots of Alacrity [leather feet]
+        costs:
+          1137642: 2
+
+      - id: 100044 # Tyrannical Gladiator's Boots of Cruelty [leather feet]
+        costs:
+          1137642: 2
+
+      - id: 100014 # Tyrannical Gladiator's Footguards of Alacrity [leather feet]
+        costs:
+          1137642: 2
+
+      - id: 100146 # Tyrannical Gladiator's Footguards of Meditation [leather feet]
+        costs:
+          1137642: 2
+
+      # 21 set=260
+
+      - id: 100004 # Tyrannical Gladiator's Armbands of Meditation [mail wrists]
+        costs:
+          1137642: 1
+
+      - id: 100049 # Tyrannical Gladiator's Armbands of Prowess [mail wrists]
+        costs:
+          1137642: 1
+
+      - id: 100139 # Tyrannical Gladiator's Wristguards of Accuracy [mail wrists]
+        costs:
+          1137642: 1
+
+      - id: 100074 # Tyrannical Gladiator's Wristguards of Alacrity [mail wrists]
+        costs:
+          1137642: 1
+
+      - id: 100028 # Tyrannical Gladiator's Links of Accuracy [mail waist]
+        costs:
+          1137642: 1
+
+      - id: 99991 # Tyrannical Gladiator's Links of Cruelty [mail waist]
+        costs:
+          1137642: 1
+
+      - id: 100063 # Tyrannical Gladiator's Waistguard of Cruelty [mail waist]
+        costs:
+          1137642: 1
+
+      - id: 100052 # Tyrannical Gladiator's Waistguard of Meditation [mail waist]
+        costs:
+          1137642: 1
+
+      - id: 100048 # Tyrannical Gladiator's Footguards of Alacrity [mail feet]
+        costs:
+          1137642: 2
+
+      - id: 100001 # Tyrannical Gladiator's Footguards of Meditation [mail feet]
+        costs:
+          1137642: 2
+
+      - id: 100029 # Tyrannical Gladiator's Sabatons of Alacrity [mail feet]
+        costs:
+          1137642: 2
+
+      - id: 100115 # Tyrannical Gladiator's Sabatons of Cruelty [mail feet]
+        costs:
+          1137642: 2
+
+      # 23
+
+      - id: 100157 # Tyrannical Gladiator's Armplates of Alacrity [plate wrists]
+        costs:
+          1137642: 1
+
+      - id: 100088 # Tyrannical Gladiator's Armplates of Proficiency [plate wrists]
+        costs:
+          1137642: 1
+
+      - id: 100151 # Tyrannical Gladiator's Bracers of Meditation [plate wrists]
+        costs:
+          1137642: 1
+
+      - id: 100081 # Tyrannical Gladiator's Bracers of Prowess [plate wrists]
+        costs:
+          1137642: 1
+
+      - id: 100150 # Tyrannical Gladiator's Clasp of Cruelty [plate waist]
+        costs:
+          1137642: 1
+
+      - id: 100134 # Tyrannical Gladiator's Clasp of Meditation [plate waist]
+        costs:
+          1137642: 1
+
+      - id: 100023 # Tyrannical Gladiator's Girdle of Accuracy [plate waist]
+        costs:
+          1137642: 1
+
+      - id: 100110 # Tyrannical Gladiator's Girdle of Prowess [plate waist]
+        costs:
+          1137642: 1
+
+      - id: 100021 # Tyrannical Gladiator's Greaves of Alacrity [plate feet]
+        costs:
+          1137642: 2
+
+      - id: 100022 # Tyrannical Gladiator's Greaves of Meditation [plate feet]
+        costs:
+          1137642: 2
+
+      - id: 100131 # Tyrannical Gladiator's Warboots of Alacrity [plate feet]
+        costs:
+          1137642: 2
+
+      - id: 100084 # Tyrannical Gladiator's Warboots of Cruelty [plate feet]
+        costs:
+          1137642: 2
+
+      # 0
+
+      - id: 100091 # Tyrannical Gladiator's Cape of Cruelty [cloak]
+        costs:
+          1137642: 1
+
+      - id: 100025 # Tyrannical Gladiator's Cape of Prowess [cloak]
+        costs:
+          1137642: 1
+
+      - id: 100155 # Tyrannical Gladiator's Cloak of Alacrity [cloak]
+        costs:
+          1137642: 1
+
+      - id: 100156 # Tyrannical Gladiator's Cloak of Prowess [cloak]
+        costs:
+          1137642: 1
+
+      - id: 100053 # Tyrannical Gladiator's Drape of Cruelty [cloak]
+        costs:
+          1137642: 1
+
+      - id: 100142 # Tyrannical Gladiator's Drape of Meditation [cloak]
+        costs:
+          1137642: 1
+
+      - id: 100158 # Tyrannical Gladiator's Drape of Prowess [cloak]
+        costs:
+          1137642: 1
+
+      # 0 set=288
+
+      - id: 99973 # Tyrannical Gladiator's Cleaver [1h ? axe]
+        costs:
+          1137642: 5
+
+      - id: 99978 # Tyrannical Gladiator's Hacker [1h ? axe]
+        costs:
+          1137642: 5
+
+      - id: 99983 # Tyrannical Gladiator's Bonecracker [1h ? mace]
+        costs:
+          1137642: 5
+
+      - id: 99963 # Tyrannical Gladiator's Gavel [1h ? mace]
+        costs:
+          1137642: 5
+
+      - id: 99965 # Tyrannical Gladiator's Pummeler [1h ? mace]
+        costs:
+          1137642: 5
+
+      - id: 99971 # Tyrannical Gladiator's Mageblade [1h ? sword]
+        costs:
+          1137642: 5
+
+      - id: 99986 # Tyrannical Gladiator's Quickblade [1h ? sword]
+        costs:
+          1137642: 5
+
+      - id: 99979 # Tyrannical Gladiator's Slicer [1h ? sword]
+        costs:
+          1137642: 5
+
+      - id: 99976 # Tyrannical Gladiator's Shanker [? dagger]
+        costs:
+          1137642: 5
+
+      - id: 99967 # Tyrannical Gladiator's Spellblade [? dagger]
+        costs:
+          1137642: 5
+
+      - id: 99982 # Tyrannical Gladiator's Render [fist]
+        costs:
+          1137642: 5
+
+      - id: 99977 # Tyrannical Gladiator's Ripper [fist]
+        costs:
+          1137642: 5
+
+      - id: 99984 # Tyrannical Gladiator's Decapitator [2h ? axe]
+        costs:
+          1137642: 5
+
+      - id: 99972 # Tyrannical Gladiator's Greatsword [2h ? sword]
+        costs:
+          1137642: 5
+
+      - id: 99974 # Tyrannical Gladiator's Battle Staff [staff]
+        costs:
+          1137642: 5
+
+      - id: 99981 # Tyrannical Gladiator's Energy Staff [staff]
+        costs:
+          1137642: 5
+
+      - id: 99968 # Tyrannical Gladiator's Staff [staff]
+        costs:
+          1137642: 5
+
+      - id: 99987 # Tyrannical Gladiator's Heavy Crossbow [crossbow]
+        costs:
+          1137642: 5
+
+      - id: 100172 # Tyrannical Gladiator's Endgame [off-hand]
+        costs:
+          1137642: 2
+
+      - id: 100169 # Tyrannical Gladiator's Reprieve [off-hand]
+        costs:
+          1137642: 2
+
+      - id: 100171 # Tyrannical Gladiator's Barrier [shield]
+        costs:
+          1137642: 2
+
+      - id: 100168 # Tyrannical Gladiator's Redoubt [shield]
+        costs:
+          1137642: 2
+
+      - id: 100170 # Tyrannical Gladiator's Shield Wall [shield]
+        costs:
+          1137642: 2

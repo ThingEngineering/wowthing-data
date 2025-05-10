@@ -1,0 +1,927 @@
+things:
+  - id: 78461
+    type: "vendor"
+    name: "Shonn Su"
+    note: "Prideful Gladiator" # S15
+
+    locations:
+      here: # kun_lai_summit
+        - 35.4 83.2 horde
+
+    groups:
+
+      - name: "S15 - Collections"
+        range: 12
+        sortKey: "9-15-0-1"
+
+      - name: "S15 - Illusions"
+        range: 1
+        sortKeys: "9-15-0-2"
+
+      - name: "S15 - Death Knight"
+        range: 5
+        sortKey: "9-15-1-deathknight"
+
+      - name: "S15 - Druid"
+        range: 15
+        sortKey: "9-15-1-druid"
+
+      - name: "S15 - Hunter"
+        range: 5
+        sortKey: "9-15-1-hunter"
+
+      - name: "S15 - Mage"
+        range: 5
+        sortKey: "9-15-1-mage"
+
+      - name: "S15 - Monk"
+        range: 10
+        sortKey: "9-15-1-monk"
+
+      - name: "S15 - Paladin"
+        range: 10
+        sortKey: "9-15-1-paladin"
+
+      - name: "S15 - Priest"
+        range: 10
+        sortKey: "9-15-1-priest"
+
+      - name: "S15 - Rogue"
+        range: 5
+        sortKey: "9-15-1-rogue"
+
+      - name: "S15 - Shaman"
+        range: 15
+        sortKey: "9-15-1-shaman"
+
+      - name: "S15 - Warlock"
+        range: 5
+        sortKey: "9-15-1-warlock"
+
+      - name: "S15 - Warrior"
+        range: 5
+        sortKey: "9-15-1-warrior"
+
+      - name: "S15 - Misc Cloth"
+        range: 9
+        sortKey: "9-15-2-1"
+
+      - name: "S15 - Misc Leather"
+        range: 12
+        sortKey: "9-15-2-2"
+
+      - name: "S15 - Misc Mail"
+        range: 12
+        sortKey: "9-15-2-3"
+
+      - name: "S15 - Misc Plate"
+        range: 12
+        sortKey: "9-15-2-4"
+
+      - name: "S15 - Cloaks"
+        range: 7
+        sortKey: "9-15-2-5"
+      
+      - name: "S15 - Weapons"
+        range: -1
+        sortKey: "9-15-3-1"
+
+    contents:
+
+      # Death Knight
+
+      - id: 138640 # Ensemble: Prideful Gladiator's Dreadplate Armor
+        costs:
+          1137642: 12
+
+      # Death Knight set=245
+
+      - id: 103378 # Prideful Gladiator's Dreadplate Helm [plate head]
+        costs:
+          1137642: 3
+
+      - id: 103380 # Prideful Gladiator's Dreadplate Shoulders [plate shoulders]
+        costs:
+          1137642: 2
+
+      - id: 103376 # Prideful Gladiator's Dreadplate Chestpiece [plate chest]
+        costs:
+          1137642: 3
+
+      - id: 103377 # Prideful Gladiator's Dreadplate Gauntlets [plate hands]
+        costs:
+          1137642: 2
+
+      - id: 103379 # Prideful Gladiator's Dreadplate Legguards [plate legs]
+        costs:
+          1137642: 3
+
+      # Druid
+
+      - id: 138648 # Ensemble: Prideful Gladiator's Dragonhide Armor
+        costs:
+          1137642: 12
+
+      # Druid set=244
+
+      - id: 103382 # Prideful Gladiator's Dragonhide Helm [leather head]
+        costs:
+          1137642: 3
+
+      - id: 103390 # Prideful Gladiator's Kodohide Helm [leather head]
+        costs:
+          1137642: 3
+
+      - id: 103399 # Prideful Gladiator's Wyrmhide Helm [leather head]
+        costs:
+          1137642: 3
+
+      - id: 103385 # Prideful Gladiator's Dragonhide Spaulders [leather shoulders]
+        costs:
+          1137642: 2
+
+      - id: 103393 # Prideful Gladiator's Kodohide Spaulders [leather shoulders]
+        costs:
+          1137642: 2
+
+      - id: 103402 # Prideful Gladiator's Wyrmhide Spaulders [leather shoulders]
+        costs:
+          1137642: 2
+
+      - id: 103384 # Prideful Gladiator's Dragonhide Robes [leather chest]
+        costs:
+          1137642: 3
+
+      - id: 103392 # Prideful Gladiator's Kodohide Robes [leather chest]
+        costs:
+          1137642: 3
+
+      - id: 103401 # Prideful Gladiator's Wyrmhide Robes [leather chest]
+        costs:
+          1137642: 3
+
+      - id: 103381 # Prideful Gladiator's Dragonhide Gloves [leather hands]
+        costs:
+          1137642: 2
+
+      - id: 103389 # Prideful Gladiator's Kodohide Gloves [leather hands]
+        costs:
+          1137642: 2
+
+      - id: 103398 # Prideful Gladiator's Wyrmhide Gloves [leather hands]
+        costs:
+          1137642: 2
+
+      - id: 103383 # Prideful Gladiator's Dragonhide Legguards [leather legs]
+        costs:
+          1137642: 3
+
+      - id: 103391 # Prideful Gladiator's Kodohide Legguards [leather legs]
+        costs:
+          1137642: 3
+
+      - id: 103400 # Prideful Gladiator's Wyrmhide Legguards [leather legs]
+        costs:
+          1137642: 3
+
+      # Hunter
+
+      - id: 138646 # Ensemble: Prideful Gladiator's Chain Armor
+        costs:
+          1137642: 12
+
+      # Hunter set=243
+
+      - id: 103418 # Prideful Gladiator's Chain Helm [mail head]
+        costs:
+          1137642: 3
+
+      - id: 103420 # Prideful Gladiator's Chain Spaulders [mail shoulders]
+        costs:
+          1137642: 2
+
+      - id: 103416 # Prideful Gladiator's Chain Armor [mail chest]
+        costs:
+          1137642: 3
+
+      - id: 103417 # Prideful Gladiator's Chain Gauntlets [mail hands]
+        costs:
+          1137642: 2
+
+      - id: 103419 # Prideful Gladiator's Chain Leggings [mail legs]
+        costs:
+          1137642: 3
+
+      # Mage
+
+      - id: 138654 # Ensemble: Prideful Gladiator's Silk Armor
+        costs:
+          1137642: 12
+
+      # Mage set=253
+
+      - id: 103422 # Prideful Gladiator's Silk Cowl [cloth head]
+        costs:
+          1137642: 3
+
+      - id: 103425 # Prideful Gladiator's Silk Amice [cloth shoulders]
+        costs:
+          1137642: 2
+
+      - id: 103424 # Prideful Gladiator's Silk Robe [cloth chest]
+        costs:
+          1137642: 3
+
+      - id: 103421 # Prideful Gladiator's Silk Handguards [cloth hands]
+        costs:
+          1137642: 2
+
+      - id: 103423 # Prideful Gladiator's Silk Trousers [cloth legs]
+        costs:
+          1137642: 3
+
+      # Monk
+
+      - id: 138650 # Ensemble: Prideful Gladiator's Ironskin Armor
+        costs:
+          1137642: 12
+
+      # Monk set=247
+
+      - id: 103435 # Prideful Gladiator's Copperskin Helm [leather head]
+        costs:
+          1137642: 3
+
+      - id: 103430 # Prideful Gladiator's Ironskin Helm [leather head]
+        costs:
+          1137642: 3
+
+      - id: 103437 # Prideful Gladiator's Copperskin Spaulders [leather shoulders]
+        costs:
+          1137642: 2
+
+      - id: 103432 # Prideful Gladiator's Ironskin Spaulders [leather shoulders]
+        costs:
+          1137642: 2
+
+      - id: 103438 # Prideful Gladiator's Copperskin Tunic [leather chest]
+        costs:
+          1137642: 3
+
+      - id: 103433 # Prideful Gladiator's Ironskin Tunic [leather chest]
+        costs:
+          1137642: 3
+
+      - id: 103434 # Prideful Gladiator's Copperskin Gloves [leather hands]
+        costs:
+          1137642: 2
+
+      - id: 103429 # Prideful Gladiator's Ironskin Gloves [leather hands]
+        costs:
+          1137642: 2
+
+      - id: 103436 # Prideful Gladiator's Copperskin Legguards [leather legs]
+        costs:
+          1137642: 3
+
+      - id: 103431 # Prideful Gladiator's Ironskin Legguards [leather legs]
+        costs:
+          1137642: 3
+
+      # Paladin
+
+      - id: 138642 # Ensemble: Prideful Gladiator's Scaled Armor
+        costs:
+          1137642: 12
+
+      # Paladin set=252
+
+      - id: 103452 # Prideful Gladiator's Ornamented Headcover [plate head]
+        costs:
+          1137642: 3
+
+      - id: 103441 # Prideful Gladiator's Scaled Helm [plate head]
+        costs:
+          1137642: 3
+
+      - id: 103454 # Prideful Gladiator's Ornamented Spaulders [plate shoulders]
+        costs:
+          1137642: 2
+
+      - id: 103443 # Prideful Gladiator's Scaled Shoulders [plate shoulders]
+        costs:
+          1137642: 2
+
+      - id: 103450 # Prideful Gladiator's Ornamented Chestguard [plate chest]
+        costs:
+          1137642: 3
+
+      - id: 103439 # Prideful Gladiator's Scaled Chestpiece [plate chest]
+        costs:
+          1137642: 3
+
+      - id: 103449 # Prideful Gladiator's Bracers of Meditation [plate wrists]
+        costs:
+          1137642: 1
+
+      - id: 103448 # Prideful Gladiator's Bracers of Prowess [plate wrists]
+        costs:
+          1137642: 1
+
+      - id: 103451 # Prideful Gladiator's Ornamented Gloves [plate hands]
+        costs:
+          1137642: 2
+
+      - id: 103440 # Prideful Gladiator's Scaled Gauntlets [plate hands]
+        costs:
+          1137642: 2
+
+      - id: 103444 # Prideful Gladiator's Clasp of Cruelty [plate waist]
+        costs:
+          1137642: 1
+
+      - id: 103445 # Prideful Gladiator's Clasp of Meditation [plate waist]
+        costs:
+          1137642: 1
+
+      - id: 103453 # Prideful Gladiator's Ornamented Legplates [plate legs]
+        costs:
+          1137642: 3
+
+      - id: 103442 # Prideful Gladiator's Scaled Legguards [plate legs]
+        costs:
+          1137642: 3
+
+      - id: 103446 # Prideful Gladiator's Greaves of Alacrity [plate feet]
+        costs:
+          1137642: 2
+
+      - id: 103447 # Prideful Gladiator's Greaves of Meditation [plate feet]
+        costs:
+          1137642: 2
+
+      # Priest
+
+      - id: 138656 # Ensemble: Prideful Gladiator's Satin Armor
+        costs:
+          1137642: 12
+
+      # Priest set=251
+
+      - id: 103463 # Prideful Gladiator's Mooncloth Helm [cloth head]
+        costs:
+          1137642: 3
+
+      - id: 103468 # Prideful Gladiator's Satin Hood [cloth head]
+        costs:
+          1137642: 3
+
+      - id: 103466 # Prideful Gladiator's Mooncloth Mantle [cloth shoulders]
+        costs:
+          1137642: 2
+
+      - id: 103471 # Prideful Gladiator's Satin Mantle [cloth shoulders]
+        costs:
+          1137642: 2
+
+      - id: 103465 # Prideful Gladiator's Mooncloth Robe [cloth chest]
+        costs:
+          1137642: 3
+
+      - id: 103470 # Prideful Gladiator's Satin Robe [cloth chest]
+        costs:
+          1137642: 3
+
+      - id: 103462 # Prideful Gladiator's Mooncloth Gloves [cloth hands]
+        costs:
+          1137642: 2
+
+      - id: 103467 # Prideful Gladiator's Satin Gloves [cloth hands]
+        costs:
+          1137642: 2
+
+      - id: 103464 # Prideful Gladiator's Mooncloth Leggings [cloth legs]
+        costs:
+          1137642: 3
+
+      - id: 103469 # Prideful Gladiator's Satin Leggings [cloth legs]
+        costs:
+          1137642: 3
+
+      # Rogue
+
+      - id: 138652 # Ensemble: Prideful Gladiator's Leather Armor
+        costs:
+          1137642: 12
+
+      # Rogue set=248
+
+      - id: 103477 # Prideful Gladiator's Leather Helm [leather head]
+        costs:
+          1137642: 3
+
+      - id: 103479 # Prideful Gladiator's Leather Spaulders [leather shoulders]
+        costs:
+          1137642: 2
+
+      - id: 103475 # Prideful Gladiator's Leather Tunic [leather chest]
+        costs:
+          1137642: 3
+
+      - id: 103476 # Prideful Gladiator's Leather Gloves [leather hands]
+        costs:
+          1137642: 2
+
+      - id: 103478 # Prideful Gladiator's Leather Legguards [leather legs]
+        costs:
+          1137642: 3
+
+      # Shaman
+
+      - id: 138644 # Ensemble: Prideful Gladiator's Ringmail Armor
+        costs:
+          1137642: 12
+
+      # Shaman set=250
+
+      - id: 103492 # Prideful Gladiator's Linked Helm [mail head]
+        costs:
+          1137642: 3
+
+      - id: 103498 # Prideful Gladiator's Mail Helm [mail head]
+        costs:
+          1137642: 3
+
+      - id: 103487 # Prideful Gladiator's Ringmail Helm [mail head]
+        costs:
+          1137642: 3
+
+      - id: 103494 # Prideful Gladiator's Linked Spaulders [mail shoulders]
+        costs:
+          1137642: 2
+
+      - id: 103500 # Prideful Gladiator's Mail Spaulders [mail shoulders]
+        costs:
+          1137642: 2
+
+      - id: 103489 # Prideful Gladiator's Ringmail Spaulders [mail shoulders]
+        costs:
+          1137642: 2
+
+      - id: 103490 # Prideful Gladiator's Linked Armor [mail chest]
+        costs:
+          1137642: 3
+
+      - id: 103496 # Prideful Gladiator's Mail Armor [mail chest]
+        costs:
+          1137642: 3
+
+      - id: 103485 # Prideful Gladiator's Ringmail Armor [mail chest]
+        costs:
+          1137642: 3
+
+      - id: 103484 # Prideful Gladiator's Armbands of Meditation [mail wrists]
+        costs:
+          1137642: 1
+
+      - id: 103483 # Prideful Gladiator's Armbands of Prowess [mail wrists]
+        costs:
+          1137642: 1
+
+      - id: 103491 # Prideful Gladiator's Linked Gauntlets [mail hands]
+        costs:
+          1137642: 2
+
+      - id: 103497 # Prideful Gladiator's Mail Gauntlets [mail hands]
+        costs:
+          1137642: 2
+
+      - id: 103486 # Prideful Gladiator's Ringmail Gauntlets [mail hands]
+        costs:
+          1137642: 2
+
+      - id: 103495 # Prideful Gladiator's Waistguard of Cruelty [mail waist]
+        costs:
+          1137642: 1
+
+      - id: 103480 # Prideful Gladiator's Waistguard of Meditation [mail waist]
+        costs:
+          1137642: 1
+
+      - id: 103493 # Prideful Gladiator's Linked Leggings [mail legs]
+        costs:
+          1137642: 3
+
+      - id: 103499 # Prideful Gladiator's Mail Leggings [mail legs]
+        costs:
+          1137642: 3
+
+      - id: 103488 # Prideful Gladiator's Ringmail Leggings [mail legs]
+        costs:
+          1137642: 3
+
+      - id: 103481 # Prideful Gladiator's Footguards of Alacrity [mail feet]
+        costs:
+          1137642: 2
+
+      - id: 103482 # Prideful Gladiator's Footguards of Meditation [mail feet]
+        costs:
+          1137642: 2
+
+      # Warlock
+
+      - id: 138658 # Ensemble: Prideful Gladiator's Felweave Armor
+        costs:
+          1137642: 12
+
+      # Warlock set=246
+
+      - id: 103521 # Prideful Gladiator's Felweave Cowl [cloth head]
+        costs:
+          1137642: 3
+
+      - id: 103524 # Prideful Gladiator's Felweave Amice [cloth shoulders]
+        costs:
+          1137642: 2
+
+      - id: 103523 # Prideful Gladiator's Felweave Raiment [cloth chest]
+        costs:
+          1137642: 3
+
+      - id: 103520 # Prideful Gladiator's Felweave Handguards [cloth hands]
+        costs:
+          1137642: 2
+
+      - id: 103522 # Prideful Gladiator's Felweave Trousers [cloth legs]
+        costs:
+          1137642: 3
+
+      # Warrior
+
+      - id: 138638 # Ensemble: Prideful Gladiator's Plate Armor
+        costs:
+          1137642: 12
+
+      # Warrior set=249
+
+      - id: 103527 # Prideful Gladiator's Plate Helm [plate head]
+        costs:
+          1137642: 3
+
+      - id: 103529 # Prideful Gladiator's Plate Shoulders [plate shoulders]
+        costs:
+          1137642: 2
+
+      - id: 103525 # Prideful Gladiator's Plate Chestpiece [plate chest]
+        costs:
+          1137642: 3
+
+      - id: 103526 # Prideful Gladiator's Plate Gauntlets [plate hands]
+        costs:
+          1137642: 2
+
+      - id: 103528 # Prideful Gladiator's Plate Legguards [plate legs]
+        costs:
+          1137642: 3
+
+      # 20 set=246
+
+      - id: 103357 # Prideful Gladiator's Cuffs of Accuracy [cloth wrists]
+        costs:
+          1137642: 1
+
+      - id: 103352 # Prideful Gladiator's Cord of Accuracy [cloth waist]
+        costs:
+          1137642: 1
+
+      - id: 103355 # Prideful Gladiator's Treads of Alacrity [cloth feet]
+        costs:
+          1137642: 2
+
+      # 20 set=251
+
+      - id: 103359 # Prideful Gladiator's Cuffs of Meditation [cloth wrists]
+        costs:
+          1137642: 1
+
+      - id: 147362 # Prideful Gladiator's Cord of Prowess [cloth waist]
+        costs:
+          1137642: 1
+
+      - id: 103356 # Prideful Gladiator's Treads of Meditation [cloth feet]
+        costs:
+          1137642: 2
+
+      # 20 set=253
+
+      - id: 103358 # Prideful Gladiator's Cuffs of Prowess [cloth wrists]
+        costs:
+          1137642: 1
+
+      - id: 103351 # Prideful Gladiator's Cord of Cruelty [cloth waist]
+        costs:
+          1137642: 1
+
+      - id: 103354 # Prideful Gladiator's Treads of Cruelty [cloth feet]
+        costs:
+          1137642: 2
+
+      # 20
+
+      - id: 103353 # Prideful Gladiator's Cord of Meditation [cloth waist]
+        costs:
+          1137642: 1
+
+      # 21 set=247
+
+      - id: 103428 # Prideful Gladiator's Armwraps of Accuracy [leather wrists]
+        costs:
+          1137642: 1
+
+      - id: 103426 # Prideful Gladiator's Waistband of Cruelty [leather waist]
+        costs:
+          1137642: 1
+
+      - id: 103427 # Prideful Gladiator's Boots of Alacrity [leather feet]
+        costs:
+          1137642: 2
+
+      # 21 set=248
+
+      - id: 103474 # Prideful Gladiator's Armwraps of Alacrity [leather wrists]
+        costs:
+          1137642: 1
+
+      - id: 103472 # Prideful Gladiator's Waistband of Accuracy [leather waist]
+        costs:
+          1137642: 1
+
+      - id: 103473 # Prideful Gladiator's Boots of Cruelty [leather feet]
+        costs:
+          1137642: 2
+
+      # 22 set=243
+
+      - id: 103415 # Prideful Gladiator's Wristguards of Accuracy [mail wrists]
+        costs:
+          1137642: 1
+
+      - id: 103414 # Prideful Gladiator's Wristguards of Alacrity [mail wrists]
+        costs:
+          1137642: 1
+
+      - id: 103411 # Prideful Gladiator's Links of Accuracy [mail waist]
+        costs:
+          1137642: 1
+
+      - id: 103410 # Prideful Gladiator's Links of Cruelty [mail waist]
+        costs:
+          1137642: 1
+
+      - id: 103413 # Prideful Gladiator's Sabatons of Alacrity [mail feet]
+        costs:
+          1137642: 2
+
+      - id: 103412 # Prideful Gladiator's Sabatons of Cruelty [mail feet]
+        costs:
+          1137642: 2
+      # Skipped id=103515 name=Prideful Gladiator's Choker of Accuracy slot=2
+      # Skipped id=103514 name=Prideful Gladiator's Choker of Proficiency slot=2
+      # Skipped id=103518 name=Prideful Gladiator's Signet of Accuracy slot=11
+      # Skipped id=103517 name=Prideful Gladiator's Signet of Cruelty slot=11
+
+      # 23
+
+      - id: 103512 # Prideful Gladiator's Cloak of Alacrity [cloak]
+        costs:
+          1137642: 1
+
+      - id: 103513 # Prideful Gladiator's Cloak of Prowess [cloak]
+        costs:
+          1137642: 1
+      # Skipped id=103345 name=Prideful Gladiator's Necklace of Proficiency slot=2
+      # Skipped id=103346 name=Prideful Gladiator's Necklace of Prowess slot=2
+      # Skipped id=103368 name=Prideful Gladiator's Pendant of Alacrity slot=2
+      # Skipped id=103367 name=Prideful Gladiator's Pendant of Cruelty slot=2
+      # Skipped id=103369 name=Prideful Gladiator's Pendant of Meditation slot=2
+      # Skipped id=103371 name=Prideful Gladiator's Band of Accuracy slot=11
+      # Skipped id=103370 name=Prideful Gladiator's Band of Cruelty slot=11
+      # Skipped id=103372 name=Prideful Gladiator's Band of Meditation slot=11
+      # Skipped id=103349 name=Prideful Gladiator's Ring of Accuracy slot=11
+      # Skipped id=103348 name=Prideful Gladiator's Ring of Cruelty slot=11
+      # Skipped id=103342 name=Prideful Gladiator's Badge of Conquest slot=12
+      # Skipped id=103342 name=Prideful Gladiator's Badge of Conquest slot=12
+      # Skipped id=103505 name=Prideful Gladiator's Badge of Dominance slot=12
+      # Skipped id=103505 name=Prideful Gladiator's Badge of Dominance slot=12
+      # Skipped id=103511 name=Prideful Gladiator's Badge of Victory slot=12
+      # Skipped id=103511 name=Prideful Gladiator's Badge of Victory slot=12
+      # Skipped id=103407 name=Prideful Gladiator's Emblem of Cruelty slot=12
+      # Skipped id=103407 name=Prideful Gladiator's Emblem of Cruelty slot=12
+      # Skipped id=103409 name=Prideful Gladiator's Emblem of Meditation slot=12
+      # Skipped id=103409 name=Prideful Gladiator's Emblem of Meditation slot=12
+      # Skipped id=103408 name=Prideful Gladiator's Emblem of Tenacity slot=12
+      # Skipped id=103408 name=Prideful Gladiator's Emblem of Tenacity slot=12
+      # Skipped id=103347 name=Prideful Gladiator's Insignia of Conquest slot=12
+      # Skipped id=103347 name=Prideful Gladiator's Insignia of Conquest slot=12
+      # Skipped id=103506 name=Prideful Gladiator's Insignia of Dominance slot=12
+      # Skipped id=103506 name=Prideful Gladiator's Insignia of Dominance slot=12
+      # Skipped id=103516 name=Prideful Gladiator's Insignia of Victory slot=12
+      # Skipped id=103516 name=Prideful Gladiator's Insignia of Victory slot=12
+      # Skipped id=103531 name=Prideful Gladiator's Medallion of Cruelty slot=12
+      # Skipped id=103531 name=Prideful Gladiator's Medallion of Cruelty slot=12
+      # Skipped id=103532 name=Prideful Gladiator's Medallion of Meditation slot=12
+      # Skipped id=103532 name=Prideful Gladiator's Medallion of Meditation slot=12
+      # Skipped id=103530 name=Prideful Gladiator's Medallion of Tenacity slot=12
+      # Skipped id=103530 name=Prideful Gladiator's Medallion of Tenacity slot=12
+
+      # 0
+
+      - id: 144250 # Arsenal: Prideful Gladiator's Weapons
+        costs:
+          1137642: 80
+
+      - id: 120286 # Enchanter's Illusion - Glorious Tyranny
+        costs:
+          1137642: 10
+
+      # 0 set=244
+
+      - id: 103388 # Prideful Gladiator's Bindings of Meditation [leather wrists]
+        costs:
+          1137642: 1
+
+      - id: 103397 # Prideful Gladiator's Bindings of Prowess [leather wrists]
+        costs:
+          1137642: 1
+
+      - id: 103395 # Prideful Gladiator's Belt of Cruelty [leather waist]
+        costs:
+          1137642: 1
+
+      - id: 103386 # Prideful Gladiator's Belt of Meditation [leather waist]
+        costs:
+          1137642: 1
+
+      - id: 103396 # Prideful Gladiator's Footguards of Alacrity [leather feet]
+        costs:
+          1137642: 2
+
+      - id: 103387 # Prideful Gladiator's Footguards of Meditation [leather feet]
+        costs:
+          1137642: 2
+
+      # 0 set=245
+
+      - id: 103460 # Prideful Gladiator's Armplates of Alacrity [plate wrists]
+        costs:
+          1137642: 1
+
+      - id: 103455 # Prideful Gladiator's Girdle of Accuracy [plate waist]
+        costs:
+          1137642: 1
+
+      - id: 103458 # Prideful Gladiator's Warboots of Alacrity [plate feet]
+        costs:
+          1137642: 2
+
+      # 0 set=249
+
+      - id: 103459 # Prideful Gladiator's Armplates of Proficiency [plate wrists]
+        costs:
+          1137642: 1
+
+      - id: 103456 # Prideful Gladiator's Girdle of Prowess [plate waist]
+        costs:
+          1137642: 1
+
+      - id: 103457 # Prideful Gladiator's Warboots of Cruelty [plate feet]
+        costs:
+          1137642: 2
+
+      # 0
+
+      - id: 103343 # Prideful Gladiator's Cape of Cruelty [cloak]
+        costs:
+          1137642: 1
+
+      - id: 103344 # Prideful Gladiator's Cape of Prowess [cloak]
+        costs:
+          1137642: 1
+
+      - id: 103360 # Prideful Gladiator's Drape of Cruelty [cloak]
+        costs:
+          1137642: 1
+
+      - id: 103362 # Prideful Gladiator's Drape of Meditation [cloak]
+        costs:
+          1137642: 1
+
+      - id: 103361 # Prideful Gladiator's Drape of Prowess [cloak]
+        costs:
+          1137642: 1
+
+      # 0 set=291
+
+      - id: 103339 # Prideful Gladiator's Cleaver [1h ? axe]
+        costs:
+          1137642: 5
+
+      - id: 103508 # Prideful Gladiator's Hacker [1h ? axe]
+        costs:
+          1137642: 5
+
+      - id: 103509 # Prideful Gladiator's Bonecracker [1h ? mace]
+        costs:
+          1137642: 5
+
+      - id: 103404 # Prideful Gladiator's Gavel [1h ? mace]
+        costs:
+          1137642: 5
+
+      - id: 103340 # Prideful Gladiator's Pummeler [1h ? mace]
+        costs:
+          1137642: 5
+
+      - id: 103504 # Prideful Gladiator's Mageblade [1h ? sword]
+        costs:
+          1137642: 5
+
+      - id: 103341 # Prideful Gladiator's Quickblade [1h ? sword]
+        costs:
+          1137642: 5
+
+      - id: 103510 # Prideful Gladiator's Slicer [1h ? sword]
+        costs:
+          1137642: 5
+
+      - id: 103501 # Prideful Gladiator's Shanker [? dagger]
+        costs:
+          1137642: 5
+
+      - id: 103365 # Prideful Gladiator's Spellblade [? dagger]
+        costs:
+          1137642: 5
+
+      - id: 103503 # Prideful Gladiator's Render [fist]
+        costs:
+          1137642: 5
+
+      - id: 103502 # Prideful Gladiator's Ripper [fist]
+        costs:
+          1137642: 5
+
+      - id: 103336 # Prideful Gladiator's Decapitator [2h ? axe]
+        costs:
+          1137642: 5
+
+      - id: 103338 # Prideful Gladiator's Greatsword [2h ? sword]
+        costs:
+          1137642: 5
+
+      - id: 103461 # Prideful Gladiator's Pike [polearm]
+        costs:
+          1137642: 5
+
+      - id: 103366 # Prideful Gladiator's Battle Staff [staff]
+        costs:
+          1137642: 5
+
+      - id: 103406 # Prideful Gladiator's Energy Staff [staff]
+        costs:
+          1137642: 5
+
+      - id: 103350 # Prideful Gladiator's Longbow [bow]
+        costs:
+          1137642: 5
+
+      - id: 103403 # Prideful Gladiator's Rifle [gun]
+        costs:
+          1137642: 5
+
+      - id: 103507 # Prideful Gladiator's Baton of Light [wand]
+        costs:
+          1137642: 5
+
+      - id: 103374 # Prideful Gladiator's Touch of Defeat [wand]
+        costs:
+          1137642: 5
+
+      - id: 103363 # Prideful Gladiator's Endgame [off-hand]
+        costs:
+          1137642: 2
+
+      - id: 103373 # Prideful Gladiator's Reprieve [off-hand]
+        costs:
+          1137642: 2
+
+      - id: 103364 # Prideful Gladiator's Barrier [shield]
+        costs:
+          1137642: 2
+
+      - id: 103405 # Prideful Gladiator's Redoubt [shield]
+        costs:
+          1137642: 2
+
+      - id: 103519 # Prideful Gladiator's Shield Wall [shield]
+        costs:
+          1137642: 2
