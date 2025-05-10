@@ -1,0 +1,29 @@
+things:
+  - id: 14847
+    type: "vendor"
+    name: "Professor Thaddeus Paleo"
+    note: "Darkmoon Cards"
+
+    locations:
+      here: # unknown
+        - 51.4 60.4
+
+    contents:
+
+      # 0
+
+      - id: 137790 # Technique: Darkmoon Card of the Legion (Rank 2)
+        costs:
+          515: 50
+
+      - id: 137791 # Technique: Darkmoon Card of the Legion (Rank 3)
+        costs:
+          515: 250
+
+      - id: 137745 # Technique: Prophecy Tarot (Rank 2)
+        costs:
+          515: 5
+
+      - id: 137746 # Technique: Prophecy Tarot (Rank 3)
+        costs:
+          515: 35

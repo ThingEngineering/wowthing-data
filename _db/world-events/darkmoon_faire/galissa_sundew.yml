@@ -1,0 +1,61 @@
+things:
+  - id: 55103
+    type: "vendor"
+    name: "Galissa Sundew"
+    note: "Fishing Prizes"
+
+    locations:
+      here: # unknown
+        - 52.4 88.4
+        - 52.4 88.6
+        - 52.6 88.4
+        - 52.6 88.6
+
+    contents:
+
+      - id: 142398 # Darkwater Skate [mount]
+        costs:
+          1124669: 500
+
+      - id: 126925 # Blorp's Bubble [pet]
+        costs:
+          1124669: 50
+
+      - id: 126926 # Translucent Shell [pet]
+        costs:
+          1124669: 100
+
+      - id: 126931 # Seafarer's Slidewhistle [toy]
+        costs:
+          1124669: 25
+
+      # 0
+
+      - id: 126930 # Faded Treasure Map
+        costs:
+          1124669: 100
+        note: "Faded Treasure Map, rewards {price:100|515}"
+
+      - id: 184689 # Recipe: Extra Fancy Darkmoon Feast
+        costs:
+          1124669: 50
+
+      - id: 184683 # Recipe: Extra Lemony Herb Filet
+        costs:
+          1124669: 10
+
+      - id: 184625 # Recipe: Extra Sugary Fish Feast
+        costs:
+          1124669: 25
+
+      - id: 126929 # Recipe: Fancy Darkmoon Feast
+        costs:
+          1124669: 50
+
+      - id: 126928 # Recipe: Lemon Herb Filet
+        costs:
+          1124669: 10
+
+      - id: 126927 # Recipe: Sugar-Crusted Fish Feast
+        costs:
+          1124669: 25

@@ -1,0 +1,32 @@
+things:
+  - id: 108785
+    type: "vendor"
+    name: "Scarlet Quartermaster"
+
+    locations:
+      here: # unknown
+        - 58 80.4
+
+    groups:
+      - name: "Scarlet Crusade"
+        range: -1
+
+    contents:
+
+      # 22
+
+      - id: 138430 # Ensemble: Chain of the Scarlet Crusade
+        costs:
+          0: 10000 # Gold
+
+      # 23
+
+      - id: 138431 # Ensemble: Scale of the Scarlet Crusade
+        costs:
+          0: 10000 # Gold
+
+      # 0
+
+      - id: 138429 # Cropped Tabard of the Scarlet Crusade [tabard]
+        costs:
+          0: 25000 # Gold
