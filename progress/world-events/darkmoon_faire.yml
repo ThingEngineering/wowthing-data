@@ -1,9 +1,25 @@
 name: "Darkmoon Faire"
 groups:
   
+- name: "{item:71634}"
+  icon: "item/71634"
+  iconText: "Drops"
+  lookup: faction
+  type: quest
+  data:
+    alliance:
+      - id: 7905
+        name: "The Darkmoon Faire"
+        description: "Gives {item:71634} to get DMF drops"
+
+    horde:
+      - id: 7926
+        name: "The Darkmoon Faire"
+        description: "Gives {item:71634} to get DMF drops"
+
 - name: "Darkmoon Faire"
   icon: "achievement/6019" # Come One, Come All!
-  iconText: "DMF"
+  iconText: "Fish"
   lookup: none
   type: quest
   data:
