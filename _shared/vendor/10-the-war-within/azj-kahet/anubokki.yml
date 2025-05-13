@@ -1,6 +1,7 @@
 id: 224729
 name: "Anub'okki"
 note: "Disciple of Anub'azal"
+zoneMapsGroupId: 1
 
 locations:
   10-the-war-within/azj-kahet:

@@ -1,7 +1,8 @@
 id: 224734
 name: "Bobbin"
 note: "Eye of the Weaver"
-
+zoneMapsGroupId: 1
+ 
 locations:
   10-the-war-within/azj-kahet:
     - 56.4 43.2

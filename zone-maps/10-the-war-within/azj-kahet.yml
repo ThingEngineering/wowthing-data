@@ -2,3 +2,8 @@ name: "Azj-Kahet"
 mapName: "10-the-war-within/azj-kahet"
 minimumLevel: 70
 farms:
+
+- name: "The Weaver's Lair"
+  groupId: 1
+  location: 57 44
+  type: group

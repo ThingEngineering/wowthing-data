@@ -1,7 +1,8 @@
 id: 228184
 name: "Yamas the Provider"
 note: "Pact Dealer & Information"
-
+zoneMapsGroupId: 1
+ 
 locations:
   10-the-war-within/azj-kahet:
     - 55.2 41.4

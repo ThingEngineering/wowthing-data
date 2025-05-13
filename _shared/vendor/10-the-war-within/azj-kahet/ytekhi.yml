@@ -1,6 +1,7 @@
 id: 220867
 name: "Y'tekhi"
 note: "Renown Quartermaster"
+zoneMapsGroupId: 1
 
 locations:
   10-the-war-within/azj-kahet:

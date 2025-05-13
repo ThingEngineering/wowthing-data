@@ -1,6 +1,7 @@
 id: 224733
 name: "Tulumun"
 note: "Assistant to the Executor"
+zoneMapsGroupId: 1
 
 locations:
   10-the-war-within/azj-kahet:
