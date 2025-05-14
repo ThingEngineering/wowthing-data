@@ -3,6 +3,7 @@ things:
     type: "vendor"
     name: "Boatswain Hardee"
     note: "Blackwater Quartermaster"
+    highlightQuestId: 84954
 
     locations:
       here: # undermine

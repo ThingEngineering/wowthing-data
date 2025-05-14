@@ -3,6 +3,7 @@ things:
     type: "vendor"
     name: "Shredz the Scrapper"
     note: "Venture Quartermaster"
+    highlightQuestId: 84953
 
     locations:
       here: # undermine

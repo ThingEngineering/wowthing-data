@@ -2,9 +2,10 @@ things:
   - id: 234499
     type: "npc"
     name: "Giovante"
-    note: "Unwitting Trial"
+    note: "Requires a Steamwheedle stan to activate"
     reset: "weekly"
     trackingQuestId: 86307
+    highlightQuestId: 84952
 
     locations:
       here: # undermine

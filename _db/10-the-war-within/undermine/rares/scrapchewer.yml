@@ -2,9 +2,10 @@ things:
   - id: 233471
     type: "npc"
     name: "Scrapchewer"
-    note: "Workplace Liability"
+    note: "Requires a Venture Co stan to activate"
     reset: "weekly"
     trackingQuestId: 85778
+    highlightQuestId: 84953
 
     locations:
       here: # undermine

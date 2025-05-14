@@ -3,6 +3,7 @@ things:
     type: "vendor"
     name: "Lab Assistant Laszly"
     note: "Steamwheedle Quartermaster"
+    highlightQuestId: 84952
 
     locations:
       here: # undermine

@@ -2,12 +2,14 @@ things:
   - id: 234480
     type: "npc"
     name: "M.A.G.N.O."
+    note: "Requires a Bilgewater stan to activate"
     reset: "weekly"
     trackingQuestId: 86298
+    highlightQuestId: 84951
 
     locations:
       here: # undermine
-        - 36.7 26.3
+        - 40.0 22.3
 
     contents:
 

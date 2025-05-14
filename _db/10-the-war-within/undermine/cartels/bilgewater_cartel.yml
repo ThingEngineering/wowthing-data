@@ -3,6 +3,7 @@ things:
     type: "vendor"
     name: "Rocco Razzboom"
     note: "Bilgewater Quartermaster"
+    highlightQuestId: 84951
 
     locations:
       here: # undermine
