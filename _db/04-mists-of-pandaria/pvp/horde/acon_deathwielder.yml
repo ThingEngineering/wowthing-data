@@ -2,7 +2,7 @@ things:
   - id: 75695
     type: "vendor"
     name: "Acon Deathwielder"
-    note: "Grievous Gladiator"
+    note: "Grievous Gladiator" # S15
 
     locations:
       here: # kun_lai_summit

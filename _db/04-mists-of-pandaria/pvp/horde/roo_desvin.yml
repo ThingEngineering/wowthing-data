@@ -2,7 +2,7 @@ things:
   - id: 75688
     type: "vendor"
     name: "Roo Desvin"
-    note: "Tyrannical Gladiator"
+    note: "Tyrannical Gladiator" # S14
 
     locations:
       here: # kun_lai_summit

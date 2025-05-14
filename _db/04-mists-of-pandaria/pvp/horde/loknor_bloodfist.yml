@@ -2,7 +2,7 @@ things:
   - id: 75690
     type: "vendor"
     name: "Lok'nor Bloodfist"
-    note: "Dreadful Gladiator"
+    note: "Dreadful Gladiator" # S12
 
     locations:
       here: # kun_lai_summit
