@@ -54,6 +54,7 @@ things:
           2815: 5000
 
       - id: 235608 # Nightfall Sanctum Campsite
+        trackingQuestId: 86878
         costs:
           2815: 10
 
