@@ -4,6 +4,19 @@ tags:
   - "treasure"
 
 things:
+
+  - type: "object"
+    id: 504096
+    name: "Crumpled Schematics"
+    reset: "never"
+    trackingQuestId: 86487
+    locations:
+      here:
+        - "42.3 82.2"
+    contents:
+      - type: "item"
+        id: 235037 # Crumpled Schematic: Wormhole Generator: Undermine
+
   - type: "object"
     id: 499090
     name: "{item:235220}"
