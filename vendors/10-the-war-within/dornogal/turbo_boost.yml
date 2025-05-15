@@ -1,0 +1,5 @@
+name: "Turbo Boost"
+vendorMaps:
+  - "10-the-war-within/dornogal"
+vendorTags:
+  - "event:turbo-boost"

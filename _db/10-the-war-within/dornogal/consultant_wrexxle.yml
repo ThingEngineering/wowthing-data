@@ -1,0 +1,222 @@
+things:
+  - id: 240481
+    type: "vendor"
+    name: "Consultant Wrexxle"
+    note: "Undermine Dealer"
+
+    locations:
+      here: # dornogal
+        - 52.5 46.2
+
+    tags:
+      - "event:turbo-boost"
+
+    groups:
+
+      - name: "Cartel Chip - Heroic"
+        range: 22
+        sortKey: "cartel-chip-1"
+        bonusIds: [10355]
+
+      - name: "Cartel Chip - Mythic"
+        range: 22
+        sortKey: "cartel-chip-2"
+        bonusIds: [10356]
+
+      - name: "Cartel Chip - Shared"
+        range: 3
+        sortKey: "cartel-chip-3"
+
+    contents:
+
+      - id: 228844 # Test Pilot's Go-Pack [back]
+        costs:
+          1237502: 3
+
+      - id: 228901 # Big Earner's Bludgeon [1h mace]
+        costs:
+          1237502: 3
+
+      - id: 228899 # Gallywix's Iron Thumb [1h mace]
+        costs:
+          1237502: 3
+
+      - id: 228902 # Wiseguy's Refused Offer [1h mace]
+        costs:
+          1237502: 3
+
+      - id: 231268 # Blastfurious Machete [1h sword]
+        costs:
+          1237502: 3
+
+      - id: 228895 # Remixed Ignition Saber [1h sword]
+        costs:
+          1237502: 3
+
+      - id: 228897 # Pyrotechnic Needle-Dropper [dagger]
+        costs:
+          1237502: 3
+
+      - id: 231266 # Random Number Perforator [dagger]
+        costs:
+          1237502: 3
+
+      - id: 228896 # Stix's Metal Detector [dagger]
+        costs:
+          1237502: 3
+
+      - id: 228904 # Crowd Favorite [fist]
+        costs:
+          1237502: 3
+
+      - id: 228894 # GIGADEATH Chainblade [warglaive]
+        costs:
+          1237502: 3
+
+      - id: 228903 # Dumpster Diver [2h axe]
+        costs:
+          1237502: 3
+
+      - id: 228891 # Capital Punisher [2h mace]
+        costs:
+          1237502: 3
+
+      - id: 228905 # Giga Bank-Breaker [polearm]
+        costs:
+          1237502: 3
+
+      - id: 228898 # Alphacoil Ba-Boom Stick [staff]
+        costs:
+          1237502: 3
+
+      - id: 228892 # Greasemonkey's Shift-Stick [staff]
+        costs:
+          1237502: 3
+
+      - id: 228900 # Tournament Arc [bow]
+        costs:
+          1237502: 3
+
+      - id: 228893 # "Tiny Pal" [gun]
+        costs:
+          1237502: 3
+
+      - id: 228906 # Operator's Fraud Detector [off-hand]
+        costs:
+          1237502: 3
+
+      - id: 228890 # Superfan's Beater-Buzzer [off-hand]
+        costs:
+          1237502: 3
+
+      - id: 231311 # Frontman's Wondrous Wall [shield]
+        costs:
+          1237502: 3
+
+      - id: 228889 # Titan of Industry [shield]
+        costs:
+          1237502: 3
+
+      # - sets can't overlap, duplicates for mythic
+
+      - id: 228844 # Test Pilot's Go-Pack [back]
+        costs:
+          1237502: 3
+
+      - id: 228901 # Big Earner's Bludgeon [1h mace]
+        costs:
+          1237502: 3
+
+      - id: 228899 # Gallywix's Iron Thumb [1h mace]
+        costs:
+          1237502: 3
+
+      - id: 228902 # Wiseguy's Refused Offer [1h mace]
+        costs:
+          1237502: 3
+
+      - id: 231268 # Blastfurious Machete [1h sword]
+        costs:
+          1237502: 3
+
+      - id: 228895 # Remixed Ignition Saber [1h sword]
+        costs:
+          1237502: 3
+
+      - id: 228897 # Pyrotechnic Needle-Dropper [dagger]
+        costs:
+          1237502: 3
+
+      - id: 231266 # Random Number Perforator [dagger]
+        costs:
+          1237502: 3
+
+      - id: 228896 # Stix's Metal Detector [dagger]
+        costs:
+          1237502: 3
+
+      - id: 228904 # Crowd Favorite [fist]
+        costs:
+          1237502: 3
+
+      - id: 228894 # GIGADEATH Chainblade [warglaive]
+        costs:
+          1237502: 3
+
+      - id: 228903 # Dumpster Diver [2h axe]
+        costs:
+          1237502: 3
+
+      - id: 228891 # Capital Punisher [2h mace]
+        costs:
+          1237502: 3
+
+      - id: 228905 # Giga Bank-Breaker [polearm]
+        costs:
+          1237502: 3
+
+      - id: 228898 # Alphacoil Ba-Boom Stick [staff]
+        costs:
+          1237502: 3
+
+      - id: 228892 # Greasemonkey's Shift-Stick [staff]
+        costs:
+          1237502: 3
+
+      - id: 228900 # Tournament Arc [bow]
+        costs:
+          1237502: 3
+
+      - id: 228893 # "Tiny Pal" [gun]
+        costs:
+          1237502: 3
+
+      - id: 228906 # Operator's Fraud Detector [off-hand]
+        costs:
+          1237502: 3
+
+      - id: 228890 # Superfan's Beater-Buzzer [off-hand]
+        costs:
+          1237502: 3
+
+      - id: 231311 # Frontman's Wondrous Wall [shield]
+        costs:
+          1237502: 3
+
+      - id: 228889 # Titan of Industry [shield]
+        costs:
+          1237502: 3
+
+      # Shared
+
+      - id: 232804 # Capo's Molten Knuckles [fist]
+        costs:
+          1237502: 3
+
+      - id: 232526 # Best-in-Slots [2h mace, agi/str]
+        costs:
+          1237502: 3
+
+      - id: 232805 # Best-in-Slots [2h mace, int]
+        costs:
+          1237502: 3
