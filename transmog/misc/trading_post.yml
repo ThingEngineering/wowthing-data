@@ -1,86 +1,306 @@
 name: "Trading Post"
 groups:
-  
-- name: "Vagabond's Threads"
-  type: all
-  sets:
-    - "Aquatic"
-    - "Azure"
-    - "Brick"
-    - "Camo"
-    - "Carrot"
-    - "Cloudy"
-    - "Crimson"
-    - "Deep"
-    - "Faded"
-    - "Grassy"
-    - "Lively"
-    - "Midnight"
-    - "Plum"
-    - "Rosy"
-    - "Sepia"
-    - "Snowy"
-    - "Sunny"
-    - "Violet"
-  data:
-    all:
-      - transmogSetId: 3039 # Aquatic
-      - transmogSetId: 2332 # Azure
-      - transmogSetId: 3042 # Brick
-      - transmogSetId: 3043 # Camo
-      - transmogSetId: 2761 # Carrot
-      - transmogSetId: 3045 # Cloudy
-      - transmogSetId: 2342 # Crimson
-      - transmogSetId: 3044 # Deep
-      - transmogSetId: 3041 # Faded
-      - transmogSetId: 3046 # Grassy
-      - transmogSetId: 3047 # Lively
-      - transmogSetId: 2324 # Midnight
-      - transmogSetId: 3040 # Plum
-      - transmogSetId: 2760 # Rosy
-      - transmogSetId: 3048 # Sepia
-      - transmogSetId: 2345 # Snowy
-      - transmogSetId: 3038 # Sunny
-      - transmogSetId: 2328 # Violet
 
-- name: "Wanderer's Trappings"
-  type: all
+# Shoulder Cape
+# Trader's Sarong
+# Vigilante's Mask
+- name: "Armor Recolors"
+  type: multi
   sets:
-    - "Aquatic"
-    - "Azure"
-    - "Brick"
-    - "Camo"
-    - "Carrot"
-    - "Cloudy"
-    - "Crimson"
-    - "Deep"
-    - "Faded"
-    - "Grassy"
-    - "Lively"
-    - "Midnight"
-    - "Plum"
-    - "Rosy"
-    - "Sepia"
-    - "Snowy"
-    - "Sunny"
-    - "Violet"
+    - "Dueler's Shoulder Cape"
+    - "Prowler's Shoulder Cape"
+    - "Trader's Sarong"
+    - "Vigilante's Mask"
+    - "Long War Skirt"
+    - "Long War Skirt + Leg Wraps"
+    - "Short War Skirt"
+    - "Short War Skirt + Leg Wraps"
   data:
-    all:
-      - transmogSetId: 3028 # Aquatic
-      - transmogSetId: 2333 # Azure
-      - transmogSetId: 3031 # Brick
-      - transmogSetId: 3032 # Camo
-      - transmogSetId: 2762 # Carrot
-      - transmogSetId: 3034 # Cloudy
-      - transmogSetId: 2341 # Crimson
-      - transmogSetId: 3033 # Deep
-      - transmogSetId: 3030 # Faded
-      - transmogSetId: 3035 # Grassy
-      - transmogSetId: 3036 # Lively
-      - transmogSetId: 2326 # Midnight
-      - transmogSetId: 3029 # Plum
-      - transmogSetId: 2759 # Rosy
-      - transmogSetId: 3037 # Sepia
-      - transmogSetId: 2344 # Snowy
-      - transmogSetId: 3027 # Sunny
-      - transmogSetId: 2329 # Violet
+    0: # Aquatic
+      - itemsV2: [212574] # Dueler's Shoulder Cape
+      - null
+      - itemsV2: [210861] # Trader's Sarong
+      - null
+      - null
+      - null
+      - null
+      - null
+    1: # Azure
+      - itemsV2: [212627] # Dueler's Shoulder Cape
+      - itemsV2: [230034] # Prowler's Shoulder Cape
+      - itemsV2: [210849] # Trader's Sarong
+      - itemsV2: [235020] # Vigilante's Mask
+      - itemsV2: [233097] # Long War Skirt
+      - itemsV2: [233136] # Long War Skirt + Leg Wraps
+      - itemsV2: [233080] # Short War Skirt
+      - itemsV2: [233117] # Short War Skirt + Leg Wraps
+    2: # Brick
+      - itemsV2: [212623] # Dueler's Shoulder Cape
+      - itemsV2: [230039] # Prowler's Shoulder Cape
+      - itemsV2: [210855] # Trader's Sarong
+      - itemsV2: [235026] # Vigilante's Mask
+      - itemsV2: [233103] # Long War Skirt
+      - itemsV2: [233142] # Long War Skirt and Leg Wraps
+      - itemsV2: [233086] # Short War Skirt
+      - itemsV2: [233125] # Short War Skirt and Leg Wraps
+    3: # Camo
+      - itemsV2: [212622] # Dueler's Shoulder Cape
+      - itemsV2: [230040] # Prowler's Shoulder Cape
+      - itemsV2: [210854] # Trader's Sarong
+      - itemsV2: [235025] # Vigilante's Mask
+      - itemsV2: [233102] # Long War Skirt
+      - itemsV2: [233141] # Long War Skirt and Leg Wraps
+      - itemsV2: [233085] # Short War Skirt
+      - itemsV2: [233124] # Short War Skirt and Leg Wraps
+    4: # Carrot
+      - itemsV2: [212619] # Dueler's Shoulder Cape
+      - itemsV2: [230045] # Prowler's Shoulder Cape
+      - itemsV2: [210857] # Trader's Sarong
+      - itemsV2: [235029] # Vigilante's Mask
+      - null
+      - null
+      - null
+      - null
+    5: # Cloudy
+      - itemsV2: [212573] # Dueler's Shoulder Cape
+      - null
+      - itemsV2: [210852] # Trader's Sarong
+      - null
+      - null
+      - null
+      - null
+      - null
+    6: # Crimson
+      - itemsV2: [212617] # Dueler's Shoulder Cape
+      - itemsV2: [230048] # Prowler's Shoulder Cape
+      - itemsV2: [210844] # Trader's Sarong
+      - itemsV2: [235032] # Vigilante's Mask
+      - itemsV2: [233073] # Long War Skirt
+      - itemsV2: [233075] # Long War Skirt and Leg Wraps
+      - itemsV2: [233072] # Short War Skirt
+      - itemsV2: [233074] # Short War Skirt and Leg Wraps
+    7: # Deep
+      - itemsV2: [212624] # Dueler's Shoulder Cape
+      - itemsV2: [230038] # Prowler's Shoulder Cape
+      - itemsV2: [210853] # Trader's Sarong
+      - itemsV2: [235024] # Vigilante's Mask
+      - itemsV2: [233101] # Long War Skirt
+      - itemsV2: [233140] # Long War Skirt and Leg Wraps
+      - itemsV2: [233084] # Short War Skirt
+      - itemsV2: [233123] # Short War Skirt and Leg Wraps
+    8: # Faded
+      - itemsV2: [212620] # Dueler's Shoulder Cape
+      - null
+      - null
+      - null
+      - null
+      - null
+      - null
+      - null
+    9: # Grassy
+      - null
+      - null
+      - null
+      - null
+      - null
+      - null
+      - null
+    10: # Icy
+      - null
+      - itemsV2: [230043] # Prowler's Shoulder Cape
+      - null
+      - null
+      - null
+      - null
+      - null
+      - null
+    11: # Lively
+      - itemsV2: [212621] # Dueler's Shoulder Cape
+      - null
+      - itemsV2: [210846] # Trader's Sarong
+      - null
+      - null
+      - null
+      - null
+      - null
+    12: # Midnight
+      - itemsV2: [212628] # Dueler's Shoulder Cape
+      - null
+      - itemsV2: [210848] # Trader's Sarong
+      - itemsV2: [235019] # Vigilante's Mask
+      - null
+      - null
+      - itemsV2: [233079] # Short War Skirt
+      - itemsV2: [233116] # Short War Skirt and Leg Wraps
+    13: # Pink
+      - null
+      - itemsV2: [230044] # Prowler's Shoulder Cape
+      - null
+      - null
+      - null
+      - null
+      - null
+      - null
+    14: # Plum
+      - itemsV2: [212618] # Dueler's Shoulder Cape
+      - null
+      - itemsV2: [210859] # Trader's Sarong
+      - itemsV2: [235031] # Vigilante's Mask
+      - itemsV2: [233108] # Long War Skirt
+      - itemsV2: [233147] # Long War Skirt and Leg Wraps
+      - itemsV2: [233091] # Short War Skirt
+      - itemsV2: [233130] # Short War Skirt and Leg Wraps
+    15: # Rosy
+      - itemsV2: [212572] # Dueler's Shoulder Cape
+      - null
+      - itemsV2: [210858] # Trader's Sarong
+      - null
+      - null
+      - null
+      - null
+      - null
+    16: # Sepia
+      - null
+      - null
+      - null
+      - null
+      - null
+      - null
+      - null
+      - null
+    17: # Snowy
+      - itemsV2: [212615] # Dueler's Shoulder Cape
+      - itemsV2: [230051] # Prowler's Shoulder Cape
+      - itemsV2: [210862] # Trader's Sarong
+      - itemsV2: [235035] # Vigilante's Mask
+      - null
+      - null
+      - itemsV2: [233094] # Short War Skirt
+      - itemsV2: [233133] # Short War Skirt and Leg Wraps
+    18: # Sunny
+      - itemsV2: [212614] # Dueler's Shoulder Cape
+      - itemsV2: [230052] # Prowler's Shoulder Cape
+      - itemsV2: [210863] # Trader's Sarong
+      - null
+      - itemsV2: [233112] # Long War Skirt
+      - itemsV2: [233151] # Long War Skirt and Leg Wraps
+      - itemsV2: [233095] # Short War Skirt
+      - itemsV2: [233134] # Short War Skirt and Leg Wraps
+    19: # Violet
+      - itemsV2: [212616] # Dueler's Shoulder Cape
+      - itemsV2: [230049] # Prowler's Shoulder Cape
+      - itemsV2: [210860] # Trader's Sarong
+      - itemsV2: [235033] # Vigilante's Mask
+      - itemsV2: [233109] # Long War Skirt
+      - itemsV2: [233148] # Long War Skirt and Leg Wraps
+      - itemsV2: [233092] # Short War Skirt
+      - itemsV2: [233131] # Short War Skirt and Leg Wraps
+
+- name: "Ensemble Recolors"
+  type: multi
+  sets:
+    - "Prowler's Headgear"
+    - "Sweatsuit"
+    - "Vagabond's Threads"
+    - "Wanderer's Trappings"
+  data:
+    0:
+      - transmogSetId: 3928 # Aquatic Prowler's Headgear
+      - transmogSetId: 4539 # Aquatic Sweatsuit
+      - transmogSetId: 3039 # Aquatic Vagabond's Threads
+      - transmogSetId: 3028 # Aquatic Wanderer's Trappings
+    1:
+      - transmogSetId: 3912 # Azure Prowler's Headgear
+      - transmogSetId: 4525 # Azure Sweatsuit
+      - transmogSetId: 2332 # Azure Vagabond's Threads0
+      - transmogSetId: 2333 # Azure Wanderer's Trappings
+    2:
+      - transmogSetId: 3918 # Brick Prowler's Headgear
+      - transmogSetId: 4531 # Brick Sweatsuit
+      - transmogSetId: 3042 # Brick Vagabond's Threads
+      - transmogSetId: 3031 # Brick Wanderer's Trappings
+    3:
+      - transmogSetId: 3917 # Camo Prowler's Headgear
+      - transmogSetId: 4530 # Camo Sweatsuit
+      - transmogSetId: 3043 # Camo Vagabond's Threads
+      - transmogSetId: 3032 # Camo Wanderer's Trappings
+    4:
+      - transmogSetId: 3923 # Carrot Prowler's Headgear
+      - transmogSetId: 4534 # Carrot Sweatsuit
+      - transmogSetId: 2761 # Carrot Vagabond's Threads
+      - transmogSetId: 2762 # Carrot Wanderer's Trappings
+    5:
+      - transmogSetId: 3915 # Cloudy Prowler's Headgear
+      - transmogSetId: 4528 # Cloudy Sweatsuit
+      - transmogSetId: 3045 # Cloudy Vagabond's Threads
+      - transmogSetId: 3034 # Cloudy Wanderer's Trappings
+    6:
+      - transmogSetId: 3926 # Crimson Prowler's Headgear
+      - transmogSetId: 4537 # Crimson Sweatsuit
+      - transmogSetId: 2342 # Crimson Vagabond's Threads
+      - transmogSetId: 2341 # Crimson Wanderer's Trappings
+    7:
+      - transmogSetId: 3916 # Deep Prowler's Headgear
+      - transmogSetId: 4529 # Deep Sweatsuit
+      - transmogSetId: 3044 # Deep Vagabond's Threads
+      - transmogSetId: 3033 # Deep Wanderer's Trappings
+    8:
+      - transmogSetId: 3920 # Faded Prowler's Headgear
+      - transmogSetId: 4533 # Faded Sweatsuit
+      - transmogSetId: 3041 # Faded Vagabond's Threads
+      - transmogSetId: 3030 # Faded Wanderer's Trappings
+    9:
+      - transmogSetId: 3914 # Grassy Prowler's Headgear
+      - transmogSetId: 4527 # Grassy Sweatsuit
+      - transmogSetId: 3046 # Grassy Vagabond's Threads
+      - transmogSetId: 3035 # Grassy Wanderer's Trappings
+    10:
+      - transmogSetId: 3921 # Icy Prowler's Headgear
+      - null
+      - null
+      - null
+    11:
+      - transmogSetId: 3919 # Lively Prowler's Headgear
+      - transmogSetId: 4532 # Lively Sweatsuit
+      - transmogSetId: 3047 # Lively Vagabond's Threads
+      - transmogSetId: 3036 # Lively Wanderer's Trappings
+    12:
+      - transmogSetId: 3911 # Midnight Prowler's Headgear
+      - transmogSetId: 4524 # Midnight Sweatsuit
+      - transmogSetId: 2324 # Midnight Vagabond's Threads
+      - transmogSetId: 2326 # Midnight Wanderer's Trappings
+    13:
+      - transmogSetId: 3922 # Pink Prowler's Headgear
+      - transmogSetId: 4535 # Pink Sweatsuit
+      - null
+      - null
+    14:
+      - transmogSetId: 3925 # Plum Prowler's Headgear
+      - transmogSetId: 4536 # Plum Sweatsuit
+      - transmogSetId: 3040 # Plum Vagabond's Threads
+      - transmogSetId: 3029 # Plum Wanderer's Trappings
+    15:
+      - transmogSetId: 3924 # Rosy Prowler's Headgear
+      - null
+      - transmogSetId: 2760 # Rosy Vagabond's Threads
+      - transmogSetId: 2759 # Rosy Wanderer's Trappings
+    16:
+      - transmogSetId: 3913 # Sepia Prowler's Headgear
+      - transmogSetId: 4526 # Sepia Sweatsuit
+      - transmogSetId: 3048 # Sepia Vagabond's Threads
+      - transmogSetId: 3037 # Sepia Wanderer's Trappings
+    17:
+      - transmogSetId: 3929 # Snowy Prowler's Headgear
+      - transmogSetId: 4540 # Snowy Sweatsuit
+      - transmogSetId: 2345 # Snowy Vagabond's Threads
+      - transmogSetId: 2344 # Snowy Wanderer's Trappings
+    18:
+      - transmogSetId: 3930 # Sunny Prowler's Headgear
+      - transmogSetId: 4541 # Sunny Sweatsuit
+      - transmogSetId: 3038 # Sunny Vagabond's Threads
+      - transmogSetId: 3027 # Sunny Wanderer's Trappings
+    19:
+      - transmogSetId: 3927 # Violet Prowler's Headgear
+      - transmogSetId: 4538 # Violet Sweatsuit
+      - transmogSetId: 2328 # Violet Vagabond's Threads
+      - transmogSetId: 2329 # Violet Wanderer's Trappings
