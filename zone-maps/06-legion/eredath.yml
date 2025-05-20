@@ -20,6 +20,9 @@ farms:
   drops:
   - type: pet
     id: 2120 # Grasping Manifestation
+  
+  - type: item
+    id: 153034 # Technique: Glyph of the Voidling
 
 - name: "Baruut the Bloodthirsty"
   location: 43.8 60.2
