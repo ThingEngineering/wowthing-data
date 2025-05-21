@@ -61,3 +61,10 @@ groups:
 - name: "Dragonflight"
   things:
   - 1660 # Crimson Gladiator's Drake (Gladiator: Dragonflight Season 1)
+  - 1739 # Obsidian Gladiator's Slitherdrake (Gladiator: Dragonflight Season 2)
+  - 1831 # Verdant Gladiator's Slitherdrake (Gladiator: Dragonflight Season 3)
+  - 1822 # Draconic Gladiator's Drake (Gladiator: Dragonflight Season 4)
+
+- name: "The War Within"
+  things:
+    - 2298 # Prized Gladiator's Fel Bat (Gladiator: The War Within Season 2)

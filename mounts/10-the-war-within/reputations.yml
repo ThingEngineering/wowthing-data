@@ -32,3 +32,36 @@ groups:
 - name: "The Vizier"
   things:
   - 2174 # Royal Court Undercrawler (Conspirator)
+
+- name: "Flame's Radiance"
+  things:
+    - 2519 # Radiant Imperial Lynx
+
+- name: "Cartels of Undermine"
+  things:
+    - 2277 # Violet Armored Growler (Renown 15)
+    - 2280 # The Topskimmer Special (Renown 19)
+
+- name: "Bilgewater Cartel"
+  things:
+    - 2272 # Crimson Armored Growler (Exalted)
+    - 2295 # Bilgewater Bombardier (Paragon)
+
+- name: "Blackwater Cartel"
+  things:
+    - 2286 # Blackwater Shredder Deluxe Mk 2 (Exalted)
+    - 2274 # Blackwater Bonecrusher (Paragon)
+
+- name: "Steamwheedle Cartel"
+  things:
+    - 2294 # Mean Green Flying Machine (Exalted)
+    - 2281 # Steamwheedle Supplier (Paragon)
+
+- name: "Venture Company"
+  things:
+    - 2284 # Ochre Delivery Rocket (Exalted)
+    - 2289 # Venture Co-ordinator (Paragon)
+
+- name: "Darkfuse Cartel"
+  things:
+    - 2287 # Darkfuse Demolisher (Revered)

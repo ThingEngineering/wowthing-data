@@ -3,8 +3,8 @@ groups:
 
 - name: "Dungeons"
   things:
-    - 2119 # Stonevault Mechsuit, The Stonevault
-    - 2204 # Wick, Darkflame Cleft
+    - 2119 # Stonevault Mechsuit (The Stonevault)
+    - 2204 # Wick (Darkflame Cleft)
   
 - name: "Raids"
   things:
@@ -12,3 +12,10 @@ groups:
     - 2223 # Ascendant Skyrazor (Mythic Queen Ansurek, Nerub-ar Palace)
     - 2507 # Prototype A.S.M.R. (Chrome King Gallywix, Liberation of Undermine)
     - 2487 # The Big G (Mythic Chrome King Gallywix, Liberation of Undermine)
+
+- name: "Visions"
+  things:
+    - 2497 # Void-Forged Stallion
+    - 2496 # Void-Scarred Gryphon
+    - 2498 # Void-Scarred Pack Mother
+    - 2499 # Void-Scarred Windrider

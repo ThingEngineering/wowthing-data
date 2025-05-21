@@ -5,6 +5,14 @@ groups:
   things:
     - 2144 # Delver's Dirigible, Ship It!
 
+- name: "Hallowfall"
+  things:
+    - 2535 # Void-Scarred Lynx (Nightfall dailies)
+
 - name: "Siren Isle"
   things:
     - 2469 # Prismatic Snapdragon
+
+- name: "Undermine"
+  things:
+    - 2303 # Violet Goblin Shredder (Shipping & Handling)

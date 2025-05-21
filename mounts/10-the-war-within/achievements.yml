@@ -10,7 +10,6 @@ groups:
 - name: "Instances"
   things:
     - 2230 # Ivory Goliathus (Glory of the Delver)
-    - 2244 # Diamond Mechsuit (KSM Season 1)
     - 2480 # Crimson Shreddertank (KSM Season 2)
     - 2508 # Enterprising Shreddertank (KSL Season 2)
     - 2180 # Shadowed Swarmite (Glory of the Nerub-ar Raider)
@@ -21,3 +20,7 @@ groups:
     - 2167 # Raging Cinderbee
     - 2300 # Vicious Electro Eel [A]
     - 2299 # Vicious Electro Eel [H]
+
+- name: "Visions"
+  things:
+    - 2500 # Ny'alothan Shadow Worm
