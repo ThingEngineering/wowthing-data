@@ -269,7 +269,7 @@ def main():
         print()
         print('    locations:')
 
-        if mapper is not None:
+        if mapper is not None and mapper != []:
             for map_set in mapper.values():
                 if isinstance(map_set, dict):
                     map_set = map_set.values()

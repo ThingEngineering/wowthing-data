@@ -1,0 +1,13 @@
+things:
+  - id: 235624
+    type: "vendor"
+    name: "Skitto Screwjack"
+    note: "Gorilla Groupie"
+
+    locations:
+
+    contents:
+
+      - id: 232806 # Tiny Torq [pet]
+      
+      - id: 236749 # Take-Home Torq [toy]

@@ -1,0 +1,319 @@
+things:
+  - id: 235620
+    type: "vendor"
+    name: "Sando the Rat"
+    note: "Counterfeit Dealer"
+
+    groups:
+      - name: "Cosmetic Weapons [LFR]"
+        range: 17
+        sortKey: "z-raid-1"
+      
+      - name: "Cosmetic Weapons [Normal]"
+        range: 17
+        sortKey: "z-raid-2"
+        showNormalTag: true
+      
+      - name: "Cosmetic Weapons [Heroic]"
+        range: 17
+        sortKey: "z-raid-3"
+      
+      - name: "Cosmetic Weapons [Mythic]"
+        range: 17
+        sortKey: "z-raid-4"
+      
+      - name: "Cosmetic Weapons [Shared]"
+        range: -1
+        sortKey: "z-raid-4"
+
+    contents:
+
+      # LFR
+
+      - id: 238762 # Gallagio Raider's Venture Co. Gyroclub [1h ? mace] L
+        costs:
+          1237578: 1
+
+      - id: 238766 # Gallagio Raider's Venture Co. Naval Mine [1h ? mace] L
+        costs:
+          1237578: 1
+
+      - id: 238688 # Gallagio Radier's Venture Co. Torchblade [1h ? sword] L
+        costs:
+          1237578: 1
+
+      - id: 238708 # Gallagio Raider's Venture Co. Shivlighter [? dagger] L
+        costs:
+          1237578: 1
+
+      - id: 238741 # Gallagio Raider's Venture Co. Zapdagger [? dagger] L
+        costs:
+          1237578: 1
+
+      - id: 238696 # Gallagio Raider's Venture Co. Boomfist [fist] L
+        costs:
+          1237578: 1
+
+      - id: 238749 # Gallagio Raider's Venture Co. Exhaustglaive [warglaive] L
+        costs:
+          1237578: 1
+
+      - id: 238716 # Gallagio Raider's Venture Co. Chainsaw [2h ? axe] L
+        costs:
+          1237578: 1
+
+      - id: 238775 # Gallagio Raider's Venture Co. Blasthammer [2h ? mace] L
+        costs:
+          1237578: 1
+
+      - id: 238753 # Gallagio Raider's Venture Co. Gold Digger [polearm] L
+        costs:
+          1237578: 1
+
+      - id: 238692 # Gallagio Raider's Venture Co. Coilstaff [staff] L
+        costs:
+          1237578: 1
+
+      - id: 238745 # Gallagio Raider's Venture Co. Eelspire [staff] L
+        costs:
+          1237578: 1
+
+      - id: 238700 # Gallagio Raider's Venture Co. Shockbow [bow] L
+        costs:
+          1237578: 1
+
+      - id: 238770 # Gallagio Raider's Venture Co. Repeater [gun] L
+        costs:
+          1237578: 1
+
+      - id: 238704 # Gallagio Raider's Venture Co. Generator [off-hand] L
+        costs:
+          1237578: 1
+
+      - id: 238757 # Gallagio Raider's Venture Co. Thing-a-ma-tool [off-hand] L
+        costs:
+          1237578: 1
+
+      - id: 238712 # Gallagio Raider's Venture Co. Motorshield [shield] L
+        costs:
+          1237578: 1
+
+      # Normal
+
+      - id: 238763 # Gallagio Raider's Bilgewater Gyroclub [1h ? mace] N
+        costs:
+          1237578: 1
+
+      - id: 238767 # Gallagio Raider's Bilgewater Naval Mine [1h ? mace] N
+        costs:
+          1237578: 1
+
+      - id: 238689 # Gallagio Radier's Bilgewater Torchblade [1h ? sword] N
+        costs:
+          1237578: 1
+
+      - id: 238709 # Gallagio Raider's Bilgewater Shivlighter [? dagger] N
+        costs:
+          1237578: 1
+
+      - id: 238742 # Gallagio Raider's Bilgewater Zapdagger [? dagger] N
+        costs:
+          1237578: 1
+
+      - id: 238697 # Gallagio Raider's Bilgewater Boomfist [fist] N
+        costs:
+          1237578: 1
+
+      - id: 238750 # Gallagio Raider's Bilgewater Exhaustglaive [warglaive] N
+        costs:
+          1237578: 1
+
+      - id: 238717 # Gallagio Raider's Bilgewater Chainsaw [2h ? axe] N
+        costs:
+          1237578: 1
+
+      - id: 238776 # Gallagio Raider's Bilgewater Blasthammer [2h ? mace] N
+        costs:
+          1237578: 1
+
+      - id: 238754 # Gallagio Raider's Bilgewater Gold Digger [polearm] N
+        costs:
+          1237578: 1
+
+      - id: 238693 # Gallagio Raider's Bilgewater Coilstaff [staff] N
+        costs:
+          1237578: 1
+
+      - id: 238746 # Gallagio Raider's Bilgewater Eelspire [staff] N
+        costs:
+          1237578: 1
+
+      - id: 238701 # Gallagio Raider's Bilgewater Shockbow [bow] N
+        costs:
+          1237578: 1
+
+      - id: 238771 # Gallagio Raider's Bilgewater Repeater [gun] N
+        costs:
+          1237578: 1
+
+      - id: 238705 # Gallagio Raider's Bilgewater Generator [off-hand] N
+        costs:
+          1237578: 1
+
+      - id: 238758 # Gallagio Raider's Bilgewater Thing-a-ma-tool [off-hand] N
+        costs:
+          1237578: 1
+
+      - id: 238713 # Gallagio Raider's Bilgewater Motorshield [shield] N
+        costs:
+          1237578: 1
+
+      # Heroic
+
+      - id: 238764 # Gallagio Raider's Blackwater Gyroclub [1h ? mace] H
+        costs:
+          1237578: 1
+
+      - id: 238768 # Gallagio Raider's Blackwater Naval Mine [1h ? mace] H
+        costs:
+          1237578: 1
+
+      - id: 238690 # Gallagio Radier's Blackwater Torchblade [1h ? sword] H
+        costs:
+          1237578: 1
+
+      - id: 238710 # Gallagio Raider's Blackwater Shivlighter [? dagger] H
+        costs:
+          1237578: 1
+
+      - id: 238743 # Gallagio Raider's Blackwater Zapdagger [? dagger] H
+        costs:
+          1237578: 1
+
+      - id: 238698 # Gallagio Raider's Blackwater Boomfist [fist] H
+        costs:
+          1237578: 1
+
+      - id: 238751 # Gallagio Raider's Blackwater Exhaustglaive [warglaive] H
+        costs:
+          1237578: 1
+
+      - id: 238718 # Gallagio Raider's Blackwater Chainsaw [2h ? axe] H
+        costs:
+          1237578: 1
+
+      - id: 238777 # Gallagio Raider's Blackwater Blasthammer [2h ? mace] H
+        costs:
+          1237578: 1
+
+      - id: 238755 # Gallagio Raider's Blackwater Gold Digger [polearm] H
+        costs:
+          1237578: 1
+
+      - id: 238694 # Gallagio Raider's Blackwater Coilstaff [staff] H
+        costs:
+          1237578: 1
+
+      - id: 238747 # Gallagio Raider's Blackwater Eelspire [staff] H
+        costs:
+          1237578: 1
+
+      - id: 238702 # Gallagio Raider's Blackwater Shockbow [bow] H
+        costs:
+          1237578: 1
+
+      - id: 238772 # Gallagio Raider's Blackwater Repeater [gun] H
+        costs:
+          1237578: 1
+
+      - id: 238706 # Gallagio Raider's Blackwater Generator [off-hand] H
+        costs:
+          1237578: 1
+
+      - id: 238759 # Gallagio Raider's Blackwater Thing-a-ma-tool [off-hand] H
+        costs:
+          1237578: 1
+
+      - id: 238714 # Gallagio Raider's Blackwater Motorshield [shield] H
+        costs:
+          1237578: 1
+
+      # Mythic
+
+      - id: 238765 # Gallagio Raider's Darkfuse Gyroclub [1h ? mace] M
+        costs:
+          1237578: 1
+
+      - id: 238769 # Gallagio Raider's Darkfuse Naval Mine [1h ? mace] M
+        costs:
+          1237578: 1
+
+      - id: 238691 # Gallagio Radier's Darkfuse Torchblade [1h ? sword] M
+        costs:
+          1237578: 1
+
+      - id: 238711 # Gallagio Raider's Darkfuse Shivlighter [? dagger] M
+        costs:
+          1237578: 1
+
+      - id: 238744 # Gallagio Raider's Darkfuse Zapdagger [? dagger] M
+        costs:
+          1237578: 1
+
+      - id: 238699 # Gallagio Raider's Darkfuse Boomfist [fist] M
+        costs:
+          1237578: 1
+
+      - id: 238752 # Gallagio Raider's Darkfuse Exhaustglaive [warglaive] M
+        costs:
+          1237578: 1
+
+      - id: 238719 # Gallagio Raider's Darkfuse Chainsaw [2h ? axe] M
+        costs:
+          1237578: 1
+
+      - id: 238778 # Gallagio Raider's Darkfuse Blasthammer [2h ? mace] M
+        costs:
+          1237578: 1
+
+      - id: 238756 # Gallagio Raider's Darkfuse Gold Digger [polearm] M
+        costs:
+          1237578: 1
+
+      - id: 238695 # Gallagio Raider's Darkfuse Coilstaff [staff] M
+        costs:
+          1237578: 1
+
+      - id: 238748 # Gallagio Raider's Darkfuse Eelspire [staff] M
+        costs:
+          1237578: 1
+
+      - id: 238703 # Gallagio Raider's Darkfuse Shockbow [bow] M
+        costs:
+          1237578: 1
+
+      - id: 238773 # Gallagio Raider's Darkfuse Repeater [gun] M
+        costs:
+          1237578: 1
+
+      - id: 238707 # Gallagio Raider's Darkfuse Generator [off-hand] M
+        costs:
+          1237578: 1
+
+      - id: 238760 # Gallagio Raider's Darkfuse Thing-a-ma-tool [off-hand] M
+        costs:
+          1237578: 1
+
+      - id: 238715 # Gallagio Raider's Darkfuse Motorshield [shield] M
+        costs:
+          1237578: 1
+
+      # Shared
+
+      - id: 238774 # Gallagio Raider's Knuckle Dusters [fist] LNHM
+        costs:
+          1237578: 1
+
+      - id: 238761 # Gallagio Raider's Bootleg Lever [2h ? mace] LNHM
+        costs:
+          1237578: 1

@@ -24,6 +24,6 @@ things:
         costs:
           3218: 999
 
-      - id: 232986 # GE86 Advance [DRIVE]
-        costs:
-          3220: 1
+      # - id: 232986 # GE86 Advance [DRIVE]
+      #   costs:
+      #     3220: 1

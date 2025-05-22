@@ -1,0 +1,21 @@
+things:
+  - id: 235621
+    type: "vendor"
+    name: "Ando the Gat"
+    note: "Black Market Broker"
+
+    locations:
+
+    contents:
+
+      - id: 229945 # Thunderdrum Misfire [mount, renown 8]
+        costs:
+          0: 500 # Gold
+
+      - id: 229924 # Darkfuse Chompactor [mount, renown 17]
+        costs:
+          0: 500 # Gold
+
+      - id: 229940 # Flarendo the Furious [mount, renown 20]
+        costs:
+          0: 777 # Gold
