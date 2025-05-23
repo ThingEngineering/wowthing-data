@@ -4,7 +4,7 @@ things:
     name: "Scrapchewer"
     note: "Requires a Venture Co stan to activate"
     reset: "weekly"
-    trackingQuestId: 85778
+    trackingQuestId: 90491 # 85778
     highlightQuestId: 84953
 
     locations:

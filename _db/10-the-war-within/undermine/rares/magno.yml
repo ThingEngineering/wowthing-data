@@ -4,7 +4,7 @@ things:
     name: "M.A.G.N.O."
     note: "Requires a Bilgewater stan to activate"
     reset: "weekly"
-    trackingQuestId: 86298
+    trackingQuestId: 90488 # 86298
     highlightQuestId: 84951
 
     locations:

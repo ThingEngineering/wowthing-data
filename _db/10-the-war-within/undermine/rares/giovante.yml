@@ -4,7 +4,7 @@ things:
     name: "Giovante"
     note: "Requires a Steamwheedle stan to activate"
     reset: "weekly"
-    trackingQuestId: 86307
+    trackingQuestId: 90489 # 86307
     highlightQuestId: 84952
 
     locations:

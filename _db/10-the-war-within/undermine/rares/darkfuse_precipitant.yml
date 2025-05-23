@@ -3,7 +3,7 @@ things:
     type: "npc"
     name: "Darkfuse Precipitant"
     reset: "weekly"
-    trackingQuestId: 85010
+    trackingQuestId: 90492 # 85010
 
     locations:
       here: # undermine

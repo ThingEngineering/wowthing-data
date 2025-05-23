@@ -4,7 +4,7 @@ things:
     name: "Voltstrike the Charged"
     note: "Requires a Blackwater stan to activate"
     reset: "weekly"
-    trackingQuestId: 85777
+    trackingQuestId: 90490 # 85777
     highlightQuestId: 84954
 
     locations:
