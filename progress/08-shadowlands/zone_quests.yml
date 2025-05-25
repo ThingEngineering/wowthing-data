@@ -1,6 +1,27 @@
 name: Zone Quests
 groups:
 
+- name: "Skips"
+  icon: ""
+  iconText: "Skip"
+  lookup: none
+  type: quest
+  data:
+    0:
+      - name: "Intro"
+        id: 60129 # Stranger in an Even Stranger Land
+
+      - name: "Torghast"
+        id: 60272 # The Weak Link
+
+      - name: "Korthia"
+        id: 63902 # Good News, Everyone!
+
+      - name: "Zereth Mortis"
+        id: 65305 # The Way Forward
+
+- name: separator
+
 - name: "Zereth Mortis campaign"
   icon: achievement/15259 # Secrets of the First Ones
   iconText: "ZM"
@@ -52,21 +73,6 @@ groups:
 
       - id: 63738 # Establishing the Archive
         description: "Unlocks Archivist Roh-Suir"
-
-- name: separator
-
-- name: "Skips"
-  icon: ""
-  iconText: "Skip"
-  lookup: none
-  type: quest
-  data:
-    0:
-      - name: "Torghast"
-        id: 60272 # The Weak Link
-
-      - name: "Korthia"
-        id: 63902 # Good News, Everyone!
 
 - name: separator
 
