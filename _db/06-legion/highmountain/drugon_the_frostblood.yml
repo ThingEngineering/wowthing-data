@@ -1,0 +1,25 @@
+things:
+  - id: 110378
+    type: "npc"
+    name: "Drugon the Frostblood"
+    reset: "weekly"
+    trackingQuestId: 43448
+    worldQuestId: 43448
+
+    locations:
+      here: # highmountain
+        - 58.6 71.2
+
+    contents:
+
+      - id: 142108 # Vantus Rune Technique: Guarm
+
+      - id: 141428 # Snowdrift Bracers [cloth wrists]
+
+      - id: 141429 # Wax-Sealed Leather Bracers [leather wrists]
+
+      - id: 141433 # Assorted Dragonscale Bracers [mail wrists]
+
+      - id: 141439 # Ettinbone Bracers [plate wrists]
+
+      - id: 141538 # Giant's Handkerchief [cloak]

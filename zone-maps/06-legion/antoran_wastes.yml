@@ -77,6 +77,14 @@ farms:
   - type: mount
     id: 955 # Vile Fiend
 
+- name: "Inquisitor Vethroz"
+  location: 60.6 48.6
+  npcId: 126946
+  questId: 48815
+  drops:
+  - type: item
+    id: 151543 # Technique: Glyph of Fel-Touched Shards
+
 - name: "Mistress Il'thendra"
   location: 57.6 33.6
   npcId: 122947

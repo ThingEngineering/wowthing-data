@@ -3,7 +3,7 @@ name: "Akule Riverhorn"
 note: "Fishing, not up every day"
 
 locations:
-  z6_highmountaint:
+  06-legion/highmountain:
     - 32.4 41.2
 
 sells:

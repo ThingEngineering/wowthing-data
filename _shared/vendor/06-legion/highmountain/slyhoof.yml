@@ -1,7 +1,7 @@
 id: 99574
 name: "Slyhoof the Shameless Shaman"
 locations:
-  z6_highmountain:
+  06-legion/highmountain:
     - 49.0 62.0
 sells:
   - type: toy
