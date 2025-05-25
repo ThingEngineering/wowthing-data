@@ -1,0 +1,38 @@
+things:
+  - id: 162804
+    type: "vendor"
+    name: "Ve'nari"
+    note: "Purveyor of Cyphers"
+
+    locations:
+      here: # the_maw
+        - 46.8 41.6
+
+    contents:
+
+      - id: 183248 # Memory of Jailer's Eye
+        costs:
+          1767: 4986
+
+      - id: 183870 # Recipe: Crafter's Mark II
+        costs:
+          1767: 300
+
+  - id: 64541
+    type: "quest"
+    name: "The Cost of Death"
+    note: "{price:800|1767} for 1000 rep" # 800x Stygia
+    reset: weekly
+
+    locations:
+      here: # the_maw
+        - 46.8 43.6
+
+    requirements:
+      - "quest 60272" # The Weak Link
+
+    contents:
+
+      - id: 186657 # Soulbound Gloomcharger [mount]
+
+      - id: 186552 # Rook [pet]
