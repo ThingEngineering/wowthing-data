@@ -2,7 +2,7 @@ id: 170257
 name: "Broker Ve'nott"
 
 locations:
-  z8_the_maw:
+  08-shadowlands/the_maw:
     - 48.2 39.4
 
 sets:
