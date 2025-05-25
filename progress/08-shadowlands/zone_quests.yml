@@ -5,29 +5,16 @@ groups:
   icon: achievement/15259 # Secrets of the First Ones
   iconText: "ZM"
   lookup: none
-  type: quest
+  type: questline
   data:
     0:
-    - name: "Into the Unknown"
-      id: 64958
-
-    - name: "We Battle Onward"
-      id: 64825
-
-    - name: "Forming an Understanding"
-      id: 65305
-
-    - name: "Forging a New Path"
-      id: 64844
-
-    - name: "Crown of Wills"
-      id: 64813
-
-    - name: "A Means to an End"
-      id: 65328
-
-    - name: "Starting Over"
-      id: 65238
+      - id: 1265 # Into the Unknown
+      - id: 1266 # We Battle Onward
+      - id: 1250 # Forming an Understanding
+      - id: 1262 # Foring a New Path
+      - id: 1258 # Crown of Wills
+      - id: 1264 # A Means to an End
+      - id: 1260 # Starting Over
 
 - name: separator
 
@@ -35,41 +22,18 @@ groups:
   icon: achievement/14961 # Chains of Domination
   iconText: "Korth"
   lookup: none
-  type: quest
+  type: questline
   data:
     0:
-    - name: Battle of Ardenweald
-      id: 63639
-
-    - name: Maw Walkers
-      id: 64556
-
-    - name: Focusing the Eye
-      id: 63902
-
-    - name: The Last Sigil
-      id: 63727
-      description: Requires Renown 44
-
-    - name: An Army of Bone and Steel
-      id: 63622
-      description: Requires Renown 47
-
-    - name: The Unseen Guests
-      id: 63656
-      description: Requires Renown 50
-
-    - name: The Power of Night
-      id: 64437
-      description: Requires Renown 52
-
-    - name: A New Path
-      id: 63593
-      description: Requires Renown 56
-
-    - name: What Lies Ahead
-      id: 64314
-      description: Requires Renown 58
+      - id: 1219 # Battle of Ardenweald
+      - id: 1225 # Maw Walkers
+      - id: 1234 # Focusing the Eye
+      - id: 1222 # The Last Sigil
+      - id: 1224 # An Army of Bone and Steel
+      - id: 1220 # The Unseen Guests
+      - id: 1221 # The Power of Night
+      - id: 1218 # A New Path
+      - id: 1248 # What Lies Ahead
 
 - name: "Archivists"
   icon: achievement/15069 # The Archivist's Codex
@@ -88,6 +52,21 @@ groups:
 
       - id: 63738 # Establishing the Archive
         description: "Unlocks Archivist Roh-Suir"
+
+- name: separator
+
+- name: "Skips"
+  icon: ""
+  iconText: "Skip"
+  lookup: none
+  type: quest
+  data:
+    0:
+      - name: "Torghast"
+        id: 60272 # The Weak Link
+
+      - name: "Korthia"
+        id: 63902 # Good News, Everyone!
 
 - name: separator
 
