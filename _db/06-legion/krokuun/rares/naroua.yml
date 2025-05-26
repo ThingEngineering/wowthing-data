@@ -4,7 +4,8 @@ things:
     name: "Naroua"
     note: "Drops Fel-Spotted Egg which can hatch into mounts/pets"
     reset: "daily"
-    trackingQuestId: 
+    highlightQuestId: 48502
+    trackingQuestId: 48667
 
     locations:
       here: # krokuun

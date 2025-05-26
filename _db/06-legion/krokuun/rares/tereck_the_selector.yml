@@ -3,6 +3,7 @@ things:
     type: "npc"
     name: "Tereck the Selector"
     reset: "daily"
+    highlightQuestId: 47953
     trackingQuestId: 48664
 
     locations:

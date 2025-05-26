@@ -3,6 +3,7 @@ things:
     type: "npc"
     name: "Talestra the Vile"
     reset: "daily"
+    highlightQuestId: 47728
     trackingQuestId: 48628
 
     locations:

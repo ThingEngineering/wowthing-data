@@ -4,6 +4,7 @@ things:
     name: "Sister Subversia"
     note: "Coven of Shivarra"
     reset: "daily"
+    highlightQuestId: 48512
     trackingQuestId: 48565
 
     locations:

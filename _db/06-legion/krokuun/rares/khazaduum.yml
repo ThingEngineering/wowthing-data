@@ -3,6 +3,7 @@ things:
     type: "npc"
     name: "Khazaduum"
     reset: "daily"
+    highlightQuestId: 47507
     trackingQuestId: 48561
 
     locations:
