@@ -1,0 +1,15 @@
+things:
+  - id: 123464
+    type: "npc"
+    name: "Sister Subversia"
+    note: "Coven of Shivarra"
+    reset: "daily"
+    trackingQuestId: 48565
+
+    locations:
+      here: # krokuun
+        - 53 31
+
+    contents:
+
+      - id: 153124 # Spire of Spite [toy]

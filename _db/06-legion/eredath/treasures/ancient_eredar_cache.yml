@@ -1,0 +1,92 @@
+things:
+  - type: "object"
+    id: 273301
+    name: "Ancient Eredar Cache"
+    reset: "daily"
+    trackingQuestId: 48346
+
+    locations:
+      here:
+        - "54.9 57.7"
+
+    contents: &contents
+
+      # Cloth
+      - id: 153271 # Forgotten Conservatory Helm [head]
+      - id: 153276 # Forgotten Conservatory Amice [shoulders]
+      - id: 153288 # Forgotten Conservatory Robes [chest]
+      - id: 153277 # Forgotten Conservatory Wristwraps [wrists]
+      - id: 153272 # Forgotten Conservatory Gloves [hands]
+      - id: 153270 # Forgotten Conservatory Sash [waist]
+      - id: 153273 # Forgotten Conservatory Leggings [legs]
+      - id: 153275 # Forgotten Conservatory Slippers [feet]
+
+      # Plate
+      - id: 153331 # Eredath Lightseeker's Helmet [head]
+      - id: 153334 # Eredath Lightseeker's Spaulders [shoulders]
+      - id: 153332 # Eredath Lightseeker's Chestpiece [chest]
+      - id: 153336 # Eredath Lightseeker's Armguard [wrists]
+      - id: 153335 # Eredath Lightseeker's Handguards [hands]
+      - id: 153333 # Eredath Lightseeker's Waistplate [waist]
+      - id: 153330 # Eredath Lightseeker's Greaves [legs]
+      - id: 153337 # Eredath Lightseeker's Treads [feet]
+
+  - type: "object"
+    id: 273407
+    name: "Ancient Eredar Cache"
+    reset: "daily"
+    trackingQuestId: 48350
+
+    locations:
+      here:
+        - "53.9 23.2"
+
+    contents: *contents
+  
+  - type: "object"
+    id: 273412
+    name: "Ancient Eredar Cache"
+    reset: "daily"
+    trackingQuestId: 48351
+
+    locations:
+      here:
+        - "33.8 55.5"
+
+    contents: *contents
+  
+  - type: "object"
+    id: 273414
+    name: "Ancient Eredar Cache"
+    reset: "daily"
+    trackingQuestId: 48362
+
+    locations:
+      here:
+        - "62.2 32.7"
+
+    contents: *contents
+  
+  - type: "object"
+    id: 273415
+    name: "Ancient Eredar Cache"
+    reset: "daily"
+    trackingQuestId: 48357
+
+    locations:
+      here:
+        - "53.3 8.50"
+
+    contents: *contents
+  
+  - type: "object"
+    id: 273439
+    name: "Ancient Eredar Cache"
+    reset: "daily"
+    trackingQuestId: 48371
+
+    locations:
+      here:
+        - "59.3 58.6"
+
+    contents: *contents

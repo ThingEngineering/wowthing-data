@@ -1,0 +1,24 @@
+things:
+  - id: 124775
+    type: "npc"
+    name: "Commander Endaxis"
+    reset: "daily"
+    highlightQuestId: 48511
+    trackingQuestId: 48564
+
+    locations:
+      here: # krokuun
+        - 45 58.8
+
+    contents:
+
+      - id: 152946 # World Defiler's Casque [head]
+      - id: 152944 # World Defiler's Shoulderplates [shoulders]
+      - id: 152949 # World Defiler's Cuirass [chest]
+      - id: 152942 # World Defiler's Wristguards [wrists]
+      - id: 152947 # World Defiler's Gauntlets [hands]
+      - id: 152943 # World Defiler's Girdle [waist]
+      - id: 152945 # World Defiler's Tuille [legs]
+      - id: 152948 # World Defiler's Sabatons [feet]
+
+      - id: 153255 # Isolon Anchorite's Cudgel [1h ? mace]

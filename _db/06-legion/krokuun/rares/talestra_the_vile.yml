@@ -1,0 +1,23 @@
+things:
+  - id: 123689
+    type: "npc"
+    name: "Talestra the Vile"
+    reset: "daily"
+    trackingQuestId: 48628
+
+    locations:
+      here: # krokuun
+        - 55.4 80.4
+
+    contents:
+
+      - id: 152946 # World Defiler's Casque [head]
+      - id: 152944 # World Defiler's Shoulderplates [shoulders]
+      - id: 152949 # World Defiler's Cuirass [chest]
+      - id: 152942 # World Defiler's Wristguards [wrists]
+      - id: 152947 # World Defiler's Gauntlets [hands]
+      - id: 152943 # World Defiler's Girdle [waist]
+      - id: 152945 # World Defiler's Tuille [legs]
+      - id: 152948 # World Defiler's Sabatons [feet]
+
+      - id: 153329 # Mystic Wakener's Blade [? dagger]

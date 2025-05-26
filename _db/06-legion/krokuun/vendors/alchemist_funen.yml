@@ -1,0 +1,20 @@
+things:
+  - id: 125346
+    type: "vendor"
+    name: "Alchemist Funen"
+
+    locations:
+      here: # krokuun
+        - 56.2 66.8
+
+    contents:
+
+      # 0
+
+      - id: 152616 # Recipe: Astral Healing Potion
+        costs:
+          0: 9 # Gold
+
+      - id: 151710 # Recipe: Transmute Primal Sargerite
+        costs:
+          0: 9 # Gold

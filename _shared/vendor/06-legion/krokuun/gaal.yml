@@ -3,7 +3,7 @@ name: "Gaal"
 note: "Blacksmith"
 
 locations:
-  z6_krokuun:
+  06-legion/krokuun:
     - 56.8 68.4
 
 sells:
