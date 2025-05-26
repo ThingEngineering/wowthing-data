@@ -1,0 +1,15 @@
+things:
+  - id: 126889
+    type: "npc"
+    name: "Sorolis the Ill-Fated"
+    reset: "daily"
+    highlightQuestId: 48730
+    trackingQuestId: 48710
+ 
+    locations:
+      here: # eredath
+        - 70.2 46
+
+    contents:
+
+      - id: 153292 # Spectral Censorite's Spire [staff]

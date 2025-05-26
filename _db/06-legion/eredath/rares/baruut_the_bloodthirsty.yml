@@ -1,0 +1,15 @@
+things:
+  - id: 126862
+    type: "npc"
+    name: "Baruut the Bloodthirsty"
+    reset: "daily"
+    highlightQuestId: 48701
+    trackingQuestId: 48700
+
+    locations:
+      here: # eredath
+        - 44.2 59.4
+
+    contents:
+
+      - id: 153193 # Baarut the Brisk [mount]

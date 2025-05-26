@@ -1,0 +1,15 @@
+things:
+  - id: 125497
+    type: "npc"
+    name: "Overseer Y'Sorna"
+    reset: "daily"
+    highlightQuestId: 48735
+    trackingQuestId: 48716
+
+    locations:
+      here: # eredath
+        - 57.6 30.8
+
+    contents:
+
+      - id: 153268 # Enclave Aspirant's Axe [1h ? axe]

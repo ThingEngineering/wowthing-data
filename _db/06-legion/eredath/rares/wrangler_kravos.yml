@@ -1,0 +1,17 @@
+things:
+  - id: 126852
+    type: "npc"
+    name: "Wrangler Kravos"
+    reset: "daily"
+    highlightQuestId: 48696
+    trackingQuestId: 48695
+
+    locations:
+      here: # eredath
+        - 55.6 60.6
+
+    contents:
+
+      - id: 152814 # Maddened Chaosrunner [mount]
+
+      - id: 153269 # Enclave Aspirant's Waraxe [1h ? axe]

@@ -1,0 +1,17 @@
+things:
+  - id: 126865
+    type: "npc"
+    name: "Vigilant Thanos"
+    reset: "daily"
+    highlightQuestId: 48723
+    trackingQuestId: 48703
+
+    locations:
+      here: # eredath
+        - 36.6 23.6
+
+    contents:
+
+      - id: 153183 # Barrier Generator [toy]
+
+      - id: 153322 # Eredath Vigilant's Shield [shield]

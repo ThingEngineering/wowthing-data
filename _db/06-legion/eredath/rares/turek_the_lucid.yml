@@ -1,0 +1,15 @@
+things:
+  - id: 126868
+    type: "npc"
+    name: "Turek the Lucid"
+    reset: "daily"
+    highlightQuestId: 48726
+    trackingQuestId: 48706
+
+    locations:
+      here: # eredath
+        - 38.6 65.2
+
+    contents:
+
+      - id: 153306 # Oronaar Miner's Piercer [1h ? axe]

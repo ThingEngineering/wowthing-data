@@ -1,0 +1,17 @@
+things:
+  - id: 126866
+    type: "npc"
+    name: "Vigilant Kuro"
+    reset: "daily"
+    highlightQuestId: 48724
+    trackingQuestId: 48704
+
+    locations:
+      here: # eredath
+        - 63.6 64.6
+
+    contents:
+
+      - id: 153183 # Barrier Generator [toy]
+
+      - id: 153323 # Eredath Vigilant's Crest [shield]

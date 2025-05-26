@@ -1,0 +1,19 @@
+things:
+  - id: 128199
+    type: "vendor"
+    name: "Kuraam"
+    note: "Tournament Vendor"
+
+    locations:
+      here: # eredath
+        - 50.6 45.6
+
+    contents:
+
+      - id: 153170 # Jed'hin Headguard [leather head]
+        costs:
+          0: 5 # Gold
+
+      - id: 153169 # Commemorative Jed'hin Belt [leather waist]
+        costs:
+          0: 5 # Gold

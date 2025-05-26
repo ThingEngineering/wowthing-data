@@ -1,0 +1,21 @@
+things:
+  - id: 126900
+    type: "npc"
+    name: "Instructor Tarahna"
+    reset: "daily"
+    highlightQuestId: 48737
+    trackingQuestId: 48718
+
+    locations:
+      here: # eredath
+        - 61.8 50.2
+
+    contents:
+
+      - id: 153179 # Blue Conservatory Scroll [toy]
+
+      - id: 153181 # Red Conservatory Scroll [toy]
+
+      - id: 153180 # Yellow Conservatory Scroll [toy]
+
+      - id: 153309 # Unyielding Peacekeeper's Mace [1h ? mace]

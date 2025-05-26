@@ -1,0 +1,15 @@
+things:
+  - id: 126912
+    type: "npc"
+    name: "Skreeg the Devourer"
+    reset: "daily"
+    highlightQuestId: 48740
+    trackingQuestId: 48721
+
+    locations:
+      here: # eredath
+        - 50 9.4
+
+    contents:
+
+      - id: 152904 # Acid Belcher [mount]

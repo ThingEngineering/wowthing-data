@@ -1,0 +1,15 @@
+things:
+  - id: 122838
+    type: "npc"
+    name: "Shadowcaster Voruun"
+    reset: "daily"
+    highlightQuestId: 47833
+    trackingQuestId: 48692
+
+    locations:
+      here: # eredath
+        - 44.8 71.4
+
+    contents:
+
+      - id: 153296 # Spectral Consul's Cutter [1h ? sword]

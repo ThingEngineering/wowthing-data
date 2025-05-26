@@ -1,0 +1,15 @@
+things:
+  - id: 126899
+    type: "npc"
+    name: "Jed'hin Champion Vorusk"
+    reset: "daily"
+    highlightQuestId: 48733
+    trackingQuestId: 48713
+
+    locations:
+      here: # eredath
+        - 48.5 40.9
+
+    contents:
+
+      - id: 153302 # Honed Jed'hin Scimitar [1h ? sword]

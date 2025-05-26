@@ -1,0 +1,15 @@
+things:
+  - id: 125498
+    type: "npc"
+    name: "Overseer Y'Morna"
+    reset: "daily"
+    highlightQuestId: 48736
+    trackingQuestId: 48717
+
+    locations:
+      here: # eredath
+        - 60.9 29.8
+
+    contents:
+
+      - id: 153257 # Isolon Anchorite's Gavel [1h ? mace]

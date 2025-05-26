@@ -1,0 +1,17 @@
+things:
+  - id: 126887
+    type: "npc"
+    name: "Ataxon"
+    reset: "daily"
+    highlightQuestId: 48729
+    trackingQuestId: 48709  
+
+    locations:
+      here: # eredath
+        - 30.6 41.6
+
+    contents:
+
+      - id: 153056 # Grasping Manifestation [pet]
+
+      - id: 153034 # Technique: Glyph of the Voidling

@@ -1,0 +1,28 @@
+things:
+  - id: 126898
+    type: "npc"
+    name: "Sabuul"
+    note: "Drops Fel-Spotted Egg which can hatch into mounts/pets"
+    reset: "daily"
+    highlightQuestId: 48732
+    trackingQuestId: 48712
+
+    locations:
+      here: # eredath
+        - 44 48.6
+
+    contents:
+
+      # - id: 153190 # Fel-Spotted Egg
+
+      - id: 152843 # Darkspore Mana Ray [mount]
+
+      - id: 152841 # Felglow Mana Ray [mount]
+
+      - id: 152840 # Scintillating Mana Ray [mount]
+
+      - id: 152842 # Vibrant Mana Ray [mount]
+
+      - id: 153054 # Docile Skyfin [pet]
+
+      - id: 153055 # Fel-Afflicted Skyfin [pet]

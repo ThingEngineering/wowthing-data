@@ -1,0 +1,15 @@
+things:
+  - id: 126867
+    type: "npc"
+    name: "Venomtail Skyfin"
+    reset: "daily"
+    highlightQuestId: 48725
+    trackingQuestId: 48705
+
+    locations:
+      here: # eredath
+        - 33.8 47.4
+
+    contents:
+
+      - id: 152844 # Lambent Mana Ray [mount]

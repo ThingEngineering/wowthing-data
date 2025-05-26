@@ -1,0 +1,15 @@
+things:
+  - id: 124440
+    type: "npc"
+    name: "Overseer Y'Beda"
+    reset: "daily"
+    highlightQuestId: 48734
+    trackingQuestId: 48714
+
+    locations:
+      here: # eredath
+        - 58.8 37.8
+
+    contents:
+
+      - id: 153315 # Praetor's Ornamental Warblade [2h ? sword]
