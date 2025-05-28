@@ -1,7 +1,7 @@
 things:
   - id: 86775 # Urge to Surge
-    type: "quest"
-    name: "Shipping & Handling Job Streaks"
+    type: "event"
+    name: "Shipping & Handling Streaks"
     reset: "none"
     zoneMapsGroupId: 1
 
