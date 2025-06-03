@@ -1,0 +1,118 @@
+things:
+  - id: 238546
+    type: "vendor"
+    name: "Rhythferr"
+    note: "Champion Weaponsmith"
+
+    locations:
+      here: # dornogal
+        - 34 68.6
+        - 34.2 68.4
+
+    contents:
+
+      # 0
+
+      - id: 242622 # Warbound Purifying Kit
+        costs:
+          3149: 1000
+
+      - id: 236898 # Void-Touched Cleaver [1h ? axe]
+        costs:
+          3149: 500
+
+      - id: 236897 # Void-Touched Hacker [1h ? axe]
+        costs:
+          3149: 500
+
+      - id: 236884 # Void-Touched Bludgeon [1h ? mace]
+        costs:
+          3149: 500
+
+      - id: 236888 # Void-Touched Ocular [1h ? mace]
+        costs:
+          3149: 500
+
+      - id: 236883 # Void-Touched Pummeler [1h ? mace]
+        costs:
+          3149: 500
+
+      - id: 236885 # Void-Touched Gladius [1h ? sword]
+        costs:
+          3149: 500
+
+      - id: 236895 # Void-Touched Spellblade [1h ? sword]
+        costs:
+          3149: 500
+
+      - id: 236886 # Void-Touched Sword [1h ? sword]
+        costs:
+          3149: 500
+
+      - id: 236896 # Void-Touched Blade [? dagger]
+        costs:
+          3149: 500
+
+      - id: 236882 # Void-Touched Ritual Knife [? dagger]
+        costs:
+          3149: 500
+
+      - id: 236881 # Void-Touched Shank [? dagger]
+        costs:
+          3149: 500
+
+      - id: 236900 # Void-Touched Claws [fist]
+        costs:
+          3149: 500
+
+      - id: 236903 # Void-Touched Glaive [warglaive]
+        costs:
+          3149: 500
+
+      - id: 236889 # Void-Touched Waraxe [2h ? axe]
+        costs:
+          3149: 500
+
+      - id: 236901 # Void-Touched Broadsword [2h ? sword]
+        costs:
+          3149: 500
+
+      - id: 236902 # Void-Touched Greatsword [2h ? sword]
+        costs:
+          3149: 500
+
+      - id: 236891 # Void-Touched Polearm [polearm]
+        costs:
+          3149: 500
+
+      - id: 236890 # Void-Touched Spear [polearm]
+        costs:
+          3149: 500
+
+      - id: 236892 # Void-Touched Battle Staff [staff]
+        costs:
+          3149: 500
+
+      - id: 236893 # Void-Touched Stave [staff]
+        costs:
+          3149: 500
+
+      - id: 236894 # Void-Touched Bow [bow]
+        costs:
+          3149: 500
+
+      - id: 236887 # Void-Touched Sharpshooter [gun]
+        costs:
+          3149: 500
+
+      - id: 236899 # Void-Touched Wand [wand]
+        costs:
+          3149: 500
+
+      - id: 236904 # Void-Touched Lantern [off-hand]
+        costs:
+          3149: 500
+
+      - id: 236905 # Void-Touched Shield [shield]
+        costs:
+          3149: 500

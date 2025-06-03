@@ -1,0 +1,206 @@
+things:
+  - id: 238138
+    type: "vendor"
+    name: "Torie"
+    note: "Provisioner"
+
+    locations:
+      here: # dornogal
+        - 34.4 68.4
+        - 34.4 68.6
+
+    contents:
+
+      # 0
+
+      - id: 238668 # Ashjra'kamas, The Celestial [subclass=5 back]
+        costs:
+          3149: 2000
+
+      - id: 238666 # Ashjra'kamas, The Corrupted [subclass=5 back]
+        costs:
+          3149: 1000
+
+      - id: 238667 # Ashjra'kamas, The Purified [subclass=5 back]
+        costs:
+          3149: 1500
+
+      # 0 set=4365
+
+      - id: 236994 # Vision Manipulator's Cowl [cloth head]
+        costs:
+          3149: 600
+
+      - id: 236995 # Vision Manipulator's Mantle [cloth shoulders]
+        costs:
+          3149: 600
+
+      - id: 236993 # Vision Manipulator's Robe [cloth chest]
+        costs:
+          3149: 600
+
+      - id: 236977 # Vision Manipulator's Wristwraps [cloth wrists]
+        costs:
+          3149: 200
+
+      - id: 236974 # Vision Manipulator's Handwraps [cloth hands]
+        costs:
+          3149: 400
+
+      - id: 236976 # Vision Manipulator's Cinch [cloth waist]
+        costs:
+          3149: 400
+
+      - id: 236975 # Vision Manipulator's Leggings [cloth legs]
+        costs:
+          3149: 400
+
+      - id: 236973 # Vision Manipulator's Footwraps [cloth feet]
+        costs:
+          3149: 400
+
+      # 0 set=4364
+
+      - id: 236997 # Guise of the Insatiable Vision [leather head]
+        costs:
+          3149: 600
+
+      - id: 236998 # Shoulderpads of the Insatiable Vision [leather shoulders]
+        costs:
+          3149: 600
+
+      - id: 236996 # Chestguard of the Insatiable Vision [leather chest]
+        costs:
+          3149: 600
+
+      - id: 236982 # Wristwraps of the Insatiable Vision [leather wrists]
+        costs:
+          3149: 200
+
+      - id: 236979 # Grips of the Insatiable Vision [leather hands]
+        costs:
+          3149: 400
+
+      - id: 236981 # Waistguard of the Insatiable Vision [leather waist]
+        costs:
+          3149: 400
+
+      - id: 236980 # Legwraps of the Insatiable Vision [leather legs]
+        costs:
+          3149: 400
+
+      - id: 236978 # Footpads of the Insatiable Vision [leather feet]
+        costs:
+          3149: 400
+
+      # 0 set=4363
+
+      - id: 237000 # Vision Tormentor's Mask [mail head]
+        costs:
+          3149: 600
+
+      - id: 237001 # Vision Tormentor's Spaulders [mail shoulders]
+        costs:
+          3149: 600
+
+      - id: 236999 # Vision Tormentor's Breastplate [mail chest]
+        costs:
+          3149: 600
+
+      - id: 236987 # Vision Tormentor's Vambraces [mail wrists]
+        costs:
+          3149: 200
+
+      - id: 236984 # Vision Tormentor's Handguards [mail hands]
+        costs:
+          3149: 400
+
+      - id: 236986 # Vision Tormentor's Belt [mail waist]
+        costs:
+          3149: 400
+
+      - id: 236985 # Vision Tormentor's Legguards [mail legs]
+        costs:
+          3149: 400
+
+      - id: 236983 # Vision Tormentor's Footguards [mail feet]
+        costs:
+          3149: 400
+
+      # 0 set=4362
+
+      - id: 237003 # Malignant Vision's Headguard [plate head]
+        costs:
+          3149: 600
+
+      - id: 237004 # Malignant Vision's Spaulders [plate shoulders]
+        costs:
+          3149: 600
+
+      - id: 237002 # Malignant Vision's Chestplate [plate chest]
+        costs:
+          3149: 600
+
+      - id: 236992 # Malignant Vision's Armguards [plate wrists]
+        costs:
+          3149: 200
+
+      - id: 236989 # Malignant Vision's Crushers [plate hands]
+        costs:
+          3149: 400
+
+      - id: 236991 # Malignant Vision's Greatbelt [plate waist]
+        costs:
+          3149: 400
+
+      - id: 236990 # Malignant Vision's Wargreaves [plate legs]
+        costs:
+          3149: 400
+
+      - id: 236988 # Malignant Vision's Stompers [plate feet]
+        costs:
+          3149: 400
+
+      - id: 237005 # Malignant Vision's Drape [cloak]
+        costs:
+          3149: 400
+
+      # 0 set=4363
+
+      - id: 237006 # Vision Tormentor's Tentacles [cloak]
+        costs:
+          3149: 400
+
+      # 0 set=4364
+
+      - id: 237007 # Cloak of the Insatiable Vision [cloak]
+        costs:
+          3149: 400
+
+      # 0 set=4365
+
+      - id: 237008 # Vision Manipulator's Cloak [cloak]
+        costs:
+          3149: 400
+
+      # 0
+
+      - id: 174361 # Black Dragonscale Backpack [cloak]
+        costs:
+          3149: 2000
+
+      - id: 238255 # Bronze Dragonscale Backpack [cloak]
+        costs:
+          3149: 5000
+
+      - id: 235980 # Scourge of the Aspects
+        costs:
+          3149: 5000
+
+      - id: 235711 # Corruption of the Aspects
+        costs:
+          3149: 40000
+
+      - id: 174770 # Wicked Swarmer
+        costs:
+          3149: 20000
