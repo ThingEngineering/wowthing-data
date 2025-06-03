@@ -8,6 +8,12 @@ things:
       here: # dornogal
         - 34 68.8
 
+    groups:
+      - name: "Visions - Veteran Weapons"
+        sortKey: "visions-7"
+        range: -1
+        bonusIds: [6652, 11972, 1481, 10255]
+
     contents:
 
       # 0

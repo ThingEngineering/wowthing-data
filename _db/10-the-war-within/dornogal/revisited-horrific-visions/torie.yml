@@ -6,24 +6,47 @@ things:
 
     locations:
       here: # dornogal
-        - 34.4 68.4
         - 34.4 68.6
+
+    groups:
+
+      - name: "Visions - Misc"
+        range: 3
+        sortKey: "visions-1"
+
+      - name: "Visions - Cloth"
+        range: 9
+        sortKey: "visions-2"
+
+      - name: "Visions - Leather"
+        range: 9
+        sortKey: "visions-3"
+
+      - name: "Visions - Mail"
+        range: 9
+        sortKey: "visions-4"
+
+      - name: "Visions - Plate"
+        range: 9
+        sortKey: "visions-5"
+
+      - name: "Visions - Cloaks"
+        range: -1
+        sortKey: "visions-6"
 
     contents:
 
-      # 0
-
-      - id: 238668 # Ashjra'kamas, The Celestial [subclass=5 back]
+      - id: 235711 # Corruption of the Aspects [mount]
         costs:
-          3149: 2000
+          3149: 40000
 
-      - id: 238666 # Ashjra'kamas, The Corrupted [subclass=5 back]
+      - id: 174770 # Wicked Swarmer [mount]
         costs:
-          3149: 1000
+          3149: 20000
 
-      - id: 238667 # Ashjra'kamas, The Purified [subclass=5 back]
+      - id: 235980 # Scourge of the Aspects [pet]
         costs:
-          3149: 1500
+          3149: 5000
 
       # 0 set=4365
 
@@ -34,6 +57,10 @@ things:
       - id: 236995 # Vision Manipulator's Mantle [cloth shoulders]
         costs:
           3149: 600
+
+      - id: 237008 # Vision Manipulator's Cloak [cloak]
+        costs:
+          3149: 400
 
       - id: 236993 # Vision Manipulator's Robe [cloth chest]
         costs:
@@ -69,6 +96,10 @@ things:
         costs:
           3149: 600
 
+      - id: 237007 # Cloak of the Insatiable Vision [cloak]
+        costs:
+          3149: 400
+
       - id: 236996 # Chestguard of the Insatiable Vision [leather chest]
         costs:
           3149: 600
@@ -102,6 +133,10 @@ things:
       - id: 237001 # Vision Tormentor's Spaulders [mail shoulders]
         costs:
           3149: 600
+
+      - id: 237006 # Vision Tormentor's Tentacles [cloak]
+        costs:
+          3149: 400
 
       - id: 236999 # Vision Tormentor's Breastplate [mail chest]
         costs:
@@ -137,6 +172,10 @@ things:
         costs:
           3149: 600
 
+      - id: 237005 # Malignant Vision's Drape [cloak]
+        costs:
+          3149: 400
+
       - id: 237002 # Malignant Vision's Chestplate [plate chest]
         costs:
           3149: 600
@@ -161,29 +200,19 @@ things:
         costs:
           3149: 400
 
-      - id: 237005 # Malignant Vision's Drape [cloak]
+      # Cloaks
+
+      - id: 238668 # Ashjra'kamas, The Celestial [subclass=5 back]
         costs:
-          3149: 400
+          3149: 2000
 
-      # 0 set=4363
-
-      - id: 237006 # Vision Tormentor's Tentacles [cloak]
+      - id: 238666 # Ashjra'kamas, The Corrupted [subclass=5 back]
         costs:
-          3149: 400
+          3149: 1000
 
-      # 0 set=4364
-
-      - id: 237007 # Cloak of the Insatiable Vision [cloak]
+      - id: 238667 # Ashjra'kamas, The Purified [subclass=5 back]
         costs:
-          3149: 400
-
-      # 0 set=4365
-
-      - id: 237008 # Vision Manipulator's Cloak [cloak]
-        costs:
-          3149: 400
-
-      # 0
+          3149: 1500
 
       - id: 174361 # Black Dragonscale Backpack [cloak]
         costs:
@@ -192,15 +221,3 @@ things:
       - id: 238255 # Bronze Dragonscale Backpack [cloak]
         costs:
           3149: 5000
-
-      - id: 235980 # Scourge of the Aspects
-        costs:
-          3149: 5000
-
-      - id: 235711 # Corruption of the Aspects
-        costs:
-          3149: 40000
-
-      - id: 174770 # Wicked Swarmer
-        costs:
-          3149: 20000

@@ -6,8 +6,18 @@ things:
 
     locations:
       here: # dornogal
-        - 34 68.6
         - 34.2 68.4
+
+    groups:
+
+      - name: "Visions - Misc"
+        range: 1
+        sortKey: "visions-1"
+
+      - name: "Visions - Champion Weapons"
+        sortKey: "visions-8"
+        range: -1
+        bonusIds: [6652, 11978, 1488, 10255]
 
     contents:
 
