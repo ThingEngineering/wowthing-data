@@ -1,0 +1,47 @@
+things:
+  - id: 234297
+    type: "vendor"
+    name: "Wodin the Troll-Servant"
+
+    locations:
+      here: # dornogal
+        - 52.5 46.2
+
+    tags:
+      - "event:dastardly-duos"
+
+    groups:
+
+      - name: "Dastardly Duos"
+        range: -1
+        sortKey: "dastardly-duos"
+
+    contents:
+
+      - id: 239506 # Red Dastardly Epaulet [Defeat Two Dastardlies]
+        costs:
+          2815: 500 # Resonance Crystals
+
+      - id: 239507 # Yellow Dastardly Epaulet [Defeat Two Dastardlies]
+        costs:
+          2815: 500 # Resonance Crystals
+
+      - id: 239504 # Green Dastardly Epaulet [Defeat 4 Dastardlies]
+        costs:
+          2815: 500 # Resonance Crystals
+
+      - id: 239505 # Purple Dastardly Epaulet [Defeat 4 Dastardlies]
+        costs:
+          2815: 500 # Resonance Crystals
+
+      - id: 239442 # Black Dastardly Epaulet [Defeat 6 Dastardlies]
+        costs:
+          2815: 500 # Resonance Crystals
+
+      - id: 239503 # Blue Dastardly Epaulet [Defeat 6 Dastardlies]
+        costs:
+          2815: 500 # Resonance Crystals
+
+      - id: 238624 # Dastardly Pinchzapper [Defeat 8 Dastardlies]
+        costs:
+          2815: 500 # Resonance Crystals
