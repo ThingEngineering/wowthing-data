@@ -12,5 +12,6 @@ groups:
 
 - name: "World Events"
   things:
-  - 2159 # Machine Defense Unit 1-11 (Awakening the Machine)
   - 2194 # Dauntless Imperial Lynx (Spreading the Light)
+  - 2159 # Machine Defense Unit 1-11 (Awakening the Machine)
+  - 2303 # Violet Goblin Shredder (Shipping & Handling)

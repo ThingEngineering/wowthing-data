@@ -11,8 +11,12 @@ groups:
 
 - name: "Undermine"
   things:
-    - 2276 # Darkfuse Chompactor
-    - 2279 # Thunderdrum Misfire
-    - 2290 # Asset Advocator (25 somethings)
-    - 2283 # Innovation Investigator (25 somethings)
-    - 2292 # Margin Manipulator (25 somethings)
+    - 2290 # Asset Advocator (25 Miscellanous Mechanica)
+    - 2283 # Innovation Investigator (25 Miscellanous Mechanica)
+    - 2292 # Margin Manipulator (25 Miscellanous Mechanica)
+    - 2288 # Personalized Goblin S.C.R.A.P.per (333 Empty Kaja'Cola Can -> Sifted Pile of Scrap)
+
+- name: "Revisited Horrific Visions"
+  things:
+    - 2501 # Corruption of the Aspects (40,000)
+    - 1321 # Wicked Swarmer (20,000)

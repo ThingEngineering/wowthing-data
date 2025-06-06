@@ -15,7 +15,11 @@ groups:
 
 - name: "Visions"
   things:
-    - 2497 # Void-Forged Stallion
-    - 2496 # Void-Scarred Gryphon
-    - 2498 # Void-Scarred Pack Mother
-    - 2499 # Void-Scarred Windrider
+    - 1315 # Mail Muncher (both from mailboxes)
+    - 2178 # Nesting Swarmite (both from trash piles)
+    - 2502 # Void-Crystal Panther (Orgrimmar > JC crafted)
+    - 2497 # Void-Forged Stallion (Stormwind)
+    - 2496 # Void-Scarred Gryphon (Stormwind)
+    - 2498 # Void-Scarred Pack Mother (Orgrimmar)
+    - 2499 # Void-Scarred Windrider (Orgrimmar)
+    - 1948 # Voidfire Deathcycle (both)

@@ -65,3 +65,10 @@ groups:
 - name: "Darkfuse Cartel"
   things:
     - 2287 # Darkfuse Demolisher (Revered)
+    - 2334 # Bronze Goblin Waveshredder (Paragon)
+
+- name: "Gallagio Loyalty Rewards Club"
+  things:
+    - 2279 # Thunderdrum Misfire (Renown 8)
+    - 2276 # Darkfuse Chompactor (Renown 17)
+    - 2278 # Flarendo the Furious (Renown 20)

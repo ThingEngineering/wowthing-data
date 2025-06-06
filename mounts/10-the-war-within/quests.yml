@@ -12,7 +12,3 @@ groups:
 - name: "Siren Isle"
   things:
     - 2469 # Prismatic Snapdragon
-
-- name: "Undermine"
-  things:
-    - 2303 # Violet Goblin Shredder (Shipping & Handling)

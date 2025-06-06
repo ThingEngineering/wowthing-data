@@ -51,6 +51,8 @@ groups:
     - 2491 # Ruby Butterfly (2025-03)
     - 1824 # Brown-Furred Spiky Bakar (2025-04?)
     - 2520 # Spring Harvesthog (2025-05)
+    - 2524 # Coldflame Cormaera (2025-06)
+    - 2504 # Spotted Black Riding Goat (2025-06)
 
 - name: "Unavailable"
   things:
@@ -73,5 +75,3 @@ groups:
     - 2521 # Summer Harvesthog
     - 2522 # Winter Harvesthog
     - 2523 # Autumn Harvesthog
-    - 2524 # Coldflame Cormaera
-    - 2504 # Spotted Black Riding Goat
