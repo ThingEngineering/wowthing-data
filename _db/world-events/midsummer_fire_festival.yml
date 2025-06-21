@@ -92,6 +92,18 @@ things:
         costs:
           1023247: 200
 
+      - id: 242740 # Grand Helm of the Fire Festival [subclass=5 head]
+        costs:
+          1023247: 350
+
+      - id: 242741 # Grand Mantle of the Fire Festival [subclass=5 shoulders]
+        costs:
+          1023247: 350
+
+      - id: 242742 # Grand Belt of the Fire Festival [subclass=5 waist]
+        costs:
+          1023247: 150
+
       - id: 220785 # Midsummer Safeguard [shield]
         costs:
           1023247: 350
