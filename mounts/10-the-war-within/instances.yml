@@ -1,6 +1,10 @@
 name: "Instances"
 groups:
 
+- name: "Delves"
+  things:
+    - 2296 # Delver's Gob-Trotter (I Want My Hat Back quest)
+
 - name: "Dungeons"
   things:
     - 2119 # Stonevault Mechsuit (The Stonevault)

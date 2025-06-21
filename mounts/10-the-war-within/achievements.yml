@@ -3,6 +3,7 @@ groups:
 
 - name: "Misc"
   things:
+    - 2604 # OC91 Chariot (Titan Console Overcharged)
     - 2190 # Shadow of Doubt (Meta)
     - 2181 # Swarmite Skyhunter (Khaz Algar Glyph Hunter)
     - 2332 # The Breaker's Song (Isle Remember You)

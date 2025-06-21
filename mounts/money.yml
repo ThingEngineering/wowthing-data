@@ -16,6 +16,7 @@ groups:
     - 1812 # Runebound Firelord (Cataclysm Classic ??)
     - 2476 # Sha-Warped Cloud Serpent (MoP Classic ??)
     - 2477 # Sha-Warped Riding Tiger (MoP Classic ??)
+    - 2582 # Shaohao's Sage Serpent (MoP Classic ??)
 
 - name: Promotions
   things:

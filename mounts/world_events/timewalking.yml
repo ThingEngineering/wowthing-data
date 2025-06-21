@@ -3,12 +3,14 @@ groups:
 
 - name: Achievements
   things:
-  - 1532 # Soaring Spelltome
-  - 1737 # Sandy Shalewing (Timewalking thing)
+    - 1532 # Soaring Spelltome
+    - 2518 # Chrono Corsair (Master of the Turbulent Timeways III)
 
 - name: Misc
   things:
-  - 781 # Infinite Timereaver (Timewalking)
+    - 781 # Infinite Timereaver (Timewalking)
+    - 1737 # Sandy Shalewing (?? -> vendor)
+    - 2321 # Timely Buzzbee (Master of the Turbulent Timeways II -> vendor)
 
 - name: Classic
   things:
@@ -16,8 +18,8 @@ groups:
 
 - name: Burning Crusade
   things:
-  - 778 # Eclipse Dragonhawk
-  - 2225 # Amani Hunting Bear
+    - 2225 # Amani Hunting Bear
+    - 778 # Eclipse Dragonhawk
 
 - name: Wrath of the Lich King
   things:
@@ -26,20 +28,25 @@ groups:
 
 - name: Cataclysm
   things:
-  - 2473 # Broodling of Sinestra
+    - 2473 # Broodling of Sinestra
 
 - name: Mists of Pandaria
   things:
-  - 476 # Yu'lei, Daughter of Jade (Timewalking)
-  - 2474 # Copper-Maned Quilen
+    - 2474 # Copper-Maned Quilen
+    - 476 # Yu'lei, Daughter of Jade (Timewalking)
 
 - name: Warlords of Draenor
   things:
-  - 1242 # Beastlord's Irontusk (Timewarped Badge)
-  - 1243 # Beastlord's Warwolf (Timewarped Badge)
-  - 2470 # Nightfall Skyreaver
+    - 1242 # Beastlord's Irontusk (Timewarped Badge)
+    - 1243 # Beastlord's Warwolf (Timewarped Badge)
+    - 2470 # Nightfall Skyreaver
 
 - name: Legion
   things:
-  - 2471 # Ur'zul Fleshripper
-  - 1521 # Val'sharah Hippogryph
+    - 2471 # Ur'zul Fleshripper
+    - 1521 # Val'sharah Hippogryph
+
+- name: "Battle for Azeroth"
+  things:
+    - 2587 # Ivory Savagemane
+    - 2586 # Moonlit Nightsaber
