@@ -1,7 +1,7 @@
 id: 132097
 name: "Happy Holaua"
 locations:
-  z7_dazaralor:
+  "07-battle-for-azeroth/dazaralor":
     - 56.0 32.2 horde
 sells:
   - type: pet

@@ -60,6 +60,8 @@
     07-battle-for-azeroth/nazmir.yml
     07-battle-for-azeroth/voldun.yml
     07-battle-for-azeroth/zuldazar.yml
+    -
+    07-battle-for-azeroth/timewalking.yml
 
 06-legion/_.yml
     06-legion/antoran_wastes.yml
@@ -178,6 +180,7 @@ timewalking.yml
     04-mists-of-pandaria/timewalking.yml Mists of Pandaria
     05-warlords-of-draenor/timewalking.yml Warlords of Draenor
     06-legion/timewalking.yml Legion
+    07-battle-for-azeroth/timewalking.yml Battle for Azeroth
 
 world-events/_world_events.yml
     world-events/anniversary.yml

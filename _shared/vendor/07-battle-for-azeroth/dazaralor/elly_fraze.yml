@@ -1,7 +1,7 @@
 id: 138033
 name: "Elly Fraze"
 locations:
-  z7_dazaralor:
+  "07-battle-for-azeroth/dazaralor":
     - 48.4 89.6
 sells:
   - type: toy

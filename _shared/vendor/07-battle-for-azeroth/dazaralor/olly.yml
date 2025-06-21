@@ -1,7 +1,7 @@
 id: 148080
 name: "Olly"
 locations:
-  z7_dazaralor:
+  "07-battle-for-azeroth/dazaralor":
     - 45.6 86.6 horde
 sells:
   - type: pet

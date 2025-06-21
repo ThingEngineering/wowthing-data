@@ -1,7 +1,7 @@
 id: 122463
 name: "Plen"
 locations:
-  z7_dazaralor:
+  "07-battle-for-azeroth/dazaralor":
     - 47.8 91.6
 sells:
   - type: mount

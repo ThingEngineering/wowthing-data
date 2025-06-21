@@ -1,7 +1,7 @@
 id: 148924
 name: "Provisioner Mukra"
 locations:
-  z7_dazaralor:
+  "07-battle-for-azeroth/dazaralor":
     - 51.2 95.2 horde
 sells:
   - type: mount

@@ -1,7 +1,7 @@
 id: 131287
 name: "Natal'hakata"
 locations:
-  z7_dazaralor:
+  "07-battle-for-azeroth/dazaralor":
     - 51.1 45.9 horde
 sells:
   - type: mount

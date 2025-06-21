@@ -1,0 +1,266 @@
+tags:
+  - "expansion:7"
+  - "expansion:battle-for-azeroth"
+
+things:
+  - id: 239840
+    type: "vendor"
+    name: "Churbro"
+    note: "Timewalking Vendor"
+
+    locations:
+      07-battle-for-azeroth/boralus:
+        - "70.9 17.2 alliance"
+      07-battle-for-azeroth/dazaralor:
+        - "46.1 94.9 horde"
+
+    groups:
+      - name: "BfA TW - Misc"
+        range: 8
+        sortKey: "z-tw-07-0"
+
+      - name: "BfA TW - Ensembles"
+        range: 4
+        sortKey: "z-tw-07-1"
+
+      - name: "BfA TW - Armor"
+        range: 13
+        sortKey: "z-tw-07-2"
+
+      - name: "BfA TW - Weapons"
+        range: 13
+        sortKey: "z-tw-07-4"
+
+      - name: "BfA TW - $$$ Weapons"
+        range: -1
+        sortKey: "z-tw-07-5"
+
+    contents:
+
+      # Mounts
+
+      - id: 245694 # Reins of the Ivory Savagemane
+        costs:
+          1166: 5000
+
+      - id: 245695 # Reins of the Moonlit Nightsaber
+        costs:
+          1166: 5000
+
+      - id: 205208 # Sandy Shalewing
+        costs:
+          1166: 5000
+
+      - id: 232624 # Timely Buzzbee
+        costs:
+          1166: 5000
+
+      # Pets
+
+      - id: 245543 # Flotsam Harvester
+        costs:
+          1166: 2200
+
+      - id: 245574 # Lil' Daz'ti
+        costs:
+          1166: 2200
+
+      # Toys
+
+      - id: 246227 # Lightning-Blessed Spire
+        costs:
+          1166: 1000
+
+      - id: 245942 # Sea-Blessed Shrine
+        costs:
+          1166: 1000
+
+      # 0
+
+      # Ensembles
+
+      - id: 244145 # Ensemble: Ashvane Smuggler's Attire
+        costs:
+          1166: 2500
+
+      - id: 244224 # Ensemble: Bloodsail Smuggler's Attire
+        costs:
+          1166: 2500
+
+      - id: 244306 # Ensemble: Golden Fleet's Sailing Garb
+        costs:
+          1166: 2000
+
+      - id: 244327 # Ensemble: Zocalo Merchant's Wear
+        costs:
+          1166: 2000
+
+      # Armor
+
+      - id: 243563 # Tal'aman Ambassador's Amice [cloth shoulders]
+        costs:
+          1166: 35
+
+      - id: 243561 # Ancient Nazmani Bracelet [cloth wrists]
+        costs:
+          1166: 25
+
+      - id: 243562 # Mirestained Scout's Mantle [leather shoulders]
+        costs:
+          1166: 35
+
+      - id: 243560 # Naval Officer's Armband [leather wrists]
+        costs:
+          1166: 25
+
+      - id: 243565 # Navigator's Flagship Mantle [mail shoulders]
+        costs:
+          1166: 35
+
+      - id: 243558 # Stormsong Mariner's Cuff [mail wrists]
+        costs:
+          1166: 25
+
+      - id: 243564 # Boralus Cityguard Spaulders [plate shoulders]
+        costs:
+          1166: 35
+
+      - id: 243559 # Pilfered Wristguards of Aka'ali [plate wrists]
+        costs:
+          1166: 25
+
+      - id: 243569 # Bloodstained Shawl of Tal'Gurub [cloak]
+        costs:
+          1166: 25
+
+      - id: 243567 # Cloak of the Tideguard [cloak]
+        costs:
+          1166: 25
+
+      - id: 243568 # Tidecaller's Ritual Cape [cloak]
+        costs:
+          1166: 25
+
+      - id: 243566 # Waycrest Sentry Cloak [cloak]
+        costs:
+          1166: 25
+
+      - id: 244471 # Time-Lost Tempest Caller [cosmetic head]
+        costs:
+          1166: 1000
+
+      # Weapons
+
+      - id: 244161 # Mugambala Champion's Axe [1h ? axe]
+        costs:
+          1166: 50
+
+      - id: 244162 # Bondo's Spare Mechano-Clamps [1h ? mace]
+        costs:
+          1166: 50
+
+      - id: 244160 # Junkyard Clobberstick [1h ? mace]
+        costs:
+          1166: 50
+
+      - id: 244158 # Azerite-Carved Ritual Kris [? dagger]
+        costs:
+          1166: 50
+
+      - id: 244159 # Tol'Dagor Pocket Shank [? dagger]
+        costs:
+          1166: 50
+
+      - id: 244151 # Ashvane Ore Crusher [2h ? mace]
+        costs:
+          1166: 100
+
+      - id: 244153 # Reclaimed Ancestral Blade of the Deeps [2h ? sword]
+        costs:
+          1166: 100
+
+      - id: 244154 # Freehold Boarding Halberd [polearm]
+        costs:
+          1166: 100
+
+      - id: 244155 # Siren Slayer's Trident [polearm]
+        costs:
+          1166: 100
+
+      - id: 244152 # Pilfered Golden Scepter [staff]
+        costs:
+          1166: 100
+
+      - id: 244156 # Crackling Stormbow of the Devoted [bow]
+        costs:
+          1166: 100
+
+      - id: 244150 # Seaglass Ritual Rod [off-hand]
+        costs:
+          1166: 35
+
+      - id: 244157 # Blessed Bulwark of Zanchul [shield]
+        costs:
+          1166: 35
+
+      # $$$ Weapons
+
+      - id: 244436 # Parrot King's Hook-Leg [1h ? axe]
+        costs:
+          1166: 1200
+
+      - id: 244431 # Tideguard's Blessed Gavel [1h ? mace]
+        costs:
+          1166: 1200
+
+      - id: 244434 # Witch-Hunter's Shortsword [1h ? sword]
+        costs:
+          1166: 1200
+
+      - id: 244428 # Fang of Sethraliss [? dagger]
+        costs:
+          1166: 1200
+
+      - id: 244430 # Fang of the Dark Prophets [? dagger]
+        costs:
+          1166: 1500
+
+      - id: 244441 # Dazar's Ceremonial Negotiator [2h ? axe]
+        costs:
+          1166: 1500
+
+      - id: 244445 # Razdunk's WR0-NC4 5300 [2h ? mace]
+        costs:
+          1166: 1800
+
+      - id: 244440 # Blade of the Rezani Prelate [2h ? sword]
+        costs:
+          1166: 1500
+
+      - id: 244438 # Nazmani Blood Drinker [polearm]
+        costs:
+          1166: 1500
+
+      - id: 244439 # Stormcrook of the Faithless [staff]
+        costs:
+          1166: 1500
+
+      - id: 244437 # Dark Ranger's Black Bow [bow]
+        costs:
+          1166: 1500
+
+      - id: 244427 # Blood Witch's Hex Cane [off-hand]
+        costs:
+          1166: 1500
+
+      - id: 244426 # Dinomancer's Calming Rod [off-hand]
+        costs:
+          1166: 1500
+
+      - id: 244432 # 7th Legion Commander's Crest [shield]
+        costs:
+          1166: 2000
+
+      - id: 244433 # Waycrest Training Buckler [shield]
+        costs:
+          1166: 1200

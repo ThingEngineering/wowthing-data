@@ -3,7 +3,7 @@ name: "Griftah"
 note: "Complete a short trading sequence to get the item required for the toy"
 
 locations:
-  z7_dazaralor:
+  "07-battle-for-azeroth/dazaralor":
     - 52.8 89.8 horde
 
 sells:

@@ -1,7 +1,7 @@
 id: 125879
 name: "Talutu"
 locations:
-  z7_dazaralor:
+  "07-battle-for-azeroth/dazaralor":
     - 48.6 87.0 horde
 sells:
   - type: mount
