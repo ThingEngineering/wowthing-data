@@ -26,3 +26,9 @@ groups:
   - 2577 # Froglet
   - 2575 # Mr. Crabs
   - 2578 # Scaley
+
+- name: "The War Within"
+  things:
+    - 4466 # Argos
+    - 4635 # Goggles
+    - 3245 # Helpful Workshop Bot

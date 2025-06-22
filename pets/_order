@@ -60,6 +60,7 @@ world_events/_world_events.yml
     world_events/argent_tournament.yml
     world_events/childrens_week.yml
     world_events/darkmoon_faire.yml
+    world_events/timewalking.yml
 
 -
 

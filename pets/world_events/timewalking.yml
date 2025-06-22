@@ -13,3 +13,8 @@ groups:
   things:
     - 2017 # Infinite Hatchling (Timeless Isle - Mistweaver Xia)
     - 2018 # Paradox Spirit (Timeless Isle - Mistweaver Xia)
+
+- name: "BfA"
+  things:
+    - 4849 # Flotsam Harvester
+    - 4852 # Lil' Daz'ti

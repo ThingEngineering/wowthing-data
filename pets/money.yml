@@ -3,23 +3,27 @@ groups:
 
 - name: "Game Editions"
   things:
-  - 93 # Mini Diablo - Vanilla
-  - 92 # Panda Cub - Vanilla
-  - 94 # Zergling - Vanilla
-  - 111 # Lurky - TBC (EU)
-  - 131 # Netherwhelp - TBC
-  - 188 # Frosty - WotLK
-  - 268 # Lil' Deathwing - Cata
-  - 671 # Lucky Quilen Cub - MoP
-  - 1386 # Dread Hatchling - WoD
-  - 1691 # Nibbles - Legion
-  - 2143 # Tottle (BfA Collector's Edition)
-  - 2779 # Anima Wyrmling (Shadowlands)
-  - 3175 # Murkastrasza (Dragonflight Heroic Edition)
-  - 4266 # Squally (The War Within Epic Edition)
-  - 4590 # Flash (The War Within Epic Edition)
-  - 4589 # Gale (The War Within Epic Edition)
-  - 4591 # Thundo (The War Within Epic Edition)
+    - 93 # Mini Diablo - Vanilla
+    - 92 # Panda Cub - Vanilla
+    - 94 # Zergling - Vanilla
+    - 111 # Lurky - TBC (EU)
+    - 131 # Netherwhelp - TBC
+    - 188 # Frosty - WotLK
+    - 268 # Lil' Deathwing - Cata
+    - 671 # Lucky Quilen Cub - MoP
+    - 1386 # Dread Hatchling - WoD
+    - 1691 # Nibbles - Legion
+    - 2143 # Tottle (BfA Collector's Edition)
+    - 2779 # Anima Wyrmling (Shadowlands)
+    - 3175 # Murkastrasza (Dragonflight Heroic Edition)
+    - 4266 # Squally (The War Within Epic Edition)
+    - 4590 # Flash (The War Within Epic Edition)
+    - 4589 # Gale (The War Within Epic Edition)
+    - 4591 # Thundo (The War Within Epic Edition)
+
+- name: "Classic?"
+  things:
+    - 4316 # Lil' Wrathion (Cataclysm Classic Blazing Heroic Pack)
 
 - name: "Other Games"
   things:
@@ -74,6 +78,7 @@ groups:
   - 2890 # Sunny
   - 4684 # Timbered Sky Snakelet
   - 2051 # Twilight
+  - 4717 # Wanderer Liu
   - 2184 # Whomper
   - 246 # Wind Rider Cub
 

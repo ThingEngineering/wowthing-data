@@ -11,7 +11,12 @@ groups:
 
 - name: "Dornogal"
   things:
+    - 4586 # Brown Leafbug
+    - 4546 # Sandstone Ramolith
     - 4543 # Sir Shady Mrrgglton Junior
+    - 4495 # Skippy
+    - 4524 # Starkstripe Hopper
+    - 4511 # Venomwing
 
 - name: "Hallowfall"
   things:

@@ -14,3 +14,24 @@ groups:
   things:
     - 4469 # Bop [Cinderbrew Meadery]
     - 4759 # Craboom [Operation: Floodgate]
+
+- name: "Raids"
+  things:
+    - 4640 # Fun-Size Flarendo
+    - 4643 # Tiny Torq
+
+- name: "Visions"
+  things:
+    - 2842 # Anomalus
+    - 2838 # C'Thuffer
+    - 4747 # Eye of Chaos
+    - 2844 # Reek (Achievement: Reeking of Visions)
+    - 4756 # Scourge of the Aspects (Vendor)
+    - 2840 # Void-Scarred Cat
+    - 2839 # Void-Scarred Hare
+    - 4748 # Void-Scarred Parrot
+    - 2797 # Void-Scarred Pup
+    - 2841 # Void-Scarred Rat
+    - 4749 # Void-Scarred Scorpid
+    - 4750 # Void-Scarred Tallstrider Chick
+    - 2796 # Void-Scarred Toad
