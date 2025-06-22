@@ -1,6 +1,65 @@
 name: "Renown"
 groups:
 
+- name: "{faction:2688}" # Flame's Radiance
+  icon: "achievement/41997"
+  iconText: "FR"
+  lookup: none
+  minimumLevel: 80
+  type: quest
+  data:
+    0:
+
+      - id: 89398 # Carved Crests
+        description: "{repPrice:2688|4|15|-2919}" # 15x Carved Harbinger Crest at Renown 4
+
+      - id: 89399 # Carved Crests
+        description: "{repPrice:2688|7|15|-2919}" # 15x Carved Harbinger Crest at Renown 7
+
+      - id: 89400 # Carved Crests
+        description: "{repPrice:2688|10|15|-2919}" # 15x Carved Harbinger Crest at Renown 10
+
+- name: "{faction:2653}" # The Cartels of Undermine
+  icon: "achievement/41086"
+  iconText: "CoU"
+  lookup: none
+  minimumLevel: 80
+  type: quest
+  data:
+    0:
+
+      - id: 85816 # A Small Bundle of Valorstones
+        description: "{repPrice:2653|5|40|-3008}" # 40x Valorstone at Renown 5
+
+      - id: 85817 # Weathered Crests
+        description: "{repPrice:2653|6|15|-2918}" # 15x Weathered Harbinger Crest at Renown 6
+
+      - id: 85819 # Weathered Crests
+        description: "{repPrice:2653|9|15|-2918}" # 15x Weathered Harbinger Crest at Renown 9
+
+      - id: 90557 # Whose Key is This?
+        description: "{repPrice:2653|9|1|-3028}" # 1x Restored Coffer Key at Renown 9
+
+      - id: 85820 # Valorstones
+        description: "{repPrice:2653|11|40|-3008}" # 40x Valorstone at Renown 11
+
+      - id: 85821 # Carved Crests
+        description: "{repPrice:2653|12|15|-2919}" # 15x Carved Harbinger Crest at Renown 12
+
+      - id: 85823 # Carved Crests
+        description: "{repPrice:2653|15|15|-2919}" # 15x Carved Harbinger Crest at Renown 15
+
+      - id: 85824 # Valorstones
+        description: "{repPrice:2653|17|40|-3008}" # 40x Valorstone at Renown 17
+
+      - id: 85825 # Carved Crests
+        description: "{repPrice:2653|18|15|-2919}" # 15x Carved Harbinger Crest at Renown 18
+
+      - id: 85827 # Glinting and Gleaming
+        description: "{repPrice:2653|19|1|-1230936}" # 1x Enchanted Runed Undermine Crest at Renown 19
+
+- name: separator
+
 - name: "{faction:2594}" # Assembly of the Deeps
   icon: "achievement/40836"
   iconText: "AotD"
