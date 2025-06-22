@@ -1,7 +1,7 @@
 name: "Renown"
 groups:
 
-- name: "{reputation:2594}" # Assembly of the Deeps
+- name: "{faction:2594}" # Assembly of the Deeps
   icon: "achievement/40836"
   iconText: "AotD"
   lookup: none
@@ -9,34 +9,46 @@ groups:
   type: quest
   data:
     0:
-      - id: 82349 # Carved Crests
-        description: "{repPrice:2594|6|15|-2919}" # 15x Carved Harbinger Crest at Renown 6
-
-      - id: 82333 # Weathered Crests
+      - id: 82369 # A Shining Bundle of Goods
         description: "{repPrice:2594|6|15|-2918}" # 15x Weathered Harbinger Crest at Renown 6
 
-      - id: 82346 # A Small Bundle of Valorstones
+      - id: 84914 # Valorstones
         description: "{repPrice:2594|7|40|-3008}" # 40x Valorstone at Renown 7
 
-      - id: 82344 # Weathered Crests
+      - id: 82370 # Crests
         description: "{repPrice:2594|9|15|-2918}" # 15x Weathered Harbinger Crest at Renown 9
 
-      - id: 82361 # A Large Bundle of Goods
-        description: "{price:1|3028} + {repPrice:2594|17|40|-3008}" # 40x Valorstone at Renown 17
+      - id: 82373 # Crests and Rocks 11
+        description: "{repPrice:2594|11|15|-2919}" # 15x Carved Harbinger Crest at Renown 11
 
-      - id: 82358 # Carved Crests
-        description: "{repPrice:2594|19|15|-2919}" # 15x Carved Harbinger Crest at Renown 19
+      - id: 82375 # Take Key! 13
+        description: "{repPrice:2594|13|1|-3028}" # 1x Restored Coffer Key at Renown 13
 
-      - id: 82361 # A Small Bundle of Goods
+      - id: 82377 # Crests 15
+        description: "{repPrice:2594|15|15|-2919}" # 15x Carved Harbinger Crest at Renown 15
+
+      - id: 82378 # Valorstones 16
+        description: "{repPrice:2594|16|40|-3008}" # 40x Valorstone at Renown 16
+
+      - id: 83043 # Crests 17
+        description: "{repPrice:2594|17|15|-2919}" # 15x Carved Harbinger Crest at Renown 17
+
+      - id: 82382 # Crests 21
+        description: "{repPrice:2594|21|15|-2919}" # 15x Carved Harbinger Crest at Renown 21
+
+      - id: 82383 # Brave Rocks 22
         description: "{repPrice:2594|22|40|-3008}" # 40x Valorstone at Renown 22
 
-      - id: 82365 # A Crafter's Delight
+      - id: 83046 # Carved Crests 23
+        description: "{repPrice:2594|23|15|-2919}" # 15x Carved Harbinger Crest at Renown 23
+
+      - id: 82384 # A Big, Big Shiny!
         description: "{repPrice:2594|24|1|-1224072}" # 1x Enchanted Runed Harbinger Crest at Renown 24
 
-      - id: 82362 # For What Glimmers in Stone
-        description: "{repPrice:2594|25|15|-2919}" # 15x Carved Harbinger Crest at Renown 25
+      - id: 82385 # For What Glimmers in Candlelight 25
+        description: "{repPrice:2594|25|40|-3008}" # 40x Valorstone at Renown 25
 
-- name: "{reputation:2590}" # Council of Dornogal
+- name: "{faction:2590}" # Council of Dornogal
   icon: "achievement/40856"
   iconText: "CoD"
   lookup: none
@@ -44,9 +56,34 @@ groups:
   type: quest
   data:
     0:
-      - id: 82042
+      - id: 82349 # Carved Crests
+        description: "{repPrice:2590|6|15|-2919}" # 15x Carved Harbinger Crest at Renown 6
 
-- name: "{reputation:2570}" # Hallowfall Arathi
+      - id: 82333 # Weathered Crests
+        description: "{repPrice:2590|6|15|-2918}" # 15x Weathered Harbinger Crest at Renown 6
+
+      - id: 82346 # A Small Bundle of Valorstones
+        description: "{repPrice:2590|7|40|-3008}" # 40x Valorstone at Renown 7
+
+      - id: 82344 # Weathered Crests
+        description: "{repPrice:2590|9|15|-2918}" # 15x Weathered Harbinger Crest at Renown 9
+
+      - id: 82356 # A Large Bundle of Goods
+        description: "{repPrice:2590|17|40|-3008}" # 40x Valorstone at Renown 17
+
+      - id: 82358 # Carved Crests
+        description: "{repPrice:2590|19|15|-2919}" # 15x Carved Harbinger Crest at Renown 19
+
+      - id: 82361 # A Small Bundle of Goods
+        description: "{repPrice:2590|22|40|-3008}" # 40x Valorstone at Renown 22
+
+      - id: 82365 # A Crafter's Delight
+        description: "{repPrice:2590|24|1|-1224072}" # 1x Enchanted Runed Harbinger Crest at Renown 24
+
+      - id: 82362 # For What Glimmers in Stone
+        description: "{repPrice:2590|25|15|-2919}" # 15x Carved Harbinger Crest at Renown 25
+
+- name: "{faction:2570}" # Hallowfall Arathi
   icon: "achievement/40845"
   iconText: "HA"
   lookup: none
@@ -54,9 +91,37 @@ groups:
   type: quest
   data:
     0:
-      - id: 82042
 
-- name: "{reputation:2600}" # The Severed Threads
+      - id: 82390 # Weathered Crests
+        description: "{repPrice:2570|6|15|-2918}" # 15x Weathered Harbinger Crest at Renown 6
+
+      - id: 84409 # For the Valorous
+        description: "{repPrice:2570|7|40|-3008}" # 40x Valorstone at Renown 7
+
+      - id: 82394 # A Cache of Crests
+        description: "{repPrice:2570|9|15|-2918}" # 15x Weathered Harbinger Crest at Renown 9
+
+      - id: 84559 # Carved Crests
+        description: "{repPrice:2570|13|15|-2919}" # 15x Carved Harbinger Crest at Renown 13
+
+      - id: 82398 # Another Rare Key
+        description: "{repPrice:2570|14|1|-3028}" # 1x Restored Coffer Key + 40 Valorstone at Renown 14
+
+      - id: 82400 # A Hallowfall Windfall
+        description: "{repPrice:2570|16|15|-2919}" # 15x Carved Harbinger Crest at Renown 16
+
+      - id: 82403 # Stones
+        description: "{repPrice:2570|19|40|-3008}" # 40x Valorstone at Renown 19
+
+      - id: 82406 # The Quartermaster's Cache
+        description: "{repPrice:2570|22|15|-2919}" # 15x Carved Harbinger Crest at Renown 22
+
+      - id: 82407 # For What Glimmers in the Deep
+        description: "{repPrice:2570|24|1|-1224072}" # 1x Enchanted Runed Harbinger Crest at Renown 24
+
+      # 84409 82390 82394 84559 82398 82400 82403 82406 82407
+
+- name: "{faction:2600}" # The Severed Threads
   icon: "achievement/40838"
   iconText: "ST"
   lookup: none
@@ -64,4 +129,29 @@ groups:
   type: quest
   data:
     0:
-      - id: 82042
+      - id: 82418 # A Cache of Crests and Power
+        description: "{repPrice:2600|6|15|-2919}" # 15x Carved Harbinger Crest at Renown 6
+
+      - id: 82431 # Unsevered Threads
+        description: "{repPrice:2600|9|15|-2918}" # 15x Weathered Harbinger Crest at Renown 9
+
+      - id: 82433 # Power, Etched in the Deep
+        description: "{repPrice:2600|12|15|-2919}" # 15x Carved Harbinger Crest at Renown 12
+
+      - id: 82434 # Unlock a Reward
+        description: "{repPrice:2600|13|1|-3028}" # 1x Restored Coffer Key at Renown 13
+
+      - id: 82435 # Valorstones
+        description: "{repPrice:2600|14|40|-3008}" # 40x Valorstone at Renown 14
+
+      - id: 82440 # Crests
+        description: "{repPrice:2600|18|15|-2919}" # 15x Carved Harbinger Crest at Renown 18
+
+      - id: 82443 # Tokens of Her Favor
+        description: "{repPrice:2600|21|15|-2919}" # 15x Carved Harbinger Crest at Renown 21
+
+      - id: 82444 # The Weaver's Cache
+        description: "{repPrice:2600|22|40|-3008}" # 40x Valorstone at Renown 22
+
+      - id: 82446 # For What Glimmers in Shadow
+        description: "{repPrice:2600|24|1|-1224072}" # 1x Enchanted Runed Harbinger Crest at Renown 24
