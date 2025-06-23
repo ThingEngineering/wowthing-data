@@ -8,15 +8,35 @@ things:
         - 62.8 50.2
 
     groups:
+      - name: "Timewalking - Misc"
+        range: 4
+        sortKey: "z-tw-1"
+
       - name: "Timewalking - Armor"
         range: 13
-        sortKey: "z-tw-armor"
+        sortKey: "z-tw-2"
 
       - name: "Timewalking - Weapons"
         range: -1
-        sortKey: "z-tw-weapons"
+        sortKey: "z-tw-9"
 
     contents:
+
+      - id: 224398 # Reins of the Frayfeather Hippogryph [mount]
+        costs:
+          1166: 5000
+
+      - id: 224410 # Craggles [pet]
+        costs:
+          1166: 2200
+
+      - id: 224406 # Misty [pet]
+        costs:
+          1166: 2200
+
+      - id: 224192 # Practice Ravager [toy]
+        costs:
+          1166: 200
 
       - id: 224854 # Holy Shroud [cloth head]
         costs:
@@ -93,22 +113,6 @@ things:
       - id: 225190 # Pendulum of Doom [2h ? axe]
         costs:
           1166: 100
-
-      - id: 224410 # Craggles
-        costs:
-          1166: 2200
-
-      - id: 224406 # Misty
-        costs:
-          1166: 2200
-
-      - id: 224192 # Practice Ravager
-        costs:
-          1166: 200
-
-      - id: 224398 # Reins of the Frayfeather Hippogryph
-        costs:
-          1166: 5000
 
       - id: 225200 # Alcor's Sunrazor [? dagger]
         costs:
