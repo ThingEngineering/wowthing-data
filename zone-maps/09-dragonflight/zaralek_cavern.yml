@@ -171,24 +171,6 @@ farms:
     - type: transmog
       id: 205297 # Flamewielder's Trousers [cloth ?]
 
-- name: "Jrumm"
-  location: 28.5 51.2
-  npcId: 203646
-  questId: 75352
-  type: kill
-  drops:
-  - type: item
-    id: 203320 # WindingSlitherdrake > Ears
-
-  - type: toy
-    id: 205419 #  -- Jrumm's Drum
-
-  - type: transmog
-    id: 205299 # Rudiment Cuffs [cloth ?]
-
-  - type: transmog
-    id: 205304 # Snareguard Sash [leather ?]
-
 - name: "Kapraku"
   location: 59.6 39.5
   npcId: 203466
