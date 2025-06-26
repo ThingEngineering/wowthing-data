@@ -1,14 +1,13 @@
 name: "Travel"
 groups:
 
-- name: "Argent Crusader's Tabard"
-  icon: item/46874
-  type: item
+- name: "Dalaran Hearthstone"
+  icon: "item/140192"
+  type: quest
   data:
     0:
-      - name: "Argent Crusader's Tabard"
-        id: 46874
-        description: ":rocket: Argent Tournament Grounds, Icecrown"
+      - id: 44184 44663 # In the Blink of an Eye?
+        description: ":rocket: Dalaran"
 
 - name: "Jaina's Locket"
   icon: item/52251
@@ -27,3 +26,12 @@ groups:
       - name: "Kirin Tor Ring"
         id: 40585 40586 44934 44935 45688 45689 45690 45691 48954 48955 48956 48957 51557 51558 51559 51560
         description: ":rocket: Dalaran"
+
+- name: "Argent Crusader's Tabard"
+  icon: item/46874
+  type: item
+  data:
+    0:
+      - name: "Argent Crusader's Tabard"
+        id: 46874
+        description: ":rocket: Argent Tournament Grounds, Icecrown"

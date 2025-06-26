@@ -1,6 +1,19 @@
 name: "Travel"
 groups:
 
+- name: "Garrison Hearthstone"
+  icon: "item/110560"
+  lookup: faction
+  type: quest
+  data:
+    alliance:
+      - id: 34586
+        description: ":rocket: Garrison"
+    
+    horde:
+      - id: 34378
+        description: ":rocket: Garrison"
+
 - name: "Admiral's Compass"
   icon: item/128353
   type: item
