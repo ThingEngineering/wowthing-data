@@ -1,14 +1,6 @@
 name: "Travel"
 groups:
 
-- name: "Dalaran Hearthstone"
-  icon: "item/140192"
-  type: quest
-  data:
-    0:
-      - id: 44184 44663 # In the Blink of an Eye?
-        description: ":rocket: Dalaran"
-
 - name: "Jaina's Locket"
   icon: item/52251
   type: item
