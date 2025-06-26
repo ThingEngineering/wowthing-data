@@ -11,10 +11,12 @@ groups:
 
 - name: "Azure Span"
   things:
+    - 206043 # Fyrakk's Frenzy (Disciple of Fyrakk)
     - 200160 # Notfar's Favorite Food
 
 - name: "Ohn'ahran Plains"
   things:
+    - 206043 # Fyrakk's Frenzy (Disciple of Fyrakk)
     - 198409 # Personal Shell
 
 - name: "Thaldraszus"

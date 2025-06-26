@@ -4,6 +4,7 @@ groups:
 - name: "Enchanting"
   things:
     - 200469 # Khadgar's Disenchanting Rod
+    - 200636 # Primal Invocation Quintessence
 
 - name: "Engineering"
   things:

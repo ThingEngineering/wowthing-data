@@ -1,6 +1,14 @@
 name: "Vendors"
 groups:
 
+- name: "Dornogal"
+  things:
+    - 211931 # Abyss Caller Horn
+    - 228413 # Lampyridae Lure
+    - 225910 # Pileus Delight
+    - 231064 # Throwaway Gangster Disguise
+    - 223312 # Trusty Hat
+
 - name: "City of Threads"
   things:
     - 228914 # Arachnophile Spectacles
@@ -8,13 +16,6 @@ groups:
 - name: "Ringing Deeps"
   things:
     - 224643 # Pet-Sized Candle
-
-- name: "Delves"
-  things:
-    - 211931 # Abyss Caller Horn
-    - 228413 # Lampyridae Lure
-    - 225910 # Pileus Delight
-    - 223312 # Trusty Hat
 
 - name: "Siren Isle"
   things:
@@ -29,7 +30,11 @@ groups:
     - 235669 # Steamwheedle Cartel Banner
     - 235672 # Venture Co. Banner
     - 234950 # Atomic Regoblinator
+    - 226373 # Everlasting Noggenfogger Elixir
     - 235801 # Personal Fishing Barge
     - 235807 # Storefront-in-a-Box
     - 235799 # Throwin' Sawblade
     - 237382 # Undermine Supply Crate
+    - 237345 # Limited Edition Rocket Bobber
+    - 237346 # Artisan Beverage Goblet Bobber
+    - 237347 # Organically-Sourced Wellington Bobber

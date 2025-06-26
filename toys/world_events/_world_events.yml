@@ -8,6 +8,16 @@ groups:
     - 228789 # Coldflame Ring (20th Anniversary)
     - 224192 # Practice Ravager (20th Anniversary)
 
+- name: "Children's Week"
+  things:
+    - 69895 # Green Balloon
+    - 69896 # Yellow Balloon
+
+- name: "Dastardly Duos"
+  things:
+    - 239007 # Dastardly Banner
+    - 239018 # Winner's Podium
+
 - name: Day of the Dead
   things:
     - 116856 # "Blooming Rose" Contender's Costume
@@ -26,10 +36,8 @@ groups:
 
 - name: Other
   things:
-    -  69895 # Green Balloon (Children's Week)
     - 150547 # Jolly Roger (Pirates' Day)
     - 140363 # Pocket Fel Spreader (drop?)
     - 116400 # Silver-Plated Turkey Shooter (Pilgrim's Bounty)
     - 138415 # Slightly-Chewed Insult Book (Pirates' Day)
     - 212518 # Vial of Endless Draconic Scales (Riders of Azeroth)
-    -  69896 # Yellow Balloon (Children's Week)

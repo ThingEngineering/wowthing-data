@@ -6,6 +6,10 @@ groups:
   - 166247 # Citizens Brigade Whistle (Upright Citizens)
   - 163697 # Laser Pointer (Battle on Zandalar and Kul Tiras)
 
+- name: "PvP"
+  things:
+    - 173951 # N'lyeth, Sliver of N'Zoth
+
 - name: Quests
   things:
   - 175063 # Aqir Egg Cluster (Voidtouched Eggs, Uldum)

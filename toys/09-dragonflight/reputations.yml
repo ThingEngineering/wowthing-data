@@ -41,8 +41,14 @@ groups:
     - 203734 # Snow Blanket
     - 202253 # Primal Stave of Claw and Fur
 
+- name: "Sabellian/Wrathion"
+  things:
+    - 200707 # Armoire of Endless Cloaks (Wrathion)
+    - 200640 # Obsidian Egg Clutch (Sabellian)
+
 - name: "Loamm Niffen"
   things:
+    - 205255 # Niffen Diggin' Mitts
     - 205963 # Sniffin' Salts
 
 - name: "Soridormi"

@@ -1,6 +1,10 @@
 name: "Quests"
 groups:
 
+- name: "World Quests"
+  things:
+    - 205688 # Glutinous Glitterscale Glob (All That Glitter)
+
 - name: "Amirdrassil"
   things:
     - 223146 # Satchel of Stormborn Seeds
@@ -18,6 +22,7 @@ groups:
 
 - name: "Ohn'ahran Plains"
   things:
+    - 203725 # Display of Strength (Baine chain)
     - 200597 # Lover's Bouquet (After My Ohn Heart)
     - 198039 # Rock of Appreciation
     - 198537 # Taivan's Trumpet
@@ -27,8 +32,14 @@ groups:
     - 191891 # Professor Chirpsnide's Im-PECK-able Harpy Disguise (The Awaited Egg-splosion)
     - 208798 # Recorded Memories of Tyr's Guard (Disc Delivery)
 
+- name: "Valdrakken"
+  things:
+    - 205908 # Inherited Wisdom of Senegos (blue dragons?)
+    - 204686 # Titan Containment Device (Tyr quest line)
+
 - name: "Waking Shores"
   things:
+    - 201815 # Cloak of Many Faces (Igys the Believer key turnins)
     - 198857 # Lucky Duck (Friend on the Lend)
 
 - name: "Zaralek Cavern"

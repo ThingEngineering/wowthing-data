@@ -6,6 +6,11 @@ groups:
     - 235050 # Desk-in-a-Box
     - 224251 # Memory Chord
     - 236769 # Gallagio Pipeline Rerouter (A Good Day to Dye Hard, Liberation of Undermine)
+    - 235016 # Redeployment Module (Overcharged Delver)
+
+- name: "Misc"
+  things:
+    - 226810 # Infiltrator's Shroud (weird trinket thing)
 
 - name: "PvP"
   things:

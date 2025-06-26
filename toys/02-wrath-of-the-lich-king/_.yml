@@ -12,8 +12,9 @@ groups:
 
 - name: Instances
   things:
-  -  52201 # Muradin's Favor (Shadowmourne quest, ICC)
-  -  52253 # Sylvanas' Music Box (Shadowmourne quest, ICC)
+    -  52201 # Muradin's Favor (Shadowmourne quest, ICC)
+    -  52253 # Sylvanas' Music Box (Shadowmourne quest, ICC)
+    - 206565 # Plagued Grain (old Naxxramas)
 
 - name: Pickpocketing
   things:

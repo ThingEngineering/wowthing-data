@@ -32,3 +32,8 @@ groups:
 - name: "Legion"
   things:
   - 187591 # Nightborne Guard's Vigilance
+
+- name: "Battle for Azeroth"
+  things:
+    - 245942 # Sea-Blessed Shrine
+    - 246227 # Lightning-Blessed Spire

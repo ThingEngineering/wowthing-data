@@ -37,3 +37,15 @@ groups:
   - 134032 # Elite Pennant (Honor 60)
   - 134034 # Esteemed Pennant (Honor 90
   - 164310 # Glorious Pennant (Honor 175)
+
+- name: "Heritage"
+  things:
+    - 204170 # Clan Banner (Mag'har Orc?)
+    - 210455 # Draenic Hologem (Draenei)
+    - 208658 # Mirror of Humility (Red Draenei)
+    - 206195 # Path of the Naaru (Red Draenei -> vendor)
+    - 211788 # Tess's Peacebloom (Worgen)
+
+- name: "Secrets"
+  things:
+    - 228966 # Starry-Eyed Goggles

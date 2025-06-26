@@ -11,6 +11,7 @@ groups:
     - 230850 # Delve-O-Bot 7001 (journey)
     - 230924 # Spotlight Materializer 1000 (chest)
     - 225547 # Toxic Victory (Zekvir achievement)
+    - 230727 # Explosive Victory (Defeating the Underpin quest)
 
 - name: "Raids"
   things:
