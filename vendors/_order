@@ -183,7 +183,6 @@ timewalking.yml
     07-battle-for-azeroth/timewalking.yml Battle for Azeroth
 
 world-events/_world_events.yml
-    world-events/anniversary.yml
     world-events/brewfest.yml
     world-events/childrens_week.yml
     world-events/darkmoon_faire.yml
@@ -192,5 +191,8 @@ world-events/_world_events.yml
     world-events/lunar_festival.yml
     world-events/midsummer_fire_festival.yml
     world-events/noblegarden.yml
-    world-events/plunderstorm.yml
     world-events/trial_of_style.yml
+    -
+    world-events/a_greedy_emissary.yml
+    world-events/anniversary.yml
+    world-events/plunderstorm.yml

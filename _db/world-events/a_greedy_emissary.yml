@@ -1,0 +1,54 @@
+tags:
+  - "event:a-greedy-emissary"
+
+things:
+  - id: 245378
+    type: "vendor"
+    name: "Baranar"
+    note: "Hellhunter"
+
+    locations:
+      "10-the-war-within/dornogal":
+        - "52.9 68.0"
+    
+    contents:
+
+      - id: 244793 # Ensemble: Grimforged Armor [Death Knight]
+        costs: &t2-cost
+          3309: 40 # Hellstone Shard
+
+      - id: 244794 # Ensemble: Armor of Torment [Demon Hunter]
+        costs: *t2-cost
+
+      - id: 244795 # Ensemble: Staghelm Armor [Druid]
+        costs: *t2-cost
+
+      - id: 244796 # Ensemble: Life-Binder's Armor [Evoker]
+        costs: *t2-cost
+
+      - id: 244797 # Ensemble: Timestalker's Armor [Hunter]
+        costs: *t2-cost
+
+      - id: 244798 # Ensemble: Emberwind Regalia [Mage]
+        costs: *t2-cost
+
+      - id: 244799 # Ensemble: Death-Touched Battlegear [Monk]
+        costs: *t2-cost
+
+      - id: 244800 # Ensemble: Blood Vindicator's Armor [Paladin]
+        costs: *t2-cost
+
+      - id: 244801 # Ensemble: Vestments of Searing Radiance [Priest]
+        costs: *t2-cost
+
+      - id: 244802 # Ensemble: Shadowslayer Armor [Rogue]
+        costs: *t2-cost
+
+      - id: 244803 # Ensemble: Flamelash Armor [Shaman]
+        costs: *t2-cost
+
+      - id: 244804 # Ensemble: Hellfire Raiment [Warlock]
+        costs: *t2-cost
+
+      - id: 244805 # Ensemble: Executioner's Bladed Battlegear [Warrior]
+        costs: *t2-cost
