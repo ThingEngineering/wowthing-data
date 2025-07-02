@@ -58,8 +58,8 @@ groups:
       - id: 91026 # Gathering an Upgrade
         description: "Upgrades belt to item level 694"
 
-      # - id: 91030 # New Titan Directives
-      #   description: "Upgrades belt to item level ???"
+      - id: 91030 # New Titan Directives
+        description: "Upgrades belt to item level 697"
 
       # - id: 91031 # Pushing it to the Limit
       #   description: "Upgrades belt to item level ???"
