@@ -49,24 +49,61 @@ groups:
   iconText: "DISC"
   lookup: none
   minimumLevel: 80
-  type: quest
+  type: mixed
   data:
     0:
-      - id: 91009 # Durable Information Securing Container
+      - type: quest
+        id: 91009 # Durable Information Securing Container
         description: "Gives {item:242664}"
 
-      - id: 91026 # Gathering an Upgrade
+      - type: quest
+        id: 91026 # Gathering an Upgrade
         description: "Upgrades belt to item level 694"
 
-      - id: 91030 # New Titan Directives
+      - type: quest
+        id: 91030 # New Titan Directives
         description: "Upgrades belt to item level 697"
 
-      # - id: 91031 # Pushing it to the Limit
+      # - type: quest
+      #   id: 91031 # Pushing it to the Limit
       #   description: "Upgrades belt to item level ???"
 
-      # - id: 91033 # Monitoring 'Construct'ing
+      # - type: quest
+      #   id: 91033 # Monitoring 'Construct'ing
       #   description: "Upgrades belt to item level ???"
 
-      # - id: 91035 # Construct De-Escalation
+      # - type: quest
+      #   id: 91035 # Construct De-Escalation
       #   description: "Upgrades belt to item level ???"
 
+      - name: separator
+      
+      - type: "accountquest"
+        id: 90953
+        name: "Charged Crystal"
+        description: "Complete Nightfall Sanctum delve"
+      
+      - type: "accountquest"
+        id: 90951
+        name: "Charged Touch"
+        description: "Complete Kriegval's Rest delve"
+      
+      - type: "accountquest"
+        id: 90947
+        name: "Critical Chain"
+        description: "Complete Skittering Breach delve"
+
+      - type: "accountquest"
+        id: 90950
+        name: "Electric Current"
+        description: "Complete The Spiral Weave delve"
+
+      - type: "accountquest"
+        id: 90948
+        name: "Spark Burst"
+        description: "Complete Fungal Folly delve"
+
+      - type: "accountquest"
+        id: 90949
+        name: "Static Charge"
+        description: "Complete Sidestreet Sluice delve"
