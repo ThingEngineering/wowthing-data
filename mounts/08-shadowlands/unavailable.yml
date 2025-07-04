@@ -14,3 +14,7 @@ groups:
   - 1520 # Soultwisted Deathwalker (Shadowlands Keystone Master: Season Two)
   - 1544 # Wastewarped Deathwalker (Shadowlands Keystone Master: Season Three)
   - 1405 # Restoration Deathwalker (Shadowlands Keystone Master: Season Four)
+
+- name: "Raid"
+  things:
+  - 1552 # Carcinized Zerethsteed (Heroic Jailer, Sepulcher of the First Ones)
