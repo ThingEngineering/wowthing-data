@@ -4,12 +4,15 @@
   # Kyrian
   - 175254 # Burning Beacon of Hope
   - 174310 # Elysian Sentinel's Aegis
+
   # Necrolord
   - 184245 # Barrier of the Chosen
   - 184246 # Frigid Invoker's Focus
+
   # Night Fae
   - 179610 # Dredge-Giant's Warshield
-  - 179570 # Harp of the Sanguine Court
+  - 179570 # Harp of the Sanguine Courts
+
   # Venthyr
   - 182425 # Bulwark of the Stone Legion
   - 182426 # Stonewright's Infused Stonecarver
@@ -17,6 +20,80 @@
 183889: *bead # Thaumaturgic Anima Bead
 
 183893: &spherule # Abominable Anima Spherule
+  # Kyrian
+  - 184272 # Ascended Gladius of Glory
+  - 174298 # Dutiful Disciple's Cleaver
+  - 175251 # Forked Blade of Fortitude
+  - 180312 # Guarding Cudgel of the Goliath
+  - 175279 # Lost Soul Xiphos
+  - 177850 # Meditation's Muse
+  - 184230 # Pike of the Honored Peltast
+  - 184273 # Puremind Piercer
+  - 184275 # Sacred Sparrer's Edge
+  - 178973 # Symphonic Chimekeeper
+  - 176098 # Truthseeker Longbow
+  - 184236 # Warglaive of Devoted Might
+
+  # Necrolord
+  - 184253 # Abdomen Chopper
+  - 184252 # Aranakk Torture Device
+  - 184244 # Biting Gutsliver Shank
+  - 184248 # Blightforged Twinblade
+  - 184250 # Deadeye Blunderbuss
+  - 184247 # Grip of the Dead
+  - 184255 # Gristlegore Hacker
+  - 184251 # Ossified Broadaxe
+  - 184254 # Plaguespine Sickle
+  - 184249 # Staff of the Lichsworn Lieutenant
+
+  # Night Fae
+  - 179544 # Ashcarved Sledgehammer
+  - 179557 # Baron's Oaken Scepter
+  - 180260 # Deathdancer's Warglaive
+  - 179497 # Fang of the Winged Sentry
+  - 179527 # Gargon-Tamer's Spear
+  - 180073 # Heartstalker's Longbow
+  - 182351 # Mace of the Unburdened
+  - 180000 # Staff of the Penitent
+  - 179577 # Stonesnap Mandibles
+  - 180023 # Wand of Arboreal Artifice
+
+  # Venthyr
+  - 182421 # Barbed-Edge of the Stone Legion
+  - 182416 # Claws of the Stone Generals
+  - 182414 # Crimson Court Backstabber
+  - 182422 # Dread Inquisitor's Spine
+  - 182424 # Dredbat Repeating Crossbow
+  - 182417 # Mace of Enveloping Sins
+  - 182420 # Nathrian Duelist's Fleshrender
+  - 182419 # Nathrian Torchbearer's Stave
+  - 182415 # Stoneborn Goliath's Cleaver
+  - 182418 # Torch of Fiery Atonement
+  - 182423 # Wingdancer's Warglaive
+
+183892: *spherule # Mystic Anima Spherule
+183891: *spherule # Venerated Anima Spherule
+183890: *spherule # Zenith Anima Spherule
+
+# Castle Nathria [+7 item level]
+
+183895: &bead2 # Apogee Anima Bead [+7]
+  # Kyrian
+  - 174315 # Chyrus's Crest of Hope
+  - 177870 # Thenios's Beacon of Foresight
+  # Necrolord
+  - 184257 # Burden of the Protectorate
+  - 184258 # Malevolent Invoker's Crystal
+  # Night Fae
+  - 179611 # Bulwark of the Unbowed
+  - 179566 # Lyre of Decadent Frivolity
+  # Venthyr
+  - 182400 # Master Stonewright's Chisel
+  - 182399 # Stonewrought Gargoyles Barrier
+
+183894: *bead2 # Thaumaturgic Anima Bead [+7]
+
+183896: &spherule2 # Abominable Anima Spherule [+7]
   # Kyrian
   - 177872 # Archon's Guiding Glaive
   - 184270 # Disciple's Peacebound Poniard
@@ -29,6 +106,7 @@
   - 177849 # Soulbearer's Blade of Salvation
   - 177855 # Spellblade of Antiquity
   - 178975 # Vesiphone's Vesper of Reflection
+  - 184271 # Xandria's Kopis of Courage
 
   # Necrolord
   - 184265 # Abdomen Splitter
@@ -38,8 +116,8 @@
   - 184261 # Greatstaff of the Lichsworn General
   - 184264 # Krexus's Bloodletting Polearm
   - 184263 # Ossified Greataxe
-  - 184256 # Vicious Goreripper Shank
   - 184267 # Skullcleaver of the Merciless One
+  - 184256 # Vicious Goreripper Shank
   - 184260 # Warglaive of the Hidden Fiend
 
   # Night Fae
@@ -66,18 +144,7 @@
   - 182391 # Sinstealer's Sentencing Gavel
   - 182395 # Stoneborn Terrorblade
   - 182390 # Talons of the Legion Generals
-  - 184271 # Xandria's Kopis of Courage
 
-183892: *spherule # Mystic Anima Spherule
-183891: *spherule # Venerated Anima Spherule
-183890: *spherule # Zenith Anima Spherule
-
-# Castle Nathria [+7 item level]
-
-183895: *bead # Apogee Anima Bead [+7]
-183894: *bead # Thaumaturgic Anima Bead [+7]
-
-183896: *spherule # Abominable Anima Spherule [+7]
-183897: *spherule # Mystic Anima Spherule [+7]
-183898: *spherule # Venerated Anima Spherule [+7]
-183899: *spherule # Zenith Anima Spherule [+7]
+183897: *spherule2 # Mystic Anima Spherule [+7]
+183898: *spherule2 # Venerated Anima Spherule [+7]
+183899: *spherule2 # Zenith Anima Spherule [+7]
