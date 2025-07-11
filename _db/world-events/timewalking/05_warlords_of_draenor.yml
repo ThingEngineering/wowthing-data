@@ -26,8 +26,12 @@ things:
         sortKey: "z-tw-05-2"
 
       - name: "WoD TW - Weapons"
-        range: -1
+        range: 4
         sortKey: "z-tw-05-3"
+      
+      - name: "WoD TW - $$$ Weapons"
+        range: -1
+        sortKey: "z-tw-05-5"
 
     contents: &contents
 
@@ -168,6 +172,84 @@ things:
       - id: 119226 # Blammo's Blammer [gun]
         costs:
           1166: 100
+
+      # $$$ Weapons
+
+      - id: 244733 # Aruuna Miner's Pick [1h axe]
+        costs:
+          1166: 1000
+
+      - id: 244784 # Beastmaster's Lost Hatchet [1h axe]
+        costs:
+          1166: 1000
+
+      - id: 244734 # Anchorite's Crystal Torch [1h mace]
+        costs:
+          1166: 1200
+
+      - id: 244776 # Truesteel Gavel [1h mace]
+        costs:
+          1166: 1000
+
+      - id: 244732 # Lunarfall Scout's Shortsword [1h sword]
+        costs:
+          1166: 1000
+
+      - id: 244731 # Rangari Climbing Hooks [fist]
+        costs:
+          1166: 1200
+
+      - id: 244725 # Frostwall Defender's Axe [2h axe]
+        costs:
+          1166: 2500
+
+      - id: 244785 # Time-Lost Wolfbite, Legacy of Garad [2h axe]
+        costs:
+          1166: 1800
+
+      - id: 244724 # Vindicator's Taladite Warmaul [2h mace]
+        costs:
+          1166: 1500
+
+      - id: 244723 # Blade of the Pale Flame [2h sword]
+        costs:
+          1166: 1500
+
+      - id: 244786 # Grom'gar Hunting Spear [polearm]
+        costs:
+          1166: 1500
+
+      - id: 244787 # Elodor Attuning Beacon [staff]
+        costs:
+          1166: 1500
+
+      - id: 244726 # Time-Lost Sight of the Shadowmoon [staff]
+        costs:
+          1166: 3000
+
+      - id: 244727 # Warsong Raider's Longbow [bow]
+        costs:
+          1166: 1500
+
+      - id: 244728 # Lunarfall Rifle [gun]
+        costs:
+          1166: 1200
+
+      - id: 244721 # Crystalsmith's Energy Focus [wand]
+        costs:
+          1166: 1000
+
+      - id: 244722 # Bloodied Ashran Battletome [off-hand]
+        costs:
+          1166: 1000
+
+      - id: 244729 # Mok'gol Howling Shield [shield]
+        costs:
+          1166: 1500
+
+      - id: 244730 # Razorwall of the Foundry [shield]
+        costs:
+          1166: 2000
 
 things:
   - id: 151955
