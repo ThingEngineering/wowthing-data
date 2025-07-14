@@ -25,7 +25,7 @@
 
 - name: "PvP"
   items:
-    - id: 6836 # Shadow Flame [Dragonflight Season 2]
+    - id: 7640 # Jackpot [The War Within Season 2]
 
 - name: "Recruit-A-Friend"
   items:
@@ -148,6 +148,10 @@
     - id: 4444 # Dancing Steel
     - id: 4446 # River's Song
 
+- name: "Unavailable - Remix"
+  items:
+    - id: 7322 # Sha Corruption
+
 - name: "Unavailable - PvP"
   items:
     - id: 5396 # Glorious Tyranny [Warlords Season 1/2/3]
@@ -159,3 +163,7 @@
     - id: 6351 # Cosmic Flow [Shadowlands Season 3]
     - id: 6378 # Eternal Flux [Shadowlands Season 4]
     - id: 6786 # Primal Storm [Dragonflight Season 1]
+    - id: 6836 # Shadow Flame [Dragonflight Season 2]
+    - id: 7032 # Verdant Crush [Dragonflight Season 3]
+    - id: 7100 # Bronze Infinite [Dragonflight Season 4]
+    - id: 7521 # Holy Fire [The War Within Season 1]
