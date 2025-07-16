@@ -1,6 +1,11 @@
 name: Misc
 groups:
 
+- name: Flying
+  things:
+  - 1772 1773 # Scarlet Pterrordax
+  - 1773 1772 # Harbor Gryphon
+
 - name: Guild
   things:
   - 403 409 # Golden King/Kor'kron Annihilator
