@@ -53,7 +53,10 @@ groups:
     - 2520 # Spring Harvesthog (2025-05)
     - 2524 # Coldflame Cormaera (2025-06)
     - 2504 # Spotted Black Riding Goat (2025-06)
-
+    - 2579 # Forsaken's Grotesque Charger (2025-07)
+    - 2580 # Wailing Banshee's Charger (2025-07)
+    - 2600 # Unarmored Deathtusk Felboar (2025-07)
+    
 - name: "Unavailable"
   things:
     - 1583 # Armored Siege Kodo
