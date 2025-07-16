@@ -38,6 +38,10 @@ groups:
   things:
   - 769 # Minion of Grumpus
 
+- name: Greedy Emissaries
+  things:
+  - 2605 # Inarius' Charger
+
 - name: Love is in the Air
   things:
     - 352 # Big Love Rocket (Love is in the Air)
