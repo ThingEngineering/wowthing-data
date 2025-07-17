@@ -12,6 +12,12 @@ groups:
     - 896 # Primal Flamesaber (Heroes of the Storm)
     - 439 # Tyrael's Charger (Annual Pass)
 
+- name: "Promotion (China)
+  things:
+    - 2255 # Golden Ashes of Al'ar
+    - 2262 # Harmonious Salutations Bear
+    - 2478 # Blazing Royal Fire Hawk
+
 - name: "Recruit-A-Friend"
   things:
     - 454 # Cindermane Charger
