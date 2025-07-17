@@ -37,6 +37,9 @@ groups:
     - 2259 # Gigantic Grrloc (12 month sub)
     - 2235 # Startouched Furline (12 month sub)
     - 2315 # Timbered Sky Snake (12 month sub)
+    - 1517 # Bound Blizzard (BlizzCon 2023)
+    - 1947 # Hateforged Blazecycle (Mountain Dew)
+    - 1168 # Fiery Hearthsteed (Hearthstone Anniversary)
 
 - name: Store
   things:

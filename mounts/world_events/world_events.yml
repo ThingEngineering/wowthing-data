@@ -12,6 +12,9 @@ groups:
 - name: Anniversary
   things:
   - 293 # Illidari Dragonhawk
+  - 1798 # Azure Worldchiller
+  - 1943 # Incognitro, the Indecipherable Felcycle
+  - 2261 # Coldflame Tempest
   - 1292 1285 # Stormpike Battle Ram/Frostwolf Snarler (Alterac Valley of Olde)
   - 1285 1292 # ^ reversed
   
@@ -27,9 +30,17 @@ groups:
   - 855 # Darkwater Skate (Darkmoon Faire Vendor)
   - 429 # Swift Forest Strider
 
+- name: Dastardly Duos
+  things:
+  - 2531 # Tyrannotort
+
 - name: Feast of Winter Veil
   things:
   - 769 # Minion of Grumpus
+
+- name: Greedy Emissaries
+  things:
+  - 2605 # Inarius' Charger
 
 - name: Love is in the Air
   things:
