@@ -1,0 +1,1492 @@
+things:
+  - id: 46556
+    type: "vendor"
+    name: "Jamus'Vaz"
+    note: "Valor Quartermaster"
+
+    locations:
+      here: # orgrimmar
+        - 48.6 71.4 horde
+
+    contents:
+
+      # Death Knight set=831
+
+      - id: 77010 # Necrotic Boneplate Faceguard [plate head]
+        costs:
+          1078172: 1
+
+      - id: 76976 # Necrotic Boneplate Helmet [plate head]
+        costs:
+          1078172: 1
+
+      - id: 76978 # Necrotic Boneplate Pauldrons [plate shoulders]
+        costs:
+          1078170: 1
+
+      - id: 77012 # Necrotic Boneplate Shoulderguards [plate shoulders]
+        costs:
+          1078170: 1
+
+      - id: 76974 # Necrotic Boneplate Breastplate [plate chest]
+        costs:
+          1078174: 1
+
+      - id: 77008 # Necrotic Boneplate Chestguard [plate chest]
+        costs:
+          1078174: 1
+
+      - id: 76975 # Necrotic Boneplate Gauntlets [plate hands]
+        costs:
+          1078173: 1
+
+      - id: 77009 # Necrotic Boneplate Handguards [plate hands]
+        costs:
+          1078173: 1
+
+      - id: 76977 # Necrotic Boneplate Greaves [plate legs]
+        costs:
+          1078171: 1
+
+      - id: 77011 # Necrotic Boneplate Legguards [plate legs]
+        costs:
+          1078171: 1
+
+      # Death Knight set=832
+
+      - id: 78792 # Necrotic Boneplate Faceguard [plate head]
+        costs:
+          1078868: 1
+
+      - id: 78782 # Necrotic Boneplate Helmet [plate head]
+        costs:
+          1078868: 1
+
+      - id: 78831 # Necrotic Boneplate Pauldrons [plate shoulders]
+        costs:
+          1078874: 1
+
+      - id: 78846 # Necrotic Boneplate Shoulderguards [plate shoulders]
+        costs:
+          1078874: 1
+
+      - id: 78754 # Necrotic Boneplate Breastplate [plate chest]
+        costs:
+          1078862: 1
+
+      - id: 78758 # Necrotic Boneplate Chestguard [plate chest]
+        costs:
+          1078862: 1
+
+      - id: 78765 # Necrotic Boneplate Gauntlets [plate hands]
+        costs:
+          1078865: 1
+
+      - id: 78773 # Necrotic Boneplate Handguards [plate hands]
+        costs:
+          1078865: 1
+
+      - id: 78802 # Necrotic Boneplate Greaves [plate legs]
+        costs:
+          1078871: 1
+
+      - id: 78811 # Necrotic Boneplate Legguards [plate legs]
+        costs:
+          1078871: 1
+
+      # Death Knight set=833
+
+      - id: 78697 # Necrotic Boneplate Faceguard [plate head]
+        costs:
+          1078852: 1
+
+      - id: 78687 # Necrotic Boneplate Helmet [plate head]
+        costs:
+          1078852: 1
+
+      - id: 78736 # Necrotic Boneplate Pauldrons [plate shoulders]
+        costs:
+          1078861: 1
+
+      - id: 78751 # Necrotic Boneplate Shoulderguards [plate shoulders]
+        costs:
+          1078861: 1
+
+      - id: 78659 # Necrotic Boneplate Breastplate [plate chest]
+        costs:
+          1078849: 1
+
+      - id: 78663 # Necrotic Boneplate Chestguard [plate chest]
+        costs:
+          1078849: 1
+
+      - id: 78670 # Necrotic Boneplate Gauntlets [plate hands]
+        costs:
+          1078855: 1
+
+      - id: 78678 # Necrotic Boneplate Handguards [plate hands]
+        costs:
+          1078855: 1
+
+      - id: 78707 # Necrotic Boneplate Greaves [plate legs]
+        costs:
+          1078858: 1
+
+      - id: 78716 # Necrotic Boneplate Legguards [plate legs]
+        costs:
+          1078858: 1
+
+      # Druid set=815
+
+      - id: 77019 # Deep Earth Cover [leather head]
+        costs:
+          1078172: 1
+
+      - id: 77015 # Deep Earth Headpiece [leather head]
+        costs:
+          1078172: 1
+
+      - id: 76750 # Deep Earth Helm [leather head]
+        costs:
+          1078172: 1
+
+      - id: 76753 # Deep Earth Mantle [leather shoulders]
+        costs:
+          1078170: 1
+
+      - id: 77022 # Deep Earth Shoulderwraps [leather shoulders]
+        costs:
+          1078170: 1
+
+      - id: 77017 # Deep Earth Spaulders [leather shoulders]
+        costs:
+          1078170: 1
+
+      - id: 77013 # Deep Earth Raiment [leather chest]
+        costs:
+          1078174: 1
+
+      - id: 76752 # Deep Earth Robes [leather chest]
+        costs:
+          1078174: 1
+
+      - id: 77021 # Deep Earth Vestment [leather chest]
+        costs:
+          1078174: 1
+
+      - id: 77018 # Deep Earth Gloves [leather hands]
+        costs:
+          1078173: 1
+
+      - id: 77014 # Deep Earth Grips [leather hands]
+        costs:
+          1078173: 1
+
+      - id: 76749 # Deep Earth Handwraps [leather hands]
+        costs:
+          1078173: 1
+
+      - id: 77020 # Deep Earth Leggings [leather legs]
+        costs:
+          1078171: 1
+
+      - id: 77016 # Deep Earth Legguards [leather legs]
+        costs:
+          1078171: 1
+
+      - id: 76751 # Deep Earth Legwraps [leather legs]
+        costs:
+          1078171: 1
+
+      # Druid set=816
+
+      - id: 78791 # Deep Earth Cover [leather head]
+        costs:
+          1078868: 1
+
+      - id: 78789 # Deep Earth Headpiece [leather head]
+        costs:
+          1078868: 1
+
+      - id: 78785 # Deep Earth Helm [leather head]
+        costs:
+          1078868: 1
+
+      - id: 78835 # Deep Earth Mantle [leather shoulders]
+        costs:
+          1078874: 1
+
+      - id: 78839 # Deep Earth Shoulderwraps [leather shoulders]
+        costs:
+          1078874: 1
+
+      - id: 78838 # Deep Earth Spaulders [leather shoulders]
+        costs:
+          1078874: 1
+
+      - id: 78760 # Deep Earth Raiment [leather chest]
+        costs:
+          1078862: 1
+
+      - id: 78755 # Deep Earth Robes [leather chest]
+        costs:
+          1078862: 1
+
+      - id: 78757 # Deep Earth Vestment [leather chest]
+        costs:
+          1078862: 1
+
+      - id: 78771 # Deep Earth Gloves [leather hands]
+        costs:
+          1078865: 1
+
+      - id: 78779 # Deep Earth Grips [leather hands]
+        costs:
+          1078865: 1
+
+      - id: 78775 # Deep Earth Handwraps [leather hands]
+        costs:
+          1078865: 1
+
+      - id: 78809 # Deep Earth Leggings [leather legs]
+        costs:
+          1078871: 1
+
+      - id: 78808 # Deep Earth Legguards [leather legs]
+        costs:
+          1078871: 1
+
+      - id: 78805 # Deep Earth Legwraps [leather legs]
+        costs:
+          1078871: 1
+
+      # Druid set=817
+
+      - id: 78696 # Deep Earth Cover [leather head]
+        costs:
+          1078852: 1
+
+      - id: 78694 # Deep Earth Headpiece [leather head]
+        costs:
+          1078852: 1
+
+      - id: 78690 # Deep Earth Helm [leather head]
+        costs:
+          1078852: 1
+
+      - id: 78740 # Deep Earth Mantle [leather shoulders]
+        costs:
+          1078861: 1
+
+      - id: 78744 # Deep Earth Shoulderwraps [leather shoulders]
+        costs:
+          1078861: 1
+
+      - id: 78743 # Deep Earth Spaulders [leather shoulders]
+        costs:
+          1078861: 1
+
+      - id: 78665 # Deep Earth Raiment [leather chest]
+        costs:
+          1078849: 1
+
+      - id: 78660 # Deep Earth Robes [leather chest]
+        costs:
+          1078849: 1
+
+      - id: 78662 # Deep Earth Vestment [leather chest]
+        costs:
+          1078849: 1
+
+      - id: 78676 # Deep Earth Gloves [leather hands]
+        costs:
+          1078855: 1
+
+      - id: 78684 # Deep Earth Grips [leather hands]
+        costs:
+          1078855: 1
+
+      - id: 78680 # Deep Earth Handwraps [leather hands]
+        costs:
+          1078855: 1
+
+      - id: 78714 # Deep Earth Leggings [leather legs]
+        costs:
+          1078858: 1
+
+      - id: 78713 # Deep Earth Legguards [leather legs]
+        costs:
+          1078858: 1
+
+      - id: 78710 # Deep Earth Legwraps [leather legs]
+        costs:
+          1078858: 1
+
+      # Hunter set=728
+
+      - id: 77030 # Wyrmstalker's Headguard [mail head]
+        costs:
+          1078177: 1
+
+      - id: 77032 # Wyrmstalker's Spaulders [mail shoulders]
+        costs:
+          1078175: 1
+
+      - id: 77028 # Wyrmstalker's Tunic [mail chest]
+        costs:
+          1078179: 1
+
+      - id: 77029 # Wyrmstalker's Gloves [mail hands]
+        costs:
+          1078178: 1
+
+      - id: 77031 # Wyrmstalker's Legguards [mail legs]
+        costs:
+          1078176: 1
+
+      # Hunter set=729
+
+      - id: 78793 # Wyrmstalker's Headguard [mail head]
+        costs:
+          1078870: 1
+
+      - id: 78832 # Wyrmstalker's Spaulders [mail shoulders]
+        costs:
+          1078876: 1
+
+      - id: 78756 # Wyrmstalker's Tunic [mail chest]
+        costs:
+          1078864: 1
+
+      - id: 78769 # Wyrmstalker's Gloves [mail hands]
+        costs:
+          1078867: 1
+
+      - id: 78804 # Wyrmstalker's Legguards [mail legs]
+        costs:
+          1078873: 1
+
+      # Hunter set=730
+
+      - id: 78698 # Wyrmstalker's Headguard [mail head]
+        costs:
+          1078851: 1
+
+      - id: 78737 # Wyrmstalker's Spaulders [mail shoulders]
+        costs:
+          1078860: 1
+
+      - id: 78661 # Wyrmstalker's Tunic [mail chest]
+        costs:
+          1078848: 1
+
+      - id: 78674 # Wyrmstalker's Gloves [mail hands]
+        costs:
+          1078854: 1
+
+      - id: 78709 # Wyrmstalker's Legguards [mail legs]
+        costs:
+          1078857: 1
+
+      # Mage set=712
+
+      - id: 76213 # Time Lord's Hood [cloth head]
+        costs:
+          1078172: 1
+
+      - id: 76216 # Time Lord's Mantle [cloth shoulders]
+        costs:
+          1078170: 1
+
+      - id: 76215 # Time Lord's Robes [cloth chest]
+        costs:
+          1078174: 1
+
+      - id: 76212 # Time Lord's Gloves [cloth hands]
+        costs:
+          1078173: 1
+
+      - id: 76214 # Time Lord's Leggings [cloth legs]
+        costs:
+          1078171: 1
+
+      # Mage set=713
+
+      - id: 78796 # Time Lord's Hood [cloth head]
+        costs:
+          1078868: 1
+
+      - id: 78843 # Time Lord's Mantle [cloth shoulders]
+        costs:
+          1078874: 1
+
+      - id: 78824 # Time Lord's Robes [cloth chest]
+        costs:
+          1078862: 1
+
+      - id: 78766 # Time Lord's Gloves [cloth hands]
+        costs:
+          1078865: 1
+
+      - id: 78815 # Time Lord's Leggings [cloth legs]
+        costs:
+          1078871: 1
+
+      # Mage set=714
+
+      - id: 78701 # Time Lord's Hood [cloth head]
+        costs:
+          1078852: 1
+
+      - id: 78748 # Time Lord's Mantle [cloth shoulders]
+        costs:
+          1078861: 1
+
+      - id: 78729 # Time Lord's Robes [cloth chest]
+        costs:
+          1078849: 1
+
+      - id: 78671 # Time Lord's Gloves [cloth hands]
+        costs:
+          1078855: 1
+
+      - id: 78720 # Time Lord's Leggings [cloth legs]
+        costs:
+          1078858: 1
+
+      # Paladin set=696
+
+      - id: 77005 # Faceguard of Radiant Glory [plate head]
+        costs:
+          1078182: 1
+
+      - id: 76767 # Headguard of Radiant Glory [plate head]
+        costs:
+          1078182: 1
+
+      - id: 76876 # Helmet of Radiant Glory [plate head]
+        costs:
+          1078182: 1
+
+      - id: 76769 # Mantle of Radiant Glory [plate shoulders]
+        costs:
+          1078180: 1
+
+      - id: 76878 # Pauldrons of Radiant Glory [plate shoulders]
+        costs:
+          1078180: 1
+
+      - id: 77007 # Shoulderguards of Radiant Glory [plate shoulders]
+        costs:
+          1078180: 1
+
+      - id: 76874 # Battleplate of Radiant Glory [plate chest]
+        costs:
+          1078184: 1
+
+      - id: 76765 # Breastplate of Radiant Glory [plate chest]
+        costs:
+          1078184: 1
+
+      - id: 77003 # Chestguard of Radiant Glory [plate chest]
+        costs:
+          1078184: 1
+
+      - id: 76875 # Gauntlets of Radiant Glory [plate hands]
+        costs:
+          1078183: 1
+
+      - id: 76766 # Gloves of Radiant Glory [plate hands]
+        costs:
+          1078183: 1
+
+      - id: 77004 # Handguards of Radiant Glory [plate hands]
+        costs:
+          1078183: 1
+
+      - id: 76768 # Greaves of Radiant Glory [plate legs]
+        costs:
+          1078181: 1
+
+      - id: 77006 # Legguards of Radiant Glory [plate legs]
+        costs:
+          1078181: 1
+
+      - id: 76877 # Legplates of Radiant Glory [plate legs]
+        costs:
+          1078181: 1
+
+      # Paladin set=697
+
+      - id: 78790 # Faceguard of Radiant Glory [plate head]
+        costs:
+          1078869: 1
+
+      - id: 78787 # Headguard of Radiant Glory [plate head]
+        costs:
+          1078869: 1
+
+      - id: 78788 # Helmet of Radiant Glory [plate head]
+        costs:
+          1078869: 1
+
+      - id: 78841 # Mantle of Radiant Glory [plate shoulders]
+        costs:
+          1078875: 1
+
+      - id: 78837 # Pauldrons of Radiant Glory [plate shoulders]
+        costs:
+          1078875: 1
+
+      - id: 78840 # Shoulderguards of Radiant Glory [plate shoulders]
+        costs:
+          1078875: 1
+
+      - id: 78822 # Battleplate of Radiant Glory [plate chest]
+        costs:
+          1078863: 1
+
+      - id: 78821 # Breastplate of Radiant Glory [plate chest]
+        costs:
+          1078863: 1
+
+      - id: 78827 # Chestguard of Radiant Glory [plate chest]
+        costs:
+          1078863: 1
+
+      - id: 78770 # Gauntlets of Radiant Glory [plate hands]
+        costs:
+          1078866: 1
+
+      - id: 78768 # Gloves of Radiant Glory [plate hands]
+        costs:
+          1078866: 1
+
+      - id: 78772 # Handguards of Radiant Glory [plate hands]
+        costs:
+          1078866: 1
+
+      - id: 78812 # Greaves of Radiant Glory [plate legs]
+        costs:
+          1078872: 1
+
+      - id: 78810 # Legguards of Radiant Glory [plate legs]
+        costs:
+          1078872: 1
+
+      - id: 78807 # Legplates of Radiant Glory [plate legs]
+        costs:
+          1078872: 1
+
+      # Paladin set=698
+
+      - id: 78695 # Faceguard of Radiant Glory [plate head]
+        costs:
+          1078850: 1
+
+      - id: 78692 # Headguard of Radiant Glory [plate head]
+        costs:
+          1078850: 1
+
+      - id: 78693 # Helmet of Radiant Glory [plate head]
+        costs:
+          1078850: 1
+
+      - id: 78746 # Mantle of Radiant Glory [plate shoulders]
+        costs:
+          1078859: 1
+
+      - id: 78742 # Pauldrons of Radiant Glory [plate shoulders]
+        costs:
+          1078859: 1
+
+      - id: 78745 # Shoulderguards of Radiant Glory [plate shoulders]
+        costs:
+          1078859: 1
+
+      - id: 78727 # Battleplate of Radiant Glory [plate chest]
+        costs:
+          1078847: 1
+
+      - id: 78726 # Breastplate of Radiant Glory [plate chest]
+        costs:
+          1078847: 1
+
+      - id: 78732 # Chestguard of Radiant Glory [plate chest]
+        costs:
+          1078847: 1
+
+      - id: 78675 # Gauntlets of Radiant Glory [plate hands]
+        costs:
+          1078853: 1
+
+      - id: 78673 # Gloves of Radiant Glory [plate hands]
+        costs:
+          1078853: 1
+
+      - id: 78677 # Handguards of Radiant Glory [plate hands]
+        costs:
+          1078853: 1
+
+      - id: 78717 # Greaves of Radiant Glory [plate legs]
+        costs:
+          1078856: 1
+
+      - id: 78715 # Legguards of Radiant Glory [plate legs]
+        costs:
+          1078856: 1
+
+      - id: 78712 # Legplates of Radiant Glory [plate legs]
+        costs:
+          1078856: 1
+
+      # Priest set=339
+
+      - id: 76358 # Cowl of Dying Light [cloth head]
+        costs:
+          1078182: 1
+
+      - id: 76347 # Hood of Dying Light [cloth head]
+        costs:
+          1078182: 1
+
+      - id: 76344 # Mantle of Dying Light [cloth shoulders]
+        costs:
+          1078180: 1
+
+      - id: 76361 # Mantle of Dying Light [cloth shoulders]
+        costs:
+          1078180: 1
+
+      - id: 76345 # Robes of Dying Light [cloth chest]
+        costs:
+          1078184: 1
+
+      - id: 76360 # Robes of Dying Light [cloth chest]
+        costs:
+          1078184: 1
+
+      - id: 76348 # Gloves of Dying Light [cloth hands]
+        costs:
+          1078183: 1
+
+      - id: 76357 # Handwraps of Dying Light [cloth hands]
+        costs:
+          1078183: 1
+
+      - id: 76346 # Leggings of Dying Light [cloth legs]
+        costs:
+          1078181: 1
+
+      - id: 76359 # Legwraps of Dying Light [cloth legs]
+        costs:
+          1078181: 1
+
+      # Priest set=340
+
+      - id: 78795 # Cowl of Dying Light [cloth head]
+        costs:
+          1078869: 1
+
+      - id: 78798 # Hood of Dying Light [cloth head]
+        costs:
+          1078869: 1
+
+      - id: 78842 # Mantle of Dying Light [cloth shoulders]
+        costs:
+          1078875: 1
+
+      - id: 78845 # Mantle of Dying Light [cloth shoulders]
+        costs:
+          1078875: 1
+
+      - id: 78823 # Robes of Dying Light [cloth chest]
+        costs:
+          1078863: 1
+
+      - id: 78826 # Robes of Dying Light [cloth chest]
+        costs:
+          1078863: 1
+
+      - id: 78777 # Gloves of Dying Light [cloth hands]
+        costs:
+          1078866: 1
+
+      - id: 78778 # Handwraps of Dying Light [cloth hands]
+        costs:
+          1078866: 1
+
+      - id: 78817 # Leggings of Dying Light [cloth legs]
+        costs:
+          1078872: 1
+
+      - id: 78814 # Legwraps of Dying Light [cloth legs]
+        costs:
+          1078872: 1
+
+      # Priest set=341
+
+      - id: 78700 # Cowl of Dying Light [cloth head]
+        costs:
+          1078850: 1
+
+      - id: 78703 # Hood of Dying Light [cloth head]
+        costs:
+          1078850: 1
+
+      - id: 78747 # Mantle of Dying Light [cloth shoulders]
+        costs:
+          1078859: 1
+
+      - id: 78750 # Mantle of Dying Light [cloth shoulders]
+        costs:
+          1078859: 1
+
+      - id: 78728 # Robes of Dying Light [cloth chest]
+        costs:
+          1078847: 1
+
+      - id: 78731 # Robes of Dying Light [cloth chest]
+        costs:
+          1078847: 1
+
+      - id: 78682 # Gloves of Dying Light [cloth hands]
+        costs:
+          1078853: 1
+
+      - id: 78683 # Handwraps of Dying Light [cloth hands]
+        costs:
+          1078853: 1
+
+      - id: 78722 # Leggings of Dying Light [cloth legs]
+        costs:
+          1078856: 1
+
+      - id: 78719 # Legwraps of Dying Light [cloth legs]
+        costs:
+          1078856: 1
+
+      # Rogue set=680
+
+      - id: 77025 # Blackfang Battleweave Helmet [leather head]
+        costs:
+          1078172: 1
+
+      - id: 77027 # Blackfang Battleweave Spaulders [leather shoulders]
+        costs:
+          1078170: 1
+
+      - id: 77023 # Blackfang Battleweave Tunic [leather chest]
+        costs:
+          1078174: 1
+
+      - id: 77024 # Blackfang Battleweave Gloves [leather hands]
+        costs:
+          1078173: 1
+
+      - id: 77026 # Blackfang Battleweave Legguards [leather legs]
+        costs:
+          1078171: 1
+
+      # Rogue set=681
+
+      - id: 78794 # Blackfang Battleweave Helmet [leather head]
+        costs:
+          1078868: 1
+
+      - id: 78833 # Blackfang Battleweave Spaulders [leather shoulders]
+        costs:
+          1078874: 1
+
+      - id: 78759 # Blackfang Battleweave Tunic [leather chest]
+        costs:
+          1078862: 1
+
+      - id: 78774 # Blackfang Battleweave Gloves [leather hands]
+        costs:
+          1078865: 1
+
+      - id: 78803 # Blackfang Battleweave Legguards [leather legs]
+        costs:
+          1078871: 1
+
+      # Rogue set=682
+
+      - id: 78699 # Blackfang Battleweave Helmet [leather head]
+        costs:
+          1078852: 1
+
+      - id: 78738 # Blackfang Battleweave Spaulders [leather shoulders]
+        costs:
+          1078861: 1
+
+      - id: 78664 # Blackfang Battleweave Tunic [leather chest]
+        costs:
+          1078849: 1
+
+      - id: 78679 # Blackfang Battleweave Gloves [leather hands]
+        costs:
+          1078855: 1
+
+      - id: 78708 # Blackfang Battleweave Legguards [leather legs]
+        costs:
+          1078858: 1
+
+      # Shaman set=630
+
+      - id: 76758 # Spiritwalker's Faceguard [mail head]
+        costs:
+          1078177: 1
+
+      - id: 77037 # Spiritwalker's Headpiece [mail head]
+        costs:
+          1078177: 1
+
+      - id: 77042 # Spiritwalker's Helmet [mail head]
+        costs:
+          1078177: 1
+
+      - id: 76760 # Spiritwalker's Mantle [mail shoulders]
+        costs:
+          1078175: 1
+
+      - id: 77035 # Spiritwalker's Shoulderwraps [mail shoulders]
+        costs:
+          1078175: 1
+
+      - id: 77044 # Spiritwalker's Spaulders [mail shoulders]
+        costs:
+          1078175: 1
+
+      - id: 77040 # Spiritwalker's Cuirass [mail chest]
+        costs:
+          1078179: 1
+
+      - id: 77039 # Spiritwalker's Hauberk [mail chest]
+        costs:
+          1078179: 1
+
+      - id: 76756 # Spiritwalker's Tunic [mail chest]
+        costs:
+          1078179: 1
+
+      - id: 77038 # Spiritwalker's Gloves [mail hands]
+        costs:
+          1078178: 1
+
+      - id: 77041 # Spiritwalker's Grips [mail hands]
+        costs:
+          1078178: 1
+
+      - id: 76757 # Spiritwalker's Handwraps [mail hands]
+        costs:
+          1078178: 1
+
+      - id: 77036 # Spiritwalker's Kilt [mail legs]
+        costs:
+          1078176: 1
+
+      - id: 77043 # Spiritwalker's Legguards [mail legs]
+        costs:
+          1078176: 1
+
+      - id: 76759 # Spiritwalker's Legwraps [mail legs]
+        costs:
+          1078176: 1
+
+      # Shaman set=632
+
+      - id: 78786 # Spiritwalker's Faceguard [mail head]
+        costs:
+          1078870: 1
+
+      - id: 78780 # Spiritwalker's Headpiece [mail head]
+        costs:
+          1078870: 1
+
+      - id: 78781 # Spiritwalker's Helmet [mail head]
+        costs:
+          1078870: 1
+
+      - id: 78834 # Spiritwalker's Mantle [mail shoulders]
+        costs:
+          1078876: 1
+
+      - id: 78836 # Spiritwalker's Shoulderwraps [mail shoulders]
+        costs:
+          1078876: 1
+
+      - id: 78828 # Spiritwalker's Spaulders [mail shoulders]
+        costs:
+          1078876: 1
+
+      - id: 78819 # Spiritwalker's Cuirass [mail chest]
+        costs:
+          1078864: 1
+
+      - id: 78818 # Spiritwalker's Hauberk [mail chest]
+        costs:
+          1078864: 1
+
+      - id: 78820 # Spiritwalker's Tunic [mail chest]
+        costs:
+          1078864: 1
+
+      - id: 78761 # Spiritwalker's Gloves [mail hands]
+        costs:
+          1078867: 1
+
+      - id: 78762 # Spiritwalker's Grips [mail hands]
+        costs:
+          1078867: 1
+
+      - id: 78767 # Spiritwalker's Handwraps [mail hands]
+        costs:
+          1078867: 1
+
+      - id: 78806 # Spiritwalker's Kilt [mail legs]
+        costs:
+          1078873: 1
+
+      - id: 78799 # Spiritwalker's Legguards [mail legs]
+        costs:
+          1078873: 1
+
+      - id: 78813 # Spiritwalker's Legwraps [mail legs]
+        costs:
+          1078873: 1
+
+      # Shaman set=663
+
+      - id: 78691 # Spiritwalker's Faceguard [mail head]
+        costs:
+          1078851: 1
+
+      - id: 78685 # Spiritwalker's Headpiece [mail head]
+        costs:
+          1078851: 1
+
+      - id: 78686 # Spiritwalker's Helmet [mail head]
+        costs:
+          1078851: 1
+
+      - id: 78739 # Spiritwalker's Mantle [mail shoulders]
+        costs:
+          1078860: 1
+
+      - id: 78741 # Spiritwalker's Shoulderwraps [mail shoulders]
+        costs:
+          1078860: 1
+
+      - id: 78733 # Spiritwalker's Spaulders [mail shoulders]
+        costs:
+          1078860: 1
+
+      - id: 78724 # Spiritwalker's Cuirass [mail chest]
+        costs:
+          1078848: 1
+
+      - id: 78723 # Spiritwalker's Hauberk [mail chest]
+        costs:
+          1078848: 1
+
+      - id: 78725 # Spiritwalker's Tunic [mail chest]
+        costs:
+          1078848: 1
+
+      - id: 78666 # Spiritwalker's Gloves [mail hands]
+        costs:
+          1078854: 1
+
+      - id: 78667 # Spiritwalker's Grips [mail hands]
+        costs:
+          1078854: 1
+
+      - id: 78672 # Spiritwalker's Handwraps [mail hands]
+        costs:
+          1078854: 1
+
+      - id: 78711 # Spiritwalker's Kilt [mail legs]
+        costs:
+          1078857: 1
+
+      - id: 78704 # Spiritwalker's Legguards [mail legs]
+        costs:
+          1078857: 1
+
+      - id: 78718 # Spiritwalker's Legwraps [mail legs]
+        costs:
+          1078857: 1
+
+      # Warlock set=664
+
+      - id: 76342 # Hood of the Faceless Shroud [cloth head]
+        costs:
+          1078182: 1
+
+      - id: 76339 # Mantle of the Faceless Shroud [cloth shoulders]
+        costs:
+          1078180: 1
+
+      - id: 76340 # Robes of the Faceless Shroud [cloth chest]
+        costs:
+          1078184: 1
+
+      - id: 76343 # Gloves of the Faceless Shroud [cloth hands]
+        costs:
+          1078183: 1
+
+      - id: 76341 # Leggings of the Faceless Shroud [cloth legs]
+        costs:
+          1078181: 1
+
+      # Warlock set=665
+
+      - id: 78797 # Hood of the Faceless Shroud [cloth head]
+        costs:
+          1078869: 1
+
+      - id: 78844 # Mantle of the Faceless Shroud [cloth shoulders]
+        costs:
+          1078875: 1
+
+      - id: 78825 # Robes of the Faceless Shroud [cloth chest]
+        costs:
+          1078863: 1
+
+      - id: 78776 # Gloves of the Faceless Shroud [cloth hands]
+        costs:
+          1078866: 1
+
+      - id: 78816 # Leggings of the Faceless Shroud [cloth legs]
+        costs:
+          1078872: 1
+
+      # Warlock set=666
+
+      - id: 78702 # Hood of the Faceless Shroud [cloth head]
+        costs:
+          1078850: 1
+
+      - id: 78749 # Mantle of the Faceless Shroud [cloth shoulders]
+        costs:
+          1078859: 1
+
+      - id: 78730 # Robes of the Faceless Shroud [cloth chest]
+        costs:
+          1078847: 1
+
+      - id: 78681 # Gloves of the Faceless Shroud [cloth hands]
+        costs:
+          1078853: 1
+
+      - id: 78721 # Leggings of the Faceless Shroud [cloth legs]
+        costs:
+          1078856: 1
+
+      # Warrior set=631
+
+      - id: 78689 # Colossal Dragonplate Faceguard [plate head]
+        costs:
+          1078851: 1
+
+      - id: 78688 # Colossal Dragonplate Helmet [plate head]
+        costs:
+          1078851: 1
+
+      - id: 78735 # Colossal Dragonplate Pauldrons [plate shoulders]
+        costs:
+          1078860: 1
+
+      - id: 78734 # Colossal Dragonplate Shoulderguards [plate shoulders]
+        costs:
+          1078860: 1
+
+      - id: 78657 # Colossal Dragonplate Battleplate [plate chest]
+        costs:
+          1078848: 1
+
+      - id: 78658 # Colossal Dragonplate Chestguard [plate chest]
+        costs:
+          1078848: 1
+
+      - id: 78668 # Colossal Dragonplate Gauntlets [plate hands]
+        costs:
+          1078854: 1
+
+      - id: 78669 # Colossal Dragonplate Handguards [plate hands]
+        costs:
+          1078854: 1
+
+      - id: 78705 # Colossal Dragonplate Legguards [plate legs]
+        costs:
+          1078857: 1
+
+      - id: 78706 # Colossal Dragonplate Legplates [plate legs]
+        costs:
+          1078857: 1
+
+      # Warrior set=649
+
+      - id: 76990 # Colossal Dragonplate Faceguard [plate head]
+        costs:
+          1078177: 1
+
+      - id: 76983 # Colossal Dragonplate Helmet [plate head]
+        costs:
+          1078177: 1
+
+      - id: 76987 # Colossal Dragonplate Pauldrons [plate shoulders]
+        costs:
+          1078175: 1
+
+      - id: 76992 # Colossal Dragonplate Shoulderguards [plate shoulders]
+        costs:
+          1078175: 1
+
+      - id: 76984 # Colossal Dragonplate Battleplate [plate chest]
+        costs:
+          1078179: 1
+
+      - id: 76988 # Colossal Dragonplate Chestguard [plate chest]
+        costs:
+          1078179: 1
+
+      - id: 76985 # Colossal Dragonplate Gauntlets [plate hands]
+        costs:
+          1078178: 1
+
+      - id: 76989 # Colossal Dragonplate Handguards [plate hands]
+        costs:
+          1078178: 1
+
+      - id: 76991 # Colossal Dragonplate Legguards [plate legs]
+        costs:
+          1078176: 1
+
+      - id: 76986 # Colossal Dragonplate Legplates [plate legs]
+        costs:
+          1078176: 1
+
+      # Warrior set=650
+
+      - id: 78784 # Colossal Dragonplate Faceguard [plate head]
+        costs:
+          1078870: 1
+
+      - id: 78783 # Colossal Dragonplate Helmet [plate head]
+        costs:
+          1078870: 1
+
+      - id: 78830 # Colossal Dragonplate Pauldrons [plate shoulders]
+        costs:
+          1078876: 1
+
+      - id: 78829 # Colossal Dragonplate Shoulderguards [plate shoulders]
+        costs:
+          1078876: 1
+
+      - id: 78752 # Colossal Dragonplate Battleplate [plate chest]
+        costs:
+          1078864: 1
+
+      - id: 78753 # Colossal Dragonplate Chestguard [plate chest]
+        costs:
+          1078864: 1
+
+      - id: 78763 # Colossal Dragonplate Gauntlets [plate hands]
+        costs:
+          1078867: 1
+
+      - id: 78764 # Colossal Dragonplate Handguards [plate hands]
+        costs:
+          1078867: 1
+
+      - id: 78800 # Colossal Dragonplate Legguards [plate legs]
+        costs:
+          1078873: 1
+
+      - id: 78801 # Colossal Dragonplate Legplates [plate legs]
+        costs:
+          1078873: 1
+      # Skipped id=77091 name=Cameo of Terrible Memories slot=2
+      # Skipped id=77092 name=Guardspike Choker slot=2
+      # Skipped id=77090 name=Necklace of Black Dragon's Teeth slot=2
+      # Skipped id=77088 name=Opal of the Secret Order slot=2
+      # Skipped id=77089 name=Threadlinked Chain slot=2
+      # Skipped id=77109 name=Band of Reconstruction slot=11
+      # Skipped id=77111 name=Emergency Descent Loop slot=11
+      # Skipped id=77110 name=Ring of Torn Flesh slot=11
+      # Skipped id=77108 name=Seal of the Grand Architect slot=11
+      # Skipped id=77112 name=Signet of the Resolute slot=11
+      # Skipped id=77114 name=Bottled Wishes slot=12
+      # Skipped id=77117 name=Fire of the Deep slot=12
+      # Skipped id=77113 name=Kiroptyric Sigil slot=12
+      # Skipped id=77115 name=Reflection of the Light slot=12
+      # Skipped id=77116 name=Rotting Skull slot=12
+
+      # 0 set=339
+
+      - id: 77146 # Soulgaze Cowl [cloth head]
+        costs:
+          0: 255 # Gold
+
+      - id: 77121 # Lightwarper Vestments [cloth chest]
+        costs:
+          0: 335 # Gold
+
+      - id: 77323 # Bracers of the Black Dream [cloth wrists]
+        costs:
+          0: 173 # Gold
+
+      - id: 77157 # The Hands of Gilly [cloth hands]
+        costs:
+          0: 148 # Gold
+
+      - id: 77187 # Vestal's Irrepressible Girdle [cloth waist]
+        costs:
+          0: 143 # Gold
+
+      - id: 77177 # Splinterfoot Sandals [cloth feet]
+        costs:
+          0: 222 # Gold
+
+      # 0 set=664
+
+      - id: 77147 # Hood of Hidden Flesh [cloth head]
+        costs:
+          0: 229 # Gold
+
+      - id: 77122 # Robes of Searing Shadow [cloth chest]
+        costs:
+          0: 224 # Gold
+
+      - id: 77179 # Tentacular Belt [cloth waist]
+        costs:
+          0: 170 # Gold
+
+      # 0 set=712
+
+      - id: 77324 # Chronoboost Bracers [cloth wrists]
+        costs:
+          0: 167 # Gold
+
+      - id: 77159 # Clockwinder's Immaculate Gloves [cloth hands]
+        costs:
+          0: 167 # Gold
+
+      - id: 77176 # Kavan's Forsaken Treads [cloth feet]
+        costs:
+          0: 249 # Gold
+
+      # 0 set=680
+
+      - id: 77148 # Nocturnal Gaze [leather head]
+        costs:
+          0: 203 # Gold
+
+      - id: 77126 # Shadowbinder Chestguard [leather chest]
+        costs:
+          0: 286 # Gold
+
+      - id: 77322 # Bracers of Manifold Pockets [leather wrists]
+        costs:
+          0: 175 # Gold
+
+      - id: 77161 # Lightfinger Handwraps [leather hands]
+        costs:
+          0: 168 # Gold
+
+      - id: 77180 # Belt of Hidden Keys [leather waist]
+        costs:
+          0: 170 # Gold
+
+      - id: 77173 # Rooftop Griptoes [leather feet]
+        costs:
+          0: 205 # Gold
+
+      # 0 set=815
+
+      - id: 77149 # Helmet of Perpetual Rebirth [leather head]
+        costs:
+          0: 285 # Gold
+
+      - id: 77127 # Decaying Herbalist's Robes [leather chest]
+        costs:
+          0: 206 # Gold
+
+      - id: 77320 # Luminescent Bracers [leather wrists]
+        costs:
+          0: 176 # Gold
+
+      - id: 77160 # Fungus-Born Gloves [leather hands]
+        costs:
+          0: 168 # Gold
+
+      - id: 77181 # Belt of Universal Curing [leather waist]
+        costs:
+          0: 152 # Gold
+
+      - id: 77172 # Boots of Fungoid Growth [leather feet]
+        costs:
+          0: 221 # Gold
+
+      # 0 set=630
+
+      - id: 77151 # Wolfdream Circlet [mail head]
+        costs:
+          0: 142 # Gold
+
+      - id: 77125 # Ghostworld Chestguard [mail chest]
+        costs:
+          0: 143 # Gold
+
+      - id: 77319 # Bracers of the Spectral Wolf [mail wrists]
+        costs:
+          0: 158 # Gold
+
+      - id: 77163 # Gloves of Ghostly Dreams [mail hands]
+        costs:
+          0: 169 # Gold
+
+      - id: 77183 # Girdle of Shamanic Fury [mail waist]
+        costs:
+          0: 220 # Gold
+
+      - id: 77174 # Sabatons of the Graceful Spirit [mail feet]
+        costs:
+          0: 245 # Gold
+
+      # 0 set=728
+
+      - id: 77150 # Zeherah's Dragonskull Crown [mail head]
+        costs:
+          0: 280 # Gold
+
+      - id: 77124 # Dragonflayer Vest [mail chest]
+        costs:
+          0: 143 # Gold
+
+      - id: 77321 # Dragonbelly Bracers [mail wrists]
+        costs:
+          0: 176 # Gold
+
+      - id: 77162 # Arrowflick Gauntlets [mail hands]
+        costs:
+          0: 169 # Gold
+
+      - id: 77182 # Cord of Dragon Sinew [mail waist]
+        costs:
+          0: 220 # Gold
+
+      - id: 77175 # Boneshard Boots [mail feet]
+        costs:
+          0: 244 # Gold
+
+      # 0 set=649
+
+      - id: 77156 # Jaw of Repudiation [plate head]
+        costs:
+          0: 246 # Gold
+
+      - id: 77120 # Chestplate of the Unshakable Titan [plate chest]
+        costs:
+          0: 334 # Gold
+
+      - id: 77318 # Bracers of Unrelenting Excellence [plate wrists]
+        costs:
+          0: 174 # Gold
+
+      - id: 77166 # Gauntlets of Feathery Blows [plate hands]
+        costs:
+          0: 176 # Gold
+
+      - id: 77186 # Forgesmelter Waistplate [plate waist]
+        costs:
+          0: 168 # Gold
+
+      - id: 77171 # Bladeshatter Treads [plate feet]
+        costs:
+          0: 261 # Gold
+
+      # 0 set=696
+
+      - id: 77153 # Glowing Wings of Hope [plate head]
+        costs:
+          0: 218 # Gold
+
+      - id: 77123 # Shining Carapace of Glory [plate chest]
+        costs:
+          0: 338 # Gold
+
+      - id: 77316 # Flashing Bracers of Warmth [plate wrists]
+        costs:
+          0: 173 # Gold
+
+      - id: 77164 # Gleaming Grips of Mending [plate hands]
+        costs:
+          0: 170 # Gold
+
+      - id: 77184 # Blinding Girdle of Truth [plate waist]
+        costs:
+          0: 170 # Gold
+
+      - id: 77169 # Silver Sabatons of Fury [plate feet]
+        costs:
+          0: 262 # Gold
+
+      # 0 set=831
+
+      - id: 77155 # Visage of Petrification [plate head]
+        costs:
+          0: 245 # Gold
+
+      - id: 77119 # Bones of the Damned [plate chest]
+        costs:
+          0: 333 # Gold
+
+      - id: 77317 # Heartcrusher Wristplates [plate wrists]
+        costs:
+          0: 174 # Gold
+
+      - id: 77165 # Grimfist Crushers [plate hands]
+        costs:
+          0: 153 # Gold
+
+      - id: 77185 # Demonbone Waistguard [plate waist]
+        costs:
+          0: 170 # Gold
+
+      - id: 77170 # Kneebreaker Boots [plate feet]
+        costs:
+          0: 260 # Gold
+
+      # 0
+
+      - id: 77095 # Batwing Cloak [cloak]
+        costs:
+          0: 253 # Gold
+
+      - id: 77097 # Dreamcrusher Drape [cloak]
+        costs:
+          0: 227 # Gold
+
+      - id: 77099 # Indefatigable Greatcloak [cloak]
+        costs:
+          0: 213 # Gold
+
+      - id: 77098 # Nanoprecise Cape [cloak]
+        costs:
+          0: 227 # Gold
+
+      - id: 77096 # Woundlicker Cover [cloak]
+        costs:
+          0: 149 # Gold
+
+      - id: 77079 # Hungermouth Wand [wand]
+        costs:
+          0: 193 # Gold
+
+      - id: 77078 # Scintillating Rods [wand]
+        costs:
+          0: 193 # Gold

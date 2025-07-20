@@ -1,0 +1,1269 @@
+things:
+  - id: 58155
+    type: "vendor"
+    name: "Rugok"
+    note: "Legacy Justice Quartermaster"
+
+    locations:
+      here: # orgrimmar
+        - 48.2 71.6 horde
+
+    contents:
+
+      # Death Knight set=836
+
+      - id: 60351 # Magma Plated Faceguard [plate head]
+        costs:
+          0: 1 # Gold
+
+      - id: 60341 # Magma Plated Helmet [plate head]
+        costs:
+          0: 1 # Gold
+
+      - id: 60343 # Magma Plated Pauldrons [plate shoulders]
+        costs:
+          0: 1 # Gold
+
+      - id: 60353 # Magma Plated Shoulderguards [plate shoulders]
+        costs:
+          0: 1 # Gold
+
+      - id: 60339 # Magma Plated Battleplate [plate chest]
+        costs:
+          0: 1 # Gold
+
+      - id: 60349 # Magma Plated Chestguard [plate chest]
+        costs:
+          0: 1 # Gold
+
+      - id: 60340 # Magma Plated Gauntlets [plate hands]
+        costs:
+          0: 1 # Gold
+
+      - id: 60350 # Magma Plated Handguards [plate hands]
+        costs:
+          0: 1 # Gold
+
+      - id: 60352 # Magma Plated Legguards [plate legs]
+        costs:
+          0: 1 # Gold
+
+      - id: 60342 # Magma Plated Legplates [plate legs]
+        costs:
+          0: 1 # Gold
+
+      # Death Knight set=837
+
+      - id: 65186 # Magma Plated Faceguard [plate head]
+        costs:
+          1065002: 1
+
+      - id: 65181 # Magma Plated Helmet [plate head]
+        costs:
+          1065002: 1
+
+      - id: 65183 # Magma Plated Pauldrons [plate shoulders]
+        costs:
+          1065089: 1
+
+      - id: 65188 # Magma Plated Shoulderguards [plate shoulders]
+        costs:
+          1065089: 1
+
+      - id: 65179 # Magma Plated Battleplate [plate chest]
+        costs:
+          1067425: 1
+          1060339: 1
+
+      - id: 65184 # Magma Plated Chestguard [plate chest]
+        costs:
+          1067425: 1
+          1060349: 1
+
+      - id: 65180 # Magma Plated Gauntlets [plate hands]
+        costs:
+          1067431: 1
+          1060340: 1
+
+      - id: 65185 # Magma Plated Handguards [plate hands]
+        costs:
+          1067431: 1
+          1060350: 1
+
+      - id: 65187 # Magma Plated Legguards [plate legs]
+        costs:
+          1067426: 1
+          1060352: 1
+
+      - id: 65182 # Magma Plated Legplates [plate legs]
+        costs:
+          1067426: 1
+          1060342: 1
+
+      # Druid set=820
+
+      - id: 60282 # Stormrider's Cover [leather head]
+        costs:
+          0: 1 # Gold
+
+      - id: 60286 # Stormrider's Headpiece [leather head]
+        costs:
+          0: 1 # Gold
+
+      - id: 60277 # Stormrider's Helm [leather head]
+        costs:
+          0: 1 # Gold
+
+      - id: 60279 # Stormrider's Mantle [leather shoulders]
+        costs:
+          0: 1 # Gold
+
+      - id: 60284 # Stormrider's Shoulderwraps [leather shoulders]
+        costs:
+          0: 1 # Gold
+
+      - id: 60289 # Stormrider's Spaulders [leather shoulders]
+        costs:
+          0: 1 # Gold
+
+      - id: 60287 # Stormrider's Raiment [leather chest]
+        costs:
+          0: 1 # Gold
+
+      - id: 60276 # Stormrider's Robes [leather chest]
+        costs:
+          0: 1 # Gold
+
+      - id: 60281 # Stormrider's Vestment [leather chest]
+        costs:
+          0: 1 # Gold
+
+      - id: 60285 # Stormrider's Gloves [leather hands]
+        costs:
+          0: 1 # Gold
+
+      - id: 60290 # Stormrider's Grips [leather hands]
+        costs:
+          0: 1 # Gold
+
+      - id: 60280 # Stormrider's Handwraps [leather hands]
+        costs:
+          0: 1 # Gold
+
+      - id: 60283 # Stormrider's Leggings [leather legs]
+        costs:
+          0: 1 # Gold
+
+      - id: 60288 # Stormrider's Legguards [leather legs]
+        costs:
+          0: 1 # Gold
+
+      - id: 60278 # Stormrider's Legwraps [leather legs]
+        costs:
+          0: 1 # Gold
+
+      # Druid set=821
+
+      - id: 65200 # Stormrider's Cover [leather head]
+        costs:
+          1065002: 1
+
+      - id: 65190 # Stormrider's Headpiece [leather head]
+        costs:
+          1065002: 1
+
+      - id: 65195 # Stormrider's Helm [leather head]
+        costs:
+          1065002: 1
+
+      - id: 65198 # Stormrider's Mantle [leather shoulders]
+        costs:
+          1065089: 1
+
+      - id: 65203 # Stormrider's Shoulderwraps [leather shoulders]
+        costs:
+          1065089: 1
+
+      - id: 65193 # Stormrider's Spaulders [leather shoulders]
+        costs:
+          1065089: 1
+
+      - id: 65192 # Stormrider's Raiment [leather chest]
+        costs:
+          1067425: 1
+          1060287: 1
+
+      - id: 65197 # Stormrider's Robes [leather chest]
+        costs:
+          1067425: 1
+          1060276: 1
+
+      - id: 65202 # Stormrider's Vestment [leather chest]
+        costs:
+          1067425: 1
+          1060281: 1
+
+      - id: 65199 # Stormrider's Gloves [leather hands]
+        costs:
+          1067431: 1
+          1060285: 1
+
+      - id: 65189 # Stormrider's Grips [leather hands]
+        costs:
+          1067431: 1
+          1060290: 1
+
+      - id: 65194 # Stormrider's Handwraps [leather hands]
+        costs:
+          1067431: 1
+          1060280: 1
+
+      - id: 65201 # Stormrider's Leggings [leather legs]
+        costs:
+          1067426: 1
+          1060283: 1
+
+      - id: 65191 # Stormrider's Legguards [leather legs]
+        costs:
+          1067426: 1
+          1060288: 1
+
+      - id: 65196 # Stormrider's Legwraps [leather legs]
+        costs:
+          1067426: 1
+          1060278: 1
+
+      # Hunter set=733
+
+      - id: 60303 # Lightning-Charged Headguard [mail head]
+        costs:
+          0: 1 # Gold
+
+      - id: 60306 # Lightning-Charged Spaulders [mail shoulders]
+        costs:
+          0: 1 # Gold
+
+      - id: 60304 # Lightning-Charged Tunic [mail chest]
+        costs:
+          0: 1 # Gold
+
+      - id: 60307 # Lightning-Charged Gloves [mail hands]
+        costs:
+          0: 1 # Gold
+
+      - id: 60305 # Lightning-Charged Legguards [mail legs]
+        costs:
+          0: 1 # Gold
+
+      # Hunter set=734
+
+      - id: 65206 # Lightning-Charged Headguard [mail head]
+        costs:
+          1065000: 1
+
+      - id: 65208 # Lightning-Charged Spaulders [mail shoulders]
+        costs:
+          1065087: 1
+
+      - id: 65204 # Lightning-Charged Tunic [mail chest]
+        costs:
+          1067424: 1
+          1060304: 1
+
+      - id: 65205 # Lightning-Charged Gloves [mail hands]
+        costs:
+          1067430: 1
+          1060307: 1
+
+      - id: 65207 # Lightning-Charged Legguards [mail legs]
+        costs:
+          1067427: 1
+          1060305: 1
+
+      # Mage set=717
+
+      - id: 60243 # Firelord's Hood [cloth head]
+        costs:
+          0: 1 # Gold
+
+      - id: 60246 # Firelord's Mantle [cloth shoulders]
+        costs:
+          0: 1 # Gold
+
+      - id: 60244 # Firelord's Robes [cloth chest]
+        costs:
+          0: 1 # Gold
+
+      - id: 60247 # Firelord's Gloves [cloth hands]
+        costs:
+          0: 1 # Gold
+
+      - id: 60245 # Firelord's Leggings [cloth legs]
+        costs:
+          0: 1 # Gold
+
+      # Mage set=718
+
+      - id: 65210 # Firelord's Hood [cloth head]
+        costs:
+          1065002: 1
+
+      - id: 65213 # Firelord's Mantle [cloth shoulders]
+        costs:
+          1065089: 1
+
+      - id: 65212 # Firelord's Robes [cloth chest]
+        costs:
+          1067425: 1
+          1060244: 1
+
+      - id: 65209 # Firelord's Gloves [cloth hands]
+        costs:
+          1067431: 1
+          1060247: 1
+
+      - id: 65211 # Firelord's Leggings [cloth legs]
+        costs:
+          1067426: 1
+          1060245: 1
+
+      # Paladin set=701
+
+      - id: 60356 # Reinforced Sapphirium Faceguard [plate head]
+        costs:
+          0: 1 # Gold
+
+      - id: 60359 # Reinforced Sapphirium Headguard [plate head]
+        costs:
+          0: 1 # Gold
+
+      - id: 60346 # Reinforced Sapphirium Helmet [plate head]
+        costs:
+          0: 1 # Gold
+
+      - id: 60362 # Reinforced Sapphirium Mantle [plate shoulders]
+        costs:
+          0: 1 # Gold
+
+      - id: 60348 # Reinforced Sapphirium Pauldrons [plate shoulders]
+        costs:
+          0: 1 # Gold
+
+      - id: 60358 # Reinforced Sapphirium Shoulderguards [plate shoulders]
+        costs:
+          0: 1 # Gold
+
+      - id: 60344 # Reinforced Sapphirium Battleplate [plate chest]
+        costs:
+          0: 1 # Gold
+
+      - id: 60360 # Reinforced Sapphirium Breastplate [plate chest]
+        costs:
+          0: 1 # Gold
+
+      - id: 60354 # Reinforced Sapphirium Chestguard [plate chest]
+        costs:
+          0: 1 # Gold
+
+      - id: 60345 # Reinforced Sapphirium Gauntlets [plate hands]
+        costs:
+          0: 1 # Gold
+
+      - id: 60363 # Reinforced Sapphirium Gloves [plate hands]
+        costs:
+          0: 1 # Gold
+
+      - id: 60355 # Reinforced Sapphirium Handguards [plate hands]
+        costs:
+          0: 1 # Gold
+
+      - id: 60361 # Reinforced Sapphirium Greaves [plate legs]
+        costs:
+          0: 1 # Gold
+
+      - id: 60357 # Reinforced Sapphirium Legguards [plate legs]
+        costs:
+          0: 1 # Gold
+
+      - id: 60347 # Reinforced Sapphirium Legplates [plate legs]
+        costs:
+          0: 1 # Gold
+
+      # Paladin set=702
+
+      - id: 65226 # Reinforced Sapphirium Faceguard [plate head]
+        costs:
+          1065001: 1
+
+      - id: 65221 # Reinforced Sapphirium Headguard [plate head]
+        costs:
+          1065001: 1
+
+      - id: 65216 # Reinforced Sapphirium Helmet [plate head]
+        costs:
+          1065001: 1
+
+      - id: 65223 # Reinforced Sapphirium Mantle [plate shoulders]
+        costs:
+          1065088: 1
+
+      - id: 65218 # Reinforced Sapphirium Pauldrons [plate shoulders]
+        costs:
+          1065088: 1
+
+      - id: 65228 # Reinforced Sapphirium Shoulderguards [plate shoulders]
+        costs:
+          1065088: 1
+
+      - id: 65214 # Reinforced Sapphirium Battleplate [plate chest]
+        costs:
+          1067423: 1
+          1060344: 1
+
+      - id: 65219 # Reinforced Sapphirium Breastplate [plate chest]
+        costs:
+          1067423: 1
+          1060360: 1
+
+      - id: 65224 # Reinforced Sapphirium Chestguard [plate chest]
+        costs:
+          1067423: 1
+          1060354: 1
+
+      - id: 65215 # Reinforced Sapphirium Gauntlets [plate hands]
+        costs:
+          1067429: 1
+          1060345: 1
+
+      - id: 65220 # Reinforced Sapphirium Gloves [plate hands]
+        costs:
+          1067429: 1
+          1060363: 1
+
+      - id: 65225 # Reinforced Sapphirium Handguards [plate hands]
+        costs:
+          1067429: 1
+          1060355: 1
+
+      - id: 65222 # Reinforced Sapphirium Greaves [plate legs]
+        costs:
+          1067428: 1
+          1060361: 1
+
+      - id: 65227 # Reinforced Sapphirium Legguards [plate legs]
+        costs:
+          1067428: 1
+          1060357: 1
+
+      - id: 65217 # Reinforced Sapphirium Legplates [plate legs]
+        costs:
+          1067428: 1
+          1060347: 1
+
+      # Priest set=344
+
+      - id: 60258 # Mercurial Cowl [cloth head]
+        costs:
+          0: 1 # Gold
+
+      - id: 60256 # Mercurial Hood [cloth head]
+        costs:
+          0: 1 # Gold
+
+      - id: 60262 # Mercurial Mantle [cloth shoulders]
+        costs:
+          0: 1 # Gold
+
+      - id: 60253 # Mercurial Shoulderwraps [cloth shoulders]
+        costs:
+          0: 1 # Gold
+
+      - id: 60259 # Mercurial Robes [cloth chest]
+        costs:
+          0: 1 # Gold
+
+      - id: 60254 # Mercurial Vestment [cloth chest]
+        costs:
+          0: 1 # Gold
+
+      - id: 60257 # Mercurial Gloves [cloth hands]
+        costs:
+          0: 1 # Gold
+
+      - id: 60275 # Mercurial Handwraps [cloth hands]
+        costs:
+          0: 1 # Gold
+
+      - id: 60255 # Mercurial Leggings [cloth legs]
+        costs:
+          0: 1 # Gold
+
+      - id: 60261 # Mercurial Legwraps [cloth legs]
+        costs:
+          0: 1 # Gold
+
+      # Priest set=345
+
+      - id: 65230 # Mercurial Cowl [cloth head]
+        costs:
+          1065001: 1
+
+      - id: 65235 # Mercurial Hood [cloth head]
+        costs:
+          1065001: 1
+
+      - id: 65233 # Mercurial Mantle [cloth shoulders]
+        costs:
+          1065088: 1
+
+      - id: 65238 # Mercurial Shoulderwraps [cloth shoulders]
+        costs:
+          1065088: 1
+
+      - id: 65232 # Mercurial Robes [cloth chest]
+        costs:
+          1067423: 1
+          1060259: 1
+
+      - id: 65237 # Mercurial Vestment [cloth chest]
+        costs:
+          1067423: 1
+          1060254: 1
+
+      - id: 65234 # Mercurial Gloves [cloth hands]
+        costs:
+          1067429: 1
+          1060257: 1
+
+      - id: 65229 # Mercurial Handwraps [cloth hands]
+        costs:
+          1067429: 1
+          1060275: 1
+
+      - id: 65236 # Mercurial Leggings [cloth legs]
+        costs:
+          1067428: 1
+          1060255: 1
+
+      - id: 65231 # Mercurial Legwraps [cloth legs]
+        costs:
+          1067428: 1
+          1060261: 1
+
+      # Rogue set=685
+
+      - id: 60299 # Wind Dancer's Helmet [leather head]
+        costs:
+          0: 1 # Gold
+
+      - id: 60302 # Wind Dancer's Spaulders [leather shoulders]
+        costs:
+          0: 1 # Gold
+
+      - id: 60301 # Wind Dancer's Tunic [leather chest]
+        costs:
+          0: 1 # Gold
+
+      - id: 60298 # Wind Dancer's Gloves [leather hands]
+        costs:
+          0: 1 # Gold
+
+      - id: 60300 # Wind Dancer's Legguards [leather legs]
+        costs:
+          0: 1 # Gold
+
+      # Rogue set=686
+
+      - id: 65241 # Wind Dancer's Helmet [leather head]
+        costs:
+          1065002: 1
+
+      - id: 65243 # Wind Dancer's Spaulders [leather shoulders]
+        costs:
+          1065089: 1
+
+      - id: 65239 # Wind Dancer's Tunic [leather chest]
+        costs:
+          1067425: 1
+          1060301: 1
+
+      - id: 65240 # Wind Dancer's Gloves [leather hands]
+        costs:
+          1067431: 1
+          1060298: 1
+
+      - id: 65242 # Wind Dancer's Legguards [leather legs]
+        costs:
+          1067426: 1
+          1060300: 1
+
+      # Shaman set=635
+
+      - id: 60308 # Faceguard of the Raging Elements [mail head]
+        costs:
+          0: 1 # Gold
+
+      - id: 60315 # Headpiece of the Raging Elements [mail head]
+        costs:
+          0: 1 # Gold
+
+      - id: 60320 # Helmet of the Raging Elements [mail head]
+        costs:
+          0: 1 # Gold
+
+      - id: 60311 # Mantle of the Raging Elements [mail shoulders]
+        costs:
+          0: 1 # Gold
+
+      - id: 60317 # Shoulderwraps of the Raging Elements [mail shoulders]
+        costs:
+          0: 1 # Gold
+
+      - id: 60322 # Spaulders of the Raging Elements [mail shoulders]
+        costs:
+          0: 1 # Gold
+
+      - id: 60318 # Cuirass of the Raging Elements [mail chest]
+        costs:
+          0: 1 # Gold
+
+      - id: 60313 # Hauberk of the Raging Elements [mail chest]
+        costs:
+          0: 1 # Gold
+
+      - id: 60309 # Tunic of the Raging Elements [mail chest]
+        costs:
+          0: 1 # Gold
+
+      - id: 60314 # Gloves of the Raging Elements [mail hands]
+        costs:
+          0: 1 # Gold
+
+      - id: 60319 # Grips of the Raging Elements [mail hands]
+        costs:
+          0: 1 # Gold
+
+      - id: 60312 # Handwraps of the Raging Elements [mail hands]
+        costs:
+          0: 1 # Gold
+
+      - id: 60316 # Kilt of the Raging Elements [mail legs]
+        costs:
+          0: 1 # Gold
+
+      - id: 60321 # Legguards of the Raging Elements [mail legs]
+        costs:
+          0: 1 # Gold
+
+      - id: 60310 # Legwraps of the Raging Elements [mail legs]
+        costs:
+          0: 1 # Gold
+
+      # Shaman set=636
+
+      - id: 65246 # Faceguard of the Raging Elements [mail head]
+        costs:
+          1065000: 1
+
+      - id: 65256 # Headpiece of the Raging Elements [mail head]
+        costs:
+          1065000: 1
+
+      - id: 65251 # Helmet of the Raging Elements [mail head]
+        costs:
+          1065000: 1
+
+      - id: 65248 # Mantle of the Raging Elements [mail shoulders]
+        costs:
+          1065087: 1
+
+      - id: 65258 # Shoulderwraps of the Raging Elements [mail shoulders]
+        costs:
+          1065087: 1
+
+      - id: 65253 # Spaulders of the Raging Elements [mail shoulders]
+        costs:
+          1065087: 1
+
+      - id: 65249 # Cuirass of the Raging Elements [mail chest]
+        costs:
+          1067424: 1
+          1060318: 1
+
+      - id: 65254 # Hauberk of the Raging Elements [mail chest]
+        costs:
+          1067424: 1
+          1060313: 1
+
+      - id: 65244 # Tunic of the Raging Elements [mail chest]
+        costs:
+          1067424: 1
+          1060309: 1
+
+      - id: 65255 # Gloves of the Raging Elements [mail hands]
+        costs:
+          1067430: 1
+          1060314: 1
+
+      - id: 65250 # Grips of the Raging Elements [mail hands]
+        costs:
+          1067430: 1
+          1060319: 1
+
+      - id: 65245 # Handwraps of the Raging Elements [mail hands]
+        costs:
+          1067430: 1
+          1060312: 1
+
+      - id: 65257 # Kilt of the Raging Elements [mail legs]
+        costs:
+          1067427: 1
+          1060316: 1
+
+      - id: 65252 # Legguards of the Raging Elements [mail legs]
+        costs:
+          1067427: 1
+          1060321: 1
+
+      - id: 65247 # Legwraps of the Raging Elements [mail legs]
+        costs:
+          1067427: 1
+          1060310: 1
+
+      # Warlock set=669
+
+      - id: 60249 # Shadowflame Hood [cloth head]
+        costs:
+          0: 1 # Gold
+
+      - id: 60252 # Shadowflame Mantle [cloth shoulders]
+        costs:
+          0: 1 # Gold
+
+      - id: 60251 # Shadowflame Robes [cloth chest]
+        costs:
+          0: 1 # Gold
+
+      - id: 60248 # Shadowflame Handwraps [cloth hands]
+        costs:
+          0: 1 # Gold
+
+      - id: 60250 # Shadowflame Leggings [cloth legs]
+        costs:
+          0: 1 # Gold
+
+      # Warlock set=670
+
+      - id: 65260 # Shadowflame Hood [cloth head]
+        costs:
+          1065001: 1
+
+      - id: 65263 # Shadowflame Mantle [cloth shoulders]
+        costs:
+          1065088: 1
+
+      - id: 65262 # Shadowflame Robes [cloth chest]
+        costs:
+          1067423: 1
+          1060251: 1
+
+      - id: 65259 # Shadowflame Handwraps [cloth hands]
+        costs:
+          1067429: 1
+          1060248: 1
+
+      - id: 65261 # Shadowflame Leggings [cloth legs]
+        costs:
+          1067428: 1
+          1060250: 1
+
+      # Warrior set=653
+
+      - id: 60328 # Earthen Faceguard [plate head]
+        costs:
+          0: 1 # Gold
+
+      - id: 60325 # Earthen Helmet [plate head]
+        costs:
+          0: 1 # Gold
+
+      - id: 60327 # Earthen Pauldrons [plate shoulders]
+        costs:
+          0: 1 # Gold
+
+      - id: 60331 # Earthen Shoulderguards [plate shoulders]
+        costs:
+          0: 1 # Gold
+
+      - id: 60323 # Earthen Battleplate [plate chest]
+        costs:
+          0: 1 # Gold
+
+      - id: 60329 # Earthen Chestguard [plate chest]
+        costs:
+          0: 1 # Gold
+
+      - id: 60326 # Earthen Gauntlets [plate hands]
+        costs:
+          0: 1 # Gold
+
+      - id: 60332 # Earthen Handguards [plate hands]
+        costs:
+          0: 1 # Gold
+
+      - id: 60330 # Earthen Legguards [plate legs]
+        costs:
+          0: 1 # Gold
+
+      - id: 60324 # Earthen Legplates [plate legs]
+        costs:
+          0: 1 # Gold
+
+      # Warrior set=654
+
+      - id: 65271 # Earthen Faceguard [plate head]
+        costs:
+          1065000: 1
+
+      - id: 65266 # Earthen Helmet [plate head]
+        costs:
+          1065000: 1
+
+      - id: 65268 # Earthen Pauldrons [plate shoulders]
+        costs:
+          1065087: 1
+
+      - id: 65273 # Earthen Shoulderguards [plate shoulders]
+        costs:
+          1065087: 1
+
+      - id: 65264 # Earthen Battleplate [plate chest]
+        costs:
+          1067424: 1
+          1060323: 1
+
+      - id: 65269 # Earthen Chestguard [plate chest]
+        costs:
+          1067424: 1
+          1060329: 1
+
+      - id: 65265 # Earthen Gauntlets [plate hands]
+        costs:
+          1067430: 1
+          1060326: 1
+
+      - id: 65270 # Earthen Handguards [plate hands]
+        costs:
+          1067430: 1
+          1060332: 1
+
+      - id: 65272 # Earthen Legguards [plate legs]
+        costs:
+          1067427: 1
+          1060330: 1
+
+      - id: 65267 # Earthen Legplates [plate legs]
+        costs:
+          1067427: 1
+          1060324: 1
+      # Skipped id=57931 name=Amulet of Dull Dreaming slot=2
+      # Skipped id=57934 name=Celadon Pendant slot=2
+      # Skipped id=57930 name=Pendant of Quiet Breath slot=2
+      # Skipped id=57933 name=String of Beaded Bubbles slot=2
+      # Skipped id=57932 name=The Lustrous Eye slot=2
+      # Skipped id=58185 name=Band of Bees slot=11
+      # Skipped id=58188 name=Band of Secret Names slot=11
+      # Skipped id=68812 name=Hornet-Sting Band slot=11
+      # Skipped id=58187 name=Ring of the Battle Anthem slot=11
+      # Skipped id=58189 name=Twined Band of Flowers slot=11
+      # Skipped id=58182 name=Bedrock Talisman slot=12
+      # Skipped id=58184 name=Core of Ripeness slot=12
+      # Skipped id=58181 name=Fluid Death slot=12
+      # Skipped id=58180 name=License to Slay slot=12
+      # Skipped id=58183 name=Soul Casket slot=12
+
+      # 0 set=344
+
+      - id: 58486 # Slippers of Moving Waters [cloth feet]
+        costs:
+          0: 230 # Gold
+
+      # 0 set=717
+
+      - id: 58485 # Melodious Slippers [cloth feet]
+        costs:
+          0: 229 # Gold
+
+      # 0
+
+      - id: 58155 # Cowl of Pleasant Gloom [cloth head]
+        costs:
+          0: 1 # Gold
+
+      - id: 58161 # Mask of New Snow [cloth head]
+        costs:
+          0: 1 # Gold
+
+      - id: 58157 # Meadow Mantle [cloth shoulders]
+        costs:
+          0: 1 # Gold
+
+      - id: 58162 # Summer Song Shoulderwraps [cloth shoulders]
+        costs:
+          0: 1 # Gold
+
+      - id: 58159 # Musk Rose Robes [cloth chest]
+        costs:
+          0: 1 # Gold
+
+      - id: 58153 # Robes of Embalmed Darkness [cloth chest]
+        costs:
+          0: 1 # Gold
+
+      - id: 58163 # Gloves of Purification [cloth hands]
+        costs:
+          0: 1 # Gold
+
+      - id: 58158 # Gloves of the Painless Midnight [cloth hands]
+        costs:
+          0: 1 # Gold
+
+      - id: 57922 # Belt of the Falling Rain [cloth waist]
+        costs:
+          0: 1 # Gold
+
+      - id: 57921 # Incense-Infused Cummerbund [cloth waist]
+        costs:
+          0: 1 # Gold
+
+      - id: 58160 # Leggings of Charity [cloth legs]
+        costs:
+          0: 1 # Gold
+
+      - id: 58154 # Pensive Legwraps [cloth legs]
+        costs:
+          0: 1 # Gold
+
+      # 0 set=685
+
+      - id: 58482 # Treads of Fleeting Joy [leather feet]
+        costs:
+          0: 227 # Gold
+
+      # 0 set=820
+
+      - id: 58484 # Fading Violet Sandals [leather feet]
+        costs:
+          0: 229 # Gold
+
+      # 0
+
+      - id: 58150 # Cluster of Stars [leather head]
+        costs:
+          0: 1 # Gold
+
+      - id: 58133 # Mask of Vines [leather head]
+        costs:
+          0: 1 # Gold
+
+      - id: 58134 # Embrace of the Night [leather shoulders]
+        costs:
+          0: 1 # Gold
+
+      - id: 58151 # Somber Shawl [leather shoulders]
+        costs:
+          0: 1 # Gold
+
+      - id: 58139 # Chestguard of Forgetfulness [leather chest]
+        costs:
+          0: 1 # Gold
+
+      - id: 58131 # Tunic of Sinking Envy [leather chest]
+        costs:
+          0: 1 # Gold
+
+      - id: 58152 # Blessed Hands of Elune [leather hands]
+        costs:
+          0: 1 # Gold
+
+      - id: 58138 # Sticky Fingers [leather hands]
+        costs:
+          0: 1 # Gold
+
+      - id: 57918 # Sash of Musing [leather waist]
+        costs:
+          0: 1 # Gold
+
+      - id: 57919 # Thatch Eave Vines [leather waist]
+        costs:
+          0: 1 # Gold
+
+      - id: 58140 # Leggings of Late Blooms [leather legs]
+        costs:
+          0: 1 # Gold
+
+      - id: 58132 # Leggings of the Burrowing Mole [leather legs]
+        costs:
+          0: 1 # Gold
+
+      # 0 set=635
+
+      - id: 58481 # Boots of the Perilous Seas [mail feet]
+        costs:
+          0: 238 # Gold
+
+      # 0 set=733
+
+      - id: 58199 # Moccasins of Verdurous Glooms [mail feet]
+        costs:
+          0: 223 # Gold
+
+      # 0
+
+      - id: 58128 # Helm of the Inward Eye [mail head]
+        costs:
+          0: 1 # Gold
+
+      - id: 58123 # Willow Mask [mail head]
+        costs:
+          0: 1 # Gold
+
+      - id: 58129 # Seafoam Mantle [mail shoulders]
+        costs:
+          0: 1 # Gold
+
+      - id: 58124 # Wrap of the Valley Glades [mail shoulders]
+        costs:
+          0: 1 # Gold
+
+      - id: 58121 # Vest of the True Companion [mail chest]
+        costs:
+          0: 1 # Gold
+
+      - id: 58126 # Vest of the Waking Dream [mail chest]
+        costs:
+          0: 1 # Gold
+
+      - id: 58130 # Gleaning Gloves [mail hands]
+        costs:
+          0: 1 # Gold
+
+      - id: 58125 # Gloves of the Passing Night [mail hands]
+        costs:
+          0: 1 # Gold
+
+      - id: 57916 # Belt of the Dim Forest [mail waist]
+        costs:
+          0: 1 # Gold
+
+      - id: 57917 # Belt of the Still Stream [mail waist]
+        costs:
+          0: 1 # Gold
+
+      - id: 58122 # Hillside Striders [mail legs]
+        costs:
+          0: 1 # Gold
+
+      - id: 58127 # Leggings of Soothing Silence [mail legs]
+        costs:
+          0: 1 # Gold
+
+      # 0 set=653
+
+      - id: 58195 # Woe Breeder's Boots [plate feet]
+        costs:
+          0: 220 # Gold
+
+      # 0 set=701
+
+      - id: 58198 # Eternal Pathfinders [plate feet]
+        costs:
+          0: 223 # Gold
+
+      # 0 set=836
+
+      - id: 58197 # Rock Furrow Boots [plate feet]
+        costs:
+          0: 222 # Gold
+
+      # 0
+
+      - id: 58108 # Crown of the Blazing Sun [plate head]
+        costs:
+          0: 1 # Gold
+
+      - id: 58098 # Helm of Easeful Death [plate head]
+        costs:
+          0: 1 # Gold
+
+      - id: 58103 # Helm of the Proud [plate head]
+        costs:
+          0: 1 # Gold
+
+      - id: 58109 # Pauldrons of the Forlorn [plate shoulders]
+        costs:
+          0: 1 # Gold
+
+      - id: 58100 # Pauldrons of the High Requiem [plate shoulders]
+        costs:
+          0: 1 # Gold
+
+      - id: 58104 # Sunburnt Pauldrons [plate shoulders]
+        costs:
+          0: 1 # Gold
+
+      - id: 58096 # Breastplate of Raging Fury [plate chest]
+        costs:
+          0: 1 # Gold
+
+      - id: 58106 # Chestguard of Dancing Waves [plate chest]
+        costs:
+          0: 1 # Gold
+
+      - id: 58101 # Chestplate of the Steadfast [plate chest]
+        costs:
+          0: 1 # Gold
+
+      - id: 58110 # Gloves of Curious Conscience [plate hands]
+        costs:
+          0: 1 # Gold
+
+      - id: 58105 # Numbing Handguards [plate hands]
+        costs:
+          0: 1 # Gold
+
+      - id: 58099 # Reaping Gauntlets [plate hands]
+        costs:
+          0: 1 # Gold
+
+      - id: 57913 # Beech Green Belt [plate waist]
+        costs:
+          0: 1 # Gold
+
+      - id: 57915 # Belt of Barred Clouds [plate waist]
+        costs:
+          0: 1 # Gold
+
+      - id: 57914 # Girdle of the Mountains [plate waist]
+        costs:
+          0: 1 # Gold
+
+      - id: 58097 # Greaves of Gallantry [plate legs]
+        costs:
+          0: 1 # Gold
+
+      - id: 58102 # Greaves of Splendor [plate legs]
+        costs:
+          0: 1 # Gold
+
+      - id: 58107 # Legguards of the Gentle [plate legs]
+        costs:
+          0: 1 # Gold
+
+      - id: 58190 # Floating Web [cloak]
+        costs:
+          0: 239 # Gold
+
+      - id: 58192 # Gray Hair Cloak [cloak]
+        costs:
+          0: 241 # Gold
+
+      - id: 58193 # Haunt of Flies [cloak]
+        costs:
+          0: 241 # Gold
+
+      - id: 58194 # Heavenly Breeze [cloak]
+        costs:
+          0: 242 # Gold
+
+      - id: 58191 # Viewless Wings [cloak]
+        costs:
+          0: 240 # Gold
+
+      - id: 57928 # Windslicer [1h ? axe]
+        costs:
+          0: 1 # Gold
+
+      - id: 57929 # Dawnblaze Blade [1h ? sword]
+        costs:
+          0: 1 # Gold
+
+      - id: 57927 # Throat Slasher [? dagger]
+        costs:
+          0: 1 # Gold
+
+      - id: 57924 # Apple-Bent Bough [off-hand]
+        costs:
+          0: 1 # Gold
+
+      - id: 57923 # Hermit's Lamp [off-hand]
+        costs:
+          0: 1 # Gold
+
+      - id: 57926 # Shield of the Four Grey Towers [shield]
+        costs:
+          0: 1 # Gold
+
+      - id: 57925 # Shield of the Mists [shield]
+        costs:
+          0: 1 # Gold
+
+      - id: 67423 # Chest of the Forlorn Conqueror
+        costs:
+          1066998: 1
+
+      - id: 67424 # Chest of the Forlorn Protector
+        costs:
+          1066998: 1
+
+      - id: 67425 # Chest of the Forlorn Vanquisher
+        costs:
+          1066998: 1
+
+      - id: 65001 # Crown of the Forlorn Conqueror
+        costs:
+          1066998: 1
+
+      - id: 65000 # Crown of the Forlorn Protector
+        costs:
+          1066998: 1
+
+      - id: 65002 # Crown of the Forlorn Vanquisher
+        costs:
+          1066998: 1
+
+      - id: 67429 # Gauntlets of the Forlorn Conqueror
+        costs:
+          1066998: 1
+
+      - id: 67430 # Gauntlets of the Forlorn Protector
+        costs:
+          1066998: 1
+
+      - id: 67431 # Gauntlets of the Forlorn Vanquisher
+        costs:
+          1066998: 1
+
+      - id: 67428 # Leggings of the Forlorn Conqueror
+        costs:
+          1066998: 1
+
+      - id: 67427 # Leggings of the Forlorn Protector
+        costs:
+          1066998: 1
+
+      - id: 67426 # Leggings of the Forlorn Vanquisher
+        costs:
+          1066998: 1
+
+      - id: 65088 # Shoulders of the Forlorn Conqueror
+        costs:
+          1066998: 1
+
+      - id: 65087 # Shoulders of the Forlorn Protector
+        costs:
+          1066998: 1
+
+      - id: 65089 # Shoulders of the Forlorn Vanquisher
+        costs:
+          1066998: 1

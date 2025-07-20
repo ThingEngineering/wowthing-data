@@ -1,0 +1,942 @@
+things:
+  - id: 46555
+    type: "vendor"
+    name: "Gunra"
+    note: "Justice Quartermaster"
+
+    locations:
+      here: # orgrimmar
+        - 48.4 71.6 horde
+
+    contents:
+
+      # Death Knight set=834
+
+      - id: 70954 # Elementium Deathplate Faceguard [plate head]
+        costs:
+          0: 1 # Gold
+
+      - id: 71060 # Elementium Deathplate Helmet [plate head]
+        costs:
+          0: 1 # Gold
+
+      - id: 71062 # Elementium Deathplate Pauldrons [plate shoulders]
+        costs:
+          0: 1 # Gold
+
+      - id: 70951 # Elementium Deathplate Shoulderguards [plate shoulders]
+        costs:
+          0: 1 # Gold
+
+      - id: 71058 # Elementium Deathplate Breastplate [plate chest]
+        costs:
+          0: 1 # Gold
+
+      - id: 70955 # Elementium Deathplate Chestguard [plate chest]
+        costs:
+          0: 1 # Gold
+
+      - id: 71059 # Elementium Deathplate Gauntlets [plate hands]
+        costs:
+          0: 1 # Gold
+
+      - id: 70953 # Elementium Deathplate Handguards [plate hands]
+        costs:
+          0: 1 # Gold
+
+      - id: 71061 # Elementium Deathplate Greaves [plate legs]
+        costs:
+          0: 1 # Gold
+
+      - id: 70952 # Elementium Deathplate Legguards [plate legs]
+        costs:
+          0: 1 # Gold
+
+      # Death Knight set=835
+
+      - id: 71483 # Elementium Deathplate Faceguard [plate head]
+        costs:
+          1071670: 1
+
+      - id: 71478 # Elementium Deathplate Helmet [plate head]
+        costs:
+          1071670: 1
+
+      - id: 71480 # Elementium Deathplate Pauldrons [plate shoulders]
+        costs:
+          1071673: 1
+
+      - id: 71485 # Elementium Deathplate Shoulderguards [plate shoulders]
+        costs:
+          1071673: 1
+
+      - id: 71476 # Elementium Deathplate Breastplate [plate chest]
+        costs:
+          1071058: 1
+          1071672: 1
+
+      - id: 71481 # Elementium Deathplate Chestguard [plate chest]
+        costs:
+          1070955: 1
+          1071672: 1
+
+      - id: 71477 # Elementium Deathplate Gauntlets [plate hands]
+        costs:
+          1071059: 1
+          1071669: 1
+
+      - id: 71482 # Elementium Deathplate Handguards [plate hands]
+        costs:
+          1070953: 1
+          1071669: 1
+
+      - id: 71479 # Elementium Deathplate Greaves [plate legs]
+        costs:
+          1071061: 1
+          1071671: 1
+
+      - id: 71484 # Elementium Deathplate Legguards [plate legs]
+        costs:
+          1070952: 1
+          1071671: 1
+
+      # Druid set=818
+
+      - id: 71108 # Obsidian Arborweave Cover [leather head]
+        costs:
+          0: 1 # Gold
+
+      - id: 71098 # Obsidian Arborweave Headpiece [leather head]
+        costs:
+          0: 1 # Gold
+
+      - id: 71103 # Obsidian Arborweave Helm [leather head]
+        costs:
+          0: 1 # Gold
+
+      - id: 71106 # Obsidian Arborweave Mantle [leather shoulders]
+        costs:
+          0: 1 # Gold
+
+      - id: 71111 # Obsidian Arborweave Shoulderwraps [leather shoulders]
+        costs:
+          0: 1 # Gold
+
+      - id: 71101 # Obsidian Arborweave Spaulders [leather shoulders]
+        costs:
+          0: 1 # Gold
+
+      - id: 71100 # Obsidian Arborweave Raiment [leather chest]
+        costs:
+          0: 1 # Gold
+
+      - id: 71105 # Obsidian Arborweave Tunic [leather chest]
+        costs:
+          0: 1 # Gold
+
+      - id: 71110 # Obsidian Arborweave Vestment [leather chest]
+        costs:
+          0: 1 # Gold
+
+      - id: 71107 # Obsidian Arborweave Gloves [leather hands]
+        costs:
+          0: 1 # Gold
+
+      - id: 71097 # Obsidian Arborweave Grips [leather hands]
+        costs:
+          0: 1 # Gold
+
+      - id: 71102 # Obsidian Arborweave Handwraps [leather hands]
+        costs:
+          0: 1 # Gold
+
+      - id: 71109 # Obsidian Arborweave Leggings [leather legs]
+        costs:
+          0: 1 # Gold
+
+      - id: 71099 # Obsidian Arborweave Legguards [leather legs]
+        costs:
+          0: 1 # Gold
+
+      - id: 71104 # Obsidian Arborweave Legwraps [leather legs]
+        costs:
+          0: 1 # Gold
+
+      # Druid set=819
+
+      - id: 71497 # Obsidian Arborweave Cover [leather head]
+        costs:
+          1071670: 1
+
+      - id: 71488 # Obsidian Arborweave Headpiece [leather head]
+        costs:
+          1071670: 1
+
+      - id: 71492 # Obsidian Arborweave Helm [leather head]
+        costs:
+          1071670: 1
+
+      - id: 71495 # Obsidian Arborweave Mantle [leather shoulders]
+        costs:
+          1071673: 1
+
+      - id: 71500 # Obsidian Arborweave Shoulderwraps [leather shoulders]
+        costs:
+          1071673: 1
+
+      - id: 71490 # Obsidian Arborweave Spaulders [leather shoulders]
+        costs:
+          1071673: 1
+
+      - id: 71486 # Obsidian Arborweave Raiment [leather chest]
+        costs:
+          1071100: 1
+          1071672: 1
+
+      - id: 71494 # Obsidian Arborweave Tunic [leather chest]
+        costs:
+          1071105: 1
+          1071672: 1
+
+      - id: 71499 # Obsidian Arborweave Vestment [leather chest]
+        costs:
+          1071110: 1
+          1071672: 1
+
+      - id: 71496 # Obsidian Arborweave Gloves [leather hands]
+        costs:
+          1071107: 1
+          1071669: 1
+
+      - id: 71487 # Obsidian Arborweave Grips [leather hands]
+        costs:
+          1071097: 1
+          1071669: 1
+
+      - id: 71491 # Obsidian Arborweave Handwraps [leather hands]
+        costs:
+          1071102: 1
+          1071669: 1
+
+      - id: 71498 # Obsidian Arborweave Leggings [leather legs]
+        costs:
+          1071109: 1
+          1071671: 1
+
+      - id: 71489 # Obsidian Arborweave Legguards [leather legs]
+        costs:
+          1071099: 1
+          1071671: 1
+
+      - id: 71493 # Obsidian Arborweave Legwraps [leather legs]
+        costs:
+          1071104: 1
+          1071671: 1
+
+      # Hunter set=731
+
+      - id: 71051 # Flamewaker's Headguard [mail head]
+        costs:
+          0: 1 # Gold
+
+      - id: 71053 # Flamewaker's Spaulders [mail shoulders]
+        costs:
+          0: 1 # Gold
+
+      - id: 71054 # Flamewaker's Tunic [mail chest]
+        costs:
+          0: 1 # Gold
+
+      - id: 71050 # Flamewaker's Gloves [mail hands]
+        costs:
+          0: 1 # Gold
+
+      - id: 71052 # Flamewaker's Legguards [mail legs]
+        costs:
+          0: 1 # Gold
+
+      # Hunter set=732
+
+      - id: 71503 # Flamewaker's Headguard [mail head]
+        costs:
+          1071684: 1
+
+      - id: 71505 # Flamewaker's Spaulders [mail shoulders]
+        costs:
+          1071687: 1
+
+      - id: 71501 # Flamewaker's Tunic [mail chest]
+        costs:
+          1071054: 1
+          1071686: 1
+
+      - id: 71502 # Flamewaker's Gloves [mail hands]
+        costs:
+          1071050: 1
+          1071683: 1
+
+      - id: 71504 # Flamewaker's Legguards [mail legs]
+        costs:
+          1071052: 1
+          1071685: 1
+
+      # Mage set=715
+
+      - id: 71287 # Firehawk Hood [cloth head]
+        costs:
+          0: 1 # Gold
+
+      - id: 71290 # Firehawk Mantle [cloth shoulders]
+        costs:
+          0: 1 # Gold
+
+      - id: 71289 # Firehawk Robes [cloth chest]
+        costs:
+          0: 1 # Gold
+
+      - id: 71286 # Firehawk Gloves [cloth hands]
+        costs:
+          0: 1 # Gold
+
+      - id: 71288 # Firehawk Leggings [cloth legs]
+        costs:
+          0: 1 # Gold
+
+      # Mage set=716
+
+      - id: 71508 # Firehawk Hood [cloth head]
+        costs:
+          1071670: 1
+
+      - id: 71511 # Firehawk Mantle [cloth shoulders]
+        costs:
+          1071673: 1
+
+      - id: 71510 # Firehawk Robes [cloth chest]
+        costs:
+          1071289: 1
+          1071672: 1
+
+      - id: 71507 # Firehawk Gloves [cloth hands]
+        costs:
+          1071286: 1
+          1071669: 1
+
+      - id: 71509 # Firehawk Leggings [cloth legs]
+        costs:
+          1071288: 1
+          1071671: 1
+
+      # Paladin set=699
+
+      - id: 70948 # Immolation Faceguard [plate head]
+        costs:
+          0: 1 # Gold
+
+      - id: 71093 # Immolation Headguard [plate head]
+        costs:
+          0: 1 # Gold
+
+      - id: 71065 # Immolation Helmet [plate head]
+        costs:
+          0: 1 # Gold
+
+      - id: 71095 # Immolation Mantle [plate shoulders]
+        costs:
+          0: 1 # Gold
+
+      - id: 71067 # Immolation Pauldrons [plate shoulders]
+        costs:
+          0: 1 # Gold
+
+      - id: 70946 # Immolation Shoulderguards [plate shoulders]
+        costs:
+          0: 1 # Gold
+
+      - id: 71063 # Immolation Battleplate [plate chest]
+        costs:
+          0: 1 # Gold
+
+      - id: 71091 # Immolation Breastplate [plate chest]
+        costs:
+          0: 1 # Gold
+
+      - id: 70950 # Immolation Chestguard [plate chest]
+        costs:
+          0: 1 # Gold
+
+      - id: 71064 # Immolation Gauntlets [plate hands]
+        costs:
+          0: 1 # Gold
+
+      - id: 71092 # Immolation Gloves [plate hands]
+        costs:
+          0: 1 # Gold
+
+      - id: 70949 # Immolation Handguards [plate hands]
+        costs:
+          0: 1 # Gold
+
+      - id: 71094 # Immolation Greaves [plate legs]
+        costs:
+          0: 1 # Gold
+
+      - id: 70947 # Immolation Legguards [plate legs]
+        costs:
+          0: 1 # Gold
+
+      - id: 71066 # Immolation Legplates [plate legs]
+        costs:
+          0: 1 # Gold
+
+      # Paladin set=700
+
+      - id: 71524 # Immolation Faceguard [plate head]
+        costs:
+          1071677: 1
+
+      - id: 71519 # Immolation Headguard [plate head]
+        costs:
+          1071677: 1
+
+      - id: 71514 # Immolation Helmet [plate head]
+        costs:
+          1071677: 1
+
+      - id: 71521 # Immolation Mantle [plate shoulders]
+        costs:
+          1071680: 1
+
+      - id: 71516 # Immolation Pauldrons [plate shoulders]
+        costs:
+          1071680: 1
+
+      - id: 71526 # Immolation Shoulderguards [plate shoulders]
+        costs:
+          1071680: 1
+
+      - id: 71512 # Immolation Battleplate [plate chest]
+        costs:
+          1071063: 1
+          1071679: 1
+
+      - id: 71517 # Immolation Breastplate [plate chest]
+        costs:
+          1071091: 1
+          1071679: 1
+
+      - id: 71522 # Immolation Chestguard [plate chest]
+        costs:
+          1070950: 1
+          1071679: 1
+
+      - id: 71513 # Immolation Gauntlets [plate hands]
+        costs:
+          1071064: 1
+          1071676: 1
+
+      - id: 71518 # Immolation Gloves [plate hands]
+        costs:
+          1071092: 1
+          1071676: 1
+
+      - id: 71523 # Immolation Handguards [plate hands]
+        costs:
+          1070949: 1
+          1071676: 1
+
+      - id: 71520 # Immolation Greaves [plate legs]
+        costs:
+          1071094: 1
+          1071678: 1
+
+      - id: 71525 # Immolation Legguards [plate legs]
+        costs:
+          1070947: 1
+          1071678: 1
+
+      - id: 71515 # Immolation Legplates [plate legs]
+        costs:
+          1071066: 1
+          1071678: 1
+
+      # Priest set=342
+
+      - id: 71272 # Cowl of the Cleansing Flame [cloth head]
+        costs:
+          0: 1 # Gold
+
+      - id: 71277 # Hood of the Cleansing Flame [cloth head]
+        costs:
+          0: 1 # Gold
+
+      - id: 71275 # Mantle of the Cleansing Flame [cloth shoulders]
+        costs:
+          0: 1 # Gold
+
+      - id: 71280 # Shoulderwraps of the Cleansing Flame [cloth shoulders]
+        costs:
+          0: 1 # Gold
+
+      - id: 71274 # Robes of the Cleansing Flame [cloth chest]
+        costs:
+          0: 1 # Gold
+
+      - id: 71279 # Vestment of the Cleansing Flame [cloth chest]
+        costs:
+          0: 1 # Gold
+
+      - id: 71276 # Gloves of the Cleansing Flame [cloth hands]
+        costs:
+          0: 1 # Gold
+
+      - id: 71271 # Handwraps of the Cleansing Flame [cloth hands]
+        costs:
+          0: 1 # Gold
+
+      - id: 71278 # Leggings of the Cleansing Flame [cloth legs]
+        costs:
+          0: 1 # Gold
+
+      - id: 71273 # Legwraps of the Cleansing Flame [cloth legs]
+        costs:
+          0: 1 # Gold
+
+      # Priest set=343
+
+      - id: 71528 # Cowl of the Cleansing Flame [cloth head]
+        costs:
+          1071677: 1
+
+      - id: 71533 # Hood of the Cleansing Flame [cloth head]
+        costs:
+          1071677: 1
+
+      - id: 71531 # Mantle of the Cleansing Flame [cloth shoulders]
+        costs:
+          1071680: 1
+
+      - id: 71536 # Shoulderwraps of the Cleansing Flame [cloth shoulders]
+        costs:
+          1071680: 1
+
+      - id: 71530 # Robes of the Cleansing Flame [cloth chest]
+        costs:
+          1071274: 1
+          1071679: 1
+
+      - id: 71535 # Vestment of the Cleansing Flame [cloth chest]
+        costs:
+          1071279: 1
+          1071679: 1
+
+      - id: 71532 # Gloves of the Cleansing Flame [cloth hands]
+        costs:
+          1071276: 1
+          1071676: 1
+
+      - id: 71527 # Handwraps of the Cleansing Flame [cloth hands]
+        costs:
+          1071271: 1
+          1071676: 1
+
+      - id: 71534 # Leggings of the Cleansing Flame [cloth legs]
+        costs:
+          1071278: 1
+          1071678: 1
+
+      - id: 71529 # Legwraps of the Cleansing Flame [cloth legs]
+        costs:
+          1071273: 1
+          1071678: 1
+
+      # Rogue set=683
+
+      - id: 71047 # Dark Phoenix Helmet [leather head]
+        costs:
+          0: 1 # Gold
+
+      - id: 71049 # Dark Phoenix Spaulders [leather shoulders]
+        costs:
+          0: 1 # Gold
+
+      - id: 71045 # Dark Phoenix Tunic [leather chest]
+        costs:
+          0: 1 # Gold
+
+      - id: 71046 # Dark Phoenix Gloves [leather hands]
+        costs:
+          0: 1 # Gold
+
+      - id: 71048 # Dark Phoenix Legguards [leather legs]
+        costs:
+          0: 1 # Gold
+
+      # Rogue set=684
+
+      - id: 71539 # Dark Phoenix Helmet [leather head]
+        costs:
+          1071670: 1
+
+      - id: 71541 # Dark Phoenix Spaulders [leather shoulders]
+        costs:
+          1071673: 1
+
+      - id: 71537 # Dark Phoenix Tunic [leather chest]
+        costs:
+          1071045: 1
+          1071672: 1
+
+      - id: 71538 # Dark Phoenix Gloves [leather hands]
+        costs:
+          1071046: 1
+          1071669: 1
+
+      - id: 71540 # Dark Phoenix Legguards [leather legs]
+        costs:
+          1071048: 1
+          1071671: 1
+
+      # Shaman set=633
+
+      - id: 71298 # Erupting Volcanic Faceguard [mail head]
+        costs:
+          0: 1 # Gold
+
+      - id: 71293 # Erupting Volcanic Headpiece [mail head]
+        costs:
+          0: 1 # Gold
+
+      - id: 71303 # Erupting Volcanic Helmet [mail head]
+        costs:
+          0: 1 # Gold
+
+      - id: 71300 # Erupting Volcanic Mantle [mail shoulders]
+        costs:
+          0: 1 # Gold
+
+      - id: 71295 # Erupting Volcanic Shoulderwraps [mail shoulders]
+        costs:
+          0: 1 # Gold
+
+      - id: 71305 # Erupting Volcanic Spaulders [mail shoulders]
+        costs:
+          0: 1 # Gold
+
+      - id: 71301 # Erupting Volcanic Cuirass [mail chest]
+        costs:
+          0: 1 # Gold
+
+      - id: 71291 # Erupting Volcanic Hauberk [mail chest]
+        costs:
+          0: 1 # Gold
+
+      - id: 71296 # Erupting Volcanic Tunic [mail chest]
+        costs:
+          0: 1 # Gold
+
+      - id: 71292 # Erupting Volcanic Gloves [mail hands]
+        costs:
+          0: 1 # Gold
+
+      - id: 71302 # Erupting Volcanic Grips [mail hands]
+        costs:
+          0: 1 # Gold
+
+      - id: 71297 # Erupting Volcanic Handwraps [mail hands]
+        costs:
+          0: 1 # Gold
+
+      - id: 71294 # Erupting Volcanic Kilt [mail legs]
+        costs:
+          0: 1 # Gold
+
+      - id: 71304 # Erupting Volcanic Legguards [mail legs]
+        costs:
+          0: 1 # Gold
+
+      - id: 71299 # Erupting Volcanic Legwraps [mail legs]
+        costs:
+          0: 1 # Gold
+
+      # Shaman set=634
+
+      - id: 71544 # Erupting Volcanic Faceguard [mail head]
+        costs:
+          1071684: 1
+
+      - id: 71554 # Erupting Volcanic Headpiece [mail head]
+        costs:
+          1071684: 1
+
+      - id: 71549 # Erupting Volcanic Helmet [mail head]
+        costs:
+          1071684: 1
+
+      - id: 71546 # Erupting Volcanic Mantle [mail shoulders]
+        costs:
+          1071687: 1
+
+      - id: 71556 # Erupting Volcanic Shoulderwraps [mail shoulders]
+        costs:
+          1071687: 1
+
+      - id: 71551 # Erupting Volcanic Spaulders [mail shoulders]
+        costs:
+          1071687: 1
+
+      - id: 71547 # Erupting Volcanic Cuirass [mail chest]
+        costs:
+          1071301: 1
+          1071686: 1
+
+      - id: 71552 # Erupting Volcanic Hauberk [mail chest]
+        costs:
+          1071291: 1
+          1071686: 1
+
+      - id: 71542 # Erupting Volcanic Tunic [mail chest]
+        costs:
+          1071296: 1
+          1071686: 1
+
+      - id: 71553 # Erupting Volcanic Gloves [mail hands]
+        costs:
+          1071292: 1
+          1071683: 1
+
+      - id: 71548 # Erupting Volcanic Grips [mail hands]
+        costs:
+          1071302: 1
+          1071683: 1
+
+      - id: 71543 # Erupting Volcanic Handwraps [mail hands]
+        costs:
+          1071297: 1
+          1071683: 1
+
+      - id: 71555 # Erupting Volcanic Kilt [mail legs]
+        costs:
+          1071294: 1
+          1071685: 1
+
+      - id: 71550 # Erupting Volcanic Legguards [mail legs]
+        costs:
+          1071304: 1
+          1071685: 1
+
+      - id: 71545 # Erupting Volcanic Legwraps [mail legs]
+        costs:
+          1071299: 1
+          1071685: 1
+
+      # Warlock set=667
+
+      - id: 71282 # Balespider's Hood [cloth head]
+        costs:
+          0: 1 # Gold
+
+      - id: 71285 # Balespider's Mantle [cloth shoulders]
+        costs:
+          0: 1 # Gold
+
+      - id: 71284 # Balespider's Robes [cloth chest]
+        costs:
+          0: 1 # Gold
+
+      - id: 71281 # Balespider's Handwraps [cloth hands]
+        costs:
+          0: 1 # Gold
+
+      - id: 71283 # Balespider's Leggings [cloth legs]
+        costs:
+          0: 1 # Gold
+
+      # Warlock set=668
+
+      - id: 71595 # Balespider's Hood [cloth head]
+        costs:
+          1071677: 1
+
+      - id: 71598 # Balespider's Mantle [cloth shoulders]
+        costs:
+          1071680: 1
+
+      - id: 71597 # Balespider's Robes [cloth chest]
+        costs:
+          1071284: 1
+          1071679: 1
+
+      - id: 71594 # Balespider's Handwraps [cloth hands]
+        costs:
+          1071281: 1
+          1071676: 1
+
+      - id: 71596 # Balespider's Leggings [cloth legs]
+        costs:
+          1071283: 1
+          1071678: 1
+
+      # Warrior set=651
+
+      - id: 70944 # Faceguard of the Molten Giant [plate head]
+        costs:
+          0: 1 # Gold
+
+      - id: 71070 # Helmet of the Molten Giant [plate head]
+        costs:
+          0: 1 # Gold
+
+      - id: 71072 # Pauldrons of the Molten Giant [plate shoulders]
+        costs:
+          0: 1 # Gold
+
+      - id: 70941 # Shoulderguards of the Molten Giant [plate shoulders]
+        costs:
+          0: 1 # Gold
+
+      - id: 71068 # Battleplate of the Molten Giant [plate chest]
+        costs:
+          0: 1 # Gold
+
+      - id: 70945 # Chestguard of the Molten Giant [plate chest]
+        costs:
+          0: 1 # Gold
+
+      - id: 71069 # Gauntlets of the Molten Giant [plate hands]
+        costs:
+          0: 1 # Gold
+
+      - id: 70943 # Handguards of the Molten Giant [plate hands]
+        costs:
+          0: 1 # Gold
+
+      - id: 70942 # Legguards of the Molten Giant [plate legs]
+        costs:
+          0: 1 # Gold
+
+      - id: 71071 # Legplates of the Molten Giant [plate legs]
+        costs:
+          0: 1 # Gold
+
+      # Warrior set=652
+
+      - id: 71606 # Faceguard of the Molten Giant [plate head]
+        costs:
+          1071684: 1
+
+      - id: 71599 # Helmet of the Molten Giant [plate head]
+        costs:
+          1071684: 1
+
+      - id: 71603 # Pauldrons of the Molten Giant [plate shoulders]
+        costs:
+          1071687: 1
+
+      - id: 71608 # Shoulderguards of the Molten Giant [plate shoulders]
+        costs:
+          1071687: 1
+
+      - id: 71600 # Battleplate of the Molten Giant [plate chest]
+        costs:
+          1071068: 1
+          1071686: 1
+
+      - id: 71604 # Chestguard of the Molten Giant [plate chest]
+        costs:
+          1070945: 1
+          1071686: 1
+
+      - id: 71601 # Gauntlets of the Molten Giant [plate hands]
+        costs:
+          1071069: 1
+          1071683: 1
+
+      - id: 71605 # Handguards of the Molten Giant [plate hands]
+        costs:
+          1070943: 1
+          1071683: 1
+
+      - id: 71607 # Legguards of the Molten Giant [plate legs]
+        costs:
+          1070942: 1
+          1071685: 1
+
+      - id: 71602 # Legplates of the Molten Giant [plate legs]
+        costs:
+          1071071: 1
+          1071685: 1
+      # Skipped id=71213 name=Amulet of Burning Brilliance slot=2
+      # Skipped id=71214 name=Firemind Pendant slot=2
+      # Skipped id=71129 name=Necklace of Smoke Signals slot=2
+      # Skipped id=71212 name=Stoneheart Choker slot=2
+      # Skipped id=70935 name=Stoneheart Necklace slot=2
+      # Skipped id=71210 name=Crystalline Brimstone Ring slot=11
+      # Skipped id=70940 name=Deflecting Brimstone Band slot=11
+      # Skipped id=71208 name=Serrated Brimstone Signet slot=11
+      # Skipped id=71211 name=Soothing Brimstone Circle slot=11
+      # Skipped id=71209 name=Splintered Brimstone Seal slot=11
+
+      # 0 set=342
+
+      - id: 71266 # Firesoul Wristguards [cloth wrists]
+        costs:
+          0: 163 # Gold
+
+      # 0 set=667
+
+      - id: 71265 # Emberflame Bracers [cloth wrists]
+        costs:
+          0: 163 # Gold
+
+      # 0 set=683
+
+      - id: 71130 # Flamebinder Bracers [leather wrists]
+        costs:
+          0: 163 # Gold
+
+      # 0 set=818
+
+      - id: 71262 # Smolderskull Bindings [leather wrists]
+        costs:
+          0: 156 # Gold
+
+      # 0 set=633
+
+      - id: 71263 # Bracers of Misting Ash [mail wrists]
+        costs:
+          0: 145 # Gold
+
+      # 0 set=731
+
+      - id: 71264 # Bracers of Forked Lightning [mail wrists]
+        costs:
+          0: 163 # Gold
+
+      # 0 set=651
+
+      - id: 70937 # Bracers of Regal Force [plate wrists]
+        costs:
+          0: 163 # Gold
+
+      # 0 set=701
+
+      - id: 71260 # Bracers of Imperious Truths [plate wrists]
+        costs:
+          0: 145 # Gold
+
+      # 0 set=834
+
+      - id: 71261 # Gigantiform Bracers [plate wrists]
+        costs:
+          0: 163 # Gold
+
+      # 0
+
+      - id: 71150 # Scorchvine Wand [wand]
+        costs:
+          0: 165 # Gold
+
+      - id: 71151 # Trail of Embers [wand]
+        costs:
+          0: 165 # Gold
