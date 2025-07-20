@@ -102,6 +102,7 @@ dungeons.yml
     01-the-burning-crusade/dungeons.yml The Burning Crusade
 
 raid_skips.yml
+    10-the-war-within/raid_skips.yml The War Within
     09-dragonflight/raid_skips.yml Dragonflight
     08-shadowlands/raid_skips.yml Shadowlands
     07-battle-for-azeroth/raid_skips.yml Battle for Azeroth
