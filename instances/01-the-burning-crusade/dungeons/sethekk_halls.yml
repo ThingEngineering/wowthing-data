@@ -4,9 +4,9 @@ difficulties: DUNGEON_NORMAL_HEROIC # default for drops
 
 encounters:
   trash-drops:
-    drops:
+    contents:
       - itemId: 25731 # Pattern: Stylin' Crimson Hat (Leatherworking)
 
   darkweaver-syth:
-    drops:
+    contents:
       - itemId: 24160 # Design: Khorium Inferno Band (Jewelcrafting)

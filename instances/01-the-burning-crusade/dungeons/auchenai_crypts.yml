@@ -4,6 +4,6 @@ difficulties: DUNGEON_NORMAL_HEROIC # default for drops
 
 encounters:
   trash-drops:
-    drops:
+    contents:
       - itemId: 23605 # Plans: Felsteel Gloves (Blacksmithing)
       - itemId: 22544 # Formula: Enchant Boots - Dexterity (Enchanting)

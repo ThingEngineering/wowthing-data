@@ -4,19 +4,19 @@ difficulties: DUNGEON_NORMAL_HEROIC # default for drops
 
 encounters:
   trash-drops:
-    drops:
+    contents:
       - itemId: 21906 # Pattern: Arcanoweave Boots
 
       - itemId: 22920 # Recipe: Major Fire Protection Potion
 
   mechano-lord-capacitus:
-    drops:
+    contents:
       - itemId: 35582 # Schematic: Rocket Boots Xtreme Lite (Engineering)
   
   nethermancer-sepethrea:
-    drops:
+    contents:
       - itemId: 22920 # Recipe: Major Fire Protection Potion (Alchemy)
   
   pathaleon-the-calculator:
-    drops:
+    contents:
       - itemId: 21907 # Pattern: Arcanoweave Robe (Tailoring)

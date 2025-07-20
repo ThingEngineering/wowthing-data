@@ -4,12 +4,12 @@ difficulties: DUNGEON_NORMAL_HEROIC # default for drops
 
 encounters:
   trash-drops:
-    drops:
+    contents:
       - itemId: 22556 # Formula: Enchant 2H Weapon - Major Agility (Enchanting)
       - itemId: 21905 # Pattern: Arcanoweave Bracers (Tailoring)
       - itemId: 29672 # Pattern: Flame Armor Kit (Leatherworking)
       - itemId: 23606 # Plans: Felsteel Leggings (Blacksmithing)
 
   dalliah-the-doomsayer:
-    drops:
-      - itemId: 24308 # Pattern: Whitemend Pants (Tailoring
+    contents:
+      - itemId: 24308 # Pattern: Whitemend Pants (Tailoring)

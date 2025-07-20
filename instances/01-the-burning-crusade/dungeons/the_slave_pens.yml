@@ -4,5 +4,5 @@ difficulties: DUNGEON_NORMAL_HEROIC # default for drops
 
 encounters:
   mennu-the-betrayer:
-    drops:
+    contents:
       - itemId: 29674 # Pattern: Nature Armor Kit (Leatherworking)

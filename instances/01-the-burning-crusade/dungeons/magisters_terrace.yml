@@ -4,11 +4,11 @@ difficulties: DUNGEON_NORMAL_HEROIC # default for drops
 
 encounters:
   priestess-delrissa:
-    drops:
-      - itemId: 35756 # Formula: Enchant Cloak - Greater Dodge / TBC: Formula: Enchant Cloak - Steelweave ()
+    contents:
+      - itemId: 35756 # Formula: Enchant Cloak - Greater Dodge (Enchanting)
 
   kaelthas-sunstrider:
-    drops:
+    contents:
       - itemId: 35294 # Recipe: Elixir of Empowerment (Alchemy)
       - itemId: 35295 # Recipe: Haste Potion (Alchemy)
       - itemId: 35296 # Plans: Adamantite Weapon Chain (Blacksmithing)
