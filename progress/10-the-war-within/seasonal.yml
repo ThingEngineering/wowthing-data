@@ -64,9 +64,9 @@ groups:
         id: 91030 # New Titan Directives
         description: "Upgrades belt to item level 697"
 
-      # - type: quest
-      #   id: 91031 # Pushing it to the Limit
-      #   description: "Upgrades belt to item level ???"
+      - type: quest
+        id: 91031 # Pushing it to the Limit
+        description: "Upgrades belt to item level ???"
 
       # - type: quest
       #   id: 91033 # Monitoring 'Construct'ing
