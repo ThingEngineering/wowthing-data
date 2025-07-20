@@ -3,7 +3,7 @@ encounters:
   - name: "Gordok Tribute"
     after: 417 # King Gordok
     dropDifficulties: 1 # Normal
-    drops:
+    contents:
       - id: 18532 # Mindsurge Robe [cloth chest]
       - id: 18475 # Oddly Magical Belt [cloth waist]
 

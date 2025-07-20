@@ -1,0 +1,66 @@
+instanceId: 745
+
+difficulties: RAID_10NORMAL
+
+encounters:
+  trash-drops:
+    contents:
+      - itemId: 22545 # Formula: Enchant Boots - Surefooted (Enchanting)
+      - itemId: 21903 # Pattern: Soulcloth Shoulders (Tailoring)
+      - itemId: 21904 # Pattern: Soulcloth Vest (Tailoring)
+      # Cloth
+      - itemId: 30668 # Grasp of the Dead
+      - itemId: 30673 # Inferno Waist Cord
+      # Leather
+      - itemId: 30644 # Grips of Deftness
+      - itemId: 30674 # Zierhut's Lost Treads
+      # Mail
+      - itemId: 30643 # Belt of the Tracker
+      # Plate
+      - itemId: 30641 # Boots of Elusion
+      # Cloak
+      - itemId: 30642 # Drape of the Righteous
+
+  vendors:
+    contents:
+      # Koren (Stables)
+      - itemId: 31395 # Plans: Iceguard Helm (Blacksmithing)
+      - itemId: 31393 # Plans: Iceguard Breastplate (Blacksmithing)
+      - itemId: 31394 # Plans: Iceguard Leggings (Blacksmithing)
+      # Ythyar (before Chess)
+      - itemId: 25903 # Design: Bracing Earthstorm Diamond (Jewelcrafting)
+      - itemId: 25902 # Design: Powerful Earthstorm Diamond (Jewelcrafting)
+  
+  attumen-the-huntsman:
+    contents:
+      - itemId: 23809 # Schematic: Stabilized Eternium Scope (Engineering)
+  
+  opera-hall:
+    contents:
+      - itemId: 138017 # Clothes Chest Pattern: Karazhan Opera House (Tailoring)
+      - itemId: 122231 # Music Roll: Karazhan Opera House
+
+  nightbane:
+    addAfter: "opera-hall"
+    name: "Nightbane"
+    contents:
+      # Cloth
+      - itemId: 28602 # Robe of the Elder Scribes
+      # Leather
+      - itemId: 28601 # Chestguard of the Conniver
+      - itemId: 28600 # Stonebough Jerkin
+      # Mail
+      - itemId: 28610 # Ferocious Swift-Kickers
+      - itemId: 28599 # Scaled Breastplate of Carnage
+      # Plate
+      - itemId: 28608 # Ironstriders of Urgency
+      - itemId: 28597 # Panzar'Thar Breastplate
+      # Weapon
+      - itemId: 28604 # Nightstaff of the Everliving (staff)
+      - itemId: 28603 # Talisman of Nightbane (off-hand)
+      - itemId: 28611 # Dragonheart Flameshield (shield)
+      - itemId: 28606 # Shield of Impenetrable Darkness (shield)
+
+  terestian-illhoof:
+    contents:
+      - itemId: 207111 # Grimoire of the Hellfire Fel Imp (Warlock)

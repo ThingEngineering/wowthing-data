@@ -1,0 +1,29 @@
+instanceId: 748
+
+difficulties: RAID_25NORMAL
+
+encounters:
+  trash-drops:
+    contents:
+      - itemId: 30321 # Plans: Belt of the Guardian (Blacksmithing)
+      - itemId: 30323 # Plans: Boots of the Protector (Blacksmithing)
+      - itemId: 30322 # Plans: Red Belt of Battle (Blacksmithing)
+      - itemId: 30324 # Plans: Red Havoc Boots (Blacksmithing)
+      - itemId: 30302 # Pattern: Belt of Deep Shadow (Leatherworking)
+      - itemId: 30301 # Pattern: Belt of Natural Power (Leatherworking)
+      - itemId: 30303 # Pattern: Belt of the Black Eagle (Leatherworking)
+      - itemId: 30305 # Pattern: Boots of Natural Grace (Leatherworking)
+      - itemId: 30307 # Pattern: Boots of the Crimson Hawk (Leatherworking)
+      - itemId: 30306 # Pattern: Boots of Utter Darkness (Leatherworking)
+      - itemId: 30308 # Pattern: Hurricane Boots (Leatherworking)
+      - itemId: 30304 # Pattern: Monsoon Belt (Leatherworking)
+      - itemId: 30280 # Pattern: Belt of Blasting (Tailoring)
+      - itemId: 30281 # Pattern: Belt of the Long Road (Tailoring)
+      - itemId: 30282 # Pattern: Boots of Blasting (Tailoring)
+      - itemId: 30283 # Pattern: Boots of the Long Road (Tailoring)
+      - itemId: 30027 # Boots of Courage Unending
+      - itemId: 30021 # Wildfury Greatstaff
+
+  the-lurker-below:
+    contents:
+      - itemId: 138834 # Illusion: Frostbrand

@@ -1,6 +1,6 @@
 instanceId: 261
 
-difficulties: DUNGEON_NORMAL_HEROIC # default for drops
+difficulties: DUNGEON_NORMAL_HEROIC
 
 encounters:
   trash-drops:

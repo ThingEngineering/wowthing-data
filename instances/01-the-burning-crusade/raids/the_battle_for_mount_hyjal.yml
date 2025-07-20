@@ -1,0 +1,28 @@
+instanceId: 750
+
+difficulties: RAID_25NORMAL
+
+encounters:
+  trash-drops:
+    contents:
+      # Cloth
+      - itemId: 32609 # Boots of the Divine Light
+      # Mail
+      - itemId: 32592 # Chestguard of Relentless Storms
+      # Cloak
+      - itemId: 32590 # Nethervoid Cloak
+      - itemId: 34010 # Pepe's Shroud of Pacification
+      # Weapon
+      - itemId: 34009 # Hammer of Judgement
+      - itemId: 32946 # Claw of Molten Fury
+      - itemId: 32945 # Fist of Molten Fury
+
+  shared-drops:
+    contents:
+      - itemId: 32285 # Design: Flashing Crimson Spinel (Jewelcrafting)
+      - itemId: 32303 # Design: Inscribed Pyrestone (Jewelcrafting)
+      - itemId: 32295 # Design: Mystic Lionseye (Jewelcrafting)
+      - itemId: 32298 # Design: Shifting Shadowsong Amethyst (Jewelcrafting)
+      - itemId: 32297 # Design: Sovereign Shadowsong Amethyst (Jewelcrafting)
+      - itemId: 32289 # Design: Stormy Empyrean Sapphire (Jewelcrafting)
+      - itemId: 32307 # Design: Veiled Shadowsong Amethyst (Jewelcrafting)

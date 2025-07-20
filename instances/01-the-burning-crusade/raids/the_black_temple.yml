@@ -1,0 +1,46 @@
+instanceId: 751
+
+difficulties: RAID_NORMAL
+
+encounters:
+  trash-drops:
+    contents:
+      - itemId: 32738 # Plans: Dawnsteel Bracers (Blacksmithing)
+      - itemId: 32737 # Plans: Swiftsteel Shoulders (Blacksmithing)
+      - itemId: 32744 # Pattern: Bracers of Renewed Life (Leatherworking)
+      - itemId: 32750 # Pattern: Living Earth Bindings (Leatherworking)
+      - itemId: 32749 # Pattern: Shoulders of Lightning Reflexes (Leatherworking)
+      - itemId: 32747 # Pattern: Swiftstrike Shoulders (Leatherworking)
+      - itemId: 32754 # Pattern: Bracers of Nimble Thought (Tailoring)
+      - itemId: 32753 # Pattern: Swiftheal Mantle (Tailoring)
+      # Cloth
+      - itemId: 32593 # Treads of the Den Mother
+      # Plate
+      - itemId: 32606 # Girdle of the Lightbearer
+      - itemId: 32608 # Pillager's Gauntlets
+      # Cloak
+      - itemId: 34012 # Shroud of the Final Stand
+      # Weapon
+      - itemId: 32943 # Swiftsteel Bludgeon
+      - itemId: 34011 # Illidari Runeshield
+
+  vendors:
+    contents:
+      # Quartermaster, Friendly?
+      - itemId: 32442 # Plans: Shadesteel Bracers (Blacksmithing)
+      - itemId: 32444 # Plans: Shadesteel Girdle (Blacksmithing)
+      - itemId: 32429 # Pattern: Boots of Shackled Souls (Leatherworking)
+      - itemId: 32436 # Pattern: Redeemed Soul Cinch (Leatherworking)
+      - itemId: 32435 # Pattern: Redeemed Soul Legguards (Leatherworking)
+      - itemId: 32438 # Pattern: Soulguard Bracers (Tailoring)
+      - itemId: 32440 # Pattern: Soulguard Girdle (Tailoring)
+      # Quartermaster, Honored?
+      - itemId: 32443 # Plans: Shadesteel Greaves (Blacksmithing)
+      - itemId: 32441 # Plans: Shadesteel Sabots (Blacksmithing)
+      - itemId: 32431 # Pattern: Greaves of Shackled Souls (Leatherworking)
+      - itemId: 32433 # Pattern: Redeemed Soul Moccasins (Leatherworking)
+      - itemId: 32434 # Pattern: Redeemed Soul Wristguards (Leatherworking)
+      - itemId: 32432 # Pattern: Waistguard of Shackled Souls (Leatherworking)
+      - itemId: 32447 # Pattern: Night's End (Tailoring)
+      - itemId: 32439 # Pattern: Soulguard Leggings (Tailoring)
+      - itemId: 32437 # Pattern: Soulguard Slippers (Tailoring)
