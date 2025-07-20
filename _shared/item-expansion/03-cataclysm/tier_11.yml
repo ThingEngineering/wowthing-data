@@ -77,6 +77,31 @@
   - 65210 # Firelord's Hood [Mage]
   - 65241 # Wind Dancer's Helmet [Rogue]
 
+67429: # Gauntlets of the Forlorn Conqueror
+  - 65215 # Reinforced Sapphirium Gauntlets [Paladin]
+  - 65220 # Reinforced Sapphirium Gloves [Paladin]
+  - 65225 # Reinforced Sapphirium Handguards [Paladin]
+  - 65234 # Mercurial Gloves [Priest]
+  - 65229 # Mercurial Handwraps [Priest]
+  - 65259 # Shadowflame Handwraps [Warlock]
+
+67430: # Gauntlets of the Forlorn Protector
+  - 65205 # Lightning-Charged Gloves [Hunter]
+  - 65255 # Gloves of the Raging Elements [Shaman]
+  - 65250 # Grips of the Raging Elements [Shaman]
+  - 65245 # Handwraps of the Raging Elements [Shaman]
+  - 65265 # Earthen Gauntlets [Warrior]
+  - 65270 # Earthen Handguards [Warrior]
+
+67431: # Gauntlets of the Forlorn Vanquisher
+  - 65180 # Magma Plated Gauntlets [Death Knight]
+  - 65185 # Magma Plated Handguards [Death Knight]
+  - 65199 # Stormrider's Gloves [Druid]
+  - 65189 # Stormrider's Grips [Druid]
+  - 65194 # Stormrider's Handwraps [Druid]
+  - 65209 # Firelord's Gloves [Mage]
+  - 65240 # Wind Dancer's Gloves [Rogue]
+
 67428: # Leggings of the Forlorn Conqueror
   - 65222 # Reinforced Sapphirium Greaves [Paladin]
   - 65227 # Reinforced Sapphirium Legguards [Paladin]
@@ -102,27 +127,20 @@
   - 65211 # Firelord's Leggings [Mage]
   - 65242 # Wind Dancer's Legguards [Rogue]
 
-67429: # Gauntlets of the Forlorn Conqueror
-  - 65215 # Reinforced Sapphirium Gauntlets [Paladin]
-  - 65220 # Reinforced Sapphirium Gloves [Paladin]
-  - 65225 # Reinforced Sapphirium Handguards [Paladin]
-  - 65234 # Mercurial Gloves [Priest]
-  - 65229 # Mercurial Handwraps [Priest]
-  - 65259 # Shadowflame Handwraps [Warlock]
-
-67430: # Gauntlets of the Forlorn Protector
-  - 65205 # Lightning-Charged Gloves [Hunter]
-  - 65255 # Gloves of the Raging Elements [Shaman]
-  - 65250 # Grips of the Raging Elements [Shaman]
-  - 65245 # Handwraps of the Raging Elements [Shaman]
-  - 65265 # Earthen Gauntlets [Warrior]
-  - 65270 # Earthen Handguards [Warrior]
-
-67431: # Gauntlets of the Forlorn Vanquisher
-  - 65180 # Magma Plated Gauntlets [Death Knight]
-  - 65185 # Magma Plated Handguards [Death Knight]
-  - 65199 # Stormrider's Gloves [Druid]
-  - 65189 # Stormrider's Grips [Druid]
-  - 65194 # Stormrider's Handwraps [Druid]
-  - 65209 # Firelord's Gloves [Mage]
-  - 65240 # Wind Dancer's Gloves [Rogue]
+# Can buy any token with this, reference those
+66998: # Essence of the Forlorn
+  - 1065001: # Crown of the Forlorn Conqueror
+  - 1065000: # Crown of the Forlorn Protector
+  - 1065002: # Crown of the Forlorn Vanquisher
+  - 1065088: # Shoulders of the Forlorn Conqueror
+  - 1065087: # Shoulders of the Forlorn Protector
+  - 1065089: # Shoulders of the Forlorn Vanquisher
+  - 1067423: # Chest of the Forlorn Conqueror
+  - 1067424: # Chest of the Forlorn Protector
+  - 1067425: # Chest of the Forlorn Vanquisher
+  - 1067429: # Gauntlets of the Forlorn Conqueror
+  - 1067430: # Gauntlets of the Forlorn Protector
+  - 1067431: # Gauntlets of the Forlorn Vanquisher
+  - 1067428: # Leggings of the Forlorn Conqueror
+  - 1067427: # Leggings of the Forlorn Protector
+  - 1067426: # Leggings of the Forlorn Vanquisher
