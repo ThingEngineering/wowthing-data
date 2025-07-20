@@ -1,0 +1,12 @@
+instanceId: 253
+
+difficulties: DUNGEON_NORMAL_HEROIC # default for drops
+
+encounters:
+  blackheart-the-inciter:
+    drops:
+      - itemId: 25728 # Pattern: Stylin' Purple Hat (Leatherworking)
+
+  murmur:
+    drops:
+      - itemId: 24309 # Pattern: Spellstrike Pants (Tailoring)

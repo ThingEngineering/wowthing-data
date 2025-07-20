@@ -1,0 +1,28 @@
+instanceId: 249
+
+difficulties: DUNGEON_NORMAL_HEROIC # default for drops
+
+encounters:
+  priestess-delrissa:
+    drops:
+      - itemId: 35756 # Formula: Enchant Cloak - Greater Dodge / TBC: Formula: Enchant Cloak - Steelweave ()
+
+  kaelthas-sunstrider:
+    drops:
+      - itemId: 35294 # Recipe: Elixir of Empowerment (Alchemy)
+      - itemId: 35295 # Recipe: Haste Potion (Alchemy)
+      - itemId: 35296 # Plans: Adamantite Weapon Chain (Blacksmithing)
+      - itemId: 35297 # Formula: Enchant Boots - Boar's Speed (Enchanting)
+      - itemId: 35299 # Formula: Enchant Boots - Cat's Swiftness (Enchanting)
+      - itemId: 35298 # Formula: Enchant Boots - Vitality (Enchanting)
+      - itemId: 35310 # Schematic: Healing Potion Injector (Engineering)
+      - itemId: 35311 # Schematic: Mana Potion Injector (Engineering)
+      - itemId: 35305 # Design: Runed Living Ruby (Jewelcrafting)
+      - itemId: 35307 # Design: Rigid Star of Elune (Jewelcrafting)
+      - itemId: 35304 # Design: Solid Star of Elune (Jewelcrafting)
+      - itemId: 35302 # Pattern: Cobrascale Gloves (Leatherworking)
+      - itemId: 35303 # Pattern: Gloves of the Living Touch (Leatherworking)
+      - itemId: 35301 # Pattern: Netherdrake Gloves (Leatherworking)
+      - itemId: 35300 # Pattern: Windstrike Gloves (Leatherworking)
+      - itemId: 35308 # Pattern: Unyielding Bracers (Tailoring)
+      - itemId: 35309 # Pattern: Unyielding Girdle (Tailoring)

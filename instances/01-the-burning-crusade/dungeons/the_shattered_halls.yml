@@ -1,0 +1,12 @@
+instanceId: 259
+
+difficulties: DUNGEON_NORMAL_HEROIC # default for drops
+
+encounters:
+  trash-drops:
+    drops:
+      - itemId: 22554 # Formula: Enchant 2H Weapon - Savagery (Enchanting)
+
+  grand-warlock-nethekurse:
+    drops:
+      - itemId: 24312 # Pattern: Spellstrike Hood (Tailoring)

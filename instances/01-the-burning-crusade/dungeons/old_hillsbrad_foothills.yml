@@ -1,0 +1,20 @@
+instanceId: 251
+
+difficulties: DUNGEON_NORMAL_HEROIC # default for drops
+
+encounters:
+  trash-drops:
+    drops:
+      - itemId: 25729 # Pattern: Stylin' Adventure Hat (Leatherworking)
+  
+  vendors:
+    drops:
+      - itemId: 22539 # Formula: Enchant Shield - Intellect (Enchanting)
+
+  captain-skarloc:
+    drops:
+      - itemId: 22927 # Recipe: Ironshield Potion (Alchemy)
+
+  epoch-hunter:
+    drops:
+      - itemId: 24173 # Design: Circlet of Arcane Might (Jewelcrafting)

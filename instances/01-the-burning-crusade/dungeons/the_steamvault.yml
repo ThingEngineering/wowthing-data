@@ -1,0 +1,21 @@
+instanceId: 261
+
+difficulties: DUNGEON_NORMAL_HEROIC # default for drops
+
+encounters:
+  trash-drops:
+    drops:
+      - itemId: 22533 # Formula: Enchant Bracer - Fortitude (Enchanting)
+      - itemId: 24159 # Design: Khorium Band of Frost (Jewelcrafting)
+
+  hydromancer-thespia:
+    drops:
+      - itemId: 29673 # Pattern: Frost Armor Kit (Leatherworking)
+
+  mekgineer-steamrigger:
+    drops:
+      - itemId: 23887 # Schematic: Rocket Boots Xtreme (Engineering)
+
+  warlord-kalithresh:
+    drops:
+      - itemId: 24313 # Pattern: Battlecast Hood (Tailoring)

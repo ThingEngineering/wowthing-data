@@ -1,0 +1,12 @@
+instanceId: 255
+
+difficulties: DUNGEON_NORMAL_HEROIC # default for drops
+
+encounters:
+  trash-drops:
+    drops:
+      - itemId: 25730 # Pattern: Stylin' Jungle Hat (Leatherworking)
+
+  chrono-lord-deja:
+    drops:
+      - itemId: 29675 # Pattern: Arcane Armor Kit (Leatherworking)

@@ -1,0 +1,13 @@
+instanceId: 250
+
+difficulties: DUNGEON_NORMAL_HEROIC # default for drops
+
+encounters:
+  trash-drops:
+    drops:
+      - itemId: 22543 # Formula: Enchant Boots - Fortitude (RECIPE!)
+      - itemId: 23615 # Plans: Swiftsteel Gloves (RECIPE!)
+
+  nexus-prince-shaffar:
+    drops:
+      - itemId: 22921 # Recipe: Major Frost Protection Potion (RECIPE!)
