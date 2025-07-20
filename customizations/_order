@@ -4,6 +4,9 @@ class/_.yml
     class/shaman.yml
     class/warlock.yml
 
+race/_.yml
+    race/dark_iron_dwarf.yml
+
 dragonriding/_.yml
     dragonriding/1_renewed_protodrake.yml
     dragonriding/2_windborne_velocidrake.yml

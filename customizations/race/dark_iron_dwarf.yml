@@ -1,0 +1,106 @@
+name: "Dark Iron Dwarf"
+groups:
+
+- name: "Classic"
+  things:
+    - name: "Blackrock Mountain > Blackrock Depths"
+      questId: 53587
+
+    - name: "Blasted Lands > Nethergarde Keep"
+      questId: 53594
+
+    - name: "Southern Barrens > Honor's Stand"
+      questId: 53600
+
+    - name: "The Hinterlands > Aerie Peak"
+      questId: 53585
+
+    - name: "Un'goro Crater > Fire Plume Ridge"
+      questId: 53591
+
+- name: "The Burning Crusade"
+  things:
+    - name: "Blade's Edge Mountains > Skald"
+      questId: 53597
+
+    - name: "Hellfire Peninsula > Honor Hold"
+      questId: 53592
+
+    - name: "Shadowmoon Valley > The Hand of Gul'dan"
+      questId: 53599
+
+- name: "Wrath of the Lich King"
+  things:
+    - name: "Dragonblight > Ruby Dragonshrine"
+      questId: 53596
+
+    - name: "Icecrown > Argent Tournament Grounds"
+      questId: 53586
+
+- name: "Cataclysm"
+  things:
+    - name: "Mount Hyjal > Sulfuron Spire"
+      questId: 53601
+
+- name: "Mists of Pandaria"
+  things:
+    - name: "Kun-Lai Summit > One Keg"
+      questId: 53595
+
+    - name: "Valley of the Four Winds > Stormstout Brewery"
+      questId: 53598
+
+- name: "Warlords of Draenor"
+  things:
+    - name: "Gorgrond > The Pit"
+      questId: 53588
+
+    - name: "Nagrand > Elemental Plateau"
+      questId: 53590
+
+- name: "Legion"
+  things:
+    - name: "Broken Shore > Aalgen Point"
+      questId: 53589
+
+    - name: "Highmountain > Neltharion's Vault"
+      questId: 53593
+
+- name: "Battle for Azeroth"
+  things:
+    - name: "Naz'mir > Zalamar Invasion"
+      questId: 80099
+
+    - name: "Stormsong Valley > Tidebreak Summit"
+      questId: 80102
+
+    - name: "Tiragarde Sound > Wailing Tideways"
+      questId: 80101
+    
+    - name: "Zuldazar > Xibala Incursion"
+      questId: 80100
+
+- name: "Shadowlands"
+  things:
+    - name: "Ardenweald > Soryn's Meadow"
+      questId: 80106
+
+    - name: "Bastion > The Eternal Forge"
+      questId: 80105
+
+    - name: "Maldraxxus > Valley of a Thousand Legs"
+      questId: 80103
+
+    - name: "Revendreth > Scorched Crypt"
+      questId: 80104
+
+- name: "Dragonflight"
+  things:
+    - name: "The Azure Span > Vakthros Summit"
+      questId: 80108
+
+    - name: "The Waking Shores > The Slagmire"
+      questId: 80107
+
+    - name: "Zaralek Cavern > Obsidian Rest"
+      questId: 80109
