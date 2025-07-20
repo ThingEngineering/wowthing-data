@@ -155,6 +155,9 @@
     01-the-burning-crusade/timewalking.yml
 
 00-classic/_.yml
+    00-classic/orgrimmar.yml
+        00-classic/orgrimmar/justice_valor.yml
+    -
     00-classic/timewalking.yml
 
 -

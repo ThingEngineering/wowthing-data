@@ -1,0 +1,5 @@
+name: "Justice/Valor"
+vendorMaps:
+  - "00-classic/orgrimmar"
+vendorTags:
+  - "special:justice-valor"
