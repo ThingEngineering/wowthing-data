@@ -1,0 +1,43 @@
+instanceId: 754
+
+encounters:
+  trash-drops:
+    contents:
+      # Leather
+      - itemId: 40409 # Boots of the Escaped Captive
+        difficulties: RAID_25NORMAL
+
+      # Plate
+      - itemId: 39467 # Minion Bracers
+        difficulties: RAID_10NORMAL
+
+      - itemId: 40414 # Shoulderguards of the Undaunted
+        difficulties: RAID_25NORMAL
+
+      # Cloak
+      - itemId: 40410 # Shadow of the Ghoul
+        difficulties: RAID_25NORMAL
+
+      # Weapon
+      - itemId: 39473 # Contortion
+        difficulties: RAID_10NORMAL
+
+      - itemId: 40408 # Haunting Call
+        difficulties: RAID_25NORMAL
+
+      - itemId: 40406 # Inevitable Defeat
+        difficulties: RAID_25NORMAL
+
+      - itemId: 39427 # Omen of Ruin
+        difficulties: RAID_10NORMAL
+
+      - itemId: 40407 # Silent Crusader
+        difficulties: RAID_25NORMAL
+
+      - itemId: 39468 # The Stray
+        difficulties: RAID_10NORMAL
+
+  kelthuzad:
+    contents:
+      - itemId: 122197 # Music Roll: Wrath of the Lich King
+        difficulties: RAID_10NORMAL_25NORMAL

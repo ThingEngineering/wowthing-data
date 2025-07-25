@@ -1,0 +1,28 @@
+instanceId: 73
+
+difficulties: RAID_NORMAL_HEROIC
+
+encounters:
+  trash-drops:
+    contents:
+      # Cloth
+      - itemId: 59468 # Shadowforge's Lightbound Smock
+      # Leather
+      - itemId: 59467 # Hide of Chromaggus
+      # Plate
+      - itemId: 59465 # Corehammer's Riveted Girdle
+      - itemId: 59464 # Treads of Savage Beatings
+      # Cloak
+      - itemId: 59466 # Ironstar's Impenetrable Cover
+      # Weapon
+      - itemId: 63538 # Claws of Agony
+      - itemId: 63537 # Claws of Torment
+      - itemId: 59461 # Fury of Angerforge
+      - itemId: 59462 # Maimgor's Bite
+      - itemId: 59463 # Maldo's Sword Cane
+      - itemId: 68601 # Scaleslicer
+      - itemId: 59460 # Theresa's Booklight
+
+  nefarians-end:
+    contents:
+      - itemId: 122195 # Music Roll: Legends of Azeroth

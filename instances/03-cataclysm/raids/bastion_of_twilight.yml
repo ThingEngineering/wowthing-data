@@ -1,0 +1,8 @@
+instanceId: 72
+
+difficulties: RAID_NORMAL_HEROIC
+
+encounters:
+  chogall:
+    contents:
+      - itemId: 175159 # Sinister Shadows (Vulpera)

@@ -1,0 +1,36 @@
+instanceId: 78
+
+difficulties: RAID_NORMAL_HEROIC
+
+encounters:
+  trash-drops:
+    contents:
+      - itemId: 0
+
+# 192: # Beth'tilac
+#   14: 5964 # normal
+#   15: 5965 # heroic
+
+# 193: # Lord Rhyolith
+#   14: 5966 # normal
+#   15: 5967 # heroic
+
+# 194: # Alysrazor
+#   14: 5970 # normal
+#   15: 5971 # heroic
+
+# 195: # Shannox
+#   14: 5968 # normal
+#   15: 5969 # heroic
+
+# 196: # Baleroc, the Gatekeeper
+#   14: 5972 # normal
+#   15: 5973 # heroic
+
+# 197: # Majordomo Staghelm
+#   14: 5974 # normal
+#   15: 5975 # heroic
+
+# 198: # Ragnaros
+#   14: 5976 # normal
+#   15: 5977 # heroic

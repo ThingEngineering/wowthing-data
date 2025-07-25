@@ -1,0 +1,8 @@
+instanceId: 752
+
+difficulties: RAID_25NORMAL
+
+encounters:
+  muru:
+    contents:
+      - itemId: 175160 # Holy Relic (Vulpera)
