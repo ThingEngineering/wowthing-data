@@ -1,0 +1,155 @@
+name: "Dark Iron Dwarf"
+groups:
+
+- name: "Classic"
+  iconText: "Class"
+  lookup: race
+  type: quest
+  data:
+    dark-iron-dwarf:
+      - name: "Blackrock Mountain > Blackrock Depths"
+        id: 53587
+
+      - name: "Blasted Lands > Nethergarde Keep"
+        id: 53594
+
+      - name: "Southern Barrens > Honor's Stand"
+        id: 53600
+
+      - name: "The Hinterlands > Aerie Peak"
+        id: 53585
+
+      - name: "Un'goro Crater > Fire Plume Ridge"
+        id: 53591
+
+- name: "The Burning Crusade"
+  icon: "achievement/44"
+  iconText: "TBC"
+  lookup: race
+  type: quest
+  data:
+    dark-iron-dwarf:
+      - name: "Blade's Edge Mountains > Skald"
+        id: 53597
+
+      - name: "Hellfire Peninsula > Honor Hold"
+        id: 53592
+
+      - name: "Shadowmoon Valley > The Hand of Gul'dan"
+        id: 53599
+
+- name: "Wrath of the Lich King"
+  icon: "achievement/45"
+  iconText: "WotLK"
+  lookup: race
+  type: quest
+  data:
+    dark-iron-dwarf:
+      - name: "Dragonblight > Ruby Dragonshrine"
+        id: 53596
+
+      - name: "Icecrown > Argent Tournament Grounds"
+        id: 53586
+
+- name: "Cataclysm"
+  icon: "achievement/4868"
+  iconText: "Cata"
+  lookup: race
+  type: quest
+  data:
+    dark-iron-dwarf:
+      - name: "Mount Hyjal > Sulfuron Spire"
+        id: 53601
+
+- name: "Mists of Pandaria"
+  icon: "achievement/6974"
+  iconText: "MoP"
+  lookup: race
+  type: quest
+  data:
+    dark-iron-dwarf:
+      - name: "Kun-Lai Summit > One Keg"
+        id: 53595
+
+      - name: "Valley of the Four Winds > Stormstout Brewery"
+        id: 53598
+
+- name: "Warlords of Draenor"
+  icon: "achievement/8935"
+  iconText: "WoD"
+  lookup: race
+  type: quest
+  data:
+    dark-iron-dwarf:
+      - name: "Gorgrond > The Pit"
+        id: 53588
+
+      - name: "Nagrand > Elemental Plateau"
+        id: 53590
+
+- name: "Legion"
+  icon: "achievement/11188"
+  iconText: "Leg"
+  lookup: race
+  type: quest
+  data:
+    dark-iron-dwarf:
+      - name: "Broken Shore > Aalgen Point"
+        id: 53589
+
+      - name: "Highmountain > Neltharion's Vault"
+        id: 53593
+
+- name: "Battle for Azeroth"
+  icon: "achievement/12988"
+  iconText: "BfA"
+  lookup: race
+  type: quest
+  data:
+    dark-iron-dwarf:
+      - name: "Naz'mir > Zalamar Invasion"
+        id: 80099
+
+      - name: "Stormsong Valley > Tidebreak Summit"
+        id: 80102
+
+      - name: "Tiragarde Sound > Wailing Tideways"
+        id: 80101
+      
+      - name: "Zuldazar > Xibala Incursion"
+        id: 80100
+
+- name: "Shadowlands"
+  icon: "achievement/15388"
+  iconText: "SL"
+  lookup: race
+  type: quest
+  data:
+    dark-iron-dwarf:
+      - name: "Ardenweald > Soryn's Meadow"
+        id: 80106
+
+      - name: "Bastion > The Eternal Forge"
+        id: 80105
+
+      - name: "Maldraxxus > Valley of a Thousand Legs"
+        id: 80103
+
+      - name: "Revendreth > Scorched Crypt"
+        id: 80104
+
+- name: "Dragonflight"
+  icon: "achievement/16761"
+  iconText: "DF"
+  lookup: race
+  type: quest
+  data:
+    dark-iron-dwarf:
+      - name: "The Azure Span > Vakthros Summit"
+        id: 80108
+
+      - name: "The Waking Shores > The Slagmire"
+        id: 80107
+
+      - name: "Zaralek Cavern > Obsidian Rest"
+        id: 80109

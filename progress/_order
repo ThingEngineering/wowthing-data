@@ -94,6 +94,9 @@ world-events/_world_events.yml
     world-events/love_is_in_the_air.yml
     world-events/noblegarden.yml
 
+miscellaneous/_.yml
+    miscellaneous/dark_iron_dwarf.yml
+
 -
 
 dungeons.yml
