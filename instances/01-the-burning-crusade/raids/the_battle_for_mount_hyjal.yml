@@ -5,6 +5,14 @@ difficulties: RAID_25NORMAL
 encounters:
   trash-drops:
     contents:
+      - itemId: 32739 # Plans: Dawnsteel Shoulders (Blacksmithing)
+      - itemId: 32736 # Plans: Swiftsteel Bracers (Blacksmithing)
+      - itemId: 32748 # Pattern: Bindings of Lightning Reflexes (Leatherworking)
+      - itemId: 32751 # Pattern: Living Earth Shoulders (Leatherworking)
+      - itemId: 32745 # Pattern: Shoulderpads of Renewed Life (Leatherworking)
+      - itemId: 32746 # Pattern: Swiftstrike Bracers (Leatherworking)
+      - itemId: 32755 # Pattern: Mantle of Nimble Thought (Tailoring)
+      - itemId: 32752 # Pattern: Swiftheal Wraps (Tailoring)
       # Cloth
       - itemId: 32609 # Boots of the Divine Light
       # Mail
