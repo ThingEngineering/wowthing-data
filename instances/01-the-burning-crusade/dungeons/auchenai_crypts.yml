@@ -7,3 +7,24 @@ encounters:
     contents:
       - itemId: 23605 # Plans: Felsteel Gloves (Blacksmithing)
       - itemId: 22544 # Formula: Enchant Boots - Dexterity (Enchanting)
+
+  exarch-maladaar:
+    contents:
+      # getting exarch low to spawn the dude is hard at this point
+      - itemId: 27878 # Auchenai Death Shroud
+        hardMode: true
+
+      - itemId: 27877 # Draenic Wildstaff
+        hardMode: true
+
+      - itemId: 28268 # Natural Mender's Wraps
+        hardMode: true
+
+      - itemId: 27937 # Sky Breakeer
+        hardMode: true
+
+      - itemId: 27797 # Wastewalker Shoulderpads
+        hardMode: true
+
+      - itemId: 27876 # Will of the Fallen Exarch
+        hardMode: true
