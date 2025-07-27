@@ -1,0 +1,22 @@
+instanceId: 283
+
+encounters:
+  trash-drops:
+    contents:
+      - itemId: 35654 # Bindings of the Bastille
+        difficulties: DUNGEON_NORMAL
+
+      - itemId: 35653 # Girdle of the Mystical Prison
+        difficulties: DUNGEON_NORMAL
+
+      - itemId: 35652 # Incessant Torch
+        difficulties: DUNGEON_NORMAL
+
+      - itemId: 37891 # Cast Iron Shackles
+        difficulties: DUNGEON_HEROIC
+
+      - itemId: 37890 # Chain Gang Legguards
+        difficulties: DUNGEON_HEROIC
+
+      - itemId: 37889 # Prison Manifest
+        difficulties: DUNGEON_HEROIC

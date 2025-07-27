@@ -1,0 +1,27 @@
+instanceId: 275
+
+encounters:
+  trash-drops:
+    contents:
+      - itemId: 36999 # Boots of the Terrestrial Guardian
+        difficulties: DUNGEON_NORMAL
+
+      - itemId: 36997 # Sash of the Hardened Watcher
+        difficulties: DUNGEON_NORMAL
+
+      - itemId: 37000 # Storming Vortex Bracers
+        difficulties: DUNGEON_NORMAL
+
+      - itemId: 37858 # Awakened Handguards
+        difficulties: DUNGEON_HEROIC
+
+      - itemId: 37857 # Helm of the Lightning Halls
+        difficulties: DUNGEON_HEROIC
+
+      - itemId: 37856 # Librarian's Paper Cutter
+        difficulties: DUNGEON_HEROIC
+
+  loken:
+    contents:
+      - itemId: 41799 # Design: Eternal Earthsiege Diamond
+        difficulties: DUNGEON_NORMAL_HEROIC

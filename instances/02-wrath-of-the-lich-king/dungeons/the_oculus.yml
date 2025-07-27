@@ -1,0 +1,27 @@
+instanceId: 282
+
+encounters:
+  trash-drops:
+    contents:
+      - itemId: 36977 # Bindings of the Construct
+        difficulties: DUNGEON_NORMAL
+
+      - itemId: 36978 # Ley-Whelphide Belt
+        difficulties: DUNGEON_NORMAL
+
+      - itemId: 36976 # Ring-Lord's Leggings
+        difficulties: DUNGEON_NORMAL
+
+      - itemId: 37365 # Bands of the Sky Ring
+        difficulties: DUNGEON_HEROIC
+
+      - itemId: 37366 # Drake-Champion's Bracers
+        difficulties: DUNGEON_HEROIC
+
+      - itemId: 37364 # Frostbridge Orb
+        difficulties: DUNGEON_HEROIC
+
+  ley-guardian-eregos:
+    contents:
+      - itemId: 41798 # Design: Bracing Earthsiege Diamond
+        difficulties: DUNGEON_NORMAL_HEROIC

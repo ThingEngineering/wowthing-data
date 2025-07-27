@@ -1,0 +1,9 @@
+instanceId: 271
+
+difficulties: DUNGEON_NORMAL_HEROIC # default for drops
+
+encounters:
+  trash-drops:
+    contents:
+      - itemId: 35615 # Glowworm Cavern Bindings
+      - itemId: 35616 # Spored Tendrils Spaulders

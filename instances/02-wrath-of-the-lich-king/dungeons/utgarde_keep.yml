@@ -1,0 +1,21 @@
+instanceId: 285
+
+encounters:
+  trash-drops:
+    contents:
+      - itemId: 35580 # Skein Woven Mantle
+        difficulties: DUNGEON_NORMAL
+
+      - itemId: 35579 # Vrykul Shackles
+        difficulties: DUNGEON_NORMAL
+
+      - itemId: 37196 # Runecaster's Mantle
+        difficulties: DUNGEON_HEROIC
+
+      - itemId: 37197 # Tattered Castle Drape
+        difficulties: DUNGEON_HEROIC
+
+  ingvar-the-plunderer:
+    contents:
+      - itemId: 41793 # Design: Fierce Monarch Topaz
+        difficulties: DUNGEON_HEROIC

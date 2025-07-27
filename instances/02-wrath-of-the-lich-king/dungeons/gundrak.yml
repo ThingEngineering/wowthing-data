@@ -1,0 +1,16 @@
+instanceId: 274
+
+encounters:
+  trash-drops:
+    contents:
+      - itemId: 35594 # Snowmelt Silken Cinch
+        difficulties: DUNGEON_NORMAL
+
+      - itemId: 35593 # Steel Bear Trap Bracers
+        difficulties: DUNGEON_NORMAL
+
+      - itemId: 37648 # Belt of Tasseled Lanterns
+        difficulties: DUNGEON_HEROIC
+
+      - itemId: 37647 # Cloak of Bloodied Waters
+        difficulties: DUNGEON_HEROIC

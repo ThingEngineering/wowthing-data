@@ -1,0 +1,20 @@
+instanceId: 279
+
+difficulties: DUNGEON_NORMAL_HEROIC
+
+encounters:
+  trash-drops:
+    contents:
+      - itemId: 37115 # Crusader's Square Pauldrons
+      - itemId: 37116 # Epaulets of Market Row
+      - itemId: 37699 # Festival Lane Girdle
+      - itemId: 37117 # King's Square Bracers
+      - itemId: 37698 # Spaulders of Elder's Square
+      - itemId: 37697 # Trade District Knife
+
+  infinite-corruptor:
+    name: "Infinite Corruptor"
+    addAfter: "chrono-lord-epoch"
+    contents:
+      - itemId: 43951 # Bronze Drake (Mount)
+        difficulties: DUNGEON_HEROIC

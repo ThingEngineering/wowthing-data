@@ -1,0 +1,53 @@
+instanceId: 278
+
+encounters:
+  trash-drops:
+    contents:
+      - itemId: 49852 # Coffin Nail
+        difficulties: DUNGEON_NORMAL
+
+      - itemId: 49854 # Mantle of Tattered Feathers
+        difficulties: DUNGEON_NORMAL
+
+      - itemId: 49855 # Plated Grips of Korth'azz
+        difficulties: DUNGEON_NORMAL
+
+      - itemId: 49853 # Titanium Links of Lore
+        difficulties: DUNGEON_NORMAL
+
+      - itemId: 50318 # Ghostly Wristwraps
+        difficulties: DUNGEON_HEROIC
+
+      - itemId: 50315 # Seven-Fingered Claws
+        difficulties: DUNGEON_HEROIC
+
+      - itemId: 50319 # Unsharpened Ice Razor
+        difficulties: DUNGEON_HEROIC
+
+      # all from the annoying hilt
+      - itemId: 50379 # Battered Hilt (Alliance)
+        difficulties: DUNGEON_HEROIC
+
+      - itemId: 50380 # Battered Hilt (Horde)
+        difficulties: DUNGEON_HEROIC
+
+      - itemId: 50050 # Cudgel of Furious Justice
+        difficulties: DUNGEON_HEROIC
+
+      - itemId: 50051 # Hammer of Purified Flame
+        difficulties: DUNGEON_HEROIC
+
+      - itemId: 50052 # Lightborn Spire
+        difficulties: DUNGEON_HEROIC
+
+      - itemId: 50046 # Quel'Delar, Cunning of the Shadows
+        difficulties: DUNGEON_HEROIC
+
+      - itemId: 50047 # Quel'Delar, Lens of the Mind
+        difficulties: DUNGEON_HEROIC
+
+      - itemId: 50048 # Quel'Delar, Might of the Faithful
+        difficulties: DUNGEON_HEROIC
+
+      - itemId: 50049 # Quel'Delar, Ferocity of the Scorned
+        difficulties: DUNGEON_HEROIC

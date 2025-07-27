@@ -1,0 +1,19 @@
+instanceId: 277
+
+encounters:
+  trash-drops:
+    contents:
+      - itemId: 35682 # Rune Giant Bindings
+        difficulties: DUNGEON_NORMAL
+
+      - itemId: 35681 # Unrelenting Blade
+        difficulties: DUNGEON_NORMAL
+
+      - itemId: 37673 # Dark Runic Mantle
+        difficulties: DUNGEON_HEROIC
+
+      - itemId: 37672 # Patina-Coated Breastplate
+        difficulties: DUNGEON_HEROIC
+
+      - itemId: 37671 # Refined Ore Gloves
+        difficulties: DUNGEON_HEROIC

@@ -1,0 +1,16 @@
+instanceId: 286
+
+difficulties: DUNGEON_NORMAL_HEROIC
+
+encounters:
+  trash-drops:
+    contents:
+      - itemId: 37590 # Bands of Fading Light
+      - itemId: 37068 # Berserker's Sabatons
+      - itemId: 37069 # Dragonflayer Seer's Bindings
+      - itemId: 37070 # Tundra Wolf Boots
+      - itemId: 37587 # Ymirjar Physician's Robe
+
+  king-ymiron:
+    contents:
+      - itemId: 41797 # Design: Austere Earthsiege Diamond

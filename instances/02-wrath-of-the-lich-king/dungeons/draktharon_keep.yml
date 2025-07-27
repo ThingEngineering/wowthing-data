@@ -1,0 +1,13 @@
+instanceId: 273
+
+difficulties: DUNGEON_NORMAL_HEROIC # default for drops
+
+encounters:
+  trash-drops:
+    contents:
+      - itemId: 37800 # Aviary Guardsman's Hauberk
+      - itemId: 35639 # Brighthelm of Guarding
+      - itemId: 35640 # Darkweb Bindings
+      - itemId: 37799 # Reanimator's Cloak
+      - itemId: 35641 # Scytheclaw Boots
+      - itemId: 37801 # Waistguard of the Risen Knight
