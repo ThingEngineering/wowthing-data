@@ -1,6 +1,237 @@
 name: "Raids"
 groups:
-  
+
+# group 330
+- name: "Manaforge Omega"
+  tag: "T28"
+  type: class
+  sets:
+  - "Mythic"
+  - "Heroic"
+  - "Normal"
+  - "Raid Finder"
+  data:
+    death-knight:
+      # Hollow Sentinel's Vigil [Mythic]
+      - transmogSetId: 5098
+        wowheadSetId:
+
+      # Hollow Sentinel's Vigil [Heroic]
+      - transmogSetId: 5097
+        wowheadSetId:
+
+      # Hollow Sentinel's Vigil [Normal]
+      - transmogSetId: 5099
+        wowheadSetId:
+
+      # Hollow Sentinel's Vigil [Raid Finder]
+      - transmogSetId: 5100
+        wowheadSetId:
+
+    demon-hunter:
+      # Charhound's Vicious Hunt [Mythic]
+      - transmogSetId: 5102
+        wowheadSetId:
+
+      # Charhound's Vicious Hunt [Heroic]
+      - transmogSetId: 5101
+        wowheadSetId:
+
+      # Charhound's Vicious Hunt [Normal]
+      - transmogSetId: 5103
+        wowheadSetId:
+
+      # Charhound's Vicious Hunt [Raid Finder]
+      - transmogSetId: 5104
+        wowheadSetId:
+
+    druid:
+      # Ornaments of the Mother Eagle [Mythic]
+      - transmogSetId: 5106
+        wowheadSetId:
+
+      # Ornaments of the Mother Eagle [Heroic]
+      - transmogSetId: 5105
+        wowheadSetId:
+
+      # Ornaments of the Mother Eagle [Normal]
+      - transmogSetId: 5107
+        wowheadSetId:
+
+      # Ornaments of the Mother Eagle [Raid Finder]
+      - transmogSetId: 5108
+        wowheadSetId:
+
+    evoker:
+      # Spellweaver's Immaculate Design [Mythic]
+      - transmogSetId: 5110
+        wowheadSetId:
+
+      # Spellweaver's Immaculate Design [Heroic]
+      - transmogSetId: 5109
+        wowheadSetId:
+
+      # Spellweaver's Immaculate Design [Normal]
+      - transmogSetId: 5111
+        wowheadSetId:
+
+      # Spellweaver's Immaculate Design [Raid Finder]
+      - transmogSetId: 5112
+        wowheadSetId:
+
+    hunter:
+      # Midnight Herald's Pledge [Mythic]
+      - transmogSetId: 5114
+        wowheadSetId:
+
+      # Midnight Herald's Pledge [Heroic]
+      - transmogSetId: 5113
+        wowheadSetId:
+
+      # Midnight Herald's Pledge [Normal]
+      - transmogSetId: 5115
+        wowheadSetId:
+
+      # Midnight Herald's Pledge [Raid Finder]
+      - transmogSetId: 5116
+        wowheadSetId:
+
+    mage:
+      # Augur's Ephemeral Plumage [Mythic]
+      - transmogSetId: 5118
+        wowheadSetId:
+
+      # Augur's Ephemeral Plumage [Heroic]
+      - transmogSetId: 5117
+        wowheadSetId:
+
+      # Augur's Ephemeral Plumage [Normal]
+      - transmogSetId: 5119
+        wowheadSetId:
+
+      # Augur's Ephemeral Plumage [Raid Finder]
+      - transmogSetId: 5120
+        wowheadSetId:
+
+    monk:
+      # Crash of Fallen Storms [Mythic]
+      - transmogSetId: 5122
+        wowheadSetId:
+
+      # Crash of Fallen Storms [Heroic]
+      - transmogSetId: 5121
+        wowheadSetId:
+
+      # Crash of Fallen Storms [Normal]
+      - transmogSetId: 5123
+        wowheadSetId:
+
+      # Crash of Fallen Storms [Raid Finder]
+      - transmogSetId: 5124
+        wowheadSetId:
+
+    paladin:
+      # Vows of the Lucent Battalion [Mythic]
+      - transmogSetId: 5126
+        wowheadSetId:
+
+      # Vows of the Lucent Battalion [Heroic]
+      - transmogSetId: 5125
+        wowheadSetId:
+
+      # Vows of the Lucent Battalion [Normal]
+      - transmogSetId: 5127
+        wowheadSetId:
+
+      # Vows of the Lucent Battalion [Raid Finder]
+      - transmogSetId: 5128
+        wowheadSetId:
+
+    priest:
+      # Eulogy to a Dying Star [Mythic]
+      - transmogSetId: 5130
+        wowheadSetId:
+
+      # Eulogy to a Dying Star [Heroic]
+      - transmogSetId: 5129
+        wowheadSetId:
+
+      # Eulogy to a Dying Star [Normal]
+      - transmogSetId: 5131
+        wowheadSetId:
+
+      # Eulogy to a Dying Star [Raid Finder]
+      - transmogSetId: 5132
+        wowheadSetId:
+
+    rogue:
+      # Shroud of the Sudden Eclipse [Mythic]
+      - transmogSetId: 5134
+        wowheadSetId:
+
+      # Shroud of the Sudden Eclipse [Heroic]
+      - transmogSetId: 5133
+        wowheadSetId:
+
+      # Shroud of the Sudden Eclipse [Normal]
+      - transmogSetId: 5135
+        wowheadSetId:
+
+      # Shroud of the Sudden Eclipse [Raid Finder]
+      - transmogSetId: 5136
+        wowheadSetId:
+
+    shaman:
+      # Howls of Channeled Fury [Mythic]
+      - transmogSetId: 5138
+        wowheadSetId:
+
+      # Howls of Channeled Fury [Heroic]
+      - transmogSetId: 5137
+        wowheadSetId:
+
+      # Howls of Channeled Fury [Normal]
+      - transmogSetId: 5139
+        wowheadSetId:
+
+      # Howls of Channeled Fury [Raid Finder]
+      - transmogSetId: 5140
+        wowheadSetId:
+
+    warlock:
+      # Inquisitor's Feast of Madness [Mythic]
+      - transmogSetId: 5142
+        wowheadSetId:
+
+      # Inquisitor's Feast of Madness [Heroic]
+      - transmogSetId: 5141
+        wowheadSetId:
+
+      # Inquisitor's Feast of Madness [Normal]
+      - transmogSetId: 5143
+        wowheadSetId:
+
+      # Inquisitor's Feast of Madness [Raid Finder]
+      - transmogSetId: 5144
+        wowheadSetId:
+
+    warrior:
+      # Chains of the Living Weapon [Mythic]
+      - transmogSetId: 5146
+        wowheadSetId:
+
+      # Chains of the Living Weapon [Heroic]
+      - transmogSetId: 5145
+        wowheadSetId:
+
+      # Chains of the Living Weapon [Normal]
+      - transmogSetId: 5147
+        wowheadSetId:
+
+      # Chains of the Living Weapon [Raid Finder]
+      - transmogSetId: 5148
+        wowheadSetId:
+
 # group 305
 - name: "Liberation of Undermine"
   tag: "T27"

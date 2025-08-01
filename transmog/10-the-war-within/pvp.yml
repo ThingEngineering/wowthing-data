@@ -1,6 +1,177 @@
 name: PvP
 groups:
 
+- name: "The War Within Season 3"
+  tag: "S40"
+  type: class
+  sets:
+    - "Elite Armor*"
+    - "Gladiator Armor"
+  data:
+    death-knight:
+      # Astral Gladiator's Plate Armor [Elite]
+      - transmogSetId: 4112
+        wowheadSetId:
+
+      # Astral Gladiator's Plate Armor [Gladiator]
+      - transmogSetId: 4099
+        wowheadSetId:
+
+    demon-hunter:
+      # Astral Gladiator's Leather Armor [Elite]
+      - transmogSetId: 4113
+        wowheadSetId:
+
+      # Astral Gladiator's Leather Armor [Gladiator]
+      - transmogSetId: 4100
+        wowheadSetId:
+
+    druid:
+      # Astral Gladiator's Leather Armor [Elite]
+      - transmogSetId: 4114
+        wowheadSetId:
+
+      # Astral Gladiator's Leather Armor [Gladiator]
+      - transmogSetId: 4101
+        wowheadSetId:
+
+    evoker:
+      # Astral Gladiator's Chain Armor [Elite]
+      - transmogSetId: 4115
+        wowheadSetId:
+
+      # Astral Gladiator's Chain Armor [Gladiator]
+      - transmogSetId: 4102
+        wowheadSetId:
+
+    hunter:
+      # Astral Gladiator's Chain Armor [Elite]
+      - transmogSetId: 4116
+        wowheadSetId:
+
+      # Astral Gladiator's Chain Armor [Gladiator]
+      - transmogSetId: 4103
+        wowheadSetId:
+
+    mage:
+      # Astral Gladiator's Silk Armor [Elite]
+      - transmogSetId: 4117
+        wowheadSetId:
+
+      # Astral Gladiator's Silk Armor [Gladiator]
+      - transmogSetId: 4104
+        wowheadSetId:
+
+    monk:
+      # Astral Gladiator's Leather Armor [Elite]
+      - transmogSetId: 4118
+        wowheadSetId:
+
+      # Astral Gladiator's Leather Armor [Gladiator]
+      - transmogSetId: 4105
+        wowheadSetId:
+
+    paladin:
+      # Astral Gladiator's Plate Armor [Elite]
+      - transmogSetId: 4119
+        wowheadSetId:
+
+      # Astral Gladiator's Plate Armor [Gladiator]
+      - transmogSetId: 4106
+        wowheadSetId:
+
+    priest:
+      # Astral Gladiator's Silk Armor [Elite]
+      - transmogSetId: 4120
+        wowheadSetId:
+
+      # Astral Gladiator's Silk Armor [Gladiator]
+      - transmogSetId: 4107
+        wowheadSetId:
+
+    rogue:
+      # Astral Gladiator's Leather Armor [Elite]
+      - transmogSetId: 4121
+        wowheadSetId:
+
+      # Astral Gladiator's Leather Armor [Gladiator]
+      - transmogSetId: 4108
+        wowheadSetId:
+
+    shaman:
+      # Astral Gladiator's Chain Armor [Elite]
+      - transmogSetId: 4122
+        wowheadSetId:
+
+      # Astral Gladiator's Chain Armor [Gladiator]
+      - transmogSetId: 4109
+        wowheadSetId:
+
+    warlock:
+      # Astral Gladiator's Silk Armor [Elite]
+      - transmogSetId: 4123
+        wowheadSetId:
+
+      # Astral Gladiator's Silk Armor [Gladiator]
+      - transmogSetId: 4111
+        wowheadSetId:
+
+    warrior:
+      # Astral Gladiator's Plate Armor [Elite]
+      - transmogSetId: 4124
+        wowheadSetId:
+
+      # Astral Gladiator's Plate Armor [Gladiator]
+      - transmogSetId: 4110
+        wowheadSetId:
+
+- name: "The War Within Season 3"
+  tag: "S40"
+  type: armor
+  sets:
+    - "Aspirant Armor"
+  data:
+    cloth:
+      # Astral Aspirant's Silk Armor [Aspirant]
+      - transmogSetId: 5173
+        wowheadSetId:
+
+    leather:
+      # Astral Aspirant's Leather Armor [Aspirant]
+      - transmogSetId: 5172
+        wowheadSetId:
+
+    mail:
+      # Astral Aspirant's Chain Armor [Aspirant]
+      - transmogSetId: 5171
+        wowheadSetId:
+
+    plate:
+      # Astral Aspirant's Plate Armor [Aspirant]
+      - transmogSetId: 5170
+        wowheadSetId:
+
+- name: "The War Within Season 3"
+  tag: "S40"
+  type: all
+  sets:
+    - "Elite Weapons*"
+    - "Gladiator Weapons"
+    - "Aspirant Weapons"
+  data:
+    all:
+      # Astral Elite's Arsenal
+      - transmogSetId: 4197
+        wowheadSetId:
+
+      # Astral Gladiator's Arsenal
+      - transmogSetId: 4196
+        wowheadSetId:
+
+      # Astral Aspirant's Arsenal
+      - transmogSetId: 4195
+        wowheadSetId:
+
 - name: "The War Within Season 2"
   tag: "S39"
   type: class

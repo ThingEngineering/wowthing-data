@@ -1,6 +1,99 @@
 name: "Zones"
 groups:
 
+- name: "K'aresh"
+  type: armor
+  sets:
+    - "Delves" # 336
+    - "Phase Diving" # 337
+    - "Quest Rewards" # 336
+    - "Rare Monsters" # 338
+    - "Treasures and World Quests" # 339
+  data:
+    cloth:
+      # Void-Scarred Seer's Wrappings [Delves]
+      - transmogSetId: 5189
+        wowheadSetId:
+
+      # Untethered Seer's Vestiture [Phase Diving]
+      - transmogSetId: 5178
+        wowheadSetId:
+
+      # Luminant Regalia [Quest Rewards]
+      - transmogSetId: 5177
+        wowheadSetId:
+
+      # Reshii Magi's Resplendence [Rare Monsters]
+      - transmogSetId: 5182
+        wowheadSetId:
+
+      # Magi of the Wastes [Treasures and World Quests]
+      - transmogSetId: 5193
+        wowheadSetId:
+
+    leather:
+      # Void-Scarred Blade's Attire [Delves]
+      - transmogSetId: 5186
+        wowheadSetId:
+
+      # Untethered Blade's Garb [Phase Diving]
+      - transmogSetId: 5179
+        wowheadSetId:
+
+      # Dunewalker Leathers [Quest Rewards]
+      - transmogSetId: 5175
+        wowheadSetId:
+
+      # Reshii Scout's Cunning [Rare Monsters]
+      - transmogSetId: 5183
+        wowheadSetId:
+
+      # Scout of the Wastes [Treasures and World Quests]
+      - transmogSetId: 5194
+        wowheadSetId:
+
+    mail:
+      # Void-Scarred Striker's Battlegear [Delves]
+      - transmogSetId: 5188
+        wowheadSetId:
+
+      # Untethered Striker's Gear [Phase Diving]
+      - transmogSetId: 5180
+        wowheadSetId:
+
+      # Etherbound Panoply [Quest Rewards]
+      - transmogSetId: 5174
+        wowheadSetId:
+
+      # Reshii Skirmisher's Ferocity [Rare Monsters]
+      - transmogSetId: 5184
+        wowheadSetId:
+
+      # Skirmisher of the Wastes [Treasures and World Quests]
+      - transmogSetId: 5195
+        wowheadSetId:
+
+    plate:
+      # Void-Scarred Captain's Plate [Delves]
+      - transmogSetId: 5187
+        wowheadSetId:
+
+      # Untethered Captain's Full-Plate [Phase Diving]
+      - transmogSetId: 5181
+        wowheadSetId:
+
+      # Arcanoforged Bulwark [Quest Rewards]
+      - transmogSetId: 5176
+        wowheadSetId:
+
+      # Reshii Brute's Bastion [Rare Monsters]
+      - transmogSetId: 5185
+        wowheadSetId:
+
+      # Brute of the Wastes [Treasures and World Quests]
+      - transmogSetId: 5196
+        wowheadSetId:
+
 - name: "Undermine"
   type: armor
   sets:
