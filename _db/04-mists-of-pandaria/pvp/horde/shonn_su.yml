@@ -699,40 +699,6 @@ things:
       - id: 103513 # Prideful Gladiator's Cloak of Prowess [cloak]
         costs:
           1137642: 1
-      # Skipped id=103345 name=Prideful Gladiator's Necklace of Proficiency slot=2
-      # Skipped id=103346 name=Prideful Gladiator's Necklace of Prowess slot=2
-      # Skipped id=103368 name=Prideful Gladiator's Pendant of Alacrity slot=2
-      # Skipped id=103367 name=Prideful Gladiator's Pendant of Cruelty slot=2
-      # Skipped id=103369 name=Prideful Gladiator's Pendant of Meditation slot=2
-      # Skipped id=103371 name=Prideful Gladiator's Band of Accuracy slot=11
-      # Skipped id=103370 name=Prideful Gladiator's Band of Cruelty slot=11
-      # Skipped id=103372 name=Prideful Gladiator's Band of Meditation slot=11
-      # Skipped id=103349 name=Prideful Gladiator's Ring of Accuracy slot=11
-      # Skipped id=103348 name=Prideful Gladiator's Ring of Cruelty slot=11
-      # Skipped id=103342 name=Prideful Gladiator's Badge of Conquest slot=12
-      # Skipped id=103342 name=Prideful Gladiator's Badge of Conquest slot=12
-      # Skipped id=103505 name=Prideful Gladiator's Badge of Dominance slot=12
-      # Skipped id=103505 name=Prideful Gladiator's Badge of Dominance slot=12
-      # Skipped id=103511 name=Prideful Gladiator's Badge of Victory slot=12
-      # Skipped id=103511 name=Prideful Gladiator's Badge of Victory slot=12
-      # Skipped id=103407 name=Prideful Gladiator's Emblem of Cruelty slot=12
-      # Skipped id=103407 name=Prideful Gladiator's Emblem of Cruelty slot=12
-      # Skipped id=103409 name=Prideful Gladiator's Emblem of Meditation slot=12
-      # Skipped id=103409 name=Prideful Gladiator's Emblem of Meditation slot=12
-      # Skipped id=103408 name=Prideful Gladiator's Emblem of Tenacity slot=12
-      # Skipped id=103408 name=Prideful Gladiator's Emblem of Tenacity slot=12
-      # Skipped id=103347 name=Prideful Gladiator's Insignia of Conquest slot=12
-      # Skipped id=103347 name=Prideful Gladiator's Insignia of Conquest slot=12
-      # Skipped id=103506 name=Prideful Gladiator's Insignia of Dominance slot=12
-      # Skipped id=103506 name=Prideful Gladiator's Insignia of Dominance slot=12
-      # Skipped id=103516 name=Prideful Gladiator's Insignia of Victory slot=12
-      # Skipped id=103516 name=Prideful Gladiator's Insignia of Victory slot=12
-      # Skipped id=103531 name=Prideful Gladiator's Medallion of Cruelty slot=12
-      # Skipped id=103531 name=Prideful Gladiator's Medallion of Cruelty slot=12
-      # Skipped id=103532 name=Prideful Gladiator's Medallion of Meditation slot=12
-      # Skipped id=103532 name=Prideful Gladiator's Medallion of Meditation slot=12
-      # Skipped id=103530 name=Prideful Gladiator's Medallion of Tenacity slot=12
-      # Skipped id=103530 name=Prideful Gladiator's Medallion of Tenacity slot=12
 
       # 0
 
@@ -740,9 +706,9 @@ things:
         costs:
           1137642: 80
 
-      - id: 120286 # Enchanter's Illusion - Glorious Tyranny
-        costs:
-          1137642: 10
+      # - id: 120286 # Enchanter's Illusion - Glorious Tyranny
+      #   costs:
+      #     1137642: 10
 
       # 0 set=244
 
