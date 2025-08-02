@@ -1,6 +1,9 @@
 tags:
   - "event:midsummer-fire-festival"
 
+requirements:
+  - "holiday:MidsummerFireFestival" # Holiday enum
+
 things:
   - id: 26123
     type: "vendor"
@@ -16,7 +19,7 @@ things:
       the_exodar:
         - 42.4 25.4 alliance
 
-    contents: &contents
+    contents: &vendor-contents
 
       # Pets
 
@@ -124,4 +127,52 @@ things:
       silvermoon_city:
         - 70.4 44 horde
 
-    contents: *contents
+    contents: *vendor-contents
+
+  - id: 25740
+    type: "npc"
+    name: "Ahune"
+    note: "The Frost Lord"
+    reset: "none"
+
+    contents:
+
+      - id: 138838 # Illusion: Deathfrost
+
+      - id: 35498 # Formula: Enchant Weapon - Deathfrost [enchanting]
+
+      - id: 117372 # Cloak of the Frigid Winds [cloak]
+
+      - id: 117374 # Icebound Cloak [cloak]
+
+      - id: 117375 # Shroud of Winter's Chill [cloak]
+
+      - id: 117376 # The Frost Lord's Battle Shroud [cloak]
+
+      - id: 117377 # The Frost Lord's War Cloak [cloak]
+
+  - id: 117394
+    type: "item"
+    reset: "daily"
+    trackingQuestId: 83134
+    accountWide: true
+
+    contents:
+
+      - id: 53641 # Frigid Frostling [pet]
+
+      - id: 138838 # Illusion: Deathfrost [illusion]
+
+      - id: 224163 # Cliffside Wylderdrake: Midsummer Fire Festival Armor [dragon]
+
+      - id: 244356 # Crown of the Frost Lord [cosmetic head]
+
+      - id: 244422 # Glazfuris, Scythe of the Deep Chill [cosmetic polearm]
+
+      - id: 244423 # Rethfuras, Scorched Scythe of Cinders [cosmetic polearm]
+
+      - id: 246571 # Glazfuris, Spire of the Deep Chill [cosmetic staff]
+
+      - id: 246570 # Rethfuras, Scorched Stave of Cinders [cosmetic staff]
+
+      - id: 117373 # Frostscythe of Lord Ahune [staff]
