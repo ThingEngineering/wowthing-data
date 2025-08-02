@@ -1,0 +1,116 @@
+instanceId: 187
+
+encounters:
+  trash-drops:
+    contents:
+      - itemId: 72015 # Plans: Bracers of Destructive Strength (Blacksmithing)
+        difficulties: RAID_NORMAL_HEROIC
+
+      - itemId: 72013 # Plans: Foundations of Courage (Blacksmithing)
+        difficulties: RAID_NORMAL_HEROIC
+
+      - itemId: 72001 # Plans: Pyrium Legplates of Purified Evil (Blacksmithing)
+        difficulties: RAID_NORMAL_HEROIC
+
+      - itemId: 72014 # Plans: Soul Redeemer Bracers (Blacksmithing)
+        difficulties: RAID_NORMAL_HEROIC
+
+      - itemId: 72016 # Plans: Titanguard Wristplates (Blacksmithing)
+        difficulties: RAID_NORMAL_HEROIC
+
+      - itemId: 72012 # Plans: Unstoppable Destroyer's Legplates (Blacksmithing)
+        difficulties: RAID_NORMAL_HEROIC
+
+      - itemId: 72006 # Pattern: Bladeshadow Leggings (Leatherworking)
+        difficulties: RAID_NORMAL_HEROIC
+
+      - itemId: 72010 # Pattern: Bladeshadow Wristguards (Leatherworking)
+        difficulties: RAID_NORMAL_HEROIC
+
+      - itemId: 72008 # Pattern: Bracers of Flowing Serenity (Leatherworking)
+        difficulties: RAID_NORMAL_HEROIC
+
+      - itemId: 72011 # Pattern: Bracers of the Hunter-Killer (Leatherworking)
+        difficulties: RAID_NORMAL_HEROIC
+
+      - itemId: 72005 # Pattern: Deathscale Leggings (Leatherworking)
+        difficulties: RAID_NORMAL_HEROIC
+
+      - itemId: 71999 # Pattern: Leggings of Nature's Champion (Leatherworking)
+        difficulties: RAID_NORMAL_HEROIC
+
+      - itemId: 72007 # Pattern: Rended Earth Leggings (Leatherworking)
+        difficulties: RAID_NORMAL_HEROIC
+
+      - itemId: 72009 # Pattern: Thundering Deathscale Wristguards (Leatherworking)
+        difficulties: RAID_NORMAL_HEROIC
+
+      - itemId: 72004 # Pattern: Bracers of Unconquered Power (Tailoring)
+        difficulties: RAID_NORMAL_HEROIC
+
+      - itemId: 72003 # Pattern: Dreamwraps of the Light (Tailoring)
+        difficulties: RAID_NORMAL_HEROIC
+
+      - itemId: 72002 # Pattern: Lavaquake Legwraps (Tailoring)
+        difficulties: RAID_NORMAL_HEROIC
+
+      - itemId: 72000 # Pattern: World Mender's Pants (Tailoring)
+        difficulties: RAID_NORMAL_HEROIC
+
+      # Cloth
+      - itemId: 78879 # Sash of Relentless Truth
+        difficulties: RAID_NORMAL_HEROIC
+
+      # Leather
+      - itemId: 78884 # Girdle of Fungal Dreams
+        difficulties: RAID_NORMAL_HEROIC
+
+      - itemId: 78882 # Nightblind Cinch
+        difficulties: RAID_NORMAL_HEROIC
+
+      # Mail
+      - itemId: 78886 # Belt of Ghostly Graces
+        difficulties: RAID_NORMAL_HEROIC
+
+      - itemId: 78885 # Dragoncarver Belt
+        difficulties: RAID_NORMAL_HEROIC
+
+      # Plate
+      - itemId: 78887 # Girdle of Soulful Mending
+        difficulties: RAID_NORMAL_HEROIC
+
+      - itemId: 78888 # Waistguard of Bleeding Bone
+        difficulties: RAID_NORMAL_HEROIC
+
+      - itemId: 78889 # Waistplate of the Desecrated Future
+        difficulties: RAID_NORMAL_HEROIC
+
+      # Weapon
+      - itemId: 77938 # Dragonfire Orb
+        difficulties: RAID_NORMAL_HEROIC
+
+      - itemId: 77192 # Ruinblaster Shotgun
+        difficulties: RAID_NORMAL_HEROIC
+
+      - itemId: 78878 # Spine of the Thousand Cuts
+        difficulties: RAID_NORMAL_HEROIC
+
+  shared-drops:
+    contents:
+      - itemId: 77945 # Fear
+        difficulties: RAID_NORMAL_HEROIC
+
+      - itemId: 77946 # Vengeance
+        difficulties: RAID_NORMAL_HEROIC
+
+      - itemId: 77947 # The Sleeper
+        difficulties: RAID_NORMAL_HEROIC
+
+      - itemId: 77948 # The Dreamer
+        difficulties: RAID_NORMAL_HEROIC
+
+      - itemId: 77949 # Golad, Twilight of the Aspects
+        difficulties: RAID_NORMAL_HEROIC
+
+      - itemId: 77950 # Tiriosh, Nightmare of Ages
+        difficulties: RAID_NORMAL_HEROIC

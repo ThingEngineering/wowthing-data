@@ -1,16 +1,33 @@
 instanceId: 279
 
-difficulties: DUNGEON_NORMAL_HEROIC
-
 encounters:
   trash-drops:
     contents:
       - itemId: 37115 # Crusader's Square Pauldrons
+        difficulties: DUNGEON_NORMAL_HEROIC
+
       - itemId: 37116 # Epaulets of Market Row
+        difficulties: DUNGEON_NORMAL_HEROIC
+
       - itemId: 37699 # Festival Lane Girdle
+        difficulties: DUNGEON_NORMAL_HEROIC
+
       - itemId: 37117 # King's Square Bracers
+        difficulties: DUNGEON_NORMAL_HEROIC
+
       - itemId: 37698 # Spaulders of Elder's Square
+        difficulties: DUNGEON_NORMAL_HEROIC
+
       - itemId: 37697 # Trade District Knife
+        difficulties: DUNGEON_NORMAL_HEROIC
+
+  chrono-lord-epoch:
+    contents:
+      - itemId: 238993 # Cracked Epoch Grasps (screwed up by Duos)
+        difficulties: DUNGEON_NORMAL_HEROIC
+
+      - itemId: 238991 # Gloves of Distorted Time (screwed up by Duos)
+        difficulties: DUNGEON_NORMAL_HEROIC
 
   infinite-corruptor:
     name: "Infinite Corruptor"
