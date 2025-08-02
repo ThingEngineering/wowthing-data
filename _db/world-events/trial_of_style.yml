@@ -12,6 +12,13 @@ things:
         - 58 65.4 horde
 
     groups: &groups
+
+      - name: "Decorations"
+        range: 3
+
+      - name: "Ensembles"
+        range: 13
+
       - name: "Armor - Head"
         range: 8
 
@@ -26,23 +33,88 @@ things:
 
       - name: "Armor - Legs"
         range: 5
+
+      - name: "Armor - Legwraps"
+        range: 18
       
       - name: "Armor - Feet"
         range: 13
 
-      - name: "Armor - Legwraps"
-        range: 18
-
       - name: "Armor - Misc"
         range: 9
-
-      - name: "Ensembles"
-        range: 13
       
       - name: "Weapons"
         range: -1
 
     contents: &contents
+
+      # Decorations
+
+      - id: 156862
+        costs:
+          1151134: 100
+      
+      - id: 156864 # Trial of Style Flames
+        costs:
+          1151134: 100
+
+      - id: 156863 # Trial of Style Spotlight
+        costs:
+          1151134: 100
+
+      # Ensemble
+
+      - id: 151119 # Ensemble: Der'izu Armor [S1]
+        costs:
+          1151134: 60
+
+      - id: 151117 # Ensemble: Mana-Etched Regalia [S1]
+        costs:
+          1151134: 60
+
+      - id: 151118 # Ensemble: Obsidian Prowler's Garb [S1]
+        costs:
+          1151134: 60
+
+      - id: 151120 # Ensemble: Righteous Battleplate [S1]
+        costs:
+          1151134: 60
+
+      - id: 157576 # Ensemble: Crimson Sentinel Garb [S2]
+        costs:
+          1151134: 60
+
+      - id: 157577 # Ensemble: Goldspine Plate [S2]
+        costs:
+          1151134: 60
+
+      - id: 157573 # Ensemble: Mindwrack Raiment [S2]
+        costs:
+          1151134: 60
+
+      - id: 157574 # Ensemble: Tundraspite Armor [S2]
+        costs:
+          1151134: 60
+
+      - id: 168061 # Ensemble: Amaranthine Path Armor [S4]
+        costs:
+          1151134: 60
+
+      - id: 168060 # Ensemble: Chainmail of the Timeless Hunt [S4]
+        costs:
+          1151134: 60
+
+      - id: 168059 # Ensemble: Restless Dreambound Battlegear [S4]
+        costs:
+          1151134: 60
+
+      - id: 168058 # Ensemble: Tranquil Spiritbind Regalia [S4]
+        costs:
+          1151134: 60
+
+      - id: 230166 # Ensemble: Prowler's Sepia Headgear [??]
+        costs:
+          1151134: 60
 
       # Head
 
@@ -145,60 +217,6 @@ things:
         costs:
           1151134: 25
 
-      # Feet
-      
-      - id: 233171 # Banded Sepia War Slippers [subclass=5 feet]
-        costs:
-          1151134: 15
-
-      - id: 233154 # Banded Sepia War Wraps [subclass=5 feet]
-        costs:
-          1151134: 25
-
-      - id: 188237 # Conjuror's Slippers [subclass=5 feet]
-        costs:
-          1151134: 7
-
-      - id: 188249 # Freezing Footguards [subclass=5 feet]
-        costs:
-          1151134: 15
-
-      - id: 188236 # Patroller's Footwear [subclass=5 feet]
-        costs:
-          1151134: 7
-
-      - id: 188248 # Searing Stompers [subclass=5 feet]
-        costs:
-          1151134: 15
-
-      - id: 188243 # Shadow-Stitched Stalkers [subclass=5 feet]
-        costs:
-          1151134: 10
-
-      - id: 188244 # Virulent Gravetreaders [subclass=5 feet]
-        costs:
-          1151134: 10
-
-      - id: 190803 # Lost Acolyte's Boots [cloth feet]
-        costs:
-          1151134: 15
-
-      - id: 190202 # Scoundrel's Missing Boots [leather feet]
-        costs:
-          1151134: 15
-
-      - id: 190830 # Mad Thief's Boots [leather feet]
-        costs:
-          1151134: 15
-
-      - id: 190697 # Boots of a Broken World [mail feet]
-        costs:
-          1151134: 15
-
-      - id: 190167 # Vault Stalker's Greaves [mail feet]
-        costs:
-          1151134: 15
-
       # Armor - Feet/Legwraps
 
       - id: 237243 # Banded Aquatic War Legwraps [subclass=5 feet]
@@ -273,8 +291,66 @@ things:
         costs:
           1151134: 15
 
+      # Feet
+      
+      - id: 233171 # Banded Sepia War Slippers [subclass=5 feet]
+        costs:
+          1151134: 15
+
+      - id: 233154 # Banded Sepia War Wraps [subclass=5 feet]
+        costs:
+          1151134: 25
+
+      - id: 188237 # Conjuror's Slippers [subclass=5 feet]
+        costs:
+          1151134: 7
+
+      - id: 188249 # Freezing Footguards [subclass=5 feet]
+        costs:
+          1151134: 15
+
+      - id: 188236 # Patroller's Footwear [subclass=5 feet]
+        costs:
+          1151134: 7
+
+      - id: 188248 # Searing Stompers [subclass=5 feet]
+        costs:
+          1151134: 15
+
+      - id: 188243 # Shadow-Stitched Stalkers [subclass=5 feet]
+        costs:
+          1151134: 10
+
+      - id: 188244 # Virulent Gravetreaders [subclass=5 feet]
+        costs:
+          1151134: 10
+
+      - id: 190803 # Lost Acolyte's Boots [cloth feet]
+        costs:
+          1151134: 15
+
+      - id: 190202 # Scoundrel's Missing Boots [leather feet]
+        costs:
+          1151134: 15
+
+      - id: 190830 # Mad Thief's Boots [leather feet]
+        costs:
+          1151134: 15
+
+      - id: 190697 # Boots of a Broken World [mail feet]
+        costs:
+          1151134: 15
+
+      - id: 190167 # Vault Stalker's Greaves [mail feet]
+        costs:
+          1151134: 15
+
       # Misc
       
+      - id: 151116 # Fashionable Undershirt [shirt]
+        costs:
+          1151134: 1
+
       - id: 213432 # Duelist's Cedar Doublet [shirt]
         costs:
           1151134: 25
@@ -303,67 +379,9 @@ things:
         costs:
           1151134: 25
 
-      - id: 151116 # Fashionable Undershirt [shirt]
-        costs:
-          1151134: 1
-
       - id: 213518 # Classic Sepia Tabard [tabard]
         costs:
           1151134: 25
-
-      # Ensemble
-
-      - id: 151119 # Ensemble: Der'izu Armor [S1]
-        costs:
-          1151134: 60
-
-      - id: 151117 # Ensemble: Mana-Etched Regalia [S1]
-        costs:
-          1151134: 60
-
-      - id: 151118 # Ensemble: Obsidian Prowler's Garb [S1]
-        costs:
-          1151134: 60
-
-      - id: 151120 # Ensemble: Righteous Battleplate [S1]
-        costs:
-          1151134: 60
-
-      - id: 157576 # Ensemble: Crimson Sentinel Garb [S2]
-        costs:
-          1151134: 60
-
-      - id: 157577 # Ensemble: Goldspine Plate [S2]
-        costs:
-          1151134: 60
-
-      - id: 157573 # Ensemble: Mindwrack Raiment [S2]
-        costs:
-          1151134: 60
-
-      - id: 157574 # Ensemble: Tundraspite Armor [S2]
-        costs:
-          1151134: 60
-
-      - id: 168061 # Ensemble: Amaranthine Path Armor [S4]
-        costs:
-          1151134: 60
-
-      - id: 168060 # Ensemble: Chainmail of the Timeless Hunt [S4]
-        costs:
-          1151134: 60
-
-      - id: 168059 # Ensemble: Restless Dreambound Battlegear [S4]
-        costs:
-          1151134: 60
-
-      - id: 168058 # Ensemble: Tranquil Spiritbind Regalia [S4]
-        costs:
-          1151134: 60
-
-      - id: 230166 # Ensemble: Prowler's Sepia Headgear [??]
-        costs:
-          1151134: 60
 
       # Weapon
 
