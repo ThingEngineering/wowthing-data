@@ -129,6 +129,9 @@ DESCRIPTION_MAP = {
     14145: 'Teal',
     14146: 'Burgundy',
     14174: 'Delves',
+    14214: 'Rare Monsters',
+    14349: 'Phase Diving',
+    14350: 'Treasures and World Quests',
 }
 DESCRIPTION_ORDER = [
     13145, # Mythic
