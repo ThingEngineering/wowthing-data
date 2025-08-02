@@ -130,26 +130,74 @@ groups:
   type: armor
   sets:
     - "Aspirant Armor"
+    - "Warmonger Armor"
   data:
     cloth:
       # Astral Aspirant's Silk Armor [Aspirant]
       - transmogSetId: 5173
         wowheadSetId:
 
+      - name: "Astral Warmonger's Cloth"
+        itemsV2:
+          - 230663_0 # Astral Warmonger's Garb [cloth chest]
+          - 230664_0 # Astral Warmonger's Slippers [cloth feet]
+          - 230665_0 # Astral Warmonger's Gloves [cloth hands]
+          - 230666_0 # Astral Warmonger's Mask [cloth head]
+          - 230667_0 # Astral Warmonger's Pants [cloth legs]
+          - 230668_0 # Astral Warmonger's Cord [cloth waist]
+          - 230669_0 # Astral Warmonger's Bindings [cloth wrists]
+          - 230670_0 # Astral Warmonger's Mantle [cloth shoulders]
+          - 230697_0 # Astral Warmonger's Cloak [cloak, no idea which set]
+
     leather:
       # Astral Aspirant's Leather Armor [Aspirant]
       - transmogSetId: 5172
         wowheadSetId:
+
+      - name: "Astral Warmonger's Leather"
+        itemsV2:
+          - 230673_0 # Astral Warmonger's Hood [leather head]
+          - 230674_0 # Astral Warmonger's Breeches [leather legs]
+          - 230671_0 # Astral Warmonger's Boots [leather feet]
+          - 230672_0 # Astral Warmonger's Handwraps [leather hands]
+          - 230675_0 # Astral Warmonger's Belt [leather waist]
+          - 230676_0 # Astral Warmonger's Wraps [leather wrists]
+          - 230677_0 # Astral Warmonger's Jerkin [leather chest]
+          - 230678_0 # Astral Warmonger's Shoulderguard [leather shoulders]
+          - 230698_0 # Astral Warmonger's Drape [cloak, no idea which set]
 
     mail:
       # Astral Aspirant's Chain Armor [Aspirant]
       - transmogSetId: 5171
         wowheadSetId:
 
+      - name: "Astral Warmonger's Mail"
+        itemsV2:
+          - 230693_0 # Astral Warmonger's Cinch [mail waist]
+          - 230694_0 # Astral Warmonger's Armguards [mail wrists]
+          - 230692_0 # Astral Warmonger's Epaulets [mail shoulders]
+          - 230691_0 # Astral Warmonger's Leggings [mail legs]
+          - 230690_0 # Astral Warmonger's Helm [mail head]
+          - 230689_0 # Astral Warmonger's Grips [mail hands]
+          - 230688_0 # Astral Warmonger's Greaves [mail feet]
+          - 230687_0 # Astral Warmonger's Chestguard [mail chest]
+          - 230695_0 # Astral Warmonger's Cape [cloak, no idea which set]
     plate:
       # Astral Aspirant's Plate Armor [Aspirant]
       - transmogSetId: 5170
         wowheadSetId:
+
+      - name: "Astral Warmonger's Plate"
+        itemsV2:
+          - 230682_0 # Astral Warmonger's Gauntlets [plate hands]
+          - 230681_0 # Astral Warmonger's Sabatons [plate feet]
+          - 230680_0 # Astral Warmonger's Cuirass [plate chest]
+          - 230679_0 # Astral Warmonger's Faceplate [plate head]
+          - 230683_0 # Astral Warmonger's Legguards [plate legs]
+          - 230684_0 # Astral Warmonger's Spaulders [plate shoulders]
+          - 230685_0 # Astral Warmonger's Clasp [plate waist]
+          - 230686_0 # Astral Warmonger's Bracers [plate wrists]
+          - 230696_0 # Astral Warmonger's Shawl [cloak, no idea which set]
 
 - name: "The War Within Season 3"
   tag: "S40"
@@ -158,6 +206,7 @@ groups:
     - "Elite Weapons*"
     - "Gladiator Weapons"
     - "Aspirant Weapons"
+    - "Warmonger Weapons"
   data:
     all:
       # Astral Elite's Arsenal
@@ -171,6 +220,31 @@ groups:
       # Astral Aspirant's Arsenal
       - transmogSetId: 4195
         wowheadSetId:
+
+      - name: "Prized Warmonger's Weapons"
+        itemsV2:
+          - 230701_0 # Astral Warmonger's Carver [2 0]
+          - 230700_0 # Astral Warmonger's Hatchet [2 0]
+          - 230699_0 # Astral Warmonger's Battleaxe [2 0]
+          - 230702_0 # Astral Warmonger's Flameshot [2 3]
+          - 230717_0 # Astral Warmonger's Crusher [2 4]
+          - 230709_0 # Astral Warmonger's Club [2 4]
+          - 230710_0 # Astral Warmonger's Hammer [2 4]
+          - 230711_0 # Astral Warmonger's Cudgel [2 4]
+          - 230718_0 # Astral Warmonger's Scepter [2 4]
+          - 230716_0 # Astral Warmonger's Mace [2 4]
+          - 230713_0 # Astral Warmonger's Impaler [2 6]
+          - 230714_0 # Astral Warmonger's Spear [2 6]
+          - 230707_0 # Astral Warmonger's Greatsword [2 8]
+          - 230708_0 # Astral Warmonger's Broadsword [2 8]
+          - 230703_0 # Astral Warmonger's Twinblade [2 9]
+          - 230705_0 # Astral Warmonger's Spire [2 10]
+          - 230706_0 # Astral Warmonger's Battlestaff [2 10]
+          - 230720_0 # Astral Warmonger's Dirk [2 15]
+          - 230719_0 # Astral Warmonger's Dagger [2 15]
+          - 230715_0 # Astral Warmonger's Wand [2 19]
+          - 230704_0 # Astral Warmonger's Lantern [2 30]
+          - 230712_0 # Astral Warmonger's Aegis [2 31]
 
 - name: "The War Within Season 2"
   tag: "S39"
