@@ -4,9 +4,6 @@ class/_.yml
     class/shaman.yml
     class/warlock.yml
 
-race/_.yml
-    race/dark_iron_dwarf.yml
-
 dragonriding/_.yml
     dragonriding/1_renewed_protodrake.yml
     dragonriding/2_windborne_velocidrake.yml
@@ -15,3 +12,8 @@ dragonriding/_.yml
     dragonriding/5_winding_slitherdrake.yml
     dragonriding/6_grotto_netherwing_drake.yml
     dragonriding/7_flourishing_whimsydrake.yml
+
+delvers/_.yml
+    delvers/1_delvers_dirigible.yml
+    delvers/2_delvers_gob-trotter.yml
+    delvers/3_delvers_mana-skimmer.yml

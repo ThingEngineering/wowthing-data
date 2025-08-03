@@ -1,0 +1,10 @@
+name: "Delver's Gob-Trotter"
+groups:
+  - name: "AUTO"
+    things:
+      - itemId: 230216 # Delver's Gob-Trotter: Harpoon
+      - itemId: 230217 # Delver's Gob-Trotter: Flamethrower
+      - itemId: 230218 # Delver's Gob-Trotter: Pipes
+      - itemId: 230219 # Delver's Gob-Trotter: Balloon
+      - itemId: 230220 # Delver's Gob-Trotter: Green
+      - itemId: 233196 # Delver's Gob-Trotter: Gold
