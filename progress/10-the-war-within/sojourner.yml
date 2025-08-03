@@ -26,7 +26,20 @@ groups:
   type: questline
   data:
     0:
-      - id: 237
+      - id: 5620 # The Caretaker of Brunwin's Terrace
+      - id: 5597 # Broken Tools
+      - id: 5611 # Routine Maintenance
+      - id: 5624 # Dread in the Den
+      - id: 5625 # Envenomed Invasion
+      - id: 5598 # Fearbreaker
+      - id: 5655 # Into the Fog
+      - id: 5654 # Magma-nificence
+      - id: 5627 # Kobold Culture and Integration
+      - id: 5619 # Rampage at Nibelgaz Mine
+      - id: 5623 # Abysmal Extraction
+      - id: 5621 # Revenge in the Rumbling Wastes
+      - id: 5626 # Tired of Rest
+      - id: 5622 # Frolicking in the Fetid Grotto
 
 - name: "Sojourner of Hallowfall"
   icon: "achievement/40844"
@@ -58,4 +71,18 @@ groups:
   type: questline
   data:
     0:
-      - id: 239
+      - id: 5648 # Rak-Ush Swarmery
+      - id: 5647 # Pillar-nest Vosh
+      - id: 5543 # Gutter Work
+      - id: 5618 # Melody of Madness
+      - id: 5613 # Pawns and Puppetry
+      - id: 5565 # The Wormlands
+      - id: 5541 # Haggling with Mmarl
+      - id: 5559 # The Second Front
+      - id: 5612 # Mr. Sunflower's Therapy
+      - id: 5644 # The Wild Camp
+      - id: 5545 # Pillar-nest of Horrors
+      - id: 5600 # Subterfuge in Silk
+      - id: 5646 # Silken Ward
+      - id: 5649 # Grieve & Weave
+      - id: 5562 # All Good Things...
