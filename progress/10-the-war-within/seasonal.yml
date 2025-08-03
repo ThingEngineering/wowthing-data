@@ -44,6 +44,20 @@ groups:
       - id: 85244 # Defeating the Underpin
         name: "Defeating the Underpin"
 
+- name: "Counterfeit Dealer's Chip"
+  icon: "item/237578"
+  iconText: "CDC"
+  lookup: none
+  minimumLevel: 80
+  type: quest
+  data:
+    0:
+      - id: 89028 # Counterfeit Dealer's Chip
+        description: "{price:1|1237578} at Renown 11"
+
+      - id: 89029 # Counterfeit Dealer's Chip
+        description: "{price:1|1237578} at Renown 15"
+
 - name: "DISC"
   icon: "achievement/42241"
   iconText: "DISC"
