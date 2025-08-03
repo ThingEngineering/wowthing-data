@@ -1,0 +1,10 @@
+name: "Delver's Mana-Skimmer"
+groups:
+  - name: "AUTO"
+    things:
+      - itemId: 238177 # Delver's Mana-Skimmer: Emitter
+      - itemId: 238178 # Delver's Mana-Skimmer: Canister
+      - itemId: 238179 # Delver's Mana-Skimmer: Quad Glider
+      - itemId: 238180 # Delver's Mana-Skimmer: Void Paint
+      - itemId: 238181 # Delver's Mana-Skimmer: Energy Thrusters
+      - itemId: 238182 # Delver's Mana-Skimmer: Hyperdrive

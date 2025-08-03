@@ -1,0 +1,33 @@
+name: "Delver's Dirigible"
+groups:
+  - name: "AUTO"
+    things:
+#      - itemId: 223510 # Delver's Dirigible: Template
+      - itemId: 224768 # Delver's Dirigible: Wing-Mounted Propeller
+      - itemId: 224769 # Delver's Dirigible: Rotor Blades
+      - itemId: 224770 # Delver's Dirigible: Front-Mounted Propeller
+      - itemId: 224771 # Delver's Dirigible: Empennage
+      - itemId: 224960 # Delver's Dirigible: Lantern Wing
+      - itemId: 224979 # Delver's Dirigible: Zeppelin
+      - itemId: 224980 # Delver's Dirigible: Front-Mounted Lantern
+      - itemId: 224981 # Delver's Dirigible: Brown Paint
+      - itemId: 224982 # Delver's Dirigible: Exhause
+      - itemId: 225542 # Delver's Dirigible: Void
+      - itemId: 235683 # Delver's Dirigible: Turbine
+      - itemId: 235684 # Delver's Dirigible: Glider
+      - itemId: 235685 # Delver's Dirigible: Drill
+      - itemId: 235686 # Delver's Dirigible: White Paint
+      - itemId: 235687 # Delver's Dirigible: Spoiler
+#      - itemId: 235688 # Delver's Dirigible: Fan
+#      - itemId: 235689 # Delver's Dirigible: Kite
+#      - itemId: 235690 # Delver's Dirigible: Harpoon
+#      - itemId: 235691 # Delver's Dirigible: Yellow Paint
+#      - itemId: 235692 # Delver's Dirigible: Thrusters
+#      - itemId: 235693 # Delver's Dirigible: Rocket
+#      - itemId: 235694 # Delver's Dirigible: Blue Paint
+#      - itemId: 235695 # Delver's Dirigible: Red Paint
+#      - itemId: 235696 # Delver's Dirigible: Explorer Decal
+#      - itemId: 235697 # Delver's Dirigible: Alliance Decal
+#      - itemId: 235698 # Delver's Dirigible: Horde Decal
+      - itemId: 238837 # Delver's Dirigible: Pale Paint
+      - itemId: 238839 # Delver's Dirigible: Arathi Decal
