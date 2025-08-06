@@ -1,0 +1,74 @@
+things:
+  - id: 241624
+    type: "vendor"
+    name: "Shad'anis"
+
+    locations:
+      here:
+        - 50.4 36.2
+    
+    groups:
+      - name: "Phase Diving - Misc"
+        range: 8
+        sortKey: "phase-diving-1"
+
+      - name: "Phase Diving - Ensembles"
+        range: -1
+        sortKey: "phase-diving-2"
+
+    contents:
+      - id: 242730 # Acidic Void Creeper [mount]
+        costs:
+          3303: 3 # Untethered Coin
+
+      - id: 242717 # Lavender K'arroc [mount]
+        costs:
+          3303: 3 # Untethered Coin
+
+      - id: 244910 # Penumbral Terror [pet]
+        costs:
+          3303: 3 # Untethered Coin
+
+      - id: 246907 # Broker Supply Crate [toy]
+        costs:
+          3303: 3 # Untethered Coin
+
+      - id: 250722 # Ethereal Stall [toy]
+        costs:
+          3303: 3 # Untethered Coin
+
+      - id: 246903 # Guise of the Phase Diver [toy]
+        costs:
+          3303: 3 # Untethered Coin
+
+      - id: 246908 # K'areshi Supply Crate [toy]
+        costs:
+          3303: 3 # Untethered Coin
+
+      - id: 246905 # Overtuned K'areshi Goggles [toy]
+        costs:
+          3303: 3 # Untethered Coin
+
+      - id: 250442 # Ensemble: Ancient Capes of the Reshii
+        costs:
+          3303: 3 # Untethered Coin
+
+      - id: 250441 # Ensemble: Shoulderguards of the Wastelander Seer
+        costs:
+          3303: 3 # Untethered Coin
+
+      - id: 248996 # Ensemble: Untethered Blade's Garb
+        costs:
+          3303: 3 # Untethered Coin
+
+      - id: 248998 # Ensemble: Untethered Captain's Full-Plate
+        costs:
+          3303: 3 # Untethered Coin
+
+      - id: 248995 # Ensemble: Untethered Seer's Vestiture
+        costs:
+          3303: 3 # Untethered Coin
+
+      - id: 248997 # Ensemble: Untethered Striker's Gear
+        costs:
+          3303: 3 # Untethered Coin

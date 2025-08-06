@@ -1,0 +1,155 @@
+things:
+  - id: 235252
+    type: "vendor"
+    name: "Om'sirik"
+    note: "Renown Quartermaster"
+
+    locations:
+      here: # tazavesh
+        - 40.6 29
+
+    contents:
+
+      # 0 set=5095
+
+      - id: 245969 # Mantle of the Trust [subclass=5 shoulders]
+        costs:
+          2815: 3250
+
+      - id: 245967 # Shawl of the Trust [subclass=5 back]
+        costs:
+          2815: 1625
+
+      # 0
+
+      - id: 243191 # Ethereal Augment Rune
+        costs:
+          0: 100000 # Gold
+
+      - id: 245693 # K'areshi Ribbon Stash
+        costs:
+          2815: 2250
+
+      - id: 245978 # Consortium Magi's Robes [cloth chest]
+        costs:
+          2815: 2600
+
+      - id: 245974 # Consortium Magi's Cuffs [cloth wrists]
+        costs:
+          2815: 3900
+
+      - id: 245977 # Consortium Scout's Jacket [leather chest]
+        costs:
+          2815: 2600
+
+      - id: 245973 # Consortium Scout's Armlets [leather wrists]
+        costs:
+          2815: 3900
+
+      - id: 245976 # Consortium Skirmisher's Cuirass [mail chest]
+        costs:
+          2815: 2600
+
+      - id: 245972 # Consortium Skirmisher's Armbands [mail wrists]
+        costs:
+          2815: 3900
+
+      - id: 245975 # Consortium Brute's Chestguard [plate chest]
+        costs:
+          2815: 2600
+
+      - id: 245971 # Consortium Brute's Clasp [plate wrists]
+        costs:
+          2815: 3900
+
+      - id: 245981 # K'areshi Multi-Tool [? dagger]
+        costs:
+          2815: 1150
+
+      - id: 245979 # Arcano-Charged Wrench [off-hand]
+        costs:
+          2815: 1150
+
+      - id: 245980 # Inter-Phase Scoop [off-hand]
+        costs:
+          2815: 1150
+
+      - id: 239486 # Pattern: Pure Chronomantic Fiber
+        costs:
+          1210814: 150
+
+      - id: 239487 # Pattern: Pure Dexterous Fiber
+        costs:
+          1210814: 150
+
+      - id: 239485 # Pattern: Pure Energizing Fiber
+        costs:
+          1210814: 150
+
+      - id: 239488 # Pattern: Pure Precise Fiber
+        costs:
+          1210814: 150
+
+      - id: 244841 # Recipe: Invigorating Healing Potion
+        costs:
+          1210814: 150
+
+      - id: 248550 # Recipe: Umbral Essentia
+        costs:
+          1210814: 150
+
+      - id: 235865 # Ethereal Tome of Alchemy Knowledge
+        costs:
+          1210814: 50
+
+      - id: 235864 # Ethereal Tome of Blacksmithing Knowledge
+        costs:
+          1210814: 50
+
+      - id: 235863 # Ethereal Tome of Enchanting Knowledge
+        costs:
+          1210814: 50
+
+      - id: 235862 # Ethereal Tome of Engineering Knowledge
+        costs:
+          1210814: 50
+
+      - id: 235861 # Ethereal Tome of Herbalism Knowledge
+        costs:
+          1210814: 75
+
+      - id: 235859 # Ethereal Tome of Jewelcrafting Knowledge
+        costs:
+          1210814: 50
+
+      - id: 235858 # Ethereal Tome of Leatherworking Knowledge
+        costs:
+          1210814: 50
+
+      - id: 235857 # Ethereal Tome of Mining Knowledge
+        costs:
+          1210814: 75
+
+      - id: 235856 # Ethereal Tome of Skinning Knowledge
+        costs:
+          1210814: 75
+
+      - id: 235855 # Ethereal Tome of Tailoring Knowledge
+        costs:
+          1210814: 50
+
+      - id: 242729 # Ruby Void Creeper
+        costs:
+          2815: 8125
+
+      - id: 244043 # Technique: Contract: The K'aresh Trust
+        costs:
+          1210814: 150
+
+      - id: 244334 # Technique: Vantus Rune: Manaforge Omega
+        costs:
+          1210814: 150
+
+      - id: 237484 # Terror of the Wastes
+        costs:
+          2815: 11375
