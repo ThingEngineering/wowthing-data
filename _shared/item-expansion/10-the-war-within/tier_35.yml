@@ -1,0 +1,111 @@
+# Liberation of Undermine
+#  bin/expand_sets.py 1919 1920 1921 1922 1923 1924 1925 1926 1927 1928 1929 1930 1931
+
+# Death Knight, Demon Hunter, Warlock
+237589: # Dreadful Foreboding Beaker [head]
+  - 237628 # Hollow Sentinel's Stonemask [Death Knight Head]
+  - 237691 # Charhound's Vicious Scalp [Demon Hunter Head]
+  - 237700 # Inquisitor's Portal to Madness [Warlock Head]
+
+237697: # Dreadful Yearning Cursemark [shoulders]
+  - 237626 # Hollow Sentinel's Perches [Death Knight Shoulders]
+  - 237689 # Charhound's Vicious Hornguards [Demon Hunter Shoulders]
+  - 237698 # Inquisitor's Gaze of Madness [Warlock Shoulders]
+
+237581: # Dreadful Voidglass Contaminant [chest]
+  - 237631 # Hollow Sentinel's Breastplate [Death Knight Chest]
+  - 237694 # Charhound's Vicious Bindings [Demon Hunter Chest]
+  - 237703 # Inquisitor's Robes of Madness [Warlock Chest]
+
+237585: # Dreadful Binding Agent [hands]
+  - 237629 # Hollow Sentinel's Gauntlets [Death Knight Hands]
+  - 237692 # Charhound's Vicious Felclaws [Demon Hunter Hands]
+  - 237701 # Inquisitor's Clutches of Madness [Warlock Hands]
+
+237593: # Dreadful Silken Offering [legs]
+  - 237627 # Hollow Sentinel's Stonekilt [Death Knight Legs]
+  - 237690 # Charhound's Vicious Hidecoat [Demon Hunter Legs]
+  - 237699 # Inquisitor's Leggings of Madness [Warlock Legs]
+
+# Druid, Hunter Mage
+237590: # Mystic Foreboding Beaker [head]
+  - 237682 # Skymane of the Mother Eagle [Druid Head]
+  - 237646 # Midnight Herald's Cowl [Hunter Head]
+  - 237718 # Augur's Ephemeral Wide-Brim [Mage Head]
+
+237698: # Mystic Yearning Cursemark [shoulders]
+  - 237680 # Ritual Pauldrons of the Mother Eagle [Druid Shoulders]
+  - 237644 # Midnight Herald's Shadowguards [Hunter Shoulders]
+  - 237716 # Augur's Ephemeral Orbs of Power [Mage Shoulders]
+
+237582: # Mystic Voidglass Contaminant [chest]
+  - 237685 # Vest of the Mother Eagle [Druid Chest]
+  - 237649 # Midnight Herald's Hauberk [Hunter Chest]
+  - 237721 # Augur's Ephemeral Habiliments [Mage Chest]
+
+237586: # Mystic Binding Agent [hands]
+  - 237683 # Wings of the Mother Eagle [Druid Hands]
+  - 237647 # Midnight Herald's Gloves [Hunter Hands]
+  - 237719 # Augur's Ephemeral Mitts [Mage Hands]
+
+237594: # Mystic Silken Offering [legs]
+  - 237681 # Breeches of the Mother Eagle [Druid Legs]
+  - 237645 # Midnight Herald's Petticoat [Hunter Legs]
+  - 237717 # Augur's Ephemeral Trousers [Mage Legs]
+
+# Paladin, Priest, Shaman
+237591: # Venerated Foreboding Beaker [head]
+  - 237619 # Lightmane of the Lucent Battalion [Paladin Head]
+  - 237709 # Dying Star's Veil [Priest Head]
+  - 237637 # Aspect of Channeled Fury [Shaman Head]
+
+237599: # Venerated Yearning Cursemark [shoulders]
+  - 237617 # Chargers of the Lucent Battalion [Paladin Shoulders]
+  - 237707 # Dying Star's Pyrelights [Priest Shoulders]
+  - 237635 # Fangs of Channeled Fury [Shaman Shoulders]
+
+237583: # Venerated Voidglass Contaminant [chest]
+  - 237622 # Cuirass of the Lucent Battalion [Paladin Chest]
+  - 237712 # Dying Star's Cassock [Priest Chest]
+  - 237640 # Furs of Channeled Fury [Shaman Chest]
+
+237587: # Venerated Binding Agent [hands]
+  - 237620 # Protectors of the Lucent Battalion [Paladin Hands]
+  - 237710 # Dying Star's Caress [Priest Hands]
+  - 237638 # Claws of Channeled Fury [Shaman Hands]
+
+237595: # Venerated Silken Offering [legs]
+  - 237618 # Cuisses of the Lucent Battalion [Paladin Legs]
+  - 237708 # Dying Star's Leggings [Priest Legs]
+  - 237636 # Tassets of Channeled Fury [Shaman Legs]
+
+# Evoker, Monk, Rogue, Warrior
+237592: # Zenith Foreboding Beaker [head]
+  - 237655 # Spellweaver's Immaculate Focus [Evoker Head]
+  - 237673 # Half-Mask of Fallen Storms [Monk Head]
+  - 237664 # Hood of the Sudden Eclipse [Rogue Head]
+  - 237610 # Living Weapon's Faceshield [Warrior Head]
+
+237600: # Zenith Yearning Cursemark [shoulders]
+  - 237653 # Spellweaver's Immaculate Pauldrons [Evoker Shoulders]
+  - 237671 # Glyphs of Fallen Storms [Monk Shoulders]
+  - 237662 # Smokemantle of the Sudden Eclipse [Rogue Shoulders]
+  - 237608 # Living Weapon's Ramparts [Warrior Shoulders]
+
+237584: # Zenith Voidglass Contaminant [chest]
+  - 237658 # Spellweaver's Immaculate Crestward [Evoker Chest]
+  - 237676 # Gi of Fallen Storms [Monk Chest]
+  - 237667 # Tactical Vest of the Sudden Eclipse [Rogue Chest]
+  - 237613 # Living Weapon's Bulwark [Warrior Chest]
+
+237588: # Zenith Binding Agent [hands]
+  - 237656 # Spellweaver's Immaculate Scaleguards [Evoker Hands]
+  - 237674 # Grasp of Fallen Storms [Monk Hands]
+  - 237665 # Deathgrips of the Sudden Eclipse [Rogue Hands]
+  - 237611 # Living Weapon's Crushers [Warrior Hands]
+
+237596: # Zenith Silken Offering [legs]
+  - 237654 # Spellweaver's Immaculate Runeslacks [Evoker Legs]
+  - 237672 # Legwraps of Fallen Storms [Monk Legs]
+  - 237663 # Pants of the Sudden Eclipse [Rogue Legs]
+  - 237609 # Living Weapon's Legguards [Warrior Legs]
