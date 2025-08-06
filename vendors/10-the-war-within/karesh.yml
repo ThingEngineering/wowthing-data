@@ -1,0 +1,5 @@
+name: "K'aresh"
+vendorMaps:
+  - "10-the-war-within/karesh"
+vendorTags:
+  - "zone:karesh"
