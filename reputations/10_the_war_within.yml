@@ -2,6 +2,19 @@ name: "The War Within"
 minimumLevel: 70
 reputations:
 
+# 11.2
+-
+  - both:
+      id: 2736 # Manaforge Vandals
+      icon: "achievement/60940" # Vandals! In! Space!
+      iconText: "Vand"
+
+-
+  - both:
+      id: 2658 # The K'aresh Trust
+      icon: "achievement/42022" # A Trusted Partner
+      iconText: "Trust"
+
 # 11.1.5
 -
   - both:
@@ -13,7 +26,7 @@ reputations:
 -
   - both:
       id: 2685 # Gallagio Loyalty Rewards Club
-      icon: "item/229940" # Flarendo the Furious
+      icon: "achievement/60939" # Bringing Down the House
       iconText: "Gal"
 
 -
@@ -101,3 +114,8 @@ reputations:
       id: 2683 # Delves: Season 2
       icon: "achievement/41530" # My New Nemesis
       iconText: "S2"
+
+  - both:
+      id: 2722 # Delves: Season 3
+      icon: "achievement/" # 
+      iconText: "S3"
