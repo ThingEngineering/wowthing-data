@@ -1,0 +1,87 @@
+name: "11.2 Quests"
+groups:
+
+- name: "The Knife's Edge"
+  icon: "achievement/41970"
+  iconText: "Knife"
+  lookup: none
+  type: questline
+  data:
+    0:
+      # campaign 271
+      - id: 5690 # A Shadowy Invitation
+
+      - id: 5733 # Void Alliance
+
+      - id: 5717 # Desert Power
+
+      - id: 5696 # Shadows En Garde
+
+      - id: 5734 # The Light of K'aresh
+
+- name: "Diving Into Phase Diving"
+  icon: "achievement/42731"
+  iconText: "Phase"
+  lookup: none
+  type: quest
+  data:
+    0:
+      - id: 89343 # The Untethered Void
+      - id: 89344 # What Doesn't See You
+      - id: 89345 # The Untethered Horror
+      - id: 89561 # Wrapped Up
+
+- name: separator
+
+- name: "Sojourner of K'aresh"
+  icon: "achievement/42739"
+  iconText: "Soj"
+  lookup: none
+  type: questline
+  data:
+    0:
+      - id: 5683 # Of Boughs and Bonds
+ 
+      - id: 5703 # On a Technicality
+ 
+      - id: 5770 # In Search of Darkness
+ 
+      - id: 5953 # Untethered Potential
+ 
+      #- id: 85009 # Chasing Echoes ???
+ 
+      - id: 5906 # Avoiding the Void
+ 
+      - id: 5970 # Priest of the Old Ways
+ 
+      - id: 5699 # That Tazavesh Taste
+ 
+      - id: 5695 # Lost and Found Storage
+ 
+      - id: 5735 # Anyway, Here's Firewall
+ 
+      - id: 5715 # A Stranger's Gift
+
+- name: "Otherworldly Ecologist"
+  icon: "achievement/41808"
+  iconText: "Eco"
+  lookup: none
+  type: questline
+  data:
+    0:
+      # campaign 283
+      - id: 5693 # The Bees Knees
+
+      - id: 5705 # Roaming Free
+
+      - id: 5742 # Fox-strut
+
+      - id: 5779 # Lil' Lapbugs
+
+      - id: 5763 # Rays of Sunshine
+
+      - id: 5744 # Nesingwary Necessities
+
+      - id: 5782 # Hard K'arroc
+
+      - id: 5791 # A Slither of Snakes

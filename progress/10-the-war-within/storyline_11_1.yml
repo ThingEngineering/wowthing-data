@@ -18,12 +18,3 @@ groups:
       - id: 5668 # Ignite the Fuel of Change
 
       - id: 5694 # Homecoming
-
-- name: "Gallywix"
-  icon: "achievement/41297" # Cutting Edge: Chrome King Gallywix
-  iconText: "Gally"
-  lookup: none
-  type: quest
-  data:
-    0:
-      - id: 86204
