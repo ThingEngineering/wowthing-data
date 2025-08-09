@@ -19,17 +19,34 @@ groups:
 
       - id: 5734 # The Light of K'aresh
 
-- name: "Diving Into Phase Diving"
-  icon: "achievement/42731"
-  iconText: "Phase"
+- name: "Reshii Wraps"
+  icon: "item/235499"
+  iconText: "Wraps"
   lookup: none
-  type: quest
+  minimumLevel: 80
+  type: mixed
   data:
     0:
-      - id: 89343 # The Untethered Void
-      - id: 89344 # What Doesn't See You
-      - id: 89345 # The Untethered Horror
-      - id: 89561 # Wrapped Up
+      - type: item
+        id: 235499 # Reshii Wraps
+      
+      # Seems account-wide
+      # - type: quest
+      #   id: 90955
+      #   name: "Rank 2 Upgrade"
+
+# Account-wide
+# - name: "Diving Into Phase Diving"
+#   icon: "achievement/42731"
+#   iconText: "Phase"
+#   lookup: none
+#   type: quest
+#   data:
+#     0:
+#       - id: 89343 # The Untethered Void
+#       - id: 89344 # What Doesn't See You
+#       - id: 89345 # The Untethered Horror
+#       - id: 89561 # Wrapped Up
 
 - name: separator
 
