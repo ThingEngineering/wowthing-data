@@ -3,7 +3,7 @@ things:
     type: "npc"
     name: "Korgoth the Hungerer"
     reset: "weekly"
-    trackingQuestId: 91309
+    trackingQuestId: 84993 # 91309?
 
     locations:
       here: # karesh

@@ -1,0 +1,20 @@
+things:
+  - id: 232108
+    type: "npc"
+    name: "Morgil the Netherspawn"
+    reset: "daily"
+    trackingQuestId: 90588
+
+    locations:
+      here: # karesh
+        - 56.1 52.7
+
+    contents:
+
+      - id: 244915 # Jimmy [pet]
+
+      - id: 239450 # Reshii Magi's Gloves [cloth hands]
+
+      - id: 239457 # Reshii Scout's Soles [leather feet]
+
+      - id: 239472 # Reshii Brute's Breastplate [plate chest]

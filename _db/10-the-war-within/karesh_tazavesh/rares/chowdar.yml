@@ -7,7 +7,7 @@ things:
     trackingQuestId: 90587
 
     locations:
-      10-the-war-within/tazavesh_the_veiled_market: # tazavesh
+      10-the-war-within/tazavesh: # tazavesh
         - 81.9 75.6
         - 76.5 76.8
         - 72.8 84.2

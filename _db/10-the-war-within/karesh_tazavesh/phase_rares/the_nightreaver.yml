@@ -3,7 +3,7 @@ things:
     type: "npc"
     name: "The Nightreaver"
     reset: "daily"
-    trackingQuestId: 
+    trackingQuestId: 90589
 
     locations:
       here: # karesh

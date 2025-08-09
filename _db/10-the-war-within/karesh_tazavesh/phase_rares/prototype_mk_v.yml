@@ -1,0 +1,18 @@
+things:
+  - id: 232182
+    type: "npc"
+    name: "Prototype Mk-V"
+    reset: "daily"
+    trackingQuestId: 90590
+
+    locations:
+      here: # karesh
+        - 45.8 24.2
+
+    contents:
+
+      - id: 239449 # Reshii Magi's Slippers [cloth feet]
+
+      - id: 239464 # Reshii Skirmisher's Brigandine [mail chest]
+
+      - id: 239478 # Reshii Brute's Greatbelt [plate waist]

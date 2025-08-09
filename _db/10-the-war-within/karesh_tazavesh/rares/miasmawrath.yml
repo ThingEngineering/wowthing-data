@@ -3,7 +3,7 @@ things:
     type: "npc"
     name: "Miasmawrath"
     reset: "weekly"
-    trackingQuestId: 91310
+    trackingQuestId: 86447 # 91310?
 
     locations:
       here: # karesh

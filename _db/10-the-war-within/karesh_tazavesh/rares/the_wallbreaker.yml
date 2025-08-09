@@ -3,10 +3,10 @@ things:
     type: "npc"
     name: "The Wallbreaker"
     reset: "weekly"
-    trackingQuestId: 91312
+    trackingQuestId: 86465 # 91312?
 
     locations:
-      10-the-war-within/tazavesh_the_veiled_market: # tazavesh
+      10-the-war-within/tazavesh: # tazavesh
         - 27.5 72.3
 
     contents:

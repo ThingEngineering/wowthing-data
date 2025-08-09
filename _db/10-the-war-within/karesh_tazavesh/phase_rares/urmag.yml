@@ -1,0 +1,21 @@
+things:
+  - id: 232195
+    type: "npc"
+    name: "Urmag"
+    note: "The Terror Below"
+    reset: "daily"
+    trackingQuestId: 90593
+
+    locations:
+      here: # karesh
+        - 70.2 49.7
+
+    contents:
+
+      - id: 246067 # Pearlescent Krolusk [mount]
+
+      - id: 239456 # Reshii Scout's Jerkin [leather chest]
+
+      - id: 239470 # Reshii Skirmisher's Sash [mail waist]
+
+      - id: 239473 # Reshii Brute's Sollerets [plate feet]

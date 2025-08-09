@@ -1,0 +1,18 @@
+things:
+  - id: 232129
+    type: "npc"
+    name: "Shadowhowl"
+    reset: "daily"
+    trackingQuestId: 90583
+
+    locations:
+      here: # karesh
+        - 54.1 49.1
+
+    contents:
+
+      - id: 239452 # Reshii Magi's Leggings [cloth legs]
+
+      - id: 239469 # Reshii Skirmisher's Pauldrons [mail shoulders]
+
+      - id: 239474 # Reshii Brute's Handguards [plate hands]

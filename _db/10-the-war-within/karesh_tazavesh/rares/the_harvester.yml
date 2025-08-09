@@ -3,7 +3,7 @@ things:
     type: "npc"
     name: "The Harvester"
     reset: "weekly"
-    trackingQuestId: 91311
+    trackingQuestId: 86464 # 91311?
 
     locations:
       here: # karesh

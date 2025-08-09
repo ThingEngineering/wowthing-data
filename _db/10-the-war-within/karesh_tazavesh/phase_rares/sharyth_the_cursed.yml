@@ -1,0 +1,18 @@
+things:
+  - id: 232006
+    type: "npc"
+    name: "Sha'ryth the Cursed"
+    reset: "daily"
+    trackingQuestId: 90585
+
+    locations:
+      here: # karesh
+        - 72.3 55.8
+
+    contents:
+
+      - id: 239453 # Reshii Magi's Spines [cloth shoulders]
+
+      - id: 239458 # Reshii Scout's Grips [leather hands]
+
+      - id: 239465 # Reshii Skirmisher's Boots [mail feet]

@@ -1,0 +1,15 @@
+things:
+  - id: 234845
+    type: "npc"
+    name: "Sthaarbs"
+    note: "the Mindroiler"
+    reset: "weekly"
+    trackingQuestId: 91293
+
+    locations:
+      here: # karesh
+        - 74 32.4
+
+    contents:
+
+      - id: 246160 # Sthaarbs's Last Lunch [mount]

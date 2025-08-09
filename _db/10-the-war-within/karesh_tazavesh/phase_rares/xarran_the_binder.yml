@@ -1,0 +1,18 @@
+things:
+  - id: 232199
+    type: "npc"
+    name: "Xarran the Binder"
+    reset: "daily"
+    trackingQuestId: 90584
+
+    locations:
+      here: # karesh
+        - 65.2 49.8
+
+    contents:
+
+      - id: 239451 # Reshii Magi's Crown [cloth head]
+
+      - id: 239463 # Reshii Scout's Bracers [leather wrists]
+
+      - id: 239468 # Reshii Skirmisher's Legguards [mail legs]
