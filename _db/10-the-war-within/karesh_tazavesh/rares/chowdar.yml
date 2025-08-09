@@ -1,0 +1,23 @@
+things:
+  - id: 232098
+    type: "npc"
+    name: "Chowdar"
+    note: "Escaped Auction Parcel #8675308"
+    reset: "daily"
+    trackingQuestId: 90587
+
+    locations:
+      10-the-war-within/tazavesh_the_veiled_market: # tazavesh
+        - 81.9 75.6
+        - 76.5 76.8
+        - 72.8 84.2
+
+    contents:
+
+      - id: 242323 # Chowdar's Favorite Ribbon [toy]
+
+      - id: 239455 # Reshii Magi's Bands [cloth wrists]
+
+      - id: 239460 # Reshii Scout's Breeches [leather legs]
+
+      - id: 239477 # Reshii Brute's Epaulettes [plate shoulders]

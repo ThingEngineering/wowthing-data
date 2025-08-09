@@ -1,0 +1,36 @@
+things:
+  - id: 234970
+    type: "npc"
+    name: "Miasmawrath"
+    reset: "weekly"
+    trackingQuestId: 91310
+
+    locations:
+      here: # karesh
+        - 50.6 54.1
+
+    contents:
+
+      # 0
+
+      - id: 240111 # Reshii Skirmisher's Axe [1h ? axe]
+
+      - id: 240115 # Reshii Brute's Warmace [1h ? mace]
+
+      - id: 240114 # Reshii Skirmisher's Morningstar [1h ? mace]
+
+      - id: 240116 # Reshii Brute's Longsword [1h ? sword]
+
+      - id: 240113 # Reshii Magi's Dagger [? dagger]
+
+      - id: 240112 # Reshii Scout's Blade [? dagger]
+
+      - id: 240118 # Reshii Brute's Spear [polearm]
+
+      - id: 240119 # Reshii Skirmisher's Staff [staff]
+
+      - id: 240117 # Reshii Magi's Wand [wand]
+
+      - id: 240120 # Reshii Magi's Lantern [off-hand]
+
+      - id: 240121 # Reshii Brute's Barrier [shield]

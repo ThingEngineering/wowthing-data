@@ -1,0 +1,20 @@
+things:
+  - id: 232111
+    type: "npc"
+    name: "The Nightreaver"
+    reset: "daily"
+    trackingQuestId: 
+
+    locations:
+      here: # karesh
+        - 52.7 56.5
+
+    contents:
+
+      - id: 245254 # Duskthief [pet]
+
+      - id: 239454 # Reshii Magi's Cord [cloth waist]
+
+      - id: 239467 # Reshii Skirmisher's Cowl [mail head]
+
+      - id: 239479 # Reshii Brute's Vambraces [plate wrists]

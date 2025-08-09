@@ -4,7 +4,7 @@ things:
     name: "Shad'anis"
 
     locations:
-      here:
+      here: # karesh
         - 50.4 36.2
     
     groups:

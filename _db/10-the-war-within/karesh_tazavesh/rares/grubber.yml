@@ -1,0 +1,22 @@
+things:
+  - id: 238540
+    type: "npc"
+    name: "Grubber"
+    reset: "weekly"
+    trackingQuestId: 90698
+
+    locations:
+      10-the-war-within/tazavesh_the_veiled_market: # tazavesh
+        - 71.2 57.2
+
+    contents:
+
+      - id: 239454 # Reshii Magi's Cord [cloth waist]
+
+      - id: 239463 # Reshii Scout's Bracers [leather wrists]
+
+      - id: 239469 # Reshii Skirmisher's Pauldrons [mail shoulders]
+
+      - id: 239465 # Reshii Skirmisher's Boots [mail feet]
+
+      - id: 239478 # Reshii Brute's Greatbelt [plate waist]

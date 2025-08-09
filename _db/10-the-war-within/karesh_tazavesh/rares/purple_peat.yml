@@ -1,0 +1,22 @@
+things:
+  - id: 241920
+    type: "npc"
+    name: "Purple Peat"
+    reset: "weekly"
+    trackingQuestId: 90692
+
+    locations:
+      here: # karesh
+        - 42.5 57.5
+
+    contents:
+
+      - id: 239448 # Reshii Magi's Vestments [cloth chest]
+
+      - id: 239459 # Reshii Scout's Hood [leather head]
+
+      - id: 239460 # Reshii Scout's Breeches [leather legs]
+
+      - id: 239466 # Reshii Skirmisher's Gauntlets [mail hands]
+
+      - id: 239472 # Reshii Brute's Breastplate [plate chest]

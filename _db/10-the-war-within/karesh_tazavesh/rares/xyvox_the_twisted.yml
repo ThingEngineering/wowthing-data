@@ -1,0 +1,22 @@
+things:
+  - id: 238384
+    type: "npc"
+    name: "Xy'vox the Twisted"
+    reset: "daily"
+    trackingQuestId: 90694
+
+    locations:
+      here: # karesh
+        - 31.2 57.8
+
+    contents:
+
+      - id: 239455 # Reshii Magi's Bands [cloth wrists]
+
+      - id: 239461 # Reshii Scout's Shoulderpads [leather shoulders]
+
+      - id: 239457 # Reshii Scout's Soles [leather feet]
+
+      - id: 239470 # Reshii Skirmisher's Sash [mail waist]
+
+      - id: 239479 # Reshii Brute's Vambraces [plate wrists]

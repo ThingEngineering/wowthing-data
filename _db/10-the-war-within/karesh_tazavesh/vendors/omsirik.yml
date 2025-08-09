@@ -5,7 +5,7 @@ things:
     note: "Renown Quartermaster"
 
     locations:
-      here: # tazavesh
+      10-the-war-within/tazavesh_the_veiled_market:
         - 40.6 29
 
     contents:

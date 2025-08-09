@@ -1,0 +1,17 @@
+things:
+  - id: 245998
+    type: "npc"
+    name: "Heka'tamos"
+    note: "the Elemental Disjunction"
+    reset: "daily"
+    trackingQuestId: 91276
+
+    locations:
+      here: # karesh
+        - 75.2 31.0
+
+    contents:
+
+      - id: 245272 # Heka'Tarnos, Bringer of Discord [pet]
+
+      - id: 244495 # Worn Shadowguard Striker's Gauntlets [mail hands]

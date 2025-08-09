@@ -1,0 +1,15 @@
+things:
+  - id: 245997
+    type: "npc"
+    name: "Malek'ta"
+    note: "The Jaws of Oblivion"
+    reset: "daily"
+    trackingQuestId: 91275
+
+    locations:
+      here: # karesh
+        - 54.1 58.8
+
+    contents:
+
+      - id: 245214 # Palek'ti, the Mouth of Nothingness [pet]
