@@ -19,15 +19,15 @@ things:
     contents:
       - id: 242730 # Acidic Void Creeper [mount]
         costs:
-          3303: 3 # Untethered Coin
+          3303: 7 # Untethered Coin
 
       - id: 242717 # Lavender K'arroc [mount]
         costs:
-          3303: 3 # Untethered Coin
+          3303: 10 # Untethered Coin
 
       - id: 244910 # Penumbral Terror [pet]
         costs:
-          3303: 3 # Untethered Coin
+          3303: 4 # Untethered Coin
 
       - id: 246907 # Broker Supply Crate [toy]
         costs:
@@ -51,24 +51,24 @@ things:
 
       - id: 250442 # Ensemble: Ancient Capes of the Reshii
         costs:
-          3303: 3 # Untethered Coin
+          3303: 5 # Untethered Coin
 
       - id: 250441 # Ensemble: Shoulderguards of the Wastelander Seer
         costs:
-          3303: 3 # Untethered Coin
+          3303: 5 # Untethered Coin
 
       - id: 248996 # Ensemble: Untethered Blade's Garb
         costs:
-          3303: 3 # Untethered Coin
+          3303: 5 # Untethered Coin
 
       - id: 248998 # Ensemble: Untethered Captain's Full-Plate
         costs:
-          3303: 3 # Untethered Coin
+          3303: 5 # Untethered Coin
 
       - id: 248995 # Ensemble: Untethered Seer's Vestiture
         costs:
-          3303: 3 # Untethered Coin
+          3303: 5 # Untethered Coin
 
       - id: 248997 # Ensemble: Untethered Striker's Gear
         costs:
-          3303: 3 # Untethered Coin
+          3303: 5 # Untethered Coin
