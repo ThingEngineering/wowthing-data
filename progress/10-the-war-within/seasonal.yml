@@ -80,15 +80,7 @@ groups:
 
       - type: quest
         id: 91031 # Pushing it to the Limit
-        description: "Upgrades belt to item level ???"
-
-      # - type: quest
-      #   id: 91033 # Monitoring 'Construct'ing
-      #   description: "Upgrades belt to item level ???"
-
-      # - type: quest
-      #   id: 91035 # Construct De-Escalation
-      #   description: "Upgrades belt to item level ???"
+        description: "Upgrades belt to item level 701"
 
       - name: separator
       
