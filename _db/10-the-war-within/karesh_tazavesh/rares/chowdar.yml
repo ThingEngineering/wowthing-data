@@ -7,6 +7,8 @@ things:
     trackingQuestId: 90587
 
     locations:
+      here: # karesh
+        - 71.7 85.9
       10-the-war-within/tazavesh: # tazavesh
         - 81.9 75.6
         - 76.5 76.8

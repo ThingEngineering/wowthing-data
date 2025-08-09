@@ -5,6 +5,8 @@ things:
     note: "Renown Quartermaster"
 
     locations:
+      here: # karesh
+        - 64.5 74
       10-the-war-within/tazavesh:
         - 40.6 29
 
