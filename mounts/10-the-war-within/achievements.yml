@@ -7,14 +7,19 @@ groups:
     - 2190 # Shadow of Doubt (Meta)
     - 2181 # Swarmite Skyhunter (Khaz Algar Glyph Hunter)
     - 2332 # The Breaker's Song (Isle Remember You)
+    - 2655 # Phase-Lost Slateback (Phase-Lost-And-Found)
+    - 2511 # Terror of the Night (Vigilante)
+    - 2602 # Translocated Gorger (Combine 20 Devoured Energy-Pod)
 
 - name: "Instances"
   things:
     - 2230 # Ivory Goliathus (Glory of the Delver)
-    - 2480 # Crimson Shreddertank (KSM Season 2)
-    - 2508 # Enterprising Shreddertank (KSL Season 2)
+    - 2633 # Azure Void Flyer (KSM Season 3)
+    - 2631 # Scarlet Void Flyer (KSL Season 3)
     - 2180 # Shadowed Swarmite (Glory of the Nerub-ar Raider)
     - 2313 # Junkmaestro's Magnetomech (Glory of the Liberation of Undermine Raider)
+    - 2549 # Umbral K'aaroc (Glory of the Omega Raider)
+    - 2606 # Royal Voidwing (Ahead of the Curve: Dimensius, the All Devouring)
 
 - name: "PvP"
   things:

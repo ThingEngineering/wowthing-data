@@ -4,6 +4,7 @@ groups:
 - name: "Delves"
   things:
     - 2296 # Delver's Gob-Trotter (I Want My Hat Back quest)
+    - 2512 # Devler's Mana-Skimmer (Repossessed!)
 
 - name: "Dungeons"
   things:
@@ -16,6 +17,7 @@ groups:
     - 2223 # Ascendant Skyrazor (Mythic Queen Ansurek, Nerub-ar Palace)
     - 2507 # Prototype A.S.M.R. (Chrome King Gallywix, Liberation of Undermine)
     - 2487 # The Big G (Mythic Chrome King Gallywix, Liberation of Undermine)
+    - 2569 # Unbound Star-Eater (Mythic Dimensius, Manaforge Omega)
 
 - name: "Visions"
   things:

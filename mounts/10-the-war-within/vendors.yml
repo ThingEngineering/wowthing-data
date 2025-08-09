@@ -20,3 +20,8 @@ groups:
   things:
     - 2501 # Corruption of the Aspects (40,000)
     - 1321 # Wicked Swarmer (20,000)
+
+- name: "K'aresh"
+  things:
+    - 2557 # Acidic Void Creeper (7 Untethered Coin)
+    - 2552 # Lavender K'aaroc (10 Untethered Coin)

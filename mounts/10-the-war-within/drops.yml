@@ -25,3 +25,9 @@ groups:
   things:
     - 2293 # Darkfuse Spy-Eye (Darkfuse Precipitant)
     - 2291 # Salvaged Goblin Gazillionaire's Flying Machine (S.C.R.A.P pile > Gallagio Garbage)
+
+- name: "K'aresh"
+  things:
+    - 2601 # Pearlescent Krolusk (Urmag)
+    - 2603 # Sthaarb's Last Lunch (Sthaarbs)
+

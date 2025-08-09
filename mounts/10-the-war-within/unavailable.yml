@@ -8,3 +8,5 @@ groups:
 - name: "Mythic+"
   things:
     - 2244 # Diamond Mechsuit (KSM Season 1)
+    - 2480 # Crimson Shreddertank (KSM Season 2)
+    - 2508 # Enterprising Shreddertank (KSL Season 2)

@@ -72,3 +72,14 @@ groups:
     - 2279 # Thunderdrum Misfire (Renown 8)
     - 2276 # Darkfuse Chompactor (Renown 17)
     - 2278 # Flarendo the Furious (Renown 20)
+
+- name: "The K'aresh Trust"
+  things:
+    - 2560 # Blue Barry (Renown 9)
+    - 2556 # Ruby Void Creeper (Renown 15)
+    - 2510 # Terror of the Wastes (Renown 19)
+
+- name: "Manaforge Vandals"
+  things:
+    - 1483 # Vandal's Gearglider (Renown 8)
+    - 2555 # The Bone Freezer (Renown 14)
