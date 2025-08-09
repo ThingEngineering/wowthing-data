@@ -1,0 +1,22 @@
+things:
+  - id: 238319
+    type: "npc"
+    name: "Reshanor"
+    note: "The Untethered"
+    reset: "weekly"
+    trackingQuestId: 87354
+
+    locations:
+      here: # karesh
+        - 71.8 48.7
+
+    contents:
+
+      - id: 243038 # Gaze of the Untethered Doom [cloth shoulders]
+      - id: 243039 # Devoured Magi's Cinch [cloth waist]
+      - id: 243040 # Crystalblight Legguards [leather legs]
+      - id: 243041 # Umbral Stalker's Footpads [leather feet]
+      - id: 243042 # Void-Bound Hauberk [mail chest]
+      - id: 243043 # Shadowguard's Rift Wrap [mail waist]
+      - id: 243044 # Feasting Fiend's Barbute [plate head]
+      - id: 243045 # Bygone Wastelander's Girdle [plate waist]
