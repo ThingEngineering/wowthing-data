@@ -63,7 +63,7 @@ groups:
   type: quest
   data:
     0:
-      - id: 91780 # Ethereal Delves
+      # - id: 91780 # Ethereal Delves (weird breadcrumb)
       - id: 91781 # Seasonal Reminder
       - id: 91782 # Repossessed!
 
@@ -122,7 +122,7 @@ groups:
         description: "Upgrades belt to item level 701"
 
       - name: separator
-      
+
       - type: "accountquest"
         id: 90953
         name: "Charged Crystal"
