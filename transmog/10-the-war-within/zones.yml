@@ -172,6 +172,34 @@ groups:
           - 244527 # Worn Shadowguard Warglaive []
           - 244515 # Worn Shadowguard Warmace []
 
+- name: "K'aresh"
+  type: all
+  sets:
+    - "World Quest Weapons"
+  data:
+    all:
+      - name: "World Quest Weapons"
+        itemsV2:
+          - 243549 # Wastelander's Gilded Bastion []
+          - 243543 # Wastelander's Gilded Bident []
+          - 243547 # Wastelander's Gilded Blade []
+          - 243541 # Wastelander's Gilded Blaster []
+          - 243533 # Wastelander's Gilded Carver []
+          - 243548 # Wastelander's Gilded Censer []
+          - 243534 # Wastelander's Gilded Chopper []
+          - 243532 # Wastelander's Gilded Cleaver []
+          - 243539 # Wastelander's Gilded Falchion []
+          - 243546 # Wastelander's Gilded Greatsword []
+          - 243536 # Wastelander's Gilded Kris []
+          - 243540 # Wastelander's Gilded Longsword []
+          - 243537 # Wastelander's Gilded Mace []
+          - 243544 # Wastelander's Gilded Pole []
+          - 243542 # Wastelander's Gilded Spear []
+          - 243545 # Wastelander's Gilded Staff []
+          - 243535 # Wastelander's Gilded Stiletto []
+          - 243538 # Wastelander's Gilded Warmace []
+          - 243550 # Wastelander's Gilded Warglaive []
+
 - name: "Undermine"
   type: armor
   sets:
