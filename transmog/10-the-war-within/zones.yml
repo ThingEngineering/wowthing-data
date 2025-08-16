@@ -94,6 +94,84 @@ groups:
       - transmogSetId: 5196
         wowheadSetId:
 
+- name: "K'aresh"
+  type: armor
+  sets:
+    - "World Drop Armor"
+  data:
+    cloth:
+      - name: "Worn Shadowguard Seer"
+        itemsV2:
+          - 244480 # Worn Shadowguard Seer's Crown [cloth head]
+          - 244482 # Worn Shadowguard Seer's Spines [cloth shoulders]
+          - 244477 # Worn Shadowguard Seer's Vestments [cloth chest]
+          - 244484 # Worn Shadowguard Seer's Bands [cloth wrists]
+          - 244479 # Worn Shadowguard Seer's Gloves [cloth hands]
+          - 244483 # Worn Shadowguard Seer's Cord [cloth waist]
+          - 244481 # Worn Shadowguard Seer's Leggings [cloth legs]
+          - 244478 # Worn Shadowguard Seer's Slippers [cloth feet]
+    leather:
+      - name: "Worn Shadowguard Blade"
+        itemsV2:
+          - 244488 # Worn Shadowguard Blade's Hood [leather head]
+          - 244490 # Worn Shadowguard Blade's Shoulderpads [leather shoulders]
+          - 244485 # Worn Shadowguard Blade's Jerkin [leather chest]
+          - 244492 # Worn Shadowguard Blade's Bracers [leather wrists]
+          - 244487 # Worn Shadowguard Blade's Grips [leather hands]
+          - 244491 # Worn Shadowguard Blade's Belt [leather waist]
+          - 244489 # Worn Shadowguard Blade's Breeches [leather legs]
+          - 244486 # Worn Shadowguard Blade's Soles [leather feet]
+    mail:
+      - name: "Worn Shadowguard Striker"
+        itemsV2:
+          - 244496 # Worn Shadowguard Striker's Cowl [mail head]
+          - 244498 # Worn Shadowguard Striker's Pauldrons [mail shoulders]
+          - 244493 # Worn Shadowguard Striker's Brigandine [mail chest]
+          - 244500 # Worn Shadowguard Striker's Armguards [mail wrists]
+          - 244495 # Worn Shadowguard Striker's Gauntlets [mail hands]
+          - 244499 # Worn Shadowguard Striker's Sash [mail waist]
+          - 244497 # Worn Shadowguard Striker's Legguards [mail legs]
+          - 244494 # Worn Shadowguard Striker's Boots [mail feet]
+    plate:
+      - name: "Worn Shadowguard Captain"
+        itemsV2:
+          - 244504 # Worn Shadowguard Captain's Helmet [plate head]
+          - 244506 # Worn Shadowguard Captain's Epaulettes [plate shoulders]
+          - 244501 # Worn Shadowguard Captain's Breastplate [plate chest]
+          - 244508 # Worn Shadowguard Captain's Vambraces [plate wrists]
+          - 244503 # Worn Shadowguard Captain's Handguards [plate hands]
+          - 244507 # Worn Shadowguard Captain's Greatbelt [plate waist]
+          - 244505 # Worn Shadowguard Captain's Greaves [plate legs]
+          - 244502 # Worn Shadowguard Captain's Sollerets [plate feet]
+
+- name: "K'aresh"
+  type: all
+  sets:
+    - "World Drop Weapons"
+  data:
+    all:
+      - name: "World Drop Weapons"
+        itemsV2:
+          - 244526 # Worn Shadowguard Bastion []
+          - 244520 # Worn Shadowguard Bident []
+          - 244524 # Worn Shadowguard Blade []
+          - 244518 # Worn Shadowguard Blaster []
+          - 244510 # Worn Shadowguard Carver []
+          - 244525 # Worn Shadowguard Censer []
+          - 244511 # Worn Shadowguard Chopper []
+          - 244509 # Worn Shadowguard Cleaver []
+          - 244516 # Worn Shadowguard Falchion []
+          - 244523 # Worn Shadowguard Greatsword []
+          - 244513 # Worn Shadowguard Kris []
+          - 244517 # Worn Shadowguard Longsword []
+          - 244514 # Worn Shadowguard Mace []
+          - 244521 # Worn Shadowguard Pole []
+          - 244519 # Worn Shadowguard Spear []
+          - 244522 # Worn Shadowguard Staff []
+          - 244512 # Worn Shadowguard Stiletto []
+          - 244527 # Worn Shadowguard Warglaive []
+          - 244515 # Worn Shadowguard Warmace []
+
 - name: "Undermine"
   type: armor
   sets:
