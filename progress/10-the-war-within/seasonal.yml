@@ -1,48 +1,87 @@
 name: "Seasonal"
 groups:
 
-- name: "Season 1"
-  icon: "achievement/40723" # Web-Wrapped in the Finest Silks
-  iconText: "S1"
+# - name: "Season 1"
+#   icon: "achievement/40723" # Web-Wrapped in the Finest Silks
+#   iconText: "S1"
+#   lookup: none
+#   minimumLevel: 80
+#   type: quest
+#   data:
+#     0:
+#       - id: 81595 # Seasonal Start
+#       - id: 81596 # Delve Hunter
+#       - id: 83500 # Zekvir, Hand of the Harbinger
+
+# - name: "Season 2"
+#   icon: "achievement/41665" # Dressed to the Mines
+#   iconText: "S2"
+#   lookup: none
+#   minimumLevel: 80
+#   type: quest
+#   data:
+#     0:
+#       - id: 86369 # A Sparkling Fortune
+#         description: "{price:1|1230905}" # Fractured Spark of Fortunes
+
+#       - id: 90660 # A Golden Circumstance
+#         description: "{price:1|1230905}" # Fractured Spark of Fortunes
+
+#       - name: separator
+
+#       - id: 85242 # Seasonal Refresher
+#         name: "Seasonal Refresher"
+
+#       - id: 85243 # I Want My Hat Back
+#         name: "I Want My Hat Back"
+
+#       - id: 85244 # Defeating the Underpin
+#         name: "Defeating the Underpin"
+
+- name: "Season 3 Upgrades"
+  icon: "currency/3008" # Valorstone
+  iconText: "Up"
   lookup: none
   minimumLevel: 80
   type: quest
   data:
     0:
-      - id: 81595 # Seasonal Start
-      - id: 81596 # Delve Hunter
-      - id: 83500 # Zekvir, Hand of the Harbinger
+      - id: 86363 # The Better Part of Valorstones
+        description: "{price:100|3008}" # Valorstone
 
-- name: "Season 2"
-  icon: "achievement/41665" # Dressed to the Mines
-  iconText: "S2"
+      - id: 86364 # Crests from the Ether
+        description: "{price:100|3008}" # Valorstone
+
+      - id: 86365 # Crest Transmutation
+        description: "{price:15|3284}" # Weathered Ethereal Crest
+
+- name: "Season 3 Delves"
+  icon: "achievement/42193" # My Stab-Happy Nemesis
+  iconText: "Delve"
   lookup: none
   minimumLevel: 80
   type: quest
   data:
     0:
-      - id: 86396 # The Better Part of Valorstones
-      - id: 86399 # Don't Undermine the Crests
-      - id: 86401 # Crest Transmutation
+      - id: 91780 # Ethereal Delves
+      - id: 91781 # Seasonal Reminder
+      - id: 91782 # Repossessed!
 
-      - name: separator
+      - id: 91089 # Defeating Ky'veza
+        description: "Rewards {item:244470} toy"
 
-      - id: 86369 # A Sparkling Fortune
-        description: "{price:1|1230905}" # Fractured Spark of Fortunes
+- name: "Season 3 Mythic+"
+  icon: "item/251543" # Cracked Keystone
+  iconText: "M+"
+  lookup: none
+  minimumLevel: 80
+  type: quest
+  data:
+    0:
+      - id: 90779 # Cracked Keystone
+        description: "{price:15|3289} + {price:15|3290}"
 
-      - id: 90660 # A Golden Circumstance
-        description: "{price:1|1230905}" # Fractured Spark of Fortunes
-
-      - name: separator
-
-      - id: 85242 # Seasonal Refresher
-        name: "Seasonal Refresher"
-
-      - id: 85243 # I Want My Hat Back
-        name: "I Want My Hat Back"
-
-      - id: 85244 # Defeating the Underpin
-        name: "Defeating the Underpin"
+- name: separator
 
 - name: "Counterfeit Dealer's Chip"
   icon: "item/237578"
