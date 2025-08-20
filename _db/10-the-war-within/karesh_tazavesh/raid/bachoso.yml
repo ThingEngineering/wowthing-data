@@ -1,0 +1,70 @@
+things:
+  - id: 245348
+    type: "vendor"
+    name: "Ba'choso"
+    note: "Curious Curator"
+
+    locations:
+      here: # karesh
+        - 42 22.4
+
+    groups:
+      - name: "Raid - Ensembles"
+        range: -1
+        sortKey: "z-raid-0"
+
+    contents:
+
+      # 0
+
+      - id: 248977 # Ensemble: Augur's Ephemeral Brilliance
+        costs:
+          1245510: 1
+
+      - id: 248978 # Ensemble: Breeze of Fallen Storms
+        costs:
+          1245510: 1
+
+      - id: 248981 # Ensemble: Capes of the Sudden Eclipse
+        costs:
+          1245510: 1
+
+      - id: 248979 # Ensemble: Gilded Cloaks of the Lucent Battalion
+        costs:
+          1245510: 1
+
+      - id: 248969 # Ensemble: Hollow Sentinel's Wingdrapes
+        costs:
+          1245510: 1
+
+      - id: 248983 # Ensemble: Inquisitor's All-Seeing Madness
+        costs:
+          1245510: 1
+
+      - id: 248984 # Ensemble: Living Weapon's Capes
+        costs:
+          1245510: 1
+
+      - id: 248980 # Ensemble: Memories of a Dying Star
+        costs:
+          1245510: 1
+
+      - id: 248976 # Ensemble: Midnight Herald's Shrouds
+        costs:
+          1245510: 1
+
+      - id: 248972 # Ensemble: Plumes of the Mother Eagle
+        costs:
+          1245510: 1
+
+      - id: 248982 # Ensemble: Shawls of Channeled Fury
+        costs:
+          1245510: 1
+
+      - id: 248973 # Ensemble: Spellweaver's Immaculate Runecloaks
+        costs:
+          1245510: 1
+
+      - id: 248971 # Ensemble: Vicious Charhound's Felcovers
+        costs:
+          1245510: 1

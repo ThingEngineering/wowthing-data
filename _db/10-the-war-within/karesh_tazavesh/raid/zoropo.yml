@@ -1,0 +1,341 @@
+things:
+  - id: 245349
+    type: "vendor"
+    name: "Zo'ropo"
+    note: "Eccentric Engineer"
+
+    locations:
+      here: # karesh
+        - 42 22
+
+    groups:
+
+      - name: "Raid - Weapons [LFR]"
+        range: 18
+        sortKey: "z-raid-1"
+        overrideDifficulty: 17
+
+      - name: "Raid - Weapons [Normal]"
+        range: 18
+        sortKey: "z-raid-2"
+        showNormalTag: true
+        overrideDifficulty: 14
+      
+      - name: "Raid - Weapons [Heroic]"
+        range: 18
+        sortKey: "z-raid-3"
+        overrideDifficulty: 15
+      
+      - name: "Raid - Weapons [Mythic]"
+        range: 18
+        sortKey: "z-raid-4"
+        overrideDifficulty: 16
+      
+      - name: "Raid - Weapons [Shared]"
+        range: -1
+        sortKey: "z-raid-5"
+        overrideDifficulty: 100
+
+    contents:
+
+      # LFR - Gamma
+
+      - id: 249160 # Manaforge Raider's Gamma Hatchet [1h ? axe]
+        costs:
+          1246727: 1
+
+      - id: 249146 # Manaforge Raider's Gamma Plexhammer [1h ? mace]
+        costs:
+          1246727: 1
+
+      - id: 249145 # Manaforge Raider's Gamma Shockmace [1h ? mace]
+        costs:
+          1246727: 1
+
+      - id: 249161 # Manaforge Raider's Gamma Blade [1h ? sword]
+        costs:
+          1246727: 1
+
+      - id: 249148 # Manaforge Raider's Gamma Lightshiv [? dagger]
+        costs:
+          1246727: 1
+
+      - id: 249157 # Manaforge Raider's Gamma Shard [? dagger]
+        costs:
+          1246727: 1
+
+      - id: 249150 # Manaforge Raider's Gamma Warpblade [fist]
+        costs:
+          1246727: 1
+
+      - id: 249156 # Manaforge Raider's Gamma Phaseblade [warglaive]
+        costs:
+          1246727: 1
+
+      - id: 249163 # Manaforge Raider's Gamma Starcrusher [2h ? mace]
+        costs:
+          1246727: 1
+
+      - id: 249154 # Manaforge Raider's Gamma Greatsword [2h ? sword]
+        costs:
+          1246727: 1
+
+      - id: 249147 # Manaforge Raider's Gamma Beamglaive [polearm]
+        costs:
+          1246727: 1
+
+      - id: 249151 # Manaforge Raider's Gamma Spire [staff]
+        costs:
+          1246727: 1
+
+      - id: 249153 # Manaforge Raider's Gamma Staff [staff]
+        costs:
+          1246727: 1
+
+      - id: 249149 # Manaforge Raider's Gamma Recurve [bow]
+        costs:
+          1246727: 1
+
+      - id: 249158 # Manaforge Raider's Gamma Caster [crossbow]
+        costs:
+          1246727: 1
+
+      - id: 249159 # Manaforge Raider's Gamma Baton [off-hand]
+        costs:
+          1246727: 1
+
+      - id: 249155 # Manaforge Raider's Gamma Reactor [off-hand]
+        costs:
+          1246727: 1
+
+      - id: 249152 # Manaforge Raider's Gamma Ward [shield]
+        costs:
+          1246727: 1
+
+      # Normal - Cosmic
+
+      - id: 249209 # Manaforge Raider's Cosmic Hatchet [1h ? axe]
+        costs:
+          1246727: 1
+
+      - id: 249167 # Manaforge Raider's Cosmic Plexhammer [1h ? mace]
+        costs:
+          1246727: 1
+
+      - id: 249164 # Manaforge Raider's Cosmic Shockmace [1h ? mace]
+        costs:
+          1246727: 1
+
+      - id: 249212 # Manaforge Raider's Cosmic Blade [1h ? sword]
+        costs:
+          1246727: 1
+
+      - id: 249173 # Manaforge Raider's Cosmic Lightshiv [? dagger]
+        costs:
+          1246727: 1
+
+      - id: 249200 # Manaforge Raider's Cosmic Shard [? dagger]
+        costs:
+          1246727: 1
+
+      - id: 249179 # Manaforge Raider's Cosmic Warpblade [fist]
+        costs:
+          1246727: 1
+
+      - id: 249197 # Manaforge Raider's Cosmic Phaseblade [warglaive]
+        costs:
+          1246727: 1
+
+      - id: 249215 # Manaforge Raider's Cosmic Starcrusher [2h ? mace]
+        costs:
+          1246727: 1
+
+      - id: 249191 # Manaforge Raider's Cosmic Greatsword [2h ? sword]
+        costs:
+          1246727: 1
+
+      - id: 249170 # Manaforge Raider's Cosmic Beamglaive [polearm]
+        costs:
+          1246727: 1
+
+      - id: 249182 # Manaforge Raider's Cosmic Spire [staff]
+        costs:
+          1246727: 1
+
+      - id: 249188 # Manaforge Raider's Cosmic Staff [staff]
+        costs:
+          1246727: 1
+
+      - id: 249176 # Manaforge Raider's Cosmic Recurve [bow]
+        costs:
+          1246727: 1
+
+      - id: 249203 # Manaforge Raider's Cosmic Caster [crossbow]
+        costs:
+          1246727: 1
+
+      - id: 249206 # Manaforge Raider's Cosmic Baton [off-hand]
+        costs:
+          1246727: 1
+
+      - id: 249194 # Manaforge Raider's Cosmic Reactor [off-hand]
+        costs:
+          1246727: 1
+
+      - id: 249185 # Manaforge Raider's Cosmic Ward [shield]
+        costs:
+          1246727: 1
+
+      # Mythic - Devouring
+
+      - id: 249211 # Manaforge Raider's Devouring Hatchet [1h ? axe]
+        costs:
+          1246727: 1
+
+      - id: 249169 # Manaforge Raider's Devouring Plexhammer [1h ? mace]
+        costs:
+          1246727: 1
+
+      - id: 249166 # Manaforge Raider's Devouring Shockmace [1h ? mace]
+        costs:
+          1246727: 1
+
+      - id: 249214 # Manaforge Raider's Devouring Blade [1h ? sword]
+        costs:
+          1246727: 1
+
+      - id: 249175 # Manaforge Raider's Devouring Lightshiv [? dagger]
+        costs:
+          1246727: 1
+
+      - id: 249202 # Manaforge Raider's Devouring Shard [? dagger]
+        costs:
+          1246727: 1
+
+      - id: 249181 # Manaforge Raider's Devouring Warpblade [fist]
+        costs:
+          1246727: 1
+
+      - id: 249199 # Manaforge Raider's Devouring Phaseblade [warglaive]
+        costs:
+          1246727: 1
+
+      - id: 249217 # Manaforge Raider's Devouring Starcrusher [2h ? mace]
+        costs:
+          1246727: 1
+
+      - id: 249193 # Manaforge Raider's Devouring Greatsword [2h ? sword]
+        costs:
+          1246727: 1
+
+      - id: 249172 # Manaforge Raider's Devouring Beamglaive [polearm]
+        costs:
+          1246727: 1
+
+      - id: 249184 # Manaforge Raider's Devouring Spire [staff]
+        costs:
+          1246727: 1
+
+      - id: 249190 # Manaforge Raider's Devouring Staff [staff]
+        costs:
+          1246727: 1
+
+      - id: 249178 # Manaforge Raider's Devouring Recurve [bow]
+        costs:
+          1246727: 1
+
+      - id: 249205 # Manaforge Raider's Devouring Caster [crossbow]
+        costs:
+          1246727: 1
+
+      - id: 249208 # Manaforge Raider's Devouring Baton [off-hand]
+        costs:
+          1246727: 1
+
+      - id: 249196 # Manaforge Raider's Devouring Reactor [off-hand]
+        costs:
+          1246727: 1
+
+      - id: 249187 # Manaforge Raider's Devouring Ward [shield]
+        costs:
+          1246727: 1
+
+      # Heroic - Umbral
+
+      - id: 249210 # Manaforge Raider's Umbral Hatchet [1h ? axe]
+        costs:
+          1246727: 1
+
+      - id: 249168 # Manaforge Raider's Umbral Plexhammer [1h ? mace]
+        costs:
+          1246727: 1
+
+      - id: 249165 # Manaforge Raider's Umbral Shockmace [1h ? mace]
+        costs:
+          1246727: 1
+
+      - id: 249213 # Manaforge Raider's Umbral Blade [1h ? sword]
+        costs:
+          1246727: 1
+
+      - id: 249174 # Manaforge Raider's Umbral Lightshiv [? dagger]
+        costs:
+          1246727: 1
+
+      - id: 249201 # Manaforge Raider's Umbral Shard [? dagger]
+        costs:
+          1246727: 1
+
+      - id: 249180 # Manaforge Raider's Umbral Warpblade [fist]
+        costs:
+          1246727: 1
+
+      - id: 249198 # Manaforge Raider's Umbral Phaseblade [warglaive]
+        costs:
+          1246727: 1
+
+      - id: 249216 # Manaforge Raider's Umbral Starcrusher [2h ? mace]
+        costs:
+          1246727: 1
+
+      - id: 249192 # Manaforge Raider's Umbral Greatsword [2h ? sword]
+        costs:
+          1246727: 1
+
+      - id: 249171 # Manaforge Raider's Umbral Beamglaive [polearm]
+        costs:
+          1246727: 1
+
+      - id: 249183 # Manaforge Raider's Umbral Spire [staff]
+        costs:
+          1246727: 1
+
+      - id: 249189 # Manaforge Raider's Umbral Staff [staff]
+        costs:
+          1246727: 1
+
+      - id: 249177 # Manaforge Raider's Umbral Recurve [bow]
+        costs:
+          1246727: 1
+
+      - id: 249204 # Manaforge Raider's Umbral Caster [crossbow]
+        costs:
+          1246727: 1
+
+      - id: 249207 # Manaforge Raider's Umbral Baton [off-hand]
+        costs:
+          1246727: 1
+
+      - id: 249195 # Manaforge Raider's Umbral Reactor [off-hand]
+        costs:
+          1246727: 1
+
+      - id: 249186 # Manaforge Raider's Umbral Ward [shield]
+        costs:
+          1246727: 1
+
+      # ???
+
+      - id: 249162 # Manaforge Raider's Tyrant Maul [2h ? mace]
+        costs:
+          1246727: 1
