@@ -48,6 +48,18 @@ groups:
 #       - id: 89345 # The Untethered Horror
 #       - id: 89561 # Wrapped Up
 
+- name: "Dimensius Looms"
+  icon: "achievement/41611"
+  iconText: "Dim"
+  lookup: none
+  minimumLevel: 80
+  type: quest
+  data:
+    0:
+      - type: quest
+        id: 86820 # Manaforge Omega: Dimensius Looms
+        description: "Rewards {item:231769}"
+
 - name: separator
 
 - name: "Sojourner of K'aresh"
