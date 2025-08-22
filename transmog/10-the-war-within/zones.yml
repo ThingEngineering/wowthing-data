@@ -147,37 +147,64 @@ groups:
 - name: "K'aresh"
   type: all
   sets:
+    - "Phase Diving Weapons"
     - "World Drop Weapons"
-  data:
-    all:
-      - name: "World Drop Weapons"
-        itemsV2:
-          - 244526 # Worn Shadowguard Bastion []
-          - 244520 # Worn Shadowguard Bident []
-          - 244524 # Worn Shadowguard Blade []
-          - 244518 # Worn Shadowguard Blaster []
-          - 244510 # Worn Shadowguard Carver []
-          - 244525 # Worn Shadowguard Censer []
-          - 244511 # Worn Shadowguard Chopper []
-          - 244509 # Worn Shadowguard Cleaver []
-          - 244516 # Worn Shadowguard Falchion []
-          - 244523 # Worn Shadowguard Greatsword []
-          - 244513 # Worn Shadowguard Kris []
-          - 244517 # Worn Shadowguard Longsword []
-          - 244514 # Worn Shadowguard Mace []
-          - 244521 # Worn Shadowguard Pole []
-          - 244519 # Worn Shadowguard Spear []
-          - 244522 # Worn Shadowguard Staff []
-          - 244512 # Worn Shadowguard Stiletto []
-          - 244527 # Worn Shadowguard Warglaive []
-          - 244515 # Worn Shadowguard Warmace []
-
-- name: "K'aresh"
-  type: all
-  sets:
     - "World Quest Weapons"
   data:
     all:
+      - name: "Phase Diving Weapons"
+        itemsV2:
+          - 250282 # Phase-Lost Bardiche []
+          - 250288 # Phase-Lost Baselard []
+          - 250281 # Phase-Lost Battleaxe []
+          - 250297 # Phase-Lost Beacon []
+          - 250298 # Phase-Lost Bulwark []
+          - 250273 # Phase-Lost Carver []
+          - 250280 # Phase-Lost Chopper []
+          - 250295 # Phase-Lost Claw []
+          - 250272 # Phase-Lost Cudgel []
+          - 250289 # Phase-Lost Dirk []
+          - 250278 # Phase-Lost Great Mace []
+          - 250276 # Phase-Lost Greatsword []
+          - 250271 # Phase-Lost Hammer []
+          - 250274 # Phase-Lost Hatchet []
+          - 250294 # Phase-Lost Katar []
+          - 250269 # Phase-Lost Longsword []
+          - 250277 # Phase-Lost Maul []
+          - 250299 # Phase-Lost Pavise []
+          - 250300 # Phase-Lost Rod []
+          - 250270 # Phase-Lost Scimitar []
+          - 250285 # Phase-Lost Shillelagh []
+          - 250296 # Phase-Lost Sigil []
+          - 250283 # Phase-Lost Spear []
+          - 250284 # Phase-Lost Spire []
+          - 250301 # Phase-Lost Wand []
+          - 250275 # Phase-Lost Zweihander []
+          - 250287 # Phase-Lost Longbow [bow]
+          - 250286 # Phase-Lost Blunderbuss [gun]
+
+      - name: "World Drop Weapons"
+        itemsV2:
+          - 244510 # Worn Shadowguard Carver [1h int axe]
+          - 244511 # Worn Shadowguard Chopper [1h str axe]
+          - 244509 # Worn Shadowguard Cleaver [1h agi axe]
+          - 244514 # Worn Shadowguard Mace [1h agi mace]
+          - 244515 # Worn Shadowguard Warmace [1h str mace]
+          - 244516 # Worn Shadowguard Falchion [1h agi sword]
+          - 244517 # Worn Shadowguard Longsword [1h str sword]
+          - 244513 # Worn Shadowguard Kris [int dagger]
+          - 244512 # Worn Shadowguard Stiletto [agi dagger]
+          - 244527 # Worn Shadowguard Warglaive [warglaive]
+          - 244524 # Worn Shadowguard Blade [2h str sword]
+          - 244523 # Worn Shadowguard Greatsword [2h int sword]
+          - 244520 # Worn Shadowguard Bident [str polearm]
+          - 244519 # Worn Shadowguard Spear [agi polearm]
+          - 244521 # Worn Shadowguard Pole [agi staff]
+          - 244522 # Worn Shadowguard Staff [int staff]
+          - 244518 # Worn Shadowguard Blaster [gun]
+          - 244525 # Worn Shadowguard Censer [off-hand]
+          - 244526 # Worn Shadowguard Bastion [shield]
+
       - name: "World Quest Weapons"
         itemsV2:
           - 243549 # Wastelander's Gilded Bastion []
