@@ -1,0 +1,11 @@
+things:
+  - type: vendor
+    name: "2025-09"
+    id: 1202509
+
+    groups:
+      - name: "2025-09"
+        range: -1
+        sortKey: "tp-7503" # (100-YY)(12-MM)
+
+    contents:

@@ -25,6 +25,10 @@ things:
         costs:
           2032: 800
 
+      - id: 244226 # Ensemble: Wailing Banshee's Collection
+        costs:
+          2032: 700
+
       - id: 242466 # Ensemble: Lively Sweatsuit
         costs:
           2032: 100
@@ -36,10 +40,6 @@ things:
       - id: 206323 # Ensemble: Vagabond's Plum Threads
         costs:
           2032: 100
-
-      - id: 244226 # Ensemble: Wailing Banshee's Collection
-        costs:
-          2032: 700
 
       - id: 206334 # Ensemble: Wanderer's Plum Trappings
         costs:

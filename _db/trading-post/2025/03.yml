@@ -1,0 +1,148 @@
+things:
+  - type: vendor
+    name: "2025-03"
+    id: 1202503
+
+    groups:
+      - name: "2025-03"
+        range: -1
+        sortKey: "tp-7509" # (100-YY)(12-MM)
+
+    contents:
+      - id: 235650 # Pearlescent Butterfly [mount]
+        costs:
+          2032: 700
+
+      - id: 212229 # Reins of the Twilight Sky Prowler [mount]
+        costs:
+          2032: 750
+
+      - id: 235657 # Ruby Butterfly [mount]
+        costs:
+          2032: 700
+
+      - id: 235646 # Shimmermist Free Runner [mount]
+        costs:
+          2032: 325
+
+      - id: 212523 # Delicate Jade Parasol [toy]
+        costs:
+          2032: 200
+
+      - id: 212222 # Ensemble: Twilight Witch's Attire
+        costs:
+          2032: 750
+
+      - id: 235228 # Ensemble: Ornaments of the Blood Monarch
+        costs:
+          2032: 370
+
+      - id: 230169 # Ensemble: Prowler's Deep Headgear
+        costs:
+          2032: 100
+
+      - id: 235024 # Vigilante's Deep Mask
+        costs:
+          2032: 50
+
+      - id: 234602 # Wings of the Blood Monarch
+        costs:
+          2032: 225
+
+      - id: 234603 # Wings of the Pearlescent Monarch
+        costs:
+          2032: 225
+
+      - id: 230038 # Prowler's Deep Shoulder Cape
+        costs:
+          2032: 75
+
+      - id: 233101 # Long Deep War Skirt
+        costs:
+          2032: 40
+
+      - id: 233140 # Long Deep War Skirt and Leg Wraps
+        costs:
+          2032: 50
+
+      - id: 233123 # Short Deep War Skirt and Leg Wraps
+        costs:
+          2032: 50
+
+      - id: 233084 # Short Deep War Skirt
+        costs:
+          2032: 40
+
+      - id: 233174 # Banded Deep War Slippers
+        costs:
+          2032: 20
+
+      - id: 233157 # Banded Deep War Wraps
+        costs:
+          2032: 20
+
+      - id: 235623 # Ruby Scale Treads
+        costs:
+          2032: 40
+
+      - id: 235624 # Sapphire Scale Treads
+        costs:
+          2032: 40
+
+      # Weapon
+
+      - id: 235655 # Blood Monarch's Longbow
+        costs:
+          2032: 250
+
+      - id: 235272 # Blood Monarch's Mace
+        costs:
+          2032: 250
+
+      - id: 235401 # Blood Monarch's Polearm
+        costs:
+          2032: 300
+
+      - id: 235291 # Blood Monarch's Sword
+        costs:
+          2032: 250
+
+      - id: 235295 # Blood Monarch's Wand
+        costs:
+          2032: 200
+
+      - id: 212376 # Lovely Gothic Longbow
+        costs:
+          2032: 300
+
+      - id: 235652 # Pearlescent Monarch's Longbow
+        costs:
+          2032: 250
+
+      - id: 235270 # Pearlescent Monarch's Mace
+        costs:
+          2032: 250
+
+      - id: 235402 # Pearlescent Monarch's Polearm
+        costs:
+          2032: 300
+
+      - id: 235290 # Pearlescent Monarch's Sword
+        costs:
+          2032: 250
+
+      - id: 235294 # Pearlescent Monarch's Wand
+        costs:
+          2032: 200
+
+      - id: 212378 # Twilight Witch's Gothic Scepter
+        costs:
+          2032: 200
+
+      - id: 212380 # Twilight Witch's Gothic Stave
+        costs:
+          2032: 250
+
+      - id: 238394 # Warblades of the Monarch
+        costs:
+          2032: 250

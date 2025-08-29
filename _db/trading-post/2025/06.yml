@@ -1,0 +1,125 @@
+things:
+  - type: vendor
+    name: "2025-06"
+    id: 1202506
+
+    groups:
+      - name: "2025-06"
+        range: -1
+        sortKey: "tp-7506" # (100-YY)(12-MM)
+
+    contents:
+      - id: 238941 # Coldflame Cormaera [mount]
+        costs:
+          2032: 700
+
+      - id: 221814 # Pearlescent Goblin Wave Shredder [mount]
+        costs:
+          2032: 700
+
+      - id: 236415 # Reins of the Spotted Black Riding Goat [mount]
+        costs:
+          2032: 325
+
+      - id: 223145 # Marrlok [pet]
+        costs:
+          2032: 500
+
+      - id: 218112 # Colorful Beach Chair [toy]
+        costs:
+          2032: 200
+
+      - id: 221542 # Ensemble: Sunny Tropical Beachwear
+        costs:
+          2032: 650
+
+      - id: 222961 # Ensemble: Sunny Tropical Swimwear
+        costs:
+          2032: 650
+
+      - id: 238418 # Ensemble: Coldflame Battlegear
+        costs:
+          2032: 550
+
+      - id: 238438 # Ensemble: Lavaborn Battleplate
+        costs:
+          2032: 550
+
+      - id: 230171 # Ensemble: Prowler's Brick Headgear
+        costs:
+          2032: 100
+
+      - id: 238947 # Arcano-Stone Greathelm
+        costs:
+          2032: 300
+
+      - id: 238950 # Molten Inferno Helm
+        costs:
+          2032: 300
+
+      - id: 235026 # Vigilante's Brick Mask
+        costs:
+          2032: 50
+
+      - id: 230039 # Prowler's Brick Shoulder Cape
+        costs:
+          2032: 75
+
+      - id: 233103 # Long Brick War Skirt
+        costs:
+          2032: 40
+
+      - id: 233142 # Long Brick War Skirt and Leg Wraps
+        costs:
+          2032: 50
+
+      - id: 233086 # Short Brick War Skirt
+        costs:
+          2032: 40
+
+      - id: 233125 # Short Brick War Skirt and Leg Wraps
+        costs:
+          2032: 50
+
+      - id: 233176 # Banded Brick War Slippers
+        costs:
+          2032: 20
+
+      - id: 233159 # Banded Brick War Wraps
+        costs:
+          2032: 20
+
+      # Weapon
+
+      - id: 238397 # Coldflame Chopper
+        costs:
+          2032: 200
+
+      - id: 238892 # Coldflame's Bite
+        costs:
+          2032: 200
+
+      - id: 238951 # Coldflame Burner
+        costs:
+          2032: 150
+
+      - id: 238894 # Lavaborn Barb
+        costs:
+          2032: 200
+
+      - id: 238399 # Lavaborn Ruby's Edge
+        costs:
+          2032: 200
+
+      - id: 238953 # Red Flame Burner
+        costs:
+          2032: 150
+
+      - id: 237856 # Sunwell Bardiche
+        costs:
+          2032: 245
+
+      - id: 237854 # Voidstorm Bardiche
+        costs:
+          2032: 245
+

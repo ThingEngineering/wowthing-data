@@ -1,0 +1,152 @@
+things:
+  - type: vendor
+    name: "2025-04"
+    id: 1202504
+
+    groups:
+      - name: "2025-04"
+        range: -1
+        sortKey: "tp-7508" # (100-YY)(12-MM)
+
+    contents:
+      - id: 235662 # Emerald Snail [mount]
+        costs:
+          2032: 350
+
+      - id: 235555 # Lively Darkmoon Charger [mount]
+        costs:
+          2032: 575
+
+      - id: 235556 # Violet Darkmoon Charger [mount]
+        costs:
+          2032: 575
+
+      - id: 212500 # Delicate Silk Parasol [toy]
+        costs:
+          2032: 200
+
+      - id: 212940 # Ensemble: Spring Reveler's Lavender Collection
+        costs:
+          2032: 500
+
+      - id: 213084 # Ensemble: Spring Reveler's Lavender Apparel
+        costs:
+          2032: 300
+
+      - id: 235594 # Ensemble: Forest Dweller's Blooming Attire
+        costs:
+          2032: 380
+
+      - id: 235595 # Ensemble: Forest Dweller's Rooted Attire
+        costs:
+          2032: 380
+
+      - id: 230170 # Ensemble: Prowler's Camo Headgear
+        costs:
+          2032: 100
+
+      - id: 235025 # Vigilante's Camo Mask
+        costs:
+          2032: 50
+
+      - id: 235031 # Vigilante's Plum Mask
+        costs:
+          2032: 50
+
+      - id: 230040 # Prowler's Camo Shoulder Cape
+        costs:
+          2032: 75
+
+      - id: 212787 # Gloves of the Violet Gala
+        costs:
+          2032: 100
+
+      - id: 233102 # Long Camo War Skirt
+        costs:
+          2032: 40
+
+      - id: 233141 # Long Camo War Skirt and Leg Wraps
+        costs:
+          2032: 50
+
+      - id: 233108 # Long Plum War Skirt
+        costs:
+          2032: 40
+
+      - id: 233147 # Long Plum War Skirt and Leg Wraps
+        costs:
+          2032: 50
+
+      - id: 233085 # Short Camo War Skirt
+        costs:
+          2032: 40
+
+      - id: 233124 # Short Camo War Skirt and Leg Wraps
+        costs:
+          2032: 50
+
+      - id: 233091 # Short Plum War Skirt
+        costs:
+          2032: 40
+
+      - id: 233130 # Short Plum War Skirt and Leg Wraps
+        costs:
+          2032: 50
+
+      - id: 233175 # Banded Camo War Slippers
+        costs:
+          2032: 20
+
+      - id: 233158 # Banded Camo War Wraps
+        costs:
+          2032: 20
+
+      - id: 233181 # Banded Plum War Slippers
+        costs:
+          2032: 20
+
+      - id: 233164 # Banded Plum War Wraps
+        costs:
+          2032: 20
+
+      # Weapon
+
+      - id: 212789 # Champion's Jade Cleaver
+        costs:
+          2032: 150
+
+      - id: 234573 # Topsy Turvy Clown's Blade
+        costs:
+          2032: 140
+
+      - id: 234724 # Topsy Turvy Clown's Cleaver
+        costs:
+          2032: 140
+
+      - id: 234725 # Topsy Turvy Jester's Cleaver
+        costs:
+          2032: 140
+
+      - id: 235641 # Topsy Turvy Clown's Die
+        costs:
+          2032: 200
+
+      - id: 234575 # Topsy Turvy Jester's Blade
+        costs:
+          2032: 140
+
+      - id: 234725 # Topsy Turvy Jester's Cleaver
+        costs:
+          2032: 140
+
+      - id: 235642 # Topsy Turvy Jester's Die
+        costs:
+          2032: 200
+
+      - id: 234612 # Double-Bladed Blooming Garden Trowel
+        costs:
+          2032: 125
+
+      - id: 234613 # Double-Bladed Rooted Garden Trowel
+        costs:
+          2032: 125

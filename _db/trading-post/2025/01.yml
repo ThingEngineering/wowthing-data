@@ -1,0 +1,128 @@
+things:
+  - type: vendor
+    name: "2025-01"
+    id: 1202501
+
+    groups:
+      - name: "2025-01"
+        range: -1
+        sortKey: "tp-7511" # (100-YY)(12-MM)
+
+    contents:
+      - id: 211074 # Copper Resonating Crystal [mount]
+        costs:
+          2032: 800
+
+      - id: 212631 # Reins of the Brilliant Sunburst Peafowl [mount]
+        costs:
+          2032: 750
+
+      - id: 112326 # Warforged Nightmare [mount]
+        costs:
+          2032: 700
+
+      - id: 233354 # Savage Alabaster Battle Turtle [mount]
+        costs:
+          2032: 500
+
+      - id: 193429 # Time-Lost Salamanther [pet]
+        costs:
+          2032: 600
+
+      - id: 233366 # Wind-Up Woofer [pet]
+        costs:
+          2032: 300
+
+      - id: 233361 # Wind-Up Wuffi [pet]
+        costs:
+          2032: 300
+
+      - id: 233328 # Ensemble: Golden Clockwork Attire
+        costs:
+          2032: 650
+
+      - id: 233329 # Ensemble: Green Clockwork Attire
+        costs:
+          2032: 650
+
+      - id: 211122 # Ensemble: Wastewander Tracker's Kit
+        costs:
+          2032: 850
+
+      - id: 230176 # Ensemble: Prowler's Carrot Headgear
+        costs:
+          2032: 100
+
+      - id: 233355 # Bronze Helm of Righteousness
+        costs:
+          2032: 140
+
+      - id: 230045 # Prowler's Carrot Shoulder Cape
+        costs:
+          2032: 75
+
+      - id: 233273 # Steam-Powered Golden Cloak
+        costs:
+          2032: 300
+
+      - id: 211066 # Gossamer Desert Gown
+        costs:
+          2032: 100
+
+      - id: 221794 # Classic Carrot Tabard
+        costs:
+          2032: 100
+
+      - id: 211129 # Sand-Swept Soiree Gloves
+        costs:
+          2032: 100
+
+      - id: 233112 # Long Sunny War Skirt
+        costs:
+          2032: 40
+
+      - id: 233151 # Long Sunny War Skirt and Leg Wraps
+        costs:
+          2032: 50
+
+      - id: 233095 # Short Sunny War Skirt
+        costs:
+          2032: 40
+
+      - id: 233134 # Short Sunny War Skirt and Leg Wraps
+        costs:
+          2032: 50
+
+      - id: 233185 # Banded Sunny War Slippers
+        costs:
+          2032: 20
+
+      - id: 233168 # Banded Sunny War Wraps
+        costs:
+          2032: 20
+
+      - id: 233360 # Gold-Reinforced Cushioned Boots
+        costs:
+          2032: 40
+
+      # Weapon
+
+      - id: 233257 # Golden Clockwork Doomfist [fist]
+        costs:
+          2032: 300
+
+      - id: 233249 # Golden Clockwork Power Hammer [2h mace]
+        costs:
+          2032: 325
+
+      - id: 233270 # Long-Range Golden Clockstopper [gun]
+        costs:
+          2032: 300
+
+      - id: 190818 # Steamwheedle Artifact Extractor [off-hand]
+        costs:
+          2032: 60
+
+      - id: 233277 # Golden Clockwork Defender [shield]
+        costs:
+          2032: 260

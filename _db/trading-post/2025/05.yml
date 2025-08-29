@@ -1,0 +1,196 @@
+things:
+  - type: vendor
+    name: "2025-05"
+    id: 1202505
+
+    groups:
+      - name: "2025-05"
+        range: -1
+        sortKey: "tp-7507" # (100-YY)(12-MM)
+
+    contents:
+      - id: 192766 # Amber Skitterfly [mount]
+        costs:
+          2032: 600
+
+      - id: 238897 # Spring Harvesthog [mount]
+        costs:
+          2032: 550
+
+      - id: 210141 # Brown-Furred Spiky Bakar [mount]
+        costs:
+          2032: 325
+
+      - id: 236409 # Frumpy Softpaw [pet]
+        costs:
+          2032: 350
+
+      - id: 34492 # Rocket Chicken [pet]
+        costs:
+          2032: 200
+
+      - id: 237224 # Ensemble: Attire of the Swift Fox
+        costs:
+          2032: 440
+
+      - id: 237222 # Ensemble: Attire of the Woodland Racoon
+        costs:
+          2032: 440
+
+      - id: 217374 # Frenzied Hat of the Shallows
+        costs:
+          2032: 175
+
+      - id: 235020 # Vigilante's Azure Mask
+        costs:
+          2032: 50
+
+      - id: 235029 # Vigilante's Carrot Mask
+        costs:
+          2032: 50
+
+      - id: 235032 # Vigilante's Crimson Mask
+        costs:
+          2032: 50
+
+      - id: 235033 # Vigilante's Violet Mask
+        costs:
+          2032: 50
+
+      - id: 235985 # Heroic Half Shell
+        costs:
+          2032: 225
+
+      - id: 233097 # Long Azure War Skirt
+        costs:
+          2032: 40
+
+      - id: 233136 # Long Azure War Skirt and Leg Wraps
+        costs:
+          2032: 50
+
+      - id: 233148 # Long Violet War Skirt and Leg Wraps
+        costs:
+          2032: 50
+
+      - id: 233109 # Long Violet War Skirt
+        costs:
+          2032: 40
+
+      - id: 233080 # Short Azure War Skirt
+        costs:
+          2032: 40
+
+      - id: 233117 # Short Azure War Skirt and Leg Wraps
+        costs:
+          2032: 50
+
+      - id: 233092 # Short Violet War Skirt
+        costs:
+          2032: 40
+
+      - id: 233131 # Short Violet War Skirt and Leg Wraps
+        costs:
+          2032: 50
+
+      - id: 233170 # Banded Azure War Slippers
+        costs:
+          2032: 20
+
+      - id: 233153 # Banded Azure War Wraps
+        costs:
+          2032: 20
+
+      - id: 233182 # Banded Violet War Slippers
+        costs:
+          2032: 20
+
+      - id: 233165 # Banded Violet War Wraps
+        costs:
+          2032: 20
+
+      # Weapon
+
+      - id: 236630 # Deathwarder's Blood Blade
+        costs:
+          2032: 150
+
+      - id: 237183 # Deathwarder's Blood Fetish
+        costs:
+          2032: 90
+
+      - id: 237179 # Deathwarder's Blood Fist
+        costs:
+          2032: 150
+
+      - id: 236405 # Deathwarder's Blood Stave
+        costs:
+          2032: 175
+
+      - id: 238959 # Deathwarder's Great Blood Blade
+        costs:
+          2032: 180
+
+      - id: 236627 # Night Hag's Blade
+        costs:
+          2032: 150
+
+      - id: 237176 # Night Hag's Claw
+        costs:
+          2032: 150
+
+      - id: 237180 # Night Hag's Fetish
+        costs:
+          2032: 90
+
+      - id: 238956 # Night Hag's Great Blade
+        costs:
+          2032: 180
+
+      - id: 236402 # Night Hag's Stave
+        costs:
+          2032: 175
+
+      - id: 190860 # Initiate's Bo
+        costs:
+          2032: 60
+
+      - id: 238252 # Large Renaissance Katana
+        costs:
+          2032: 130
+
+      - id: 213065 # Lavish Floral Edge
+        costs:
+          2032: 300
+
+      - id: 213068 # Lavish Floral Stalk
+        costs:
+          2032: 300
+
+      - id: 237343 # Nunchuck of the Renaissance
+        costs:
+          2032: 120
+
+      - id: 238217 # Offhand Renaissance Nunchuck
+        costs:
+          2032: 120
+
+      - id: 213062 # Paradise's Golden Axe
+        costs:
+          2032: 300
+
+      - id: 237344 # Renaissance Katana
+        costs:
+          2032: 110
+
+      - id: 237342 # Renaissance Sai
+        costs:
+          2032: 120
+
+      - id: 213071 # Sunny Floral Staff
+        costs:
+          2032: 300
+
+      - id: 213075 # Sunny Bow-quet
+        costs:
+          2032: 300

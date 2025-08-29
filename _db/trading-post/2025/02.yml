@@ -1,0 +1,120 @@
+things:
+  - type: vendor
+    name: "2025-02"
+    id: 1202502
+
+    groups:
+      - name: "2025-02"
+        range: -1
+        sortKey: "tp-7510" # (100-YY)(12-MM)
+
+    contents:
+      - id: 212227 # Fur-endship Fox [mount]
+        costs:
+          2032: 750
+
+      - id: 233023 # Silvermoon Sweeper [mount]
+        costs:
+          2032: 600
+
+      - id: 234397 # Fullbelly Rollingpaw [pet]
+        costs:
+          2032: 350
+
+      - id: 234396 # Teatuft Tamer [pet]
+        costs:
+          2032: 350
+
+      - id: 212220 # Ensemble: Love Witch's Attire
+        costs:
+          2032: 750
+
+      - id: 234057 # Ensemble: Ornate Crimson Lunar Festival Attire
+        costs:
+          2032: 600
+
+      - id: 230175 # Ensemble: Prowler's Pink Headgear
+        costs:
+          2032: 100
+
+      - id: 232933 # Ensemble: Sky Witch's Heartfelt Shoulders
+        costs:
+          2032: 100
+
+      - id: 232934 # Ensemble: Twilight Witch's Heartfelt Shoulders
+        costs:
+          2032: 100
+
+      - id: 212369 # Battlefield Lover's Bow [back]
+        costs:
+          2032: 250
+
+      - id: 233236 # Crimson Pack of Lunar Explosives [back]
+        costs:
+          2032: 250
+
+      - id: 230044 # Prowler's Pink Shoulder Cape
+        costs:
+          2032: 75
+
+      - id: 190855 # Rosy Corsage [wrist]
+        costs:
+          2032: 100
+
+      - id: 233073 # Long Crimson War Skirt
+        costs:
+          2032: 40
+
+      - id: 233075 # Long Crimson War Skirt and Leg Wraps
+        costs:
+          2032: 50
+
+      - id: 233072 # Short Crimson War Skirt
+        costs:
+          2032: 40
+
+      - id: 233074 # Short Crimson War Skirt and Leg Wraps
+        costs:
+          2032: 50
+
+      - id: 233078 # Banded Crimson War Slippers
+        costs:
+          2032: 20
+
+      - id: 233076 # Banded Crimson War Wraps
+        costs:
+          2032: 20
+
+      - id: 234074 # Gold-Plated Cushioned Boots
+        costs:
+          2032: 40
+
+      # Weapon
+
+      - id: 233232 # Crimson Lunar Firewhacker
+        costs:
+          2032: 300
+
+      - id: 233218 # Crimson Lunar Lantern
+        costs:
+          2032: 250
+
+      - id: 233223 # Jade Lunar Blade
+        costs:
+          2032: 300
+
+      - id: 233228 # Jade Lunar Polearm
+        costs:
+          2032: 300
+
+      - id: 212379 # Love Witch's Rosy Stave
+        costs:
+          2032: 250
+
+      - id: 212377 # Love Witch's Rosy Wand
+        costs:
+          2032: 200
+
+      - id: 212375 # Lovely Rosy Longbow
+        costs:
+          2032: 300
