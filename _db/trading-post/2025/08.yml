@@ -1,0 +1,148 @@
+things:
+  - type: vendor
+    name: "2025-08"
+    id: 1202508
+
+    groups:
+      - name: "2025-08"
+        range: -1
+        sortKey: "tp-7504" # (100-YY)(12-MM)
+
+    contents:
+      - id: 243591 # Grandmaster's Royal Board [mount]
+        costs:
+          2032: 700
+
+      - id: 223449 # Kor'kron Warsaber [mount]
+        costs:
+          2032: 600
+
+      - id: 223469 # Sentinel War Wolf [mount]
+        costs:
+          2032: 600
+
+      - id: 223474 # Worgli the Apprehensive [pet]
+        costs:
+          2032: 300
+
+      - id: 243258 # Ensemble: Grandmaster's Prophetic Attire
+        costs:
+          2032: 550
+
+      - id: 243277 # Ensemble: Grandmaster's Royal Attire
+        costs:
+          2032: 550
+      
+      - id: 242455 # Ensemble: Midnight Sweatsuit
+        costs:
+          2032: 300
+
+      - id: 242455 # Ensemble: Snowy Sweatsuit
+        costs:
+          2032: 300
+
+      - id: 246015 # Classic Midnight Eye Patch
+        costs:
+          2032: 50
+
+      - id: 246016 # Classic Snowy Eye Patch
+        costs:
+          2032: 50
+
+      - id: 235019 # Vigilante's Midnight Mask
+        costs:
+          2032: 50
+
+      - id: 235035 # Vigilante's Snowy Mask
+        costs:
+          2032: 50
+
+      - id: 212627 # Dueler's Azure Shoulder Cape
+        costs:
+          2032: 75
+
+      - id: 212617 # Dueler's Crimson Shoulder Cape
+        costs:
+          2032: 75
+
+      - id: 233096 # Long Midnight War Skirt
+        costs:
+          2032: 40
+
+      - id: 233135 # Long Midnight War Skirt and Leg Wraps
+        costs:
+          2032: 50
+
+      - id: 233111 # Long Snowy War Skirt
+        costs:
+          2032: 40
+
+      - id: 233150 # Long Snowy War Skirt and Leg Wraps
+        costs:
+          2032: 50
+
+      - id: 233079 # Short Midnight War Skirt
+        costs:
+          2032: 40
+
+      - id: 233116 # Short Midnight War Skirt and Leg Wraps
+        costs:
+          2032: 50
+
+      - id: 233094 # Short Snowy War Skirt
+        costs:
+          2032: 40
+
+      - id: 233133 # Short Snowy War Skirt and Leg Wraps
+        costs:
+          2032: 50
+
+      - id: 233169 # Banded Midnight War Slippers
+        costs:
+          2032: 20
+
+      - id: 233152 # Banded Midnight War Wraps
+        costs:
+          2032: 20
+
+      - id: 233184 # Banded Snowy War Slippers
+        costs:
+          2032: 20
+
+      - id: 233167 # Banded Snowy War Wraps
+        costs:
+          2032: 20
+
+      # Weapon
+
+      - id: 242525 # Grandmaster's Prophetic Axe
+        costs:
+          2032: 150
+
+      - id: 242372 # Grandmaster's Prophetic Bulwark
+        costs:
+          2032: 100
+
+      - id: 242539 # Grandmaster's Prophetic Mace
+        costs:
+          2032: 175
+
+      - id: 242357 # Grandmaster's Prophetic Stave
+        costs:
+          2032: 175
+
+      - id: 242527 # Grandmaster's Royal Axe
+        costs:
+          2032: 150
+
+      - id: 242374 # Grandmaster's Royal Bulwark
+        costs:
+          2032: 100
+
+      - id: 242541 # Grandmaster's Royal Mace
+        costs:
+          2032: 175
+
+      - id: 242359 # Grandmaster's Royal Stave
+        costs:
+          2032: 175

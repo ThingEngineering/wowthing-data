@@ -189,6 +189,9 @@ timewalking.yml
     06-legion/timewalking.yml Legion
     07-battle-for-azeroth/timewalking.yml Battle for Azeroth
 
+trading-post/_trading_post.yml
+    trading-post/2025.yml
+
 world-events/_world_events.yml
     world-events/brewfest.yml
     world-events/childrens_week.yml

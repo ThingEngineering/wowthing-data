@@ -1,0 +1,132 @@
+things:
+  - type: vendor
+    name: "2025-07"
+    id: 1202507
+
+    groups:
+      - name: "2025-07"
+        range: -1
+        sortKey: "tp-7505" # (100-YY)(12-MM)
+
+    contents:
+      - id: 245936 # Unarmored Deathtusk Felboar [mount]
+        costs:
+          2032: 325
+
+      - id: 243596 # Wailing Banshee's Charger [mount]
+        costs:
+          2032: 575
+
+      - id: 206174 # Blub [pet]
+        costs:
+          2032: 500
+
+      - id: 223244 # Ensemble: Deepest Depths Diver Suit
+        costs:
+          2032: 800
+
+      - id: 242466 # Ensemble: Lively Sweatsuit
+        costs:
+          2032: 100
+
+      - id: 242474 # Ensemble: Plum Sweatsuit
+        costs:
+          2032: 100
+
+      - id: 206323 # Ensemble: Vagabond's Plum Threads
+        costs:
+          2032: 100
+
+      - id: 244226 # Ensemble: Wailing Banshee's Collection
+        costs:
+          2032: 700
+
+      - id: 206334 # Ensemble: Wanderer's Plum Trappings
+        costs:
+          2032: 100
+
+      - id: 223165 # Vengeful Crusader's Helm
+        costs:
+          2032: 225
+
+      - id: 212618 # Dueler's Plum Shoulder Cape
+        costs:
+          2032: 75
+
+      - id: 223166 # Deepsea Treasure Pack
+        costs:
+          2032: 300
+
+      - id: 213155 # Dark Ranger General's Quiver
+        costs:
+          2032: 175
+
+      - id: 242382 # Forsaken's Grotesque Quiver
+        costs:
+          2032: 175
+
+      - id: 242383 # Wailing Banshee's Quiver
+        costs:
+          2032: 175
+
+      - id: 245745 # Classic Plum Tabard
+        costs:
+          2032: 100
+
+      - id: 210859 # Trader's Plum Sarong
+        costs:
+          2032: 100
+
+      # Weapon
+
+      - id: 242628 # Forsaken's Grotesque Blade
+        costs:
+          2032: 200
+
+      - id: 242632 # Forsaken's Grotesque Great Blade
+        costs:
+          2032: 200
+
+      - id: 242377 # Forsaken's Grotesque Longbow
+        costs:
+          2032: 175
+
+      - id: 242349 # Forsaken's Grotesque Mace
+        costs:
+          2032: 200
+
+      - id: 242387 # Forsaken's Grotesque Wand
+        costs:
+          2032: 150
+
+      - id: 242353 # Forsaken's Grotesque Warglaives
+        costs:
+          2032: 200
+
+      - id: 242629 # Wailing Banshee's Blade
+        costs:
+          2032: 200
+
+      - id: 242523 # Wailing Banshee's Cauldron
+        costs:
+          2032: 200
+
+      - id: 242633 # Wailing Banshee's Great Blade
+        costs:
+          2032: 245
+
+      - id: 242378 # Wailing Banshee's Longbow
+        costs:
+          2032: 175
+
+      - id: 242350 # Wailing Banshee's Mace
+        costs:
+          2032: 200
+
+      - id: 242388 # Wailing Banshee's Wand
+        costs:
+          2032: 150
+
+      - id: 242354 # Wailing Banshee's Warglaives
+        costs:
+          2032: 200
