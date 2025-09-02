@@ -9,3 +9,116 @@ things:
         sortKey: "tp-7503" # (100-YY)(12-MM)
 
     contents:
+      - id: 247793 # Cinder-Plumed Highland Gryphon [mount]
+        costs:
+          2032: 650
+
+      - id: 226041 # Keg Leg's Radiant Crocolisk [mount]
+        costs:
+          2032: 600
+
+      - id: 247795 # Ornery Breezestrider [mount]
+        costs:
+          2032: 325
+
+      - id: 226104 # Claudius [pet]
+        costs:
+          2032: 330
+
+      - id: 226017 # Ensemble: Plunderlord's Radiant Finery
+        costs:
+          2032: 750
+
+      - id: 248299 # Ensemble: Bronzebeard's Ceremonial Collection
+        costs:
+          2032: 575
+
+      - id: 248309 # Ensemble: The Speaker's Ceremonial Collection
+        costs:
+          2032: 575
+
+      - id: 242485 # Ensemble: Aquatic Sweatsuit
+        costs:
+          2032: 100
+
+      - id: 230181 # Ensemble: Prowler's Aquatic Headgear
+        costs:
+          2032: 100
+
+      - id: 242346 # Ensemble: Rainy Day Attire
+        costs:
+          2032: 375
+
+      - id: 211258 # Wildhammer Scouts Headgear
+        costs:
+          2032: 200
+
+      - id: 245948 # Bronzebeard's Portable Forge [back]
+        costs:
+          2032: 200
+
+      - id: 245949 # The Speaker's Portable Forge [back]
+        costs:
+          2032: 200
+
+      - id: 233110 # Long Aquatic War Skirt
+        costs:
+          2032: 40
+
+      - id: 233149 # Long Aquatic War Skirt and Leg Wraps
+        costs:
+          2032: 50
+
+      - id: 233093 # Short Aquatic War Skirt
+        costs:
+          2032: 40
+
+      - id: 233132 # Short Aquatic War Skirt and Leg Wraps
+        costs:
+          2032: 50
+
+      - id: 233183 # Banded Aquatic War Slippers
+        costs:
+          2032: 20
+
+      - id: 233166 # Banded Aquatic War Wraps
+        costs:
+          2032: 20
+
+      # Weapons
+
+      - id: 245952 # Bronzebeard's Ceremonial Gavel [1h mace]
+        costs:
+          2032: 210
+
+      - id: 245953 # The Speaker's Ceremonial Mallet [1h mace]
+        costs:
+          2032: 210
+
+      - id: 246781 # Bronzebeard's Ancient Crusher [2h mace]
+        costs:
+          2032: 230
+
+      - id: 246782 # The Speaker's Ancient Crusher [2h mace]
+        costs:
+          2032: 230
+
+      - id: 246798 # Bronzebeard's Mighty Crossbow
+        costs:
+          2032: 150
+
+      - id: 246799 # The Speaker's Mighty Crossbow
+        costs:
+          2032: 150
+
+      - id: 245956 # Bronzebeard's Crystal Ward [off-hand]
+        costs:
+          2032: 80
+
+      - id: 245957 # The Speaker's Crystal Ward [off-hand]
+        costs:
+          2032: 80
+
+      - id: 209053 # Green Brewfest Bulwark
+        costs:
+          2032: 300
