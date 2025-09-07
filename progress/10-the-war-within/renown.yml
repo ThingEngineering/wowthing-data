@@ -1,6 +1,47 @@
 name: "Renown"
 groups:
 
+- name: "{faction:2658}" # The K'aresh Trust
+  icon: "achievement/42022"
+  iconText: "KT"
+  lookup: none
+  minimumLevel: 80
+  type: quest
+  data:
+    0:
+
+      - id: 90631 # Weathered Crests
+        description: "{repPrice:2658|5|15|-3285}" # 15x Weathered Crest at Renown 5
+
+      - id: 90632 # Valorstones
+        description: "{repPrice:2658|6|80|-3008}" # 80x Valorstone at Renown 6
+
+      - id: 90633 # Weathered Crests
+        description: "{repPrice:2658|8|15|-3285}" # 15x Weathered Crest at Renown 8
+
+      - id: 90635 # Valorstones
+        description: "{repPrice:2658|9|80|-3008}" # 80x Valorstone at Renown 9
+
+      - id: 90636 # Carved Crests
+        description: "{repPrice:2658|12|15|-3287}" # 15x Carved Crest at Renown 12
+
+      - id: 90637 # A Key in the Wastes
+        description: "{repPrice:2658|12|1|-3028}" # 1x Restored Coffer Key at Renown 12
+
+      - id: 91143 # Carved Crests
+        description: "{repPrice:2658|14|15|-3287}" # 15x Carved Crest at Renown 14
+
+      - id: 92330 # Valorstones
+        description: "{repPrice:2658|16|80|-3008}" # 80x Valorstone at Renown 16
+
+      - id: 90665 # Carved Crests
+        description: "{repPrice:2658|17|15|-3287}" # 15x Carved Crest at Renown 17
+
+      - id: 90667 # Enchanted Runed Ethereal Crest
+        description: "{repPrice:2658|20|1|-1231769}" # 1x Enchanted Runed Crest at Renown 20
+
+- name: separator
+
 - name: "{faction:2688}" # Flame's Radiance
   icon: "achievement/41997"
   iconText: "FR"
