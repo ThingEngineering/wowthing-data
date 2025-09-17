@@ -3,21 +3,20 @@ groups:
 
 - name: "PvP"
   things:
-  - 2211 # Vicious Skyflayer [A] (Season 1)
-  - 2150 # Vicious Skyflayer [H] (Season 1)
-  - 2570 # Vicious Void Creeper [A] (Season 3)
-  - 2571 # Vicious Void Creeper [H] (Season 3)
+    - 2211 # Vicious Skyflayer [A] (Season 1)
+    - 2150 # Vicious Skyflayer [H] (Season 1)
+    - 2300 # Vicious Electro Eel [A]
+    - 2299 # Vicious Electro Eel [H]
+    - 2570 # Vicious Void Creeper [A] (Season 3)
+    - 2571 # Vicious Void Creeper [H] (Season 3)
 
 - name: "Arena"
   things:
-    - 2298 # Prized Gladiator's Fel Bat (Season 2)
     - 2326 # Astral Gladiator's Fel Bat (Season 3)
 
 - name: "World Events"
   things:
-  - 2194 # Dauntless Imperial Lynx (Spreading the Light)
-  - 2159 # Machine Defense Unit 1-11 (Awakening the Machine)
-  - 2303 # Violet Goblin Shredder (Shipping & Handling)
-  - 2561 # Curious Slateback (Wriggling Pinnacle Cache)
-  - 2505 # Resplendent K'arroc (The Hope of K'aresh)
-  - 2640 # Brewfest Barrel Bomber (Brewfest Drop)
+    - 2194 # Dauntless Imperial Lynx (Spreading the Light)
+    - 2159 # Machine Defense Unit 1-11 (Awakening the Machine)
+    - 2303 # Violet Goblin Shredder (Shipping & Handling)
+    - 2561 # Curious Slateback (Wriggling Pinnacle Cache)

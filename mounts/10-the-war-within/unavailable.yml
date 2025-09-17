@@ -4,6 +4,7 @@ groups:
 - name: "Arena"
   things:
     - 2218 # Forged Gladiator's Fel Bat (Season 1)
+    - 2298 # Prized Gladiator's Fel Bat (Season 2)
 
 - name: "Mythic+"
   things:

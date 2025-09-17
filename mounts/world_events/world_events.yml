@@ -20,8 +20,9 @@ groups:
   
 - name: Brewfest
   things:
-  - 226 # Great Brewfest Kodo
-  - 202 # Swift Brewfest Ram
+    - 2640 # Brewfest Barrel Bomber
+    - 226 # Great Brewfest Kodo
+    - 202 # Swift Brewfest Ram
 
 - name: Darkmoon Faire
   things:

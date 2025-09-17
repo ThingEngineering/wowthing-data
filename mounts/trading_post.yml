@@ -56,7 +56,10 @@ groups:
     - 2579 # Forsaken's Grotesque Charger (2025-07)
     - 2580 # Wailing Banshee's Charger (2025-07)
     - 2600 # Unarmored Deathtusk Felboar (2025-07)
-    
+    - 2577 # Grandmaster's Royal Board (2025-08)
+    - 2628 # Cinder-Plumed Highland Gryphon (2025-09)
+    - 2630 # Ornery Breezestrider (2025-09)
+
 - name: "Unavailable"
   things:
     - 1583 # Armored Siege Kodo
@@ -82,6 +85,16 @@ groups:
     - 2572 # Banshee's Chilling Charger
     - 2575 # Grandmaster's Prophetic Board
     - 2576 # Grandmaster's Deep Board
-    - 2577 # Grandmaster's Royal Board
     - 2578 # Grandmaster's Smokey Board
     - 2581 # Banshee's Sickening Charger
+    - 2618 # Thunder-ridged Elekk
+    - 2619 # Cinder-seared Elekk
+    - 2620 # Void-Razed Elekk
+    - 2621 # Legion Forged Elekk
+    - 2622 # The Headless Horseman's Chilling Charger
+    - 2623 # The Headless Horseman's Ghoulish Charger
+    - 2624 # The Headless Horseman's Burning Charger
+    - 2625 # The Headless Horseman's Hallowed Charger
+    - 2626 # Adorned Northeron Gryphon
+    - 2627 # High Shaman's Aerie Gryphon
+    - 2629 # Emberwing Sky Guide

@@ -28,18 +28,22 @@ groups:
     - 959 960 # Stormwind Skychaser/Orgrimmar Interceptor (BlizzCon 2017)
     - 960 959 # ^ reversed
     - 1679 # Frostbrood Proto-Wyrm (WotLK DK Starter Zone)
+    - 1596 # Amalgam of Rage (Diablo IV)
+    - 1517 # Bound Blizzard (BlizzCon 2023)
+    - 1947 # Hateforged Blazecycle (Mountain Dew)
+    - 1168 # Fiery Hearthsteed (Hearthstone Anniversary)
+
+- name: "6/12 Month Sub"
+  things:
     - 1581 # Nether-Gorged Greatwyrm (6 month sub)
     - 1312 # Gargantuan Grrloc (12 month sub)
     - 1662 # Telix the Stormhorn (12 month sub)
     - 1795 # Auspicious Arborwyrm (6/12 month sub?)
-    - 1596 # Amalgam of Rage (Diablo IV)
     - 2140 # Charming Courier (6/12 month sub)
     - 2259 # Gigantic Grrloc (12 month sub)
     - 2235 # Startouched Furline (12 month sub)
     - 2315 # Timbered Sky Snake (12 month sub)
-    - 1517 # Bound Blizzard (BlizzCon 2023)
-    - 1947 # Hateforged Blazecycle (Mountain Dew)
-    - 1168 # Fiery Hearthsteed (Hearthstone Anniversary)
+    - 2532 # Herald of Sa'bak (6/12 month sub)
 
 - name: Store
   things:

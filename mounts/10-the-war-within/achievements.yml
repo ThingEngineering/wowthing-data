@@ -7,9 +7,12 @@ groups:
     - 2190 # Shadow of Doubt (Meta)
     - 2181 # Swarmite Skyhunter (Khaz Algar Glyph Hunter)
     - 2332 # The Breaker's Song (Isle Remember You)
+
+- name: "K'aresh"
+  things:
     - 2655 # Phase-Lost Slateback (Phase-Lost-And-Found)
+    - 2505 # Resplendent K'arroc (quest after Ecological Stability)
     - 2511 # Terror of the Night (Vigilante)
-    - 2602 # Translocated Gorger (Combine 20 Devoured Energy-Pod)
 
 - name: "Instances"
   things:
@@ -24,8 +27,6 @@ groups:
 - name: "PvP"
   things:
     - 2167 # Raging Cinderbee
-    - 2300 # Vicious Electro Eel [A]
-    - 2299 # Vicious Electro Eel [H]
 
 - name: "Visions"
   things:
