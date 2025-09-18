@@ -5,6 +5,11 @@ groups:
   things:
     - 4530 # Loamy
 
-- name: "Deeps"
+- name: "Ringing Deeps"
   things:
     - 4576 # Guacamole
+
+- name: "K'aresh"
+  things:
+    - 4832 # Looker Gaz'kreth Jr. (Manaforge Vandals 13)
+    - 4859 # Zo'ya (Manaforge Vandals 8)

@@ -1,6 +1,10 @@
 name: "Trading Post"
 groups:
-  
+
+- name: "Bonus Reward"
+  things:
+    - 4793 # Weechi (2025-05)
+
 - name: "Trading Post"
   things:
     - 3252 # Garrlok (2023-02)
@@ -29,14 +33,21 @@ groups:
     - 4669 # Bluedoo (2024-12)
     - 4719 # Wind-Up Woofer (2025-01)
     - 4718 # Wind-Up Wuffi (2025-01)
+    - 4757 # Frumpy Softpaw (2025-05)
 
 - name: "NYI"
   things:
+    - 4792 # Ada the Sweetest
     - 4410 # Beetriz
     - 3244 # Drazka'zet the Wrathful
     - 4729 # Fullbelly Rollingpaw
     - 3242 # Lil' Maka'jin
     - 297 # Lil' Ragnaros
     - 4615 # Parrlok
+    - 4761 # Pascal the Wonder Pup
     - 4728 # Teatuft Tamer
     - 3254 # Watcher of the Huntress
+    - 4854 # Duskytooth Fel Snooter
+    - 4855 # Mustyfur Fel Snooter
+    - 4853 # Rustyroot Fel Snooter
+    - 4856 # Scruffyhorn Fel Snooter

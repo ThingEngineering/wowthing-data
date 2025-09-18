@@ -5,3 +5,10 @@ groups:
   things:
     - 4726 # Crackleroar
     - 2541 # Proper Parrot
+
+- name: "K'aresh"
+  things:
+    - 4842 # Duskthief (The Nightreaver)
+    - 4846 # Heka'Tarnos, Bringer of Discord (Heka'tamos)
+    - 4834 # Jimmy (Morgil the Netherspawn)
+    - 4838 # Palek'ti, the Mouth of Nothingness (Malek'ta)

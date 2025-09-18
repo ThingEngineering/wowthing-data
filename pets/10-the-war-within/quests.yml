@@ -19,3 +19,18 @@ groups:
 - name: "Undermine"
   things:
     - 4701 # Spotty [Oh, Rats!]
+
+- name: "Ecological Succession"
+  things:
+    - 4840 # Graceful Cosmic Ray Pup
+    - 4844 # Inquisitive Cosmic Ray Pup
+    - 4827 # Dread Horrorling
+    - 4839 # Shimmering Inchshifter
+    - 4836 # Vitriolic Inchshifter
+    - 4848 # Cerulean Lapbug
+    - 4847 # Copper Lapbug
+    - 4835 # Cyan Siphonmite
+    - 4833 # Xanthous Siphonmite
+    - 4826 # Scrappy Thorntail
+    - 4825 # Veridian Thorntail
+    - 4828 # Impartial Watcher

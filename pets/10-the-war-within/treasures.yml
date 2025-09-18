@@ -31,3 +31,7 @@ groups:
 - name: "Undermine"
   things:
     - 4642 # Gorillion [Inoperative Gorillion]
+
+- name: "K'aresh"
+  things:
+    - 4845 # Mr. Long-Legs
