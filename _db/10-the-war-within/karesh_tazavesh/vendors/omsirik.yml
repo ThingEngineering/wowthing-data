@@ -16,7 +16,7 @@ things:
         sortKey: "karesh-trust-1"
 
       - name: "KT - Professions"
-        range: 18
+        range: 19
         sortKey: "karesh-trust-2"
 
       - name: "KT - Cosmetic"
@@ -116,6 +116,12 @@ things:
       - id: 235861 # Ethereal Tome of Herbalism Knowledge
         costs:
           1210814: 75
+        requirements:
+          - "reputation 2658 renown-12"
+
+      - id: 235860 # Ethereal Tome of Inscription Knowledge
+        costs:
+          1210814: 50
         requirements:
           - "reputation 2658 renown-12"
 
