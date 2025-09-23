@@ -1,0 +1,32 @@
+things:
+  - id: 23481
+    type: "vendor"
+    name: "Keiran Donoghue"
+    note: "Sausage Vendor"
+
+    locations:
+      "00-classic/dun_morogh":
+        - 56 36.6 alliance
+
+    groups: &groups
+      - name: "Brewfest - Toys"
+        range: -1
+        sortKey: "w-brewfest-3"
+
+    contents: &contents
+
+      - id: 138900 # Gravil Goldbraid's Famous Sausage Hat
+        costs:
+          1037829: 100 # Brewfest Token
+
+  - id: 23605
+    type: "vendor"
+    name: "Bron"
+    note: "Sausage Vendor"
+
+    locations:
+      "00-classic/durotar":
+        - 41.6 17.8 horde
+
+    groups: *groups
+    contents: *contents

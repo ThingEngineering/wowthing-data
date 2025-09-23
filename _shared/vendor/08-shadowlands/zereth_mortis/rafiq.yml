@@ -9,6 +9,7 @@ sets:
   - name: "Sandworn Relic Cloth"
     range: 8
     sortKey: "1"
+    bonusIds: [1492, 8093]
 
   - name: "Sandworn Relic Leather"
     range: 8
@@ -26,7 +27,6 @@ sells:
   - type: transmog
     id: 188009 # Choral Hood [cloth head]
     appearanceId: 56701
-    bonusIds: 1492 8093
     quality: epic
     costs:
       1190189: 300 # Sandworn Relic

@@ -1,0 +1,151 @@
+things:
+  - id: 23710
+    type: "vendor"
+    name: "Belbi Quikswitch"
+    note: "Token Redeemer"
+
+    locations:
+      "00-classic/dun_morogh":
+        - 46 60.2 alliance
+
+    groups: &groups
+
+      - name: "Brewfest - Pets"
+        range: 3
+        sortKey: "w-brewfest-2"
+
+      - name: "Brewfest - Toys"
+        range: 7
+        sortKey: "w-brewfest-3"
+
+      - name: "Brewfest - Hats"
+        range: 8
+        sortKey: "z-brewfest-5b"
+      
+      - name: "Brewfest - Transmog"
+        range: -1
+        sortKey: "z-brewfest-5c"
+      
+    contents: &contents
+
+      # Pet
+
+      - id: 46707 # Pint-Sized Pink Pachyderm [pet]
+        costs:
+          1037829: 100
+
+      - id: 116756 # Stout Alemental [pet]
+        costs:
+          1037829: 200
+
+      - id: 32233 # Wolpertinger's Tankard [pet]
+        costs:
+          1037829: 200
+
+      # Toy
+
+      - id: 209052 # Brew Barrel [toy]
+        costs:
+          1037829: 200
+
+      - id: 116758 # Brewfest Banner [toy]
+        costs:
+          1037829: 100
+
+      - id: 71137 # Brewfest Keg Pony [toy]
+        costs:
+          1037829: 200
+
+      - id: 33927 # Brewfest Pony Keg [toy]
+        costs:
+          1037829: 100
+
+      - id: 166747 # Brewfest Reveler's Hearthstone [toy]
+        costs:
+          1037829: 200
+
+      - id: 90427 # Pandaren Brewpack [toy]
+        costs:
+          1037829: 100
+
+      - id: 116757 # Steamworks Sausage Grill [toy]
+        costs:
+          1037829: 200
+
+      # 0
+
+      - id: 33047 # Belbi's Eyesight Enhancing Romance Goggles [subclass=5 head] ALLIANCE
+        costs:
+          1037829: 100
+
+      - id: 34008 # Belbi's Eyesight Enhancing Romance Goggles [subclass=5 head] HORDE
+        costs:
+          1037829: 100
+
+      - id: 33968 # Blue Brewfest Hat [subclass=5 head]
+        costs:
+          1037829: 50
+
+      - id: 33864 # Brown Brewfest Hat [subclass=5 head]
+        costs:
+          1037829: 50
+
+      - id: 169461 # Garland of Grain [subclass=5 head]
+        costs:
+          1037829: 150
+
+      - id: 33967 # Green Brewfest Hat [subclass=5 head]
+        costs:
+          1037829: 50
+
+      - id: 33969 # Purple Brewfest Hat [subclass=5 head]
+        costs:
+          1037829: 50
+
+      - id: 138730 # Synthebrew Goggles XL [subclass=5 head]
+        costs:
+          1037829: 200
+
+      - id: 227795 # Homebrewer's Sampling Mantle [subclass=5 back]
+        costs:
+          1037829: 200
+
+      - id: 33863 # Brewfest Dress [subclass=5 chest]
+        costs:
+          1037829: 200
+
+      - id: 33862 # Brewfest Regalia [subclass=5 chest]
+        costs:
+          1037829: 200
+
+      - id: 33868 # Brewfest Boots [subclass=5 feet]
+        costs:
+          1037829: 100
+
+      - id: 33966 # Brewfest Slippers [subclass=5 feet]
+        costs:
+          1037829: 100
+
+      - id: 168915 # Tabard of Brew [tabard]
+        costs:
+          1037829: 200
+
+      - id: 169448 # Bottomless Brewfest Stein [subclass=14]
+        costs:
+          1037829: 10
+
+      - id: 209044 # Orange Brewfest Bulwark [shield]
+        costs:
+          1037829: 200
+
+  - id: 24495
+    type: "vendor"
+    name: "Blix Fixwidget"
+    note: "Token Redeemer"
+
+    locations:
+      "00-classic/durotar":
+        - 40.2 17.2 horde
+
+    groups: *groups
+    contents: *contents

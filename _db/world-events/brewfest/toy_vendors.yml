@@ -1,0 +1,62 @@
+things:
+  - id: 240486
+    type: "vendor"
+    name: "Jixy Wobblebolt"
+    note: "Toy Vendor"
+
+    locations:
+      "00-classic/dun_morogh":
+        - 56.2 36.6
+
+    groups: &groups
+      - name: "Brewfest - Toys"
+        range: -1
+        sortKey: "w-brewfest-3"
+
+    contents: &contents
+
+      # 0
+
+      - id: 209052 # Brew Barrel
+        costs:
+          1037829: 200
+
+      - id: 245946 # Brewer's Balloon
+        costs:
+          1037829: 200
+
+      - id: 116758 # Brewfest Banner
+        costs:
+          1037829: 100
+
+      - id: 90427 # Pandaren Brewpack
+        costs:
+          1037829: 100
+
+      - id: 71137 # Brewfest Keg Pony
+        costs:
+          1037829: 200
+
+      - id: 33927 # Brewfest Pony Keg
+        costs:
+          1037829: 100
+
+      - id: 166747 # Brewfest Reveler's Hearthstone
+        costs:
+          1037829: 200
+
+      - id: 116757 # Steamworks Sausage Grill
+        costs:
+          1037829: 200
+
+  - id: 241300
+    type: "vendor"
+    name: "Spritz Tinkerton"
+    note: "Toy Vendor"
+
+    locations:
+      "00-classic/durotar":
+        - 40.2 17
+
+    groups: *groups
+    contents: *contents
