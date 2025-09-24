@@ -60,6 +60,50 @@ groups:
         id: 11412
         description: "Rewards {price:10|1037829}"
 
+- name: "Dragonflight Bar Tabs"
+  icon: "achievement/18579"
+  iconText: "DF"
+  lookup: none
+  type: quest
+  data:
+    0:
+
+      - id: 77152
+        name: "Ohn'ahran Plains, Maruukai"
+
+      - id: 77745
+        name: "Ohn'ahran Plains, Rusza'Thar Reach"
+
+      - id: 77099
+        name: "Ohn'ahran Plains, Shady Sanctuary"
+
+      - id: 77747
+        name: "Thaldraszus, Algeth'era Court"
+
+      - id: 77155
+        name: "Thaldraszus, Eon's Fringe"
+
+      - id: 77153
+        name: "Thaldraszus, Valdrakken"
+
+      - id: 77096
+        name: "The Azure Span, Camp Antonidas"
+
+      - id: 77746
+        name: "The Azure Span, Camp Nowhere"
+
+      - id: 77097
+        name: "The Azure Span, Iskaara"
+
+      - id: 77744
+        name: "The Waking Shores, Dragonscale Basecamp"
+
+      - id: 76531
+        name: "The Waking Shores, Ruby Lifeshrine"
+
+      - id: 77095
+        name: "The Waking Shores, Wingrest Embassy"
+
 - name: "The War Within Bar Tabs"
   icon: "achievement/41212"
   iconText: "TWW"
@@ -70,40 +114,30 @@ groups:
 
       - id: 84315
         name: "Azj-Kahet, Mmarl"
-        description: "Rewards {price:10|1037829}"
     
       - id: 84316
         name: "Azj-Kahet, The Weaver's Lair"
-        description: "Rewards {price:10|1037829}"
 
       - id: 84313
         name: "City of Threads, The Burrows"
-        description: "Rewards {price:10|1037829}"
       
       - id: 84314
         name: "City of Threads, Umbral Bazaar"
-        description: "Rewards {price:10|1037829}"
 
       - id: 84310
         name: "Hallowfall, Lorel's Crossing"
-        description: "Rewards {price:10|1037829}"
   
       - id: 84311
         name: "Hallowfall, Mereldar"
-        description: "Rewards {price:10|1037829}"
     
       - id: 84305
         name: "Isle of Dorn, Dornogal"
-        description: "Rewards {price:10|1037829}"
         
       - id: 84306
         name: "Isle of Dorn, Freywold Village"
-        description: "Rewards {price:10|1037829}"
     
       - id: 84307
         name: "The Ringing Deeps, Gundargaz"
-        description: "Rewards {price:10|1037829}"
       
       - id: 84308
         name: "The Ringing Deeps, Opportunity Point"
-        description: "Rewards {price:10|1037829}"
