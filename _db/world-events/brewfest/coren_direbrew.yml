@@ -1,0 +1,22 @@
+things:
+  - id: 117393 # Keg-Shaped Treasure Chest
+    type: "item"
+    reset: "daily"
+    trackingQuestId: 77775
+    accountWide: true
+
+    contents:
+
+      - id: 248761 # Brewfest Barrel Bomber [mount]
+
+      - id: 37828 # Great Brewfest Kodo [mount]
+
+      - id: 33977 # Swift Brewfest Ram [mount]
+
+      - id: 37863 # Direbrew's Remote [toy]
+
+      - id: 208742 # Renewed Proto-Drake: Brewfest Armor
+
+      - id: 117378 # Direbrew's Bloodied Shanker [Level 100+]
+      - id: 150922 # Terrific Tankard O'Terror [Level 100+]
+      - id: 117379 # Tremendous Tankard O'Terror [Level 100+]
