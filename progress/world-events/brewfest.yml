@@ -59,3 +59,51 @@ groups:
       - name: "There and Back Again"
         id: 11412
         description: "Rewards {price:10|1037829}"
+
+- name: "The War Within Bar Tabs"
+  icon: "achievement/41212"
+  iconText: "TWW"
+  lookup: none
+  type: quest
+  data:
+    0:
+
+      - id: 84315
+        name: "Azj-Kahet, Mmarl"
+        description: "Rewards {price:10|1037829}"
+    
+      - id: 84316
+        name: "Azj-Kahet, The Weaver's Lair"
+        description: "Rewards {price:10|1037829}"
+
+      - id: 84313
+        name: "City of Threads, The Burrows"
+        description: "Rewards {price:10|1037829}"
+      
+      - id: 84314
+        name: "City of Threads, Umbral Bazaar"
+        description: "Rewards {price:10|1037829}"
+
+      - id: 84310
+        name: "Hallowfall, Lorel's Crossing"
+        description: "Rewards {price:10|1037829}"
+  
+      - id: 84311
+        name: "Hallowfall, Mereldar"
+        description: "Rewards {price:10|1037829}"
+    
+      - id: 84305
+        name: "Isle of Dorn, Dornogal"
+        description: "Rewards {price:10|1037829}"
+        
+      - id: 84306
+        name: "Isle of Dorn, Freywold Village"
+        description: "Rewards {price:10|1037829}"
+    
+      - id: 84307
+        name: "The Ringing Deeps, Gundargaz"
+        description: "Rewards {price:10|1037829}"
+      
+      - id: 84308
+        name: "The Ringing Deeps, Opportunity Point"
+        description: "Rewards {price:10|1037829}"
