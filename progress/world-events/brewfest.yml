@@ -3,12 +3,13 @@ groups:
 
 - name: "Brewfest Intro Quests"
   icon: "item/37829" # Brewfest Prize Token
+  iconText: "Intro"
   lookup: faction
   type: quest
   data:
     alliance:
-      - name: "Brewfest!"
-        id: 11441
+      - name: "Welcome to Brewfest!"
+        id: 11442
 
       - name: "Brewfest Chowdown"
         id: 56764
@@ -17,10 +18,6 @@ groups:
       - name: "Chug and Chuck!"
         id: 12022
         description: "Rewards {price:10|1037829}"
-
-      - name: "Direbrew's Dire Brew"
-        id: 12491
-        description: "Instance, rewards {price:40|1037829}"
 
       - name: "Pink Elekks On Parade"
         id: 11118
@@ -34,8 +31,8 @@ groups:
         description: "Rewards {price:10|1037829}"
 
     horde:
-      - name: "Brewfest!"
-        id: 11446
+      - name: "Welcome to Brewfest!"
+        id: 11447
 
       - name: "Brewfest Chowdown"
         id: 56748
@@ -44,10 +41,6 @@ groups:
       - name: "Chug and Chuck!"
         id: 12191
         description: "Rewards {price:10|1037829}"
-
-      - name: "Direbrew's Dire Brew"
-        id: 12492
-        description: "Instance, rewards {price:40|1037829}"
 
       - name: "Pink Elekks On Parade"
         id: 11120
@@ -59,6 +52,54 @@ groups:
       - name: "There and Back Again"
         id: 11412
         description: "Rewards {price:10|1037829}"
+
+- name: "Brewfest Banquet"
+  icon: "item/243293"
+  iconText: "Food"
+  lookup: faction
+  type: quest
+  data:
+    alliance:
+      - id: 90870
+        name: "Gathering the Grub"
+        description: "Rewards {price:15|1037829}"
+
+      - id: 90879
+        name: "Brewmaster's Kitchen"
+        description: "Rewards {price:30|1037829}"
+
+      - id: 90880
+        name: "Serving with Style"
+        description: "Rewards {price:10|1037829}"
+
+    horde:
+      - id: 91067
+        name: "Gathering the Grub"
+        description: "Rewards {price:15|1037829}"
+
+      - id: 91066
+        name: "Brewmaster's Kitchen"
+        description: "Rewards {price:30|1037829}"
+
+      - id: 91068
+        name: "Serving with Style"
+        description: "Rewards {price:10|1037829}"
+
+- name: "Coren Direbrew"
+  icon: "item/117393"
+  iconText: "Coren"
+  lookup: faction
+  type: quest
+  data:
+    alliance:
+      - name: "Direbrew's Dire Brew"
+        id: 12491
+        description: "Instance, rewards {price:40|1037829}"
+
+    horde:
+      - name: "Direbrew's Dire Brew"
+        id: 12492
+        description: "Instance, rewards {price:40|1037829}"
 
 - name: "Dragonflight Bar Tabs"
   icon: "achievement/18579"
