@@ -1,0 +1,177 @@
+tags:
+  - "event:legion-remix"
+
+things:
+  - id: 246028
+    type: "vendor"
+    name: "Sacerdormu"
+    note: "Heroic Raid Ensembles"
+
+    groups:
+      - name: "Phase 1"
+        range: 13
+        sortKey: "P1"
+
+      - name: "Phase 3"
+        range: 12
+        sortKey: "P3"
+
+      - name: "Phase 4"
+        range: -1
+        sortKey: "P4"
+
+    contents:
+
+      # Phase 1 
+
+      - id: 241589 # Ensemble: Regalia of Everburning Knowledge
+        costs:
+          2778: 20000
+
+      - id: 241585 # Ensemble: Vestments of the Purifier
+        costs:
+          2778: 20000
+
+      - id: 241581 # Ensemble: Legacy of Azj'aqir
+        costs:
+          2778: 20000
+
+      - id: 241576 # Ensemble: Vestment of Second Sight
+        costs:
+          2778: 20000
+
+      - id: 241573 # Ensemble: Garb of the Astral Warden
+        costs:
+          2778: 20000
+
+      - id: 241569 # Ensemble: Vestments of Enveloped Dissonance
+        costs:
+          2778: 20000
+
+      - id: 241565 # Ensemble: Doomblade Battlegear
+        costs:
+          2778: 20000
+
+      - id: 241560 # Ensemble: Eagletalon Battlegear
+        costs:
+          2778: 20000
+
+      - id: 241557 # Ensemble: Regalia of Shackled Elements (Ice)
+        costs:
+          2778: 20000
+
+      - id: 241555 # Ensemble: Regalia of Shackled Elements (Felfire)
+        costs:
+          2778: 20000
+
+      - id: 241552 # Ensemble: Dreadwyrm Battleplate
+        costs:
+          2778: 20000
+
+      - id: 241547 # Ensemble: Battleplate of the Highlord
+        costs:
+          2778: 20000
+
+      - id: 241543 # Ensemble: Warplate of the Obsidian Aspect
+        costs:
+          2778: 20000
+
+      # Phase 3 
+
+      - id: 241540 # Ensemble: Regalia of the Arcane Tempest
+        costs:
+          2778: 20000
+
+      - id: 241534 # Ensemble: Vestments of Blind Absolution
+        costs:
+          2778: 20000
+
+      - id: 241532 # Ensemble: Diabolic Raiment
+        costs:
+          2778: 20000
+
+      - id: 241526 # Ensemble: Demonbane Armor
+        costs:
+          2778: 20000
+
+      - id: 241524 # Ensemble: Stormheart Raiment
+        costs:
+          2778: 20000
+
+      - id: 241519 # Ensemble: Xuen's Battlegear
+        costs:
+          2778: 20000
+
+      - id: 241516 # Ensemble: Fanged Slayer's Armor
+        costs:
+          2778: 20000
+
+      - id: 241512 # Ensemble: Wildstalker Armor
+        costs:
+          2778: 20000
+
+      - id: 241506 # Ensemble: Regalia of the Skybreaker
+        costs:
+          2778: 20000
+
+      - id: 241502 # Ensemble: Gravewarden Armaments
+        costs:
+          2778: 20000
+
+      - id: 241500 # Ensemble: Radiant Lightbringer Armor
+        costs:
+          2778: 20000
+
+      - id: 241495 # Ensemble: Titanic Onslaught Armor
+        costs:
+          2778: 20000
+
+      # Phase 4
+
+      - id: 241491 # Ensemble: Runebound Regalia
+        costs:
+          2778: 20000
+
+      - id: 241487 # Ensemble: Gilded Seraph's Raiment
+        costs:
+          2778: 20000
+
+      - id: 241484 # Ensemble: Grim Inquisitor's Regalia
+        costs:
+          2778: 20000
+
+      - id: 241479 # Ensemble: Felreaper Vestments
+        costs:
+          2778: 20000
+
+      - id: 241475 # Ensemble: Bearmantle Battlegear
+        costs:
+          2778: 20000
+
+      - id: 241470 # Ensemble: Chi-Ji's Battlegear
+        costs:
+          2778: 20000
+
+      - id: 241468 # Ensemble: Regalia of the Dashing Scoundrel
+        costs:
+          2778: 20000
+
+      - id: 241464 # Ensemble: Serpentstalker Guise
+        costs:
+          2778: 20000
+
+      - id: 241457 # Ensemble: Garb of Venerated Spirits
+        costs:
+          2778: 20000
+
+      - id: 241454 # Ensemble: Dreadwake Armor
+        costs:
+          2778: 20000
+
+      - id: 241451 # Ensemble: Light's Vanguard Battleplate
+        costs:
+          2778: 20000
+
+      - id: 241446 # Ensemble: Juggernaut Battlegear
+        costs:
+          2778: 20000
