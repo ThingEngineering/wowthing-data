@@ -1,0 +1,20 @@
+things:
+  - id: 243293 # Bag of Brewfest Merchandise
+    type: "item"
+    reset: "daily"
+    trackingQuestId: 90118
+
+    contents:
+      - id: 241232 # Brewer's Basic Shoulder Cape
+      - id: 241341 # Brewer's Blue Shoulder Cape
+      - id: 241343 # Brewer's Basic Beret
+      - id: 241345 # Brewer's Blue Beret
+      - id: 241347 # Brewer's Basic Kilt
+      - id: 241350 # Brewer's Blue Kilt
+      - id: 249857 # Brewer's Blue Belt
+      - id: 249858 # Brewer's Basic Belt
+      - id: 245950 # Dark Iron Portable Forge
+      - id: 245955 # Dark Iron's Ceremonial Mace
+      - id: 245959 # Dark Iron's Crystal Ward
+      - id: 246784 # Dark Iron's Ancient Crusher
+      - id: 246801 # Dark Iron's Mighty Crossbow

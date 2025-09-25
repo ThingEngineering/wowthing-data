@@ -13,10 +13,12 @@ things:
 
       - id: 33977 # Swift Brewfest Ram [mount]
 
-      - id: 37863 # Direbrew's Remote [toy]
+      # - id: 37863 # Direbrew's Remote [maybe a toy some day :(]
 
       - id: 208742 # Renewed Proto-Drake: Brewfest Armor
 
-      - id: 117378 # Direbrew's Bloodied Shanker [Level 100+]
-      - id: 150922 # Terrific Tankard O'Terror [Level 100+]
-      - id: 117379 # Tremendous Tankard O'Terror [Level 100+]
+      - id: 117378 # Direbrew's Bloodied Shanker [dagger]
+
+      - id: 150922 # Terrific Tankard O'Terror [off-hand]
+
+      - id: 117379 # Tremendous Tankard O'Terror [off-hand]

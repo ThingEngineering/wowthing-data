@@ -130,9 +130,9 @@ things:
         costs:
           1037829: 200
 
-      - id: 169448 # Bottomless Brewfest Stein [subclass=14]
-        costs:
-          1037829: 10
+      # - id: 169448 # Bottomless Brewfest Stein [subclass=14]
+      #   costs:
+      #     1037829: 10
 
       - id: 209044 # Orange Brewfest Bulwark [shield]
         costs:
