@@ -1,0 +1,273 @@
+tags:
+  - "event:legion-remix"
+
+things:
+  - id: 241182
+    type: "vendor"
+    name: "Hemet Nesingwary XVII"
+    note: "Remix Mounts"
+
+    groups:
+      - name: "Phase 1"
+        range: 22
+        sortKey: "P1"
+
+      - name: "Phase 2"
+        range: 8
+        sortKey: "P2"
+
+      - name: "Phase 3"
+        range: 6
+        sortKey: "P3"
+
+      - name: "Phase 4"
+        range: -1
+        sortKey: "P4"
+    
+    contents:
+
+      # Mounts
+
+      - id: 250428 # Reins of the Illidari Dreadstalker
+        costs:
+          2778: 10000
+
+      - id: 250427 # Reins of the Illidari Blightstalker
+        costs:
+          2778: 10000
+
+      - id: 250429 # Reins of the Highland Elderhorn
+        costs:
+          2778: 10000
+
+      - id: 250723 # Reins of the Treetop Highmountain Eagle
+        costs:
+          2778: 10000
+
+      - id: 250721 # Reins of the Snowy Highmountain Eagle
+        costs:
+          2778: 10000
+
+      - id: 239687 # Reins of the Wretched Fel Bat
+        costs:
+          2778: 10000
+
+      - id: 239667 # Reins of the Ashplague Fel Bat
+        costs:
+          2778: 10000
+
+      - id: 239665 # Reins of the Bloodhunter Fel Bat
+        costs:
+          2778: 10000
+
+      - id: 250757 # Reins of the Gloomdark Nightmare
+        costs:
+          2778: 10000
+
+      - id: 250756 # Reins of the Turquoise Courser
+        costs:
+          2778: 10000
+
+      - id: 250752 # Reins of the Golden Sunrunner
+        costs:
+          2778: 10000
+
+      - id: 250751 # Reins of the Twilight Courser
+        costs:
+          2778: 10000
+
+      - id: 251795 # Reins of the Brimstone Courser
+        costs:
+          2778: 10000
+
+      - id: 251796 # Reins of the Chestnut Courser
+        costs:
+          2778: 10000
+
+      - id: 250424 # Reins of the Leystone Basilisk
+        costs:
+          2778: 10000
+
+      - id: 250425 # Reins of the Felslate Basilisk
+        costs:
+          2778: 10000
+
+      - id: 250423 # Reins of the Slag Basilisk
+        costs:
+          2778: 10000
+
+      - id: 250426 # Reins of the Aquamarine Basilisk
+        costs:
+          2778: 10000
+
+      - id: 138258 # Reins of the Long-Forgotten Hippogryph
+        costs:
+          2778: 20000
+
+      - id: 131734 # Spirit of Eche'ro
+        costs:
+          2778: 40000
+
+      - id: 138201 # Fathom Dweller
+        costs:
+          2778: 20000
+
+      - id: 141713 # Arcadian War Turtle
+        costs:
+          2778: 100000
+
+      - id: 250728 # Reins of the Arcberry Manasaber
+        costs:
+          2778: 10000
+
+      - id: 250761 # Reins of the Bonesteed of Triumph
+        costs:
+          2778: 10000
+
+      - id: 250760 # Reins of the Bonesteed of Bloodshed
+        costs:
+          2778: 10000
+
+      - id: 250759 # Reins of the Bonesteed of Plague
+        costs:
+          2778: 10000
+
+      - id: 250758 # Reins of the Bonesteed of Oblivion
+        costs:
+          2778: 10000
+
+      - id: 142236 # Midnight's Eternal Reins
+        costs:
+          2778: 100000
+
+      - id: 137574 # Living Infernal Core
+        costs:
+          2778: 100000
+
+      - id: 137575 # Fiendish Hellfire Core
+        costs:
+          2778: 100000
+
+      - id: 147806 # Cloudwing Hippogryph
+        costs:
+          2778: 20000
+
+      - id: 147807 # Highmountain Elderhorn
+        costs:
+          2778: 20000
+
+      - id: 143764 # Leywoven Flying Carpet
+        costs:
+          2778: 20000
+
+      - id: 147805 # Valarjar Stormwing
+        costs:
+          2778: 20000
+
+      - id: 147804 # Wild Dreamrunner
+        costs:
+          2778: 20000
+
+      - id: 143643 # Abyss Worm
+        costs:
+          2778: 100000
+
+      - id: 250192 # Reins of the Ghastly Ur'zul
+        costs:
+          2778: 10000
+
+      - id: 250748 # Reins of the Luminous Mana Ray
+        costs:
+          2778: 10000
+
+      - id: 250747 # Reins of the Albino Mana Ray
+        costs:
+          2778: 10000
+
+      - id: 250746 # Reins of the Bloodtooth Mana Ray
+        costs:
+          2778: 10000
+
+      - id: 250745 # Reins of the Fel-Scarred Mana Ray
+        costs:
+          2778: 10000
+
+      - id: 250803 # Garnet Ruinstrider
+        costs:
+          2778: 10000
+
+      - id: 250806 # Reins of the Longhorned Beryl Talbuk
+        costs:
+          2778: 10000
+
+      - id: 250805 # Reins of the Longhorned Argussian Talbuk
+        costs:
+          2778: 10000
+
+      - id: 250804 # Longhorned Bleakhoof Talbuk
+        costs:
+          2778: 10000
+
+      - id: 250802 # Reins of the Longhorned Sable Talbuk
+        costs:
+          2778: 10000
+
+      - id: 152816 # Antoran Charhound
+        costs:
+          2778: 100000
+
+      - id: 152903 # Biletooth Gnasher
+        costs:
+          2778: 40000
+
+      - id: 152904 # Acid Belcher
+        costs:
+          2778: 40000
+
+      - id: 152905 # Crimson Slavermaw
+        costs:
+          2778: 40000
+
+      - id: 153043 # Blessed Felcrusher
+        costs:
+          2778: 20000
+
+      - id: 153044 # Avenging Felcrusher
+        costs:
+          2778: 20000
+
+      - id: 153042 # Glorious Felcrusher
+        costs:
+          2778: 20000
+
+      - id: 152790 # Vile Fiend
+        costs:
+          2778: 40000
+
+      - id: 152843 # Darkspore Mana Ray
+        costs:
+          2778: 40000
+
+      - id: 152844 # Lambent Mana Ray
+        costs:
+          2778: 40000
+
+      - id: 152841 # Felglow Mana Ray
+        costs:
+          2778: 40000
+
+      - id: 152840 # Scintillating Mana Ray
+        costs:
+          2778: 40000
+
+      - id: 152842 # Vibrant Mana Ray
+        costs:
+          2778: 40000
+
+      - id: 152814 # Maddened Chaosrunner
+        costs:
+          2778: 40000
+
+      - id: 152789 # Shackled Ur'zul
+        costs:
+          2778: 100000
