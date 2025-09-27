@@ -5,37 +5,37 @@ things:
     note: "Pets and Toys"
 
     groups:
-      - name: "Phase 1 Pets"
+      - name: "Phase 1 - Pets"
         range: 13
-        sortKey: "P1P"
+        sortKey: "p1-2"
 
-      - name: "Phase 1 Toys"
+      - name: "Phase 1 - Toys"
         range: 7
-        sortKey: "P1T"
+        sortKey: "p1-3"
 
-      - name: "Phase 2 Pets"
+      - name: "Phase 2 - Pets"
         range: 1
-        sortKey: "P2P"
+        sortKey: "p2-2"
 
-      - name: "Phase 2 Toys"
+      - name: "Phase 2 - Toys"
         range: 6
-        sortKey: "P2T"
+        sortKey: "p2-3"
 
-      - name: "Phase 3 Pets"
+      - name: "Phase 3 - Pets"
         range: 4
-        sortKey: "P3P"
+        sortKey: "p3-2"
 
-      - name: "Phase 3 Toys"
+      - name: "Phase 3 - Toys"
         range: 2
-        sortKey: "P3T"
+        sortKey: "p3-3"
 
-      - name: "Phase 4 Pets"
+      - name: "Phase 4 - Pets"
         range: 5
-        sortKey: "P4P"
+        sortKey: "p4-2"
 
-      - name: "Phase 4 Toys"
+      - name: "Phase 4 - Toys"
         range: -1
-        sortKey: "P4T"
+        sortKey: "p4-3"
     
     contents:
 

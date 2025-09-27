@@ -5,21 +5,21 @@ things:
     note: "Remix Mounts"
 
     groups:
-      - name: "Phase 1"
+      - name: "Phase 1 - Mounts"
         range: 22
-        sortKey: "P1"
+        sortKey: "p1-1"
 
-      - name: "Phase 2"
+      - name: "Phase 2 - Mounts"
         range: 8
-        sortKey: "P2"
+        sortKey: "p2-1"
 
-      - name: "Phase 3"
+      - name: "Phase 3 - Mounts"
         range: 6
-        sortKey: "P3"
+        sortKey: "p3-1"
 
-      - name: "Phase 4"
+      - name: "Phase 4 - Mounts"
         range: -1
-        sortKey: "P4"
+        sortKey: "p4-1"
     
     contents:
 
@@ -215,62 +215,62 @@ things:
         costs:
           2778: 10000
 
-      - id: 152816 # Antoran Charhound
+      - id: 152816 # Antoran Charhound [mount]
         costs:
           2778: 100000
 
-      - id: 152903 # Biletooth Gnasher
+      - id: 152903 # Biletooth Gnasher [mount]
         costs:
           2778: 40000
 
-      - id: 152904 # Acid Belcher
+      - id: 152904 # Acid Belcher [mount]
         costs:
           2778: 40000
 
-      - id: 152905 # Crimson Slavermaw
+      - id: 152905 # Crimson Slavermaw [mount]
         costs:
           2778: 40000
 
-      - id: 153043 # Blessed Felcrusher
+      - id: 153043 # Blessed Felcrusher [mount]
         costs:
           2778: 20000
 
-      - id: 153044 # Avenging Felcrusher
+      - id: 153044 # Avenging Felcrusher [mount]
         costs:
           2778: 20000
 
-      - id: 153042 # Glorious Felcrusher
+      - id: 153042 # Glorious Felcrusher [mount]
         costs:
           2778: 20000
 
-      - id: 152790 # Vile Fiend
+      - id: 152790 # Vile Fiend [mount]
         costs:
           2778: 40000
 
-      - id: 152843 # Darkspore Mana Ray
+      - id: 152843 # Darkspore Mana Ray [mount]
         costs:
           2778: 40000
 
-      - id: 152844 # Lambent Mana Ray
+      - id: 152844 # Lambent Mana Ray [mount]
         costs:
           2778: 40000
 
-      - id: 152841 # Felglow Mana Ray
+      - id: 152841 # Felglow Mana Ray [mount]
         costs:
           2778: 40000
 
-      - id: 152840 # Scintillating Mana Ray
+      - id: 152840 # Scintillating Mana Ray [mount]
         costs:
           2778: 40000
 
-      - id: 152842 # Vibrant Mana Ray
+      - id: 152842 # Vibrant Mana Ray [mount]
         costs:
           2778: 40000
 
-      - id: 152814 # Maddened Chaosrunner
+      - id: 152814 # Maddened Chaosrunner [mount]
         costs:
           2778: 40000
 
-      - id: 152789 # Shackled Ur'zul
+      - id: 152789 # Shackled Ur'zul [mount]
         costs:
           2778: 100000

@@ -5,9 +5,9 @@ things:
     note: "Class Mounts"
 
     groups:
-      - name: "Phase 1"
+      - name: "Phase 1 - Class Mounts"
         range: -1
-        sortKey: "P1"
+        sortKey: "p1-1"
 
     contents:
 

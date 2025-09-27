@@ -5,13 +5,13 @@ things:
     note: "Dungeon Ensembles"
 
     groups:
-      - name: "Phase 1"
+      - name: "Phase 1 - Dungeon"
         range: 12
-        sortKey: "P1"
+        sortKey: "p1-9-0"
 
       - name: "Phase 3"
         range: -1
-        sortKey: "P3"
+        sortKey: "p3-9-0"
 
     contents:
 
