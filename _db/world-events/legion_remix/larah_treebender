@@ -1,0 +1,217 @@
+tags:
+  - "event:legion-remix"
+
+things:
+  - id: 241191
+    type: "vendor"
+    name: "Larah Treebender"
+    note: "World Ensembles"
+
+    groups:
+      - name: "Phase 1"
+        range: 28
+        sortKey: "P1"
+
+      - name: "Phase 3"
+        range: 8
+        sortKey: "P3"
+
+      - name: "Phase 4"
+        range: -1
+        sortKey: "P4"
+
+    contents:
+
+      # Phase 1 
+
+      - id: 139170 # Ensemble: Fel-Infused Cloth Armor
+        costs:
+          2778: 15000
+
+      - id: 139169 # Ensemble: Felshroud Leather Armor
+        costs:
+          2778: 15000
+
+      - id: 139168 # Ensemble: Fel-Chain Mail Armor
+        costs:
+          2778: 15000
+
+      - id: 139167 # Ensemble: Felforged Plate Armor
+        costs:
+          2778: 15000
+
+      - id: 241440 # Ensemble: Vestments of the Manasinged
+        costs:
+          2778: 15000
+
+      - id: 241438 # Ensemble: Moonfall Robes
+        costs:
+          2778: 15000
+
+      - id: 241437 # Ensemble: Battlegear of the Dreadhide Stalker
+        costs:
+          2778: 15000
+
+      - id: 241435 # Ensemble: Ambervale Bonehide
+        costs:
+          2778: 15000
+
+      - id: 241433 # Ensemble: Chains of Helheim
+        costs:
+          2778: 15000
+
+      - id: 241432 # Ensemble: Darkwatcher Bindings
+        costs:
+          2778: 15000
+
+      - id: 241430 # Ensemble: Jandvik Diver's Metal
+        costs:
+          2778: 15000
+
+      - id: 241429 # Ensemble: Leyline Defender's Sunplate Armor
+        costs:
+          2778: 15000
+
+      - id: 241384 # Ensemble: Regalia of the Hrydshal Runespeaker
+        costs:
+          2778: 15000
+
+      - id: 241383 # Ensemble: Crescent Vale Raiment
+        costs:
+          2778: 15000
+
+      - id: 241382 # Ensemble: Wine-dark Royal Robes
+        costs:
+          2778: 15000
+
+      - id: 241381 # Ensemble: Leyline Scholar's Regalia
+        costs:
+          2778: 15000
+
+      - id: 241380 # Ensemble: Highmountain Hides
+        costs:
+          2778: 15000
+
+      - id: 241379 # Ensemble: Haustvelt Leathers
+        costs:
+          2778: 15000
+
+      - id: 241378 # Ensemble: Sablehide Vestments
+        costs:
+          2778: 15000
+
+      - id: 241377 # Ensemble: Llothien Prowler's Kit
+        costs:
+          2778: 15000
+
+      - id: 241376 # Ensemble: Dreadthorn Battlegear
+        costs:
+          2778: 15000
+
+      - id: 241375 # Ensemble: Scales of Remembered Eternity
+        costs:
+          2778: 15000
+
+      - id: 241374 # Ensemble: Stormborn Laminar Armor
+        costs:
+          2778: 15000
+
+      - id: 241373 # Ensemble: Highmountain Riverscales
+        costs:
+          2778: 15000
+
+      - id: 241372 # Ensemble: Thunderpeak Boneguards
+        costs:
+          2778: 15000
+
+      - id: 241371 # Ensemble: Nar'thalas Graduate's Trim
+        costs:
+          2778: 15000
+
+      - id: 241370 # Ensemble: Kal'delar Battleplate
+        costs:
+          2778: 15000
+
+      - id: 241369 # Ensemble: Vrykul Funereal Regalia
+        costs:
+          2778: 15000
+
+      # Phase 3 
+
+      - id: 241364 # Ensemble: Riven Priesthood Regalia
+        costs:
+          2778: 15000
+
+      - id: 241363 # Ensemble: Lunarblight Leathers
+        costs:
+          2778: 15000
+
+      - id: 241362 # Ensemble: Shrinebreaker's Battlegear
+        costs:
+          2778: 15000
+
+      - id: 241361 # Ensemble: Moonshatter Warplate
+        costs:
+          2778: 15000
+
+      - id: 241444 # Ensemble: Vileweave Vestments
+        costs:
+          2778: 15000
+
+      - id: 241443 # Ensemble: Netherfiend Battlegear
+        costs:
+          2778: 15000
+
+      - id: 241442 # Ensemble: Ered'ruin Scalemail
+        costs:
+          2778: 15000
+
+      - id: 241441 # Ensemble: Xorothian Plate Armor
+        costs:
+          2778: 15000
+
+      # Phase 4 
+
+      - id: 241359 # Ensemble: Garothi Battleplate
+        costs:
+          2778: 15000
+
+      - id: 241368 # Ensemble: Doomsinger's Cloth Armor
+        costs:
+          2778: 15000
+
+      - id: 241367 # Ensemble: Arinor Keeper's Leather Armor
+        costs:
+          2778: 15000
+
+      - id: 241366 # Ensemble: Oronaar Disciple's Mail Armor
+        costs:
+          2778: 15000
+
+      - id: 241365 # Ensemble: Praetorium Guard's Plate Armor
+        costs:
+          2778: 15000
+
+      - id: 241391 # Ensemble: Stygian Hides
+        costs:
+          2778: 15000
+
+      - id: 253594 # Ensemble: Zealous Felslingers Battle Armor
+        costs:
+          2778: 15000
+
+      - id: 253588 # Ensemble: World-Defiler's Battle Armor
+        costs:
+          2778: 15000
+
+      - id: 254753 # Ensemble: Forgotten Conservatory Clothes
+        costs:
+          2778: 15000
+
+      - id: 254754 # Ensemble: Eredath Lightseeker's Regalia
+        costs:
+          2778: 15000
+
+      - id: 254752 # Ensemble: Triumvirate High Guard's Battlegear
+        costs:
+          2778: 15000

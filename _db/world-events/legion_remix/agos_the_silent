@@ -1,0 +1,45 @@
+tags:
+  - "event:legion-remix"
+
+things:
+  - id: 241184
+    type: "vendor"
+    name: "Agos the Silent"
+    note: "Lost and Found Ensembles"
+
+    groups:
+      - name: "Phase 1"
+        range: -1
+        sortKey: "P1"
+
+    contents:
+
+      # Phase 1 
+
+      - id: 241405 # Ensemble: Skyborne Brigandine
+        costs:
+          2778: 15000
+
+      - id: 241404 # Ensemble: Seaborne Brigandine
+        costs:
+          2778: 15000
+
+      - id: 241401 # Ensemble: Sunborne Runemail
+        costs:
+          2778: 15000
+
+      - id: 241398 # Ensemble: Earthbreaker Dragonscale
+        costs:
+          2778: 15000
+
+      - id: 241394 # Ensemble: Val'kyr's Warharness
+        costs:
+          2778: 15000
+
+      - id: 241393 # Ensemble: Winged Plate of the Valhalas Champion
+        costs:
+          2778: 15000
+
+      - id: 241354 # Ensemble: Emerald Drake Hunter's Kit
+        costs:
+          2778: 15000

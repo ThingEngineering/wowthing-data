@@ -1,0 +1,65 @@
+tags:
+  - "event:legion-remix"
+
+things:
+  - id: 241186
+    type: "vendor"
+    name: "Grandmaster Jakkus"
+    note: "Class Mounts"
+
+    groups:
+      - name: "Phase 1"
+        range: -1
+        sortKey: "P1"
+
+    contents:
+
+      # Phase 1
+
+      - id: 252954 # Felscorned Reins of the Vilebrood Vanquisher
+        costs:
+          2778: 20000
+
+      - id: 253013 # Slayer's Reins of the Felscorned Shrieker
+        costs:
+          2778: 20000
+
+      - id: 253024 # Feldruid's Scornwing Idol
+        costs:
+          2778: 20000
+
+      - id: 253025 # Reins of the Felscorned Wolfhawk
+        costs:
+          2778: 20000
+
+      - id: 253026 # Archmage's Felscorned Disc
+        costs:
+          2778: 20000
+
+      - id: 253027 # Felscorned Grandmaster's Bell
+        costs:
+          2778: 20000
+
+      - id: 253028 # Reins of the Highlord's Felscorned Charger
+        costs:
+          2778: 20000
+
+      - id: 253029 # Felscorned Seeker's Whistle
+        costs:
+          2778: 20000
+
+      - id: 253030 # Shadowblade's Reins of Felscorned Portent
+        costs:
+          2778: 20000
+
+      - id: 253031 # Felscorned Tempest Totem
+        costs:
+          2778: 20000
+
+      - id: 253032 # Felscorned Reins of the Netherlord's Dreadsteed
+        costs:
+          2778: 20000
+
+      - id: 253033 # Iron Reins of the Felscorned War Wrym
+        costs:
+          2778: 20000

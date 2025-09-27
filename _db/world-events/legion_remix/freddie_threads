@@ -1,0 +1,101 @@
+tags:
+  - "event:legion-remix"
+
+things:
+  - id: 241191
+    type: "vendor"
+    name: "Freddie Threads"
+    note: "Cloak Ensembles"
+
+    groups:
+      - name: "Phase 1"
+        range: 13
+        sortKey: "P1"
+
+      - name: "Phase 3"
+        range: 1
+        sortKey: "P3"
+
+      - name: "Phase 4"
+        range: -1
+        sortKey: "P4"
+
+    contents:
+
+      # Phase 1 
+
+      - id: 235630 # Ensemble: Runespeaker Wraps
+        costs:
+          2778: 4000
+
+      - id: 241591 # Ensemble: Legion Hunter's Capes
+        costs:
+          2778: 6000
+
+      - id: 241590 # Ensemble: Stormborne Wraps
+        costs:
+          2778: 4000
+
+      - id: 242240 # Ensemble: Cloaks of the Green Mountains
+        costs:
+          2778: 4000
+
+      - id: 242234 # Ensemble: Dalaran's Finest Silken Cloaks
+        costs:
+          2778: 6000
+
+      - id: 242233 # Ensemble: Cloaks of Silken Knowledge
+        costs:
+          2778: 6000
+
+      - id: 242232 # Ensemble: Cloaks of the Ironskin Gladiator
+        costs:
+          2778: 8000
+
+      - id: 242231 # Ensemble: Cloaks of the Fel Battler
+        costs:
+          2778: 2000
+
+      - id: 242230 # Ensemble: Shrouds of the Lost Deathwyrms
+        costs:
+          2778: 8000
+
+      - id: 242229 # Ensemble: Druidic Fur Drapes
+        costs:
+          2778: 2000
+
+      - id: 242228 # Ensemble: Shrouds of Azj'Aqir
+        costs:
+          2778: 8000
+
+      - id: 241593 # Ensemble: Cloaks of the Lost Gladiator
+        costs:
+          2778: 4000
+
+      - id: 241592 # Ensemble: Cloaks of the Lost Combatant
+        costs:
+          2778: 8000
+
+      # Phase 3 
+
+      - id: 242235 # Ensemble: Drapes of Devouring Night
+        costs:
+          2778: 6000
+
+      # Phase 4 
+
+      - id: 242239 # Ensemble: Eredar Battle Capes
+        costs:
+          2778: 6000
+
+      - id: 242238 # Ensemble: Cloaks of the Antoran Guard
+        costs:
+          2778: 8000
+
+      - id: 242237 # Ensemble: Argussian Demonsbane Cloaks
+        costs:
+          2778: 6000
+
+      - id: 242236 # Ensemble: Drapes of Eredar Finery
+        costs:
+          2778: 6000
