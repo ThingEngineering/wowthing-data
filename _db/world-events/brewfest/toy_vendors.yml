@@ -11,7 +11,7 @@ things:
     groups: &groups
       - name: "Brewfest - Toys"
         range: -1
-        sortKey: "w-brewfest-3"
+        sortKey: "z-brewfest-3"
 
     contents: &contents
 

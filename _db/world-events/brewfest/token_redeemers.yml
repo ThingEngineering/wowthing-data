@@ -12,16 +12,20 @@ things:
 
       - name: "Brewfest - Pets"
         range: 3
-        sortKey: "w-brewfest-2"
+        sortKey: "z-brewfest-2"
 
       - name: "Brewfest - Toys"
         range: 7
-        sortKey: "w-brewfest-3"
-
+        sortKey: "z-brewfest-3"
+      
+      - name: "Brewfest - Steins"
+        range: 6
+        sortKey: "z-brewfest-5z"
+      
       - name: "Brewfest - Hats"
         range: 8
         sortKey: "z-brewfest-5b"
-      
+
       - name: "Brewfest - Transmog"
         range: -1
         sortKey: "z-brewfest-5c"
@@ -71,6 +75,22 @@ things:
       - id: 116757 # Steamworks Sausage Grill [toy]
         costs:
           1037829: 200
+
+      # Steins
+
+      - id: 169448 # Bottomless Brewfest Stein [subclass=14]
+        costs:
+          1037829: 10
+
+      - id: 169450 # Filled Bottomless Brewfest Stein [Barleybrew Clear - Alliance]
+
+      - id: 169452 # Filled Bottomless Brewfest Stein [Thunder 45 - Alliance]
+
+      - id: 169453 # Filled Bottomless Brewfest Stein [Gordok Grog - Alliance/Horde]
+
+      - id: 169454 # Filled Bottomless Brewfest Stein [Small Step Brew - Horde]
+
+      - id: 169455 # Filled Bottomless Brewfest Stein [Jungle River Water - Horde]
 
       # 0
 
@@ -129,10 +149,6 @@ things:
       - id: 168915 # Tabard of Brew [tabard]
         costs:
           1037829: 200
-
-      # - id: 169448 # Bottomless Brewfest Stein [subclass=14]
-      #   costs:
-      #     1037829: 10
 
       - id: 209044 # Orange Brewfest Bulwark [shield]
         costs:
