@@ -72,7 +72,7 @@ things:
       - id: 242368 # The First Satyr's Spaulders
         costs:
           2778: 30000
-          242370: 20
+          1242370: 20
 
       # Phase 3 
 
@@ -127,7 +127,7 @@ things:
       - id: 151524 # Hammer of Vigilance
         costs:
           2778: 30000
-          10253305: 20
+          1253305: 20
 
       # Phase 4
 
@@ -182,9 +182,9 @@ things:
       - id: 255006 # Taeshalach
         costs:
           2778: 30000
-          10253306: 20
+          1253306: 20
 
       - id: 253273 # Scythe of the Unmaker
         costs:
           2778: 30000
-          10253304: 20
+          1253304: 20
