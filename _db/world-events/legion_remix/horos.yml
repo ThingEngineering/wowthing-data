@@ -18,7 +18,7 @@ things:
         sortKey: "p2-2"
 
       - name: "Phase 2 - Toys"
-        range: 6
+        range: 7
         sortKey: "p2-3"
 
       - name: "Phase 3 - Pets"
@@ -152,6 +152,10 @@ things:
           2778: 10000
 
       - id: 119211 # Golden Hearthstone Card: Lord Jaraxxus
+        costs:
+          2778: 100000
+
+      - id: 143544 # Skull of Corruption
         costs:
           2778: 100000
 
