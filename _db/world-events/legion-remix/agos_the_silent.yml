@@ -7,7 +7,7 @@ things:
     groups:
       - name: "Phase 1 Misc Ensembles"
         range: -1
-        sortKey: "p1-9-2"
+        sortKey: "p1-9-1"
 
     contents:
 
