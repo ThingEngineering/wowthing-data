@@ -7,15 +7,15 @@ things:
     groups:
       - name: "Phase 1 - Raid"
         range: 13
-        sortKey: "p1-9-4"
+        sortKey: "p1-9-6"
 
       - name: "Phase 3 - Raid"
         range: 12
-        sortKey: "p3-9-4"
+        sortKey: "p3-9-6"
 
       - name: "Phase 4 - Raid"
         range: -1
-        sortKey: "p4-9-4"
+        sortKey: "p4-9-6"
 
     contents:
 
