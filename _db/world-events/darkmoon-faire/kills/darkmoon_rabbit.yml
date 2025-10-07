@@ -1,0 +1,14 @@
+things:
+  - id: 58336
+    type: "npc"
+    name: "Darkmoon Rabbit"
+    reset: "daily"
+    trackingQuestId: 
+
+    locations:
+      here: # unknown
+        - 75.7 78.2
+
+    contents:
+
+      - id: 80008 # Darkmoon Rabbit [pet]

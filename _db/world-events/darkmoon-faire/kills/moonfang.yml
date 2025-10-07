@@ -1,0 +1,21 @@
+things:
+  - id: 71992
+    type: "npc"
+    name: "Moonfang"
+    note: "Darkmoon Den Mother"
+    reset: "daily"
+    trackingQuestId: 
+
+    locations:
+      here: # unknown
+        - 39.6 44.1
+
+    contents:
+
+      - id: 101570 # Moon Moon [pet]
+
+      - id: 101571 # Moonfang Shroud [toy]
+
+      - id: 105898 # Moonfang's Paw [toy]
+
+      # - id: 105891 # Moonfang's Pelt [quest]

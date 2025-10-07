@@ -1,0 +1,26 @@
+things:
+  - id: 122899
+    type: "npc"
+    name: "Death Metal Knight"
+    reset: "daily"
+    trackingQuestId: 
+
+    locations:
+      here: # unknown
+        - 65.5 68.3
+
+    contents:
+
+      - id: 151265 # Blight Boar Microphone [toy]
+
+      - id: 151253 # Lightly-Padded Cage Helm [cloth head]
+
+      - id: 151252 # Leather-Lined Cage Helm [leather head]
+
+      - id: 151254 # Chain-Linked Cage Helm [mail head]
+
+      - id: 151251 # Steel-Reinforced Cage Helm [plate head]
+
+      - id: 151397 # Sweaty Wristbands [subclass=5 wrists]
+
+      - id: 151255 # Necromedes, the Death Resonator [2h ? mace]
