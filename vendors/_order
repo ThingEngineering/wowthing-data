@@ -199,6 +199,7 @@ world-events/_world_events.yml
     world-events/midsummer_fire_festival.yml
     world-events/noblegarden.yml
     world-events/trial_of_style.yml
+    world-events/winter_veil.yml
     -
     world-events/a_greedy_emissary.yml
     world-events/anniversary.yml

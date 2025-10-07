@@ -1,0 +1,143 @@
+things:
+  - id: 13420
+    type: "vendor"
+    name: "Penney Copperpinch"
+    note: "Smokywood Pastures"
+
+    locations:
+      "00-classic/orgrimmar":
+        - 46.4 6.2
+
+    groups: &groups
+
+    contents: &contents
+
+      - id: 188680 # Winter Veil Chorus Book [toy]
+        costs:
+          0: 1 # Gold
+
+      - id: 34262 # Pattern: Winter Boots [leatherworking]
+        costs:
+          0: 1 # Gold
+
+      - id: 34261 # Pattern: Green Winter Clothes [tailoring]
+        costs:
+          0: 1 # Gold
+
+      - id: 17200 # Recipe: Gingerbread Cookie [cooking]
+        costs:
+          0: 1 # Gold
+
+      - id: 34413 # Recipe: Hot Apple Cider [cooking]
+        costs:
+          0: 1 # Gold
+
+      - id: 17201 # Recipe: Winter Veil Eggnog [cooking]
+        costs:
+          0: 1 # Gold
+
+      # 0
+
+      - id: 234401 # Festive Green Holiday Coat [subclass=5 chest]
+        costs:
+          0: 30 # Gold
+
+      - id: 234593 # Festive Green Holiday Vest [subclass=5 chest]
+        costs:
+          0: 30 # Gold
+
+      - id: 234400 # Festive Red Holiday Coat [subclass=5 chest]
+        costs:
+          0: 30 # Gold
+
+      - id: 234594 # Festive Red Holiday Vest [subclass=5 chest]
+        costs:
+          0: 30 # Gold
+
+      - id: 70923 # Gaudy Winter Veil Sweater [subclass=5 chest]
+        costs:
+          0: 1 # Gold
+
+      - id: 234398 # Festive Green Holiday Belt [subclass=5 waist]
+        costs:
+          0: 15 # Gold
+
+      - id: 234399 # Festive Red Holiday Belt [subclass=5 waist]
+        costs:
+          0: 15 # Gold
+
+      - id: 234403 # Festive Green Holiday Pants [subclass=5 legs]
+        costs:
+          0: 25 # Gold
+
+      - id: 234405 # Festive Green Holiday Shorts [subclass=5 legs]
+        costs:
+          0: 25 # Gold
+
+      - id: 234402 # Festive Red Holiday Pants [subclass=5 legs]
+        costs:
+          0: 25 # Gold
+
+      - id: 234404 # Festive Red Holiday Shorts [subclass=5 legs]
+        costs:
+          0: 25 # Gold
+
+      - id: 234407 # Festive Green Holiday Boots [subclass=5 feet]
+        costs:
+          0: 15 # Gold
+
+      - id: 234406 # Festive Red Holiday Boots [subclass=5 feet]
+        costs:
+          0: 15 # Gold
+
+      - id: 234597 # Festive Green Holiday Shirt [shirt]
+        costs:
+          0: 30 # Gold
+
+      - id: 234596 # Festive Green Holiday Sweater [shirt]
+        costs:
+          0: 30 # Gold
+
+      - id: 234598 # Festive Red Holiday Shirt [shirt]
+        costs:
+          0: 30 # Gold
+
+      - id: 234595 # Festive Red Holiday Sweater [shirt]
+        costs:
+          0: 30 # Gold
+
+  - id: 13429
+    type: "vendor"
+    name: "Nardstrum Copperpinch"
+    note: "Smokywood Pastures"
+
+    locations:
+      "00-classic/undercity":
+        - 62.2 73.2 horde
+    
+    groups: *groups
+    contents: *contents
+
+  - id: 13432
+    type: "vendor"
+    name: "Seersa Copperpinch"
+    note: "Smokywood Pastures"
+
+    locations:
+      "00-classic/thunder_bluff":
+        - 41.4 54.6
+    
+    groups: *groups
+    contents: *contents
+
+  - id: 23064
+    type: "vendor"
+    name: "Eebee Jinglepocket"
+    note: "Smokywood Pastures"
+
+    locations:
+      "01-the-burning-crusade/shattrath_city":
+        - 43 64.8
+    
+    groups: *groups
+    contents: *contents

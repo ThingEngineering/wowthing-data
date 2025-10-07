@@ -1,0 +1,69 @@
+things:
+  - id: 116762 # Stolen Present
+    type: "item"
+    reset: "daily"
+
+    contents:
+
+      # Illusions
+      - id: 118572 # Illusion: Flames of Ragnaros [illusion]
+      - id: 128649 # Illusion: Winter's Grasp [illusion]
+
+      # Mount things
+      - id: 210432 # Highland Drake: Winter Veil Armor (MM!)
+
+      # Pets
+      - id: 54436 # Blue Clockwork Rocket Bot [pet]
+      - id: 34425 # Clockwork Rocket Bot [pet]
+      - id: 232531 # Grunch [pet]
+      - id: 73797 # Lump of Coal (Lumpy) [pet]
+      - id: 104317 # Rotten Helper Box (Rotten Little Helper) [pet]
+      - id: 178533 # Shaking Pet Carrier (Jingles) [pet]
+      
+      # Toys
+      - id: 54343 # Blue Crashin' Thrashin' Racer Controller [toy]
+      - id: 108632 # Crashin' Thrashin' Flamer Controller [toy]
+      - id: 104318 # Crashin' Thrashin' Flyer Controller [toy]
+      - id: 172223 # Crashin' Thrashin' Battleship [toy]
+      - id: 172222 # Crashin' Thrashin' Juggernaught [toy]
+      - id: 37710 # Crashin' Thrashin' Racer Controller [toy]
+      - id: 116763 # Crashin' Thrashin' Shredder Controller [toy]
+      - id: 139337 # Disposable Winter Veil Suits [toy]
+      - id: 128636 # Endothermic Blaster [toy]
+      - id: 191925 # Falling Star Flinger [toy]
+      - id: 191937 # Falling Star Catcher [toy]
+      - id: 209859 # Festive Trans-Dimensional Bird Whistle [toy]
+      - id: 116692 # Fuzzy Green Lounge Cushion [toy]
+      - id: 162973 # Greatfather Winter's Hearthstone [toy]
+      - id: 151343 # Hearthstation (A) [toy]
+      - id: 151344 # Hearthstation (H) [toy]
+      - id: 208825 # Junior Timekeeper's Racing Belt [toy]
+      - id: 46709 # MiniZep Controller [toy]
+      - id: 116689 # Pineapple Lounge Cushion [toy]
+      - id: 128776 # Red Wooden Sled [toy]
+      - id: 187422 # Rockin' Rollin' Racer Customizer 19.9.3 [toy]
+      - id: 116690 # Safarai Lounge Cushion [toy]
+      - id: 116456 # Scroll of Storytelling [toy]
+      - id: 90888 # Special Edition Foot Ball [toy]
+      - id: 90883 # The Pigskin [toy]
+      - id: 54438 # Tiny Blue Ragdoll [toy]
+      - id: 54437 # Tiny Green Ragdoll [toy]
+      - id: 162643 # Toy Armor Set [A] [toy]
+      - id: 162642 # Toy Armor Set [H] [toy]
+      - id: 44606 # Toy Train Set [toy]
+      - id: 151349 # Toy Weapon Set [A] [toy]
+      - id: 151348 # Toy Weapon Set [H] [toy]
+      - id: 172219 # Wild Holly [toy]
+      - id: 45057 # Wind-Up Train Wrecker [toy]
+      - id: 188680 # Winter Veil Chorus Book [toy]
+      - id: 210656 # Winter Veil Socks [toy]
+      - id: 178530 # Wreath-A-Rang [toy]
+      - id: 116691 # Zhevra Lounge Cusion [toy]
+
+      # Transmog
+      - id: 143898 # Miniature Winter Veil Tree (Level 1 - Cosmetic)
+      - id: 66540 # Miniature Winter Veil Tree (Level 85)
+
+      # ?
+      - id: 219291 # Puntable Baby Greench
+      - id: 219255 # Puntable Rotten Little Helper
