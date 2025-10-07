@@ -9,15 +9,15 @@ things:
         range: 12
         sortKey: "p1-9-1"
 
-      - name: "Phase 2"
+      - name: "Phase 2 - LFR Raid"
         range: 4
         sortKey: "p2-9-1"
 
-      - name: "Phase 3"
+      - name: "Phase 3 - LFR Raid"
         range: 12
         sortKey: "p3-9-1"
 
-      - name: "Phase 4"
+      - name: "Phase 4 - LFR Raid"
         range: -1
         sortKey: "p4-9-1"
 
