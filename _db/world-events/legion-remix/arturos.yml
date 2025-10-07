@@ -7,11 +7,11 @@ things:
     groups:
       - name: "Phase 1 - Dungeon"
         range: 12
-        sortKey: "p1-9-3"
+        sortKey: "p1-9-4"
 
       - name: "Phase 3 - Dungeon"
         range: -1
-        sortKey: "p3-9-3"
+        sortKey: "p3-9-4"
 
     contents:
 
