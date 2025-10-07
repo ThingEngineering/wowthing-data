@@ -5,7 +5,7 @@ things:
     note: "Lost and Found Ensembles"
 
     groups:
-      - name: "Phase 1 Misc Ensembles"
+      - name: "Phase 1 - Misc Ensembles"
         range: -1
         sortKey: "p1-9-1"
 
