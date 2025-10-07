@@ -1,0 +1,107 @@
+things:
+  - type: vendor
+    name: "2025-10"
+    id: 1202510
+
+    groups:
+      - name: "2025-10"
+        range: -1
+        sortKey: "tp-7502" # (100-YY)(12-MM)
+
+    contents:
+
+      - id: 247723 # The Headless Horseman's Hallowed Charger [mount]
+        costs:
+          2032: 700
+
+      - id: 226506 # Hand of Reshkigaal [mount]
+        costs:
+          2032: 750
+
+      - id: 246337 # Rustyroot Fel Snooter [pet]
+        costs:
+          2032: 250
+
+      - id: 205148 # Soot-Stained Shalewing [pet]
+        costs:
+          2032: 200
+
+      - id: 212525 # Delicate Ebony Parasol [toy]
+        costs:
+          2032: 200
+
+      - id: 226429 # Ensemble: Ragged Harvest Golem
+        costs:
+          2032: 800
+
+      - id: 247991 # Ensemble: The Horseman's Ghostly Collection
+        costs:
+          2032: 600
+
+      - id: 246965 # Ensemble: Felreaver's Azure Attire
+        costs:
+          2032: 575
+
+      - id: 242345 # Ensemble: Girded Mist Attire
+        costs:
+          2032: 375
+
+      - id: 242467 # Ensemble: Faded Sweatsuit
+        costs:
+          2032: 100
+
+      - id: 235028 # Vigilante's Faded Mask [head]
+        costs:
+          2032: 50
+
+      - id: 233105 # Long Faded War Skirt [legs]
+        costs:
+          2032: 40
+
+      - id: 233144 # Long Faded War Skirt and Leg Wraps [legs]
+        costs:
+          2032: 50
+
+      - id: 233088 # Short Faded War Skirt [legs]
+        costs:
+          2032: 40
+
+      - id: 233127 # Short Faded War Skirt and Leg Wraps [legs]
+        costs:
+          2032: 50
+
+      - id: 233178 # Banded Faded War Slippers [feet]
+        costs:
+          2032: 20
+
+      - id: 233161 # Banded Faded War Wraps [feet]
+        costs:
+          2032: 20
+
+      - id: 246788 # Netherstorm Felblade [1h sword]
+        costs:
+          2032: 100
+
+      - id: 247708 # The Horseman's Hallowed Blade [1h sword]
+        costs:
+          2032: 230
+
+      - id: 246792 # Netherstorm Feldirk [dagger]
+        costs:
+          2032: 100
+
+      - id: 246999 # Infernal's Profane Touch [wand]
+        costs:
+          2032: 100
+
+      - id: 247712 # The Horseman's Hallowed Great Blade [2h sword]
+        costs:
+          2032: 260
+
+      - id: 246992 # Infernal's Profane Staff [staff]
+        costs:
+          2032: 125
+
+      - id: 247717 # The Horseman's Hallowed Bulwark [shield]
+        costs:
+          2032: 100
