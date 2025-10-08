@@ -5,17 +5,17 @@ things:
     note: "Cloak Ensembles"
 
     groups:
-      - name: "Phase 1"
+      - name: "Phase 1 - Cloaks"
         range: 13
-        sortKey: "P1"
+        sortKey: "p1-9-3"
 
-      - name: "Phase 3"
+      - name: "Phase 3 - Cloaks"
         range: 1
-        sortKey: "P3"
+        sortKey: "p3-9-3"
 
-      - name: "Phase 4"
+      - name: "Phase 4 - Cloaks"
         range: -1
-        sortKey: "P4"
+        sortKey: "p4-9-3"
 
     contents:
 

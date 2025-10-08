@@ -5,17 +5,17 @@ things:
     note: "World Ensembles"
 
     groups:
-      - name: "Phase 1"
+      - name: "Phase 1 - World Sets"
         range: 28
-        sortKey: "P1"
+        sortKey: "p1-9-0"
 
-      - name: "Phase 3"
+      - name: "Phase 3 - World Sets"
         range: 8
-        sortKey: "P3"
+        sortKey: "p3-9-0"
 
-      - name: "Phase 4"
+      - name: "Phase 4 - World Sets"
         range: -1
-        sortKey: "P4"
+        sortKey: "p4-9-0"
 
     contents:
 

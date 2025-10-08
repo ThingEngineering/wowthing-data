@@ -5,13 +5,13 @@ things:
     note: "Exclusive Ensembles"
 
     groups:
-      - name: "Phase 1"
+      - name: "Phase 1 - Exclusive Sets"
         range: 33
-        sortKey: "P1"
+        sortKey: "p1-9-2"
 
-      - name: "Phase 4"
+      - name: "Phase 4 - Exclusive Sets"
         range: -1
-        sortKey: "P4"
+        sortKey: "p4-9-2"
 
     contents:
 
