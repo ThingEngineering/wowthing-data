@@ -15,16 +15,16 @@ things:
 
       - id: 241597 # Ensemble: Funerary Plate of the Chosen Dead
         costs:
-          2778: 20000
+          3252: 20000
 
       - id: 241601 # Ensemble: Chains of the Chosen Dead
         costs:
-          2778: 20000
+          3252: 20000
 
       - id: 241604 # Ensemble: Garb of the Chosen Dead
         costs:
-          2778: 20000
+          3252: 20000
 
       - id: 241607 # Ensemble: Regalia of the Chosen Dead
         costs:
-          2778: 20000
+          3252: 20000

@@ -43,222 +43,222 @@ things:
 
       - id: 239705 # Morsel
         costs:
-          2778: 5000
+          3252: 5000
 
       - id: 239699 # Tidbit
         costs:
-          2778: 5000
+          3252: 5000
 
       - id: 129108 # Son of Goredome
         costs:
-          2778: 5000
+          3252: 5000
 
       - id: 141348 # Wondrous Wisdomball, not sure if I can link the quest item to the pet id somehow
         costs:
-          2778: 100000
+          3252: 100000
 
       - id: 140261 # Hungering Claw
         costs:
-          2778: 10000
+          3252: 10000
 
       - id: 140320 # Corgnelius
         costs:
-          2778: 10000
+          3252: 10000
 
       - id: 136901 # Eye of Inquisition
         costs:
-          2778: 100000
+          3252: 100000
 
       - id: 140316 # Firebat Pup
         costs:
-          2778: 10000
+          3252: 10000
 
       - id: 136900 # Hateful Eye
         costs:
-          2778: 35000
+          3252: 35000
 
       - id: 136903 # Nightmare Whelpling
         costs:
-          2778: 80000
+          3252: 80000
 
       - id: 136922 # Wyrmy Tunkins
         costs:
-          2778: 10000
+          3252: 10000
 
       - id: 130167 # Thistleleaf Adventurer
         costs:
-          2778: 100000
+          3252: 100000
 
       - id: 153252 # Rebellious Imp
         costs:
-          2778: 35000
+          3252: 35000
 
       # Phase 1 Toys
 
       - id: 131724 # Crystalline Eye of Undravius
         costs:
-          2778: 10000
+          3252: 10000
 
       - id: 131717 # Starlight Beacon
         costs:
-          2778: 10000
+          3252: 10000
 
       - id: 129165 # Barnacle-Encrusted Gem
         costs:
-          2778: 10000
+          3252: 10000
 
       - id: 130169 # Tournament Favor
         costs:
-          2778: 10000
+          3252: 10000
 
       - id: 140363 # Pocket Fel Spreader
         costs:
-          2778: 20000
+          3252: 20000
 
       - id: 141862 # Mote of Light
         costs:
-          2778: 25000
+          3252: 25000
 
       - id: 140160 # Stormforged Vrykul Horn
         costs:
-          2778: 80000
+          3252: 80000
 
       # Phase 2 Pets
 
       - id: 144394 # Tylarr Gronnden
         costs:
-          2778: 35000
+          3252: 35000
 
       # Phase 2 Toys
 
       - id: 142265 # Big Red Raygun
         costs:
-          2778: 35000
+          3252: 35000
 
       - id: 142530 # Crate of Bobbers: Tugboat
         costs:
-          2778: 10000
+          3252: 10000
 
       - id: 142529 # Crate of Bobbers: Cat Head
         costs:
-          2778: 10000
+          3252: 10000
 
       - id: 142528 # Crate of Bobbers: Can of Worms
         costs:
-          2778: 10000
+          3252: 10000
 
       - id: 143662 # Crate of Bobbers: Wooden Pepe
         costs:
-          2778: 10000
+          3252: 10000
 
       - id: 119211 # Golden Hearthstone Card: Lord Jaraxxus
         costs:
-          2778: 100000
+          3252: 100000
 
       # Phase 3 Pets
 
       - id: 146953 # Scraps
         costs:
-          2778: 80000
+          3252: 80000
 
       - id: 147841 # Orphaned Felbat
         costs:
-          2778: 35000
+          3252: 35000
 
       - id: 151828 # Ageless Bronze Drake
         costs:
-          2778: 80000
+          3252: 80000
 
       - id: 151829 # Bronze Proto-Whelp
         costs:
-          2778: 80000
+          3252: 80000
 
       # Phase 3 Toys
 
       - id: 147843 # Sira's Extra Cloak
         costs:
-          2778: 35000
+          3252: 35000
 
       - id: 147867 # Pilfered Sweeper
         costs:
-          2778: 35000
+          3252: 35000
 
       # Phase 4 Pets
 
       - id: 153195 # Uuna's Doll
         costs:
-          2778: 10000
+          3252: 10000
 
       - id: 153055 # Fel-Afflicted Skyfin
         costs:
-          2778: 20000
+          3252: 20000
 
       - id: 153054 # Docile Skyfin
         costs:
-          2778: 20000
+          3252: 20000
 
       - id: 153026 # Cross Gazer
         costs:
-          2778: 10000
+          3252: 10000
 
       - id: 153056 # Grasping Manifestation
         costs:
-          2778: 20000
+          3252: 20000
 
       # Phase 4 Toys
 
       - id: 153204 # All-Seer's Eye
         costs:
-          2778: 10000
+          3252: 10000
 
       - id: 153193 # Baarut the Brisk
         costs:
-          2778: 10000
+          3252: 10000
 
       - id: 153183 # Barrier Generator
         costs:
-          2778: 80000
+          3252: 80000
 
       - id: 153124 # Spire of Spite
         costs:
-          2778: 35000
+          3252: 35000
 
       - id: 153293 # Sightless Eye
         costs:
-          2778: 25000
+          3252: 25000
 
       - id: 153179 # Blue Conservatory Scroll
         costs:
-          2778: 25000
+          3252: 25000
 
       - id: 153181 # Red Conservatory Scroll
         costs:
-          2778: 25000
+          3252: 25000
 
       - id: 153180 # Yellow Conservatory Scroll
         costs:
-          2778: 25000
+          3252: 25000
 
       - id: 153253 # S.F.E. Interceptor
         costs:
-          2778: 25000
+          3252: 25000
 
       - id: 153182 # Holy Lightsphere
         costs:
-          2778: 25000
+          3252: 25000
 
       - id: 153126 # Micro-Artillery Controller
         costs:
-          2778: 25000
+          3252: 25000
 
       - id: 152982 # Vixx's Chest of Tricks
         costs:
-          2778: 80000
+          3252: 80000
 
       - id: 153004 # Unstable Portal Emitter
         costs:
-          2778: 100000
+          3252: 100000
 
       - id: 153194 # Legion Communication Orb
         costs:
-          2778: 25000
+          3252: 25000
