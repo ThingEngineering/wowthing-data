@@ -59,6 +59,7 @@ groups:
     - 2577 # Grandmaster's Royal Board (2025-08)
     - 2628 # Cinder-Plumed Highland Gryphon (2025-09)
     - 2630 # Ornery Breezestrider (2025-09)
+    - 2625 # The Headless Horseman's Hallowed Charger (2025-10)
 
 - name: "Unavailable"
   things:
@@ -94,7 +95,15 @@ groups:
     - 2622 # The Headless Horseman's Chilling Charger
     - 2623 # The Headless Horseman's Ghoulish Charger
     - 2624 # The Headless Horseman's Burning Charger
-    - 2625 # The Headless Horseman's Hallowed Charger
     - 2626 # Adorned Northeron Gryphon
     - 2627 # High Shaman's Aerie Gryphon
     - 2629 # Emberwing Sky Guide
+    - 2696 # Highlands Gobbler
+    - 2697 # Quirky Turkey
+    - 2698 # Murky Turkey
+    - 2699 # Prized Turkey
+    - 2645 # Kalu'ak Crest-Horn
+    - 2649 # Sharktested Crest-Horn
+    - 2650 # Floestrider Crest-Horn
+    - 2651 # Cragstepper Crest-Horn
+    - 1945 # Jeweled Sapphire Scarab

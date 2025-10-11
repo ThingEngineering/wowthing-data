@@ -60,6 +60,7 @@ pvp/_pvp.yml
 
 remix/_.yml
     remix/pandaria.yml
+    remix/legion.yml
 
 trading_post.yml
 

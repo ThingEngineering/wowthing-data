@@ -1,0 +1,52 @@
+name: "Legion"
+groups:
+
+- name: "Achievements"
+  things:
+    - 2724 # Archmage's Felscorned Disc
+    - 2729 # Farseer's Felscorned Tempest
+    - 2725 # Felscorned Grandmaster's Companion
+    - 2726 # Felscorned Highlord's Charger
+    - 2730 # Felscorned Netherlord's Dreadsteed
+    - 2720 # Felscorned Vilebrood Vanquisher
+    - 2731 # Felscorned War Wyrm
+    - 2723 # Felscorned Wolfhawk
+    - 2727 # High Priest's Felscorned Seeker
+    - 2728 # Shadowblade's Felscorned Omen
+    - 2721 # Slayer's Felscorned Shrieker
+
+- name: "???"
+  things:
+    - 2686 # Longhorned Sable Talbuk
+    - 2688 # Garnet Ruinstrider
+    - 2689 # Longhorned Bleakhoof Talbuk
+    - 2690 # Longhorned Argussian Talbuk
+    - 2691 # Longhorned Beryl Talbuk
+    - 2671 # Fel-Scarred Mana Ray
+    - 2672 # Bloodtooth Mana Ray
+    - 2673 # Albino Mana Ray
+    - 2674 # Luminous Mana Ray
+    - 2675 # Twilight Courser
+    - 2676 # Golden Sunrunner
+    - 2677 # Turquoise Courser
+    - 2678 # Gloomdark Nightmare
+    - 2679 # Bonesteed of Triumph
+    - 2681 # Bonesteed of Bloodshed
+    - 2682 # Bonesteed of Plague
+    - 2683 # Bonesteed of Oblivion
+    - 2653 # Ghastly Ur'zul
+    - 2660 # Leystone Basilisk
+    - 2661 # Felslate Basilisk
+    - 2662 # Aquamarine Basilisk
+    - 2663 # Illidari Dreadstalker
+    - 2664 # Illidari Blightstalker
+    - 2665 # Highland Elderhorn
+    - 2666 # Treetop Highmountain Eagle
+    - 2670 # Arcberry Manasaber
+    - 2705 # Chestnut Courser
+    - 2706 # Brimstone Courser
+    - 2574 # Snowy Highmountain Eagle
+    - 2593 # Slag Basilisk
+    - 2542 # Bloodhunter Fel Bat
+    - 2544 # Ashplague Fel Bat
+    - 2546 # Wretched Fel Bat
