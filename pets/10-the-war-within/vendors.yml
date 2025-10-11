@@ -46,3 +46,7 @@ groups:
     - 4650 # Venture Companyman
     - 4639 # Viridian Mechasaur [RNG from Sifted Pile of Scrap]
     - 4637 # Wavebreaker Mechasaur
+
+- name: "K'aresh"
+  things:
+    - 4829 # Penumbral Terror
