@@ -63,22 +63,36 @@ things:
           1033226: 100
 
       - id: 226690 # Patched Harvest Golem's Head [head]
+        costs:
+          1033226: 100
 
       - id: 226454 # Patched Harvest Golem's Pauldrons [shoulders]
+        costs:
+          1033226: 100
 
       - id: 226453 # Patched Harvest Golem's Post [back]
         costs:
           1033226: 100
 
       - id: 226457 # Patched Harvest Golem's Chest [chest]
+        costs:
+          1033226: 100
 
       - id: 226456 # Patched Harvest Golem's Gloves [hands]
+        costs:
+          1033226: 100
 
       - id: 226461 # Patched Harvest Golem's Belt [waist]
+        costs:
+          1033226: 100
 
       - id: 226455 # Patched Harvest Golem's Pants [legs]
+        costs:
+          1033226: 100
 
       - id: 226458 # Patched Harvest Golem's Boots [feet]
+        costs:
+          1033226: 100
 
   - id: 53757
     type: "vendor"
