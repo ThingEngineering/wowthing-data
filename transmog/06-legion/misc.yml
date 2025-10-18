@@ -133,6 +133,59 @@ groups:
       - transmogSetId: 447
         wowheadSetId: 2125
 
+- name: "Zone Rewards"
+  type: armor
+  sets:
+    - "Stormheim"
+  data:
+    cloth:
+      - name: "Hrydshal Runespeaker"
+        itemsV2:
+          - 240740_0 # Hrydshal Runespeaker Bindings
+          - 240736_0 # Hrydshal Runespeaker Chestwrap
+          - 240737_0 # Hrydshal Runespeaker Cord
+          - 240734_0 # Hrydshal Runespeaker Cowl
+          - 240741_0 # Hrydshal Runespeaker Gloves
+          - 240735_0 # Hrydshal Runespeaker Mantle
+          - 240738_0 # Hrydshal Runespeaker Pants
+          - 240739_0 # Hrydshal Runespeaker Slippers
+
+    leather:
+      - name: "Haustvelt Leather"
+        itemsV2:
+          - 240746_0 # Haustvelt Leather Belt
+          - 240748_0 # Haustvelt Leather Boots
+          - 240747_0 # Haustvelt Leather Breeches
+          - 240745_0 # Haustvelt Leather Chestguard
+          - 240750_0 # Haustvelt Leather Gloves
+          - 240743_0 # Haustvelt Leather Headgear
+          - 240744_0 # Haustvelt Leather Mantle
+          - 240749_0 # Haustvelt Leather Wraps
+
+    mail:
+      - name: "Stormborn Laminar"
+        itemsV2:
+          - 240801_0 # Stormborn Laminar Chainmail
+          - 240804_0 # Stormborn Laminar Greaves
+          - 240806_0 # Stormborn Laminar Handguards
+          - 240799_0 # Stormborn Laminar Helmet
+          - 240803_0 # Stormborn Laminar Leggings
+          - 240800_0 # Stormborn Laminar Shoulderguards
+          - 240805_0 # Stormborn Laminar Vambraces
+          - 240802_0 # Stormborn Laminar Waistband
+
+    plate:
+      - name: "Vrykul Funereal"
+        itemsV2:
+          - 240676_0 # Vrykul Funereal Armplates
+          - 240672_0 # Vrykul Funereal Battleplate
+          - 240673_0 # Vrykul Funereal Greatbelt
+          - 240677_0 # Vrykul Funereal Handguards
+          - 240675_0 # Vrykul Funereal Jackboots
+          - 240674_0 # Vrykul Funereal Legguards
+          - 240671_0 # Vrykul Funereal Pauldrons
+          - 240670_0 # Vrykul Funereal Warhelm
+
 - name: "Misc"
   type: armor
   sets:
