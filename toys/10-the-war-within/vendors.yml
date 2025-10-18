@@ -38,3 +38,11 @@ groups:
     - 237345 # Limited Edition Rocket Bobber
     - 237346 # Artisan Beverage Goblet Bobber
     - 237347 # Organically-Sourced Wellington Bobber
+
+- name: "K'aresh"
+  things:
+    - 246907 # Broker Supply Crate
+    - 250722 # Ethereal Stall
+    - 246903 # Guise of the Phase Diver
+    - 246908 # K'areshi Supply Crate
+    - 246905 # Overtuned K'areshi Goggles

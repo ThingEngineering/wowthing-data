@@ -12,9 +12,12 @@ groups:
     - 230924 # Spotlight Materializer 1000 (chest)
     - 225547 # Toxic Victory (Zekvir achievement)
     - 230727 # Explosive Victory (Defeating the Underpin quest)
+    - 243056 # Delver's Mana-Bound Ethergate (Season 3)
+    - 244792 # Etheric Brannmorpher (Season 3)
 
 - name: "Raids"
   things:
     - 236687 # Explosive Hearthstone (Liberation of Undermine)
     - 236749 # Take-Home Torq (Liberation of Undermine)
     - 236751 # Take-Home Flarendo (Liberation of Undermine)
+    - 246565 # Cosmic Hearthstone (Manaforge Omega, Dimensius)
