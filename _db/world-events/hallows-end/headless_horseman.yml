@@ -1,0 +1,28 @@
+things:
+  - id: 209024 # Loot-Filled Pumpkin
+    type: "item"
+    reset: "daily"
+    trackingQuestId: 83134
+    accountWide: true
+
+    contents:
+      - id: 37012 # Headless Horseman's Mount
+      - id: 247721 # The Headless Horseman's Ghoulish Charger [mount]
+
+      - id: 211271 # Arfus [pet]
+      - id: 33154 # Sinister Squashling [pet]
+
+      - id: 208680 # Windborne Velocidrake: Hallow's End Armor [dragon thing]
+
+      - id: 33292 # Hallowed Helm
+      - id: 117355 # The Horseman's Horrific Hood [head]
+      - id: 250708 # The Horseman's Ghoulish Cowl [head]
+      - id: 247964 # The Horseman's Ghoulish Helm [head]
+      - id: 247965 # The Horseman's Ghoulish Mantle [shoulders]
+      - id: 247972 # The Horseman's Ghoulish Cloak [back]
+      - id: 247966 # The Horseman's Ghoulish Breastplate [chest]
+      - id: 247971 # The Horseman's Ghoulish Grips [hands]
+      - id: 247967 # The Horseman's Ghoulish Cinch [waist]
+      - id: 247968 # The Horseman's Ghoulish Greaves [legs]
+      - id: 247969 # The Horseman's Ghoulish Treads [feet]
+      - id: 117356 # The Horseman's Sinister Slicer [1h sword]

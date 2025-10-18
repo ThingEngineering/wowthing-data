@@ -1,0 +1,44 @@
+things:
+  - id: 109685
+    type: "vendor"
+    name: "Pippi"
+    note: "Pet Vendor"
+
+    locations:
+      "00-classic/elwynn_forest":
+        - 32 50.2 alliance
+
+    contents: &contents
+
+      # 0
+
+      - id: 116801 # Cursed Birman
+        costs:
+          1033226: 150
+
+      - id: 70908 # Feline Familiar
+        costs:
+          1033226: 150
+
+      - id: 151269 # Naxxy
+        costs:
+          1033226: 150
+
+      - id: 33154 # Sinister Squashling
+        costs:
+          1033226: 150
+
+      - id: 116804 # Widget the Departed
+        costs:
+          1033226: 150
+
+  - id: 109688
+    type: "vendor"
+    name: "Woim"
+    note: "Pet Vendor"
+
+    locations:
+      "00-classic/tirisfal_glades":
+        - 62.2 66.4 horde
+
+    contents: *contents

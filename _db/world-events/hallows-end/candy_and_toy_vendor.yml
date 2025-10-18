@@ -1,0 +1,94 @@
+things:
+  - id: 53728
+    type: "vendor"
+    name: "Dorothy"
+    note: "Candy & Toy Vendor"
+
+    locations:
+      "00-classic/elwynn_forest":
+        - 31.8 50 alliance
+
+    groups:
+      - name: "Patched Harvest Golem"
+        range: -1 12
+
+    contents: &contents
+
+      - id: 163045 # Headless Horseman's Hearthstone [toy]
+        costs:
+          1033226: 150
+
+      - id: 70722 # Little Wickerman [toy]
+        costs:
+          1033226: 100
+
+      - id: 151271 # Horse Head Costume [toy]
+        costs:
+          1033226: 150
+
+      - id: 151270 # Horse Tail Costume [toy]
+        costs:
+          1033226: 150
+
+      - id: 33292 # Hallowed Helm [subclass=5 head]
+        costs:
+          1033226: 100
+
+      - id: 230042 # Prowler's Faded Shoulder Cape [subclass=5 shoulders]
+        costs:
+          1033226: 50
+
+      - id: 230173 # Ensemble: Prowler's Faded Headgear
+        costs:
+          1033226: 150
+
+      - id: 226427 # Patched Harvester's Claw [fist]
+        costs:
+          1033226: 100
+
+      - id: 208735 # Bucket of Morbid Treats [off-hand]
+        costs:
+          1033226: 150
+
+      - id: 247706 # The Horseman's Ghoulish Blade [?]
+        costs:
+          1033226: 100
+
+      - id: 247710 # The Horseman's Ghoulish Great Blade
+        costs:
+          1033226: 100
+
+      - id: 247715 # The Horseman's Ghoulish Bulkwark [shield]
+        costs:
+          1033226: 100
+
+      - id: 226690 # Patched Harvest Golem's Head [head]
+
+      - id: 226454 # Patched Harvest Golem's Pauldrons [shoulders]
+
+      - id: 226453 # Patched Harvest Golem's Post [back]
+        costs:
+          1033226: 100
+
+      - id: 226457 # Patched Harvest Golem's Chest [chest]
+
+      - id: 226456 # Patched Harvest Golem's Gloves [hands]
+
+      - id: 226461 # Patched Harvest Golem's Belt [waist]
+
+      - id: 226455 # Patched Harvest Golem's Pants [legs]
+
+      - id: 226458 # Patched Harvest Golem's Boots [feet]
+
+  - id: 53757
+    type: "vendor"
+    name: "Chub"
+    note: "Candy & Toy Vendor"
+
+    locations:
+      "00-classic/tirisfal_glades":
+        - 62.2 66.4 horde
+      "00-classic/undercity":
+        - 44 34.4 horde
+
+    contents: *contents
