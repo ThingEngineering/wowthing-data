@@ -1,0 +1,8 @@
+things:
+  - id: 96536 # Salty Dreg
+    name: "WoD SMV Mobs"
+    type: "npc"
+    reset: "none"
+
+    contents:
+      - id: 128807 # Coin of Many Faces

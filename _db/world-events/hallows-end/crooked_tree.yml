@@ -1,0 +1,11 @@
+things:
+  - id: 139137 # Hag's Belongings
+    type: "item"
+    reset: "daily"
+    trackingQuestId: 43162
+
+    contents:
+      - id: 139133 # Hat of the First Sister
+      - id: 139134 # Hat of the Second Sister
+      - id: 139135 # Hat of the Third Sister
+      - id: 139136 # Hat of the Youngest Sister
