@@ -6,7 +6,7 @@ things:
 
     groups:
       - name: "Phase 1 - Exclusive Sets"
-        range: 33
+        range: 32
         sortKey: "p1-9-2"
 
       - name: "Phase 4 - Exclusive Sets"
@@ -145,9 +145,9 @@ things:
         costs:
           3252: 2500
 
-      - id: 253569 # Arsenal: Gems of the Lightforged Draenei
-        costs:
-          3252: 2500
+      #  - id: 253569 # Arsenal: Gems of the Lightforged Draenei
+      #    costs:
+      #      3252: 2500
 
       # Phase 4 
 
