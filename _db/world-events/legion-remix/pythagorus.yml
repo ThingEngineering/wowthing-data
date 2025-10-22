@@ -6,11 +6,11 @@ things:
 
     groups:
       - name: "Phase 1 - Raid"
-        range: 13
+        range: 17
         sortKey: "p1-9-6"
 
       - name: "Phase 3 - Raid"
-        range: 12
+        range: 13
         sortKey: "p3-9-6"
 
       - name: "Phase 4 - Raid"
@@ -69,10 +69,26 @@ things:
         costs:
           3252: 30000
 
-      - id: 242368 # The First Satyr's Spaulders
+      - id: 141006 # The First Satyr's Spaulders
         costs:
           3252: 30000
           1242370: 20
+
+      - id: 241597 # Ensemble: Funerary Plate of the Chosen Dead
+        costs:
+          3252: 20000
+
+      - id: 241601 # Ensemble: Chains of the Chosen Dead
+        costs:
+          3252: 20000
+
+      - id: 241604 # Ensemble: Garb of the Chosen Dead
+        costs:
+          3252: 20000
+
+      - id: 241607 # Ensemble: Regalia of the Chosen Dead
+        costs:
+          3252: 20000
 
       # Phase 3 
 

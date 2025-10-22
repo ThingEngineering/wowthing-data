@@ -18,7 +18,7 @@ things:
         sortKey: "p2-2"
 
       - name: "Phase 2 - Toys"
-        range: 6
+        range: 7
         sortKey: "p2-3"
 
       - name: "Phase 3 - Pets"
@@ -130,6 +130,10 @@ things:
           3252: 35000
 
       # Phase 2 Toys
+
+      - id: 143544 # Skull of Corruption
+        costs:
+          3252: 100000
 
       - id: 142265 # Big Red Raygun
         costs:
