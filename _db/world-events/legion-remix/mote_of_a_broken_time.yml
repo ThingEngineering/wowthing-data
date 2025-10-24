@@ -1,0 +1,227 @@
+things:
+  - id: 1253224 # Mote of a Broken Time
+    type: "vendor"
+    name: "{item:253224}"
+
+    groups:
+
+      - name: "Mote - EN Cloth"
+        range: 14
+        sortKey: "mote-1"
+        bonusIds: [999999] # RNG
+
+      - name: "Mote - EN Leather"
+        range: 15
+        sortKey: "mote-2"
+        bonusIds: [999999] # RNG
+
+      - name: "Mote - EN Mail"
+        range: 15
+        sortKey: "mote-3"
+        bonusIds: [999999] # RNG
+
+      - name: "Mote - EN Plate"
+        range: 15
+        sortKey: "mote-4"
+        bonusIds: [999999] # RNG
+      
+      - name: "Mote - EN Cloaks"
+        range: -1
+        sortKey: "mote-9"
+        bonusIds: [999999] # RNG
+
+    contents:
+
+       # Cloth
+
+      - id: 247514 # Celestially Aligned Hood [head]
+        costs: &costs
+          1253224: 10
+      
+      - id: 247515 # Hood of Darkened Visions [head]
+        costs: *costs
+
+      - id: 247517 # Ancient Dreamwoven Mantle [shoulders]
+        costs: *costs
+
+      - id: 247518 # Mantle of Perpetual Bloom [shoulders]
+        costs: *costs
+
+      - id: 247507 # Dreamscale Inlaid Vestments [chest]
+        costs: *costs
+
+      - id: 247519 # Maddening Robe of Secrets [chest]
+        costs: *costs
+
+      - id: 247522 # Ragged Fur Wristwraps [wrists]
+        costs: *costs
+
+      - id: 247561 # Gloves of Murmured Promises [hands]
+        costs: *costs
+
+      - id: 247505 # Handwraps of Delusional Power [hands]
+        costs: *costs
+
+      - id: 247513 # Clasp of Cosmic Insignificance [waist]
+        costs: *costs
+
+      - id: 247509 # Pliable Spider Silk Cinch [waist]
+        costs: *costs
+
+      - id: 247516 # Ragged Horrorweave Leggings [legs]
+        costs: *costs
+
+      - id: 247520 # Cozy Dryad Hoof-Socks [feet]
+        costs: *costs
+
+      - id: 247521 # Crimson Wool-Lined Slippers [feet]
+        costs: *costs
+
+      # Leather
+
+      - id: 247530 # Mask of Multitudinous Eyes [head]
+        costs: *costs
+
+      - id: 247531 # Cowl of Fright [head]
+        costs: *costs
+
+      - id: 247532 # Otherworldly Leather Mantle [shoulders]
+        costs: *costs
+
+      - id: 247533 # Grove Keeper's Robe [chest]
+        costs: *costs
+
+      - id: 247534 # Scarred Ragefang Chestpiece [chest]
+        costs: *costs
+
+      - id: 247511 # Dragonspur Wristguards [wrists]
+        costs: *costs
+
+      - id: 247535 # Wristwraps of Broken Trust [wrists]
+        costs: *costs
+
+      - id: 247528 # Dreamsculptor's Gloves [hands]
+        costs: *costs
+
+      - id: 247562 # Grips of Silent Screams [hands]
+        costs: *costs
+
+      - id: 247523 # Lifeless Buckled Girdle [waist]
+        costs: *costs
+
+      - id: 247524 # Forest-Lord's Waistwrap [waist]
+        costs: *costs
+
+      - id: 247529 # Repulsive Leathery Pants [legs]
+        costs: *costs
+
+      - id: 247527 # Splotched Bloodfur Leggings [legs]
+        costs: *costs
+
+      - id: 247525 # Boots of Endless Betrayal [feet]
+        costs: *costs
+
+      - id: 247526 # Stained Maggot Squishers [feet]
+        costs: *costs
+
+      # Mail
+
+      - id: 247036 # Helm of Shackled Elements [Nighthold?]
+        costs: *costs
+
+      - id: 247542 # Matted Fur Pauldrons [shoulders]
+        costs: *costs
+
+      - id: 247543 # Thorny Bramblemail Pauldrons [shoulders]
+        costs: *costs
+
+      - id: 247546 # Patient Ambusher's Hauberk [chest]
+        costs: *costs
+
+      - id: 247547 # Manacles of the Nightmare Colossus [wrists]
+        costs: *costs
+
+      - id: 247564 # Gauntlets of Fractured Dreams [hands]
+        costs: *costs
+
+      - id: 247538 # Gauntlets of Malevolent Intent [hands]
+        costs: *costs
+
+      - id: 247506 # Gauntlets of the Demented Mind [hands]
+        costs: *costs
+
+      - id: 247537 # Creeping String of Larva [waist]
+        costs: *costs
+
+      - id: 247536 # Laughing Sister's Pouch-Chain [waist]
+        costs: *costs
+
+      - id: 247541 # Disjointed Linkage Leggings [legs]
+        costs: *costs
+
+      - id: 247540 # Singular Chain Leggings [legs]
+        costs: *costs
+
+      - id: 247544 # Black Venom Sabatons [feet]
+        costs: *costs
+
+      - id: 247504 # Malignant Sabatons [feet]
+        costs: *costs
+
+      - id: 247545 # Scored Ironclaw Sabatons [feet]
+        costs: *costs
+
+      # Plate
+
+      - id: 247555 # Crown of Steely Brambles [head]
+        costs: *costs
+
+      - id: 247553 # Venom-Fanged Barbute [head]
+        costs: *costs
+
+      - id: 247556 # Midnight Herald's Pauldrons [shoulders]
+        costs: *costs
+
+      - id: 247557 # Pauldrons of Shifting Runes [shoulders]
+        costs: *costs
+
+      - id: 247508 # Horror Inscribed Chestguard [chest]
+        costs: *costs
+
+      - id: 247548 # Insect-Etched Chestplate [chest]
+        costs: *costs
+
+      - id: 247510 # Dragonbone Wristclamps [wrists]
+        costs: *costs
+
+      - id: 247559 # Wristclamps of Mad Dreams [wrists]
+        costs: *costs
+
+      - id: 247549 # Fitted Ironbark Gauntlets [hands]
+        costs: *costs
+
+      - id: 247550 # Primal Gauntlets of Rage [hands]
+        costs: *costs
+
+      - id: 247565 # Tarnished Dreamkeeper's Gauntlets [hands]
+        costs: *costs
+
+      - id: 247552 # Eon-Tempered Waistplate [waist]
+        costs: *costs
+
+      - id: 247551 # Waistplate of Nameless Horror [waist]
+        costs: *costs
+
+      - id: 247554 # Storm-Battered Legplates [legs]
+        costs: *costs
+
+      - id: 247558 # Trampling Warboots [feet]
+        costs: *costs
+
+      # Cloaks
+
+      - id: 247560 # Evergreen Vinewrap Drape
+        costs: *costs
+
+      - id: 247512 # Gossamer-Spun Greatcloak
+        costs: *costs

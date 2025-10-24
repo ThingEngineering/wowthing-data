@@ -69,11 +69,6 @@ things:
         costs:
           3252: 30000
 
-      - id: 141006 # The First Satyr's Spaulders
-        costs:
-          3252: 30000
-          1242370: 20
-
       - id: 241597 # Ensemble: Funerary Plate of the Chosen Dead
         costs:
           3252: 20000
@@ -89,6 +84,11 @@ things:
       - id: 241607 # Ensemble: Regalia of the Chosen Dead
         costs:
           3252: 20000
+
+      - id: 141006 # The First Satyr's Spaulders
+        costs:
+          3252: 30000
+          1242370: 20
 
       # Phase 3 
 
