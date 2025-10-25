@@ -7,32 +7,59 @@ things:
 
       - name: "Mote - EN Cloth"
         range: 14
-        sortKey: "mote-1"
-        bonusIds: [999999] # RNG
+        sortKey: "mote-1-1"
+        bonusIds: &bonusIds
+          - 12617 # Epic + Scaling
+          - 999999 # RNG
 
       - name: "Mote - EN Leather"
         range: 15
-        sortKey: "mote-2"
-        bonusIds: [999999] # RNG
+        sortKey: "mote-1-2"
+        bonusIds: *bonusIds
 
       - name: "Mote - EN Mail"
         range: 15
-        sortKey: "mote-3"
-        bonusIds: [999999] # RNG
+        sortKey: "mote-1-3"
+        bonusIds: *bonusIds
 
       - name: "Mote - EN Plate"
         range: 15
-        sortKey: "mote-4"
-        bonusIds: [999999] # RNG
-      
+        sortKey: "mote-1-4"
+        bonusIds: *bonusIds
+
       - name: "Mote - EN Cloaks"
-        range: -1
-        sortKey: "mote-9"
-        bonusIds: [999999] # RNG
+        range: 2
+        sortKey: "mote-1-9"
+        bonusIds: *bonusIds
+
+      - name: "Mote - NH Cloth"
+        range: 8
+        sortKey: "mote-2-1"
+        bonusIds: *bonusIds
+
+      - name: "Mote - NH Leather"
+        range: 8
+        sortKey: "mote-2-2"
+        bonusIds: *bonusIds
+
+      - name: "Mote - NH Mail"
+        range: 9
+        sortKey: "mote-2-3"
+        bonusIds: *bonusIds
+
+      - name: "Mote - NH Plate"
+        range: 10
+        sortKey: "mote-2-4"
+        bonusIds: *bonusIds
+
+      - name: "Mote - NH Cloaks"
+        range: 7
+        sortKey: "mote-2-9"
+        bonusIds: *bonusIds
 
     contents:
 
-       # Cloth
+       # EN Cloth
 
       - id: 247514 # Celestially Aligned Hood [head]
         costs: &costs
@@ -77,7 +104,7 @@ things:
       - id: 247521 # Crimson Wool-Lined Slippers [feet]
         costs: *costs
 
-      # Leather
+      # EN Leather
 
       - id: 247530 # Mask of Multitudinous Eyes [head]
         costs: *costs
@@ -124,7 +151,7 @@ things:
       - id: 247526 # Stained Maggot Squishers [feet]
         costs: *costs
 
-      # Mail
+      # EN Mail
 
       - id: 247036 # Helm of Shackled Elements [Nighthold?]
         costs: *costs
@@ -171,7 +198,7 @@ things:
       - id: 247545 # Scored Ironclaw Sabatons [feet]
         costs: *costs
 
-      # Plate
+      # EN Plate
 
       - id: 247555 # Crown of Steely Brambles [head]
         costs: *costs
@@ -218,10 +245,146 @@ things:
       - id: 247558 # Trampling Warboots [feet]
         costs: *costs
 
-      # Cloaks
+      # EN Cloaks
 
       - id: 247560 # Evergreen Vinewrap Drape
         costs: *costs
 
       - id: 247512 # Gossamer-Spun Greatcloak
+        costs: *costs
+
+      # NH Cloth
+
+      - id: 247431 # Bracers of Harnessed Flame [wrists]
+        costs: *costs
+
+      - id: 247466 # Woven Lasher Tendril Bracers [wrists]
+        costs: *costs
+
+      - id: 247430 # Antiquated Highborne Cinch [waist]
+        costs: *costs
+
+      - id: 247493 # Mana-Cord of Deception [waist]
+        costs: *costs
+
+      - id: 247467 # Man'ari Skullbuckled Cinch [waist]
+        costs: *costs
+
+      - id: 247486 # Outcast Wanderer's Footrags [feet]
+        costs: *costs
+
+      - id: 247435 # Perpetually Muddy Sandals [feet]
+        costs: *costs
+
+      - id: 247465 # Treads of Galactic Odyssey [feet]
+        costs: *costs
+
+      # NH Leather
+
+      - id: 247469 # Bracers of Impossible Choices [wrists]
+        costs: *costs
+
+      - id: 247437 # Well-Flattened Wristguards [wrists]
+        costs: *costs
+
+      - id: 247438 # Cake Carrier's Girdle [waist]
+        costs: *costs
+
+      - id: 247439 # Girdle of Nefarious Strategy [waist]
+        costs: *costs
+
+      - id: 247488 # High Shadow Councilor's Wrap [waist]
+        costs: *costs
+
+      - id: 247494 # Waistclasp of Unethical Power [waist]
+        costs: *costs
+
+      - id: 247441 # Grove-Tender's Moccasins [feet]
+        costs: *costs
+
+      - id: 247440 # Stutterstep Treads [feet]
+        costs: *costs
+
+      # NH Mail
+
+      - id: 247450 # Architect's Coif of Despair [head]
+        costs: *costs
+
+      - id: 247455 # Arcanochitin Hauberk [chest]
+        costs: *costs
+
+      - id: 247456 # Stinger Resistant Bracers [wrists]
+        costs: *costs
+
+      - id: 247454 # Thistle-Proof Thorngrabbers [wrists]
+        costs: *costs
+
+      - id: 247470 # Belt of Celestial Alignment [waist]
+        costs: *costs
+
+      - id: 247448 # Emblazoned Duskwatch Belt [waist]
+        costs: *costs
+
+      - id: 247495 # Vintage Duskwatch Cinch [waist]
+        costs: *costs
+
+      - id: 247447 # Sabatons of Burning Steps [feet]
+        costs: *costs
+
+      - id: 247453 # Shal'dorei Weedstompers [feet]
+        costs: *costs
+
+      # NH Plate
+
+      - id: 247458 # Duskwatch Plate Bracers [wrists]
+        costs: *costs
+
+      - id: 247473 # Eternally Recurring Bracers [wrists]
+        costs: *costs
+
+      - id: 247460 # Gilded Nightborne Waistplate [waist]
+        costs: *costs
+
+      - id: 247496 # Gleaming Celestial Waistguard [waist]
+        costs: *costs
+
+      - id: 247472 # Goresmeared Abyssal Waistplate [waist]
+        costs: *costs
+
+      - id: 247475 # Jagged Carapace Wristclamps [wrists]
+        costs: *costs
+
+      - id: 247484 # Waistplate of Fractured Realities [waist]
+        costs: *costs
+
+      - id: 247477 # Immaculately Polished Boots [feet]
+        costs: *costs
+
+      - id: 247464 # Leystone-Toe Kickers [feet]
+        costs: *costs
+
+      - id: 247471 # Sabatons of Unchanging Fate [feet]
+        costs: *costs
+
+      # NH Cloaks
+
+      - id: 247489 # Aristocrat's Winter Drape
+        costs: *costs
+
+      - id: 247481 # Astromancer's Greatcloak
+        costs: *costs
+
+      - id: 247482 # Cloak of Temporal Recalibration
+        costs: *costs
+
+      - id: 247491 # Cloak of Multitudinous Sheaths
+        costs: *costs
+
+      - id: 247436 # Dreadlord's Tattered Wingcover
+        costs: *costs
+
+      - id: 247492 # Fashionable Autumn Cloak
+        costs: *costs
+
+      - id: 247490 # Feathermane Feather Cloak
         costs: *costs
