@@ -1,0 +1,132 @@
+things:
+  - id: 10000101
+    name: "EN - LFR"
+    type: "instance"
+    reset: "daily"
+
+    groups:
+      - name: "EN - LFR"
+        range: -1
+        overrideDifficulty: 17
+        bonusIds:
+          - 12617 # Epic + Scaling
+
+    contents: &contents
+
+       # EN Cloth
+
+      - id: 247514 # Celestially Aligned Hood [head]
+      - id: 247515 # Hood of Darkened Visions [head]
+      - id: 247517 # Ancient Dreamwoven Mantle [shoulders]
+      - id: 247518 # Mantle of Perpetual Bloom [shoulders]
+      - id: 247507 # Dreamscale Inlaid Vestments [chest]
+      - id: 247519 # Maddening Robe of Secrets [chest]
+      - id: 247522 # Ragged Fur Wristwraps [wrists]
+      - id: 247561 # Gloves of Murmured Promises [hands]
+      - id: 247505 # Handwraps of Delusional Power [hands]
+      - id: 247513 # Clasp of Cosmic Insignificance [waist]
+      - id: 247509 # Pliable Spider Silk Cinch [waist]
+      - id: 247516 # Ragged Horrorweave Leggings [legs]
+      - id: 247520 # Cozy Dryad Hoof-Socks [feet]
+      - id: 247521 # Crimson Wool-Lined Slippers [feet]
+
+      # EN Leather
+
+      - id: 247530 # Mask of Multitudinous Eyes [head]
+      - id: 247531 # Cowl of Fright [head]
+      - id: 247532 # Otherworldly Leather Mantle [shoulders]
+      - id: 247533 # Grove Keeper's Robe [chest]
+      - id: 247534 # Scarred Ragefang Chestpiece [chest]
+      - id: 247511 # Dragonspur Wristguards [wrists]
+      - id: 247535 # Wristwraps of Broken Trust [wrists]
+      - id: 247528 # Dreamsculptor's Gloves [hands]
+      - id: 247562 # Grips of Silent Screams [hands]
+      - id: 247523 # Lifeless Buckled Girdle [waist]
+      - id: 247524 # Forest-Lord's Waistwrap [waist]
+      - id: 247529 # Repulsive Leathery Pants [legs]
+      - id: 247527 # Splotched Bloodfur Leggings [legs]
+      - id: 247525 # Boots of Endless Betrayal [feet]
+      - id: 247526 # Stained Maggot Squishers [feet]
+
+      # EN Mail
+
+      - id: 247036 # Helm of Shackled Elements [Nighthold?]
+      - id: 247542 # Matted Fur Pauldrons [shoulders]
+      - id: 247543 # Thorny Bramblemail Pauldrons [shoulders]
+      - id: 247546 # Patient Ambusher's Hauberk [chest]
+      - id: 247547 # Manacles of the Nightmare Colossus [wrists]
+      - id: 247564 # Gauntlets of Fractured Dreams [hands]
+      - id: 247538 # Gauntlets of Malevolent Intent [hands]
+      - id: 247506 # Gauntlets of the Demented Mind [hands]
+      - id: 247537 # Creeping String of Larva [waist]
+      - id: 247536 # Laughing Sister's Pouch-Chain [waist]
+      - id: 247541 # Disjointed Linkage Leggings [legs]
+      - id: 247540 # Singular Chain Leggings [legs]
+      - id: 247544 # Black Venom Sabatons [feet]
+      - id: 247504 # Malignant Sabatons [feet]
+      - id: 247545 # Scored Ironclaw Sabatons [feet]
+
+      # EN Plate
+
+      - id: 247555 # Crown of Steely Brambles [head]
+      - id: 247553 # Venom-Fanged Barbute [head]
+      - id: 247556 # Midnight Herald's Pauldrons [shoulders]
+      - id: 247557 # Pauldrons of Shifting Runes [shoulders]
+      - id: 247508 # Horror Inscribed Chestguard [chest]
+      - id: 247548 # Insect-Etched Chestplate [chest]
+      - id: 247510 # Dragonbone Wristclamps [wrists]
+      - id: 247559 # Wristclamps of Mad Dreams [wrists]
+      - id: 247549 # Fitted Ironbark Gauntlets [hands]
+      - id: 247550 # Primal Gauntlets of Rage [hands]
+      - id: 247565 # Tarnished Dreamkeeper's Gauntlets [hands]
+      - id: 247552 # Eon-Tempered Waistplate [waist]
+      - id: 247551 # Waistplate of Nameless Horror [waist]
+      - id: 247554 # Storm-Battered Legplates [legs]
+      - id: 247558 # Trampling Warboots [feet]
+
+      # EN Cloaks
+
+      - id: 247560 # Evergreen Vinewrap Drape
+      - id: 247512 # Gossamer-Spun Greatcloak
+
+  - id: 10000102
+    name: "EN - Normal"
+    type: "instance"
+    reset: "daily"
+
+    groups:
+      - name: "EN - Normal"
+        range: -1
+        overrideDifficulty: 14
+        bonusIds:
+          - 12617 # Epic + Scaling
+
+    contents: *contents
+
+  - id: 10000103
+    name: "EN - Heroic"
+    type: "instance"
+    reset: "daily"
+
+    groups:
+      - name: "EN - Heroic"
+        range: -1
+        overrideDifficulty: 15
+        bonusIds:
+          - 12617 # Epic + Scaling
+
+    contents: *contents
+
+  - id: 10000104
+    name: "EN - Mythic"
+    type: "instance"
+    reset: "daily"
+
+    groups:
+      - name: "EN - Mythic"
+        range: -1
+        overrideDifficulty: 16
+        bonusIds:
+          - 12617 # Epic + Scaling
+
+    contents: *contents

@@ -1,0 +1,109 @@
+things:
+  - id: 10000301
+    name: "NH - LFR"
+    type: "instance"
+    reset: "daily"
+
+    groups:
+      - name: "NH - LFR"
+        range: -1
+        overrideDifficulty: 17
+        bonusIds:
+          - 12617 # Epic + Scaling
+
+    contents: &contents
+
+      # Cloth
+
+      - id: 247430 # Antiquated Highborne Cinch
+      - id: 247431 # Bracers of Harnessed Flame
+      - id: 247493 # Mana-Cord of Deception
+      - id: 247467 # Man'ari Skullbuckled Cinch
+      - id: 247486 # Outcast Wanderer's Footrags
+      - id: 247435 # Perpetually Muddy Sandals
+      - id: 247465 # Treads of Galactic Odyssey
+      - id: 247466 # Woven Lasher Tendril Bracers
+
+      # Leather
+      - id: 247469 # Bracers of Impossible Choices
+      - id: 247438 # Cake Carrier's Girdle
+      - id: 247439 # Girdle of Nefarious Strategy
+      - id: 247441 # Grove-Tender's Moccasins
+      - id: 247488 # High Shadow Councilor's Wrap
+      - id: 247440 # Stutterstep Treads
+      - id: 247494 # Waistclasp of Unethical Power
+      - id: 247437 # Well-Flattened Wristguards
+
+      # Mail
+      - id: 247455 # Arcanochitin Hauberk
+      - id: 247450 # Architect's Coif of Despair
+      - id: 247470 # Belt of Celestial Alignment
+      - id: 247448 # Emblazoned Duskwatch Belt
+      - id: 247447 # Sabatons of Burning Steps
+      - id: 247453 # Shal'dorei Weedstompers
+      - id: 247456 # Stinger Resistant Bracers
+      - id: 247454 # Thistle-Proof Thorngrabbers
+      - id: 247495 # Vintage Duskwatch Cinch
+
+      # Plate
+      - id: 247458 # Duskwatch Plate Bracers
+      - id: 247473 # Eternally Recurring Bracers
+      - id: 247460 # Gilded Nightborne Waistplate
+      - id: 247496 # Gleaming Celestial Waistguard
+      - id: 247472 # Goresmeared Abyssal Waistplate
+      - id: 247477 # Immaculately Polished Boots
+      - id: 247475 # Jagged Carapace Wristclamps
+      - id: 247464 # Leystone-Toe Kickers
+      - id: 247471 # Sabatons of Unchanging Fate
+      - id: 247484 # Waistplate of Fractured Realities
+
+      # Cloaks
+      - id: 247489 # Aristocrat's Winter Drape
+      - id: 247481 # Astromancer's Greatcloak
+      - id: 247482 # Cloak of Temporal Recalibration
+      - id: 247491 # Cloak of Multitudinous Sheaths
+      - id: 247436 # Dreadlord's Tattered Wingcover
+      - id: 247492 # Fashionable Autumn Cloak
+      - id: 247490 # Feathermane Feather Cloak
+
+  - id: 10000302
+    name: "NH - Normal"
+    type: "instance"
+    reset: "daily"
+
+    groups:
+      - name: "NH - Normal"
+        range: -1
+        overrideDifficulty: 14
+        bonusIds:
+          - 12617 # Epic + Scaling
+
+    contents: *contents
+
+  - id: 10000303
+    name: "NH - Heroic"
+    type: "instance"
+    reset: "daily"
+
+    groups:
+      - name: "NH - Heroic"
+        range: -1
+        overrideDifficulty: 15
+        bonusIds:
+          - 12617 # Epic + Scaling
+
+    contents: *contents
+
+  - id: 10000304
+    name: "NH - Mythic"
+    type: "instance"
+    reset: "daily"
+
+    groups:
+      - name: "NH - Mythic"
+        range: -1
+        overrideDifficulty: 16
+        bonusIds:
+          - 12617 # Epic + Scaling
+
+    contents: *contents
