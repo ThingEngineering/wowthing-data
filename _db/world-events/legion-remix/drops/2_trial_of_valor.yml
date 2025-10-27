@@ -1,60 +1,4 @@
 things:
-  - id: 10000201
-    name: "ToV - LFR"
-    type: "instance"
-    reset: "daily"
-
-    groups:
-      - name: "ToV - LFR"
-        range: -1
-        overrideDifficulty: 17
-        bonusIds:
-          - 12617 # Epic + Scaling
-
-    contents: &contents
-
-      # Cloth
-
-      - id: 247567 # Cinch of Light
-      - id: 247571 # Helhound Hair Bracers
-      - id: 247569 # Leggings of the Lower Planes
-      - id: 247584 # Oiled Rigger's Handwraps
-      - id: 247566 # Robes of Celestial Adornment
-      - id: 247570 # Treads of the Drowned
-
-      # Leather
-
-      - id: 247585 # Gloves of Issued Challenge
-      - id: 247587 # Helbeast Skin Tunic
-      - id: 247573 # Moccasins of Silent Passage
-      - id: 247575 # Sky-Valiant's Wristguards
-      - id: 247572 # Strand of Whelk Shells
-      - id: 247574 # Sucker-Scarred Leggings
-
-      # Mail
-
-      - id: 247576 # Anchor Chain Waistguard
-      - id: 247579 # Bite-Resistant Wristclamps
-      - id: 247588 # Corroded Val'kyr Chainmail
-      - id: 247589 # Kvaldir Exult's Grips
-      - id: 247577 # Leggings of the Undaunted
-      - id: 247578 # Radiant Soul Sabatons
-
-      # Plate
-
-      - id: 247583 # Calcareous Wristclamps
-      - id: 247586 # Gleaming Val'kyr Cuirass
-      - id: 247581 # Goldrune Legplates
-      - id: 247580 # Krakenbone Waistplate
-      - id: 247582 # Lead-Soled Seabed Striders
-      - id: 247590 # Reinforced Hound-Handler's Gauntlets
-
-      # Cloaks
-
-      - id: 247591 # Drape of the Unworthy
-      - id: 247592 # Mantle of the Victorious Dead
-      - id: 247568 # Windwhipped Sailcloth
-
   - id: 10000202
     name: "ToV - Normal"
     type: "instance"
@@ -145,4 +89,46 @@ things:
         bonusIds:
           - 12617 # Epic + Scaling
 
-    contents: *contents
+    contents:
+
+      # Cloth
+
+      - id: 247567 # Cinch of Light
+      - id: 247571 # Helhound Hair Bracers
+      - id: 247569 # Leggings of the Lower Planes
+      - id: 247584 # Oiled Rigger's Handwraps
+      - id: 247566 # Robes of Celestial Adornment
+      - id: 247570 # Treads of the Drowned
+
+      # Leather
+
+      - id: 247585 # Gloves of Issued Challenge
+      - id: 247587 # Helbeast Skin Tunic
+      - id: 247573 # Moccasins of Silent Passage
+      - id: 247575 # Sky-Valiant's Wristguards
+      - id: 247572 # Strand of Whelk Shells
+      - id: 247574 # Sucker-Scarred Leggings
+
+      # Mail
+
+      - id: 247576 # Anchor Chain Waistguard
+      - id: 247579 # Bite-Resistant Wristclamps
+      - id: 247588 # Corroded Val'kyr Chainmail
+      - id: 247589 # Kvaldir Exult's Grips
+      - id: 247577 # Leggings of the Undaunted
+      - id: 247578 # Radiant Soul Sabatons
+
+      # Plate
+
+      - id: 247583 # Calcareous Wristclamps
+      - id: 247586 # Gleaming Val'kyr Cuirass
+      - id: 247581 # Goldrune Legplates
+      - id: 247580 # Krakenbone Waistplate
+      - id: 247582 # Lead-Soled Seabed Striders
+      - id: 247590 # Reinforced Hound-Handler's Gauntlets
+
+      # Cloaks
+
+      - id: 247591 # Drape of the Unworthy
+      - id: 247592 # Mantle of the Victorious Dead
+      - id: 247568 # Windwhipped Sailcloth

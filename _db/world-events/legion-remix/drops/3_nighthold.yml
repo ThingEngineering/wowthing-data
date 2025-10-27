@@ -1,13 +1,13 @@
 things:
-  - id: 10000301
-    name: "NH - LFR"
+  - id: 10000302
+    name: "NH - Normal"
     type: "instance"
     reset: "daily"
 
     groups:
-      - name: "NH - LFR"
+      - name: "NH - Normal"
         range: -1
-        overrideDifficulty: 17
+        overrideDifficulty: 14
         bonusIds:
           - 12617 # Epic + Scaling
 
@@ -65,20 +65,6 @@ things:
       - id: 247436 # Dreadlord's Tattered Wingcover
       - id: 247492 # Fashionable Autumn Cloak
       - id: 247490 # Feathermane Feather Cloak
-
-  - id: 10000302
-    name: "NH - Normal"
-    type: "instance"
-    reset: "daily"
-
-    groups:
-      - name: "NH - Normal"
-        range: -1
-        overrideDifficulty: 14
-        bonusIds:
-          - 12617 # Epic + Scaling
-
-    contents: *contents
 
   - id: 10000303
     name: "NH - Heroic"

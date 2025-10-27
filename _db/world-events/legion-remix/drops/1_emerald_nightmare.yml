@@ -1,13 +1,13 @@
 things:
-  - id: 10000101
-    name: "EN - LFR"
+  - id: 10000102
+    name: "EN - Normal"
     type: "instance"
     reset: "daily"
 
     groups:
-      - name: "EN - LFR"
+      - name: "EN - Normal"
         range: -1
-        overrideDifficulty: 17
+        overrideDifficulty: 14
         bonusIds:
           - 12617 # Epic + Scaling
 
@@ -88,20 +88,6 @@ things:
 
       - id: 247560 # Evergreen Vinewrap Drape
       - id: 247512 # Gossamer-Spun Greatcloak
-
-  - id: 10000102
-    name: "EN - Normal"
-    type: "instance"
-    reset: "daily"
-
-    groups:
-      - name: "EN - Normal"
-        range: -1
-        overrideDifficulty: 14
-        bonusIds:
-          - 12617 # Epic + Scaling
-
-    contents: *contents
 
   - id: 10000103
     name: "EN - Heroic"
