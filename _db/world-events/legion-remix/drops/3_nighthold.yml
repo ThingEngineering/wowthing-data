@@ -15,47 +15,47 @@ things:
 
       # Cloth
 
-      - id: 247430 # Antiquated Highborne Cinch
-      - id: 247431 # Bracers of Harnessed Flame
-      - id: 247493 # Mana-Cord of Deception
-      - id: 247467 # Man'ari Skullbuckled Cinch
-      - id: 247486 # Outcast Wanderer's Footrags
-      - id: 247435 # Perpetually Muddy Sandals
-      - id: 247465 # Treads of Galactic Odyssey
-      - id: 247466 # Woven Lasher Tendril Bracers
+      - id: 247431 # Bracers of Harnessed Flame [wrists]
+      - id: 247466 # Woven Lasher Tendril Bracers [wrists]
+      - id: 247430 # Antiquated Highborne Cinch [waist]
+      - id: 247493 # Mana-Cord of Deception [waist]
+      - id: 247467 # Man'ari Skullbuckled Cinch [waist]
+      - id: 247486 # Outcast Wanderer's Footrags [feet]
+      - id: 247435 # Perpetually Muddy Sandals [feet]
+      - id: 247465 # Treads of Galactic Odyssey [feet]
 
       # Leather
-      - id: 247469 # Bracers of Impossible Choices
-      - id: 247438 # Cake Carrier's Girdle
-      - id: 247439 # Girdle of Nefarious Strategy
-      - id: 247441 # Grove-Tender's Moccasins
-      - id: 247488 # High Shadow Councilor's Wrap
-      - id: 247440 # Stutterstep Treads
-      - id: 247494 # Waistclasp of Unethical Power
-      - id: 247437 # Well-Flattened Wristguards
+      - id: 247469 # Bracers of Impossible Choices [wrists]
+      - id: 247437 # Well-Flattened Wristguards [wrists]
+      - id: 247438 # Cake Carrier's Girdle [waist]
+      - id: 247439 # Girdle of Nefarious Strategy [waist]
+      - id: 247488 # High Shadow Councilor's Wrap [waist]
+      - id: 247494 # Waistclasp of Unethical Power [waist]
+      - id: 247441 # Grove-Tender's Moccasins [feet]
+      - id: 247440 # Stutterstep Treads [feet]
 
       # Mail
-      - id: 247455 # Arcanochitin Hauberk
-      - id: 247450 # Architect's Coif of Despair
-      - id: 247470 # Belt of Celestial Alignment
-      - id: 247448 # Emblazoned Duskwatch Belt
-      - id: 247447 # Sabatons of Burning Steps
-      - id: 247453 # Shal'dorei Weedstompers
-      - id: 247456 # Stinger Resistant Bracers
-      - id: 247454 # Thistle-Proof Thorngrabbers
-      - id: 247495 # Vintage Duskwatch Cinch
+      - id: 247450 # Architect's Coif of Despair [head]
+      - id: 247455 # Arcanochitin Hauberk [chest]
+      - id: 247456 # Stinger Resistant Bracers [wrists]
+      - id: 247454 # Thistle-Proof Thorngrabbers [wrists]
+      - id: 247470 # Belt of Celestial Alignment [waist]
+      - id: 247448 # Emblazoned Duskwatch Belt [waist]
+      - id: 247495 # Vintage Duskwatch Cinch [waist]
+      - id: 247447 # Sabatons of Burning Steps [feet]
+      - id: 247453 # Shal'dorei Weedstompers [feet]
 
       # Plate
-      - id: 247458 # Duskwatch Plate Bracers
-      - id: 247473 # Eternally Recurring Bracers
-      - id: 247460 # Gilded Nightborne Waistplate
-      - id: 247496 # Gleaming Celestial Waistguard
-      - id: 247472 # Goresmeared Abyssal Waistplate
-      - id: 247477 # Immaculately Polished Boots
-      - id: 247475 # Jagged Carapace Wristclamps
-      - id: 247464 # Leystone-Toe Kickers
-      - id: 247471 # Sabatons of Unchanging Fate
-      - id: 247484 # Waistplate of Fractured Realities
+      - id: 247458 # Duskwatch Plate Bracers [wrists]
+      - id: 247473 # Eternally Recurring Bracers [wrists]
+      - id: 247475 # Jagged Carapace Wristclamps [wrists]
+      - id: 247460 # Gilded Nightborne Waistplate [waist]
+      - id: 247496 # Gleaming Celestial Waistguard [waist]
+      - id: 247472 # Goresmeared Abyssal Waistplate [waist]
+      - id: 247484 # Waistplate of Fractured Realities [waist]
+      - id: 247477 # Immaculately Polished Boots [feet]
+      - id: 247464 # Leystone-Toe Kickers [feet]
+      - id: 247471 # Sabatons of Unchanging Fate [feet]
 
       # Cloaks
       - id: 247489 # Aristocrat's Winter Drape
