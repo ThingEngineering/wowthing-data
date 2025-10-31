@@ -1,0 +1,37 @@
+things:
+  - id: 96362
+    type: "vendor"
+    name: "Izzy Hollyfizzle"
+    note: "Events Coordinator"
+
+    locations:
+      "05-warlords-of-draenor/frostwall":
+        - 47.8 38.6
+      "05-warlords-of-draenor/lunarfall":
+        - 44.4 51.4
+
+    groups:
+      - name: "Garrison"
+        range: -1
+
+    contents:
+
+      - id: 128664 # Creepy Crawlers
+        costs:
+          1128658: 5
+
+      - id: 128660 # Ghoulish Guises
+        costs:
+          1128658: 5
+
+      - id: 128661 # Hallow's Glow
+        costs:
+          1128658: 5
+
+      - id: 128662 # Seer's Invitation
+        costs:
+          1128658: 5
+
+      - id: 128663 # Witch's Brew
+        costs:
+          1128658: 5
