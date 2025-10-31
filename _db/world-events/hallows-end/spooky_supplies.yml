@@ -1,0 +1,16 @@
+things:
+  - id: 128664 # Creepy Crawlers
+    type: "item"
+
+    contents:
+      
+      - id: 1741 # Ghastly Rat
+        type: pet
+      
+      - id: 1740 # Ghost Maggot
+        type: pet
+      
+      - id: 1730 # Spectral Spinner
+        type: pet
+
+      - id: 128794 # Sack of Spectral Spiders [toy]
