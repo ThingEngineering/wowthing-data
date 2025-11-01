@@ -88,6 +88,66 @@ things:
         costs:
           0: 1 # Gold
 
+      - id: 246184 # Heartblossom Crown of the Dead
+        costs:
+          0: 100
+
+      - id: 246186 # Lotus Crown of the Dead
+        costs:
+          0: 100
+
+      - id: 246188 # Marigold Crown of the Dead
+        costs:
+          0: 100
+
+      - id: 246185 # Orchid Crown of the Dead
+        costs:
+          0: 100
+
+      - id: 246187 # Starflower Crown of the Dead
+        costs:
+          0: 100
+
+      - id: 246183 # Heartblossom Deathmask
+        costs:
+          0: 100
+
+      - id: 246179 # Lotus Deathmask
+        costs:
+          0: 100
+
+      - id: 246180 # Marigold Deathmask
+        costs:
+          0: 100
+
+      - id: 246182 # Orchid Deathmask
+        costs:
+          0: 100
+
+      - id: 246181 # Starflower Deathmask
+        costs:
+          0: 100
+
+      - id: 246158 # Heartblossom Remembrance Veil
+        costs:
+          0: 100
+
+      - id: 246156 # Lotus Remembrance Veil
+        costs:
+          0: 100
+
+      - id: 246154 # Marigold Remembrance Veil
+        costs:
+          0: 100
+
+      - id: 246157 # Orchid Remembrance Veil
+        costs:
+          0: 100
+
+      - id: 246155 # Starflower Remembrance Veil
+        costs:
+          0: 100
+
       - id: 46860 # Whimsical Skull Mask [subclass=5 head]
         costs:
           0: 100 # Gold
