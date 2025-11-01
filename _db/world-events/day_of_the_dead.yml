@@ -1,0 +1,97 @@
+tags:
+  - "event:day-of-the-dead"
+
+things:
+  - id: 34382
+    type: "vendor"
+    name: "Chapman"
+    note: "Day of the Dead Vendor"
+
+    locations:
+      here: # dun_morogh
+        - 61 36.8
+      here: # durotar
+        - 47.2 17.8
+      here: # tirisfal_glades
+        - 62.2 67.4
+        - 62.2 67.6
+      here: # undercity
+        - 62.2 67.4
+        - 67.2 11
+        - 67.4 11.8
+        - 67.8 11.2
+        - 67.8 11.6
+        - 68 12.6
+      here: # stormwind_city
+        - 46.2 25.4
+        - 46.2 25.6
+        - 46.4 26.6
+        - 46.6 26.6
+        - 46.8 26
+        - 47 25.4
+      here: # thunder_bluff
+        - 56 17.4
+        - 56.4 18
+        - 56.6 18
+        - 57 17.4
+        - 57 18.6
+      here: # darnassus
+        - 36 46
+        - 69.2 40.4
+        - 69.2 40.6
+        - 69.8 40.6
+      here: # eversong_woods
+        - 47.8 49.8
+      here: # terokkar_forest
+        - 39.8 22
+      here: # azuremyst_isle
+        - 47.8 55.8
+      here: # unknown
+        - 34.4 38.4
+        - 34.4 38.6
+        - 34.6 38.4
+        - 34.8 39.2
+        - 34.8 39.6
+      here: # unknown
+        - 34 38.4
+        - 34.2 39.4
+        - 34.2 39.6
+        - 34.8 40.4
+
+    contents:
+
+      - id: 116856 # "Blooming Rose" Contender's Costume [toy]
+        costs:
+          0: 100 # Gold
+
+      - id: 116888 # "Night Demon" Contender's Costume [toy]
+        costs:
+          0: 100 # Gold
+
+      - id: 116889 # "Purple Phantom" Contender's Costume [toy]
+        costs:
+          0: 100 # Gold
+
+      - id: 116890 # "Santo's Sun" Contender's Costume [toy]
+        costs:
+          0: 100 # Gold
+
+      - id: 116891 # "Snowy Owl" Contender's Costume [toy]
+        costs:
+          0: 100 # Gold
+
+      - id: 208859 # Cliffside Wylderdrake: Day of the Dead Armor
+        costs:
+          0: 50000 # Gold
+
+      - id: 46710 # Recipe: Bread of the Dead
+        costs:
+          0: 1 # Gold
+
+      - id: 46860 # Whimsical Skull Mask [subclass=5 head]
+        costs:
+          0: 100 # Gold
+
+      - id: 46861 # Bouquet of Orange Marigolds [off-hand]
+        costs:
+          0: 1 # Gold
