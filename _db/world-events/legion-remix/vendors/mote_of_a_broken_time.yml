@@ -34,27 +34,47 @@ things:
 
       - name: "Mote - NH Cloth"
         range: 8
-        sortKey: "mote-2-1"
+        sortKey: "mote-3-1"
         bonusIds: *bonusIds
 
       - name: "Mote - NH Leather"
         range: 8
-        sortKey: "mote-2-2"
+        sortKey: "mote-3-2"
         bonusIds: *bonusIds
 
       - name: "Mote - NH Mail"
         range: 9
-        sortKey: "mote-2-3"
+        sortKey: "mote-3-3"
         bonusIds: *bonusIds
 
       - name: "Mote - NH Plate"
         range: 10
-        sortKey: "mote-2-4"
+        sortKey: "mote-3-4"
         bonusIds: *bonusIds
 
       - name: "Mote - NH Cloaks"
         range: 7
-        sortKey: "mote-2-9"
+        sortKey: "mote-3-9"
+        bonusIds: *bonusIds
+
+      - name: "Mote - ToS Cloth"
+        range: 8
+        sortKey: "mote-4-1"
+        bonusIds: *bonusIds
+
+      - name: "Mote - ToS Leather"
+        range: 9
+        sortKey: "mote-4-2"
+        bonusIds: *bonusIds
+
+      - name: "Mote - ToS Mail"
+        range: 7
+        sortKey: "mote-4-3"
+        bonusIds: *bonusIds
+
+      - name: "Mote - ToS Plate"
+        range: 7
+        sortKey: "mote-4-4"
         bonusIds: *bonusIds
 
     contents:
@@ -387,4 +407,105 @@ things:
         costs: *costs
 
       - id: 247490 # Feathermane Feather Cloak
+        costs: *costs
+
+      # ToS Cloth
+
+      - id: 247617 # Acolyte's Abandoned Footwraps
+        costs: *costs
+
+      - id: 247596 # Braided Torture Lash
+        costs: *costs
+
+      - id: 247594 # Emberscatter Treads
+        costs: *costs
+
+      - id: 247599 # Oathbreaker's Cuffs
+        costs: *costs
+
+      - id: 247598 # Ravenous Devotee's Bracelets
+        costs: *costs
+
+      - id: 247618 # Sash of the Unredeemed
+        costs: *costs
+
+      - id: 247595 # Slippers of Enduring Vigilance
+        costs: *costs
+
+      - id: 247597 # Strife-Riddled Cinch
+        costs: *costs
+
+      # ToS Leather
+
+      - id: 247605 # Bracers of Rippling Darkness
+        costs: *costs
+
+      - id: 247602 # Cinch of Sizzling Flesh
+        costs: *costs
+
+      - id: 247620 # Cord of Pilfered Rosaries
+        costs: *costs
+
+      - id: 247603 # Etched Bone Waistband
+        costs: *costs
+
+      - id: 247601 # Felscape Pathfinders
+        costs: *costs
+
+      - id: 247600 # Glacier Walkers
+        costs: *costs
+
+      - id: 247604 # Sinew-Stitched Wristguards
+        costs: *costs
+
+      - id: 247619 # Treads of Violent Intrusion
+        costs: *costs
+
+      - id: 247616 # Waistguard of Profane Duplicity
+        costs: *costs
+
+      # ToS Mail
+
+      - id: 247608 # Belt of Screaming Slag
+        costs: *costs
+
+      - id: 247606 # Insulated Finpads
+        costs: *costs
+
+      - id: 247610 # Pain-Singed Armguards
+        costs: *costs
+
+      - id: 247622 # Pristine Moon-Wrought Clasp
+        costs: *costs
+
+      - id: 247607 # Star-Stalker Treads
+        costs: *costs
+
+      - id: 247621 # Treads of Panicked Escape
+        costs: *costs
+
+      - id: 247609 # Waistguard of Interminable Unity
+        costs: *costs
+
+      # ToS Plate
+
+      - id: 247615 # Bonemeal-Crusted Armplates
+        costs: *costs
+
+      - id: 247624 # Girdle of the Crumbling Sanctum
+        costs: *costs
+
+      - id: 247611 # Iron Ballast Sabatons
+        costs: *costs
+
+      - id: 247613 # Shiversleet Waistguard
+        costs: *costs
+
+      - id: 247614 # Soul-Render's Greatbelt
+        costs: *costs
+
+      - id: 247623 # Spiked Terrorwake Greatboots
+        costs: *costs
+
+      - id: 247612 # Steadfast Purifier's Warboots
         costs: *costs

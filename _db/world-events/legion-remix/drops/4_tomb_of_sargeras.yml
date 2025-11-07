@@ -1,0 +1,112 @@
+things:
+  - id: 10000402
+    name: "ToS - Normal"
+    type: "instance"
+    reset: "daily"
+
+    groups:
+      - name: "ToS - Normal"
+        range: -1
+        overrideDifficulty: 14
+        bonusIds:
+          - 12617 # Epic + Scaling
+
+    contents: &contents
+    
+      # ToS Cloth
+
+      - id: 247617 # Acolyte's Abandoned Footwraps
+
+      - id: 247596 # Braided Torture Lash
+
+      - id: 247594 # Emberscatter Treads
+
+      - id: 247599 # Oathbreaker's Cuffs
+
+      - id: 247598 # Ravenous Devotee's Bracelets
+
+      - id: 247618 # Sash of the Unredeemed
+
+      - id: 247595 # Slippers of Enduring Vigilance
+
+      - id: 247597 # Strife-Riddled Cinch
+
+      # ToS Leather
+
+      - id: 247605 # Bracers of Rippling Darkness
+
+      - id: 247602 # Cinch of Sizzling Flesh
+
+      - id: 247620 # Cord of Pilfered Rosaries
+
+      - id: 247603 # Etched Bone Waistband
+
+      - id: 247601 # Felscape Pathfinders
+
+      - id: 247600 # Glacier Walkers
+
+      - id: 247604 # Sinew-Stitched Wristguards
+
+      - id: 247619 # Treads of Violent Intrusion
+
+      - id: 247616 # Waistguard of Profane Duplicity
+
+      # ToS Mail
+
+      - id: 247608 # Belt of Screaming Slag
+
+      - id: 247606 # Insulated Finpads
+
+      - id: 247610 # Pain-Singed Armguards
+
+      - id: 247622 # Pristine Moon-Wrought Clasp
+
+      - id: 247607 # Star-Stalker Treads
+
+      - id: 247621 # Treads of Panicked Escape
+
+      - id: 247609 # Waistguard of Interminable Unity
+
+      # ToS Plate
+
+      - id: 247615 # Bonemeal-Crusted Armplates
+
+      - id: 247624 # Girdle of the Crumbling Sanctum
+
+      - id: 247611 # Iron Ballast Sabatons
+
+      - id: 247613 # Shiversleet Waistguard
+
+      - id: 247614 # Soul-Render's Greatbelt
+
+      - id: 247623 # Spiked Terrorwake Greatboots
+
+      - id: 247612 # Steadfast Purifier's Warboots
+
+  - id: 10000403
+    name: "ToS - Heroic"
+    type: "instance"
+    reset: "daily"
+
+    groups:
+      - name: "NH - Heroic"
+        range: -1
+        overrideDifficulty: 15
+        bonusIds:
+          - 12617 # Epic + Scaling
+
+    contents: *contents
+
+  - id: 10000404
+    name: "ToS - Mythic"
+    type: "instance"
+    reset: "daily"
+
+    groups:
+      - name: "ToS - Mythic"
+        range: -1
+        overrideDifficulty: 16
+        bonusIds:
+          - 12617 # Epic + Scaling
+
+    contents: *contents
