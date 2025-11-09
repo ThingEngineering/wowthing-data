@@ -35,8 +35,8 @@ things:
       - id: 247440 # Stutterstep Treads [feet]
 
       # Mail
-      - id: 247450 # Architect's Coif of Despair [head]
-      - id: 247455 # Arcanochitin Hauberk [chest]
+      # - id: 247450 # Architect's Coif of Despair [head]
+      # - id: 247455 # Arcanochitin Hauberk [chest]
       - id: 247456 # Stinger Resistant Bracers [wrists]
       - id: 247454 # Thistle-Proof Thorngrabbers [wrists]
       - id: 247470 # Belt of Celestial Alignment [waist]

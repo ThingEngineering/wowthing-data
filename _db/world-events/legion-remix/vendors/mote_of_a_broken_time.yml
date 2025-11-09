@@ -327,11 +327,11 @@ things:
 
       # NH Mail
 
-      - id: 247450 # Architect's Coif of Despair [head]
-        costs: *costs
+      # - id: 247450 # Architect's Coif of Despair [head]
+      #   costs: *costs
 
-      - id: 247455 # Arcanochitin Hauberk [chest]
-        costs: *costs
+      # - id: 247455 # Arcanochitin Hauberk [chest]
+      #   costs: *costs
 
       - id: 247456 # Stinger Resistant Bracers [wrists]
         costs: *costs
