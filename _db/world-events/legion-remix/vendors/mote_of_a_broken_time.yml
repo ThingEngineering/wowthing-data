@@ -43,7 +43,7 @@ things:
         bonusIds: *bonusIds
 
       - name: "Mote - NH Mail"
-        range: 9
+        range: 7
         sortKey: "mote-3-3"
         bonusIds: *bonusIds
 
