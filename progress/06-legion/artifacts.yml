@@ -2,6 +2,134 @@ name: "Artifacts"
 requiredQuestId: 40715 40814 40646 40618 41085 40636 40408 40706 40840 41335 40684 40579
 groups:
 
+- name: "Get Artifacts"
+  icon: "achievement/11171" # Arsenal of Power
+  iconText: "Get"
+  lookup: class
+  type: quest
+  data:
+    death-knight:
+      - name: "Blood"
+        id: 40740 # The Dead and the Damned
+
+      - name: "Frost"
+        id: 38990 # The Call of Icecrown
+
+      - name: "Unholy"
+        id: 40934 # The Dark Riders
+
+    demon-hunter:
+      - name: "Havoc"
+        id: 41119 # The Hunt
+
+      - name: "Vengeance"
+        id: 41863 # Vengeance Will Be Ours
+
+    druid:
+      - name: "Balance"
+        id: 40838 # The Dark Riders
+
+      - name: "Feral"
+        id: 42430 # The Fangs of Ashamane
+
+      - name: "Guardian"
+        id: 40647 # When Dreams Become Nightmares
+
+      - name: "Restoration"
+        id: 41689 # Cleansing the Mother Tree
+
+    hunter:
+      - name: "Beast Mastery"
+        id: 42185 # Never Hunt Alone
+
+      - name: "Marksmanship"
+        id: 40419 # Rescue Mission
+
+      - name: "Survival"
+        id: 40385 # The Spear in the Shadow
+
+    mage:
+      - name: "Arcane"
+        id: 42011 # The Nexus Vault
+
+      - name: "Fire"
+        id: 11997 # The Frozen Flame
+
+      - name: "Frost"
+        id: 42479 # The Mage Hunter
+
+    monk:
+      - name: "Brewmaster"
+        id: 42765 # The Trial at the Temple
+
+      - name: "Mistweaver"
+        id: 41003 # The Emperor's Gift
+
+      - name: "Windwalker"
+        id: 40570 # Into the Heavens
+
+    paladin:
+      - name: "Holy"
+        id: 42120 # The Silver Hand
+
+      - name: "Protection"
+        id: 42017 # Shrine of the Truthguard
+
+      - name: "Retribution"
+        id: 38376 # The Search for the Highlord
+
+    priest:
+      - name: "Discipline"
+        id: 41631 # The Nexus Vault
+
+      - name: "Holy"
+        id: 42074 # Return of the Light
+
+      - name: "Shadow"
+        id: 40710 # Blade in Twilight
+
+    rogue:
+      - name: "Assassination"
+        id: 44177 # Dark Secrets and Shady Deals
+
+      - name: "Outlaw"
+        id: 40847 # A Friendly Accord
+
+      - name: "Subtlety"
+        id: 41924 # Fangs of the Devourer
+
+    shaman:
+      - name: "Elemental"
+        id: 39771 # The Voice of Thunder
+
+      - name: "Enhancement"
+        id: 40224 # The Hammer in the Deep [H?]
+
+      - name: "Restoration"
+        id: 40341 # Throne of the Tides: Azshara's Power
+
+    warlock:
+      - name: "Affliction"
+        id: 40623 # The Dark Riders
+
+      - name: "Demonology"
+        id: 42125 # Dark Whispers
+
+      - name: "Destruction"
+        id: 43100 # Finding the Scepter
+
+    warrior:
+      - name: "Arms"
+        id: 41105 # The Sword of Kings
+
+      - name: "Fury"
+        id: 40043 # The Hunter of Heroes
+
+      - name: "Protection"
+        id: 39191 # Legacy of the Icebreaker
+
+- name: separator
+
 - name: "Classic Appearances"
   icon: "achievement/10461" # Fighting with Style: Classic
   iconText: "Classic"
