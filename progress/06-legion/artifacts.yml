@@ -90,7 +90,7 @@ groups:
 
     rogue:
       - name: "Assassination"
-        id: 44177 # Dark Secrets and Shady Deals
+        id: 42504 # The Unseen Blade
 
       - name: "Outlaw"
         id: 40847 # A Friendly Accord
