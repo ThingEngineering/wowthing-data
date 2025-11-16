@@ -1,0 +1,41 @@
+things:
+  - id: 223902
+    type: "vendor"
+    name: "Traeya"
+    note: "Armor Vendor"
+
+    locations:
+      here: # tanaris
+        - 63 50.8
+
+    contents:
+
+      # 0 set=5307
+
+      - id: 253160 # Loyal Watchman's Helm [subclass=5 head]
+        costs:
+          1166: 50
+
+      - id: 253159 # Loyal Watchman's Spaulders [subclass=5 shoulders]
+        costs:
+          1166: 50
+
+      - id: 253158 # Loyal Watchman's Cuirass [subclass=5 chest]
+        costs:
+          1166: 30
+
+      - id: 253154 # Loyal Watchman's Gauntlets [subclass=5 hands]
+        costs:
+          1166: 20
+
+      - id: 253155 # Loyal Watchman's Belt [subclass=5 waist]
+        costs:
+          1166: 20
+
+      - id: 253157 # Loyal Watchman's Trousers [subclass=5 legs]
+        costs:
+          1166: 30
+
+      - id: 253156 # Loyal Watchman's Boots [subclass=5 feet]
+        costs:
+          1166: 30

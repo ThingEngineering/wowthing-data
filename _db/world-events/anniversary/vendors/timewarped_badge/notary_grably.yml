@@ -1,0 +1,82 @@
+things:
+  - id: 231352
+    type: "vendor"
+    name: "Notary Grably"
+    note: "Titles of Olde"
+
+    locations:
+      here: # tanaris
+        - 63.2 50.6
+
+    groups:
+      - name: "Timewalking - Titles"
+        range: -1
+        sortKey: "z-tw-0"
+
+    contents:
+
+      # 0
+
+      - id: 230264 # Bronze Celebration Titles: Broken Isles Enthusiast
+        costs:
+          1166: 100
+
+      - id: 230261 # Bronze Celebration Titles: Cataclysm Enthusiast
+        costs:
+          1166: 100
+
+      - id: 230258 # Bronze Celebration Titles: Classic Enthusiast
+        costs:
+          1166: 100
+
+      - id: 230263 # Bronze Celebration Titles: Draenor Enthusiast
+        costs:
+          1166: 100
+
+      - id: 230268 # Bronze Celebration Titles: Dragon Isles Enthusiast
+        costs:
+          1166: 100
+
+      - id: 229826 # Bronze Celebration Titles: Grizzly Hills Hiker
+        costs:
+          1166: 100
+
+      - id: 231833 # Bronze Celebration Titles: Karazhan Graduate
+        costs:
+          1166: 100
+
+      - id: 249242 # Bronze Celebration Titles: Khaz Algar Enthusiast
+        costs:
+          1166: 100
+
+      - id: 230266 # Bronze Celebration Titles: Kul Tiras Enthusiast
+        costs:
+          1166: 100
+
+      - id: 231832 # Bronze Celebration Titles: Molten Core Prospector
+        costs:
+          1166: 100
+
+      - id: 230260 # Bronze Celebration Titles: Northrend Enthusiast
+        costs:
+          1166: 100
+
+      - id: 230259 # Bronze Celebration Titles: Outland Enthusiast
+        costs:
+          1166: 100
+
+      - id: 230262 # Bronze Celebration Titles: Pandaria Enthusiast
+        costs:
+          1166: 100
+
+      - id: 229827 # Bronze Celebration Titles: Plaguelands Survivor
+        costs:
+          1166: 100
+
+      - id: 230267 # Bronze Celebration Titles: Shadowlands Enthusiast
+        costs:
+          1166: 100
+
+      - id: 230265 # Bronze Celebration Titles: Zuldazar Enthusiast
+        costs:
+          1166: 100
