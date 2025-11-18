@@ -77,6 +77,26 @@ things:
         sortKey: "mote-4-4"
         bonusIds: *bonusIds
 
+      - name: "Mote - ABT Cloth"
+        range: 8
+        sortKey: "mote-5-1"
+        bonusIds: *bonusIds
+
+      - name: "Mote - ABT Leather"
+        range: 8
+        sortKey: "mote-5-2"
+        bonusIds: *bonusIds
+
+      - name: "Mote - ABT Mail"
+        range: 8
+        sortKey: "mote-5-3"
+        bonusIds: *bonusIds
+
+      - name: "Mote - ABT Plate"
+        range: 8
+        sortKey: "mote-5-4"
+        bonusIds: *bonusIds
+
     contents:
 
        # EN Cloth
@@ -508,4 +528,108 @@ things:
         costs: *costs
 
       - id: 247612 # Steadfast Purifier's Warboots
+        costs: *costs
+
+      # ABT Cloth
+
+      - id: 247632 # Blood-Drenched Bindings
+        costs: *costs
+
+      - id: 247627 # Cord of Surging Hysteria
+        costs: *costs
+
+      - id: 247630 # Cord of Blossoming Petals
+        costs: *costs
+
+      - id: 247629 # Enhanced Worldscorcher Cinch
+        costs: *costs
+
+      - id: 247628 # Lady Dacidion's Silk Slippers
+        costs: *costs
+
+      - id: 247631 # Man'ari Pyromancer Cuffs
+        costs: *costs
+
+      - id: 247626 # Sandals of the Reborn Colossus
+        costs: *costs
+
+      - id: 247625 # Whisperstep Runners
+        costs: *costs
+
+      # ABT Leather
+
+      - id: 247637 # Belt of Fractured Sanity
+        costs: *costs
+
+      - id: 247654 # Bracers of Wanton Morality
+        costs: *costs
+
+      - id: 247635 # Death-Enveloping Cincture
+        costs: *costs
+
+      - id: 247653 # Depraved Machinist's Footpads
+        costs: *costs
+
+      - id: 247638 # Fiendish Logistician's Wristwraps
+        costs: *costs
+
+      - id: 247633 # Life-Bearing Footpads
+        costs: *costs
+
+      - id: 247636 # Portal Keeper's Cincture
+        costs: *costs
+
+      - id: 247634 # Vicious Flamepaws
+        costs: *costs
+
+      # ABT Mail
+
+      - id: 247639 # Deft Soulhunter's Sabatons
+        costs: *costs
+
+      - id: 247641 # Depraved Tactician's Waistguard
+        costs: *costs
+
+      - id: 247656 # Greatboots of the Searing Tempest
+        costs: *costs
+
+      - id: 247640 # Nathrezim Shade-Walkers
+        costs: *costs
+
+      - id: 247643 # Reality-Splitting Wristguards
+        costs: *costs
+
+      - id: 247642 # Sash of the Gilded Rose
+        costs: *costs
+
+      - id: 247651 # Scalding Shatterguards
+        costs: *costs
+
+      - id: 247655 # World-Ravager Waistguard
+        costs: *costs
+
+      # ABT Plate
+
+      - id: 247645 # Burning Coven Sabatons
+        costs: *costs
+
+      - id: 247644 # Doomwalker Warboots
+        costs: *costs
+
+      - id: 247646 # Eredar Warcouncil Sabatons
+        costs: *costs
+
+      - id: 247648 # Flamelicked Girdle
+        costs: *costs
+
+      - id: 247649 # Grond-Father Girdle
+        costs: *costs
+
+      - id: 247647 # Nathrezim Battle Girdle
+        costs: *costs
+
+      - id: 247650 # Vambraces of Life's Assurance
+        costs: *costs
+
+      - id: 247652 # Varimathras' Shattered Manacles
         costs: *costs
