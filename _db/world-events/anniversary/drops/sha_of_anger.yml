@@ -1,0 +1,109 @@
+things:
+  - id: 226646 
+    type: "npc"
+    name: "Sha of Anger"
+    reset: "daily"
+    trackingQuestId: 84282
+
+    locations:
+      "00-classic/tanaris":
+        - "33.7 55.6"
+
+    contents:
+
+      - id: 87771 # Reins of the Heavenly Onyx Cloud Serpent [mount]
+
+      # Cloth
+
+      - id: 227591 # Gloves of the Burning Scroll
+      - id: 227590 # Leggings of the Burning Scroll
+      - id: 227586 # Guardian Serpent Gloves
+      - id: 227587 # Guardian Serpent Leggings
+      - id: 227588 # Sha-Skin Gloves
+      - id: 227589 # Sha-Skin Leggings
+      - id: 227635 # Malevolent Gladiator's Cord of Accuracy
+      - id: 227634 # Malevolent Gladiator's Cord of Cruelty
+      - id: 227636 # Malevolent Gladiator's Cord of Meditation
+      - id: 227637 # Malevolent Gladiator's Cuffs of Accuracy
+      - id: 227639 # Malevolent Gladiator's Cuffs of Meditation
+      - id: 227638 # Malevolent Gladiator's Cuffs of Prowess
+      - id: 227629 # Malevolent Gladiator's Felweave Handguards
+      - id: 227632 # Malevolent Gladiator's Felweave Trousers
+      - id: 227630 # Malevolent Gladiator's Mooncloth Gloves
+      - id: 227633 # Malevolent Gladiator's Mooncloth Leggings
+      - id: 227628 # Malevolent Gladiator's Silk Handguards
+      - id: 227631 # Malevolent Gladiator's Silk Trousers
+      - id: 227626 # Malevolent Gladiator's Treads of Alacrity
+      - id: 227625 # Malevolent Gladiator's Treads of Cruelty
+      - id: 227627 # Malevolent Gladiator's Treads of Meditation
+
+      # Leather
+
+      - id: 227565 # Eternal Blossom Grips
+      - id: 227564 # Eternal Blossom Legguards
+      - id: 227598 # Red Crane Grips
+      - id: 227599 # Red Crane Leggings
+      - id: 227561 # Gloves of the Thousandfold Blades
+      - id: 227560 # Legguards of the Thousandfold Blades
+      - id: 227613 # Malevolent Gladiator's Armwraps of Accuracy
+      - id: 227612 # Malevolent Gladiator's Armwraps of Alacrity
+      - id: 227611 # Malevolent Gladiator's Belt of Cruelty
+      - id: 227614 # Malevolent Gladiator's Bindings of Prowess
+      - id: 227601 # Malevolent Gladiator's Boots of Alacrity
+      - id: 227600 # Malevolent Gladiator's Boots of Cruelty
+      - id: 227602 # Malevolent Gladiator's Footguards of Alacrity
+      - id: 227604 # Malevolent Gladiator's Ironskin Gloves
+      - id: 227607 # Malevolent Gladiator's Ironskin Legguards
+      - id: 227603 # Malevolent Gladiator's Leather Gloves
+      - id: 227606 # Malevolent Gladiator's Leather Legguards
+      - id: 227609 # Malevolent Gladiator's Waistband of Cruelty
+      - id: 227610 # Malevolent Gladiator's Waistband of Accuracy
+      - id: 227605 # Malevolent Gladiator's Wyrmhide Gloves
+      - id: 227608 # Malevolent Gladiator's Wyrmhide Legguards
+
+      # Mail
+
+      - id: 227556 # Firebird's Gloves
+      - id: 227557 # Firebird's Kilt
+      - id: 227559 # Yaungol Slayer's Gloves
+      - id: 227558 # Yaungol Slayer's Legguards
+      - id: 227624 # Malevolent Gladiator's Armbands of Prowess
+      - id: 227617 # Malevolent Gladiator's Chain Gauntlets
+      - id: 227619 # Malevolent Gladiator's Chain Leggings
+      - id: 227616 # Malevolent Gladiator's Footguards of Alacrity
+      - id: 227622 # Malevolent Gladiator's Links of Cruelty
+      - id: 227618 # Malevolent Gladiator's Ringmail Gauntlets
+      - id: 227620 # Malevolent Gladiator's Ringmail Leggings
+      - id: 227615 # Malevolent Gladiator's Sabatons of Cruelty
+      - id: 227621 # Malevolent Gladiator's Waistguard of Meditation
+      - id: 227623 # Malevolent Gladiator's Wristguards of Alacrity
+
+      # Plate
+
+      - id: 227575 # Gauntlets of the Lost Catacomb
+      - id: 227574 # Greaves of the Lost Catacomb
+      - id: 227573 # Gauntlets of Resounding Rings
+      - id: 227572 # Legplates of Resounding Rings
+      - id: 227577 # White Tiger Gauntlets
+      - id: 227576 # White Tiger Legplates
+      - id: 227657 # Malevolent Gladiator's Armplates of Alacrity
+      - id: 227656 # Malevolent Gladiator's Armplates of Proficiency
+      - id: 227655 # Malevolent Gladiator's Bracers of Prowess
+      - id: 227654 # Malevolent Gladiator's Clasp of Cruelty
+      - id: 227647 # Malevolent Gladiator's Dreadplate Gauntlets
+      - id: 227650 # Malevolent Gladiator's Dreadplate Legguards
+      - id: 227652 # Malevolent Gladiator's Girdle of Accuracy
+      - id: 227653 # Malevolent Gladiator's Girdle of Prowess
+      - id: 227644 # Malevolent Gladiator's Greaves of Alacrity
+      - id: 227646 # Malevolent Gladiator's Ornamented Gloves
+      - id: 227649 # Malevolent Gladiator's Ornamented Legplates
+      - id: 227651 # Malevolent Gladiator's Plate Legguards
+      - id: 227648 # Malevolent Gladiator's Plate Gauntlets
+      - id: 227645 # Malevolent Gladiator's Warboots of Alacrity
+      - id: 227643 # Malevolent Gladiator's Warboots of Cruelty
+
+      # Cloak
+
+      - id: 227641 # Malevolent Gladiator's Cape of Cruelty
+      - id: 227642 # Malevolent Gladiator's Cloak of Alacrity
+      - id: 227640 # Malevolent Gladiator's Drape of Prowess

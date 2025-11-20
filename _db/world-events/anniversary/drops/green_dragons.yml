@@ -1,0 +1,109 @@
+things:
+  - id: 121820 # really Azuregos but sorting by id ugh
+    type: "npc"
+    name: "Green Dragons"
+    reset: "daily"
+
+    contents:
+
+      # Shared
+      
+      - id: 150411 # Green Dragonskin Cloak [back]
+      
+      - id: 150412 # Hammer of Bestial Fury [1h agi/str mace]
+      
+      - id: 150393 # Nightmare Blade [1h agi/str sword]
+      
+      - id: 150429 # Emerald Dragonfang [1h agi dagger]
+
+      - id: 150408 # Staff of Rampant Growth [int staff]
+
+      - id: 150403 # Polished Ironwood Crossbow [crossbow]
+
+  - id: 121821
+    type: "npc"
+    name: "Lethon"
+    reset: "daily"
+    trackingQuestId: 47463
+    
+    locations:
+      "00-classic/the_hinterlands":
+        - "62.8 26.2"
+    
+    contents:
+
+      - id: 150399 # Black Bark Wristbands [cloth wrists]
+
+      - id: 150401 # Deviate Growth Cap [leather head]
+      
+      - id: 150398 # Dark Heart Pants [leather legs]
+      
+      - id: 150400 # Malignant Footguards [mail feet]
+
+      - id: 150402 # Gauntlets of the Shining Light [plate hands]
+
+  - id: 121911
+    type: "npc"
+    name: "Taerar"
+    reset: "daily"
+    trackingQuestId: 47463
+
+    locations:
+      "00-ashenvale":
+        - "93.8 40.4"
+
+    contents:
+
+      - id: 150394 # Mendicant's Slippers [cloth feet]
+
+      - id: 150395 # Unnatural Leather Spaulders [leather shoulders]
+      
+      - id: 150414 # Ancient Corroded Leggings [mail legs]
+      
+      - id: 150413 # Dragonbone Wristguards [plate wrists]
+
+      - id: 150390 # Stranglely Glyphed Legplates [plate legs]
+
+  - id: 121912
+    type: "npc"
+    name: "Ysondre"
+    reset: "daily"
+    trackingQuestId: 47463
+
+    locations:
+      "00-classic/feralas":
+        - "50.8 12.2"
+
+    contents:
+      - id: 150391 # Jade Inlaid Vestments [cloth chest]
+
+      - id: 150397 # Belt of the Dark Bog [cloth waist]
+      
+      - id: 150396 # Boots of Fgith [leather feet]
+      
+      - id: 150389 # Leggings of the Demented Mind [mail legs]
+
+      - id: 150387 # Acid Inscribed Pauldrons [plate shoulders]
+
+      - id: 150409 # Trance Stone [off-hand]
+
+  - id: 121913
+    type: "npc"
+    name: "Emeriss"
+    trackingQuestId: 47463
+
+    locations:
+      "00-classic/duskwood":
+        - "46.8 40.4"
+
+    contents:
+
+      - id: 150416 # Gloves of Delusional Power [cloth hands]
+
+      - id: 150405 # Circlet of Resltess Dreams [leather head]
+      
+      - id: 150415 # Dragonspur Wraps [leather wrists]
+      
+      - id: 150406 # Boots of the Endless Moor [mail feet]
+
+      - id: 150410 # Acid Inscribed Greaves [plate feet]

@@ -1,0 +1,48 @@
+things:
+  - id: 167749
+    type: "npc"
+    name: "Doomwalker"
+    reset: "daily"
+    trackingQuestId: 60214
+
+    locations:
+      "00-classic/tanaris":
+        - "63.0 50.0"
+    
+    contents:
+
+      - id: 208572 # Azure Worldchiller [mount]
+
+      - id: 186469 # Illidari Dragonhawk [mount]
+      
+      - id: 43959 # Reins of the Grand Black War Mammoth [A][mount]
+
+      - id: 44083 # Reins of the Grand Black War Mammoth [H][mount]
+
+      - id: 186501 # Doomwalker Trophy Stand [toy]
+      
+      - id: 186460 # Anger-Spark Gloves [cloth hands]
+      
+      - id: 186461 # Gilded Trousers of Benediction [cloth legs]
+      
+      - id: 186475 # Hellstitched Mantle [leahter shoulders]
+      
+      - id: 186463 # Terrorweave Tunic [leather chest]
+      
+      - id: 186481 # Darkcrest Waistguard [mail waist]
+      
+      - id: 186464 # Fathom-Helm of the Deeps [mail head]
+      
+      - id: 186465 # Faceguard of the Endless Watch [plate head]
+      
+      - id: 186484 # Voidforged Greaves [plate feet]
+      
+      - id: 186462 # Black-Iron Battlecloak [back]
+      
+      - id: 186506 # Akama's Edge [1h agi axe]
+      
+      - id: 186468 # Talon of the Tempest [int dagger]
+      
+      - id: 186466 # Ethereum Nexus-Reaver [2h str axe]
+      
+      - id: 186467 # Barrel-Blade Longrifle [gun]

@@ -1,0 +1,28 @@
+things:
+  - id: 121818
+    type: "npc"
+    name: "Lord Kazzak"
+    reset: "daily"
+    trackingQuestId: 47461
+
+    locations:
+      "00-classic/blasted_lands":
+        - 32.4 49.2
+
+    contents:
+
+      - id: 150386 # Blacklight Bracer [cloth wrists]
+
+      - id: 150385 # Fel Infused Leggings [cloth legs]
+      
+      - id: 150382 # Doomhide Gauntlets [leather hands]
+      
+      - id: 150381 # Flayed Doomguard Belt [leather waist]
+      
+      - id: 150379 # Infernal Headcage [mail head]
+      
+      - id: 150380 # Eskhandar's Pelt [back]
+      
+      - id: 150427 # Empyrean Demolisher [1h agi/str mace]
+      
+      - id: 150383 # Amberseal Keeper [int staff]

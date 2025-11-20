@@ -1,0 +1,87 @@
+things:
+  - id: 227257 
+    type: "npc"
+    name: "Archavon the Stone Watcher"
+    reset: "daily"
+    trackingQuestId: 84256
+
+    locations:
+      "00-classic/tanaris":
+        - "46.0 28.9"
+
+    contents:
+
+      - id: 43959 # Reins of the Grand Black War Mammoth [A] [mount]
+      - id: 44083 # Reins of the Grand Black War Mammoth [H] [mount]
+
+      # Cloth
+
+      - id: 227244 # Heroes' Gloves of Faith
+      - id: 227254 # Heroes' Leggings of Faith
+      - id: 227264 # Heroes' Robe of Faith
+      - id: 227242 # Heroes' Frostfire Gloves
+      - id: 227252 # Heroes' Frostfire Leggings
+      - id: 227262 # Heroes' Frostfire Robe
+      - id: 227243 # Heroes' Plagueheart Gloves
+      - id: 227253 # Heroes' Plagueheart Leggings
+      - id: 227263 # Heroes' Plagueheart Robe
+      - id: 227231 # Hateful Gladiator's Felweave Handguards
+      - id: 227221 # Hateful Gladiator's Felweave Raiment
+      - id: 227241 # Hateful Gladiator's Felweave Trousers
+      - id: 227229 # Hateful Gladiator's Mooncloth Gloves
+      - id: 227239 # Hateful Gladiator's Mooncloth Leggings
+      - id: 227218 # Hateful Gladiator's Mooncloth Robe
+      - id: 227230 # Hateful Gladiator's Silk Handguards
+      - id: 227220 # Hateful Gladiator's Silk Raiment
+      - id: 227240 # Hateful Gladiator's Silk Trousers
+
+      # Leather
+
+      - id: 227266 # Heroes' Bonescythe Breastplate
+      - id: 227246 # Heroes' Bonescythe Gauntlets
+      - id: 227256 # Heroes' Bonescythe Legplates
+      - id: 227245 # Heroes' Dreamwalker Handgrips
+      - id: 227255 # Heroes' Dreamwalker Legguards
+      - id: 227265 # Heroes' Dreamwalker Raiments
+      - id: 227227 # Hateful Gladiator's Kodohide Gloves
+      - id: 227237 # Hateful Gladiator's Kodohide Legguards
+      - id: 227215 # Hateful Gladiator's Kodohide Robes
+      - id: 227228 # Hateful Gladiator's Leather Gloves
+      - id: 227238 # Hateful Gladiator's Leather Legguards
+      - id: 227214 # Hateful Gladiator's Leather Tunic
+
+      # Mail
+
+      - id: 227247 # Heroes' Cryptstalker Handguards
+      - id: 227257 # Heroes' Cryptstalker Legguards
+      - id: 227267 # Heroes' Cryptstalker Tunic
+      - id: 227248 # Heroes' Earthshatter Handguards
+      - id: 227258 # Heroes' Earthshatter Legguards
+      - id: 227268 # Heroes' Earthshatter Tunic
+      - id: 227213 # Hateful Gladiator's Chain Armor
+      - id: 227226 # Hateful Gladiator's Chain Gauntlets
+      - id: 227236 # Hateful Gladiator's Chain Leggings
+      - id: 227212 # Hateful Gladiator's Ringmail Armor
+      - id: 227225 # Hateful Gladiator's Ringmail Gauntlets
+      - id: 227235 # Hateful Gladiator's Ringmail Leggings
+
+      # Plate
+
+      - id: 227269 # Heroes' Dreadnaught Battleplate
+      - id: 227249 # Heroes' Dreadnaught Gauntlets
+      - id: 227259 # Heroes' Dreadnaught Legplates
+      - id: 227251 # Heroes' Redemption Gloves
+      - id: 227261 # Heroes' Redemption Greaves
+      - id: 227271 # Heroes' Redemption Tunic
+      - id: 227270 # Heroes' Scourgeborne Battleplate
+      - id: 227250 # Heroes' Scourgeborne Gauntlets
+      - id: 227260 # Heroes' Scourgeborne Legplates
+      - id: 227209 # Hateful Gladiator's Dreadplate Chestpiece
+      - id: 227223 # Hateful Gladiator's Dreadplate Gauntlets
+      - id: 227233 # Hateful Gladiator's Dreadplate Legguards
+      - id: 227211 # Hateful Gladiator's Ornamented Chestguard
+      - id: 227224 # Hateful Gladiator's Ornamented Gloves
+      - id: 227234 # Hateful Gladiator's Ornamented Legplates
+      - id: 227210 # Hateful Gladiator's Plate Chestpiece
+      - id: 227222 # Hateful Gladiator's Plate Gauntlets
+      - id: 227232 # Hateful Gladiator's Plate Legguards
