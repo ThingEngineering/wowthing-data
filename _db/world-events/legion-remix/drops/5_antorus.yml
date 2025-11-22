@@ -15,47 +15,47 @@ things:
 
       # Cloth
 
-      - id: 247632 # Blood-Drenched Bindings
-      - id: 247627 # Cord of Surging Hysteria
-      - id: 247630 # Cord of Blossoming Petals
-      - id: 247629 # Enhanced Worldscorcher Cinch
-      - id: 247628 # Lady Dacidion's Silk Slippers
-      - id: 247631 # Man'ari Pyromancer Cuffs
-      - id: 247626 # Sandals of the Reborn Colossus
-      - id: 247625 # Whisperstep Runners
+      - id: 247632 # Blood-Drenched Bindings [wrists]
+      - id: 247631 # Man'ari Pyromancer Cuffs [wrists]
+      - id: 247627 # Cord of Surging Hysteria [waist]
+      - id: 247630 # Cord of Blossoming Petals [waist]
+      - id: 247629 # Enhanced Worldscorcher Cinch [waist]
+      - id: 247628 # Lady Dacidion's Silk Slippers [feet]
+      - id: 247626 # Sandals of the Reborn Colossus [feet]
+      - id: 247625 # Whisperstep Runners [feet]
 
       # Leather
 
-      - id: 247637 # Belt of Fractured Sanity
-      - id: 247654 # Bracers of Wanton Morality
-      - id: 247635 # Death-Enveloping Cincture
-      - id: 247653 # Depraved Machinist's Footpads
-      - id: 247638 # Fiendish Logistician's Wristwraps
-      - id: 247633 # Life-Bearing Footpads
-      - id: 247636 # Portal Keeper's Cincture
-      - id: 247634 # Vicious Flamepaws
+      - id: 247638 # Fiendish Logistician's Wristwraps [wrists]
+      - id: 247654 # Bracers of Wanton Morality [wrists]
+      - id: 247637 # Belt of Fractured Sanity [waist]
+      - id: 247635 # Death-Enveloping Cincture [waist]
+      - id: 247636 # Portal Keeper's Cincture [waist]
+      - id: 247653 # Depraved Machinist's Footpads [feet]
+      - id: 247633 # Life-Bearing Footpads [feet]
+      - id: 247634 # Vicious Flamepaws [feet]
 
       # Mail
 
-      - id: 247639 # Deft Soulhunter's Sabatons
-      - id: 247641 # Depraved Tactician's Waistguard
-      - id: 247656 # Greatboots of the Searing Tempest
-      - id: 247640 # Nathrezim Shade-Walkers
-      - id: 247643 # Reality-Splitting Wristguards
-      - id: 247642 # Sash of the Gilded Rose
-      - id: 247651 # Scalding Shatterguards
-      - id: 247655 # World-Ravager Waistguard
+      - id: 247643 # Reality-Splitting Wristguards [wrists]
+      - id: 247651 # Scalding Shatterguards [wrists]
+      - id: 247641 # Depraved Tactician's Waistguard [waist]
+      - id: 247642 # Sash of the Gilded Rose [waist]
+      - id: 247655 # World-Ravager Waistguard [waist]
+      - id: 247639 # Deft Soulhunter's Sabatons [feet]
+      - id: 247656 # Greatboots of the Searing Tempest [feet]
+      - id: 247640 # Nathrezim Shade-Walkers [feet]
 
       # Plate
 
-      - id: 247645 # Burning Coven Sabatons
-      - id: 247644 # Doomwalker Warboots
-      - id: 247646 # Eredar Warcouncil Sabatons
-      - id: 247648 # Flamelicked Girdle
-      - id: 247649 # Grond-Father Girdle
-      - id: 247647 # Nathrezim Battle Girdle
-      - id: 247650 # Vambraces of Life's Assurance
-      - id: 247652 # Varimathras' Shattered Manacles
+      - id: 247650 # Vambraces of Life's Assurance [wrists]
+      - id: 247652 # Varimathras' Shattered Manacles [wrists]
+      - id: 247648 # Flamelicked Girdle [waist]
+      - id: 247649 # Grond-Father Girdle [waist]
+      - id: 247647 # Nathrezim Battle Girdle [waist]
+      - id: 247645 # Burning Coven Sabatons [feet]
+      - id: 247644 # Doomwalker Warboots [feet]
+      - id: 247646 # Eredar Warcouncil Sabatons [feet]
 
   - id: 10000503
     name: "ABT - Heroic"
