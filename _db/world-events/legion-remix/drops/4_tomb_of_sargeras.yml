@@ -15,73 +15,46 @@ things:
     
       # ToS Cloth
 
-      - id: 247617 # Acolyte's Abandoned Footwraps
-
-      - id: 247596 # Braided Torture Lash
-
-      - id: 247594 # Emberscatter Treads
-
-      - id: 247599 # Oathbreaker's Cuffs
-
-      - id: 247598 # Ravenous Devotee's Bracelets
-
-      - id: 247618 # Sash of the Unredeemed
-
-      - id: 247595 # Slippers of Enduring Vigilance
-
-      - id: 247597 # Strife-Riddled Cinch
+      - id: 247599 # Oathbreaker's Cuffs [wrists]
+      - id: 247598 # Ravenous Devotee's Bracelets [wrists]
+      - id: 247596 # Braided Torture Lash [waist]
+      - id: 247618 # Sash of the Unredeemed [waist]
+      - id: 247597 # Strife-Riddled Cinch [waist]
+      - id: 247617 # Acolyte's Abandoned Footwraps [feet]
+      - id: 247594 # Emberscatter Treads [feet]
+      - id: 247595 # Slippers of Enduring Vigilance [feet]
 
       # ToS Leather
 
-      - id: 247605 # Bracers of Rippling Darkness
-
-      - id: 247602 # Cinch of Sizzling Flesh
-
-      - id: 247620 # Cord of Pilfered Rosaries
-
-      - id: 247603 # Etched Bone Waistband
-
-      - id: 247601 # Felscape Pathfinders
-
-      - id: 247600 # Glacier Walkers
-
-      - id: 247604 # Sinew-Stitched Wristguards
-
-      - id: 247619 # Treads of Violent Intrusion
-
-      - id: 247616 # Waistguard of Profane Duplicity
+      - id: 247605 # Bracers of Rippling Darkness [wrists]
+      - id: 247604 # Sinew-Stitched Wristguards [wrists]
+      - id: 247602 # Cinch of Sizzling Flesh [waist]
+      - id: 247620 # Cord of Pilfered Rosaries [waist]
+      - id: 247603 # Etched Bone Waistband [waist]
+      - id: 247616 # Waistguard of Profane Duplicity [waist]
+      - id: 247601 # Felscape Pathfinders [feet]
+      - id: 247600 # Glacier Walkers [feet]
+      - id: 247619 # Treads of Violent Intrusion [feet]
 
       # ToS Mail
 
-      - id: 247608 # Belt of Screaming Slag
-
-      - id: 247606 # Insulated Finpads
-
-      - id: 247610 # Pain-Singed Armguards
-
-      - id: 247622 # Pristine Moon-Wrought Clasp
-
-      - id: 247607 # Star-Stalker Treads
-
-      - id: 247621 # Treads of Panicked Escape
-
-      - id: 247609 # Waistguard of Interminable Unity
+      - id: 247610 # Pain-Singed Armguards [wrists]
+      - id: 247608 # Belt of Screaming Slag [waist]
+      - id: 247622 # Pristine Moon-Wrought Clasp [waist]
+      - id: 247609 # Waistguard of Interminable Unity [waist]
+      - id: 247606 # Insulated Finpads [feet]
+      - id: 247607 # Star-Stalker Treads [feet]
+      - id: 247621 # Treads of Panicked Escape [feet]
 
       # ToS Plate
 
-      - id: 247615 # Bonemeal-Crusted Armplates
-
-      - id: 247624 # Girdle of the Crumbling Sanctum
-
-      - id: 247611 # Iron Ballast Sabatons
-
-      - id: 247613 # Shiversleet Waistguard
-
-      - id: 247614 # Soul-Render's Greatbelt
-
-      - id: 247623 # Spiked Terrorwake Greatboots
-
-      - id: 247612 # Steadfast Purifier's Warboots
+      - id: 247615 # Bonemeal-Crusted Armplates [wrists]
+      - id: 247624 # Girdle of the Crumbling Sanctum [waist]
+      - id: 247613 # Shiversleet Waistguard [waist]
+      - id: 247614 # Soul-Render's Greatbelt [waist]
+      - id: 247611 # Iron Ballast Sabatons [feet]
+      - id: 247623 # Spiked Terrorwake Greatboots [feet]
+      - id: 247612 # Steadfast Purifier's Warboots [feet]
 
   - id: 10000403
     name: "ToS - Heroic"
