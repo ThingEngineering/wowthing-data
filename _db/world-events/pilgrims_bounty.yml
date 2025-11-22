@@ -1,0 +1,39 @@
+tags:
+  - "event:pilgrims-bounty"
+
+things:
+  - id: 35337
+    type: "vendor"
+    name: "Bountiful Barrel"
+
+    contents:
+
+      # Alliance
+
+      - id: 44859 # Recipe: Candied Sweet Potato
+      - id: 44858 # Recipe: Cranberry Chutney
+      - id: 44862 # Recipe: Pumpkin Pie
+      - id: 44861 # Recipe: Slow-Roasted Turkey
+      - id: 44860 # Recipe: Spice Bread Stuffing
+
+      # Horde
+
+      - id: 46806 # Recipe: Candied Sweet Potato
+      - id: 46805 # Recipe: Cranberry Chutney
+      - id: 46804 # Recipe: Pumpkin Pie
+      - id: 46807 # Recipe: Slow-Roasted Turkey
+      - id: 46803 # Recipe: Spice Bread Stuffing
+
+  - id: 116404 # Pilgrim's Bounty
+    type: "item"
+    reset: "daily"
+
+    contents:
+      - id: 116403 # Bush Chicken [pet]
+      - id: 116400 # Silver-Plated Turkey Shooter [toy]
+      - id: 116401 # Fine Pilgrim's Hat
+      - id: 46723 # Pilgrim's Hat
+      - id: 46800 # Pilgrim's Attire
+      - id: 44785 # Pilgrim's Dress
+      - id: 46824 # Pilgrim's Robe
+      - id: 44788 # Pilgrim's Boots
