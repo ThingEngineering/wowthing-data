@@ -15,47 +15,47 @@ things:
 
       # Cloth
 
-      - id: 247567 # Cinch of Light
-      - id: 247571 # Helhound Hair Bracers
-      - id: 247569 # Leggings of the Lower Planes
-      - id: 247584 # Oiled Rigger's Handwraps
-      - id: 247566 # Robes of Celestial Adornment
-      - id: 247570 # Treads of the Drowned
-      - id: 249684 # Horns of Unwavering Faith
-      - id: 249685 # Mantle of Unforgotten Souls
+      - id: 249684 # Horns of Unwavering Faith [head]
+      - id: 249685 # Mantle of Unforgotten Souls [shoulders]
+      - id: 247566 # Robes of Celestial Adornment [chest]
+      - id: 247571 # Helhound Hair Bracers [wrists]
+      - id: 247584 # Oiled Rigger's Handwraps [hands]
+      - id: 247567 # Cinch of Light [waist]
+      - id: 247569 # Leggings of the Lower Planes [legs]
+      - id: 247570 # Treads of the Drowned [feet]
 
       # Leather
 
-      - id: 247585 # Gloves of Issued Challenge
-      - id: 247587 # Helbeast Skin Tunic
-      - id: 247573 # Moccasins of Silent Passage
-      - id: 247575 # Sky-Valiant's Wristguards
-      - id: 247572 # Strand of Whelk Shells
-      - id: 247574 # Sucker-Scarred Leggings
-      - id: 249683 # Shoulderguards of Divine Arts
-      - id: 249682 # Supreme Runecaster's Crown
+      - id: 249682 # Supreme Runecaster's Crown [head]
+      - id: 249683 # Shoulderguards of Divine Arts [shoulders]
+      - id: 247587 # Helbeast Skin Tunic [chest]
+      - id: 247575 # Sky-Valiant's Wristguards [wrists]
+      - id: 247585 # Gloves of Issued Challenge [hands]
+      - id: 247572 # Strand of Whelk Shells [waist]
+      - id: 247574 # Sucker-Scarred Leggings [legs]
+      - id: 247573 # Moccasins of Silent Passage [feet]
 
       # Mail
 
-      - id: 247576 # Anchor Chain Waistguard
-      - id: 247579 # Bite-Resistant Wristclamps
-      - id: 247588 # Corroded Val'kyr Chainmail
-      - id: 247589 # Kvaldir Exult's Grips
-      - id: 247577 # Leggings of the Undaunted
-      - id: 247578 # Radiant Soul Sabatons
-      - id: 249680 # Ordained Hunter's Crown
-      - id: 249681 # Shoulders of the Dragonslayer
+      - id: 249680 # Ordained Hunter's Crown [head]
+      - id: 249681 # Shoulders of the Dragonslayer [shoulders]
+      - id: 247588 # Corroded Val'kyr Chainmail [chest]
+      - id: 247579 # Bite-Resistant Wristclamps [wrists]
+      - id: 247589 # Kvaldir Exult's Grips [hands]
+      - id: 247576 # Anchor Chain Waistguard [waist]
+      - id: 247577 # Leggings of the Undaunted [legs]
+      - id: 247578 # Radiant Soul Sabatons [feet]
 
       # Plate
 
-      - id: 247583 # Calcareous Wristclamps
-      - id: 247586 # Gleaming Val'kyr Cuirass
-      - id: 247581 # Goldrune Legplates
-      - id: 247580 # Krakenbone Waistplate
-      - id: 247582 # Lead-Soled Seabed Striders
-      - id: 247590 # Reinforced Hound-Handler's Gauntlets
-      - id: 249678 # Helheim Hound's Visor
-      - id: 249679 # Sovereign Valarjar Mantle
+      - id: 249678 # Helheim Hound's Visor [head]
+      - id: 249679 # Sovereign Valarjar Mantle [shoulders]
+      - id: 247586 # Gleaming Val'kyr Cuirass [chest]
+      - id: 247583 # Calcareous Wristclamps [wrists]
+      - id: 247590 # Reinforced Hound-Handler's Gauntlets [hands]
+      - id: 247580 # Krakenbone Waistplate [waist]
+      - id: 247581 # Goldrune Legplates [legs]
+      - id: 247582 # Lead-Soled Seabed Striders [feet]
 
       # Cloaks
 
@@ -93,39 +93,39 @@ things:
 
       # Cloth
 
-      - id: 247567 # Cinch of Light
-      - id: 247571 # Helhound Hair Bracers
-      - id: 247569 # Leggings of the Lower Planes
-      - id: 247584 # Oiled Rigger's Handwraps
-      - id: 247566 # Robes of Celestial Adornment
-      - id: 247570 # Treads of the Drowned
+      - id: 247566 # Robes of Celestial Adornment [chest]
+      - id: 247571 # Helhound Hair Bracers [wrists]
+      - id: 247584 # Oiled Rigger's Handwraps [hands]
+      - id: 247567 # Cinch of Light [waist]
+      - id: 247569 # Leggings of the Lower Planes [legs]
+      - id: 247570 # Treads of the Drowned [feet]
 
       # Leather
 
-      - id: 247585 # Gloves of Issued Challenge
-      - id: 247587 # Helbeast Skin Tunic
-      - id: 247573 # Moccasins of Silent Passage
-      - id: 247575 # Sky-Valiant's Wristguards
-      - id: 247572 # Strand of Whelk Shells
-      - id: 247574 # Sucker-Scarred Leggings
+      - id: 247587 # Helbeast Skin Tunic [chest]
+      - id: 247575 # Sky-Valiant's Wristguards [wrists]
+      - id: 247585 # Gloves of Issued Challenge [hands]
+      - id: 247572 # Strand of Whelk Shells [waist]
+      - id: 247574 # Sucker-Scarred Leggings [legs]
+      - id: 247573 # Moccasins of Silent Passage [feet]
 
       # Mail
 
-      - id: 247576 # Anchor Chain Waistguard
-      - id: 247579 # Bite-Resistant Wristclamps
-      - id: 247588 # Corroded Val'kyr Chainmail
-      - id: 247589 # Kvaldir Exult's Grips
-      - id: 247577 # Leggings of the Undaunted
-      - id: 247578 # Radiant Soul Sabatons
+      - id: 247588 # Corroded Val'kyr Chainmail [chest]
+      - id: 247579 # Bite-Resistant Wristclamps [wrists]
+      - id: 247589 # Kvaldir Exult's Grips [hands]
+      - id: 247576 # Anchor Chain Waistguard [waist]
+      - id: 247577 # Leggings of the Undaunted [legs]
+      - id: 247578 # Radiant Soul Sabatons [feet]
 
       # Plate
 
-      - id: 247583 # Calcareous Wristclamps
-      - id: 247586 # Gleaming Val'kyr Cuirass
-      - id: 247581 # Goldrune Legplates
-      - id: 247580 # Krakenbone Waistplate
-      - id: 247582 # Lead-Soled Seabed Striders
-      - id: 247590 # Reinforced Hound-Handler's Gauntlets
+      - id: 247586 # Gleaming Val'kyr Cuirass [chest]
+      - id: 247583 # Calcareous Wristclamps [wrists]
+      - id: 247590 # Reinforced Hound-Handler's Gauntlets [hands]
+      - id: 247580 # Krakenbone Waistplate [waist]
+      - id: 247581 # Goldrune Legplates [legs]
+      - id: 247582 # Lead-Soled Seabed Striders [feet]
 
       # Cloaks
 
