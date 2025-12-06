@@ -1,0 +1,134 @@
+things:
+  - type: vendor
+    name: "2025-12"
+    id: 1202512
+
+    groups:
+      - name: "2025-12"
+        range: -1
+        sortKey: "tp-7500" # (100-YY)(12-MM)
+
+    contents:
+      - id: 248994 # Kalu'ak Crest-Horn [mount]
+        costs:
+          2032: 500
+
+      - id: 212228 # Reins of the Soaring Sky Fox [mount]
+        costs:
+          2032: 750
+
+      - id: 252200 # Bundled-Up Bob [pet]
+        costs:
+          2032: 250
+
+      - id: 212221 # Ensemble: Sky Witch's Attire
+        costs:
+          2032: 750
+
+      - id: 249736 # Ensemble: The Noble's Winter Collection
+        costs:
+          2032: 600
+
+      - id: 242344 # Ensemble: Squall Braced Attire
+        costs:
+          2032: 375
+
+      - id: 242456 # Ensemble: Azure Sweatsuit
+        costs:
+          2032: 100
+
+      - id: 230174 # Ensemble: Prowler's Icy Headgear
+        costs:
+          2032: 100
+
+      - id: 252711 # Azure Winter Toque [head]
+        costs:
+          2032: 50
+
+      - id: 229720 # Frostwolf Earmuffs [head]
+        costs:
+          2032: 170
+
+      - id: 229714 # Lion's Crest Earmuffs [head]
+        costs:
+          2032: 170
+
+      - id: 230043 # Prowler's Icy Shoulder Cape [back]
+        costs:
+          2032: 75
+
+      - id: 251989 # Frostwolf Hunting Quiver [back]
+        costs:
+          2032: 100
+
+      - id: 251995 # Trapper's Blue Slippers [feet]
+        costs:
+          2032: 40
+
+      - id: 210843 # Candied Blade [1h sword]
+        costs:
+          2032: 600
+
+      - id: 229961 # Candied Knife [dagger]
+        costs:
+          2032: 400
+
+      - id: 248733 # Frozen Dirk of the Ice Queen [dagger]
+        costs:
+          2032: 170
+
+      - id: 248912 # Frozen Warglaives of the North [warglaive]
+        costs:
+          2032: 175
+
+      - id: 248827 # Frozen Great Axe of the Frostwolf [2h axe]
+        costs:
+          2032: 260
+
+      - id: 229960 # Cheerbringer XL [2h mace]
+        costs:
+          2032: 450
+
+      - id: 229963 # Great Candied Blade [2h sword]
+        costs:
+          2032: 450
+
+      - id: 229815 # Sky Witch's Airy Stave [staff]
+        costs:
+          2032: 250
+
+      - id: 229962 # Tree Topper [staff]
+        costs:
+          2032: 400
+
+      - id: 229817 # Lovely Airy Longbow [bow]
+        costs:
+          2032: 300
+
+      - id: 251964 # Frost Marshal's Carbine [gun]
+        costs:
+          2032: 200
+
+      - id: 248812 # Frozen Wand of the Ice Queen [wand]
+        costs:
+          2032: 170
+
+      - id: 229816 # Sky Witch's Airy Wand [wand]
+        costs:
+          2032: 200
+
+      - id: 251966 # Libram of Azure Light [off-hand]
+        costs:
+          2032: 75
+
+      - id: 251971 # Tome of Cerulean Ciphers [off-hand]
+        costs:
+          2032: 75
+
+      - id: 230853 # Aegis of Yuletide [shield]
+        costs:
+          2032: 300
+
+      - id: 251972 # Sapphire Scarab Bulwark [shield]
+        costs:
+          2032: 100

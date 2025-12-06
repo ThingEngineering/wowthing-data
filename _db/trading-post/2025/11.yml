@@ -1,0 +1,158 @@
+things:
+  - type: vendor
+    name: "2025-11"
+    id: 1202511
+
+    groups:
+      - name: "2025-11"
+        range: -1
+        sortKey: "tp-7501" # (100-YY)(12-MM)
+
+    contents:
+      - id: 250926 # Highlands Gobbler [mount]
+        costs:
+          2032: 500
+
+      - id: 242469 # Ensemble: Carrot Sweatsuit
+        costs:
+          2032: 100
+
+      - id: 213158 # Ensemble: Dark Ranger General's Kit
+        costs:
+          2032: 850
+
+      - id: 217038 # Ensemble: Gladiator's Battered Armor
+        costs:
+          2032: 850
+
+      - id: 249939 # Ensemble: Villager's Country Attire
+        costs:
+          2032: 440
+
+      - id: 250904 # Ensemble: Villager's Country Collection
+        costs:
+          2032: 440
+
+      - id: 242347 # Ensemble: Waterproof Attire
+        costs:
+          2032: 375
+
+      - id: 252745 # Carrot Winter Toque [head]
+        costs:
+          2032: 50
+
+      - id: 241644 # Corrupted Runelord's Band [head]
+        costs:
+          2032: 100
+
+      - id: 249716 # Cutlery Fanatic Backpack [back]
+        costs:
+          2032: 95
+
+      - id: 250290 # Ready-Warm Portable Bakery [back]
+        costs:
+          2032: 95
+
+      - id: 251671 # Wearable Copper Pot Lid [back]
+        costs:
+          2032: 95
+
+      - id: 241645 # Corrupted Silkweave Doublet [chest]
+        costs:
+          2032: 90
+
+      - id: 241646 # Deathwhisperer's Robe [chest]
+        costs:
+          2032: 150
+
+      - id: 241647 # Dreadleather Vestments [chest]
+        costs:
+          2032: 115
+
+      - id: 233106 # Long Carrot War Skirt [legs]
+        costs:
+          2032: 40
+
+      - id: 233145 # Long Carrot War Skirt and Leg Wraps [legs]
+        costs:
+          2032: 50
+
+      - id: 233089 # Short Carrot War Skirt [legs]
+        costs:
+          2032: 40
+
+      - id: 233128 # Short Carrot War Skirt and Leg Wraps [legs]
+        costs:
+          2032: 50
+
+      - id: 233179 # Banded Carrot War Slippers [feet]
+        costs:
+          2032: 20
+
+      - id: 233162 # Banded Carrot War Wraps [feet]
+        costs:
+          2032: 20
+
+      - id: 251996 # Gold-Plated Sabatons [feet]
+        costs:
+          2032: 40
+
+      - id: 248721 # Chef's Apron [tabard]
+        costs:
+          2032: 70
+
+      - id: 248726 # Smoked Rib Rack [1h axe]
+        costs:
+          2032: 95
+
+      - id: 251854 # Bunch of Green Chiles [1h mace]
+        costs:
+          2032: 95
+
+      - id: 251656 # Bunch of Orange Carrots [1h mace]
+        costs:
+          2032: 95
+
+      - id: 251800 # Ears of Yellow Corn [1h mace]
+        costs:
+          2032: 95
+
+      - id: 248926 # Stale Thirteen Grain Loaf [dagger]
+        costs:
+          2032: 95
+
+      - id: 248740 # Pristine Great Steak Knife [2h sword]
+        costs:
+          2032: 115
+
+      - id: 248837 # Big Gold Fork [polearm]
+        costs:
+          2032: 115
+
+      - id: 249720 # Big Gold Spoon [polearm]
+        costs:
+          2032: 115
+
+      - id: 248731 # Copper Pot of Stew [off-hand]
+        costs:
+          2032: 60
+
+      - id: 251869 # Offhand Bunch of Green Chiles [off-hand]
+        costs:
+          2032: 60
+
+      - id: 251663 # Offhand Bunch of Orange Carrots [off-hand]
+        costs:
+          2032: 60
+
+      - id: 251804 # Offhand Ears of Yellow Corn [off-hand]
+        costs:
+          2032: 60
+
+      - id: 250086 # Copper Pot Lid [shield]
+        costs:
+          2032: 60
+
+      - id: 250778 # Cutlery Fanatic Shield [shield]
+        costs:
+          2032: 60
