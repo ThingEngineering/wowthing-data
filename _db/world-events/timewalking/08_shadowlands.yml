@@ -1,0 +1,241 @@
+tags:
+  - "expansion:8"
+  - "expansion:shadowlands"
+
+things:
+  - id: 252687
+    type: "vendor"
+    name: "Collector Ta'steld"
+    note: "Timewalking Vendor"
+
+    locations:
+      08-shadowlands/oribos:
+        - 55.4 63
+
+    groups:
+      - name: "SL TW - Misc"
+        range: 11
+        sortKey: "z-tw-08-0"
+
+      - name: "SL TW - Armor"
+        range: 13
+        sortKey: "z-tw-08-2"
+
+      - name: "SL TW - Weapons"
+        range: 10
+        sortKey: "z-tw-08-4"
+
+      - name: "SL TW - $$$ Weapons"
+        range: -1
+        sortKey: "z-tw-08-5"
+
+    contents:
+      - id: 257513 # Bronze Aquilon Harness [mount]
+        costs:
+          1166: 5000
+
+      - id: 257514 # Bronze Corpsefly Harness [mount]
+        costs:
+          1166: 5000
+
+      - id: 257516 # Bronze Gravewing Harness [mount]
+        costs:
+          1166: 5000
+
+      - id: 258515 # Crimson Lupine [mount]
+        costs:
+          1166: 5000
+
+      - id: 259463 # Snowpaw Glimmerfur Prowler [mount]
+        costs:
+          1166: 5000
+
+      - id: 238739 # Chrono Corsair [mount][shared]
+        costs:
+          1166: 5000
+
+      - id: 205208 # Sandy Shalewing [mount][shared]
+        costs:
+          1166: 5000
+
+      - id: 232624 # Timely Buzzbee [mount][shared]
+        costs:
+          1166: 5000
+
+      - id: 254876 # P.O.S.T. Assistant [pet]
+        costs:
+          1166: 2200
+
+      - id: 256881 # Steward's Bauble [toy]
+        costs:
+          1166: 750
+
+      - id: 256893 # Wretched Dredger's Brand [toy]
+        costs:
+          1166: 750
+
+      # Armor
+
+      - id: 256359 # Cowl of the Forsworn Seer [cloth head]
+        costs:
+          1166: 25
+
+      - id: 256351 # Robe of the Forsworn Seer [cloth chest]
+        costs:
+          1166: 25
+
+      - id: 256360 # Mask of Harmonized Spirit [leather head]
+        costs:
+          1166: 25
+
+      - id: 256352 # Mantle of Harmonized Spirit [leather chest]
+        costs:
+          1166: 25
+
+      - id: 256358 # Elysian Pathfinder's Visor [mail head]
+        costs:
+          1166: 25
+
+      - id: 256353 # Elysian Pathfinder's Mail [mail chest]
+        costs:
+          1166: 25
+
+      - id: 256355 # Animaforged Sentinel's Helm [plate head]
+        costs:
+          1166: 25
+
+      - id: 256350 # Animaforged Sentinel's Plate [plate chest]
+        costs:
+          1166: 25
+
+      - id: 254855 # Amice of the Dark Necromancer [subclass=5 shoulders]
+        costs:
+          1166: 450
+
+      - id: 254854 # Putrid Necromancer Mantle [subclass=5 shoulders]
+        costs:
+          1166: 450
+
+      - id: 254851 # Maw Stalker's Quiver [subclass=5 back]
+        costs:
+          1166: 600
+
+      - id: 254864 # Oozeframe of the Mad Alchemist [subclass=5 back]
+        costs:
+          1166: 600
+
+      - id: 254852 # Spirit Marksman's Quiver [subclass=5 back]
+        costs:
+          1166: 600
+
+      # Weapons
+
+      - id: 256339 # Anima Drinker's Rapier [1h ? sword]
+        costs:
+          1166: 50
+
+      - id: 256338 # Dagger of Forgotten Vows [? dagger]
+        costs:
+          1166: 50
+
+      - id: 256349 # Warglaives of Devotion [warglaive]
+        costs:
+          1166: 50
+
+      - id: 256337 # The Price Adjuster [2h ? axe]
+        costs:
+          1166: 100
+
+      - id: 256336 # Kyrian Sky Splitter [polearm]
+        costs:
+          1166: 100
+
+      - id: 256341 # Faithspire Redeemer [staff]
+        costs:
+          1166: 100
+
+      - id: 254863 # Staff of the Penitent [staff]
+        costs:
+          1166: 100
+
+      - id: 256340 # Skyguard's Longbow [bow]
+        costs:
+          1166: 100
+
+      - id: 254868 # Sacred Bell of the Ascended [off-hand]
+        costs:
+          1166: 50
+
+      - id: 256348 # Fallen Ascendant's Bulwark [shield]
+        costs:
+          1166: 50
+
+      # $$$ Weapons
+
+      - id: 254845 # Hammer of the Fallen Lightbringer [1h ? mace]
+        costs:
+          1166: 1500
+
+      - id: 254844 # Hammer of the Righteous Lightbringer [1h ? mace]
+        costs:
+          1166: 1500
+
+      - id: 254867 # Progenitor's Fix-It-Up [1h ? mace]
+        costs:
+          1166: 1200
+
+      - id: 254860 # Longsword of the First Ones [1h ? sword]
+        costs:
+          1166: 1200
+
+      - id: 254862 # Runeblade of the Maldraxxus Paragon [1h ? sword]
+        costs:
+          1166: 1200
+
+      - id: 254873 # Zerith Vibroblade [fist]
+        costs:
+          1166: 1200
+
+      - id: 254857 # Maw Executioner's Guillotine [2h ? axe]
+        costs:
+          1166: 1500
+
+      - id: 258527 # Greathammer of the Fallen Lightbringer [2h ? mace]
+        costs:
+          1166: 2500
+
+      - id: 258528 # Greathammer of the Righteous Lightbringer [2h ? mace]
+        costs:
+          1166: 2500
+
+      - id: 254866 # Progenitor's Fractured Smasher [2h ? mace]
+        costs:
+          1166: 1500
+
+      - id: 254861 # Sinstone Cleaver [2h ? sword]
+        costs:
+          1166: 1500
+
+      - id: 254853 # Lance of the Architects [polearm]
+        costs:
+          1166: 1500
+
+      - id: 254856 # Soul Harvester's Scythe [polearm]
+        costs:
+          1166: 1500
+
+      - id: 254872 # Creator's Rod of Origin [staff]
+        costs:
+          1166: 1500
+
+      - id: 254858 # Crossbow of the First Ones [crossbow]
+        costs:
+          1166: 1500
+
+      - id: 258662 # Progenitor's Custodial Sentry [off-hand]
+        costs:
+          1166: 1000
+
+      - id: 254865 # Shell of the Forbidden Land [shield]
+        costs:
+          1166: 1500

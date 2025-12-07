@@ -188,6 +188,7 @@ timewalking.yml
     05-warlords-of-draenor/timewalking.yml Warlords of Draenor
     06-legion/timewalking.yml Legion
     07-battle-for-azeroth/timewalking.yml Battle for Azeroth
+    08-shadowlands/timewalking.yml Shadowlands
 
 world-events/_world_events.yml
     world-events/brewfest.yml
