@@ -11,9 +11,7 @@ things:
         bonusIds:
           - 12617 # Epic + Scaling
 
-    contents: &contents
-
-      # Cloth
+    contents: &contents # Cloth
 
       - id: 247632 # Blood-Drenched Bindings [wrists]
       - id: 247631 # Man'ari Pyromancer Cuffs [wrists]
@@ -80,6 +78,20 @@ things:
       - name: "ABT - Mythic"
         range: -1
         overrideDifficulty: 16
+        bonusIds:
+          - 12617 # Epic + Scaling
+
+    contents: *contents
+
+  - id: 10000501
+    name: "ABT - LFR"
+    type: "instance"
+    reset: "daily"
+
+    groups:
+      - name: "ABT - LFR"
+        range: -1
+        overrideDifficulty: 17
         bonusIds:
           - 12617 # Epic + Scaling
 

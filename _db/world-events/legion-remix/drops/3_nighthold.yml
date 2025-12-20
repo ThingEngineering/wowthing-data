@@ -11,9 +11,7 @@ things:
         bonusIds:
           - 12617 # Epic + Scaling
 
-    contents: &contents
-
-      # Cloth
+    contents: &contents # Cloth
 
       - id: 247431 # Bracers of Harnessed Flame [wrists]
       - id: 247466 # Woven Lasher Tendril Bracers [wrists]
@@ -89,6 +87,20 @@ things:
       - name: "NH - Mythic"
         range: -1
         overrideDifficulty: 16
+        bonusIds:
+          - 12617 # Epic + Scaling
+
+    contents: *contents
+
+  - id: 10000301
+    name: "NH - LFR"
+    type: "instance"
+    reset: "daily"
+
+    groups:
+      - name: "NH - LFR"
+        range: -1
+        overrideDifficulty: 17
         bonusIds:
           - 12617 # Epic + Scaling
 

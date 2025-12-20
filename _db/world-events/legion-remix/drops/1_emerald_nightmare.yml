@@ -11,9 +11,7 @@ things:
         bonusIds:
           - 12617 # Epic + Scaling
 
-    contents: &contents
-
-       # EN Cloth
+    contents: &contents # EN Cloth
 
       - id: 247514 # Celestially Aligned Hood [head]
       - id: 247515 # Hood of Darkened Visions [head]
@@ -112,6 +110,20 @@ things:
       - name: "EN - Mythic"
         range: -1
         overrideDifficulty: 16
+        bonusIds:
+          - 12617 # Epic + Scaling
+
+    contents: *contents
+
+  - id: 10000101
+    name: "EN - LFR"
+    type: "instance"
+    reset: "daily"
+
+    groups:
+      - name: "EN - LFR"
+        range: -1
+        overrideDifficulty: 17
         bonusIds:
           - 12617 # Epic + Scaling
 

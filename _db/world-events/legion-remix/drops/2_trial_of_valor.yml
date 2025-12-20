@@ -11,9 +11,7 @@ things:
         bonusIds:
           - 12617 # Epic + Scaling
 
-    contents: &contents-normal-heroic
-
-      # Cloth
+    contents: &contents-normal-heroic # Cloth
 
       - id: 249684 # Horns of Unwavering Faith [head]
       - id: 249685 # Mantle of Unforgotten Souls [shoulders]
@@ -90,7 +88,6 @@ things:
           - 12617 # Epic + Scaling
 
     contents:
-
       # Cloth
 
       - id: 247566 # Robes of Celestial Adornment [chest]
@@ -132,3 +129,17 @@ things:
       - id: 247591 # Drape of the Unworthy
       - id: 247592 # Mantle of the Victorious Dead
       - id: 247568 # Windwhipped Sailcloth
+
+  - id: 10000201
+    name: "ToV - LFR"
+    type: "instance"
+    reset: "daily"
+
+    groups:
+      - name: "ToV - LFR"
+        range: -1
+        overrideDifficulty: 17
+        bonusIds:
+          - 12617 # Epic + Scaling
+
+    contents:

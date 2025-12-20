@@ -11,9 +11,7 @@ things:
         bonusIds:
           - 12617 # Epic + Scaling
 
-    contents: &contents
-    
-      # ToS Cloth
+    contents: &contents # ToS Cloth
 
       - id: 247599 # Oathbreaker's Cuffs [wrists]
       - id: 247598 # Ravenous Devotee's Bracelets [wrists]
@@ -79,6 +77,20 @@ things:
       - name: "ToS - Mythic"
         range: -1
         overrideDifficulty: 16
+        bonusIds:
+          - 12617 # Epic + Scaling
+
+    contents: *contents
+
+  - id: 10000401
+    name: "ToS - LFR"
+    type: "instance"
+    reset: "daily"
+
+    groups:
+      - name: "ToS - LFR"
+        range: -1
+        overrideDifficulty: 17
         bonusIds:
           - 12617 # Epic + Scaling
 
