@@ -105,12 +105,12 @@ groups:
     0:
       - id: 2946
         name: "Normal"
-        description: "0 0"
+        description: "82 77"
 
       - id: 2952
         name: "Advanced"
-        description: "0 0"
+        description: "74 71"
 
       - id: 2958
         name: "Reverse"
-        description: "0 0"
+        description: "75 72"
