@@ -23,6 +23,10 @@ things:
       - id: 34261 # Pattern: Green Winter Clothes [tailoring]
         costs:
           0: 1 # Gold
+      
+      - id: 34319 # Pattern: Red Winter Clothes [tailoring]
+        costs:
+          0: 1 # Gold
 
       - id: 17200 # Recipe: Gingerbread Cookie [cooking]
         costs:

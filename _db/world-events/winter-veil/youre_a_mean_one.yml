@@ -10,7 +10,7 @@ things:
       - id: 128649 # Illusion: Winter's Grasp [illusion]
 
       # Mount things
-      - id: 210432 # Highland Drake: Winter Veil Armor (MM!)
+      - id: 210432 # Highland Drake: Winter Veil Armor
 
       # Pets
       - id: 54436 # Blue Clockwork Rocket Bot [pet]
@@ -30,8 +30,8 @@ things:
       - id: 116763 # Crashin' Thrashin' Shredder Controller [toy]
       - id: 139337 # Disposable Winter Veil Suits [toy]
       - id: 128636 # Endothermic Blaster [toy]
-      - id: 191925 # Falling Star Flinger [toy]
       - id: 191937 # Falling Star Catcher [toy]
+      - id: 191925 # Falling Star Flinger [toy]
       - id: 209859 # Festive Trans-Dimensional Bird Whistle [toy]
       - id: 116692 # Fuzzy Green Lounge Cushion [toy]
       - id: 162973 # Greatfather Winter's Hearthstone [toy]
@@ -62,7 +62,6 @@ things:
 
       # Transmog
       - id: 143898 # Miniature Winter Veil Tree (Level 1 - Cosmetic)
-      - id: 66540 # Miniature Winter Veil Tree (Level 85)
 
       # ?
       - id: 219291 # Puntable Baby Greench

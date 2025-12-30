@@ -1,0 +1,90 @@
+things:
+
+  - id: 17726 # Smokywood Pastures Special Gift
+    type: "item"
+    reset: "never" # yearly?
+
+    contents:
+      
+      - id: 118572 # Illusion: Flames of Ragnaros [illusion]
+
+      - id: 128649 # Illusion: Winter's Grasp [illusion]
+      
+      - id: 17709 # Recipe: Elixir of Frost Power [alchemy]
+      
+      - id: 17706 # Plans: Edge of Winter [blacksmithing]
+      
+      - id: 17725 # Formula: Enchant Weapon - Winter's Might [enchanting]
+      
+      - id: 17720 # Schematic: Snowmaster 9000 [engineering]
+      
+      - id: 17722 # Pattern: Gloves of the Greatfather [leatherworking]
+      
+      - id: 17724 # Pattern: Green Holiday Shirt [tailoring]
+
+
+  - id: 21191 # Carefully Wrapped Present
+    type: "item"
+    reset: "never"
+    
+    contents:
+
+      - id: 116451 # Warm Blue Woolen Socks
+
+      - id: 116450 # Warm Green Woolen Socks
+
+      - id: 116448 # Warm Red Woolen Socks
+
+
+  - id: 21310 # Gaily Wrapped Present
+    type: "item"
+    reset: "never"
+
+    contents:
+
+      - id: 21301 # Father Winter's Helper [pet]
+
+      - id: 21309 # Tiny Snowman [pet]
+
+      - id: 21308 # Winter Reindeer [pet]
+
+      - id: 21305 # Winter's Little Helper [pet]
+
+
+  - id: 21327 # Ticking Present
+    type: "item"
+    reset: "never"
+
+    contents:
+
+      - id: 17709 # Recipe: Elixir of Frost Power [alchemy]
+      
+      - id: 17706 # Plans: Edge of Winter [blacksmithing]
+      
+      - id: 17725 # Formula: Enchant Weapon - Winter's Might [enchanting]
+      
+      - id: 17720 # Schematic: Snowmaster 9000 [engineering]
+      
+      - id: 17722 # Pattern: Gloves of the Greatfather [leatherworking]
+      
+      - id: 17724 # Pattern: Green Holiday Shirt [tailoring]
+
+
+  - id: 244906 # Gently Shaken Gift (2025)
+    type: "item"
+    reset: "never"
+
+    contents:
+
+      - id: 245580 # Rolling Snowball [toy]
+
+
+  - id: 244908 # Winter Veil Gift (2025)
+    type: "item"
+    reset: "never"
+
+    contents:
+
+      - id: 245544 # Tiny Snow Buddy [pet]
+
+      - id: 243304 # Jubilant Snowman Costume [toy]
