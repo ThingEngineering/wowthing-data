@@ -57,9 +57,9 @@ things:
         costs:
           3252: 100000
 
-      - id: 140261 # Hungering Claw
-        costs:
-          3252: 10000
+      # - id: 140261 # Hungering Claw
+      #   costs:
+      #     3252: 10000
 
       - id: 140320 # Corgnelius
         costs:
