@@ -123,12 +123,6 @@ things:
         costs:
           3252: 80000
 
-      # Phase 2 Pets
-
-      - id: 144394 # Tylarr Gronnden
-        costs:
-          3252: 35000
-
       # Phase 2 Toys
 
       - id: 143544 # Skull of Corruption
