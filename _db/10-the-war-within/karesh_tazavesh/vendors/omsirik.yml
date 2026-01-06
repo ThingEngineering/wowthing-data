@@ -15,17 +15,21 @@ things:
         range: 2
         sortKey: "karesh-trust-1"
 
+      - name: "KT - Decor"
+        range: 12
+        sortKey: "karesh-trust-2"
+
       - name: "KT - Professions"
         range: 19
-        sortKey: "karesh-trust-2"
+        sortKey: "karesh-trust-3"
 
       - name: "KT - Cosmetic"
         range: 6
-        sortKey: "karesh-trust-3"
+        sortKey: "karesh-trust-4"
 
       - name: "KT - Armor"
         range: -1
-        sortKey: "karesh-trust-4"
+        sortKey: "karesh-trust-5"
 
     contents:
 
@@ -40,6 +44,82 @@ things:
           2815: 11375
         requirements:
           - "reputation 2658 renown-19"
+
+      # Decor
+
+      - id: 258667 # Angled Ethereal Pipe Segment [decor]
+        costs:
+          2815: 800
+        requirements:
+          - "reputation 2658 renown-15"
+
+      - id: 258669 # Corner Ethereal Pipe Segment [decor]
+        costs:
+          2815: 800
+        requirements:
+          - "reputation 2658 renown-15"
+
+      - id: 258666 # Ethereal Pipe Segment [decor]
+        costs:
+          2815: 800
+        requirements:
+          - "reputation 2658 renown-15"
+
+      - id: 258885 # Exposed Angled Ethereal Pipe Segment [decor]
+        costs:
+          2815: 800
+        requirements:
+          - "reputation 2658 renown-15"
+
+      - id: 258766 # Exposed Corner Ethereal Pipe Segment [decor]
+        costs:
+          2815: 800
+        requirements:
+          - "reputation 2658 renown-15"
+
+      - id: 258835 # Exposed Intersecting Ethereal Pipe Segment [decor]
+        costs:
+          2815: 800
+        requirements:
+          - "reputation 2658 renown-15"
+
+      - id: 258767 # Exposed Long Ethereal Pipe Segment [decor]
+        costs:
+          2815: 800
+        requirements:
+          - "reputation 2658 renown-15"
+
+      - id: 258668 # Long Ethereal Pipe Segment [decor]
+        costs:
+          2815: 800
+        requirements:
+          - "reputation 2658 renown-15"
+
+      - id: 258836 # Reinforced Corner Ethereal Pipe Segment [decor]
+        costs:
+          2815: 800
+        requirements:
+          - "reputation 2658 renown-15"
+
+      - id: 247751 # Deactivated K'areshi Warp Cannon [decor]
+        costs:
+          2815: 2000
+        requirements:
+          - "reputation 2658 renown-19"
+
+      - id: 258320 # K'areshi Protectorate Portal [decor]
+        costs:
+          2815: 1000
+        requirements:
+          - "reputation 2658 renown-19"
+
+      - id: 258306 # K'areshi Warp Platform [decor]
+        costs:
+          2815: 1000
+        requirements:
+          - "reputation 2658 renown-19"
+
+      # Profession
 
       - id: 239486 # Pattern: Pure Chronomantic Fiber
         costs:
