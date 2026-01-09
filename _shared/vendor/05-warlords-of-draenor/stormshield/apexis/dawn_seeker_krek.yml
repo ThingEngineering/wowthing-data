@@ -3,7 +3,7 @@ name: "Dawn-Seeker Krek"
 note: "Apexis Leggings Trader"
 
 locations:
-  z5_stormshield:
+  "05-warlords-of-draenor/stormshield":
     - 51.6 59.3 alliance
     #- 51.6 61.8 alliance
 

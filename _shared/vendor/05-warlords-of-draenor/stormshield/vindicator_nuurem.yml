@@ -2,7 +2,7 @@ id: 85932
 name: "Vindicator Nuurem"
 
 locations:
-  z5_stormshield:
+  "05-warlords-of-draenor/stormshield":
     - 46.6 76.8 alliance
 
 sets:

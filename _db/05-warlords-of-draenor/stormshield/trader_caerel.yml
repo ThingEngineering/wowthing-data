@@ -1,0 +1,56 @@
+things:
+  - id: 85950
+    type: "vendor"
+    name: "Trader Caerel"
+    note: "General Goods"
+
+    locations:
+      here: # unknown
+        - 41.2 60.6 alliance
+        - 41.4 59.4 alliance
+        - 41.4 59.6 alliance
+        - 41.6 59.4 alliance
+        - 41.6 59.6 alliance
+
+    contents:
+
+      # 0
+
+      - id: 251653 # Draenethyst Lamppost [decor]
+        costs:
+          0: 500 # Gold
+          824: 1000
+
+      - id: 251548 # Draenic Fence [decor]
+        costs:
+          0: 300 # Gold
+          823: 500
+
+      - id: 251330 # Draenic Fencepost [decor]
+        costs:
+          0: 100 # Gold
+          823: 300
+
+      - id: 251640 # Draenic Forge [decor]
+        costs:
+          0: 500 # Gold
+          823: 1000
+
+      - id: 251477 # Draenic Wooden Table [decor]
+        costs:
+          0: 500 # Gold
+          824: 1000
+
+      - id: 251549 # Emblem of the Naaru's Blessing [decor]
+        costs:
+          824: 2000
+
+      - id: 245425 # Hanging Draenethyst Light [decor]
+        costs:
+          0: 300 # Gold
+          823: 500
+
+      - id: 251654 # Large Karabor Fountain [decor]
+        costs:
+          0: 800 # Gold
+          823: 2000

@@ -3,7 +3,7 @@ name: "Bregg Coppercast"
 note: "Primal Combatant" # Warlords S1
 
 locations:
-  z5_stormshield:
+  "05-warlords-of-draenor/stormshield":
     - 51.5 15.0 alliance
     # - 52.4 17.5
 

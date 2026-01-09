@@ -3,7 +3,7 @@ name: "Garm Gladestride"
 note: "Leatherworking Patterns"
 
 locations:
-  z5_warspear:
+  "05-warlords-of-draenor/warspear":
     - 50.4 27.3 horde
 
 sets:

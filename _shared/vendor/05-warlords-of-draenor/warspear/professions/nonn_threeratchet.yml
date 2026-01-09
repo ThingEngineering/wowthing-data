@@ -3,7 +3,7 @@ name: "Nonn Threeratchet"
 note: "Blacksmithing Plans"
 
 locations:
-  z5_warspear:
+  "05-warlords-of-draenor/warspear":
     - 74.9 37.9 horde
 
 sets:

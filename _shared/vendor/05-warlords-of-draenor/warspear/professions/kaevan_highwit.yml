@@ -3,7 +3,7 @@ name: "Kaevan Highwit"
 note: "Jewelcrafting Designs"
 
 locations:
-  z5_warspear:
+  "05-warlords-of-draenor/warspear":
     - 60.4 40.7 horde
 
 sets:

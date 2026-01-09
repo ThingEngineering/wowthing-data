@@ -3,7 +3,7 @@ name: "Magister Langley"
 note: "Stormshield Quartermaster"
 
 locations:
-  z5_stormshield:
+  "05-warlords-of-draenor/stormshield":
     - 49.8 17.5 alliance
     # - 52.4 17.5
 

@@ -3,7 +3,7 @@ name: "Blood Guard Axelash"
 note: "Primal Gladiator"
 
 locations:
-  z5_warspear:
+  "05-warlords-of-draenor/warspear":
     - 49.7 54.6 horde
     #- 48.8 57.1 horde
 

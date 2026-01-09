@@ -3,7 +3,7 @@ name: "Maru'sa"
 note: "Inscription Recipes"
 
 locations:
-  z5_warspear:
+  "05-warlords-of-draenor/warspear":
     - 75.2 47.6 horde
 
 sets:

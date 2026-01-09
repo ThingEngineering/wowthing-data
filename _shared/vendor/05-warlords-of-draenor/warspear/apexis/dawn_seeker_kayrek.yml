@@ -3,7 +3,7 @@ name: "Dawn-Seeker Kayrek"
 note: "Apexis Bracer Trader"
 
 locations:
-  z5_warspear:
+  "05-warlords-of-draenor/warspear":
     - 68.6 61.9 horde
     #- 66.8 64.4 horde
 

@@ -3,7 +3,7 @@ name: "Ged'kah"
 note: "Enchanting Recipes"
 
 locations:
-  z5_warspear:
+  "05-warlords-of-draenor/warspear":
     - 78.0 53.8 horde
 
 sets:

@@ -3,7 +3,7 @@ name: "Cladd Dawnstrider"
 note: "Wild Gladiator"
 
 locations:
-  z5_warspear:
+  "05-warlords-of-draenor/warspear":
     - 49.7 57.1 horde
     #- 48.8 57.1 horde
 

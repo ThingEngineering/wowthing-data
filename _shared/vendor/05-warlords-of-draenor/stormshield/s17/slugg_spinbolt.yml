@@ -3,7 +3,7 @@ name: "Slugg Spinbolt"
 note: "Wild Combatant" # Warlords S2
 
 locations:
-  z5_stormshield:
+  "05-warlords-of-draenor/stormshield":
     - 51.5 17.5 alliance
     # - 52.4 17.5
 

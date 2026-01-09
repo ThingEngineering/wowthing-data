@@ -6,16 +6,16 @@ things:
 
     groups:
       - name: "Phase 1 - Pets"
-        range: 13
+        range: 12
         sortKey: "p1-2"
 
       - name: "Phase 1 - Toys"
         range: 7
         sortKey: "p1-3"
 
-      - name: "Phase 2 - Pets"
-        range: 1
-        sortKey: "p2-2"
+      # - name: "Phase 2 - Pets"
+      #   range: 1
+      #   sortKey: "p2-2"
 
       - name: "Phase 2 - Toys"
         range: 7
@@ -125,9 +125,9 @@ things:
 
       # Phase 2 Pets
 
-      - id: 144394 # Tylarr Gronnden
-        costs:
-          3252: 35000
+      # - id: 144394 # Tylarr Gronnden
+      #   costs:
+      #     3252: 35000
 
       # Phase 2 Toys
 

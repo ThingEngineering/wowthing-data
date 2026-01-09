@@ -3,7 +3,7 @@ name: "Dawn-Seeker Verroak"
 note: "Apexis Cloak Trader"
 
 locations:
-  z5_stormshield:
+  "05-warlords-of-draenor/stormshield":
     - 53.4 61.8 alliance
     #- 51.6 61.8 alliance
 

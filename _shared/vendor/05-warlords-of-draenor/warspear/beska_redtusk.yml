@@ -3,7 +3,7 @@ name: "Beska Redtusk"
 note: "Frostwolf Orcs Quartermaster"
 
 locations:
-  z5_warspear:
+  "05-warlords-of-draenor/warspear":
     - 53.9 62.5 horde
 
 sets:

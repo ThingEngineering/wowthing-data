@@ -3,7 +3,7 @@ name: "Dawn-Seeker Vallar"
 note: "Apexis Glove Trader"
 
 locations:
-  z5_stormshield:
+  "05-warlords-of-draenor/stormshield":
     - 51.6 61.8 alliance
     #- 51.6 61.8 alliance
 

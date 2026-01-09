@@ -3,7 +3,7 @@ name: "Ravenspeaker Skeega"
 note: "Arakkoa Outcasts Quartermaster"
 
 locations:
-  z5_warspear:
+  "05-warlords-of-draenor/warspear":
     - 53.0 59.2 horde
     #- 53.5 59.7 horde
 

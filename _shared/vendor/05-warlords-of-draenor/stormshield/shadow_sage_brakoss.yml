@@ -2,7 +2,7 @@ id: 85946
 name: "Shadow-Sage Brakoss"
 
 locations:
-  z5_stormshield:
+  "05-warlords-of-draenor/stormshield":
     - 44.5 74.9 alliance
 
 sets:

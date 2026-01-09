@@ -3,7 +3,7 @@ name: "Tae'loxe Soulshrivel"
 note: "Warmongering Combatant"
 
 locations:
-  z5_warspear:
+  "05-warlords-of-draenor/warspear":
     - 47.9 59.6 horde
     #- 48.8 57.1 horde
 

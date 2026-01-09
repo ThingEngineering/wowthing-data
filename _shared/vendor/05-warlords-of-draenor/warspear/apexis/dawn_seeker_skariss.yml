@@ -3,7 +3,7 @@ name: "Dawn-Seeker Skariss"
 note: "Apexis Belt Trader"
 
 locations:
-  z5_warspear:
+  "05-warlords-of-draenor/warspear":
     - 68.6 64.4 horde
     #- 66.8 64.4 horde
 

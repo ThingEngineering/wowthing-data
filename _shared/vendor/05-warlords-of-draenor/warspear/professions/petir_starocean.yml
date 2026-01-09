@@ -3,7 +3,7 @@ name: "Petir Starocean"
 note: "Tailoring Patterns"
 
 locations:
-  z5_warspear:
+  "05-warlords-of-draenor/warspear":
     - 59.3 43.4 horde
 
 sets:

@@ -3,7 +3,7 @@ name: "Holly McTilla"
 note: "Warmongering Gladiator" # Warlords S3
 
 locations:
-  z5_stormshield:
+  "05-warlords-of-draenor/stormshield":
     - 53.3 20.0 alliance
     # - 52.4 17.5
 

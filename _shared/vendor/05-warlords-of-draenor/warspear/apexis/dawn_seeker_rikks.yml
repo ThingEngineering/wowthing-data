@@ -3,7 +3,7 @@ name: "Dawn-Seeker Rikks"
 note: "Apexis Glove Trader"
 
 locations:
-  z5_warspear:
+  "05-warlords-of-draenor/warspear":
     - 66.8 64.4 horde
     #- 66.8 64.4 horde
 

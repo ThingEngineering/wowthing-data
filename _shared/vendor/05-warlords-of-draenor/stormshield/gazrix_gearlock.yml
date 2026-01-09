@@ -3,7 +3,7 @@ name: "Gazrix Gearlock"
 note: "Steamwheedle Quartermaster"
 
 locations:
-  z5_stormshield:
+  "05-warlords-of-draenor/stormshield":
     - 42.9 77.9 alliance
 
 sets:

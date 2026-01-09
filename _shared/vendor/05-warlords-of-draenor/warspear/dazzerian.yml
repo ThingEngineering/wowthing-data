@@ -3,7 +3,7 @@ name: "Dazzerian"
 note: "Warspear Quartermaster"
 
 locations:
-  z5_warspear:
+  "05-warlords-of-draenor/warspear":
     - 46.1 57.1 horde
     #- 48.8 57.1 horde
 

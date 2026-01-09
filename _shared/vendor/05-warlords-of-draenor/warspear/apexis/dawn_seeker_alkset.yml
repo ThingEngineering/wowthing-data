@@ -3,7 +3,7 @@ name: "Dawn-Seeker Alkset"
 note: "Apexis Leggings Trader"
 
 locations:
-  z5_warspear:
+  "05-warlords-of-draenor/warspear":
     - 65.0 61.9 horde
     #- 66.8 64.4 horde
 

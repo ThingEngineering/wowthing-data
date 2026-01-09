@@ -3,7 +3,7 @@ name: "Dawn-Seeker Kirrik"
 note: "Apexis Helm Trader"
 
 locations:
-  z5_warspear:
+  "05-warlords-of-draenor/warspear":
     - 65.0 64.4 horde
     #- 66.8 64.4 horde
 

@@ -3,7 +3,7 @@ name: "Stone Guard Brokefist"
 note: "Primal Combatant"
 
 locations:
-  z5_warspear:
+  "05-warlords-of-draenor/warspear":
     - 47.9 54.6 horde
     #- 48.8 57.1 horde
 

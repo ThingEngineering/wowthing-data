@@ -3,7 +3,7 @@ name: "Mimi Wizzlebub"
 note: "Steamwheedle Quartermaster"
 
 locations:
-  z5_warspear:
+  "05-warlords-of-draenor/warspear":
     - 54.3 60.7 horde
 
 sets:

@@ -3,7 +3,7 @@ name: "Nik Steelrings"
 note: "Engineering Plans"
 
 locations:
-  z5_warspear:
+  "05-warlords-of-draenor/warspear":
     - 70.5 38.9 horde
 
 sets:

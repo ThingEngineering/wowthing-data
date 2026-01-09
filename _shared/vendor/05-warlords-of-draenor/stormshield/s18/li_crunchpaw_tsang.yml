@@ -3,7 +3,7 @@ name: 'Li "Crunchpaw" Tsang'
 note: "Warmongering Combatant" # Warlords S3
 
 locations:
-  z5_stormshield:
+  "05-warlords-of-draenor/stormshield":
     - 51.5 20.0 alliance
     # - 52.4 17.5
 
