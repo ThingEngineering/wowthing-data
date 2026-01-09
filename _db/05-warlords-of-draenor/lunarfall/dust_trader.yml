@@ -1,0 +1,19 @@
+things:
+  - id: 91020
+    type: "vendor"
+    name: "Enchantress Ismae"
+    note: "Dust Trader"
+
+    locations:
+      here: # unknown
+        - 33.2 34.2 alliance
+        - 34.4 33 alliance
+        - 34.6 33 alliance
+
+    contents:
+
+      # 0
+
+      - id: 122711 # Formula: Temporal Binding
+        costs:
+          1111245: 5

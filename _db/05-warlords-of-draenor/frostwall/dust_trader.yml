@@ -1,0 +1,19 @@
+things:
+  - id: 91029
+    type: "vendor"
+    name: "Rath'thul Moonvale"
+    note: "Dust Trader"
+
+    locations:
+      here: # unknown
+        - 39.2 55.4 horde
+        - 40 54.6 horde
+        - 40.2 56 horde
+
+    contents:
+
+      # 0
+
+      - id: 122711 # Formula: Temporal Binding
+        costs:
+          1111245: 5

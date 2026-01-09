@@ -1,0 +1,30 @@
+things:
+  - id: 95471
+    type: "vendor"
+    name: "Trader Darakk"
+    note: "Local Supplies"
+
+    locations:
+      here: # unknown
+        - 40.2 54.6 horde
+        - 40.4 56 horde
+        - 40.8 55.4 horde
+        - 40.8 55.8 horde
+
+    contents:
+
+      - id: 116667 # Rocktusk Battleboar [mount]
+        costs:
+          0: 10000 # Gold
+
+      - id: 116655 # Witherhide Cliffstomper [mount]
+        costs:
+          0: 20000 # Gold
+
+      - id: 127868 # Crusher [pet]
+        costs:
+          0: 1000 # Gold
+
+      - id: 127864 # Personal Spotlight [toy]
+        costs:
+          0: 500 # Gold

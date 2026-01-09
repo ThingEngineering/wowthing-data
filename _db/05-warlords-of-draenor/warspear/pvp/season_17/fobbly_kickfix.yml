@@ -594,9 +594,3 @@ things:
       - id: 125506 # Wild Combatant's Shield Wall [shield]
         costs:
           1137642: 2
-
-      # 0
-
-      - id: 120945 # Primal Spirit
-        costs:
-          1137642: 10

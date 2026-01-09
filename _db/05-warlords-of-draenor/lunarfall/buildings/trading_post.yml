@@ -1,0 +1,116 @@
+things:
+  - id: 85427
+    type: "vendor"
+    name: "Maaria"
+    note: "Sha'tari Defense Quartermaster"
+
+    locations:
+      here: # unknown
+        - 33.4 49.4 alliance
+
+    groups:
+
+      - name: "Trading Post - Reputation"
+        range: -1
+        sortKey: "trading-post-2"
+
+    contents:
+
+      # 0
+
+      - id: 116665 # Armored Irontusk [mount]
+        costs:
+          0: 4000 # Gold
+          823: 5000
+        requirements:
+          - "reputation 1710 exalted"
+
+      - id: 119140 # Sha'tari Defense Tabard [tabard]
+        costs:
+          0: 80 # Gold
+        requirements:
+          - "reputation 1710 exalted"
+
+      # 23
+
+      - id: 158208 # Ensemble: Sha'tari Defender's Plate
+        costs:
+          0: 7500 # Gold
+        requirements:
+          - "reputation 1710 revered"
+
+      # 0
+
+      # - id: 119167 # Contract: Vindicator Heluun
+      #   costs:
+      #     0: 4000 # Gold
+      #   requirements:
+      #     - "reputation 1710 revered"
+
+      - id: 119150 # Sky Fry [pet]
+        costs:
+          0: 800 # Gold
+          823: 2000
+        requirements:
+          - "reputation 1710 revered"
+
+      - id: 119421 # Sha'tari Defender's Medallion
+        costs:
+          0: 200 # Gold
+        requirements:
+          - "reputation 1710 revered"
+      # Skipped id=118685 name=Sha'tari Protector slot=12
+
+      - id: 119182 # Soul Evacuation Crystal
+        costs:
+          0: 200 # Gold
+        requirements:
+          - "reputation 1710 honored"
+
+      - id: 245424 # Draenic Storage Chest [decor]
+        costs:
+          0: 450 # Gold
+          823: 1000
+        requirements:
+          - "reputation 1710 friendly"
+
+      - id: 251544 # Telredor Recliner [decor]
+        costs:
+          0: 450 # Gold
+          823: 1000
+        requirements:
+          - "reputation 1710 friendly"
+
+      # 0 set=1532
+
+      - id: 119428 # Greathelm of the Sha'tari Defense [plate head]
+        costs:
+          0: 1000 # Gold
+
+      - id: 119427 # Shoulderguards of the Sha'tari Defense [plate shoulders]
+        costs:
+          0: 1000 # Gold
+
+      - id: 119422 # Breastplate of the Sha'tari Defense [plate chest]
+        costs:
+          0: 1000 # Gold
+
+      - id: 119429 # Bracers of the Sha'tari Defense [plate wrists]
+        costs:
+          0: 1000 # Gold
+
+      - id: 119426 # Gauntlets of the Sha'tari Defense [plate hands]
+        costs:
+          0: 1000 # Gold
+
+      - id: 119425 # Belt of the Sha'tari Defense [plate waist]
+        costs:
+          0: 1000 # Gold
+
+      - id: 119424 # Legplates of the Sha'tari Defense [plate legs]
+        costs:
+          0: 1000 # Gold
+
+      - id: 119423 # Boots of the Sha'tari Defense [plate feet]
+        costs:
+          0: 1000 # Gold

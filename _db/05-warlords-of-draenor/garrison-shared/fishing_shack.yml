@@ -1,0 +1,60 @@
+things:
+  - id: 85984
+    type: "vendor"
+    name: "Nat Pagle"
+    note: "Master Fisherman"
+
+    locations:
+      "05-warlords-of-draenor/frostwall": # unknown
+        - 37.4 70.8
+      
+      "05-warlords-of-draenor/lunarfall": # unknown
+        - 52.2 14.4
+
+    groups:
+
+      - name: "Fishing Shack"
+        range: -1
+        sortKey: "fishing-shack"
+
+    contents:
+
+      # 0
+
+      - id: 87791 # Reins of the Crimson Water Strider [mount]
+        costs:
+          1117397: 100
+        requirements:
+          - "reputation 1358 honored"
+
+      - id: 117404 # Land Shark
+        costs:
+          1117397: 50
+        requirements:
+          - "reputation 1358 friendly"
+
+      - id: 117405 # Nat's Drinking Hat [subclass=5 head]
+        costs:
+          1117397: 25
+        requirements:
+          - "reputation 1358 3"
+
+      # - id: 116826 # Draenic Fishing Pole
+      #   costs:
+      #     1117397: 25
+      #   requirements:
+      #     - "reputation 1358 3"
+
+      # - id: 116825 # Savage Fishing Pole
+      #   costs:
+      #     1117397: 25
+      #   requirements:
+      #     - "reputation 1358 3"
+
+      - id: 114919 # Sea Calf [pet]
+        costs:
+          1117397: 50
+
+      - id: 86596 # Nat's Fishing Chair [toy]
+        costs:
+          0: 1 # Gold

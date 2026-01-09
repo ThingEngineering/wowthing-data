@@ -1,0 +1,49 @@
+things:
+  - id: 79774
+    type: "vendor"
+    name: "Sergeant Grimjaw"
+    note: "Garrison Quartermaster"
+
+    locations:
+      here: # unknown
+        - 43.4 47 horde
+        - 43.6 49.4 horde
+        - 43.6 49.6 horde
+        - 44 47.4 horde
+        - 44 47.6 horde
+        - 44.6 49 horde
+
+    contents:
+
+      - id: 244315 # Orcish Warlord's Planning Table [decor]
+        costs:
+          824: 1500
+
+      - id: 245438 # Frostwolf Bookcase [decor]
+        costs:
+          0: 285 # Gold
+          824: 500
+
+      - id: 245443 # Frostwolf Round Table [decor]
+        costs:
+          0: 190 # Gold
+          824: 300
+
+      - id: 244653 # Orcish Scribe's Drafting Table [decor]
+        costs:
+          0: 190 # Gold
+          824: 300
+
+      - id: 244316 # Warsong Workbench [decor]
+        costs:
+          0: 190 # Gold
+          824: 300
+
+      - id: 244320 # Youngling's Courser Toys [decor]
+        costs:
+          0: 47 # Gold
+          824: 100
+
+      - id: 141642 # Technique: Tome of the Clear Mind [inscription]
+        costs:
+          1114931: 20

@@ -1,0 +1,65 @@
+things:
+  - id: 80159
+    type: "vendor"
+    name: "Arsenio Zerep"
+    note: "Cook"
+
+    locations:
+      here: # unknown
+        - 37 64.4 alliance
+        - 37.2 63 alliance
+        - 37.2 65 alliance
+        - 37.4 61.4 alliance
+        - 37.4 62 alliance
+        - 37.6 61.4 alliance
+        - 37.6 61.6 alliance
+        - 37.6 65.2 alliance
+        - 38 63.4 alliance
+        - 38.2 63.6 alliance
+        - 47 53.2 alliance
+        - 48.4 41.4 alliance
+        - 48.4 41.6 alliance
+        - 48.8 41.4 alliance
+        - 48.8 41.6 alliance
+        - 49 41.4 alliance
+        - 59.8 75.4 alliance
+        - 60 76.6 alliance
+        - 60.4 75.8 alliance
+        - 60.4 78.2 alliance
+        - 60.4 78.6 alliance
+        - 60.6 76 alliance
+        - 60.6 78 alliance
+        - 60.8 78.6 alliance
+        - 61.2 77.2 alliance
+
+    contents:
+
+      # 0
+
+      - id: 122556 # Recipe: Buttered Sturgeon
+        costs:
+          0: 10 # Gold
+
+      - id: 260556 # Recipe: Hungry Human's Platter
+        costs:
+          0: 10 # Gold
+
+      - id: 122557 # Recipe: Jumbo Sea Dog
+        costs:
+          0: 10 # Gold
+
+      - id: 122558 # Recipe: Pickled Eel
+        costs:
+          0: 10 # Gold
+
+      - id: 122559 # Recipe: Salty Squid Roll
+        costs:
+          0: 10 # Gold
+
+      - id: 122555 # Recipe: Sleeper Sushi
+        costs:
+          0: 10 # Gold
+
+      - id: 122560 # Recipe: Whiptail Fillet
+        costs:
+          0: 10 # Gold

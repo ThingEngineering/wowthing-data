@@ -1,0 +1,30 @@
+things:
+  - id: 95470
+    type: "vendor"
+    name: "Trader Araanda"
+    note: "Local Supplies"
+
+    locations:
+      here: # unknown
+        - 29.2 34.4 alliance
+        - 29.2 34.6 alliance
+        - 30 34.4 alliance
+        - 30 34.6 alliance
+
+    contents:
+
+      - id: 116667 # Rocktusk Battleboar [mount]
+        costs:
+          0: 10000 # Gold
+
+      - id: 116655 # Witherhide Cliffstomper [mount]
+        costs:
+          0: 20000 # Gold
+
+      - id: 127868 # Crusher [pet]
+        costs:
+          0: 1000 # Gold
+
+      - id: 127864 # Personal Spotlight [toy]
+        costs:
+          0: 500 # Gold

@@ -1,0 +1,39 @@
+things:
+  - id: 77368
+    type: "vendor"
+    name: "Madison Clark"
+    note: "Cook"
+
+    locations:
+      here: # unknown
+        - 32.2 48.4 alliance
+
+    groups: &groups
+
+      - name: "Inn"
+        range: -1
+        sortKey: "inn"
+
+    contents:
+
+      - id: 119207 # Meat Cleaver [1h ? axe]
+        costs:
+          0: 5000 # Gold
+
+  - id: 88220
+    type: "vendor"
+    name: "Peter"
+    note: "Waiter"
+
+    locations:
+      here: # unknown
+        - 31.8 49.4 alliance
+
+    groups: *groups
+
+    contents:
+
+      - id: 239162 # Wooden Mug [decor]
+        costs:
+          0: 50 # Gold
+          824: 100

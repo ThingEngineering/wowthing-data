@@ -1,0 +1,26 @@
+things:
+  - id: 91025
+    type: "vendor"
+    name: 'Dorothy "Two"'
+    note: "Fur Trader"
+
+    locations:
+      here: # unknown
+        - 33.2 34.2 alliance
+        - 33.6 34.4 alliance
+        - 34.4 33 alliance
+        - 34.6 33 alliance
+
+    contents:
+
+      # - id: 127724 # Pattern: Mighty Hexweave Essence
+      #   costs:
+      #     1111557: 60
+
+      - id: 122716 # Pattern: Primal Weaving
+        costs:
+          1111557: 60
+
+      # - id: 127742 # Pattern: Savage Hexweave Essence
+      #   costs:
+      #     1111557: 60

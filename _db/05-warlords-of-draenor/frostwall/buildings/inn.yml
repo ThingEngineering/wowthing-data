@@ -1,0 +1,41 @@
+things:
+  - id: 87302
+    type: "vendor"
+    name: "Murg"
+    note: "Cook"
+
+    locations:
+      here: # unknown
+        - 36.2 40.2 horde
+
+    groups: &groups
+
+      - name: "Inn"
+        range: -1
+        sortKey: "inn"
+
+    contents:
+
+      # 0
+
+      - id: 119207 # Meat Cleaver [1h ? axe]
+        costs:
+          0: 5000 # Gold
+
+  - id: 87312
+    type: "vendor"
+    name: "Vora Strongarm"
+    note: "Bartender"
+
+    locations:
+      here: # unknown
+        - 51.2 64.4 horde
+
+    groups: *groups
+
+    contents:
+
+      - id: 239162 # Wooden Mug [decor]
+        costs:
+          0: 50 # Gold
+          824: 100

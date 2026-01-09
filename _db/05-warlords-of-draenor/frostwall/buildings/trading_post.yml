@@ -1,0 +1,127 @@
+things:
+  - id: 86777
+    type: "vendor"
+    name: "Elder Surehide"
+    note: "Trader"
+
+    locations:
+      here: # unknown
+        - 51.4 60.8 horde
+
+    groups:
+
+      - name: "Trading Post"
+        range: -1
+        sortKey: "trading-post-1"
+
+    contents:
+
+      - id: 245444 # Orcish Communal Stove [decor]
+        costs:
+          824: 250
+
+      - id: 245445 # Frostwolf Axe-Dart Board [decor]
+        costs:
+          824: 150
+
+      - id: 244322 # Frostwolf Banded Stool [decor]
+        costs:
+          824: 100
+
+      - id: 244321 # Orcish Lumberjack's Stool [decor]
+        costs:
+          824: 100
+
+  - id: 87015
+    type: "vendor"
+    name: "Kil'rip"
+    note: "Laughing Skull Quartermaster"
+
+    locations:
+      here: # unknown
+        - 51.2 61.4 horde
+
+    groups:
+
+      - name: "Trading Post - Reputation"
+        range: -1
+        sortKey: "trading-post-2"
+
+    contents:
+
+      # 0
+
+      - id: 116782 # Ironside Warwolf [mount]
+        costs:
+          0: 5000 # Gold
+          823: 5000
+        requirements:
+          - "reputation 1708 exalted"
+
+      - id: 119138 # Laughing Skull Orcs Tabard [tabard]
+        costs:
+          0: 100 # Gold
+        requirements:
+          - "reputation 1708 exalted"
+
+      - id: 118673 # Golden Visage of the Laughing Skull [subclass=5 head]
+        costs:
+          0: 5000 # Gold
+          823: 1000
+        requirements:
+          - "reputation 1708 exalted"
+
+      - id: 118672 # Bloody Visage of the Laughing Skull [subclass=5 head]
+        costs:
+          0: 1000 # Gold
+          823: 1000
+        requirements:
+          - "reputation 1708 revered"
+
+      - id: 118671 # Frozen Visage of the Laughing Skull [subclass=5 head]
+        costs:
+          0: 1000 # Gold
+          823: 1000
+        requirements:
+          - "reputation 1708 revered"
+
+      - id: 118674 # Visage of the Laughing Skull [subclass=5 head]
+        costs:
+          0: 1000 # Gold
+          823: 1000
+        requirements:
+          - "reputation 1708 revered"
+
+      # - id: 119166 # Contract: Cacklebone
+      #   costs:
+      #     0: 5000 # Gold
+      #   requirements:
+      #     - "reputation 1708 revered"
+
+      - id: 119146 # Bone Wasp [pet]
+        costs:
+          0: 1000 # Gold
+          823: 2000
+        requirements:
+          - "reputation 1708 revered"
+      # Skipped id=118684 name=Maniacal Grimace slot=12
+
+      - id: 119160 # Tickle Totem [toy]
+        costs:
+          0: 1250 # Gold
+        requirements:
+          - "reputation 1708 honored"
+
+      - id: 245433 # Blackrock Strongbox [decor]
+        costs:
+          0: 500 # Gold
+          823: 1000
+        requirements:
+          - "reputation 1708 friendly"
+
+      - id: 245431 # Draenor Cookpot [decor]
+        costs:
+          0: 500 # Gold
+          823: 1000
+        requirements:
+          - "reputation 1708 friendly"

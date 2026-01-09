@@ -1,0 +1,45 @@
+things:
+  - id: 76928
+    type: "vendor"
+    name: "Kraank"
+    note: "Food & Drink"
+
+    locations:
+      here: # unknown
+        - 36.4 39.4 horde
+        - 36.4 39.8 horde
+        - 36.8 39.4 horde
+        - 36.8 39.6 horde
+        - 53.2 42 horde
+
+    contents:
+
+      # 0
+
+      - id: 122556 # Recipe: Buttered Sturgeon
+        costs:
+          0: 8 # Gold
+
+      - id: 260556 # Recipe: Hungry Human's Platter
+        costs:
+          0: 9 # Gold
+
+      - id: 122557 # Recipe: Jumbo Sea Dog
+        costs:
+          0: 8 # Gold
+
+      - id: 122558 # Recipe: Pickled Eel
+        costs:
+          0: 8 # Gold
+
+      - id: 122559 # Recipe: Salty Squid Roll
+        costs:
+          0: 8 # Gold
+
+      - id: 122555 # Recipe: Sleeper Sushi
+        costs:
+          0: 8 # Gold
+
+      - id: 122560 # Recipe: Whiptail Fillet
+        costs:
+          0: 8 # Gold

@@ -1,0 +1,48 @@
+things:
+  - id: 94512
+    type: "vendor"
+    name: "Tiffy Trapspring"
+    note: "Exotic Pets and Accessories"
+
+    locations:
+      here: # unknown
+        - 29 39 alliance
+        - 29 39.6 alliance
+
+    groups:
+
+      - name: "Menagerie"
+        range: -1
+        sortKey: "menagerie"
+
+    contents:
+
+      # 0
+
+      - id: 127704 # Bloodthorn Hatchling
+        costs:
+          1163036: 50
+
+      - id: 127703 # Dusty Sporewing
+        costs:
+          1163036: 50
+
+      - id: 127701 # Glowing Sporebat
+        costs:
+          1163036: 100
+
+      - id: 127705 # Lost Netherpup
+        costs:
+          1163036: 200
+
+      - id: 127707 # Indestructible Bone [toy]
+        costs:
+          1163036: 50
+
+      - id: 127696 # Magic Pet Mirror [toy]
+        costs:
+          1163036: 500
+
+      - id: 127695 # Spirit Wand [toy]
+        costs:
+          1163036: 100

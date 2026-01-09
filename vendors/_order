@@ -92,8 +92,12 @@
     05-warlords-of-draenor/spires_of_arak.yml
     05-warlords-of-draenor/talador.yml
     -
+    05-warlords-of-draenor/lunarfall.yml
     05-warlords-of-draenor/stormshield.yml
+    -
+    05-warlords-of-draenor/frostwall.yml
     05-warlords-of-draenor/warspear.yml
+    -
     05-warlords-of-draenor/timewalking.yml
 
 04-mists-of-pandaria/_.yml

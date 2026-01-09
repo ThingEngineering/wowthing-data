@@ -1,0 +1,19 @@
+things:
+  - id: 76872
+    type: "vendor"
+    name: "Supplymaster Eri"
+    note: "General Goods & Repairs"
+
+    locations:
+      here: # unknown
+        - 36.4 40.4 horde
+        - 36.4 40.6 horde
+        - 36.8 40.4 horde
+        - 36.8 40.6 horde
+        - 53.6 40.8 horde
+
+    contents:
+
+      - id: 244324 # Peon's Work Bucket [decor]
+        costs:
+          824: 150

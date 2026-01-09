@@ -1,0 +1,58 @@
+things:
+  - id: 78564
+    type: "vendor"
+    name: "Sergeant Crowler"
+    note: "Garrison Quartermaster"
+
+    locations:
+      here: # unknown
+        - 38.2 32 alliance
+
+    contents:
+
+      - id: 248800 # Architect's Drafting Table [decor]
+        costs:
+          824: 1500
+
+      - id: 248661 # Northshire Scribe's Desk [decor]
+        costs:
+          0: 170 # Gold
+
+      - id: 248661 # Northshire Scribe's Desk [decor]
+        costs:
+          0: 170 # Gold
+          824: 300
+
+      - id: 245275 # Rolled Scroll [decor]
+        costs:
+          0: 42 # Gold
+          824: 100
+
+      - id: 248810 # Rough Wooden Chair [decor]
+        costs:
+          0: 42 # Gold
+          824: 100
+
+      - id: 248334 # Stormwind Wooden Bench [decor]
+        costs:
+          0: 170 # Gold
+          824: 300
+
+      - id: 248335 # Stormwind Wooden Stool [decor]
+        costs:
+          0: 42 # Gold
+          824: 100
+
+      - id: 248660 # Stormwind Workbench [decor]
+        costs:
+          0: 170 # Gold
+          824: 300
+
+      - id: 248799 # Wooden Storage Crate [decor]
+        costs:
+          0: 42 # Gold
+          824: 100
+
+      - id: 141642 # Technique: Tome of the Clear Mind [inscription]
+        costs:
+          1114931: 20

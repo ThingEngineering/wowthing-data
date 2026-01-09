@@ -1,0 +1,49 @@
+things:
+  - id: 85344
+    type: "vendor"
+    name: "Naron Bloomthistle"
+
+    locations:
+      here: # unknown
+        - 58 55 alliance
+
+    groups:
+
+      - name: "Herb Garden"
+        range: -1
+        sortKey: "herb-garden"
+
+    contents:
+
+      - id: 110721 # Crazy Carrot [pet]
+        costs:
+          1116053: 1000
+
+      - id: 116916 # Gorepetal's Gentle Grasp [leather hands]
+        costs:
+          824: 2000
+
+      - id: 118568 # Garden Hoe [1h ? mace]
+        costs:
+          0: 2000 # Gold
+          1116053: 500
+
+      - id: 118563 # Garden Sickle [1h ? mace]
+        costs:
+          0: 2000 # Gold
+          1116053: 500
+
+      - id: 118560 # Garden Pitchfork [staff]
+        costs:
+          0: 4000 # Gold
+          1116053: 1000
+
+      - id: 118562 # Garden Scythe [staff]
+        costs:
+          0: 4000 # Gold
+          1116053: 1000
+
+      - id: 118559 # Garden Shovel [staff]
+        costs:
+          0: 4500 # Gold
+          1116053: 1000

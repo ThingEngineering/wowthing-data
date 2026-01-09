@@ -1,0 +1,115 @@
+things:
+  - id: 77356
+    type: "vendor"
+    name: "Costan Highwall"
+    note: "Jewelcrafter"
+
+    locations:
+      here: # unknown
+        - 46.4 59.2 alliance
+
+    groups:
+
+      - name: "Gem Boutique"
+        range: -1
+        sortKey: "gem-boutique"
+
+    contents:
+
+      # 0
+
+      # - id: 116099 # Vintage Jewelcrafting Pattern
+      #   costs:
+      #     1118723: 1
+
+      # - id: 116105 # Vintage Jewelcrafting Pattern
+      #   costs:
+      #     1118723: 5
+
+      - id: 116096 # Design: Critical Strike Taladite
+        costs:
+          1118723: 1
+
+      - id: 257031 # Design: Draenethyst Sconce
+        costs:
+          1118723: 1
+
+      - id: 257030 # Design: Draenic Basin
+        costs:
+          1118723: 1
+
+      - id: 116093 # Design: Glowing Taladite Pendant
+        costs:
+          1118723: 1
+
+      - id: 116090 # Design: Glowing Taladite Ring
+        costs:
+          1118723: 1
+
+      - id: 116102 # Design: Greater Critical Strike Taladite
+        costs:
+          1118723: 5
+
+      - id: 116103 # Design: Greater Haste Taladite
+        costs:
+          1118723: 5
+
+      - id: 116104 # Design: Greater Mastery Taladite
+        costs:
+          1118723: 5
+
+      - id: 116107 # Design: Greater Stamina Taladite
+        costs:
+          1118723: 5
+
+      - id: 116106 # Design: Greater Versatility Taladite
+        costs:
+          1118723: 5
+
+      - id: 116097 # Design: Haste Taladite
+        costs:
+          1118723: 1
+
+      - id: 116098 # Design: Mastery Taladite
+        costs:
+          1118723: 1
+
+      - id: 116109 # Design: Prismatic Focusing Lens
+        costs:
+          1118723: 3
+
+      - id: 116108 # Design: Reflecting Prism
+        costs:
+          1118723: 3
+
+      - id: 116094 # Design: Shifting Taladite Pendant
+        costs:
+          1118723: 1
+
+      - id: 116091 # Design: Shifting Taladite Ring
+        costs:
+          1118723: 1
+
+      - id: 116101 # Design: Stamina Taladite
+        costs:
+          1118723: 1
+
+      # - id: 116079 # Design: Taladite Amplifier
+      #   costs:
+      #     1118723: 5
+
+      - id: 116078 # Design: Taladite Recrystalizer
+        costs:
+          1118723: 1
+
+      - id: 116100 # Design: Versatility Taladite
+        costs:
+          1118723: 1
+
+      - id: 116095 # Design: Whispering Taladite Pendant
+        costs:
+          1118723: 1
+
+      - id: 116092 # Design: Whispering Taladite Ring
+        costs:
+          1118723: 1

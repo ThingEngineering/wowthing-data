@@ -1,0 +1,76 @@
+things:
+  - id: 91031
+    type: "vendor"
+    name: "Nicholas Mitrik"
+    note: "Herb Trader"
+
+    locations:
+      here: # unknown
+        - 40 54.6 horde
+        - 40.2 56 horde
+
+    contents:
+
+      - id: 122710 # Recipe: Primal Alchemy
+        costs:
+          1109127: 60
+
+      - id: 122600 # Recipe: Savage Blood
+        costs:
+          1108996: 10
+
+      - id: 122599 # Tome of Sorcerous Elements
+        costs:
+          1108996: 10
+
+      - id: 122605 # Tome of the Stones
+        costs:
+          1108996: 10
+
+      - id: 128410 # Technique: Mass Mill Fireweed
+        costs:
+          1114931: 20
+
+      - id: 128409 # Technique: Mass Mill Frostweed
+        costs:
+          1114931: 20
+
+      - id: 128411 # Technique: Mass Mill Gorgrond Flytrap
+        costs:
+          1114931: 20
+
+      - id: 128413 # Technique: Mass Mill Nagrand Arrowbloom
+        costs:
+          1114931: 20
+
+      - id: 128412 # Technique: Mass Mill Starflower
+        costs:
+          1114931: 20
+
+      - id: 128414 # Technique: Mass Mill Talador Orchid
+        costs:
+          1114931: 20
+
+      # - id: 127723 # Technique: Mighty Ensorcelled Tarot
+      #   costs:
+      #     1114931: 20
+
+      # - id: 127728 # Technique: Mighty Weapon Crystal
+      #   costs:
+      #     1114931: 20
+
+      # - id: 127741 # Technique: Savage Ensorcelled Tarot
+      #   costs:
+      #     1114931: 20
+
+      # - id: 127746 # Technique: Savage Weapon Crystal
+      #   costs:
+      #     1114931: 20
+
+      - id: 122713 # Technique: The Spirit of War
+        costs:
+          1114931: 20
+
+      - id: 141642 # Technique: Tome of the Clear Mind
+        costs:
+          1114931: 20

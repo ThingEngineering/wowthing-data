@@ -1,0 +1,65 @@
+things:
+  - id: 91030
+    type: "vendor"
+    name: "Trixxy Volt"
+    note: "Ore Trader"
+
+    locations:
+      here: # unknown
+        - 39.2 55.4 horde
+        - 40 54.6 horde
+        - 40.2 56 horde
+
+    contents:
+
+      # - id: 127725 # Plans: Mighty Steelforged Essence [blacksmithing]
+      #   costs:
+      #     1109118: 60
+
+      # - id: 127727 # Plans: Mighty Truesteel Essence [blacksmithing]
+      #   costs:
+      #     1109119: 60
+
+      - id: 122705 # Plans: Riddle of Truesteel [blacksmithing]
+        costs:
+          1109119: 60
+
+      # - id: 127743 # Plans: Savage Steelforged Essence [blacksmithing]
+      #   costs:
+      #     1109118: 60
+
+      # - id: 127745 # Plans: Savage Truesteel Essence [blacksmithing]
+      #   costs:
+      #     1109119: 60
+
+      # - id: 127729 # Schematic: Advanced Muzzlesprocket [engineering]
+      #   costs:
+      #     1109119: 60
+
+      # - id: 127721 # Schematic: Bi-Directional Fizzle Reducer [engineering]
+      #   costs:
+      #     1109118: 60
+
+      # - id: 127739 # Schematic: Infrablue-Blocker Lenses [engineering]
+      #   costs:
+      #     1109118: 60
+
+      - id: 122712 # Schematic: Primal Welding [engineering]
+        costs:
+          1109118: 60
+
+      # - id: 127747 # Schematic: Taladite Firing Pin [engineering]
+      #   costs:
+      #     1109119: 60
+
+      # - id: 127726 # Design: Mighty Taladite Amplifier [jewelcrafting]
+      #   costs:
+      #     1109118: 60
+
+      - id: 122714 # Design: Primal Gemcutting [jewelcrafting]
+        costs:
+          1109119: 60
+
+      # - id: 127744 # Design: Savage Taladite Amplifier [jewelcrafting]
+      #   costs:
+      #     1109118: 60

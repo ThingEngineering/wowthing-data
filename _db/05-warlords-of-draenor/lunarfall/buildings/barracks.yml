@@ -1,0 +1,21 @@
+things:
+  - id: 77379
+    type: "vendor"
+    name: "Jonathan Stephens"
+    note: "Steward"
+
+    locations:
+      here: # unknown
+        - 37.4 61 alliance
+
+    groups:
+
+      - name: "Barracks"
+        range: -1
+        sortKey: "barracks"
+
+    contents:
+
+      - id: 122298 # Bodyguard Miniaturization Device [toy]
+        costs:
+          824: 250

@@ -1,0 +1,25 @@
+things:
+  - id: 91033
+    type: "vendor"
+    name: "Zeezu"
+    note: "Leather Trader"
+
+    locations:
+      here: # unknown
+        - 40 54.6 horde
+        - 40.2 56 horde
+        - 40.4 56.6 horde
+
+    contents:
+
+      # - id: 127722 # Pattern: Mighty Burnished Essence
+      #   costs:
+      #     1110609: 60
+
+      # - id: 127740 # Pattern: Savage Burnished Essence
+      #   costs:
+      #     1110609: 60
+
+      - id: 122715 # Pattern: Spiritual Leathercraft
+        costs:
+          1110609: 60

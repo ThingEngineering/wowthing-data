@@ -1,0 +1,230 @@
+things:
+  - id: 79815
+    type: "vendor"
+    name: "Grun'lek"
+    note: "Quartermaster"
+
+    locations:
+      here: # unknown
+        - 59 49.4 horde
+        - 59.2 49.6 horde
+        - 59.8 50.4 horde
+        - 60.4 51 horde
+        - 60.4 53.8 horde
+        - 60.6 51.2 horde
+        - 60.6 54 horde
+        - 60.8 52.2 horde
+        - 60.8 52.6 horde
+        - 61.4 35.4 horde
+        - 61.4 35.8 horde
+        - 61.6 35.6 horde
+        - 61.8 50.8 horde
+        - 62.4 35.4 horde
+        - 63.4 34.4 horde
+        - 63.4 34.8 horde
+        - 63.8 33 horde
+        - 63.8 34.4 horde
+        - 64 35.2 horde
+        - 64.2 35.6 horde
+        - 64.8 36.4 horde
+        - 64.8 36.6 horde
+
+    groups:
+
+      - name: "War Mill"
+        range: 9
+        sortKey: "war-mill-1"
+
+      - name: "War Mill - Shared"
+        range: -1
+        sortKey: "war-mill-2"
+
+    contents:
+
+      - id: 245437 # Orc-Forged Weaponry [decor]
+        costs:
+          1113681: 75
+
+      - id: 245442 # Warsong Footrest [decor]
+        costs:
+          824: 100
+
+      # 0
+
+      - id: 118366 # Orgrimmar Spaulders [subclass=5 shoulders]
+        costs:
+          1113681: 50
+          1113823: 1
+
+      - id: 118367 # Orgrimmar Chestguard [subclass=5 chest]
+        costs:
+          1113681: 80
+
+      - id: 118368 # Orgrimmar Gloves [subclass=5 hands]
+        costs:
+          1113681: 50
+
+      - id: 118369 # Orgrimmar Belt [subclass=5 waist]
+        costs:
+          1113681: 50
+          1113822: 1
+
+      - id: 118370 # Orgrimmar Leggings [subclass=5 legs]
+        costs:
+          1113681: 80
+
+      - id: 118371 # Orgrimmar Boots [subclass=5 feet]
+        costs:
+          1113681: 50
+
+      - id: 118400 # Orgrimmar Axe [2h ? axe]
+        costs:
+          1113681: 80
+
+      # 0 set=1534
+
+      - id: 113801 # Shadowmoon Cowl [cloth head]
+        costs:
+          1113681: 50
+          1113821: 1
+
+      - id: 113803 # Shadowmoon Shoulderguards [cloth shoulders]
+        costs:
+          1113681: 50
+          1113823: 1
+
+      - id: 113799 # Shadowmoon Robes [cloth chest]
+        costs:
+          1113681: 80
+
+      - id: 113804 # Shadowmoon Bracers [cloth wrists]
+        costs:
+          1113681: 50
+
+      - id: 113800 # Shadowmoon Grips [cloth hands]
+        costs:
+          1113681: 50
+
+      - id: 113797 # Shadowmoon Sash [cloth waist]
+        costs:
+          1113681: 50
+          1113822: 1
+
+      - id: 113802 # Shadowmoon Leggings [cloth legs]
+        costs:
+          1113681: 80
+
+      - id: 113798 # Shadowmoon Treads [cloth feet]
+        costs:
+          1113681: 50
+
+      # 0 set=1535
+
+      - id: 113793 # Thunderlord Helm [leather head]
+        costs:
+          1113681: 50
+          1113821: 1
+
+      - id: 113795 # Thunderlord Shoulderguards [leather shoulders]
+        costs:
+          1113681: 50
+          1113823: 1
+
+      - id: 113791 # Thunderlord Chestguard [leather chest]
+        costs:
+          1113681: 80
+
+      - id: 113796 # Thunderlord Bracers [leather wrists]
+        costs:
+          1113681: 50
+
+      - id: 113792 # Thunderlord Gloves [leather hands]
+        costs:
+          1113681: 50
+
+      - id: 113789 # Thunderlord Girdle [leather waist]
+        costs:
+          1113681: 50
+          1113822: 1
+
+      - id: 113794 # Thunderlord Leggings [leather legs]
+        costs:
+          1113681: 80
+
+      - id: 113790 # Thunderlord Sabatons [leather feet]
+        costs:
+          1113681: 50
+
+      # 0 set=1536
+
+      - id: 113817 # Warsong Hood [mail head]
+        costs:
+          1113681: 50
+          1113821: 1
+
+      - id: 113819 # Warsong Spaulders [mail shoulders]
+        costs:
+          1113681: 50
+          1113823: 1
+
+      - id: 113815 # Warsong Wraps [mail chest]
+        costs:
+          1113681: 80
+
+      - id: 113820 # Warsong Bracers [mail wrists]
+        costs:
+          1113681: 50
+
+      - id: 113816 # Warsong Gloves [mail hands]
+        costs:
+          1113681: 50
+
+      - id: 113813 # Warsong Cord [mail waist]
+        costs:
+          1113681: 50
+          1113822: 1
+
+      - id: 113818 # Warsong Leggings [mail legs]
+        costs:
+          1113681: 80
+
+      - id: 113814 # Warsong Boots [mail feet]
+        costs:
+          1113681: 50
+
+      # 0 set=1533
+
+      - id: 113809 # Blackrock Greathelm [plate head]
+        costs:
+          1113681: 50
+          1113821: 1
+
+      - id: 113811 # Blackrock Pauldrons [plate shoulders]
+        costs:
+          1113681: 50
+          1113823: 1
+
+      - id: 113807 # Blackrock Chestplate [plate chest]
+        costs:
+          1113681: 80
+
+      - id: 113812 # Blackrock Wristguards [plate wrists]
+        costs:
+          1113681: 50
+
+      - id: 113808 # Blackrock Gauntlets [plate hands]
+        costs:
+          1113681: 50
+
+      - id: 113805 # Blackrock Girth [plate waist]
+        costs:
+          1113681: 50
+          1113822: 1
+
+      - id: 113810 # Blackrock Legplates [plate legs]
+        costs:
+          1113681: 80
+
+      - id: 113806 # Blackrock Greaves [plate feet]
+        costs:
+          1113681: 50

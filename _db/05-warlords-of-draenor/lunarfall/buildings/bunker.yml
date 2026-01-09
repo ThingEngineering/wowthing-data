@@ -1,0 +1,208 @@
+things:
+  - id: 77377
+    type: "vendor"
+    name: "Kristen Stoneforge"
+    note: "Quartermaster"
+
+    locations:
+      here: # unknown
+        - 36.2 60.6 alliance
+
+    groups:
+
+      - name: "Bunker"
+        range: 8
+        sortKey: "bunker-1"
+
+      - name: "Bunker - Shared"
+        range: -1
+        sortKey: "bunker-2"
+
+    contents:
+
+      # 0
+
+      - id: 117406 # Stormwind Helm [subclass=5 head]
+        costs:
+          1113681: 50
+          1113821: 1
+
+      - id: 117407 # Stormwind Shoulderguards [subclass=5 shoulders]
+        costs:
+          1113681: 50
+          1113823: 1
+
+      - id: 117408 # Stormwind Chestguard [subclass=5 chest]
+        costs:
+          1113681: 80
+
+      - id: 117409 # Stormwind Grips [subclass=5 hands]
+        costs:
+          1113681: 50
+
+      - id: 117410 # Stormwind Belt [subclass=5 waist]
+        costs:
+          1113681: 50
+          1113822: 1
+
+      - id: 117411 # Stormwind Leggings [subclass=5 legs]
+        costs:
+          1113681: 80
+
+      - id: 117412 # Stormwind Boots [subclass=5 feet]
+        costs:
+          1113681: 50
+
+      # 0
+
+      - id: 117413 # Stormwind Shield [shield]
+        costs:
+          1113681: 80
+
+      # 0 set=1534
+
+      - id: 113801 # Shadowmoon Cowl [cloth head]
+        costs:
+          1113681: 50
+          1113821: 1
+
+      - id: 113803 # Shadowmoon Shoulderguards [cloth shoulders]
+        costs:
+          1113681: 50
+          1113823: 1
+
+      - id: 113799 # Shadowmoon Robes [cloth chest]
+        costs:
+          1113681: 80
+
+      - id: 113804 # Shadowmoon Bracers [cloth wrists]
+        costs:
+          1113681: 50
+
+      - id: 113800 # Shadowmoon Grips [cloth hands]
+        costs:
+          1113681: 50
+
+      - id: 113797 # Shadowmoon Sash [cloth waist]
+        costs:
+          1113681: 50
+          1113822: 1
+
+      - id: 113802 # Shadowmoon Leggings [cloth legs]
+        costs:
+          1113681: 80
+
+      - id: 113798 # Shadowmoon Treads [cloth feet]
+        costs:
+          1113681: 50
+
+      # 0 set=1535
+
+      - id: 113793 # Thunderlord Helm [leather head]
+        costs:
+          1113681: 50
+          1113821: 1
+
+      - id: 113795 # Thunderlord Shoulderguards [leather shoulders]
+        costs:
+          1113681: 50
+          1113823: 1
+
+      - id: 113791 # Thunderlord Chestguard [leather chest]
+        costs:
+          1113681: 80
+
+      - id: 113796 # Thunderlord Bracers [leather wrists]
+        costs:
+          1113681: 50
+
+      - id: 113792 # Thunderlord Gloves [leather hands]
+        costs:
+          1113681: 50
+
+      - id: 113789 # Thunderlord Girdle [leather waist]
+        costs:
+          1113681: 50
+          1113822: 1
+
+      - id: 113794 # Thunderlord Leggings [leather legs]
+        costs:
+          1113681: 80
+
+      - id: 113790 # Thunderlord Sabatons [leather feet]
+        costs:
+          1113681: 50
+
+      # 0 set=1536
+
+      - id: 113817 # Warsong Hood [mail head]
+        costs:
+          1113681: 50
+          1113821: 1
+
+      - id: 113819 # Warsong Spaulders [mail shoulders]
+        costs:
+          1113681: 50
+          1113823: 1
+
+      - id: 113815 # Warsong Wraps [mail chest]
+        costs:
+          1113681: 80
+
+      - id: 113820 # Warsong Bracers [mail wrists]
+        costs:
+          1113681: 50
+
+      - id: 113816 # Warsong Gloves [mail hands]
+        costs:
+          1113681: 50
+
+      - id: 113813 # Warsong Cord [mail waist]
+        costs:
+          1113681: 50
+          1113822: 1
+
+      - id: 113818 # Warsong Leggings [mail legs]
+        costs:
+          1113681: 80
+
+      - id: 113814 # Warsong Boots [mail feet]
+        costs:
+          1113681: 50
+
+      # 0 set=1533
+
+      - id: 113809 # Blackrock Greathelm [plate head]
+        costs:
+          1113681: 50
+          1113821: 1
+
+      - id: 113811 # Blackrock Pauldrons [plate shoulders]
+        costs:
+          1113681: 50
+          1113823: 1
+
+      - id: 113807 # Blackrock Chestplate [plate chest]
+        costs:
+          1113681: 80
+
+      - id: 113812 # Blackrock Wristguards [plate wrists]
+        costs:
+          1113681: 50
+
+      - id: 113808 # Blackrock Gauntlets [plate hands]
+        costs:
+          1113681: 50
+
+      - id: 113805 # Blackrock Girth [plate waist]
+        costs:
+          1113681: 50
+          1113822: 1
+
+      - id: 113810 # Blackrock Legplates [plate legs]
+        costs:
+          1113681: 80
+
+      - id: 113806 # Blackrock Greaves [plate feet]
+        costs:
+          1113681: 50

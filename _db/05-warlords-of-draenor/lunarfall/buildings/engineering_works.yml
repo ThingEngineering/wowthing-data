@@ -1,0 +1,121 @@
+things:
+  - id: 77365
+    type: "vendor"
+    name: "Zaren Hoffle"
+    note: "Engineer"
+
+    locations:
+      here: # unknown
+        - 46.4 59.4 alliance
+
+    groups:
+
+      - name: "Engineering Works"
+        range: -1
+        sortKey: "engineering-works"
+
+    contents:
+
+      - id: 118490 # Schematic: Blingtron 5000
+        costs:
+          1119299: 1
+
+      - id: 118497 # Schematic: Cybergenetic Mechshades
+        costs:
+          1119299: 1
+
+      - id: 118493 # Schematic: Didi's Delicate Assembly
+        costs:
+          1119299: 1
+
+      - id: 256962 # Schematic: Draenei Stargazer's Telescope
+        costs:
+          1119299: 1
+
+      - id: 118480 # Schematic: Findle's Loot-a-Rang
+        costs:
+          1119299: 1
+
+      - id: 256964 # Schematic: Frostwall Architect's Table
+        costs:
+          1119299: 1
+
+      - id: 118495 # Schematic: Hemet's Heartseeker
+        costs:
+          1119299: 1
+
+      - id: 202228 # Schematic: Impressive Linkgrease Locksprocket
+        costs:
+          1119299: 5
+
+      - id: 202230 # Schematic: Impressive True Iron Trigger
+        costs:
+          1119299: 5
+
+      - id: 118485 # Schematic: Lifelike Mechanical Frostboar
+        costs:
+          1119299: 1
+
+      # - id: 118491 # Schematic: Linkgrease Locksprocket
+      #   costs:
+      #     1119299: 5
+
+      - id: 118484 # Schematic: Mechanical Axebeak
+        costs:
+          1119299: 1
+
+      - id: 119177 # Schematic: Mechanical Scorpid
+        costs:
+          1119299: 1
+
+      - id: 118478 # Schematic: Megawatt Filament
+        costs:
+          1119299: 1
+
+      - id: 118498 # Schematic: Night-Vision Mechshades
+        costs:
+          1119299: 1
+
+      - id: 118477 # Schematic: Oglethorpe's Missile Splitter
+        costs:
+          1119299: 1
+
+      - id: 118487 # Schematic: Personal Hologram
+        costs:
+          1119299: 1
+
+      - id: 118499 # Schematic: Plasma Mechshades
+        costs:
+          1119299: 1
+
+      - id: 118500 # Schematic: Razorguard Mechshades
+        costs:
+          1119299: 1
+
+      - id: 202229 # Schematic: Remarkable Linkgrease Locksprocket
+        costs:
+          1119299: 5
+
+      - id: 202231 # Schematic: Remarkable True Iron Trigger
+        costs:
+          1119299: 5
+
+      - id: 118476 # Schematic: Shrediron's Shredder
+        costs:
+          1119299: 1
+
+      - id: 118489 # Schematic: Swapblaster
+        costs:
+          1119299: 1
+
+      # - id: 120268 # Schematic: True Iron Trigger
+      #   costs:
+      #     1119299: 5
+
+      - id: 118481 # Schematic: World Shrinker
+        costs:
+          1119299: 1
+
+      - id: 118488 # Schematic: Wormhole Centrifuge
+        costs:
+          1119299: 1

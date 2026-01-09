@@ -1,0 +1,28 @@
+things:
+  - id: 79812
+    type: "vendor"
+    name: "Moz'def"
+
+    locations:
+      here: # unknown
+        - 59.4 49.8 horde
+
+    groups:
+
+      - name: "Barracks"
+        range: -1
+        sortKey: "barracks"
+
+    contents:
+
+      - id: 245437 # Orc-Forged Weaponry [decor]
+        costs:
+          1113681: 75
+
+      - id: 245442 # Warsong Footrest [decor]
+        costs:
+          824: 100
+
+      - id: 122298 # Bodyguard Miniaturization Device [toy]
+        costs:
+          824: 250
