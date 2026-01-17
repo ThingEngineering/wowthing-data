@@ -1,0 +1,111 @@
+things:
+  - type: vendor
+    name: "2026-01"
+    id: 1202601
+
+    groups:
+      - name: "2026-01"
+        range: -1
+        sortKey: "tp-7411" # (100-YY)(12-MM)
+
+    contents:
+
+      - id: 212631 # Reins of the Brilliant Sunburst Peafowl [mount]
+        costs:
+          2032: 750
+
+      - id: 260409 # Savage Crimson Battle Turtle [mount]
+        costs:
+          2032: 500
+
+      - id: 233361 # Wind-Up Wuffi [pet]
+        costs:
+          2032: 300
+
+      - id: 233328 # Ensemble: Golden Clockwork Attire
+        costs:
+          2032: 650
+
+      - id: 249946 # Ensemble: Villager's City Attire
+        costs:
+          2032: 440
+
+      - id: 250911 # Ensemble: Villager's City Collection
+        costs:
+          2032: 440
+
+      - id: 242478 # Ensemble: Crimson Sweatsuit
+        costs:
+          2032: 100
+
+      - id: 257979 # Ensemble: Sorcerer's Brick Garb
+        costs:
+          2032: 100
+
+      - id: 252748 # Crimson Winter Toque [head]
+        costs:
+          2032: 50
+
+      - id: 260411 # Iron Chainkini [chest]
+        costs:
+          2032: 150
+
+      - id: 256725 # Crest of Unending Woe [back]
+        costs:
+          2032: 150
+
+      - id: 233273 # Steam-Powered Golden Cloak [back]
+        costs:
+          2032: 300
+
+      - id: 260934 # Thalassian Archer's Quiver [back]
+        costs:
+          2032: 100
+
+      - id: 260418 # Basic Crimson Sabatons [feet]
+        costs:
+          2032: 40
+
+      - id: 260422 # Axe of the Crimson Crescent [1h axe]
+        costs:
+          2032: 90
+
+      - id: 253280 # Crusader's Ruby Mace [1h mace]
+        costs:
+          2032: 200
+
+      - id: 253046 # Crusader's Ruby Blade [1h sword]
+        costs:
+          2032: 200
+
+      - id: 233257 # Golden Clockwork Doomfist [fist]
+        costs:
+          2032: 300
+
+      - id: 253277 # Crusader's Ruby Greatmace [2h mace]
+        costs:
+          2032: 230
+
+      - id: 233249 # Golden Clockwork Power Hammer [2h mace]
+        costs:
+          2032: 325
+
+      - id: 253050 # Crusader's Ruby Greatblade [2h sword]
+        costs:
+          2032: 230
+
+      - id: 260394 # Thalassian Recruit's Bow [bow]
+        costs:
+          2032: 80
+
+      - id: 233270 # Long-Range Golden Clockstopper [gun]
+        costs:
+          2032: 300
+
+      - id: 233277 # Golden Clockwork Defender [shield]
+        costs:
+          2032: 260
+
+      - id: 251517 # Shield of Unending Woe [shield]
+        costs:
+          2032: 100
