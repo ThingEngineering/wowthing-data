@@ -25,3 +25,8 @@ groups:
   things:
     - 2557 # Acidic Void Creeper (7 Untethered Coin)
     - 2552 # Lavender K'aaroc (10 Untethered Coin)
+
+- name: "Brawler's Guild"
+  things:
+    - 2807 # Brawlin' Bruno
+    - 2808 # Ballistic Bronco

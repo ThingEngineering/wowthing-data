@@ -1,0 +1,7 @@
+name: "Reputations"
+groups:
+
+- name: "Slayer's Duellum"
+  things:
+    - 2792 # Frenzied Shredclaw (Exalted)
+    - 2791 # Prowling Shredclaw (Exalted)

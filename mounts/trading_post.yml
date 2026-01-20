@@ -60,6 +60,7 @@ groups:
     - 2628 # Cinder-Plumed Highland Gryphon (2025-09)
     - 2630 # Ornery Breezestrider (2025-09)
     - 2625 # The Headless Horseman's Hallowed Charger (2025-10)
+    - 2823 # Savage Crimson Battle Turtle (2026-01)
 
 - name: "Unavailable"
   things:
@@ -107,3 +108,13 @@ groups:
     - 2650 # Floestrider Crest-Horn
     - 2651 # Cragstepper Crest-Horn
     - 1945 # Jeweled Sapphire Scarab
+    - 2825 # Cloudborn Razorwing
+    - 2833 # Arboreal Pseudoshell
+    - 2834 # Cabbage Pseudoshell
+    - 2836 # Accented Pseudoshell
+    - 2845 # Vicious Snapvine
+    - 2846 # Ferocious Snapvine
+    - 2848 # Savage Snapvine
+    - 2850 # Fluffy Comfy Flying Quilt
+    - 2851 # Gruffy Comfy Flying Quilt
+    - 2853 # Comfy Silvermoon Flying Quilt

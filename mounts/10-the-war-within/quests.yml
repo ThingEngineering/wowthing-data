@@ -12,3 +12,7 @@ groups:
 - name: "Siren Isle"
   things:
     - 2469 # Prismatic Snapdragon
+
+- name: "K'aresh"
+  things:
+    - 2550 # K'arroc Swiftwing

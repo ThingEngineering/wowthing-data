@@ -11,6 +11,10 @@ groups:
     - 781 # Infinite Timereaver (Timewalking)
     - 1737 # Sandy Shalewing (?? -> vendor)
     - 2321 # Timely Buzzbee (Master of the Turbulent Timeways II -> vendor)
+    - 2796 # Bronze Aquilon (Master of the Turbulent Timeways IV -> vendor)
+    - 2797 # Bronze Corpsefly (Master of the Turbulent Timeways IV -> vendor)
+    - 2798 # Bronze Gravewing (Master of the Turbulent Timeways IV -> vendor)
+    - 2795 # Bronze Wilderling (Master of the Turbulent Timeways IV -> vendor)
 
 - name: Classic
   things:
@@ -50,3 +54,8 @@ groups:
   things:
     - 2587 # Ivory Savagemane
     - 2586 # Moonlit Nightsaber
+
+- name: "Shadowlands"
+  things:
+    - 2803 # Skypaw Glimmerfur
+    - 2804 # Crimson Lupine

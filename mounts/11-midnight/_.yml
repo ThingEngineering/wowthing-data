@@ -1,2 +1,7 @@
 name: "Midnight"
 groups:
+
+- name: "PvP"
+  things:
+    - 2794 # Vicious Snaplizard [A]
+    - 2793 # Vicious Snaplizard [H]
