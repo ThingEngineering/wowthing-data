@@ -1,0 +1,35 @@
+name: "Midnight"
+minimumLevel: 80
+reputations:
+
+-
+  - both:
+      id: 2696 # Amani Tribe
+      icon: "achievement/62263"
+      iconText: "Amani"
+
+  - both:
+      id: 2704 # Hara'ti
+      icon: "achievement/62264"
+      iconText: "Hara"
+
+  - both:
+      id: 2710 # Silvermoon Court
+      icon: "achievement/62262"
+      iconText: "Silv"
+
+  - both:
+      id: 2699 # The Singularity
+      icon: "achievement/62265"
+      iconText: "Sing"
+
+-
+  - both:
+      id: 2742 # Delves: Season 1
+      icon: "achievement/61797" # My Shady Nemesis
+      iconText: "Sing"
+
+  - both:
+      id: 2764 # Preyseeker's Journey
+      icon: "achievement/61387"
+      iconText: "Prey"
