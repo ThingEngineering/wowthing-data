@@ -1,0 +1,20 @@
+name: "Treasures"
+groups:
+
+- name: "Eversong Woods"
+  things:
+    - 4974 # Dali
+
+- name: "Harandar"
+  things:
+    - 4927 # Percival
+    - 4948 # Perturbed Sporebat
+
+- name: "Silvermoon City"
+  things:
+    - 5003 # Sunwing Hatchling
+
+- name: "Voidstorm"
+  things:
+    - 4881 # Nether Siphoner
+    - 4972 # Willie

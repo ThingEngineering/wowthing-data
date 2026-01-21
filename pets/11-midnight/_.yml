@@ -1,2 +1,7 @@
 name: "Midnight"
 groups:
+
+- name: "Achievements"
+  things:
+    - 4910 # Do, child of Filo (Midnight Safari)
+    - 4803 # Niblet (Midnight Dungeon Hero)

@@ -1,0 +1,13 @@
+name: "Instances"
+groups:
+
+- name: "Delves"
+  things:
+    - 4959 # Hexed Bunny
+    - 4957 # Lost Star
+    - 4961 # Nibblesworth
+    - 4953 # Sporbie
+    - 4956 # Spormilian
+    - 4960 # Treja'saka
+    - 4954 # Ziorg'pharon
+    - 4958 # Ominous Domanus (Nullaeus?)

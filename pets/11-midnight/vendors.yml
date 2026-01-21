@@ -1,0 +1,30 @@
+name: "Vendors"
+groups:
+
+- name: "Eversong Woods"
+  things:
+    - 4928 # Dragonhawk Munchkin
+    - 4982 # Flicker
+
+- name: "Harandar"
+  things:
+    - 4929 # Munchy
+
+- name: "Silvermoon City"
+  things:
+    - 4955 # Kreepah'zoyd
+    - 4930 # Lil' Preyseeker
+
+- name: "Twilight Highlands"
+  things:
+    - 4830 # Rhay'Dahr (Observer, Baby (Green))
+    - 4633 # Scruff
+    - 4508 # Emerald Sporbit (Sporbit)
+
+- name: "Voidstorm"
+  things:
+    - 4952 # Blitzcreek
+
+- name: "Zul'Aman"
+  things:
+    - 4888 # Naloki
