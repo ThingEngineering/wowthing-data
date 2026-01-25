@@ -68,3 +68,25 @@ groups:
       - name: "Dragon Keeping"
         id: 76465
         description: "{reputation:750|2574}" # 750 Dream Wardens reputation
+
+- name: "Mount"
+  icon: "item/210774" # Reins of the Ochre Dreamtalon
+  iconText: "Plant"
+  lookup: none
+  type: quest
+  data:
+    0:
+      - id: 77677
+        name: "Some Water..."
+
+      - id: 78398
+        name: "A Dash of Minerals..."
+
+      - id: 77697
+        name: "The Right Food..."
+
+      - id: 77711
+        name: "And a Pinch of Magic"
+
+      - id: 77762
+        name: "A Little Hope is Never Without Worth"
