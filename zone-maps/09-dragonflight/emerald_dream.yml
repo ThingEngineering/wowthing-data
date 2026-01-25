@@ -1207,3 +1207,70 @@ farms:
 
       - type: transmog
         id: 210348 # Arctic Warden's Sabatons [plate feet]
+
+- name: "Weekly Weapons"
+  groupId: 6
+  location: 0 0
+  reset: none
+  type: weapon
+  drops:
+
+    - type: transmog
+      id: 210395 # Crystalline Tender's Mace [1h mace]
+
+    - type: transmog
+      id: 210399 # Frigid Conservator's Mallet [1h mace]
+
+    - type: transmog
+      id: 210397 # Winter Forager's Chopper [1h axe]
+
+    - type: transmog
+      id: 210398 # Winter Forager's Handaxe [1h axe]
+
+    - type: transmog
+      id: 210400 # Arctic Warden's Gavel [1h mace]
+
+    - type: transmog
+      id: 210387 # Arctic Warden's Blade [1h sword]
+
+    - type: transmog
+      id: 210389 # Crystalline Tender's Dirk [dagger]
+
+    - type: transmog
+      id: 210405 # Crystalline Tender's Kris [dagger]
+
+    - type: transmog
+      id: 210386 # Crystalline Tender's Glaive [warglaive]
+
+    - type: transmog
+      id: 210401 # Arctic Warden's Greatsword [2h sword]
+
+    - type: transmog
+      id: 210406 # Winter Forager's Claymore [2h sword]
+
+    - type: transmog
+      id: 210403 # Winter Forager's Spire [polearm]
+
+    - type: transmog
+      id: 208365 # Winter's Stand [polearm]
+
+    - type: transmog
+      id: 210394 # Frigid Conservator's Cane [stave]
+
+    - type: transmog
+      id: 210385 # Winter Forager's Branch [stave]
+
+    - type: transmog
+      id: 210404 # Winter Forager's Curve [bow]
+
+    - type: transmog
+      id: 210396 # Winter Forager's Longbow [bow]
+
+    - type: transmog
+      id: 210402 # Frigid Conservator's Wand [wand]
+
+    - type: transmog
+      id: 210384 # Frigid Conservator's Implement [off-hand]
+
+    - type: transmog
+      id: 210383 # Arctic Warden's Bulwark [shield]
