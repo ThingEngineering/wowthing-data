@@ -78,15 +78,19 @@ groups:
     0:
       - id: 77677
         name: "Some Water..."
+        description: "Takes 5 days to grow"
 
       - id: 78398
         name: "A Dash of Minerals..."
+        description: "Takes 5 days to grow"
 
       - id: 77697
         name: "The Right Food..."
+        description: "Takes 5 days to grow"
 
       - id: 77711
         name: "And a Pinch of Magic"
+        description: "Takes 5 days to grow"
 
       - id: 77762
         name: "A Little Hope is Never Without Worth"
