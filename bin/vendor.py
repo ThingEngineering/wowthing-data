@@ -157,6 +157,7 @@ STANDING = {
 MAPPER_RE = re.compile(r'var g_mapperData = (.*?)\;$', re.MULTILINE)
 NPC_RE = re.compile(r'^\$\.extend\(g_npcs\[\d+], (.*?)\)\;$', re.MULTILINE)
 SELLS_RE = re.compile(r'^new Listview\(.*?id: \'(drops|sells)\'.*?data:\s*(.*?)\}\)\;$', re.MULTILINE)
+RENOWN_RE = re.compile(r'Renown Rank (\d+)')
 
 
 def main():
@@ -390,7 +391,14 @@ def main():
                 
                 if item.get('standing', 0) > 0:
                     print(f'        requirements:')
-                    print(f'          - "reputation: 0 {STANDING.get(item["standing"], item["standing"])}"')
+                    print(f'          - "reputation ZZZZ {STANDING.get(item["standing"], item["standing"])}"')
+                elif item.get('playerConditions'):
+                    conditions = item['playerConditions']
+                    for condition in conditions:
+                        m = RENOWN_RE.search(condition)
+                        if m:
+                            print(f'        requirements:')
+                            print(f'          - "reputation ZZZZ renown-{m.group(1)}"')
 
             # print('>', item)
 
