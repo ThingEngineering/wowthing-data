@@ -21,3 +21,7 @@ things:
       - id: 237347 # Organically-Sourced Wellington Bobber [toy]
         costs:
           1227673: 5
+
+      - id: 245309 # Rusty Patchwork Tub [decor]
+        costs:
+          1227673: 15

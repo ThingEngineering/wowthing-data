@@ -1,0 +1,14 @@
+things:
+  - id: 239333
+    type: "vendor"
+    name: "Street Food Vendor"
+
+    locations:
+      here: # undermine
+        - 29.6 43
+
+    contents:
+
+      - id: 256328 # Leftover Undermine Takeout [decor]
+        costs:
+          2815: 350

@@ -15,18 +15,32 @@ things:
 
     contents:
 
-      - id: 229950 # Darkfuse Demolisher [mount]
+      - id: 256327 # Open Rust-Plated Storage Crate [decor]
         costs:
-          2815: 11375
+          2815: 450
+        requirements:
+          - "reputation 2669 friendly"
 
       - id: 234950 # Atomic Regoblinator [toy]
         costs:
           2815: 5000
+        requirements:
+          - "reputation 2669 honored"
+
+      - id: 245307 # Undermine Bookcase [decor]
+        costs:
+          2815: 800
+        requirements:
+          - "reputation 2669 honored"
+
+      - id: 229950 # Darkfuse Demolisher [mount]
+        costs:
+          2815: 11375
+        requirements:
+          - "reputation 2669 revered"
 
       - id: 231550 # Darkfuse Lowdown Coat [subclass=5 chest]
         costs:
           2815: 3250
-
-      - id: 235558 # Box of Darkfuse Miscellany
-        costs:
-          3226: 100
+        requirements:
+          - "reputation 2669 exalted"

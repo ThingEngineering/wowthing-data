@@ -18,30 +18,56 @@ things:
 
       # 0
 
-      - id: 229948 # Blackwater Shredder Deluxe Mk 2 [mount]
-        costs:
-          2815: 8125
-
-      - id: 232839 # Wavebreaker Mechasaur [pet]
-        costs:
-          2815: 6500
-
       - id: 235671 # Blackwater Cartel Banner [toy]
         costs:
           2815: 5000
-
-      - id: 235801 # Personal Fishing Barge [toy]
-        costs:
-          2815: 5000
-
-      - id: 235390 # Paint: Body Roll Blue [car?]
-        costs:
-          2815: 1350
+        requirements:
+          - "reputation 2675 honored"
 
       - id: 236671 # The Buzzer [car?]
         costs:
           2815: 975
+        requirements:
+          - "reputation 2675 honored"
+
+      - id: 255642 # Undermine Alleyway Sconce [decor]
+        costs:
+          2815: 475
+        requirements:
+          - "reputation 2675 honored"
+
+      - id: 232839 # Wavebreaker Mechasaur [pet]
+        costs:
+          2815: 6500
+        requirements:
+          - "reputation 2675 revered"
+
+      - id: 235801 # Personal Fishing Barge [toy]
+        costs:
+          2815: 5000
+        requirements:
+          - "reputation 2675 revered"
+
+      - id: 248758 # Relaxing Goblin Beach Chair with Cup Gripper [decor]
+        costs:
+          2815: 900
+        requirements:
+          - "reputation 2675 revered"
+
+      - id: 229948 # Blackwater Shredder Deluxe Mk 2 [mount]
+        costs:
+          2815: 8125
+        requirements:
+          - "reputation 2675 exalted"
+
+      - id: 235390 # Paint: Body Roll Blue [car?]
+        costs:
+          2815: 1350
+        requirements:
+          - "reputation 2675 exalted"
 
       - id: 231528 # Blackwater Undermine Tabard [tabard]
         costs:
           2815: 1625
+        requirements:
+          - "reputation 2675 exalted"

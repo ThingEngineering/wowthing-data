@@ -1,0 +1,67 @@
+things:
+  - id: 236849
+    type: "vendor"
+    name: "Greexit Coarsebub"
+    note: "Discount Fashion"
+
+    locations:
+      here: # undermine
+        - 24.4 63.2
+
+    contents:
+
+      # 0 set=4335
+
+      - id: 231742 # Bilgewater Bruiser's Helm [subclass=5 head]
+        costs:
+          0: 170 # Gold
+
+      - id: 231748 # Bilgewater Bruiser's Spaulders [subclass=5 shoulders]
+        costs:
+          0: 85 # Gold
+
+      - id: 231736 # Bilgewater Bruiser's Tabard [tabard]
+        costs:
+          0: 425 # Gold
+
+      # 0 set=4336
+
+      - id: 231741 # Blackwater Bruiser's Helm [subclass=5 head]
+        costs:
+          0: 170 # Gold
+
+      - id: 231746 # Blackwater Bruiser's Spaulders [subclass=5 shoulders]
+        costs:
+          0: 85 # Gold
+
+      - id: 231734 # Blackwater Bruiser's Tabard [tabard]
+        costs:
+          0: 425 # Gold
+
+      # 0 set=4334
+
+      - id: 231740 # Steamwheedle Bruiser's Helm [subclass=5 head]
+        costs:
+          0: 170 # Gold
+
+      - id: 231747 # Steamwheedle Bruiser's Spaulders [subclass=5 shoulders]
+        costs:
+          0: 85 # Gold
+
+      - id: 231735 # Steamwheedle Bruiser's Tabard [tabard]
+        costs:
+          0: 425 # Gold
+
+      # 0 set=4333
+
+      - id: 231744 # Venture Co. Bruiser's Helm [subclass=5 head]
+        costs:
+          0: 170 # Gold
+
+      - id: 231750 # Venture Co. Bruiser's Spaulders [subclass=5 shoulders]
+        costs:
+          0: 85 # Gold
+
+      - id: 231738 # Venture Co. Bruiser's Tabard [tabard]
+        costs:
+          0: 425 # Gold

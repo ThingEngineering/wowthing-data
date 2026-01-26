@@ -16,30 +16,56 @@ things:
 
     contents:
 
-      - id: 229935 # Crimson Armored Growler [mount]
-        costs:
-          2815: 8125
-
-      - id: 232845 # Bilgewater Junkhauler [pet]
-        costs:
-          2815: 6500
-
       - id: 235670 # Bilgewater Cartel Banner [toy]
         costs:
           2815: 5000
-
-      - id: 235807 # Storefront-in-a-Box [toy]
-        costs:
-          2815: 5000
-
-      - id: 235388 # Paint: Redlining Red [car?]
-        costs:
-          2815: 1350
+        requirements:
+          - "reputation 2673 honored"
 
       - id: 236672 # The Ol' Low-and-Slow [car?]
         costs:
           2815: 975
+        requirements:
+          - "reputation 2673 honored"
+
+      - id: 255674 # Incontinental Table Lamp [decor]
+        costs:
+          2815: 450
+        requirements:
+          - "reputation 2673 honored"
+
+      - id: 245313 # Spring-Powered Undermine Chair [decor]
+        costs:
+          2815: 450
+        requirements:
+          - "reputation 2673 honored"
+
+      - id: 232845 # Bilgewater Junkhauler [pet]
+        costs:
+          2815: 6500
+        requirements:
+          - "reputation 2673 revered"
+
+      - id: 235807 # Storefront-in-a-Box [toy]
+        costs:
+          2815: 5000
+        requirements:
+          - "reputation 2673 revered"
+
+      - id: 229935 # Crimson Armored Growler [mount]
+        costs:
+          2815: 8125
+        requirements:
+          - "reputation 2673 exalted"
+
+      - id: 235388 # Paint: Redlining Red [car?]
+        costs:
+          2815: 1350
+        requirements:
+          - "reputation 2673 exalted"
 
       - id: 231526 # Bilgewater Undermine Tabard [tabard]
         costs:
           2815: 1625
+        requirements:
+          - "reputation 2673 exalted"

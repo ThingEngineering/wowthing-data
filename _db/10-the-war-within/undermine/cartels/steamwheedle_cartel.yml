@@ -16,30 +16,56 @@ things:
 
     contents:
 
-      - id: 229956 # Mean Green Flying Machine [mount]
+      - id: 245321 # Rust-Plated Storage Barrel [decor]
         costs:
-          2815: 11375
-
-      - id: 232853 # Eepy [pet]
-        costs:
-          2815: 6500
-
-      - id: 226373 # Everlasting Noggenfogger Elixir [toy]
-        costs:
-          2815: 5000
+          2815: 400
+        requirements:
+          - "reputation 2677 friendly"
 
       - id: 235669 # Steamwheedle Cartel Banner [toy]
         costs:
           2815: 5000
+        requirements:
+          - "reputation 2677 honored"
 
       - id: 236670 # Maniacal Melodies [car?]
         costs:
           2815: 975
+        requirements:
+          - "reputation 2677 honored"
+
+      - id: 255641 # Undermine Mechanic's Hanging Lamp [decor]
+        costs:
+          2815: 500
+        requirements:
+          - "reputation 2677 honored"
+
+      - id: 232853 # Eepy [pet]
+        costs:
+          2815: 6500
+        requirements:
+          - "reputation 2677 revered"
+
+      - id: 226373 # Everlasting Noggenfogger Elixir [toy]
+        costs:
+          2815: 5000
+        requirements:
+          - "reputation 2677 revered"
+
+      - id: 229956 # Mean Green Flying Machine [mount]
+        costs:
+          2815: 11375
+        requirements:
+          - "reputation 2677 exalted"
 
       - id: 235389 # Paint: Goblin Green [car?]
         costs:
           2815: 1350
+        requirements:
+          - "reputation 2677 exalted"
 
       - id: 231527 # Steamwheedle Undermine Tabard [tabard]
         costs:
           2815: 1625
+        requirements:
+          - "reputation 2677 exalted"

@@ -16,30 +16,56 @@ things:
 
     contents:
 
-      - id: 229946 # Ocher Delivery Rocket [mount]
-        costs:
-          2815: 11375
-
-      - id: 232851 # Rocketfist [pet]
-        costs:
-          2815: 6500
-
       - id: 235672 # Venture Co. Banner [toy]
         costs:
           2815: 5000
-
-      - id: 235799 # Throwin' Sawblade [toy]
-        costs:
-          2815: 5000
-
-      - id: 235391 # Paint: Yellow Cake Yellow [car?]
-        costs:
-          2815: 1350
+        requirements:
+          - "reputation 2671 honored"
 
       - id: 236669 # The Whole Brass Band [car?]
         costs:
           2815: 975
+        requirements:
+          - "reputation 2671 honored"
+
+      - id: 245311 # Undermine Wall Shelf [decor]
+        costs:
+          2815: 600
+        requirements:
+          - "reputation 2671 honored"
+
+      - id: 232851 # Rocketfist [pet]
+        costs:
+          2815: 6500
+        requirements:
+          - "reputation 2671 revered"
+
+      - id: 235799 # Throwin' Sawblade [toy]
+        costs:
+          2815: 5000
+        requirements:
+          - "reputation 2671 revered"
+
+      - id: 255647 # Spring-Powered Pointer [decor]
+        costs:
+          2815: 650
+        requirements:
+          - "reputation 2671 revered"
+
+      - id: 229946 # Ocher Delivery Rocket [mount]
+        costs:
+          2815: 11375
+        requirements:
+          - "reputation 2671 exalted"
+
+      - id: 235391 # Paint: Yellow Cake Yellow [car?]
+        costs:
+          2815: 1350
+        requirements:
+          - "reputation 2671 exalted"
 
       - id: 231542 # Venture Co. Undermine Tabard [tabard]
         costs:
           2815: 1625
+        requirements:
+          - "reputation 2671 exalted"
