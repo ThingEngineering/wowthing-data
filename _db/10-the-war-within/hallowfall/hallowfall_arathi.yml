@@ -23,132 +23,162 @@ things:
 
     contents:
 
-      - id: 223314 # Shackled Shadow [mount]
-        costs:
-          2815: 11375
-
-      - id: 223317 # Vermillion Imperial Lynx [mount]
-        costs:
-          2815: 8125
-
       - id: 221848 # Tiberius [pet]
         costs:
           2815: 6500
+        requirements:
+          - "reputation 2570 renown-15"
 
       - id: 228707 # Trial of Burning Light [toy]
         costs:
           2815: 5000
+        requirements:
+          - "reputation 2570 renown-17"
+
+      - id: 223317 # Vermillion Imperial Lynx [mount]
+        costs:
+          2815: 8125
+        requirements:
+          - "reputation 2570 renown-21"
+
+      - id: 223314 # Shackled Shadow [mount]
+        costs:
+          2815: 11375
+        requirements:
+          - "reputation 2570 renown-23"
 
       - id: 224553 # Beledar's Attunement
         costs:
           2815: 1000
+        requirements:
+          - "reputation 2570 renown-23"
+
+      # Professions
 
       - id: 223038 # Plans: Charged Claymore [blacksmithing]
         costs:
           1210814: 150
+        requirements:
+          - "reputation 2570 renown-4"
 
       - id: 223114 # Formula: Enchant Boots - Scout's March [enchanting]
         costs:
           1210814: 150
+        requirements:
+          - "reputation 2570 renown-4"
 
       - id: 223064 # Technique: Contract: Hallowfall Arathi [inscription]
         costs:
           1210814: 150
+        requirements:
+          - "reputation 2570 renown-4"
 
       - id: 224656 # Void-Lit Herbalism Notes
         costs:
           1210814: 50
+        requirements:
+          - "reputation 2570 renown-14"
 
       - id: 224655 # Void-Lit Jewelcrafting Notes
         costs:
           1210814: 50
+        requirements:
+          - "reputation 2570 renown-14"
 
       - id: 224658 # Void-Lit Leatherworking Notes
         costs:
           1210814: 50
+        requirements:
+          - "reputation 2570 renown-14"
 
       - id: 224657 # Void-Lit Skinning Notes
         costs:
           1210814: 50
+        requirements:
+          - "reputation 2570 renown-14"
 
-      # 0 set=3518
-
-      - id: 223299 # Tunic of Irradiating Imprisonment [cloth chest]
-        costs:
-          2815: 2600
-
-      - id: 223309 # Bindings of Irradiating Imprisonment [cloth wrists]
-        costs:
-          2815: 3900
-
-      - id: 228426 # Gloves of Irradiating Imprisonment [cloth hands]
-        costs:
-          2815: 250
-
-      - id: 232379 # Slime-Slicked Slippers [cloth feet]
-        costs:
-          2815: 2600
-
-      # 0 set=3657
-
-      - id: 223297 # Vest of Fading Luminescence [leather chest]
-        costs:
-          2815: 2600
-
-      - id: 223310 # Wristwraps of Fading Luminescence [leather wrists]
-        costs:
-          2815: 3900
-
-      - id: 228425 # Grips of Fading Luminescence [leather hands]
-        costs:
-          2815: 250
-
-      - id: 232381 # Mostly Cobbled Shoes [leather feet]
-        costs:
-          2815: 2600
-
-      # 0 set=3656
-
-      - id: 223298 # Chainmail of Depleting Brilliance [mail chest]
-        costs:
-          2815: 2600
-
-      - id: 223308 # Bracers of Depleting Brilliance [mail wrists]
-        costs:
-          2815: 3900
-
-      - id: 228427 # Wraps of Depleting Brilliance [mail hands]
-        costs:
-          2815: 250
-
-      - id: 232383 # Soot-Encrusted Kickers [mail feet]
-        costs:
-          2815: 2600
-
-      # 0 set=3655
-
-      - id: 223296 # Battleplate of Dimming Fluorescence [plate chest]
-        costs:
-          2815: 2600
-
-      - id: 223311 # Armguards of Dimming Fluorescence [plate wrists]
-        costs:
-          2815: 3900
-
-      - id: 228428 # Gauntlets of Dimming Fluorescence [plate hands]
-        costs:
-          2815: 250
-
-      - id: 232384 # Aqirite-Toe Boots [plate feet]
-        costs:
-          2815: 2600
-
-      # Cosmetic
-
-      - id: 218350 # Expeditionary Spaulders [subclass=5 shoulders]
-        costs:
-          2815: 3250
+      # Transmog
 
       - id: 218351 # Expeditionary Cape [subclass=5 back]
         costs:
           2815: 1625
+        requirements:
+          - "reputation 2570 renown-2"
+
+      - id: 228426 # Gloves of Irradiating Imprisonment [cloth hands]
+        costs:
+          2815: 250
+        requirements:
+          - "reputation 2570 renown-2"
+
+      - id: 228425 # Grips of Fading Luminescence [leather hands]
+        costs:
+          2815: 250
+        requirements:
+          - "reputation 2570 renown-2"
+
+      - id: 228427 # Wraps of Depleting Brilliance [mail hands]
+        costs:
+          2815: 250
+        requirements:
+          - "reputation 2570 renown-2"
+
+      - id: 228428 # Gauntlets of Dimming Fluorescence [plate hands]
+        costs:
+          2815: 250
+        requirements:
+          - "reputation 2570 renown-2"
+
+      - id: 223299 # Tunic of Irradiating Imprisonment [cloth chest]
+        costs:
+          2815: 2600
+        requirements:
+          - "reputation 2570 renown-7"
+
+      - id: 223297 # Vest of Fading Luminescence [leather chest]
+        costs:
+          2815: 2600
+        requirements:
+          - "reputation 2570 renown-7"
+
+      - id: 223298 # Chainmail of Depleting Brilliance [mail chest]
+        costs:
+          2815: 2600
+        requirements:
+          - "reputation 2570 renown-7"
+
+      - id: 223296 # Battleplate of Dimming Fluorescence [plate chest]
+        costs:
+          2815: 2600
+        requirements:
+          - "reputation 2570 renown-7"
+
+      - id: 218350 # Expeditionary Spaulders [subclass=5 shoulders]
+        costs:
+          2815: 3250
+        requirements:
+          - "reputation 2570 renown-13"
+
+      - id: 223309 # Bindings of Irradiating Imprisonment [cloth wrists]
+        costs:
+          2815: 3900
+        requirements:
+          - "reputation 2570 renown-18"
+
+      - id: 223310 # Wristwraps of Fading Luminescence [leather wrists]
+        costs:
+          2815: 3900
+        requirements:
+          - "reputation 2570 renown-18"
+
+      - id: 223308 # Bracers of Depleting Brilliance [mail wrists]
+        costs:
+          2815: 3900
+        requirements:
+          - "reputation 2570 renown-18"
+
+      - id: 223311 # Armguards of Dimming Fluorescence [plate wrists]
+        costs:
+          2815: 3900
+        requirements:
+          - "reputation 2570 renown-18"

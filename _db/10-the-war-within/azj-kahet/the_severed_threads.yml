@@ -1,0 +1,83 @@
+things:
+  - id: 220867
+    type: "vendor"
+    name: "Y'tekhi"
+    note: "Renown Quartermaster"
+
+    locations:
+      here: # azj_kahet
+        - 55.2 41.2
+
+    groups:
+
+      - name: "Severed Threads - Misc"
+        range: 4
+        sortKey: "rep-severed-1"
+
+      - name: "Severed Threads - Profession"
+        range: 3
+        sortKey: "rep-severed-2"
+
+      - name: "Severed Threads - Transmog"
+        range: -1
+        sortKey: "rep-severed-3"
+
+    contents:
+
+      - id: 222972 # Jump Jump [pet]
+        costs:
+          3056: 2250
+        requirements:
+          - "reputation 2600 renown-15"
+
+      - id: 228705 # Arachnoserum [toy]
+        costs:
+          3056: 1750
+        requirements:
+          - "reputation 2600 renown-17"
+
+      - id: 223274 # Ferocious Jawcrawler [mount]
+        costs:
+          3056: 2815
+        requirements:
+          - "reputation 2600 renown-22"
+
+      - id: 223264 # Aquamarine Swarmite [mount]
+        costs:
+          3056: 3940
+        requirements:
+          - "reputation 2600 renown-23"
+
+      # Professions
+
+      - id: 223080 # Recipe: Algari Alchemist Stone [alchemy]
+        costs:
+          1210814: 150
+        requirements:
+          - "reputation 2600 renown-4"
+
+      - id: 223125 # Formula: Oil of Deep Toxins [enchanting]
+        costs:
+          1210814: 150
+        requirements:
+          - "reputation 2600 renown-4"
+
+      - id: 225355 # Technique: Contract: The Severed Threads [inscription]
+        costs:
+          1210814: 150
+        requirements:
+          - "reputation 2600 renown-4"
+
+      # Transmog
+
+      - id: 218348 # Thread-Bearer's Cloak [subclass=5 back]
+        costs:
+          3056: 565
+        requirements:
+          - "reputation 2600 renown-5"
+
+      - id: 218347 # Thread-Bearer's Pauldrons [subclass=5 shoulders]
+        costs:
+          3056: 1125
+        requirements:
+          - "reputation 2600 renown-16"

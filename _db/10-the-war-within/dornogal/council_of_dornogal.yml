@@ -1,0 +1,201 @@
+things:
+  - id: 223728
+    type: "vendor"
+    name: "Auditor Balwurz"
+    note: "Renown Quartermaster"
+
+    locations:
+      here: # dornogal
+        - 39.2 24.2
+
+    groups:
+
+      - name: "Council - Misc"
+        range: 4
+        sortKey: "rep-council-1"
+
+      - name: "Council - Decor"
+        range: 5
+        sortKey: "rep-council-2"
+
+      - name: "Council - Professions"
+        range: 8
+        sortKey: "rep-council-3"
+
+      - name: "Council - Transmog"
+        range: -1
+        sortKey: "rep-council-4"
+
+    contents:
+
+      - id: 222965 # Loamy [pet]
+        costs:
+          2815: 6500
+        requirements:
+          - "reputation 2590 renown-13"
+
+      - id: 228706 # Rockslidomancer's Stone [toy]
+        costs:
+          2815: 5000
+        requirements:
+          - "reputation 2590 renown-14"
+
+      - id: 223571 # Shale Ramolith [mount]
+        costs:
+          2815: 8125
+        requirements:
+          - "reputation 2590 renown-18"
+
+      - id: 221753 # Smoldering Cinderbee [mount]
+        costs:
+          2815: 11375
+        requirements:
+          - "reputation 2590 renown-23"
+
+      # Decor
+
+      - id: 253168 # Earthen Storage Crate [decor]
+        costs:
+          0: 25 # Gold
+
+      - id: 245561 # Ornate Ochre Window [decor]
+        costs:
+          2815: 650
+        requirements:
+          - "reputation 2590 renown-9"
+
+      - id: 245295 # Literature of Dornogal [decor]
+        costs:
+          2815: 1000
+        requirements:
+          - "reputation 2590 renown-15"
+
+      - id: 245297 # Literature of Gundargaz [decor]
+        costs:
+          2815: 1000
+        requirements:
+          - "reputation 2590 renown-15"
+
+      - id: 245296 # Literature of Taelloch [decor]
+        costs:
+          2815: 1000
+        requirements:
+          - "reputation 2590 renown-15"
+
+      # Recipes
+
+      - id: 248013 # Recipe: Dornic Mine and Cheese Platter [cooking]
+        costs:
+          2815: 3000
+        requirements:
+          - "reputation 2590 renown-22"
+
+      - id: 223127 # Formula: Enchant Chest - Council's Intellect [enchanting]
+        costs:
+          1210814: 150
+        requirements:
+          - "reputation 2590 renown-5"
+
+      - id: 223062 # Technique: Contract: Council of Dornogal [inscription]
+        costs:
+          1210814: 150
+        requirements:
+          - "reputation 2590 renown-5"
+
+      - id: 223103 # Pattern: Stormbound Armor Kit [leatherworking]
+        costs:
+          1210814: 150
+        requirements:
+          - "reputation 2590 renown-5"
+
+      - id: 224645 # Jewel-Etched Alchemy Notes [alchemy]
+        costs:
+          1210814: 50
+        requirements:
+          - "reputation 2590 renown-12"
+
+      - id: 224647 # Jewel-Etched Blacksmithing Notes [blacksmithing]
+        costs:
+          1210814: 50
+        requirements:
+          - "reputation 2590 renown-12"
+
+      - id: 224652 # Jewel-Etched Enchanting Notes [enchanting]
+        costs:
+          1210814: 50
+        requirements:
+          - "reputation 2590 renown-12"
+
+      - id: 224648 # Jewel-Etched Tailoring Notes [tailoring]
+        costs:
+          1210814: 50
+        requirements:
+          - "reputation 2590 renown-12"
+
+      # 0 set=3519
+
+      - id: 218345 # Honorary Councilmember's Cloak [subclass=5 back]
+        costs:
+          2815: 1625
+        requirements:
+          - "reputation 2590 renown-2"
+
+      - id: 228419 # Mineral-Sparkled Cape [cloak]
+        costs:
+          2815: 250
+        requirements:
+          - "reputation 2590 renown-2"
+
+      - id: 223289 # Mineral-Sparkled Mantle [cloth shoulders]
+        costs:
+          2815: 2600
+        requirements:
+          - "reputation 2590 renown-7"
+
+      - id: 223292 # Gem-Wadded Shoulderpads [leather shoulders]
+        costs:
+          2815: 2600
+        requirements:
+          - "reputation 2590 renown-7"
+
+      - id: 223291 # Ore-namental Spaulders [mail shoulders]
+        costs:
+          2815: 2600
+        requirements:
+          - "reputation 2590 renown-7"
+
+      - id: 223290 # Chiseled Boulder Pauldrons [plate shoulders]
+        costs:
+          2815: 2600
+        requirements:
+          - "reputation 2590 renown-7"
+
+      - id: 218344 # Honorary Councilmember's Spaulders [subclass=5 shoulders]
+        costs:
+          2815: 3250
+        requirements:
+          - "reputation 2590 renown-15"
+
+      - id: 223300 # Mineral-Sparkled Sandals [cloth feet]
+        costs:
+          2815: 3900
+        requirements:
+          - "reputation 2590 renown-16"
+
+      - id: 223303 # Gem-Wadded Footwraps [leather feet]
+        costs:
+          2815: 3900
+        requirements:
+          - "reputation 2590 renown-16"
+
+      - id: 223302 # Ore-namental Sabatons [mail feet]
+        costs:
+          2815: 3900
+        requirements:
+          - "reputation 2590 renown-16"
+
+      - id: 223301 # Chiseled Boulder Crushers [plate feet]
+        costs:
+          2815: 3900
+        requirements:
+          - "reputation 2590 renown-16"

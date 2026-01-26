@@ -4,6 +4,20 @@ tags:
   - "treasure"
 
 things:
+
+  - type: "object"
+    id: 453167
+    name: "Caesper"
+    note: "Bring him a {item:225238}"
+    reset: "never"
+    trackingQuestId: 83263
+    locations:
+      here:
+        - "41.8 58.3"
+    contents:
+      - type: "item"
+        id: 225639 # Recipe: Exquisitely Eviscerated Muscle [cooking]
+
   - type: "object"
     id: 441611
     name: "Windswept Satchel"
@@ -14,4 +28,4 @@ things:
         - "30.2 38.8"
     contents:
       - type: "item"
-        id: 224578 # Arathor Courier's Satchel
+        id: 224578 # Arathor Courier's Satchel [34 slot bag]

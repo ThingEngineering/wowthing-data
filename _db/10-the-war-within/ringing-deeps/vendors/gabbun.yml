@@ -1,0 +1,27 @@
+things:
+  - id: 256783
+    type: "vendor"
+    name: "Gabbun"
+    note: "Wax Decor Specialist"
+
+    locations:
+      here: # ringing_deeps
+        - 43.4 33.3
+
+    contents:
+
+      - id: 258267 # Candle-Festooned Wooden Awning [decor]
+        costs:
+          0: 10
+
+      - id: 258264 # Kobold Candle Trio [decor]
+        costs:
+          0: 10
+
+      - id: 258262 # Kobold Digger's Chair [decor]
+        costs:
+          0: 10
+
+      - id: 258265 # Kobold Wagon [decor]
+        costs:
+          0: 10
