@@ -1,0 +1,231 @@
+things:
+  - id: 249197
+    name: "Armorer Kalinovan"
+    type: "vendor"
+
+    locations:
+      "03-cataclsym/twilight_highlands":
+        - "49.7 81.3"
+
+    groups:
+      - name: "Prepatch - Cloth"
+        range: 8
+        sortKey: "prepatch-1-0"
+
+      - name: "Prepatch - Leather"
+        range: 8
+        sortKey: "prepatch-1-1"
+
+      - name: "Prepatch - Mail"
+        range: 8
+        sortKey: "prepatch-1-2"
+
+      - name: "Prepatch - Plate"
+        range: 8
+        sortKey: "prepatch-1-3"
+
+      - name: "Prepatch - Cloak"
+        range: 4
+        sortKey: "prepatch-1-5"
+
+      - name: "Prepatch - Weapon"
+        range: -1
+        sortKey: "prepatch-1-9"
+
+    contents:
+
+      # Cloth
+
+      - id: 246632 # Ascension Arrestor's Mitre [head]
+        costs:
+          3319: 40
+
+      - id: 246634 # Ascension Arrestor's Amice [shoulder]
+        costs:
+          3319: 40
+
+      - id: 246629 # Ascension Arrestor's Robe [chest]
+        costs:
+          3319: 40
+
+      - id: 246636 # Ascension Arrestor's Wraps [wrists]
+        costs:
+          3319: 40
+
+      - id: 246631 # Ascension Arrestor's Mitts [hands]
+        costs:
+          3319: 40
+
+      - id: 246635 # Ascension Arrestor's Cincture [waist]
+        costs:
+          3319: 40
+
+      - id: 246633 # Ascension Arrestor's Leggings [legs]
+        costs:
+          3319: 40
+
+      - id: 246630 # Ascension Arrestor's Soles [feet]
+        costs:
+          3319: 40
+
+      # Leather
+
+      - id: 246640 # Ascension Arrestor's Hood [head]
+        costs:
+          3319: 40
+
+      - id: 246642 # Ascension Arrestor's Mantle [shoulders]
+        costs:
+          3319: 40
+
+      - id: 246637 # Ascension Arrestor's Doublet [chest]
+        costs:
+          3319: 40
+
+      - id: 246644 # Ascension Arrestor's Bindings [wrists]
+        costs:
+          3319: 40
+
+      - id: 246639 # Ascension Arrestor's Gloves [hands]
+        costs:
+          3319: 40
+
+      - id: 246643 # Ascension Arrestor's Clasp [waist]
+        costs:
+          3319: 40
+
+      - id: 246641 # Ascension Arrestor's Breeches [legs]
+        costs:
+          3319: 40
+
+      - id: 246638 # Ascension Arrestor's Shoes [feet]
+        costs:
+          3319: 40
+
+      # Mail
+
+      - id: 246648 # Ascension Arrestor's Helmet [head]
+        costs:
+          3319: 40
+
+      - id: 246650 # Ascension Arrestor's Spaulders [shoulders]
+        costs:
+          3319: 40
+
+      - id: 246645 # Ascension Arrestor's Hauberk [chest]
+        costs:
+          3319: 40
+
+      - id: 246652 # Ascension Arrestor's Mail Cuffs [wrists]
+        costs:
+          3319: 40
+
+      - id: 246647 # Ascension Arrestor's Grips [hands]
+        costs:
+          3319: 40
+
+      - id: 246651 # Ascension Arrestor's Girdle [waist]
+        costs:
+          3319: 40
+
+      - id: 246649 # Ascension Arrestor's Petticoat [legs]
+        costs:
+          3319: 40
+
+      - id: 246646 # Ascension Arrestor's Boots [feet]
+        costs:
+          3319: 40
+
+      # Plate
+
+      - id: 246656 # Ascension Arrestor's Bascinet [head]
+        costs:
+          3319: 40
+
+      - id: 246658 # Ascension Arrestor's Pauldrons [shoulders]
+        costs:
+          3319: 40
+
+      - id: 246653 # Ascension Arrestor's Surcoat [chest]
+        costs:
+          3319: 40
+
+      - id: 246660 # Ascension Arrestor's Bracers [wrists]
+        costs:
+          3319: 40
+
+      - id: 246655 # Ascension Arrestor's Gauntlets [hands]
+        costs:
+          3319: 40
+
+      - id: 246659 # Ascension Arrestor's Greatbelt [waist]
+        costs:
+          3319: 40
+
+      - id: 246657 # Ascension Arrestor's Greaves [legs]
+        costs:
+          3319: 40
+
+      - id: 246654 # Ascension Arrestor's Sollerets [feet]
+        costs:
+          3319: 40
+
+      # Cloak
+      
+      - id: 246674 # Ascension Arrestor's Cape
+        costs:
+          3319: 40
+
+      - id: 246675 # Ascension Arrestor's Cloak
+        costs:
+          3319: 40
+
+      - id: 246673 # Ascension Arrestor's Cowl
+        costs:
+          3319: 40
+
+      - id: 246672 # Ascension Arrestor's Shawl
+        costs:
+          3319: 40
+
+      # Weapon
+
+      - id: 246662 # Ascension Arrestor's Axe [1h axe]
+        costs:
+          3319: 40
+
+      - id: 246664 # Ascension Arrestor's Cudgel [1h mace]
+        costs:
+          3319: 40
+
+      - id: 246663 # Ascension Arrestor's Mace [1h mace]
+        costs:
+          3319: 40
+
+      - id: 246995 # Ascension Arrestor's Dagger [dagger]
+        costs:
+          3319: 40
+
+      - id: 246670 # Ascension Arrestor's Warglaive [warglaive]
+        costs:
+          3319: 40
+
+      - id: 246667 # Ascension Arrestor's Greatsword [2h sword]
+        costs:
+          3319: 40
+
+      - id: 246665 # Ascension Arrestor's Spear [polearm]
+        costs:
+          3319: 40
+
+      - id: 246666 # Ascension Arrestor's Staff [stave]
+        costs:
+          3319: 40
+
+      - id: 246668 # Ascension Arrestor's Censer [off-hand]
+        costs:
+          3319: 40
+
+      - id: 246669 # Ascension Arrestor's Shield [shield]
+        costs:
+          3319: 40

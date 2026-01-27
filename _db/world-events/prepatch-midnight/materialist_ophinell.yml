@@ -1,0 +1,67 @@
+things:
+  - id: 249196
+    name: "Materialist Ophinell"
+    type: "vendor"
+
+    locations:
+      "03-cataclsym/twilight_highlands":
+        - "49.8 81.3"
+
+    groups:
+      - name: "Prepatch - Misc"
+        range: 6
+        sortKey: "prepatch-0-0"
+
+      - name: "Prepatch - Decor"
+        range: 3
+        sortKey: "prepatch-0-1"
+
+      - name: "Prepatch - Ensembles"
+        range: 2
+        sortKey: "prepatch-0-2"
+
+    contents:
+
+      - id: 224148 # Retrained Skyrazor [mount]
+        costs:
+          3319: 100
+
+      - id: 246628 # Emerald Sporbit [pet]
+        costs:
+          3319: 30
+
+      - id: 244911 # Rhay'Dahr [pet]
+        costs:
+          3319: 30
+
+      - id: 232856 # Scruff [pet]
+        costs:
+          3319: 30
+
+      - id: 249468 # Twilight's Blade Top Secret Strategy Training Guide [toy]
+        costs:
+          3319: 30
+
+      - id: 246627 # Twilight's Blade Tabard
+        costs:
+          0: 1
+
+      - id: 245330 # Enchanted Blood Elven Candelabra [decor]
+        costs:
+          3319: 50
+
+      - id: 245284 # Silvermoon Wooden Chair [decor]
+        costs:
+          3319: 50
+
+      - id: 251997 # Sin'dorei Winged Chaise [decor]
+        costs:
+          3319: 75
+
+      - id: 248218 # Arsenal: Weathered Twilight's Hammer Armaments
+        costs:
+          3319: 40
+
+      - id: 249438 # Ensemble: Well-Worn Twilight Cultist's Attire
+        costs:
+          3319: 40

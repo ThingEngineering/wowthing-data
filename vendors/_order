@@ -213,6 +213,8 @@ world-events/_world_events.yml
     world-events/a_greedy_emissary.yml
     world-events/anniversary.yml
     world-events/plunderstorm.yml
+    -
+    world-events/11-prepatch.yml
 
 -
 
