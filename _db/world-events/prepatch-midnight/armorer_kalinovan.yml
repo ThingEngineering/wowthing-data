@@ -30,7 +30,7 @@ things:
         sortKey: "prepatch-1-a5"
 
       - name: "Prepatch - Max Weapon"
-        range: 11
+        range: 10
         sortKey: "prepatch-1-a9"
 
       - name: "Prepatch - Low Cloth"
