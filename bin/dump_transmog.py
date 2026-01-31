@@ -108,6 +108,7 @@ DESCRIPTION_MAP = {
     13979: 'Primal Storms',
     13980: 'War Mode',
     13987: 'World and Weekly Quests',
+    13988: 'Dungeons',
     13989: 'Quest Rewards',
     13990: 'World Drops',
     13991: 'Professions',
@@ -132,6 +133,10 @@ DESCRIPTION_MAP = {
     14214: 'Rare Monsters',
     14349: 'Phase Diving',
     14350: 'Treasures and World Quests',
+    14405: 'World Quests',
+    14406: 'Rare Crafted',
+    14407: 'Epic Crafted',
+    14214: 'Rare Monsters',
 }
 DESCRIPTION_ORDER = [
     13145, # Mythic
