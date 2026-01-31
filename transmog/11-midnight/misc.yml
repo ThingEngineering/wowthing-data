@@ -1,0 +1,96 @@
+name: "Miscellaneous"
+groups:
+
+# group 380
+- name: "Thalassian Equipment"
+  type: armor
+  sets:
+    - "Quest Rewards"
+    - "Rare Monsters"
+    - "World Drops"
+    - "Rare Crafted"
+    - "Epic Crafted"
+  data:
+    cloth:
+      # Thalassian Cloth Armor [Quest Rewards]
+      - transmogSetId: 5610
+        wowheadSetId:
+
+      # Thalassian Cloth Armor [Rare Monsters]
+      - transmogSetId: 5631
+        wowheadSetId:
+
+      # Thalassian Cloth Armor [World Drop]
+      - transmogSetId: 5633
+        wowheadSetId:
+
+      # Thalassian Cloth Armor [Rare Crafted]
+      - transmogSetId: 5632
+        wowheadSetId:
+
+      # Thalassian Cloth Armor [Epic Crafted]
+      - transmogSetId: 5630
+        wowheadSetId:
+
+    leather:
+      # Thalassian Leather Armor [Quest Rewards]
+      - transmogSetId: 5611
+        wowheadSetId:
+
+      # Thalassian Leather Armor [Rare Monsters]
+      - transmogSetId: 5635
+        wowheadSetId:
+
+      # Thalassian Leather Armor [World Drop]
+      - transmogSetId: 5637
+        wowheadSetId:
+
+      # Thalassian Leather Armor [Rare Crafted]
+      - transmogSetId: 5636
+        wowheadSetId:
+
+      # Thalassian Leather Armor [Epic Crafted]
+      - transmogSetId: 5634
+        wowheadSetId:
+
+    mail:
+      # Thalassian Mail Armor [Quest Rewards]
+      - transmogSetId: 5612
+        wowheadSetId:
+
+      # Thalassian Mail Armor [Rare Monsters]
+      - transmogSetId: 5639
+        wowheadSetId:
+
+      # Thalassian Mail Armor [World Drop]
+      - transmogSetId: 5641
+        wowheadSetId:
+
+      # Thalassian Mail Armor [Rare Crafted]
+      - transmogSetId: 5640
+        wowheadSetId:
+
+      # Thalassian Mail Armor [Epic Crafted]
+      - transmogSetId: 5638
+        wowheadSetId:
+
+    plate:
+      # Thalassian Plate Armor [Quest Rewards]
+      - transmogSetId: 5613
+        wowheadSetId:
+
+      # Thalassian Plate Armor [Rare Monsters]
+      - transmogSetId: 5643
+        wowheadSetId:
+
+      # Thalassian Plate Armor [World Drop]
+      - transmogSetId: 5645
+        wowheadSetId:
+
+      # Thalassian Plate Armor [Rare Crafted]
+      - transmogSetId: 5644
+        wowheadSetId:
+
+      # Thalassian Plate Armor [Epic Crafted]
+      - transmogSetId: 5642
+        wowheadSetId:

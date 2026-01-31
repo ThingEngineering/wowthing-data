@@ -1,0 +1,171 @@
+name: PvP
+groups:
+
+# group 371
+- name: "Midnight Season 1"
+  tag: "S41"
+  type: class
+  sets:
+    - "Elite Armor*"
+    - "Gladiator Armor"
+  data:
+    death-knight:
+      # Galactic Gladiator's Plate Armor [Elite]
+      - transmogSetId: 5585
+        wowheadSetId:
+
+      # Galactic Gladiator's Plate Armor [Gladiator]
+      - transmogSetId: 5572
+        wowheadSetId:
+
+    demon-hunter:
+      # Galactic Gladiator's Leather Armor [Elite]
+      - transmogSetId: 5586
+        wowheadSetId:
+
+      # Galactic Gladiator's Leather Armor [Gladiator]
+      - transmogSetId: 5573
+        wowheadSetId:
+
+    druid:
+      # Galactic Gladiator's Leather Armor [Elite]
+      - transmogSetId: 5587
+        wowheadSetId:
+
+      # Galactic Gladiator's Leather Armor [Gladiator]
+      - transmogSetId: 5574
+        wowheadSetId:
+
+    evoker:
+      # Galactic Gladiator's Chain Armor [Elite]
+      - transmogSetId: 5588
+        wowheadSetId:
+
+      # Galactic Gladiator's Chain Armor [Gladiator]
+      - transmogSetId: 5575
+        wowheadSetId:
+
+    hunter:
+      # Galactic Gladiator's Chain Armor [Elite]
+      - transmogSetId: 5589
+        wowheadSetId:
+
+      # Galactic Gladiator's Chain Armor [Gladiator]
+      - transmogSetId: 5576
+        wowheadSetId:
+
+    mage:
+      # Galactic Gladiator's Silk Armor [Elite]
+      - transmogSetId: 5590
+        wowheadSetId:
+
+      # Galactic Gladiator's Silk Armor [Gladiator]
+      - transmogSetId: 5577
+        wowheadSetId:
+
+    monk:
+      # Galactic Gladiator's Leather Armor [Elite]
+      - transmogSetId: 5591
+        wowheadSetId:
+
+      # Galactic Gladiator's Leather Armor [Gladiator]
+      - transmogSetId: 5578
+        wowheadSetId:
+
+    paladin:
+      # Galactic Gladiator's Plate Armor [Elite]
+      - transmogSetId: 5592
+        wowheadSetId:
+
+      # Galactic Gladiator's Plate Armor [Gladiator]
+      - transmogSetId: 5579
+        wowheadSetId:
+
+    priest:
+      # Galactic Gladiator's Silk Armor [Elite]
+      - transmogSetId: 5593
+        wowheadSetId:
+
+      # Galactic Gladiator's Silk Armor [Gladiator]
+      - transmogSetId: 5580
+        wowheadSetId:
+
+    rogue:
+      # Galactic Gladiator's Leather Armor [Elite]
+      - transmogSetId: 5594
+        wowheadSetId:
+
+      # Galactic Gladiator's Leather Armor [Gladiator]
+      - transmogSetId: 5581
+        wowheadSetId:
+
+    shaman:
+      # Galactic Gladiator's Chain Armor [Elite]
+      - transmogSetId: 5595
+        wowheadSetId:
+
+      # Galactic Gladiator's Chain Armor [Gladiator]
+      - transmogSetId: 5582
+        wowheadSetId:
+
+    warlock:
+      # Galactic Gladiator's Silk Armor [Elite]
+      - transmogSetId: 5596
+        wowheadSetId:
+
+      # Galactic Gladiator's Silk Armor [Gladiator]
+      - transmogSetId: 5583
+        wowheadSetId:
+
+    warrior:
+      # Galactic Gladiator's Plate Armor [Elite]
+      - transmogSetId: 5597
+        wowheadSetId:
+
+      # Galactic Gladiator's Plate Armor [Gladiator]
+      - transmogSetId: 5584
+        wowheadSetId:
+
+# group 371/377
+- name: "Midnight Season 1"
+  tag: "S41"
+  type: armor
+  sets:
+    - "Aspirant Armor"
+    - "Warmonger Armor"
+  data:
+    cloth:
+      # Galactic Aspirant's Silk Armor [Aspirant]
+      - transmogSetId: 5469
+        wowheadSetId:
+
+      # Galactic Warmonger's Silk Armor [War Mode]
+      - transmogSetId: 5474
+        wowheadSetId:
+
+    leather:
+      # Galactic Aspirant's Leather Armor [Aspirant]
+      - transmogSetId: 5470
+        wowheadSetId:
+
+      # Galactic Warmonger's Leather Armor [War Mode]
+      - transmogSetId: 5475
+        wowheadSetId:
+
+    mail:
+      # Galactic Aspirant's Chain Armor [Aspirant]
+      - transmogSetId: 5471
+        wowheadSetId:
+
+      # Galactic Warmonger's Chain Armor [War Mode]
+      - transmogSetId: 5476
+        wowheadSetId:
+
+    plate:
+      # Galactic Aspirant's Plate Armor [Aspirant]
+      - transmogSetId: 5472
+        wowheadSetId:
+
+      # Galactic Warmonger's Plate Armor [War Mode]
+      - transmogSetId: 5477
+        wowheadSetId:

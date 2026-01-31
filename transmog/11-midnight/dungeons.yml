@@ -1,0 +1,28 @@
+name: "Dungeons"
+groups:
+
+# group 383
+- name: "Dungeons"
+  type: armor
+  sets:
+  - "Midnight Dungeon"
+  data:
+    cloth:
+      # Midnight Dungeon Cloth Armor [description=13988]
+      - transmogSetId: 5626
+        wowheadSetId:
+
+    leather:
+      # Midnight Dungeon Leather Armor [description=13988]
+      - transmogSetId: 5627
+        wowheadSetId:
+
+    mail:
+      # Midnight Dungeon Mail Armor [description=14405]
+      - transmogSetId: 5628
+        wowheadSetId:
+
+    plate:
+      # Midnight Dungeon Plate Armor [description=13988]
+      - transmogSetId: 5629
+        wowheadSetId:

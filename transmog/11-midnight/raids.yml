@@ -1,0 +1,233 @@
+name: "Raids"
+groups:
+
+# group 372
+- name: "The Voidspire"
+  tag: "T29"
+  type: class
+  sets:
+  - "Mythic"
+  - "Heroic"
+  - "Normal"
+  - "Raid Finder"
+  data:
+    death-knight:
+      # Relentless Rider's Lament [Mythic]
+      - transmogSetId: 5420
+        wowheadSetId:
+
+      # Relentless Rider's Lament [Heroic]
+      - transmogSetId: 5419
+        wowheadSetId:
+
+      # Relentless Rider's Lament [Normal]
+      - transmogSetId: 5418
+        wowheadSetId:
+
+      # Relentless Rider's Lament [Raid Finder]
+      - transmogSetId: 5417
+        wowheadSetId:
+
+    demon-hunter:
+      # Devouring Reaver's Sheathe [Mythic]
+      - transmogSetId: 5424
+        wowheadSetId:
+
+      # Devouring Reaver's Sheathe [Heroic]
+      - transmogSetId: 5423
+        wowheadSetId:
+
+      # Devouring Reaver's Sheathe [Normal]
+      - transmogSetId: 5422
+        wowheadSetId:
+
+      # Devouring Reaver's Sheathe [Raid Finder]
+      - transmogSetId: 5421
+        wowheadSetId:
+
+    druid:
+      # Sprouts of the Luminous Bloom [Mythic]
+      - transmogSetId: 5428
+        wowheadSetId:
+
+      # Sprouts of the Luminous Bloom [Heroic]
+      - transmogSetId: 5427
+        wowheadSetId:
+
+      # Sprouts of the Luminous Bloom [Normal]
+      - transmogSetId: 5426
+        wowheadSetId:
+
+      # Sprouts of the Luminous Bloom [Raid Finder]
+      - transmogSetId: 5425
+        wowheadSetId:
+
+    evoker:
+      # Livery of the Black Talon [Mythic]
+      - transmogSetId: 5432
+        wowheadSetId:
+
+      # Livery of the Black Talon [Heroic]
+      - transmogSetId: 5431
+        wowheadSetId:
+
+      # Livery of the Black Talon [Normal]
+      - transmogSetId: 5430
+        wowheadSetId:
+
+      # Livery of the Black Talon [Raid Finder]
+      - transmogSetId: 5429
+        wowheadSetId:
+
+    hunter:
+      # Primal Sentry's Camouflage [Mythic]
+      - transmogSetId: 5436
+        wowheadSetId:
+
+      # Primal Sentry's Camouflage [Heroic]
+      - transmogSetId: 5435
+        wowheadSetId:
+
+      # Primal Sentry's Camouflage [Normal]
+      - transmogSetId: 5434
+        wowheadSetId:
+
+      # Primal Sentry's Camouflage [Raid Finder]
+      - transmogSetId: 5433
+        wowheadSetId:
+
+    mage:
+      # Voidbreaker's Accordance [Mythic]
+      - transmogSetId: 5440
+        wowheadSetId:
+
+      # Voidbreaker's Accordance [Heroic]
+      - transmogSetId: 5439
+        wowheadSetId:
+
+      # Voidbreaker's Accordance [Normal]
+      - transmogSetId: 5438
+        wowheadSetId:
+
+      # Voidbreaker's Accordance [Raid Finder]
+      - transmogSetId: 5437
+        wowheadSetId:
+
+    monk:
+      # Way of Ra-den's Chosen [Mythic]
+      - transmogSetId: 5444
+        wowheadSetId:
+
+      # Way of Ra-den's Chosen [Heroic]
+      - transmogSetId: 5443
+        wowheadSetId:
+
+      # Way of Ra-den's Chosen [Normal]
+      - transmogSetId: 5442
+        wowheadSetId:
+
+      # Way of Ra-den's Chosen [Raid Finder]
+      - transmogSetId: 5441
+        wowheadSetId:
+
+    paladin:
+      # Luminant Verdict's Vestments [Mythic]
+      - transmogSetId: 5448
+        wowheadSetId:
+
+      # Luminant Verdict's Vestments [Heroic]
+      - transmogSetId: 5447
+        wowheadSetId:
+
+      # Luminant Verdict's Vestments [Normal]
+      - transmogSetId: 5446
+        wowheadSetId:
+
+      # Luminant Verdict's Vestments [Raid Finder]
+      - transmogSetId: 5445
+        wowheadSetId:
+
+    priest:
+      # Blind Oath's Burden [Mythic]
+      - transmogSetId: 5452
+        wowheadSetId:
+
+      # Blind Oath's Burden [Heroic]
+      - transmogSetId: 5451
+        wowheadSetId:
+
+      # Blind Oath's Burden [Normal]
+      - transmogSetId: 5450
+        wowheadSetId:
+
+      # Blind Oath's Burden [Raid Finder]
+      - transmogSetId: 5449
+        wowheadSetId:
+
+    rogue:
+      # Motley of the Grim Jest [Mythic]
+      - transmogSetId: 5456
+        wowheadSetId:
+
+      # Motley of the Grim Jest [Heroic]
+      - transmogSetId: 5455
+        wowheadSetId:
+
+      # Motley of the Grim Jest [Normal]
+      - transmogSetId: 5454
+        wowheadSetId:
+
+      # Motley of the Grim Jest [Raid Finder]
+      - transmogSetId: 5453
+        wowheadSetId:
+
+    shaman:
+      # Mantle of the Primal Core [Mythic]
+      - transmogSetId: 5460
+        wowheadSetId:
+
+      # Mantle of the Primal Core [Heroic]
+      - transmogSetId: 5459
+        wowheadSetId:
+
+      # Mantle of the Primal Core [Normal]
+      - transmogSetId: 5458
+        wowheadSetId:
+
+      # Mantle of the Primal Core [Raid Finder]
+      - transmogSetId: 5457
+        wowheadSetId:
+
+    warlock:
+      # Reign of the Abyssal Immolator [Mythic]
+      - transmogSetId: 5464
+        wowheadSetId:
+
+      # Reign of the Abyssal Immolator [Heroic]
+      - transmogSetId: 5463
+        wowheadSetId:
+
+      # Reign of the Abyssal Immolator [Normal]
+      - transmogSetId: 5462
+        wowheadSetId:
+
+      # Reign of the Abyssal Immolator [Raid Finder]
+      - transmogSetId: 5461
+        wowheadSetId:
+
+    warrior:
+      # Rage of the Night Ender [Mythic]
+      - transmogSetId: 5468
+        wowheadSetId:
+
+      # Rage of the Night Ender [Heroic]
+      - transmogSetId: 5467
+        wowheadSetId:
+
+      # Rage of the Night Ender [Normal]
+      - transmogSetId: 5466
+        wowheadSetId:
+
+      # Rage of the Night Ender [Raid Finder]
+      - transmogSetId: 5465
+        wowheadSetId:
