@@ -1,0 +1,96 @@
+things:
+  - id: 10001101
+    name: "Midnight Cloth"
+    type: "instance"
+    reset: "none"
+
+    groups:
+      - name: "Drops - Cloth"
+        range: -1
+
+    contents:
+      # Cloth
+      - id: 258863 # Threadbare Armbands
+      - id: 258858 # Threadbare Crown
+      - id: 258860 # Threadbare Leggings
+      - id: 258856 # Threadbare Mantle
+      - id: 258859 # Threadbare Mitts
+      - id: 258857 # Threadbare Sash
+      - id: 258861 # Threadbare Slippers
+      - id: 258862 # Threadbare Vestments
+
+  - id: 10001102
+    name: "Midnight Leather"
+    type: "instance"
+    reset: "none"
+
+    groups:
+      - name: "Drops - Leather"
+        range: -1
+
+    contents:
+      # Leather
+      - id: 258878 # Frayed Boots
+      - id: 258875 # Frayed Britches
+      - id: 258876 # Frayed Guise
+      - id: 258877 # Frayed Handwraps
+      - id: 258874 # Frayed Shoulderpads
+      - id: 258879 # Frayed Strap
+      - id: 258873 # Frayed Tunic
+      - id: 258872 # Frayed Wristwraps
+
+  - id: 10001103
+    name: "Midnight Mail"
+    type: "instance"
+    reset: "none"
+
+    groups:
+      - name: "Drops - Mail"
+        range: -1
+
+    contents:
+      # Mail
+      - id: 258855 # Stained Armguards
+      - id: 258850 # Stained Fistguards
+      - id: 258848 # Stained Girdle
+      - id: 258852 # Stained Greaves
+      - id: 258851 # Stained Hauberk
+      - id: 258849 # Stained Headguard
+      - id: 258854 # Stained Pauldrons
+      - id: 258853 # Stained Sabatons
+
+  - id: 10001104
+    name: "Midnight Plate"
+    type: "instance"
+    reset: "none"
+
+    groups:
+      - name: "Drops - Plate"
+        range: -1
+
+    contents:
+     # Plate
+      - id: 258871 # Brittle Armplates
+      - id: 258865 # Brittle Breastplate
+      - id: 258867 # Brittle Faceguard
+      - id: 258866 # Brittle Gauntlets
+      - id: 258868 # Brittle Legguards
+      - id: 258869 # Brittle Pauldrons
+      - id: 258864 # Brittle Waistguard
+      - id: 258870 # Brittle Warboots
+
+  - id: 10001105
+    name: "Midnight Cloaks"
+    type: "instance"
+    reset: "none"
+
+    groups:
+      - name: "Drops - Cloak"
+        range: -1
+
+    contents:
+      # Cloak
+      - id: 266224 # Brittle Cape
+      - id: 266221 # Frayed Shroud
+      - id: 266223 # Stained Drape
+      - id: 266216 # Threadbare Cloak
