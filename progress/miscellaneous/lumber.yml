@@ -4,8 +4,9 @@ groups:
 - name: "Lumber"
   icon: "spell/1266232" # Lumberjack
   lookup: none
-  type: quest
+  type: mixed
   data:
     0:
-      - name: "Lumber For You"
-        id: 93647
+      - name: "Find Lumber learned"
+        id: 1256697
+        type: spellKnown
