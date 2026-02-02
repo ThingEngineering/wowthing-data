@@ -9,15 +9,15 @@ things:
         range: -1
 
     contents:
-      # Cloth
-      - id: 258863 # Threadbare Armbands
-      - id: 258858 # Threadbare Crown
-      - id: 258860 # Threadbare Leggings
-      - id: 258856 # Threadbare Mantle
-      - id: 258859 # Threadbare Mitts
-      - id: 258857 # Threadbare Sash
-      - id: 258861 # Threadbare Slippers
-      - id: 258862 # Threadbare Vestments
+      - id: 258858 # Threadbare Crown [head]
+      - id: 258856 # Threadbare Mantle [shoulders]
+      - id: 266216 # Threadbare Cloak [back]
+      - id: 258862 # Threadbare Vestments [chest]
+      - id: 258863 # Threadbare Armbands [wrists]
+      - id: 258859 # Threadbare Mitts [hands]
+      - id: 258857 # Threadbare Sash [waist]
+      - id: 258860 # Threadbare Leggings [legs]
+      - id: 258861 # Threadbare Slippers [feet]
 
   - id: 10001102
     name: "Midnight Leather"
@@ -29,15 +29,15 @@ things:
         range: -1
 
     contents:
-      # Leather
-      - id: 258878 # Frayed Boots
-      - id: 258875 # Frayed Britches
-      - id: 258876 # Frayed Guise
-      - id: 258877 # Frayed Handwraps
-      - id: 258874 # Frayed Shoulderpads
-      - id: 258879 # Frayed Strap
-      - id: 258873 # Frayed Tunic
-      - id: 258872 # Frayed Wristwraps
+      - id: 258876 # Frayed Guise [head]
+      - id: 258874 # Frayed Shoulderpads [shoulders]
+      - id: 266221 # Frayed Shroud [back]
+      - id: 258873 # Frayed Tunic [chest]
+      - id: 258872 # Frayed Wristwraps [wrists]
+      - id: 258877 # Frayed Handwraps [hands]
+      - id: 258879 # Frayed Strap [waist]
+      - id: 258875 # Frayed Britches [legs]
+      - id: 258878 # Frayed Boots [feet]
 
   - id: 10001103
     name: "Midnight Mail"
@@ -49,15 +49,15 @@ things:
         range: -1
 
     contents:
-      # Mail
-      - id: 258855 # Stained Armguards
-      - id: 258850 # Stained Fistguards
-      - id: 258848 # Stained Girdle
-      - id: 258852 # Stained Greaves
-      - id: 258851 # Stained Hauberk
-      - id: 258849 # Stained Headguard
-      - id: 258854 # Stained Pauldrons
-      - id: 258853 # Stained Sabatons
+      - id: 258849 # Stained Headguard [head]
+      - id: 258854 # Stained Pauldrons [shoulders]
+      - id: 266223 # Stained Drape [back]
+      - id: 258851 # Stained Hauberk [chest]
+      - id: 258855 # Stained Armguards [wrists]
+      - id: 258850 # Stained Fistguards [hands]
+      - id: 258848 # Stained Girdle [waist]
+      - id: 258852 # Stained Greaves [legs]
+      - id: 258853 # Stained Sabatons [feet]
 
   - id: 10001104
     name: "Midnight Plate"
@@ -69,28 +69,12 @@ things:
         range: -1
 
     contents:
-     # Plate
-      - id: 258871 # Brittle Armplates
-      - id: 258865 # Brittle Breastplate
-      - id: 258867 # Brittle Faceguard
-      - id: 258866 # Brittle Gauntlets
-      - id: 258868 # Brittle Legguards
-      - id: 258869 # Brittle Pauldrons
-      - id: 258864 # Brittle Waistguard
-      - id: 258870 # Brittle Warboots
-
-  - id: 10001105
-    name: "Midnight Cloaks"
-    type: "instance"
-    reset: "none"
-
-    groups:
-      - name: "Drops - Cloak"
-        range: -1
-
-    contents:
-      # Cloak
-      - id: 266224 # Brittle Cape
-      - id: 266221 # Frayed Shroud
-      - id: 266223 # Stained Drape
-      - id: 266216 # Threadbare Cloak
+      - id: 258867 # Brittle Faceguard [head]
+      - id: 258869 # Brittle Pauldrons [shoulders]
+      - id: 266224 # Brittle Cape [back]
+      - id: 258865 # Brittle Breastplate [chest]
+      - id: 258871 # Brittle Armplates [wrists]
+      - id: 258866 # Brittle Gauntlets [hands]
+      - id: 258864 # Brittle Waistguard [waist]
+      - id: 258868 # Brittle Legguards [legs]
+      - id: 258870 # Brittle Warboots [feet]
