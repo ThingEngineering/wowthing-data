@@ -37,6 +37,7 @@
 -
 
 raids.yml
+    11-midnight/raids.yml Midnight
     10-the-war-within/raids.yml War Within
     09-dragonflight/raids.yml Dragonflight
     08-shadowlands/raids.yml Shadowlands
@@ -50,6 +51,7 @@ raids.yml
     00-classic/raids.yml Classic
 
 dungeons.yml
+    11-midnight/dungeons.yml Midnight
     07-battle-for-azeroth/dungeons.yml Battle for Azeroth
     06-legion/dungeons.yml Legion
     04-mists-of-pandaria/dungeons.yml Mists of Pandaria
@@ -57,6 +59,7 @@ dungeons.yml
     00-classic/dungeons.yml Classic
 
 pvp.yml
+    11-midnight/pvp.yml Midnight
     10-the-war-within/pvp.yml War Within
     09-dragonflight/pvp.yml Dragonflight
     08-shadowlands/pvp.yml Shadowlands
