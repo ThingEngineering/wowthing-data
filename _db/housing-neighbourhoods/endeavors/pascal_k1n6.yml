@@ -1,0 +1,87 @@
+things:
+  - id: 248525
+    type: "vendor"
+    name: "Pascal-K1N6"
+    note: "Endeavor Trader"
+
+    locations:
+      housing/razorwind_shores: # razorwind_shores
+        - 54.2 56
+      housing/founders_point: # founders_point
+        - 52.8 37.8
+
+    groups:
+      - name: "Endeavors - Mechagnome"
+        range: -1
+
+    contents:
+
+      # 0
+
+      - id: 254416 # Galvanic Storage and Maintenance Device
+        costs:
+          3363: 15
+
+      - id: 254415 # Miniature Charging Station
+        costs:
+          3363: 20
+
+      - id: 254410 # Blue-Glo Lantern
+        costs:
+          3363: 5
+
+      - id: 254407 # Dual Mechanical Gauge
+        costs:
+          3363: 2
+
+      - id: 254405 # Dual-Action Turbo Pro Lever
+        costs:
+          3363: 2
+
+      - id: 254766 # Ineffective Mechanical Privacy Screen
+        costs:
+          3363: 10
+
+      - id: 254413 # Jury-Rigged Electrical Couple
+        costs:
+          3363: 2
+
+      - id: 254408 # Lively Pistons
+        costs:
+          3363: 2
+
+      - id: 254401 # Mad Science Blueprints
+        costs:
+          3363: 5
+
+      - id: 254403 # Mechagon Control Console
+        costs:
+          3363: 10
+
+      - id: 254406 # Mechanical Gauge
+        costs:
+          3363: 2
+
+      - id: 254402 # Safety Electrical Cabling
+        costs:
+          3363: 5
+
+      - id: 254404 # Sticky Lever
+        costs:
+          3363: 2
+
+      - id: 254409 # Sturdy Drive Belt
+        costs:
+          3363: 2
+
+      - id: 254400 # Triple-Tested Steam Valve
+        costs:
+          3363: 2
+
+      - id: 254412 # Well-Oiled Machine Cog
+        costs:
+          3363: 2
+
+      - id: 254411 # Z-205 Mechanical Device
+        costs:
+          3363: 10

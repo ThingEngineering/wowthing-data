@@ -1,0 +1,225 @@
+things:
+  - id: 255325
+    type: "vendor"
+    name: '"High Tides" Ren'
+    note: "Decor Vendor"
+
+    locations:
+      here: # razorwind_shores
+        - 39.8 72.8
+
+    contents:
+
+      # 0
+
+      - id: 244778 # Sethraliss Priest's Pillow
+        costs:
+          0: 1 # Gold
+
+      - id: 245383 # "Sunrise Canyon" Painting
+        costs:
+          0: 150 # Gold
+
+      - id: 246502 # Charming Couch
+        costs:
+          0: 100 # Gold
+
+      - id: 245267 # Charming Seat Cushion
+        costs:
+          0: 10 # Gold
+
+      - id: 245268 # Checkered Charming Seat Cushion
+        costs:
+          0: 10 # Gold
+
+      - id: 235633 # Circular Woolen Rug
+        costs:
+          0: 50 # Gold
+
+      - id: 244665 # Closed Folk Curtains
+        costs:
+          0: 50 # Gold
+
+      - id: 244666 # Durable Folk Valance
+        costs:
+          0: 50 # Gold
+
+      - id: 245335 # Empty Wicker Basket
+        costs:
+          0: 10 # Gold
+
+      - id: 258670 # Empty Wooden Bathtub
+        costs:
+          0: 75 # Gold
+
+      - id: 252659 # Founder's Point Front Door
+        costs:
+          0: 75 # Gold
+
+      - id: 245356 # Goldshire Window
+        costs:
+          0: 50 # Gold
+
+      - id: 245548 # Iron-Reinforced Cupboard
+        costs:
+          0: 100 # Gold
+
+      - id: 245556 # Iron-Reinforced Standing Mirror
+        costs:
+          0: 100 # Gold
+
+      - id: 245353 # Open Wooden Coffin
+        costs:
+          0: 75 # Gold
+
+      - id: 245394 # Plain Interior Doorway
+        costs:
+          0: 100 # Gold
+
+      - id: 245395 # Plain Interior Narrow Wall
+        costs:
+          0: 75 # Gold
+
+      - id: 245393 # Plain Interior Wall
+        costs:
+          0: 100 # Gold
+
+      - id: 252417 # Plush Cushioned Chair
+        costs:
+          0: 50 # Gold
+
+      - id: 245370 # Secretive Bookcase Wall
+        costs:
+          0: 125 # Gold
+
+      - id: 253589 # Short Wooden Cabinet
+        costs:
+          0: 75 # Gold
+
+      - id: 245358 # Small Fruit Platter
+        costs:
+          0: 10 # Gold
+
+      - id: 246103 # Small Wooden Nightstand
+        costs:
+          0: 25 # Gold
+
+      - id: 246101 # Small Wooden Stool
+        costs:
+          0: 10 # Gold
+
+      - id: 246248 # Stormwind Angled Platform
+        costs:
+          0: 50 # Gold
+
+      - id: 246243 # Stormwind Beam Platform
+        costs:
+          0: 50 # Gold
+
+      - id: 242255 # Stormwind Hall Rug
+        costs:
+          0: 75 # Gold
+
+      - id: 236678 # Stormwind Interior Doorway
+        costs:
+          0: 100 # Gold
+
+      - id: 236676 # Stormwind Interior Narrow Wall
+        costs:
+          0: 75 # Gold
+
+      - id: 236675 # Stormwind Interior Pillar
+        costs:
+          0: 50 # Gold
+
+      - id: 236677 # Stormwind Interior Wall
+        costs:
+          0: 100 # Gold
+
+      - id: 246246 # Stormwind Large Platform
+        costs:
+          0: 125 # Gold
+
+      - id: 246245 # Stormwind Round Platform
+        costs:
+          0: 100 # Gold
+
+      - id: 246247 # Stormwind Small Platform
+        costs:
+          0: 75 # Gold
+
+      - id: 244531 # Sturdy Fireplace
+        costs:
+          0: 100 # Gold
+
+      - id: 244530 # Sturdy Wall Rack
+        costs:
+          0: 75 # Gold
+
+      - id: 253593 # Sturdy Wooden Bathtub
+        costs:
+          0: 125 # Gold
+
+      - id: 245336 # Sturdy Wooden Bed
+        costs:
+          0: 100 # Gold
+
+      - id: 245375 # Sturdy Wooden Bookcase
+        costs:
+          0: 100 # Gold
+
+      - id: 245352 # Sturdy Wooden Coffin
+        costs:
+          0: 50 # Gold
+
+      - id: 245355 # Sturdy Wooden Interior Door
+        costs:
+          0: 50 # Gold
+
+      - id: 245392 # Sturdy Wooden Interior Pillar
+        costs:
+          0: 50 # Gold
+
+      - id: 245384 # Sturdy Wooden Shelf
+        costs:
+          0: 50 # Gold
+
+      - id: 253592 # Sturdy Wooden Washbasin
+        costs:
+          0: 75 # Gold
+
+      - id: 245376 # Tall Sturdy Wooden Bookcase
+        costs:
+          0: 125 # Gold
+
+      - id: 235675 # Three-Candle Wrought Iron Chandelier
+        costs:
+          0: 50 # Gold
+
+      - id: 244664 # Tied-Open Folk Curtains
+        costs:
+          0: 50 # Gold
+
+      - id: 245334 # Wicker Basket
+        costs:
+          0: 10 # Gold
+
+      - id: 245547 # Wide Charming Couch
+        costs:
+          0: 100 # Gold
+
+      - id: 246106 # Wooden Chamberstick
+        costs:
+          0: 10 # Gold
+
+      - id: 245354 # Wooden Coffin Lid
+        costs:
+          0: 25 # Gold
+
+      - id: 239075 # Wrought Iron Chandelier
+        costs:
+          0: 50 # Gold
+
+      - id: 235677 # Wrought Iron Floor Lamp
+        costs:
+          0: 50 # Gold

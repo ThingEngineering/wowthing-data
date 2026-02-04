@@ -1,0 +1,71 @@
+things:
+  - id: 257897
+    type: "vendor"
+    name: "Harlowe Marl"
+    note: "Endeavor Trader"
+
+    locations:
+      housing/razorwind_shores: # razorwind_shores
+        - 54.2 56.2
+      housing/founders_point: # founders_point
+        - 53 38
+
+    groups:
+      - name: "Endeavors - Niffen"
+        range: -1
+
+    contents:
+
+      # 0
+
+      - id: 264916 # Loamm Bartering Stall
+        costs:
+          3363: 20
+
+      - id: 264921 # Zaralek Snail Cart
+        costs:
+          3363: 20
+
+      - id: 264917 # Ceramic Loamm Bowl
+        costs:
+          3363: 5
+
+      - id: 264915 # Decorated Underground Table
+        costs:
+          3363: 15
+
+      - id: 264920 # Gooey Niffen Jar
+        costs:
+          3363: 5
+
+      - id: 265032 # Hearty Niffen Grub
+        costs:
+          3363: 5
+
+      - id: 264925 # Kilnmaster's Bucket
+        costs:
+          3363: 5
+
+      - id: 264919 # Loamm Archway
+        costs:
+          3363: 20
+
+      - id: 264924 # Loamm Wheelpot
+        costs:
+          3363: 10
+
+      - id: 265541 # Loammy Soil
+        costs:
+          3363: 1
+
+      - id: 264922 # Strong Sniffin' Incense
+        costs:
+          3363: 2
+
+      - id: 264923 # Underdecorated Underground Table
+        costs:
+          3363: 15
+
+      - id: 264918 # Zaralek Candles
+        costs:
+          3363: 2

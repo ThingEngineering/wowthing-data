@@ -1,0 +1,253 @@
+things:
+  - id: 255222
+    type: "vendor"
+    name: '"High Tides" Ren'
+    note: "Decor Vendor"
+
+    locations:
+      here: # founders_point
+        - 62.4 80
+
+    contents:
+
+      # 0
+
+      - id: 244778 # Sethraliss Priest's Pillow
+        costs:
+          0: 1 # Gold
+
+      - id: 244662 # Closed Leather Curtains
+        costs:
+          0: 50 # Gold
+
+      - id: 246223 # Cozy Hide-Covered Bench
+        costs:
+          0: 75 # Gold
+
+      - id: 246607 # Durable Hex Table
+        costs:
+          0: 75 # Gold
+
+      - id: 250094 # Empty Orgrimmar Bathtub
+        costs:
+          0: 75 # Gold
+
+      - id: 251639 # Hide-Covered Bench
+        costs:
+          0: 100 # Gold
+
+      - id: 251973 # Hide-Covered Wall Shelf
+        costs:
+          0: 50 # Gold
+
+      - id: 246036 # High-Backed Orgrimmar Chair
+        costs:
+          0: 75 # Gold
+
+      - id: 250920 # Horned Hanging Sconce
+        costs:
+          0: 25 # Gold
+
+      - id: 244533 # Iron Chain Chandelier
+        costs:
+          0: 50 # Gold
+
+      - id: 244534 # Iron-Reinforced Door
+        costs:
+          0: 50 # Gold
+
+      - id: 246037 # Iron-Reinforced Wooden Rack
+        costs:
+          0: 75 # Gold
+
+      - id: 257389 # Iron-Reinforced Wooden Window
+        costs:
+          0: 50 # Gold
+
+      - id: 245266 # Iron-Studded Wooden Window
+        costs:
+          0: 50 # Gold
+
+      - id: 246224 # Large Orgrimmar Bookcase
+        costs:
+          0: 75 # Gold
+
+      - id: 244663 # Leather Valance
+        costs:
+          0: 50 # Gold
+
+      - id: 246613 # Long Durable Table
+        costs:
+          0: 125 # Gold
+
+      - id: 246608 # Long Leather-Clad Table
+        costs:
+          0: 125 # Gold
+
+      - id: 246263 # Orgrimmar Angled Platform
+        costs:
+          0: 50 # Gold
+
+      - id: 258148 # Orgrimmar Bathtub
+        costs:
+          0: 75 # Gold
+
+      - id: 246259 # Orgrimmar Beam Platform
+        costs:
+          0: 50 # Gold
+
+      - id: 245680 # Orgrimmar Bureaucrat's Desk
+        costs:
+          0: 75 # Gold
+
+      - id: 245532 # Orgrimmar Chair
+        costs:
+          0: 50 # Gold
+
+      - id: 236654 # Orgrimmar Interior Doorway
+        costs:
+          0: 100 # Gold
+
+      - id: 236653 # Orgrimmar Interior Narrow Wall
+        costs:
+          0: 75 # Gold
+
+      - id: 236655 # Orgrimmar Interior Wall
+        costs:
+          0: 100 # Gold
+
+      - id: 246261 # Orgrimmar Large Platform
+        costs:
+          0: 125 # Gold
+
+      - id: 245545 # Orgrimmar Nightstand
+        costs:
+          0: 25 # Gold
+
+      - id: 246609 # Orgrimmar Open Dresser
+        costs:
+          0: 100 # Gold
+
+      - id: 236666 # Orgrimmar Round Interior Pillar
+        costs:
+          0: 50 # Gold
+
+      - id: 246260 # Orgrimmar Round Platform
+        costs:
+          0: 100 # Gold
+
+      - id: 246262 # Orgrimmar Small Platform
+        costs:
+          0: 75 # Gold
+
+      - id: 236667 # Orgrimmar Square Interior Pillar
+        costs:
+          0: 50 # Gold
+
+      - id: 245555 # Orgrimmar Tusked Bed
+        costs:
+          0: 100 # Gold
+
+      - id: 245394 # Plain Interior Doorway
+        costs:
+          0: 100 # Gold
+
+      - id: 245395 # Plain Interior Narrow Wall
+        costs:
+          0: 75 # Gold
+
+      - id: 245393 # Plain Interior Wall
+        costs:
+          0: 100 # Gold
+
+      - id: 246614 # Razorwind Bar Table
+        costs:
+          0: 100 # Gold
+
+      - id: 256050 # Razorwind Shores Front Door
+        costs:
+          0: 75 # Gold
+
+      - id: 246610 # Razorwind Standing Mirror
+        costs:
+          0: 100 # Gold
+
+      - id: 248246 # Razorwind Storage Table
+        costs:
+          0: 75 # Gold
+
+      - id: 246869 # Razorwind Wall Mirror
+        costs:
+          0: 75 # Gold
+
+      - id: 245264 # Round Stitched Cushion
+        costs:
+          0: 10 # Gold
+
+      - id: 246587 # Short Orgrimmar Bookcase
+        costs:
+          0: 25 # Gold
+
+      - id: 246225 # Small Leather Rug
+        costs:
+          0: 50 # Gold
+
+      - id: 247221 # Small Orgrimmar Chair
+        costs:
+          0: 50 # Gold
+
+      - id: 254316 # Small Orgrimmar Tusked Bed
+        costs:
+          0: 75 # Gold
+
+      - id: 250913 # Small Razorwind Bar Table
+        costs:
+          0: 75 # Gold
+
+      - id: 254560 # Small Razorwind Square Table
+        costs:
+          0: 50 # Gold
+
+      - id: 246038 # Stitched Leather Rug
+        costs:
+          0: 75 # Gold
+
+      - id: 245265 # Stitched Pillow Roll
+        costs:
+          0: 10 # Gold
+
+      - id: 244661 # Tied-Open Leather Curtains
+        costs:
+          0: 50 # Gold
+
+      - id: 252657 # Tied-Right Leather Curtains
+        costs:
+          0: 50 # Gold
+
+      - id: 246687 # Tusked Candleholder
+        costs:
+          0: 10 # Gold
+
+      - id: 251974 # Tusked Chandelier
+        costs:
+          0: 50 # Gold
+
+      - id: 245398 # Tusked Fireplace
+        costs:
+          0: 100 # Gold
+
+      - id: 246879 # Tusked Hanging Sconce
+        costs:
+          0: 25 # Gold
+
+      - id: 251975 # Tusked Sconce
+        costs:
+          0: 25 # Gold
+
+      - id: 250093 # Tusked Weapon Rack
+        costs:
+          0: 75 # Gold
+
+      - id: 251976 # Wolf Pelt Rug
+        costs:
+          0: 50 # Gold

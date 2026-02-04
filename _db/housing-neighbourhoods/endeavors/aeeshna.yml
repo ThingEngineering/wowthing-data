@@ -1,0 +1,67 @@
+things:
+  - id: 252605
+    type: "vendor"
+    name: "Aeeshna"
+    note: "Endeavor Trader"
+
+    locations:
+      housing/razorwind_shores: # razorwind_shores
+        - 54.4 56.2
+      housing/founders_point: # founders_point
+        - 53 38.2
+
+    groups:
+      - name: "Endeavors - K'areshi"
+        range: -1
+
+    contents:
+
+      # 0
+
+      - id: 263045 # Consortium Energy Collector
+        costs:
+          3363: 20
+
+      - id: 262907 # Tazaveshi Hookah
+        costs:
+          3363: 10
+
+      - id: 262664 # Complete Guide to K'areshi Wrappings, Vol. 11
+        costs:
+          3363: 5
+
+      - id: 263048 # Consortium Energy Banner
+        costs:
+          3363: 15
+
+      - id: 263043 # Consortium Energy Barrel
+        costs:
+          3363: 10
+
+      - id: 263046 # Consortium Energy Crate
+        costs:
+          3363: 10
+
+      - id: 262884 # Consortium Glowpost
+        costs:
+          3363: 10
+
+      - id: 263044 # Empty Consortium Energy Barrel
+        costs:
+          3363: 5
+
+      - id: 263047 # Empty Consortium Energy Crate
+        costs:
+          3363: 5
+
+      - id: 262665 # K'areshi Holo-Crystal Projector
+        costs:
+          3363: 5
+
+      - id: 262666 # K'areshi Incense Burner
+        costs:
+          3363: 2
+
+      - id: 262667 # Oath Scale
+        costs:
+          3363: 5
