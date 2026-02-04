@@ -259,7 +259,11 @@ def main():
         else:
             print(f'    type: "vendor"')
 
-        print(f'    name: "{npc["name"]}"')
+        if '"' in npc["name"]:
+            print(f'    name: \'{npc["name"]}\'')
+        else:
+            print(f'    name: "{npc["name"]}"')
+
         if 'tag' in npc:
             print(f'    note: "{npc["tag"]}"')
 
