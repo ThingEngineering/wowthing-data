@@ -10,6 +10,10 @@ things:
 
     contents:
 
+      - id: 248125 # Portal to Damnation [decor]
+        costs:
+          1767: 10000
+
       - id: 183248 # Memory of Jailer's Eye
         costs:
           1767: 4986
