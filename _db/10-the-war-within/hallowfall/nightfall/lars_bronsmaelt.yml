@@ -39,6 +39,10 @@ things:
         costs:
           2815: 5000
 
+      - id: 245293 # Collection of Arathi Scripture [decor]
+        costs:
+          2815: 1200
+
       - id: 238839 # Delver's Dirigible Schematic: Arathi Decal
         costs:
           2815: 2600
