@@ -1,0 +1,21 @@
+things:
+  - id: 54537 # Heart-Shaped Box
+    type: "item"
+    reset: "daily"
+    trackingQuestId: 74957
+    accountWide: true
+
+    groups:
+      - name: "{item:54537}"
+        range: -1
+
+    contents:
+      - id: 232926 # Love Witch's Sweeper [mount]
+      - id: 50250 # X-45 Heartbreaker [mount]
+      - id: 50446 # Toxic Wasteling [pet]
+      - id: 50471 # The Heartbreaker [toy]
+
+      - id: 211812 # Renewed Proto-Drake: Love Armor [dragon thing]
+
+      - id: 49715 # Forever-Lovely Rose [cosmetic head]
+      - id: 50741 # Vile Fumigator's Mask [cosmetic head]

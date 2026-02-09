@@ -1,0 +1,64 @@
+things:
+  - id: 211887
+    type: "vendor"
+    name: "Sylandra Silverbreeze"
+    note: "Flower Vendor"
+
+    locations:
+      elwynn_forest:
+        - 34.2 48.8 alliance
+
+    contents: &flower-contents
+
+      # 0
+
+      - id: 211359 # Eternal Black Rose [subclass=5 head]
+        costs:
+          1049927: 20
+
+      - id: 211358 # Eternal Blue Rose [subclass=5 head]
+        costs:
+          1049927: 20
+
+      - id: 211357 # Eternal Orange Rose [subclass=5 head]
+        costs:
+          1049927: 20
+
+      - id: 211355 # Eternal Pink Rose [subclass=5 head]
+        costs:
+          1049927: 20
+
+      - id: 211354 # Eternal White Rose [subclass=5 head]
+        costs:
+          1049927: 20
+
+      - id: 211352 # Eternal Yellow Rose [subclass=5 head]
+        costs:
+          1049927: 20
+
+      - id: 3420 # Black Rose [off-hand]
+        costs:
+        0: 1 # Gold
+
+      - id: 3419 # Red Rose [off-hand]
+        costs:
+        0: 1 # Gold
+
+      - id: 3422 # Beautiful Wildflowers [off-hand]
+        costs:
+        0: 1 # Gold
+
+      - id: 3421 # Simple Wildflowers [off-hand]
+        costs:
+        0: 1 # Gold
+
+  - id: 214488
+    type: "vendor"
+    name: "Hana Breezeheart"
+    note: "Flower Vendor"
+
+    locations:
+      durotar:
+        - 41.4 17.8 horde
+
+    contents: *flower-contents
