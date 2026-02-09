@@ -8,7 +8,16 @@ things:
       elwynn_forest:
         - 34.2 48.8 alliance
 
-    contents: &flower-contents
+    groups: &groups
+      - name: "Armor"
+        range: 6
+        sortKey: "love-5"
+
+      - name: "Weapons"
+        range: 4
+        sortKey: "love-6"
+
+    contents: &contents
 
       # 0
 
@@ -61,4 +70,6 @@ things:
       durotar:
         - 41.4 17.8 horde
 
-    contents: *flower-contents
+    groups: *groups
+
+    contents: *contents

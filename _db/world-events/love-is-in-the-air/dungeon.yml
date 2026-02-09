@@ -10,9 +10,13 @@ things:
         range: -1
 
     contents:
+      # fuck you and your bullshit rng mounts, blizzard
       - id: 232926 # Love Witch's Sweeper [mount]
+      - id: 235658 # Spring Butterfly [mount]
       - id: 50250 # X-45 Heartbreaker [mount]
+
       - id: 50446 # Toxic Wasteling [pet]
+      
       - id: 50471 # The Heartbreaker [toy]
 
       - id: 211812 # Renewed Proto-Drake: Love Armor [dragon thing]

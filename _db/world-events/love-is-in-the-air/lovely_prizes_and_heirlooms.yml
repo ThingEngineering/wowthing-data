@@ -8,7 +8,32 @@ things:
       elwynn_forest:
         - 32.2 50.4 alliance
 
-    contents: &lovely-contents
+    groups: &groups
+      - name: "Mounts"
+        range: 2
+        sortKey: "love-1"
+      
+      - name: "Pets"
+        range: 4
+        sortKey: "love-2"
+
+      - name: "Toys"
+        range: 6
+        sortKey: "love-3"
+      
+      - name: "Ensembles"
+        range: 2
+        sortKey: "love-4"
+
+      - name: "Armor"
+        range: 7
+        sortKey: "love-5"
+
+      - name: "Weapons"
+        range: 5
+        sortKey: "love-6"
+
+    contents: &contents
 
       # Mounts
 
@@ -66,6 +91,10 @@ things:
 
       # Transmog
 
+      - id: 235227 # Ensemble: Ornaments of the Spring Butterfly
+        costs:
+          1049927: 40
+
       - id: 232925 # Ensemble: Truly Heartfelt Shoulders
         costs:
           1049927: 40
@@ -98,6 +127,28 @@ things:
         costs:
           1049927: 20
 
+      # Weapons
+
+      - id: 235269 # Spring Butterfly Mace [1h mace]
+        costs:
+          1049927: 30
+
+      - id: 235289 # Spring Butterfly Sword [1h sword]
+        costs:
+          1049927: 30
+
+      - id: 235399 # Spring Butterfly Polearm [polearm]
+        costs:
+          1049927: 30
+
+      - id: 235653 # Spring Butterfly Longbow [bow]
+        costs:
+          1049927: 30
+
+      - id: 235293 # Spring Butterfly Wand [wand]
+        costs:
+          1049927: 30
+
   - id: 214481
     type: "vendor"
     name: "Lythianne Morningspear"
@@ -107,4 +158,6 @@ things:
       durotar:
         - 41.8 17.2 horde
 
-    contents: *lovely-contents
+    groups: *groups
+
+    contents: *contents
