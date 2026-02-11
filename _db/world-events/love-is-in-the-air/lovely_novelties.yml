@@ -1,0 +1,32 @@
+things:
+  - id: 211873
+    type: "vendor"
+    name: "Bang Sparknozzle"
+    note: "Lovely Novelties"
+
+    locations:
+      00-classic/elwynn_forest:
+        - 33.4 47.8 alliance
+
+    groups: &groups
+      - name: "Toys"
+        range: -1
+        sortKey: "love-3"
+
+    contents: &contents
+      - id: 144339 # Sturdy Love Fool [toy]
+        costs:
+          1049927: 100
+
+  - id: 214489
+    type: "vendor"
+    name: "Zikky"
+    note: "Lovely Novelties"
+
+    locations:
+      00-classic/durotar:
+        - 41 17 horde
+
+    groups: *groups
+
+    contents: *contents
