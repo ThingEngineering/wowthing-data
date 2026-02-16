@@ -1,0 +1,12 @@
+name: "Lunar Festival"
+groups:
+
+- name: "Lunar Festival Quests"
+  icon: "item/21100"
+  lookup: none
+  type: quest
+  data:
+    0:
+      - id: 56842
+        name: "Lunar Preservation"
+        description: "Visit a bunch of moonwells for {price:25|1021100}"
