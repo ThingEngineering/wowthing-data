@@ -13,12 +13,6 @@ things:
 
     contents:
 
-      # Customizations
-
-      - id: 211868 # Winding Slitherdrake: Lunar Festival Armor
-        costs:
-          0: 50000 # Gold
-
       # Mounts
 
       - id: 232901 # Lunar Launcher
@@ -34,6 +28,12 @@ things:
       - id: 74610 # Lunar Lantern
         costs:
           1021100: 50
+
+      # Customizations
+
+      - id: 211868 # Winding Slitherdrake: Lunar Festival Armor
+        costs:
+          0: 50000 # Gold
 
       # Armor
 
@@ -88,12 +88,6 @@ things:
 
     contents:
 
-      # Customizations
-
-      - id: 211868 # Winding Slitherdrake: Lunar Festival Armor
-        costs:
-          0: 50000 # Gold
-
       # Toys
 
       - id: 89999 # Everlasting Alliance Firework
@@ -143,6 +137,12 @@ things:
       - id: 143829 # Red Dragon Tail Costume
         costs:
           1021100: 25
+
+      # Customizations
+
+      - id: 211868 # Winding Slitherdrake: Lunar Festival Armor
+        costs:
+          0: 50000 # Gold
 
       # Recipes
 
@@ -229,3 +229,33 @@ things:
       - id: 21735 # Large Red Rocket Cluster
         costs:
           1021100: 5
+
+      # Ensemble
+      
+      - id: 234059 # Ensemble: Ornate Violet Lunar Festival Attire
+        costs:
+          1021100: 75
+
+      # Armor
+
+      - id: 233239 # Sunny Pack of Lunar Explosives [back]
+        costs:
+          1021100: 25
+
+      # Weapon
+      
+      - id: 233235 # Violet Lunar Firewhacker [1h mace]
+        costs:
+          1021100: 25
+      
+      - id: 233224 # Obsidian Lunar Blade [dagger]
+        costs:
+          1021100: 25
+      
+      - id: 233231 # Steel Lunar Polearm [polearm]
+        costs:
+          1021100: 25
+      
+      - id: 233231 # Violet Lunar Lantern [off-hand]
+        costs:
+          1021100: 25
