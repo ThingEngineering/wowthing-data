@@ -17,6 +17,8 @@ groups:
 - name: "Waking Shores"
   things:
     - 198646 # Ornate Dragon Statue
+    - 202207 # Reusable Oversized Bobber
+    - 199900 # Secondhand Survey Tools
 
 - name: "Zaralek Cavern"
   things:

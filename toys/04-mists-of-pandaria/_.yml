@@ -3,8 +3,9 @@ groups:
 
 - name: Instances
   things:
-  -  98136 # Gastropod Shell (Throne of Thunder)
-  -  98132 # Shado-Pan Geyser Gun (Throne of Thunder)
+  - 88566 # Krastinov's Bag of Horrors (H-Scholomance)
+  - 98136 # Gastropod Shell (Throne of Thunder)
+  - 98132 # Shado-Pan Geyser Gun (Throne of Thunder)
 
 - name: "Timewalking"
   things:
@@ -14,6 +15,6 @@ groups:
 - name: Vendors
   things:
   - 102467 # Censer of Eternal Agony (Speaker Gulan, Timeless Isle)
-  -  88801 # Flippable Table (Nam Ironpaw, Valley of the Four Winds)
-  -  88802 # Foxicopter Controller (Sally Fizzlefury, Valley of the Four Winds)
-  -  91904 # Stackable Stag (Sally Fizzlefury, Valley of the Four Winds)
+  - 88801 # Flippable Table (Nam Ironpaw, Valley of the Four Winds)
+  - 88802 # Foxicopter Controller (Sally Fizzlefury, Valley of the Four Winds)
+  - 91904 # Stackable Stag (Sally Fizzlefury, Valley of the Four Winds)

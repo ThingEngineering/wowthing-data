@@ -10,3 +10,8 @@ groups:
     - 198428 # Tuskarr Dinghy (River Rapids Wrangler)
     - 205904 # Vibrant Clacking Claw
     - 197961 # Whelps on Strings
+
+- name: "Events"
+  things:
+    - 199337 # Bag of Furious Winds (Thunderstorms?)
+    - 200116 # Everlasting Horn of Lavaswimming (Siege on Dragonbane Keep)

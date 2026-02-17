@@ -44,4 +44,5 @@ groups:
 
 - name: "Zaralek Cavern"
   things:
+    - 204220 # Hraxian's Unbreakable Will
     - 204389 # Stone Breaker (The Patience of Princes)

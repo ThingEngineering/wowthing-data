@@ -1,6 +1,16 @@
 name: "Classic"
 groups:
 
+- name: "Instances"
+  things:
+    - 208096 # Familiar Journal (Scholomance)
+    - 13379 # Piccolo of the Flaming Fire (Stratholme)
+
+- name: "PvP"
+  things:
+    - 169298 # Frostwolf Insignia
+    - 169297 # Stormpike Insignia
+
 - name: Quests
   things:
   - 133997 # Black Ice

@@ -1,0 +1,17 @@
+name: "Quests"
+groups:
+
+- name: "Dalaran"
+  things:
+    - 141605 # Flight Master's Whistle
+
+- name: "Stormheim"
+  things:
+    - 138111 # Stormforged Grapple Launcher
+
+- name: "Falcosaurs"
+  things:
+  - 142496 # Dirty Spoon (?, Falcosaurs)
+  - 142495 # Fake Teeth (?, Falcosaurs)
+  - 142494 # Purple Blossom (?, Falcosaurs)
+  - 142497 # Tiny Pack (?, Falcosaurs)

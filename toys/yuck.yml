@@ -14,9 +14,7 @@ groups:
 - name: Dungeons
   things:
   - 134019 # Don Carlos' Famous Hat (Old Hillsbrad)
-  -  88566 # Krastinov's Bag of Horrors (H-Scholomance)
   -  35275 # Orb of the Sin'dorei (H-Magister's Terrace)
-  -  13379 # Piccolo of the Flaming Fire (Stratholme)
 
 # Quests
 
@@ -36,7 +34,6 @@ groups:
   things:
   - 133511 # Gurboggle's Gleaming Bauble
   - 136855 # Hunter's Call
-  -  43499 # Iron Boot Flask
   -  68806 # Kalytha's Haunted Locket
   - 140231 # Narcissa's Mirror (vendor pet)
   - 136849 # Nature's Beacon
@@ -45,7 +42,6 @@ groups:
   - 136935 # Tadpole Cloudseeder
   - 136928 # Thaumaturgist's Orb
   - 136937 # Vol'jin's Serpent Totem
-  - 138490 # Waterspeaker's Totem
 
 - name: Dalaran
   things:
@@ -60,10 +56,6 @@ groups:
   -  54437 # Tiny Green Ragdoll
   -  44606 # Toy Train Set
   -  45057 # Wind-Up Train Wrecker
-
-- name: Pandaria
-  things:
-  - 134020 # Chef's Hat
 
 - name: More
   things:

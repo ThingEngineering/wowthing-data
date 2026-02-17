@@ -34,6 +34,10 @@ groups:
     - 165802 # Noble Gardener's Hearthstone
     - 188694 # Spring Florist's Pouch
 
+- name: "Plunderstorm"
+  things:
+    - 170197 # Swarthy Warning Sign
+
 - name: Other
   things:
     - 150547 # Jolly Roger (Pirates' Day)

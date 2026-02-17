@@ -4,3 +4,7 @@ groups:
 - name: "Siren Isle"
   things:
     - 235017 # Glittering Vault Shard
+
+- name: "K'aresh"
+  things:
+    - 242323 # Chowdar's Favorite Ribbon

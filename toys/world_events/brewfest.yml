@@ -4,6 +4,7 @@ groups:
 - name: Vendors
   things:
     - 209052 # Brew Barrel
+    - 245946 # Brewer's Balloon (2025)
     - 116758 # Brewfest Banner
     - 169865 # Brewfest Chowdown Trophy
     -  71137 # Brewfest Keg Pony

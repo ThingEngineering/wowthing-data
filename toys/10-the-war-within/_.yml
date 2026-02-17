@@ -8,19 +8,28 @@ groups:
     - 236769 # Gallagio Pipeline Rerouter (A Good Day to Dye Hard, Liberation of Undermine)
     - 235016 # Redeployment Module (Overcharged Delver)
 
+- name: "Lorewalking"
+  things:
+    - 244888 # Echo of Xal'atath, Blade of the Black Empire
+    - 245567 # K'aresh Memory Crystal
+    - 245631 # Royal Visage
+
 - name: "Misc"
   things:
     - 226810 # Infiltrator's Shroud (weird trinket thing)
 
 - name: "PvP"
   things:
+    - 242636 # Astral Legend's Pennant [season 3]
     - 225969 # Forged Flag of Victory
     - 225933 # Forged Legend's Pennant
     - 232305 # Forged Champion's Prestigious Banner
+    - 235519 # Prized Legend's Pennant [season 2]
     - 227538 # Unbound Legend's Pennant
     - 227539 # Unbound Strategist's Pennant
 
 - name: "Quests"
   things:
+    - 249713 # Cartel Transmorpher (K'aresh, Manaforge Omega)
     - 235041 # Cyrce's Circlet
     - 233202 # G.O.L.E.M, Jr.

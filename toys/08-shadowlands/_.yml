@@ -17,12 +17,13 @@ groups:
 
 - name: Covenants
   things:
-  - 187705 # Choofa's Call (Night Fae - Queen's Conservatory cache)
-  - 184487 # Gormling in a Bag (??)
-  - 184353 # Kyrian Hearthstone (Kyrian)
-  - 182773 # Necrolord Hearthstone (Necrolord)
-  - 180290 # Night Fae Hearthstone (Night Fae)
-  - 183716 # Venthyr Sinstone (Venthyr)
+    - 187705 # Choofa's Call (Night Fae - Queen's Conservatory cache)
+    - 184487 # Gormling in a Bag (??)
+    - 184353 # Kyrian Hearthstone (Kyrian)
+    - 182773 # Necrolord Hearthstone (Necrolord)
+    - 180290 # Night Fae Hearthstone (Night Fae)
+    - 200960 # Seed of Renewed Souls (Night Fae)
+    - 183716 # Venthyr Sinstone (Venthyr)
 
 - name: Professions
   things:

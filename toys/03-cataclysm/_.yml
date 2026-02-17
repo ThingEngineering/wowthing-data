@@ -7,7 +7,8 @@ groups:
 
 - name: Instances
   things:
-  - 122304 # Fandral's Seed Pouch (Firelands)
+    - 203757 # Brazier of Madness (Zul'Gurub
+    - 122304 # Fandral's Seed Pouch (Firelands)
 
 - name: Quests
   things:

@@ -1,9 +1,14 @@
 name: "Vendors"
 groups:
-  
-- name: Jepetto, Dalaran
+
+- name: "Dalaran"
+  things:
+    - 140231 # Narcissa's Mirror
+
+- name: "Jepetto, Dalaran"
   things:
     -  54343 # Blue Crashin' Thrashin' Racer Controller (Jepetto)
+    - 134020 # Chef's Hat
     - 129057 # Dalaran Disc
     - 192099 # Earpieces of Tranquil Focus
     - 104324 # Foot Ball

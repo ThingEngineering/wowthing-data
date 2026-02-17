@@ -13,6 +13,8 @@ groups:
 
 - name: "Waking Shores"
   things:
+    - 201933 # Black Dragon's Challenge Dummy
+    - 202019 # Golden Dragon Goblet
     - 202022 # Yennu's Kite
 
 - name: "Zaralek Cavern"

@@ -15,6 +15,11 @@ groups:
   - 108635 # Crashin' Thrashin' Killdozer Controller
   - 188680 # Winter Veil Chorus Book
 
+- name: "2025"
+  things:
+    - 243304 # Jubilant Snowman Costume
+    - 245580 # Rolling Snowball
+
 - name: "2024"
   things:
     - 218310 # Box of Puntables

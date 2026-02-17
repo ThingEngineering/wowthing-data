@@ -46,3 +46,7 @@ groups:
     - 246903 # Guise of the Phase Diver
     - 246908 # K'areshi Supply Crate
     - 246905 # Overtuned K'areshi Goggles
+
+- name: "Prepatch"
+  things:
+    - 249468 # Twilight's Blade Top Secret Strategy Training Guide

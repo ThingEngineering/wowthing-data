@@ -14,6 +14,7 @@ groups:
     - 230727 # Explosive Victory (Defeating the Underpin quest)
     - 243056 # Delver's Mana-Bound Ethergate (Season 3)
     - 244792 # Etheric Brannmorpher (Season 3)
+    - 244470 # Etheric Victory (Defeating Ky'veza, Season 3)
 
 - name: "Raids"
   things:
