@@ -1,0 +1,247 @@
+tags:
+  - "event:outland-cup"
+
+things:
+  - id: 212027
+    type: "vendor"
+    name: "Dathendrash"
+    note: "Riders of Azeroth"
+
+    locations:
+      00-classic/orgrimmar:
+        - 52 60 horde
+      00-classic/stormwind_city:
+        - 60 66.6 alliance
+
+    groups:
+
+      - name: "Eastern Kingdoms/Kalimdor Cup"
+        range: 15
+      
+      - name: "Outland Cup"
+        range: 9
+      
+      - name: "Northrend Cup"
+        range: 9
+
+    contents:
+
+      # 0 set=3054
+
+      - id: 197615 # Windborne Velocidrake: Teal Scales
+        costs:
+          2588: 50
+
+      - id: 203322 # Winding Slitherdrake: Blonde Hair
+        costs:
+          2588: 25
+
+      - id: 203349 # Winding Slitherdrake: Curved Nose Horn
+        costs:
+          2588: 25
+
+      - id: 203306 # Winding Slitherdrake: Horned Brow
+        costs:
+          2588: 25
+
+      - id: 203336 # Winding Slitherdrake: Paired Horns
+        costs:
+          2588: 25
+
+      - id: 203359 # Winding Slitherdrake: Shark Finned Tail
+        costs:
+          2588: 25
+
+      - id: 203355 # Winding Slitherdrake: Yellow Scales
+        costs:
+          2588: 50
+
+      - id: 206588 # Drake Racer's Helmet [subclass=5 head]
+        costs:
+          2588: 20
+
+      - id: 206589 # Drake Racer's Shoulderpads [subclass=5 shoulders]
+        costs:
+          2588: 20
+
+      - id: 211877 # Drake Racer's Scarf [subclass=5 back]
+        costs:
+          2588: 5
+
+      - id: 206590 # Drake Racer's Jersey [subclass=5 chest]
+        costs:
+          2588: 20
+
+      - id: 206591 # Drake Racer's Handwraps [subclass=5 hands]
+        costs:
+          2588: 20
+
+      - id: 206592 # Drake Racer's Belt [subclass=5 waist]
+        costs:
+          2588: 20
+
+      - id: 206593 # Drake Racer's Leggings [subclass=5 legs]
+        costs:
+          2588: 20
+
+      - id: 206594 # Drake Racer's Boots [subclass=5 feet]
+        costs:
+          2588: 20
+
+      # Outland Cup
+
+      - id: 212518 # Vial of Endless Draconic Scales [toy]
+        costs:
+          2588: 40
+
+      - id: 211881 # Outlandish Drake Racer's Helmet [subclass=5 head]
+        costs:
+          2588: 15
+
+      - id: 211882 # Outlandish Drake Racer's Shoulderpads [subclass=5 shoulders]
+        costs:
+          2588: 15
+
+      - id: 211888 # Outlandish Drake Racer's Scarf [subclass=5 back]
+        costs:
+          2588: 5
+
+      - id: 211883 # Outlandish Drake Racer's Jersey [subclass=5 chest]
+        costs:
+          2588: 15
+
+      - id: 211884 # Outlandish Drake Racer's Handwraps [subclass=5 hands]
+        costs:
+          2588: 15
+
+      - id: 211885 # Outlandish Drake Racer's Belt [subclass=5 waist]
+        costs:
+          2588: 15
+
+      - id: 211886 # Outlandish Drake Racer's Leggings [subclass=5 legs]
+        costs:
+          2588: 15
+
+      - id: 211887 # Outlandish Drake Racer's Boots [subclass=5 feet]
+        costs:
+          2588: 15
+
+      # 0 set=3363
+
+      - id: 213635 # Checkered Pennant [subclass=5 back]
+        costs:
+          2588: 25
+
+      - id: 213592 # Icy Drake Racer's Helmet [subclass=5 head]
+        costs:
+          2588: 15
+
+      - id: 213591 # Icy Drake Racer's Shoulderpads [subclass=5 shoulders]
+        costs:
+          2588: 15
+
+      - id: 213585 # Icy Drake Racer's Scarf [subclass=5 back]
+        costs:
+          2588: 5
+
+      - id: 213590 # Icy Drake Racer's Jersey [subclass=5 chest]
+        costs:
+          2588: 15
+
+      - id: 213589 # Icy Drake Racer's Handwraps [subclass=5 hands]
+        costs:
+          2588: 15
+
+      - id: 213588 # Icy Drake Racer's Belt [subclass=5 waist]
+        costs:
+          2588: 15
+
+      - id: 213587 # Icy Drake Racer's Leggings [subclass=5 legs]
+        costs:
+          2588: 15
+
+      - id: 213586 # Icy Drake Racer's Boots [subclass=5 feet]
+        costs:
+          2588: 15
+
+      # 0
+
+      - id: 249563 # Skymaster's Sapphire Crown [subclass=5 head]
+        costs:
+          2588: 15
+
+      - id: 249565 # Skymaster's Sapphire Epaulets [subclass=5 shoulders]
+        costs:
+          2588: 15
+
+      - id: 249564 # Skymaster's Sapphire Shoulderguards [subclass=5 shoulders]
+        costs:
+          2588: 15
+
+      - id: 249560 # Skymaster's Silver Mantle [subclass=5 shoulders]
+        costs:
+          2588: 15
+
+      - id: 249561 # Skymaster's Silver Cloak [subclass=5 back]
+        costs:
+          2588: 15
+
+      - id: 249562 # Skymaster's Silver Tabard [tabard]
+        costs:
+          2588: 25
+
+      - id: 196979 # Cliffside Wylderdrake: Curled Head Horns
+        costs:
+          2588: 25
+
+      - id: 197002 # Cliffside Wylderdrake: Flared Cheek
+        costs:
+          2588: 25
+
+      - id: 197017 # Cliffside Wylderdrake: Large Tail Spikes
+        costs:
+          2588: 25
+
+      - id: 207768 # Grotto Netherwing Drake: Volatile Pattern
+        costs:
+          2588: 25
+
+      - id: 197128 # Highland Drake: Curled Back Horns
+        costs:
+          2588: 25
+
+      - id: 197124 # Highland Drake: Swept Horns
+        costs:
+          2588: 25
+
+      - id: 197113 # Highland Drake: Swept Spiked Head
+        costs:
+          2588: 25
+
+      - id: 197366 # Renewed Proto-Drake: Dual Horned Crest
+        costs:
+          2588: 25
+
+      - id: 202274 # Renewed Proto-Drake: Plated Brow
+        costs:
+          2588: 25
+
+      - id: 202280 # Renewed Proto-Drake: Pronged Tail
+        costs:
+          2588: 25
+
+      - id: 197605 # Windborne Velocidrake: Curled Horns
+        costs:
+          2588: 25
+
+      - id: 197619 # Windborne Velocidrake: Hooked Snout
+        costs:
+          2588: 25
+
+      - id: 197594 # Windborne Velocidrake: Small Ears
+        costs:
+          2588: 25
+
+      - id: 203348 # Winding Slitherdrake: Pointed Nose
+        costs:
+          2588: 25
