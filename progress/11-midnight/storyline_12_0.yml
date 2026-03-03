@@ -1,0 +1,112 @@
+name: "12.0 Storyline"
+groups:
+
+- name: "Intro"
+  icon: "achievement/62191"
+  iconText: "Intro"
+  lookup: none
+  type: questline
+  data:
+    0:
+      - id: 5811 # The Light's Summons [0]
+
+- name: "Eversong Woods Story"
+  icon: "achievement/41802"
+  iconText: "Ever"
+  lookup: none
+  type: questline
+  data:
+    0:
+      - id: 5719 # Whispers in the Twilight [1]
+      - id: 5720 # Shadowfall [2]
+      - id: 5721 # Ripple Effects [3]
+
+- name: "Zul'Aman Story"
+  icon: "achievement/41803"
+  iconText: "Zul"
+  lookup: none
+  type: questline
+  data:
+    0:
+      - id: 5722 # Dis Was Our Land [4]
+      - id: 5723 # Path of de Hash'ey [5]
+      - id: 5938 # Where War Slumbers [6]
+      - id: 5724 # De Amani Never Die [7]
+
+- name: "Harandar Story"
+  icon: "achievement/41804"
+  iconText: "Har"
+  lookup: none
+  type: questline
+  data:
+    0:
+      - id: 5725 # Of Caves and Cradles [8]
+      - id: 5726 # Call of the Goddess [9]
+      - id: 5727 # Emergence [10]
+
+- name: "Voidstorm Story"
+  icon: "achievement/41806"
+  iconText: "Void"
+  lookup: none
+  type: questline
+  data:
+    0:
+      - id: 5728 # Into the Abyss [13]
+      - id: 5729 # The Night's Veil [14]
+      - id: 5730 # Dawn of Reckoning [15]
+
+- name: "Arator Story"
+  icon: "achievement/41805"
+  iconText: "Ara"
+  lookup: none
+  type: questline
+  data:
+    0:
+      - id: 5750 # The Path of Light [11]
+      - id: 5751 # Regrets of the Past [12]
+
+#      - id: 5979 # The Darkening Sky [16]
+
+- name: separator
+
+- name: "Delves"
+  icon: "achievement/40631" # War Within Delves: Tier 1
+  iconText: "Delve"
+  lookup: none
+  minimumLevel: 80
+  type: quest
+  data:
+    0:
+      # Eversong Woods
+      - id: 93384
+        name: "Delver's Call: Collegiate Calamity"
+
+      - id: 93372
+        name: "Delver's Call: Shadow Enclave"
+
+      - name: separator
+
+      # Harandar
+      - id: 93421
+        name: "Delver's Call: The Grudge Pit"
+
+      - id: 93416
+        name: "Delver's Call: The Gulf of Memory"
+
+      - name: separator
+
+      # Voidstorm
+      - id: 93428
+        name: "Delver's Call: Shadowguard Point"
+
+      - id: 93427
+        name: "Delver's Call: Sunkiller Sanctum"
+
+      - name: separator
+
+      # Zul'Aman
+      - id: 93409
+        name: "Delver's Call: Atal'Aman"
+
+      - id: 93410
+        name: "Delver's Call: Twilight Crypts"
