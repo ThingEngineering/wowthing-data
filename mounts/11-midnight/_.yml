@@ -1,7 +1,20 @@
 name: "Midnight"
 groups:
 
+- name: "Instances"
+  things:
+    - 2817 # Lucent Hawkstrider (Magisters' Terrace)
+    - 2607 # Ashes of Belo'ren (Midnight Falls, March on Quel'Danas Mythic)
+
 - name: "PvP"
   things:
     - 2794 # Vicious Snaplizard [A]
     - 2793 # Vicious Snaplizard [H]
+
+- name: "Treasures"
+  things:
+    - 2778 # Ancestral War Bear (Honored Warrior's Cache, Zul'Aman)
+    - 2786 # Hexed Vilefeather Eagle (Abandoned Ritual Skull, Zul'Aman)
+    - 2790 # Insatiable Shredclaw (Final Clutch of Predaxas, Voidstorm)
+    - 2713 # Ruddy Sporeglider (Peculiar Cauldron, Harandar)
+    - 2747 # Untainted Grove Crawler (Sporespawned Cache, Harandar)

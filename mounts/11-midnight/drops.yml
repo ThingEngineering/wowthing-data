@@ -4,6 +4,7 @@ groups:
 - name: "Eversong Woods"
   things:
     - 2762 # Cerulean Hawkstrider
+    - 2758 # Cobalt Dragonhawk
 
 - name: "Harandar"
   things:

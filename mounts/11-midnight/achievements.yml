@@ -1,6 +1,23 @@
 name: "Achievements"
 groups:
 
-- name: "Prey"
+- name: "Misc"
   things:
-    - 2771 # Preyseeker's Nightmare
+    - 2756 # Crimson Dragonhawk (Midnight Glyph Hunter)
+    - 2616 # Ivory Grimlynx (Allied Race: Haranir)
+    - 2829 # Lab-grown Stormray (Staring into the Void)
+    - 2771 # Preyseeker's Nightmare (Prey)
+    - 2755 # Umbral Dragonhawk (Life of the Party)
+
+- name: "Delves"
+  things:
+    - 2773 # Giganto Manis (Glory of the Midnight Delver)
+    - 2842 # Arcanovoid Construct (Let Me Solo Him: Nullaeus)
+
+- name: "Dungeons"
+  things:
+    - 2733 # Calamitous Carrion (Midnight Keystone Master: Season One)
+
+- name: "Raids"
+  things:
+    - 2831 # Tenebrous Harrower (Glory of the Midnight Raider)

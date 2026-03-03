@@ -1,0 +1,30 @@
+name: "Vendors"
+groups:
+
+- name: "Silvermoon City"
+  things:
+    - 2841 # Elven Arcane Guardian (Naleidea Rivergleam, Silvermoon City)
+    - 2769 # Preyseeker's Hubris (Construct V'anore, Silvermoon City)
+    - 2770 # Preyseeker's Wrath (Construct V'anore, Silvermoon City)
+    - 2840 # Silvermoon's Arcane Defender (Telemancer Astrandis, Silvermoon City)
+
+- name: "Abundance"
+  things:
+    - 2693 # Amani Sunfeather
+    - 2772 # Blessed Amani Burrower
+
+- name: "Eversong Woods"
+  things:
+    - 2761 # Crimson Silvermoon Hawkstrider (Caeris Fairdawn, Eversong Woods)
+    - 2753 # Fiery Dragonhawk (Caeris Fairdawn, Eversong Woods)
+
+- name: "Harandar"
+  things:
+    - 2710 # Cerulean Sporeglider (Naynar, Harandar)
+    - 2614 # Fierce Grimlynx (Naynar, Harandar)
+    - 2913 # Vivid Chloroceros (Mothkeeper Wew'tam, Harandar)
+
+- name: "Zul'Aman"
+  things:
+    - 2776 # Amani Blessed Bear (Magovu, Zul'Aman)
+    - 2694 # Amani Windcaller (Magovu, Zul'Aman)
