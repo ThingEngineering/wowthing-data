@@ -184,6 +184,14 @@
 
     - id: 122351 # Venerable Dal'Rend's Sacred Charge [1h agi sword]
 
+    - id: 122350 # Balanced Heartseeker [agi dagger]
+
+    - id: 122364 # Sharpened Scarlet Kris [agi dagger]
+
+    - id: 122396 # Brawler's Razor Claws [agi fist]
+
+    - id: 269992 # Sharpened Arcanite Warglaive [agi/int warglaive]
+
     - id: 122349 # Bloodied Arcanite Reaper [2h str axe]
 
     - id: 122386 # Repurposed Lava Dredger [2h agi mace]
@@ -191,12 +199,6 @@
     - id: 122389 # Bloodsoaked Skullforge Reaver [2h str sword]
 
     - id: 122365 # Reforged Truesilver Champion [2h str sword]
-
-    - id: 122350 # Balanced Heartseeker [agi dagger]
-
-    - id: 122364 # Sharpened Scarlet Kris [agi dagger]
-
-    - id: 122396 # Brawler's Razor Claws [agi fist]
 
     - id: 140773 # Eagletalon Spear [agi polearm]
 
