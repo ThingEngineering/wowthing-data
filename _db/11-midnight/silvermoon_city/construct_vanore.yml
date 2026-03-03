@@ -1,0 +1,97 @@
+things:
+  - id: 252956
+    type: "vendor"
+    name: "Construct V'anore"
+    note: "Rewards"
+
+    locations:
+      here: # silvermoon_city
+        - 55.8 65.8
+
+    contents:
+
+      # 0 set=5359
+
+      - id: 258022 # Skilled Preyseeker's Plumed Helm [subclass=5 head]
+        costs:
+          3392: 400
+
+      - id: 258024 # Skilled Preyseeker's Shoulder-spikes [subclass=5 shoulders]
+        costs:
+          3392: 400
+
+      # 0 set=5360
+
+      - id: 258028 # Famed Preyseeker's Plumed Helm [subclass=5 head]
+        costs:
+          3392: 500
+
+      - id: 258026 # Famed Preyseeker's Shoulder-spikes [subclass=5 shoulders]
+        costs:
+          3392: 500
+
+      - id: 258030 # Famed Preyseeker's Knapsack [subclass=5 back]
+        costs:
+          3392: 500
+
+      # 0
+
+      - id: 266199 # Ensemble: Preyseeker's Polished Armor
+        costs:
+          3392: 1600
+
+      - id: 266196 # Ensemble: Preyseeker's Refined Armor
+        costs:
+          3392: 1600
+
+      - id: 266198 # Ensemble: Preyseeker's Rugged Armor
+        costs:
+          3392: 1600
+
+      - id: 266197 # Ensemble: Preyseeker's Sleek Armor
+        costs:
+          3392: 1600
+
+      - id: 256756 # Formula: Enchant Boots - Farstrider's Hunt
+        costs:
+          3258: 150
+          3392: 500
+
+      - id: 256754 # Formula: Enchant Shoulders - Nature's Embrace
+        costs:
+          3258: 150
+          3392: 500
+
+      - id: 259991 # Lil' Preyseeker
+        costs:
+          3392: 1200
+
+      - id: 264434 # Voldy
+        costs:
+          3392: 800
+
+      - id: 263933 # Preyseeker's Hearthstone
+        costs:
+          3392: 800
+
+      - id: 264666 # Rod of Exanguishation
+        costs:
+          3392: 600
+
+      - id: 257191 # Preyseeker's Hubris
+        costs:
+          3392: 2000
+
+      - id: 257192 # Preyseeker's Wrath
+        costs:
+          3392: 2550
+
+      - id: 267399 # Technique: Sturdy Ren'dorei Cask
+        costs:
+          3261: 150
+          3392: 500
+
+      - id: 267400 # Technique: Wild Hanging Scroll
+        costs:
+          3261: 150
+          3392: 500

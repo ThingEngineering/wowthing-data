@@ -1,0 +1,61 @@
+things:
+  - id: 251259
+    type: "vendor"
+    name: "Mothkeeper Wew'tam"
+    note: "Luminous Dust Vendor"
+
+    locations:
+      here: # harandar
+        - 49.2 54.4
+
+    contents:
+
+      - id: 222988 # Elder Glowmite [mount]
+        costs:
+          3385: 10
+
+      - id: 263580 # Vivid Chloroceros [mount]
+        costs:
+          3385: 10
+
+      # 0
+
+      - id: 265943 # Firm Haranir Pillow [decor]
+        costs:
+          3385: 10
+
+      - id: 265946 # Haranir Reclined Bed [decor]
+        costs:
+          3385: 10
+
+      - id: 265945 # Warm Haranir Blanket [decor]
+        costs:
+          3385: 10
+
+      - id: 257158 # Grovewarden's Rapier [1h ? sword]
+        costs:
+          3385: 10
+
+      - id: 263283 # Grovewarden's Dagger [? dagger]
+        costs:
+          3385: 10
+
+      - id: 257155 # Grovewarden's Kris [? dagger]
+        costs:
+          3385: 10
+
+      - id: 263285 # Grovewarden's Greatsword [2h ? sword]
+        costs:
+          3385: 10
+
+      - id: 257161 # Grovewarden's Halberd [polearm]
+        costs:
+          3385: 10
+
+      - id: 263284 # Grovewarden's Staff [staff]
+        costs:
+          3385: 10
+
+      - id: 257159 # Grovewarden's Buckler [shield]
+        costs:
+          3385: 10

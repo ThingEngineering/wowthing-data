@@ -1,0 +1,114 @@
+things:
+  - id: 248658
+    type: "vendor"
+    name: "Chel the Chip"
+    note: "Abundance Vendor"
+
+    locations:
+      "11-midnight/harandar":
+        - 66 61.4
+
+    groups:
+      - name: "Abundance - Misc"
+        range: 5
+      
+      - name: "Abundance - Decor"
+        range: 4
+      
+      - name: "Abundance - Profession"
+        range: 5
+
+      - name: "Abundance - Transmog"
+        range: -1
+
+    contents:
+
+      - id: 250782 # Amani Sunfeather [mount]
+        costs:
+          3377: 6400
+
+      - id: 257197 # Blessed Amani Burrower [mount]
+        costs:
+          3377: 6400
+
+      - id: 251633 # Bursting Bounty Bundle [toy]
+        costs:
+          3377: 6400
+
+      - id: 266370 # Dundun's Abundant Travel Method [toy]
+        costs:
+          3377: 3200
+
+      - id: 265746 # Idol of Abundance [quest]
+        costs:
+          3377: 1600
+
+      - id: 256923 # Amani Crafter's Tool Rack [decor]
+        costs:
+          3377: 3200
+
+      - id: 264655 # Amani Slate Bench [decor]
+        costs:
+          3377: 3200
+
+      - id: 264254 # Three-Tier Zul'Aman Shelf [decor]
+        costs:
+          3377: 3200
+
+      - id: 264249 # Woodblock Stool [decor]
+        costs:
+          3377: 1600
+
+      # Profession
+
+      - id: 250445 # Echo of Abundance: Enchanting
+        costs:
+          3377: 1600
+          3258: 75
+
+      - id: 250443 # Echo of Abundance: Herbalism
+        costs:
+          3377: 1600
+          3260: 75
+
+      - id: 250444 # Echo of Abundance: Mining
+        costs:
+          3377: 1600
+          3264: 75
+
+      - id: 250360 # Echo of Abundance: Skinning
+        costs:
+          3377: 1600
+          3265: 75
+
+      - id: 254875 # Muck-Covered Writings [fishing]
+        costs:
+          3377: 6400
+        requirements:
+          - "reputation 2696 renown-14" # Amani Tribe
+
+      # 0
+
+      - id: 266970 # Ensemble: Abundant Raiment
+        costs:
+          3377: 3200
+
+      - id: 262580 # Amani Log Splitter [1h ? axe]
+        costs:
+          3377: 800
+
+      - id: 262581 # Amani Rock Hammer [1h ? mace]
+        costs:
+          3377: 800
+
+      - id: 262579 # Amani Hide Cutter [? dagger]
+        costs:
+          3377: 800
+
+      - id: 262578 # Amani Stonework Chisel [? dagger]
+        costs:
+          3377: 800
+
+      - id: 262582 # Amani Gem Clamps [off-hand]
+        costs:
+          3377: 800
