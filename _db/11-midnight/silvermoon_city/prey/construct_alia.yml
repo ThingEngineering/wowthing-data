@@ -1,0 +1,141 @@
+things:
+  - id: 258181
+    type: "vendor"
+    name: "Construct Ali'a"
+    note: "Decor Specialist"
+
+    locations:
+      here: # silvermoon_city
+        - 55.8 65.8
+
+    contents:
+
+      # 0
+
+      - id: 265700 # Preyseeker's Amani Bust
+        costs:
+          3392: 800
+
+      - id: 265685 # Preyseeker's Amani Effigy
+        costs:
+          3392: 1200
+
+      - id: 265699 # Preyseeker's Breaker Bust
+        costs:
+          3392: 800
+
+      - id: 265684 # Preyseeker's Breaker Effigy
+        costs:
+          3392: 1200
+
+      - id: 265703 # Preyseeker's Consul Bust
+        costs:
+          3392: 800
+
+      - id: 265688 # Preyseeker's Consul Effigy
+        costs:
+          3392: 1200
+
+      - id: 265698 # Preyseeker's Ethereal Bust
+        costs:
+          3392: 800
+
+      - id: 265683 # Preyseeker's Ethereal Effigy
+        costs:
+          3392: 1200
+
+      - id: 265704 # Preyseeker's Executor Bust
+        costs:
+          3392: 800
+
+      - id: 265689 # Preyseeker's Executor Effigy
+        costs:
+          3392: 1200
+
+      - id: 265799 # Preyseeker's Farstrider Bust
+        costs:
+          3392: 800
+
+      - id: 265797 # Preyseeker's Farstrider Effigy
+        costs:
+          3392: 1200
+
+      - id: 265705 # Preyseeker's Knight-Errant Bust
+        costs:
+          3392: 800
+
+      - id: 265690 # Preyseeker's Knight-Errant Effigy
+        costs:
+          3392: 1200
+
+      - id: 265696 # Preyseeker's Magister Bust
+        costs:
+          3392: 800
+
+      - id: 265681 # Preyseeker's Magister Effigy
+        costs:
+          3392: 1200
+
+      - id: 265795 # Preyseeker's Ornate Plinth
+        costs:
+          3392: 1200
+
+      - id: 265794 # Preyseeker's Plinth
+        costs:
+          3392: 800
+
+      - id: 265798 # Preyseeker's Ren'dorei Bust
+        costs:
+          3392: 800
+
+      - id: 265796 # Preyseeker's Ren'dorei Effigy
+        costs:
+          3392: 1200
+
+      - id: 265701 # Preyseeker's Rutaani Bust
+        costs:
+          3392: 800
+
+      - id: 265686 # Preyseeker's Rutaani Effigy
+        costs:
+          3392: 1200
+
+      - id: 265707 # Preyseeker's Thornspeaker Bust
+        costs:
+          3392: 800
+
+      - id: 265692 # Preyseeker's Thornspeaker Effigy
+        costs:
+          3392: 1200
+
+      - id: 265697 # Preyseeker's Tinker Bust
+        costs:
+          3392: 800
+
+      - id: 265682 # Preyseeker's Tinker Effigy
+        costs:
+          3392: 1200
+
+      - id: 265708 # Preyseeker's Twilight Bust
+        costs:
+          3392: 800
+
+      - id: 265694 # Preyseeker's Twilight Effigy
+        costs:
+          3392: 1200
+
+      - id: 265702 # Preyseeker's Vindicator Bust
+        costs:
+          3392: 800
+
+      - id: 265687 # Preyseeker's Vindicator Effigy
+        costs:
+          3392: 1200
+
+      - id: 265706 # Preyseeker's Wretched Bust
+        costs:
+          3392: 800
+
+      - id: 265691 # Preyseeker's Wretched Effigy
+        costs:
+          3392: 1200
