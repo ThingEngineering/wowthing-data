@@ -44,6 +44,16 @@ groups:
       - id: 5726 # Call of the Goddess [9]
       - id: 5727 # Emergence [10]
 
+- name: "Arator Story"
+  icon: "achievement/41805"
+  iconText: "Ara"
+  lookup: none
+  type: questline
+  data:
+    0:
+      - id: 5750 # The Path of Light [11]
+      - id: 5751 # Regrets of the Past [12]
+
 - name: "Voidstorm Story"
   icon: "achievement/41806"
   iconText: "Void"
@@ -54,16 +64,6 @@ groups:
       - id: 5728 # Into the Abyss [13]
       - id: 5729 # The Night's Veil [14]
       - id: 5730 # Dawn of Reckoning [15]
-
-- name: "Arator Story"
-  icon: "achievement/41805"
-  iconText: "Ara"
-  lookup: none
-  type: questline
-  data:
-    0:
-      - id: 5750 # The Path of Light [11]
-      - id: 5751 # Regrets of the Past [12]
 
 #      - id: 5979 # The Darkening Sky [16]
 
