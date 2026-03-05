@@ -23,6 +23,48 @@ reputations:
       icon: "achievement/62265"
       iconText: "Sing"
 
+  - both:
+      id: 2770 # Slayer's Duellum
+      icon: "item/257447"
+      iconText: "Slay"
+
+# Silvermoon Court sub-factions
+-
+  - both:
+      id: 2712 # Blood Knights
+      icon: "item/265997"
+
+  - both:
+      id: 2713 # Farstriders
+      icon: "item/264997"
+
+  - both:
+      id: 2711 # Magisters
+      icon: "item/264909"
+
+  - both:
+      id: 2714 # Shades of the Row
+      icon: "item/264996"
+
+# Not active?
+# -
+
+#   - both:
+#       id: 2781 # Revantusk Tribe
+#       icon: "item/265997"
+
+#   - both:
+#       id: 2780 # Shadowpine Tribe
+#       icon: "item/265997"
+
+#   - both:
+#       id: 2706 # Witherbark Tribe
+#       icon: "item/265997"
+
+#   - both:
+#       id: 2709 # Vanguard of the Light
+#       icon: "item/265997"
+
 -
   - both:
       id: 2742 # Delves: Season 1
@@ -30,6 +72,11 @@ reputations:
       iconText: "Sing"
 
   - both:
-      id: 2764 # Preyseeker's Journey
+      id: 2744 # Valeera Sanguinar
+      icon: "achievement/60891" # The Crimson Rogue
+      iconText: "Val"
+
+  - both:
+      id: 2764 # Prey: Season 1
       icon: "achievement/61387"
       iconText: "Prey"
