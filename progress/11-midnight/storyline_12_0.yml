@@ -70,7 +70,7 @@ groups:
 - name: separator
 
 - name: "Delves"
-  icon: "achievement/40631" # War Within Delves: Tier 1
+  icon: "achievement/61707" # Delver of the Depths: Midnight
   iconText: "Delve"
   lookup: none
   minimumLevel: 80
@@ -83,6 +83,15 @@ groups:
 
       - id: 93372
         name: "Delver's Call: Shadow Enclave"
+
+      - name: separator
+
+      # Zul'Aman
+      - id: 93409
+        name: "Delver's Call: Atal'Aman"
+
+      - id: 93410
+        name: "Delver's Call: Twilight Crypts"
 
       - name: separator
 
@@ -101,12 +110,3 @@ groups:
 
       - id: 93427
         name: "Delver's Call: Sunkiller Sanctum"
-
-      - name: separator
-
-      # Zul'Aman
-      - id: 93409
-        name: "Delver's Call: Atal'Aman"
-
-      - id: 93410
-        name: "Delver's Call: Twilight Crypts"
