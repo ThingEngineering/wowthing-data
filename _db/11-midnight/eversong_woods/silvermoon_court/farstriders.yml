@@ -1,0 +1,43 @@
+things:
+  - id: 242724
+    type: "vendor"
+    name: "Ranger Allorn"
+    note: "Farstrider Vendor"
+
+    locations:
+      here: # eversong_woods
+        - 43.4 47.4
+        - 43.4 47.6
+
+    contents:
+
+      # 0
+
+      - id: 264997 # Farstriders Quiver [subclass=5 back]
+        costs:
+          3379: 200
+
+      - id: 259079 # Ensemble: Farstrider Dignitary's Trappings
+        costs:
+          3379: 100
+
+      - id: 259090 # Ensemble: Farstrider Socialite's Attire
+        costs:
+          3379: 100
+
+      - id: 259076 # Ensemble: Farstrider's Elegant Regalia
+        costs:
+          3379: 100
+
+      - id: 263212 # Farstrider's Comfy Cushion
+        costs:
+          3379: 150
+
+      - id: 263216 # Gilded Lightwood Wardrobe
+        costs:
+          3379: 150
+
+      - id: 258505 # Technique: Sin'dorei Phoenix Quill
+        costs:
+          3379: 200
+          3261: 150

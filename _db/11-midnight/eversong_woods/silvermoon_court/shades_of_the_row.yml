@@ -1,0 +1,43 @@
+things:
+  - id: 242726
+    type: "vendor"
+    name: "Neriv"
+    note: "Row Vendor"
+
+    locations:
+      here: # eversong_woods
+        - 43.4 47.4
+        - 43.4 47.6
+
+    contents:
+
+      # 0
+
+      - id: 259083 # Ensemble: Pilfered Dignitary's Trappings
+        costs:
+          3379: 100
+
+      - id: 259075 # Ensemble: Pilfered Elegant Regalia
+        costs:
+          3379: 100
+
+      - id: 259087 # Ensemble: Pilfered Socialite's Attire
+        costs:
+          3379: 100
+
+      - id: 264996 # Gilded Sunlance [polearm]
+        costs:
+          3379: 200
+
+      - id: 259375 # Formula: Self-Pouring Thalassian Sunwine
+        costs:
+          3379: 200
+          3258: 150
+
+      - id: 250772 # Crimson Lightwood Privacy Screen
+        costs:
+          3379: 150
+
+      - id: 246692 # Murder Row Wine Decanter
+        costs:
+          3379: 150

@@ -1,0 +1,43 @@
+things:
+  - id: 242723
+    type: "vendor"
+    name: "Apprentice Diell"
+    note: "Magister Vendor"
+
+    locations:
+      here: # eversong_woods
+        - 43.4 47.4
+        - 43.4 47.6
+
+    contents:
+
+      # 0
+
+      - id: 259080 # Ensemble: Magister Dignitary's Trappings
+        costs:
+          3379: 100
+
+      - id: 259089 # Ensemble: Magister Socialite's Attire
+        costs:
+          3379: 100
+
+      - id: 259074 # Ensemble: Magister's Elegant Regalia
+        costs:
+          3379: 100
+
+      - id: 264909 # Flicker
+        costs:
+          3379: 200
+
+      - id: 259367 # Formula: Animated Sin'dorei Pick
+        costs:
+          3379: 200
+          3258: 150
+
+      - id: 263224 # Gentle Floating Planter
+        costs:
+          3379: 150
+
+      - id: 263225 # Sunlit Glass Mirror
+        costs:
+          3379: 150

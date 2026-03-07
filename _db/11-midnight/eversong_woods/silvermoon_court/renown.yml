@@ -1,0 +1,295 @@
+things:
+  - id: 240838
+    type: "vendor"
+    name: "Caeris Fairdawn"
+    note: "Renown Quartermaster"
+
+    locations:
+      here: # eversong_woods
+        - 43.4 47.4
+
+    groups:
+
+      - name: "Silvermoon Court - Misc"
+        range: 4
+        sortKey: "rep-sc-1-1"
+
+      - name: "Silvermoon Court - Decor"
+        range: 16
+        sortKey: "rep-sc-1-2"
+
+      - name: "Silvermoon Court - Professions"
+        range: 12
+        sortKey: "rep-sc-1-3"
+
+      - name: "Silvermoon Court - Transmog"
+        range: -1
+        sortKey: "rep-sc-1-9"
+
+    contents:
+
+      # Misc
+
+      - id: 259224 # Dragonhawk Munchkin [pet]
+        costs:
+          3316: 2500
+        requirements:
+          - "reputation 2710 renown-12"
+
+      - id: 259240 # Sin'dorei Wine [toy]
+        costs:
+          3316: 4000
+        requirements:
+          - "reputation 2710 renown-13"
+
+      - id: 257154 # Crimson Silvermoon Hawkstrider [mount]
+        costs:
+          3316: 6000
+        requirements:
+          - "reputation 2710 renown-17"
+
+      - id: 257142 # Fiery Dragonhawk [mount]
+        costs:
+          3316: 8000
+        requirements:
+          - "reputation 2710 renown-19"
+
+      # Decor
+
+      - id: 263205 # Crimson Silvermoon Runner [decor]
+        costs:
+          3316: 750
+        requirements:
+          - "reputation 2710 renown-3"
+
+      - id: 263223 # Gilded Sky-Blue Drapery [decor]
+        costs:
+          3316: 750
+        requirements:
+          - "reputation 2710 renown-3"
+
+      - id: 263206 # Plum Eversong Rug [decor]
+        costs:
+          3316: 750
+        requirements:
+          - "reputation 2710 renown-3"
+
+      - id: 257422 # Gilded Sunfury Chair [decor]
+        costs:
+          3316: 750
+        requirements:
+          - "reputation 2710 renown-7"
+
+      - id: 263228 # Grand Lightwood Table [decor]
+        costs:
+          3316: 2500
+        requirements:
+          - "reputation 2710 renown-7"
+
+      - id: 245290 # Long Silvermoon Table [decor]
+        costs:
+          3316: 750
+        requirements:
+          - "reputation 2710 renown-7"
+
+      - id: 263229 # Ornate Lightwood Table [decor]
+        costs:
+          3316: 750
+        requirements:
+          - "reputation 2710 renown-7"
+
+      - id: 256040 # Silvermoon Gemmed Chair [decor]
+        costs:
+          3316: 750
+        requirements:
+          - "reputation 2710 renown-7"
+
+      - id: 263232 # Floating Spire Shelf [decor]
+        costs:
+          3316: 750
+        requirements:
+          - "reputation 2710 renown-11"
+
+      - id: 263234 # Turning Silvermoon Archives [decor]
+        costs:
+          3316: 2500
+        requirements:
+          - "reputation 2710 renown-11"
+
+      - id: 257421 # Bejeweled Silvermoon Chandelier [decor]
+        costs:
+          3316: 750
+        requirements:
+          - "reputation 2710 renown-15"
+
+      - id: 245985 # Floating Azure Lantern [decor]
+        costs:
+          3316: 750
+        requirements:
+          - "reputation 2710 renown-15"
+
+      - id: 264264 # Gilded Vigil Post [decor]
+        costs:
+          3316: 750
+        requirements:
+          - "reputation 2710 renown-15"
+
+      - id: 264265 # Sanctified Flame Lantern [decor]
+        costs:
+          3316: 750
+        requirements:
+          - "reputation 2710 renown-15"
+
+      - id: 249559 # Reverent Sin'dorei Statue [decor]
+        costs:
+          3316: 2500
+        requirements:
+          - "reputation 2710 renown-18"
+
+      - id: 245941 # Silvermoon Sanctum Focus [decor]
+        costs:
+          3316: 2500
+        requirements:
+          - "reputation 2710 renown-18"
+
+      # Professions
+
+      - id: 265528 # Plans: Gilded Silvermoon Anvil [blacksmithing]
+        costs:
+          3257: 150
+
+      - id: 265532 # Plans: Gilded Silvermoon Hanger [blacksmithing]
+        costs:
+          3257: 150
+
+      - id: 256760 # Formula: Enchant Ring - Silvermoon's Tenacity [enchanting]
+        costs:
+          3258: 150
+          3316: 1500
+        requirements:
+          - "reputation 2710 renown-5"
+
+      - id: 268042 # Formula: Endless Codex of Blooming Light [enchanting]
+        costs:
+          3258: 150
+          3316: 1500
+        requirements:
+          - "reputation 2710 renown-5"
+
+      - id: 259374 # Formula: Spellbound Tome of Thalassian Magics [enchanting]
+        costs:
+          3258: 150
+          3316: 1500
+        requirements:
+          - "reputation 2710 renown-5"
+
+      - id: 263444 # Technique: Contract: The Silvermoon Court [inscription]
+        costs:
+          3261: 150
+          3316: 1500
+        requirements:
+          - "reputation 2710 renown-5"
+
+      - id: 259363 # Design: Bejeweled Sin'dorei Lyre [jewelcrafting]
+        costs:
+          3262: 150
+          3316: 1500
+        requirements:
+          - "reputation 2710 renown-5"
+
+      - id: 256636 # Pattern: Row Walker's Deflectors [leatherworking]
+        costs:
+          3263: 150
+          3316: 1500
+        requirements:
+          - "reputation 2710 renown-5"
+
+      - id: 258124 # Pattern: Arcanoweave Spellthread [tailoring]
+        costs:
+          3266: 150
+          3316: 1500
+        requirements:
+          - "reputation 2710 renown-5"
+
+      - id: 257600 # Skill Issue: Enchanting
+        costs:
+          3258: 75
+          3316: 750
+        requirements:
+          - "reputation 2710 renown-6"
+
+      - id: 257599 # Skill Issue: Jewelcrafting
+        costs:
+          3262: 75
+          3316: 750
+        requirements:
+          - "reputation 2710 renown-6"
+
+      - id: 257601 # Skill Issue: Tailoring
+        costs:
+          3266: 75
+          3316: 750
+        requirements:
+          - "reputation 2710 renown-6"
+
+      # 0 set=5608
+
+      - id: 259028 # Ensemble: Haven's Elegant Regalia
+        costs:
+          3316: 5000
+        requirements:
+          - "reputation 2710 renown-2"
+
+      - id: 265658 # Silvermoon Court Cloak [subclass=5 back]
+        costs:
+          3316: 3000
+        requirements:
+          - "reputation 2710 renown-2"
+
+      - id: 267638 # Tarnished Silvermoon Sunspire [cloth head]
+        costs:
+          3316: 25
+        requirements:
+          - "reputation 2710 renown-2"
+
+      - id: 267639 # Tarnished Silvermoon Sunguard [leather head]
+        costs:
+          3316: 25
+        requirements:
+          - "reputation 2710 renown-2"
+
+      - id: 267640 # Tarnished Silvermoon Sunveil [mail head]
+        costs:
+          3316: 25
+        requirements:
+          - "reputation 2710 renown-2"
+
+      - id: 267641 # Tarnished Silvermoon Suncrest [plate head]
+        costs:
+          3316: 25
+        requirements:
+          - "reputation 2710 renown-2"
+
+      - id: 265663 # Silvermoon Court Tabard [tabard]
+        costs:
+          3316: 3000
+        requirements:
+          - "reputation 2710 renown-10"
+
+      - id: 259082 # Ensemble: Haven Dignitary's Trappings
+        costs:
+          3316: 5000
+        requirements:
+          - "reputation 2710 renown-14"
+
+      - id: 265659 # Silvermoon Court Epaulets [subclass=5 shoulders]
+        costs:
+          3316: 3000
+        requirements:
+          - "reputation 2710 renown-16"
+
+      - id: 259091 # Ensemble: Haven Socialite's Attire
+        costs:
+          3316: 5000
+        requirements:
+          - "reputation 2710 renown-20"

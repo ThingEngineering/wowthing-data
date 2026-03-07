@@ -1,0 +1,43 @@
+things:
+  - id: 242725
+    type: "vendor"
+    name: "Armorer Goldcrest"
+    note: "Blood Knight Vendor"
+
+    locations:
+      here: # eversong_woods
+        - 43.4 47.4
+        - 43.4 47.6
+
+    contents:
+
+      # 0
+
+      - id: 265997 # Blood Knight Champion's Tabard [tabard]
+        costs:
+          3379: 100
+
+      - id: 259081 # Ensemble: Blood Knight Dignitary's Trappings
+        costs:
+          3379: 100
+
+      - id: 259088 # Ensemble: Blood Knight Socialite's Attire
+        costs:
+          3379: 100
+
+      - id: 259027 # Ensemble: Blood Knight's Elegant Regalia
+        costs:
+          3379: 100
+
+      - id: 264907 # Blood Knight Recruit's Shield [shield]
+        costs:
+          3379: 200
+
+      - id: 259364 # Formula: Animated Sin'dorei Hammer
+        costs:
+          3379: 200
+          3258: 150
+
+      - id: 263203 # Rack of Silvermoon Arms
+        costs:
+          3379: 150
