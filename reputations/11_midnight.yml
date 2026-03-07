@@ -67,14 +67,14 @@ reputations:
 
 -
   - both:
-      id: 2742 # Delves: Season 1
-      icon: "achievement/61797" # My Shady Nemesis
-      iconText: "Sing"
-
-  - both:
       id: 2744 # Valeera Sanguinar
       icon: "achievement/60891" # The Crimson Rogue
       iconText: "Val"
+
+  - both:
+      id: 2742 # Delves: Season 1
+      icon: "achievement/61797" # My Shady Nemesis
+      iconText: "Sing"
 
   - both:
       id: 2764 # Prey: Season 1
