@@ -1,0 +1,111 @@
+requirements:
+  - "profession herbalism mid 1"
+
+tags:
+  - "profession:herbalism"
+  - "treasure:profession"
+
+things:
+  - type: "object"
+    id: 525974 # A Spade
+    name: "{item:238472}" # A Spade
+    reset: "never"
+    trackingQuestId: 89158
+    locations:
+      "11-midnight/eversong-woods":
+        - "64.2 30.5"
+    contents:
+      - type: "item"
+        id: 238472 # A Spade
+        note: "{price:3|3154}" # Herbalism Knowledge
+
+  - type: "object"
+    id: 525970 # Bloomed Bud
+    name: "{item:238468}" # Bloomed Bud
+    reset: "never"
+    trackingQuestId: 89162
+    locations:
+      "11-midnight/harandar":
+        - "38.3 67.0"
+    contents:
+      - type: "item"
+        id: 238468 # Bloomed Bud
+        note: "{price:3|3154}" # Herbalism Knowledge
+
+  - type: "object"
+    id: 525975 # Harvester's Sickle
+    name: "{item:238473}" # Harvester's Sickle
+    reset: "never"
+    trackingQuestId: 89157
+    locations:
+      "11-midnight/harandar":
+        - "76.1 51.1"
+    contents:
+      - type: "item"
+        id: 238473 # Harvester's Sickle
+        note: "{price:3|3154}" # Herbalism Knowledge
+
+  - type: "object"
+    id: 525973 # Lightbloom Root
+    name: "{item:238471}" # Lightbloom Root
+    reset: "never"
+    trackingQuestId: 89159
+    locations:
+      "11-midnight/harandar":
+        - "36.7 25.1"
+    contents:
+      - type: "item"
+        id: 238471 # Lightbloom Root
+        note: "{price:3|3154}" # Herbalism Knowledge
+
+  - type: "object"
+    id: 525976 # Peculiar Lotus
+    name: "{item:238474}" # Peculiar Lotus
+    reset: "never"
+    trackingQuestId: 89156
+    locations:
+      "11-midnight/voidstorm":
+        - "34.7 57.0"
+    contents:
+      - type: "item"
+        id: 238474 # Peculiar Lotus
+        note: "{price:3|3154}" # Herbalism Knowledge
+
+  - type: "object"
+    id: 525977 # Planting Shovel
+    name: "{item:238475}" # Planting Shovel
+    reset: "never"
+    trackingQuestId: 89155
+    locations:
+      "11-midnight/harandar":
+        - "51.1 55.7"
+    contents:
+      - type: "item"
+        id: 238475 # Planting Shovel
+        note: "{price:3|3154}" # Herbalism Knowledge
+
+  - type: "object"
+    id: 525972 # Simple Leaf Pruners
+    name: "{item:238470}" # Simple Leaf Pruners
+    reset: "never"
+    trackingQuestId: 89160
+    locations:
+      "11-midnight/silvermoon-city":
+        - "49.0 75.9"
+    contents:
+      - type: "item"
+        id: 238470 # Simple Leaf Pruners
+        note: "{price:3|3154}" # Herbalism Knowledge
+
+  - type: "object"
+    id: 525971 # Sweeping Harvester's Scythe
+    name: "{item:238469}" # Sweeping Harvester's Scythe
+    reset: "never"
+    trackingQuestId: 89161
+    locations:
+      "11-midnight/zul-aman":
+        - "41.9 46.0"
+    contents:
+      - type: "item"
+        id: 238469 # Sweeping Harvester's Scythe
+        note: "{price:3|3154}" # Herbalism Knowledge

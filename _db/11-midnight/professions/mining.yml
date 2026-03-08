@@ -1,0 +1,111 @@
+requirements:
+  - "profession mining mid 1"
+
+tags:
+  - "profession:mining"
+  - "treasure:profession"
+
+things:
+  - type: "object"
+    id: 525908 # Amani Expert's Chisel
+    name: "{item:238601}" # Amani Expert's Chisel
+    reset: "never"
+    trackingQuestId: 89149
+    locations:
+      "11-midnight/zul-aman":
+        - "33.3 65.9"
+    contents:
+      - type: "item"
+        id: 238601 # Amani Expert's Chisel
+        note: "{price:3|3158}" # Mining Knowledge
+
+  - type: "object"
+    id: 525909 # Glimmering Void Pearl
+    name: "{item:238600}" # Glimmering Void Pearl
+    reset: "never"
+    trackingQuestId: 89148
+    locations:
+      "11-midnight/voidstorm":
+        - "28.8 38.5"
+    contents:
+      - type: "item"
+        id: 238600 # Glimmering Void Pearl
+        note: "{price:3|3158}" # Mining Knowledge
+
+  - type: "object"
+    id: 525911 # Lost Voidstorm Satchel
+    name: "{item:238598}" # Lost Voidstorm Satchel
+    reset: "never"
+    trackingQuestId: 89146
+    locations:
+      "11-midnight/voidstorm":
+        - "54.2 51.6"
+    contents:
+      - type: "item"
+        id: 238598 # Lost Voidstorm Satchel
+        note: "{price:3|3158}" # Mining Knowledge
+
+  - type: "object"
+    id: 525913 # Miner's Guide to Voidstorm
+    name: "{item:238596}" # Miner's Guide to Voidstorm
+    reset: "never"
+    trackingQuestId: 89144
+    locations:
+      "11-midnight/voidstorm":
+        - "30.5 69.1"
+    contents:
+      - type: "item"
+        id: 238596 # Miner's Guide to Voidstorm
+        note: "{price:3|3158}" # Mining Knowledge
+
+  - type: "object"
+    id: 525910 # Solid Ore Punchers
+    name: "{item:238599}" # Solid Ore Punchers
+    reset: "never"
+    trackingQuestId: 89147
+    locations:
+      "11-midnight/eversong-woods":
+        - "38.0 45.4"
+    contents:
+      - type: "item"
+        id: 238599 # Solid Ore Punchers
+        note: "{price:3|3158}" # Mining Knowledge
+
+  - type: "object"
+    id: 525906 # Spare Expedition Torch
+    name: "{item:238603}" # Spare Expedition Torch
+    reset: "never"
+    trackingQuestId: 89151
+    locations:
+      "11-midnight/haradar":
+        - "38.8 65.9"
+    contents:
+      - type: "item"
+        id: 238603 # Spare Expedition Torch
+        note: "{price:3|3158}" # Mining Knowledge
+
+  - type: "object"
+    id: 525912 # Spelunker's Lucky Charm
+    name: "{item:238597}" # Spelunker's Lucky Charm
+    reset: "never"
+    trackingQuestId: 89145
+    locations:
+      "11-midnight/zulaman":
+        - "42.0 46.5"
+    contents:
+      - type: "item"
+        id: 238597 # Spelunker's Lucky Charm
+        note: "{price:3|3158}" # Mining Knowledge
+
+  - type: "object"
+    id: 525907 # Star Metal Deposit
+    name: "{item:238602}" # Star Metal Deposit
+    reset: "never"
+    trackingQuestId: 89150
+    locations:
+      "11-midnight/voidstorm":
+        - "41.8 38.2"
+    contents:
+      - type: "item"
+        id: 238602 # Star Metal Deposit
+        note: "{price:3|3158}" # Mining Knowledge

@@ -1,0 +1,111 @@
+requirements:
+  - "profession skinning mid 1"
+
+tags:
+  - "profession:skinning"
+  - "treasure:profession"
+
+things:
+  - type: "object"
+    id: 525891 # Amani Skinning Knife
+    name: "{item:238634}" # Amani Skinning Knife
+    reset: "never"
+    trackingQuestId: 89172
+    locations:
+      "11-midnight/zul-aman":
+        - "33.1 79.1"
+    contents:
+      - type: "item"
+        id: 238634 # Amani Skinning Knife
+        note: "{price:3|3159}" # Skinning Knowledge
+
+  - type: "object"
+    id: 525893 # Amani Tanning Oil
+    name: "{item:238632}" # Amani Tanning Oil
+    reset: "never"
+    trackingQuestId: 89170
+    locations:
+      "11-midnight/zul-aman":
+        - "40.4 36.0"
+    contents:
+      - type: "item"
+        id: 238632 # Amani Tanning Oil
+        note: "{price:3|3159}" # Skinning Knowledge
+
+  - type: "object"
+    id: 525896 # Cadre Skinning Knife
+    name: "{item:238629}" # Cadre Skinning Knife
+    reset: "never"
+    trackingQuestId: 89167
+    locations:
+      "11-midnight/zul-aman":
+        - "44.9 45.2"
+    contents:
+      - type: "item"
+        id: 238629 # Cadre Skinning Knife
+        note: "{price:3|3159}" # Skinning Knowledge
+
+  - type: "object"
+    id: 525897 # Lightbloom Afflicted Hide
+    name: "{item:238628}" # Lightbloom Afflicted Hide
+    reset: "never"
+    trackingQuestId: 89166
+    locations:
+      "11-midnight/harandar":
+        - "76.0 51.1"
+    contents:
+      - type: "item"
+        id: 238628 # Lightbloom Afflicted Hide
+        note: "{price:3|3159}" # Skinning Knowledge
+
+  - type: "object"
+    id: 525895 # Primal Hide
+    name: "{item:238630}" # Primal Hide
+    reset: "never"
+    trackingQuestId: 89168
+    locations:
+      "11-midnight/harandar":
+        - "69.5 49.2"
+    contents:
+      - type: "item"
+        id: 238630 # Primal Hide
+        note: "{price:3|3159}" # Skinning Knowledge
+
+  - type: "object"
+    id: 525892 # Sin'dorei Tanning Oil
+    name: "{item:238633}" # Sin'dorei Tanning Oil
+    reset: "never"
+    trackingQuestId: 89171
+    locations:
+      "11-midnight/silvermoon-city":
+        - "43.2 55.7"
+    contents:
+      - type: "item"
+        id: 238633 # Sin'dorei Tanning Oil
+        note: "{price:3|3159}" # Skinning Knowledge
+
+  - type: "object"
+    id: 525890 # Thalassian Skinning Knife
+    name: "{item:238635}" # Thalassian Skinning Knife
+    reset: "never"
+    trackingQuestId: 89173
+    locations:
+      "11-midnight/eversong-woods":
+        - "48.4 76.3"
+    contents:
+      - type: "item"
+        id: 238635 # Thalassian Skinning Knife
+        note: "{price:3|3159}" # Skinning Knowledge
+
+  - type: "object"
+    id: 525894 # Voidstorm Leather Sample
+    name: "{item:238631}" # Voidstorm Leather Sample
+    reset: "never"
+    trackingQuestId: 89169
+    locations:
+      "11-midnight/voidstorm":
+        - "45.5 42.4"
+    contents:
+      - type: "item"
+        id: 238631 # Voidstorm Leather Sample
+        note: "{price:3|3159}" # Skinning Knowledge
