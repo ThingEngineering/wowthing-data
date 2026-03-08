@@ -1,0 +1,112 @@
+requirements:
+  - "profession tailoring mid 1"
+
+tags:
+  - "profession:tailoring"
+  - "treasure:profession"
+
+things:
+  - type: "object"
+    id: 525905 # A Child's Stuffy
+    name: "{item:238612}" # A Child's Stuffy
+    reset: "never"
+    trackingQuestId: 89078
+    locations:
+      "11-midnight/harandar":
+        - "70.5 50.9"
+    contents:
+      - type: "item"
+        id: 238612 # A Child's Stuffy
+        note: "{price:3|3160}" # Tailoring Knowledge
+
+  - type: "object"
+    id: 525904 # A Really Nice Curtain
+    name: "{item:238613}" # A Really Nice Curtain
+    reset: "never"
+    trackingQuestId: 89079
+    locations:
+      "11-midnight/silvermoon-city":
+        - "35.9 61.3"
+    contents:
+      - type: "item"
+        id: 238613 # A Really Nice Curtain
+        note: "{price:3|3160}" # Tailoring Knowledge
+
+  - type: "object"
+    id: 525898 # Artisan's Cover Comb
+    name: "{item:238619}" # Artisan's Cover Comb
+    reset: "never"
+    trackingQuestId: 89085
+    locations:
+      "11-midnight/zul-aman":
+        - "40.5 49.4"
+    contents:
+      - type: "item"
+        id: 238619 # Artisan's Cover Comb
+        note: "{price:3|3160}" # Tailoring Knowledge
+
+  - type: "object"
+    id: 525901 # Book of Sin'dorei Stitches
+    name: "{item:238616}" # Book of Sin'dorei Stitches
+    reset: "never"
+    trackingQuestId: 89082
+    locations:
+      "11-midnight/voidstorm":
+        - "62.0 83.6"
+    contents:
+      - type: "item"
+        id: 238616 # Book of Sin'dorei Stitches
+        note: "{price:3|3160}" # Tailoring Knowledge
+
+  - type: "object"
+    id: 525899 # Particularly Enchanting Tablecloth
+    name: "{item:238618}" # Particularly Enchanting Tablecloth
+    reset: "never"
+    trackingQuestId: 89084
+    locations:
+      "11-midnight/silvermoon-city":
+        - "31.8 68.2"
+    contents:
+      - type: "item"
+        id: 238618 # Particularly Enchanting Tablecloth
+        note: "{price:3|3160}" # Tailoring Knowledge
+
+  - type: "object"
+    id: 525900 # Satin Throw Pillow
+    name: "{item:238617}" # Satin Throw Pillow
+    reset: "never"
+    trackingQuestId: 89083
+    locations:
+      "11-midnight/voidstorm":
+        - "61.6 85.0"
+    contents:
+      - type: "item"
+        id: 238617 # Satin Throw Pillow
+        note: "{price:3|3160}" # Tailoring Knowledge
+
+  - type: "object"
+    id: 525903 # Sin'dorei Outfitter's Ruler
+    name: "{item:238614}" # Sin'dorei Outfitter's Ruler
+    reset: "never"
+    trackingQuestId: 89080
+    locations:
+      "11-midnight/eversong-woods":
+        - "46.3 34.8"
+    contents:
+      - type: "item"
+        id: 238614 # Sin'dorei Outfitter's Ruler
+        note: "{price:3|3160}" # Tailoring Knowledge
+
+  - type: "object"
+    id: 525902 # Wooden Weaving Sword
+    name: "{item:238615}" # Wooden Weaving Sword
+    reset: "never"
+    trackingQuestId: 89081
+    locations:
+      "11-midnight/harandar":
+        - "69.8 51.0"
+    contents:
+      - type: "item"
+        id: 238615 # Wooden Weaving Sword
+        note: "{price:3|3160}" # Tailoring Knowledge
+

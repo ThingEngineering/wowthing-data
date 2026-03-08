@@ -1,0 +1,111 @@
+requirements:
+  - "profession blacksmithing mid 1"
+
+tags:
+  - "profession:blacksmithing"
+  - "treasure:profession"
+
+things:
+  - type: "object"
+    id: 525959 # Carefully Racked Spear
+    name: "{item:238542}" # Carefully Racked Spear
+    reset: "never"
+    trackingQuestId: 89179
+    locations:
+      "11-midnight/zul-aman":
+        - "33.2 65.9"
+    contents:
+      - type: "item"
+        id: 238542 # Carefully Racked Spear
+        note: "{price:3|3151}" # Blacksmithing Knowledge
+
+  - type: "object"
+    id: 525961 # Deconstructed Forge Techniques
+    name: "{item:238540}" # Deconstructed Forge Techniques
+    reset: "never"
+    trackingQuestId: 89177
+    locations:
+      "11-midnight/silvermoon-city":
+        - "26.9 60.3"
+    contents:
+      - type: "item"
+        id: 238540 # Deconstructed Forge Techniques
+        note: "{price:3|3151}" # Blacksmithing Knowledge
+
+  - type: "object"
+    id: 525958 # Metalworking Cheat Sheet
+    name: "{item:238543}" # Metalworking Cheat Sheet
+    reset: "never"
+    trackingQuestId: 89180
+    locations:
+      "11-midnight/eversong-woods":
+        - "56.8 40.8"
+    contents:
+      - type: "item"
+        id: 238543 # Metalworking Cheat Sheet
+        note: "{price:3|3151}" # Blacksmithing Knowledge
+
+  - type: "object"
+    id: 525956 # Rutaani Floratender's Sword
+    name: "{item:238545}" # Rutaani Floratender's Sword
+    reset: "never"
+    trackingQuestId: 89182
+    locations:
+      "11-midnight/harandar":
+        - "66.3 50.9"
+    contents:
+      - type: "item"
+        id: 238545 # Rutaani Floratender's Sword
+        note: "{price:3|3151}" # Blacksmithing Knowledge
+
+  - type: "object"
+    id: 525954 # Silvermoon Blacksmith's Hammer
+    name: "{item:238547}" # Silvermoon Blacksmith's Hammer
+    reset: "never"
+    trackingQuestId: 89184
+    locations:
+      "11-midnight/silvermoon-city":
+        - "48.5 74.7"
+    contents:
+      - type: "item"
+        id: 238547 # Silvermoon Blacksmith's Hammer
+        note: "{price:3|3151}" # Blacksmithing Knowledge
+
+  - type: "object"
+    id: 525960 # Silvermoon Smithing Kit --TODO or 627583???
+    name: "{item:238541}" # Silvermoon Smithing Kit
+    reset: "never"
+    trackingQuestId: 89178
+    locations:
+      "11-midnight/eversong-woods":
+        - "48.3 75.8"
+    contents:
+      - type: "item"
+        id: 238541 # Silvermoon Smithing Kit
+        note: "{price:3|3151}" # Blacksmithing Knowledge
+
+  - type: "object"
+    id: 525955 # Sin'dorei Master's Forgemace
+    name: "{item:238546}" # Sin'dorei Master's Forgemace
+    reset: "never"
+    trackingQuestId: 89183
+    locations:
+      "11-midnight/silvermoon-city":
+        - "49.2 61.3"
+    contents:
+      - type: "item"
+        id: 238546 # Sin'dorei Master's Forgemace
+        note: "{price:3|3151}" # Blacksmithing Knowledge
+
+  - type: "object"
+    id: 525957 # Voidstorm Defense Spear
+    name: "{item:238544}" # Voidstorm Defense Spear
+    reset: "never"
+    trackingQuestId: 89181
+    locations:
+      "11-midnight/voidstorm":
+        - "30.6 69.0"
+    contents:
+      - type: "item"
+        id: 238544 # Voidstorm Defense Spear
+        note: "{price:3|3151}" # Blacksmithing Knowledge

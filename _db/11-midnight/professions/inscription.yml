@@ -1,0 +1,111 @@
+requirements:
+  - "profession inscription mid 1"
+
+tags:
+  - "profession:inscription"
+  - "treasure:profession"
+
+things:
+  - type: "object"
+    id: 525932 # Half-Baked Techniques
+    name: "{item:238577}" # Half-Baked Techniques
+    reset: "never"
+    trackingQuestId: 89072
+    locations:
+      "11-midnight/eversong-woods":
+        - "39.3 45.4"
+    contents:
+      - type: "item"
+        id: 238577 # Half-Baked Techniques
+        note: "{price:3|3155}" # Inscription Knowledge
+
+  - type: "object"
+    id: 525934 # Intrepid Explorer's Marker
+    name: "{item:238575}" # Intrepid Explorer's Marker
+    reset: "never"
+    trackingQuestId: 89070
+    locations:
+      "11-midnight/harandar":
+        - "52.4 52.6"
+    contents:
+      - type: "item"
+        id: 238575 # Intrepid Explorer's Marker
+        note: "{price:3|3155}" # Inscription Knowledge
+
+  - type: "object"
+    id: 525936 # Leather-Bound Techniques
+    name: "{item:238573}" # Leather-Bound Techniques
+    reset: "never"
+    trackingQuestId: 89068
+    locations:
+      "11-midnight/zul-aman":
+        - "40.5 49.4"
+    contents:
+      - type: "item"
+        id: 238573 # Leather-Bound Techniques
+        note: "{price:3|3155}" # Inscription Knowledge
+
+  - type: "object"
+    id: 525933 # Leftover Sanguithorn Pigment
+    name: "{item:238576}" # Leftover Sanguithorn Pigment
+    reset: "never"
+    trackingQuestId: 89071
+    locations:
+      "11-midnight/harandar":
+        - "52.7 50.0"
+    contents:
+      - type: "item"
+        id: 238576 # Leftover Sanguithorn Pigment
+        note: "{price:3|3155}" # Inscription Knowledge
+
+  - type: "object"
+    id: 525931 # Songwriter's Pen
+    name: "{item:238578}" # Songwriter's Pen
+    reset: "never"
+    trackingQuestId: 89073
+    locations:
+      "11-midnight/silvermoon-city":
+        - "47.7 50.4"
+    contents:
+      - type: "item"
+        id: 238578 # Songwriter's Pen
+        note: "{price:3|3155}" # Inscription Knowledge
+
+  - type: "object"
+    id: 525930 # Songwriter's Quill
+    name: "{item:238579}" # Songwriter's Quill
+    reset: "never"
+    trackingQuestId: 89074
+    locations:
+      "11-midnight/eversong-woods":
+        - "40.3 61.2"
+    contents:
+      - type: "item"
+        id: 238579 # Songwriter's Quill
+        note: "{price:3|3155}" # Inscription Knowledge
+
+  - type: "object"
+    id: 525935 # Spare Ink
+    name: "{item:238574}" # Spare Ink
+    reset: "never"
+    trackingQuestId: 89069
+    locations:
+      "11-midnight/eversong-woods":
+        - "48.3 75.6"
+    contents:
+      - type: "item"
+        id: 238574 # Spare Ink
+        note: "{price:3|3155}" # Inscription Knowledge
+
+  - type: "object"
+    id: 525937 # Void-Touched Quill
+    name: "{item:238572}" # Void-Touched Quill
+    reset: "never"
+    trackingQuestId: 89067
+    locations:
+      "11-midnight/voidstorm":
+        - "60.7 84.3"
+    contents:
+      - type: "item"
+        id: 238572 # Void-Touched Quill
+        note: "{price:3|3155}" # Inscription Knowledge

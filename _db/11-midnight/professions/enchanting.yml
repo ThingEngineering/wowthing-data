@@ -1,0 +1,111 @@
+requirements:
+  - "profession enchanting mid 1"
+
+tags:
+  - "profession:enchanting"
+  - "treasure:profession"
+
+things:
+  - type: "object"
+    id: 525953 # Enchanted Amani Mask
+    name: "{item:238548}" # Enchanted Amani Mask
+    reset: "never"
+    trackingQuestId: 89100
+    locations:
+      "11-midnight/zul-aman":
+        - "48.4 22.9"
+    contents:
+      - type: "item"
+        id: 238548 # Enchanted Amani Mask
+        note: "{price:3|3152}" # Enchanting Knowledge
+
+  - type: "object"
+    id: 525952 # Enchanted Sunfire Silk
+    name: "{item:238549}" # Enchanted Sunfire Silk
+    reset: "never"
+    trackingQuestId: 89101
+    locations:
+      "11-midnight/eversong-woods":
+        - "40.2 61.2"
+    contents:
+      - type: "item"
+        id: 238549 # Enchanted Sunfire Silk
+        note: "{price:3|3152}" # Enchanting Knowledge
+
+  - type: "object"
+    id: 525949 # Entropic Shard
+    name: "{item:238552}" # Entropic Shard
+    reset: "never"
+    trackingQuestId: 89104
+    locations:
+      "11-midnight/harandar":
+        - "37.7 65.3"
+    contents:
+      - type: "item"
+        id: 238552 # Entropic Shard
+        note: "{price:3|3152}" # Enchanting Knowledge
+
+  - type: "object"
+    id: 525950 # Everblazing Sunmote
+    name: "{item:238551}" # Everblazing Sunmote
+    reset: "never"
+    trackingQuestId: 89103
+    locations:
+      "11-midnight/eversong-woods":
+        - "60.8 53.0"
+    contents:
+      - type: "item"
+        id: 238551 # Everblazing Sunmote
+        note: "{price:3|3152}" # Enchanting Knowledge
+
+  - type: "object"
+    id: 525947 # Loa-Blessed Dust
+    name: "{item:238554}" # Loa-Blessed Dust
+    reset: "never"
+    trackingQuestId: 89106
+    locations:
+      "11-midnight/zul-aman":
+        - "40.4 51.1"
+    contents:
+      - type: "item"
+        id: 238554 # Loa-Blessed Dust
+        note: "{price:3|3152}" # Enchanting Knowledge
+
+  - type: "object"
+    id: 525948 # Primal Essence Orb
+    name: "{item:238553}" # Primal Essence Orb
+    reset: "never"
+    trackingQuestId: 89105
+    locations:
+      "11-midnight/harandar":
+        - "65.8 50.2"
+    contents:
+      - type: "item"
+        id: 238553 # Primal Essence Orb
+        note: "{price:3|3152}" # Enchanting Knowledge
+
+  - type: "object"
+    id: 525951 # Pure Void Crystal
+    name: "{item:238550}" # Pure Void Crystal
+    reset: "never"
+    trackingQuestId: 89102
+    locations:
+      "11-midnight/voidstorm":
+        - "35.5 58.8"
+    contents:
+      - type: "item"
+        id: 238550 # Pure Void Crystal
+        note: "{price:3|3152}" # Enchanting Knowledge
+
+  - type: "object"
+    id: 525946 # Sin'dorei Enchanting Rod
+    name: "{item:238555}" # Sin'dorei Enchanting Rod
+    reset: "never"
+    trackingQuestId: 89107
+    locations:
+      "11-midnight/eversong-woods":
+        - "63.5 32.6"
+    contents:
+      - type: "item"
+        id: 238555 # Sin'dorei Enchanting Rod
+        note: "{price:3|3152}" # Enchanting Knowledge

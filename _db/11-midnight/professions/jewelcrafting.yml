@@ -1,0 +1,111 @@
+requirements:
+  - "profession jewelcrafting mid 1"
+
+tags:
+  - "profession:jewelcrafting"
+  - "treasure:profession"
+
+things:
+  - type: "object"
+    id: 525927 # Dual-Function Magnifiers
+    name: "{item:238582}" # Dual-Function Magnifiers
+    reset: "never"
+    trackingQuestId: 89124
+    locations:
+      "11-midnight/silvermoon-city":
+        - "28.6 46.5"
+    contents:
+      - type: "item"
+        id: 238582 # Dual-Function Magnifiers
+        note: "{price:3|3156}" # Jewelcrafting Knowledge
+
+  - type: "object"
+    id: 525923 # Ethereal Gem Pliers
+    name: "{item:238586}" # Ethereal Gem Pliers
+    reset: "never"
+    trackingQuestId: 89128
+    locations:
+      "11-midnight/voidstorm":
+        - "54.2 51.2"
+    contents:
+      - type: "item"
+        id: 238586 # Ethereal Gem Pliers
+        note: "{price:3|3156}" # Jewelcrafting Knowledge
+
+  - type: "object"
+    id: 525926 # Poorly Rounded Vial
+    name: "{item:238583}" # Poorly Rounded Vial
+    reset: "never"
+    trackingQuestId: 89125
+    locations:
+      "11-midnight/eversong-woods":
+        - "56.6 40.9"
+    contents:
+      - type: "item"
+        id: 238583 # Poorly Rounded Vial
+        note: "{price:3|3156}" # Jewelcrafting Knowledge
+
+  - type: "object"
+    id: 525925 # Shattered Glass
+    name: "{item:238584}" # Shattered Glass
+    reset: "never"
+    trackingQuestId: 89126
+    locations:
+      "11-midnight/voidstorm":
+        - "62.7 53.4"
+    contents:
+      - type: "item"
+        id: 238584 # Shattered Glass
+        note: "{price:3|3156}" # Jewelcrafting Knowledge
+
+  - type: "object"
+    id: 525922 # Sin'dorei Gem Faceters
+    name: "{item:238587}" # Sin'dorei Gem Faceters
+    reset: "never"
+    trackingQuestId: 89129
+    locations:
+      "11-midnight/eversong-woods":
+        - "39.6 38.9"
+    contents:
+      - type: "item"
+        id: 238587 # Sin'dorei Gem Faceters
+        note: "{price:3|3156}" # Jewelcrafting Knowledge
+
+  - type: "object"
+    id: 525929 # Sin'dorei Masterwork Chisel
+    name: "{item:238580}" # Sin'dorei Masterwork Chisel
+    reset: "never"
+    trackingQuestId: 89122
+    locations:
+      "11-midnight/silvermoon-city":
+        - "50.6 56.6"
+    contents:
+      - type: "item"
+        id: 238580 # Sin'dorei Masterwork Chisel
+        note: "{price:3|3156}" # Jewelcrafting Knowledge
+
+  - type: "object"
+    id: 525928 # Speculative Voidstorm Crystal
+    name: "{item:238581}" # Speculative Voidstorm Crystal
+    reset: "never"
+    trackingQuestId: 89123
+    locations:
+      "11-midnight/voidstorm":
+        - "30.5 69.1"
+    contents:
+      - type: "item"
+        id: 238581 # Speculative Voidstorm Crystal
+        note: "{price:3|3156}" # Jewelcrafting Knowledge
+
+  - type: "object"
+    id: 525924 # Vintage Soul Gem
+    name: "{item:238585}" # Vintage Soul Gem
+    reset: "never"
+    trackingQuestId: 89127
+    locations:
+      "11-midnight/silvermoon-city":
+        - "55.4 48.0"
+    contents:
+      - type: "item"
+        id: 238585 # Vintage Soul Gem
+        note: "{price:3|3156}" # Jewelcrafting Knowledge

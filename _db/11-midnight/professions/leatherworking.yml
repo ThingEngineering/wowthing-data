@@ -1,0 +1,112 @@
+requirements:
+  - "profession leatherworking mid 1"
+
+tags:
+  - "profession:leatherworking"
+  - "treasure:profession"
+
+things:
+  - type: "object"
+    id: 525921 # Amani Leatherworker's Tool
+    name: "{item:238588}" # Amani Leatherworker's Tool
+    reset: "never"
+    trackingQuestId: 89089
+    locations:
+      "11-midnight/zul-aman":
+        - "33.1 78.9"
+    contents:
+      - type: "item"
+        id: 238588 # Amani Leatherworker's Tool
+        note: "{price:3|3157}" # Leatherworking Knowledge
+
+  - type: "object"
+    id: 525914 # Artisan's Considered Order
+    name: "{item:238595}" # Artisan's Considered Order
+    reset: "never"
+    trackingQuestId: 89096
+    locations:
+      "11-midnight/silvermoon-city":
+        - "44.8 56.2"
+    contents:
+      - type: "item"
+        id: 238595 # Artisan's Considered Order
+        note: "{price:3|3157}" # Leatherworking Knowledge
+
+  - type: "object"
+    id: 525918 # Bundle of Tanner's Trinkets
+    name: "{item:238591}" # Bundle of Tanner's Trinkets
+    reset: "never"
+    trackingQuestId: 89092
+    locations:
+      "11-midnight/zul-aman":
+        - "45.4 45.5"
+    contents:
+      - type: "item"
+        id: 238591 # Bundle of Tanner's Trinkets
+        note: "{price:3|3157}" # Leatherworking Knowledge
+
+  - type: "object"
+    id: 525920 # Ethereal Leatherworking Knife
+    name: "{item:238589}" # Ethereal Leatherworking Knife
+    reset: "never"
+    trackingQuestId: 89090
+    locations:
+      "11-midnight/voidstorm":
+        - "34.7 57.0"
+    contents:
+      - type: "item"
+        id: 238589 # Ethereal Leatherworking Knife
+        note: "{price:3|3157}" # Leatherworking Knowledge
+
+  - type: "object"
+    id: 525915 # Haranir Leatherworking Knife
+    name: "{item:238594}" # Haranir Leatherworking Knife
+    reset: "never"
+    trackingQuestId: 89095
+    locations:
+      "11-midnight/harandar":
+        - "36.1 25.2"
+    contents:
+      - type: "item"
+        id: 238594 # Haranir Leatherworking Knife
+        note: "{price:3|3157}" # Leatherworking Knowledge
+
+  - type: "object"
+    id: 525916 # Haranir Leatherworking Mallet
+    name: "{item:238593}" # Haranir Leatherworking Mallet
+    reset: "never"
+    trackingQuestId: 89094
+    locations:
+      "11-midnight/harandar":
+        - "51.7 51.3"
+    contents:
+      - type: "item"
+        id: 238593 # Haranir Leatherworking Mallet
+        note: "{price:3|3157}" # Leatherworking Knowledge
+
+  - type: "object"
+    id: 525917 # Patterns: Beyond the Void
+    name: "{item:238592}" # Patterns: Beyond the Void
+    reset: "never"
+    trackingQuestId: 89093
+    locations:
+      "11-midnight/voidstorm":
+        - "53.7 51.7"
+    contents:
+      - type: "item"
+        id: 238592 # Patterns: Beyond the Void
+        note: "{price:3|3157}" # Leatherworking Knowledge
+
+  - type: "object"
+    id: 525919 # Prestigiously Racked Hide
+    name: "{item:238590}" # Prestigiously Racked Hide
+    reset: "never"
+    trackingQuestId: 89091
+    locations:
+      "11-midnight/zul-aman":
+        - "30.8 84.0"
+    contents:
+      - type: "item"
+        id: 238590 # Prestigiously Racked Hide
+        note: "{price:3|3157}" # Leatherworking Knowledge
+

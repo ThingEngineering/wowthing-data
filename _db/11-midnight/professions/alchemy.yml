@@ -1,0 +1,111 @@
+requirements:
+  - "profession alchemy mid 1"
+
+tags:
+  - "profession:alchemy"
+  - "treasure:profession"
+
+things:
+  - type: "object"
+    id: 525962 # Failed Experiment
+    name: "{item:238539}" # Failed Experiment
+    reset: "never"
+    trackingQuestId: 89118
+    locations:
+      "11-midnight/voidstorm":
+        - "32.8 43.3"
+    contents:
+      - type: "item"
+        id: 238539 # Failed Experiment
+        note: "{price:3|3150}" # Alchemy Knowledge
+
+  - type: "object"
+    id: 525965 # Freshly Plucked Peacebloom
+    name: "{item:238536}" # Freshly Plucked Peacebloom
+    reset: "never"
+    trackingQuestId: 89115
+    locations:
+      "11-midnight/silvermoon-city":
+        - "49.1 75.8"
+    contents:
+      - type: "item"
+        id: 238536 # Freshly Plucked Peacebloom
+        note: "{price:3|3150}" # Alchemy Knowledge
+
+  - type: "object"
+    id: 525964 # Measured Ladle
+    name: "{item:238537}" # Measured Ladle
+    reset: "never"
+    trackingQuestId: 89116
+    locations:
+      "11-midnight/zul-aman":
+        - "49.1 23.6"
+    contents:
+      - type: "item"
+        id: 238537 # Measured Ladle
+        note: "{price:3|3150}" # Alchemy Knowledge
+
+  - type: "object"
+    id: 525963 # Pristine Potion
+    name: "{item:238538}" # Pristine Potion
+    reset: "never"
+    trackingQuestId: 89117
+    locations:
+      "11-midnight/silvermoon-city":
+        - "47.8 51.8"
+    contents:
+      - type: "item"
+        id: 238538 # Pristine Potion
+        note: "{price:3|3150}" # Alchemy Knowledge
+
+  - type: "object"
+    id: 525969 # Vial of Eversong Oddities
+    name: "{item:238532}" # Vial of Eversong Oddities
+    reset: "never"
+    trackingQuestId: 89111
+    locations:
+      "11-midnight/silvermoon-city":
+        - "45.1 44.9"
+    contents:
+      - type: "item"
+        id: 238532 # Vial of Eversong Oddities
+        note: "{price:3|3150}" # Alchemy Knowledge
+
+  - type: "object"
+    id: 525967 # Vial of Rootlands Oddities
+    name: "{item:238534}" # Vial of Rootlands Oddities
+    reset: "never"
+    trackingQuestId: 89113
+    locations:
+      "11-midnight/harandar":
+        - "34.8 24.7"
+    contents:
+      - type: "item"
+        id: 238534 # Vial of Rootlands Oddities
+        note: "{price:3|3150}" # Alchemy Knowledge
+
+  - type: "object"
+    id: 525968 # Vial of Voidstorm Oddities
+    name: "{item:238533}" # Vial of Voidstorm Oddities
+    reset: "never"
+    trackingQuestId: 89112
+    locations:
+      "11-midnight/voidstorm":
+        - "41.9 40.6"
+    contents:
+      - type: "item"
+        id: 238533 # Vial of Voidstorm Oddities
+        note: "{price:3|3150}" # Alchemy Knowledge
+
+  - type: "object"
+    id: 525966 # Vial of Zul'Aman Oddities
+    name: "{item:238535}" # Vial of Zul'Aman Oddities
+    reset: "never"
+    trackingQuestId: 89114
+    locations:
+      "11-midnight/zul-aman":
+        - "40.4 51.1"
+    contents:
+      - type: "item"
+        id: 238535 # Vial of Zul'Aman Oddities
+        note: "{price:3|3150}" # Alchemy Knowledge
