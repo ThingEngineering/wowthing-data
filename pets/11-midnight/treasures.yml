@@ -18,3 +18,7 @@ groups:
   things:
     - 4881 # Nether Siphoner
     - 4972 # Willie
+
+- name: "Zul'Aman"
+  things:
+    - 4906 # Scruffbeak (Abandoned Nest)

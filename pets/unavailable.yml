@@ -24,6 +24,7 @@ groups:
   - 3580 # Baa'lial (Diablo 4, 2023)
   - 180 # Essence of Competition - ? 2008
   - 121 # Gurky - EU Fansite Thing
+  - 4908 # Lil' Ashlee (buy store stuff 2025)
   - 155 # Lucky - World Wide Invitational 2007
   - 189 # Mini Tyrael - World Wide Invitational 2008
   - 192 # Mr. Chilly - Battle.net Account Merger
@@ -39,6 +40,12 @@ groups:
   - 187 # Vampiric Batling - Karazhan event thing
   - 227 # Warbot - Mountain Dew
 
+- name: "Plunderstorm"
+  things:
+    - 4426 # Bubbles
+    - 4425 # Glamrok
+    - 4435 # Happy
+
 - name: Recruit-A-Friend
   things:
   - 170 # Golden Pig (RAF)
@@ -47,19 +54,25 @@ groups:
   - 247 # Zipao Tiger (RAF)
   - 3475 # Volatile Self-Driving Toolbox
 
+- name: "Remix: Pandaria"
+  things:
+    - 4580 # Astral Emperor's Serpentling
+    - 4579 # Muskpaw Calf
+
+- name: "Remix: Legion"
+  things:
+    - 4901 # Fledgling Warden's Companion
+    - 4802 # Morsel
+    - 1751 # Son of Goredome
+    - 4801 # Tidbit
+
 - name: "The War Within Launch"
   things:
     - 4451 # Remembered Construct
     - 4450 # Remembered Riverpaw
     - 4452 # Remembered Spawn
 
-- name: "Pandaria Remix"
+- name: "Twitch"
   things:
-    - 4579 # Muskpaw Calf
-    - 4580 # Astral Emperor's Serpentling
-
-- name: "Plunderstorm"
-  things:
-    - 4426 # Bubbles
-    - 4425 # Glamrok
-    - 4435 # Happy
+    - 4907 # Lil' Coalee
+    - 4858 # Shadefur Brewthief

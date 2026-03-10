@@ -1,7 +1,7 @@
 name: "The War Within"
 groups:
 
-- name: "Achievemnts"
+- name: "Achievements"
   things:
     - 4841 # Starlight (Bounty Seeker)
     - 4631 # Foreman (Family Battler of Undermine)
@@ -14,6 +14,7 @@ groups:
 
 - name: "Events"
   things:
+    - 3524 # Devourer Lobstrok (Researchers Under Fine)
     - 4636 # Mutt [Shipping & Handling streak?]
     - 4646 # Personal-Use Sapper [Shipping & Handling streak?]
 

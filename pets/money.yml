@@ -16,10 +16,12 @@ groups:
     - 2143 # Tottle (BfA Collector's Edition)
     - 2779 # Anima Wyrmling (Shadowlands)
     - 3175 # Murkastrasza (Dragonflight Heroic Edition)
-    - 4266 # Squally (The War Within Epic Edition)
     - 4590 # Flash (The War Within Epic Edition)
     - 4589 # Gale (The War Within Epic Edition)
+    - 4266 # Squally (The War Within Epic Edition)
     - 4591 # Thundo (The War Within Epic Edition)
+    - 4812 # Doomfeathers (Midnight Epic Edition)
+    - 4811 # Hopeflutter (Midnight Epic Edition)
 
 - name: "Classic?"
   things:
@@ -58,6 +60,7 @@ groups:
   - 3253 # Crushhoof
   - 2780 # Daisy
   - 2623 # Dottie
+  - 4264 # Fyrn
   - 245 # Gryphon Hatchling
   - 311 # Guardian Cub
   - 4421 # Hoplet

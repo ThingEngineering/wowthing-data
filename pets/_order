@@ -8,6 +8,7 @@
     vendors.yml
 
 11-midnight/_.yml
+    11-midnight/pet_battles.yml
 
 10-the-war-within/_.yml
     10-the-war-within/pet_battles.yml
@@ -67,6 +68,8 @@ world_events/_world_events.yml
 -
 
 drops.yml
+    11-midnight/drops.yml Midnight
+    10-the-war-within/drops.yml The War Within
     09-dragonflight/drops.yml Dragonflight
     08-shadowlands/drops.yml Shadowlands
     07-battle-for-azeroth/drops.yml Battle for Azeroth
@@ -75,6 +78,8 @@ drops.yml
     04-mists-of-pandaria/drops.yml Mists of Pandaria
 
 instances.yml
+    11-midnight/instances.yml Midnight
+    10-the-war-within/instances.yml The War Within
     09-dragonflight/instances.yml Dragonflight
     08-shadowlands/instances.yml Shadowlands
     07-battle-for-azeroth/instances.yml Battle for Azeroth
@@ -85,6 +90,7 @@ instances.yml
     00-classic/instances.yml Classic
 
 pet_battles.yml
+    11-midnight/pet_battles.yml Midnight
     10-the-war-within/pet_battles.yml The War Within
     09-dragonflight/pet_battles.yml Dragonflight
     08-shadowlands/pet_battles.yml Shadowlands
@@ -99,6 +105,7 @@ pet_battles.yml
     00-classic/pet_battles_kalimdor.yml Classic - Kalimdor
 
 reputations.yml
+    10-the-war-within/reputations.yml The War Within
     09-dragonflight/reputations.yml Dragonflight
     08-shadowlands/reputations.yml Shadowlands
     07-battle-for-azeroth/reputations.yml Battle for Azeroth

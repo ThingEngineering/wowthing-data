@@ -12,6 +12,7 @@ groups:
 
 - name: "Forbidden Reach"
   things:
+    - 3338 # Kobaldt (Animate Crystalspine)
     - 3545 # Salverun
 
 - name: "Ohn'ahran Plains"

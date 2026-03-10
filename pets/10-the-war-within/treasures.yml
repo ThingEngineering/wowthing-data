@@ -34,4 +34,5 @@ groups:
 
 - name: "K'aresh"
   things:
+    - 4813 # Ixthal the Observling (Skeletal Tail Bones)
     - 4845 # Mr. Long-Legs

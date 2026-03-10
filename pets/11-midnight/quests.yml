@@ -1,0 +1,20 @@
+name: "Quests"
+groups:
+
+- name: "Eversong Woods"
+  things:
+    - 4816 # Hawkstrider Hatchling (First Step Into Parenthood)
+    - 4971 # Luma (Thief at Bark)
+
+- name: "Harandar"
+  things:
+    - 4947 # Assistant Botanist Leafy (Re-Hydra-ted)
+    - 4946 # Linda the Lucky (OK Bloomer)
+
+- name: "Voidstorm"
+  things:
+    - 4950 # Fidoficus (Mighty and Superior)
+
+- name: "Zul'Aman"
+  things:
+    - 4977 # Emberwing Hatchling (A Quiet Farewell)

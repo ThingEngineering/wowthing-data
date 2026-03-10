@@ -1,6 +1,18 @@
 name: "Vendors"
 groups:
 
+- name: "Silvermoon City"
+  things:
+    - 4955 # Kreepah'zoyd
+    - 4930 # Lil' Preyseeker
+    - 4976 # Voldy (Construct V'anore, Prey)
+
+- name: "Twilight Highlands"
+  things:
+    - 4830 # Rhay'Dahr (Observer, Baby (Green))
+    - 4633 # Scruff
+    - 4508 # Emerald Sporbit (Sporbit)
+
 - name: "Eversong Woods"
   things:
     - 4928 # Dragonhawk Munchkin
@@ -9,17 +21,6 @@ groups:
 - name: "Harandar"
   things:
     - 4929 # Munchy
-
-- name: "Silvermoon City"
-  things:
-    - 4955 # Kreepah'zoyd
-    - 4930 # Lil' Preyseeker
-
-- name: "Twilight Highlands"
-  things:
-    - 4830 # Rhay'Dahr (Observer, Baby (Green))
-    - 4633 # Scruff
-    - 4508 # Emerald Sporbit (Sporbit)
 
 - name: "Voidstorm"
   things:

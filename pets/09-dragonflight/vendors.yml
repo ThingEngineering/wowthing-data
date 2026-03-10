@@ -32,6 +32,7 @@ groups:
 - name: "Forbidden Reach"
   things:
     - 3330 # Buckie
+    - 3259 # Shaggy (Sack of Oddities RNG)
 
 - name: "Primalist Future"
   things:

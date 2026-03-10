@@ -1,0 +1,42 @@
+name: "Pet Battles"
+groups:
+
+- name: "Silvermoon City"
+  things:
+    - 4912 # Silvermoon Broom [rare]
+
+- name: "Eversong Woods"
+  things:
+    - 4877 # Violet Chick [uncommon]
+    - 3277 # Amber Treeflitter [common]
+    - 4890 # Vibrant Manaling [common]
+
+- name: "Harandar"
+  things:
+    - 4876 # Mud Potadpole [rare]
+    - 4875 # Rootling Nester [uncommon]
+    - 4882 # Azure Sporebat [common]
+    - 4886 # Silkcrawler [common]
+    - 4497 # Waddles [common]
+
+- name: "Isle of Quel'Danas"
+  things:
+    - 4891 # Wrathful Wyrm [rare]
+    - 4889 # Nether Familiar [common]
+
+- name: "Voidstorm"
+  things:
+    - 4892 # Riftblade Familiar [rare]
+    - 4795 # Voidcrawler [uncommon]
+    - 4879 # Blistercreepling [common]
+    - 4790 # Devouring Runt [common]
+
+- name: "Zul'Aman"
+  things:
+    - 4884 # Pangolil [rare]
+    - 4874 # Akil Fledgling [uncommon]
+    - 4883 # Dragonhawk Mosswing [uncommon]
+    - 4878 # Ebon Snapling [uncommon]
+    - 4885 # Gloom Toad [common]
+    - 3364 # Striped Snakebiter [common]
+    - 4880 # Swamp Biter [common]
