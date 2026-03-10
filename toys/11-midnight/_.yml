@@ -1,2 +1,10 @@
 name: "Midnight"
 groups:
+
+- name: "Achievements"
+  things:
+    - 268717 # Pango Plating (Treasures of Zul'Aman)
+
+- name: "Professions"
+  things:
+    - 248485 # Wormhole Generator: Quel'Thalas

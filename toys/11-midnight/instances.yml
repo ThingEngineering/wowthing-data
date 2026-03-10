@@ -1,0 +1,23 @@
+name: "Instances"
+groups:
+
+- name: "Atal'Aman (Delve)"
+  things:
+    - 252265 # Hexed Potatoad Mucus
+
+- name: "The Gulf of Memory (Delve)"
+  things:
+    - 264805 # Brann-O-Vision 3000
+
+- name: "Murder Row (Dungeon)"
+  things:
+    - 263975 # Feeling Fielder Mk. 7 (Illicit Rain: Five Stars feat)
+
+- name: "The Blinding Vale (Dungeon)"
+  things:
+    - 251903 # Potatoad Egg
+    - 268728 # Saptor Salve
+
+- name: "The Voidspire (Raid)"
+  things:
+    - 264672 # Cosmic Ritual Stone

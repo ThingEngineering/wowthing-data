@@ -1,0 +1,16 @@
+name: "Quests"
+groups:
+
+- name: "Silvermoon City"
+  things:
+    - 253629 # Personal Key to the Arcantina (The Arcantina)
+
+- name: "Eversong Woods"
+  things:
+    - 263871 # Holy Pet Leash
+    - 267456 # Lil' Scoots' Pillow
+    - 263198 # Valdekar's Special (Lost in Light)
+
+- name: "Voidstorm"
+  things:
+    - 243146 # Ren'dorei Struggle

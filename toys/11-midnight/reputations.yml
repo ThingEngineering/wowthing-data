@@ -1,0 +1,22 @@
+name: "Reputations"
+groups:
+
+- name: "Amani Tribe"
+  things:
+    - 250974 # Akil'zon's Updraft (Renown 13)
+
+- name: "Hara'ti"
+  things:
+    - 256552 # Verdant Rutaani Seed (Renown 13)
+
+- name: "Silvermoon Court"
+  things:
+    - 259240 # Sin'dorei Wine (Renown 13)
+
+- name: "Slayer's Duellum"
+  things:
+    - 264517 # Galactic Flag of Victory (Honored)
+
+- name: "The Singularity"
+  things:
+    - 263244 # Enigmatic Fountain (Renown 16)

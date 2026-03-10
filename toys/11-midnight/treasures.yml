@@ -1,0 +1,12 @@
+name: "Treasures"
+groups:
+
+- name: "Harandar"
+  things:
+    - 259084 # Gift of the Cycle (Gift of the Cycle)
+    - 258963 # Shroom Jumper's Parachute (Failed Shroom Jumper's Satchel)
+
+- name: "Voidstorm"
+  things:
+    - 267139 # Hungry Black Hole (Bloody Sack)
+    - 250319 # Researcher's Shadowgraft (Forgotten Researcher's Cache)

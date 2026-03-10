@@ -1,0 +1,17 @@
+name: "Vendors"
+groups:
+
+- name: "Abundance"
+  things:
+    - 251633 # Bursting Bounty Bundle
+    - 266370 # Dundun's Abundant Travel Method
+
+- name: "Delves"
+  things:
+    - 265100 # Corewarden's Hearthstone
+    - 264414 # Midnight Delver's Flare Gun
+
+- name: "Prey"
+  things:
+    - 263933 # Preyseeker's Hearthstone
+    - 264666 # Rod of Exanguishation
