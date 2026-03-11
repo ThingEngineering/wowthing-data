@@ -12,7 +12,7 @@ things:
     reset: "never"
     trackingQuestId: 89149
     locations:
-      "11-midnight/zul-aman":
+      "11-midnight/zulaman":
         - "33.3 65.9"
     contents:
       - type: "item"
@@ -64,7 +64,7 @@ things:
     reset: "never"
     trackingQuestId: 89147
     locations:
-      "11-midnight/eversong-woods":
+      "11-midnight/eversong_woods":
         - "38.0 45.4"
     contents:
       - type: "item"

@@ -25,7 +25,7 @@ things:
     reset: "never"
     trackingQuestId: 89115
     locations:
-      "11-midnight/silvermoon-city":
+      "11-midnight/silvermoon_city":
         - "49.1 75.8"
     contents:
       - type: "item"
@@ -38,7 +38,7 @@ things:
     reset: "never"
     trackingQuestId: 89116
     locations:
-      "11-midnight/zul-aman":
+      "11-midnight/zulaman":
         - "49.1 23.6"
     contents:
       - type: "item"
@@ -51,7 +51,7 @@ things:
     reset: "never"
     trackingQuestId: 89117
     locations:
-      "11-midnight/silvermoon-city":
+      "11-midnight/silvermoon_city":
         - "47.8 51.8"
     contents:
       - type: "item"
@@ -64,7 +64,7 @@ things:
     reset: "never"
     trackingQuestId: 89111
     locations:
-      "11-midnight/silvermoon-city":
+      "11-midnight/silvermoon_city":
         - "45.1 44.9"
     contents:
       - type: "item"
@@ -103,7 +103,7 @@ things:
     reset: "never"
     trackingQuestId: 89114
     locations:
-      "11-midnight/zul-aman":
+      "11-midnight/zulaman":
         - "40.4 51.1"
     contents:
       - type: "item"

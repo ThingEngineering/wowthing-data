@@ -12,7 +12,7 @@ things:
     reset: "never"
     trackingQuestId: 89100
     locations:
-      "11-midnight/zul-aman":
+      "11-midnight/zulaman":
         - "48.4 22.9"
     contents:
       - type: "item"
@@ -25,7 +25,7 @@ things:
     reset: "never"
     trackingQuestId: 89101
     locations:
-      "11-midnight/eversong-woods":
+      "11-midnight/eversong_woods":
         - "40.2 61.2"
     contents:
       - type: "item"
@@ -51,7 +51,7 @@ things:
     reset: "never"
     trackingQuestId: 89103
     locations:
-      "11-midnight/eversong-woods":
+      "11-midnight/eversong_woods":
         - "60.8 53.0"
     contents:
       - type: "item"
@@ -64,7 +64,7 @@ things:
     reset: "never"
     trackingQuestId: 89106
     locations:
-      "11-midnight/zul-aman":
+      "11-midnight/zulaman":
         - "40.4 51.1"
     contents:
       - type: "item"
@@ -103,7 +103,7 @@ things:
     reset: "never"
     trackingQuestId: 89107
     locations:
-      "11-midnight/eversong-woods":
+      "11-midnight/eversong_woods":
         - "63.5 32.6"
     contents:
       - type: "item"
