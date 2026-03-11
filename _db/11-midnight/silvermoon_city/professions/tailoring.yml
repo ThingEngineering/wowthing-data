@@ -1,0 +1,72 @@
+things:
+  - id: 243353
+    type: "vendor"
+    name: "Deynna"
+    note: "Tailoring Supplies"
+
+    locations:
+      here: # silvermoon_city
+        - 48.2 54.2
+
+    groups:
+      - name: "Professions - Tailoring"
+        range: -1
+        sortKey: "prof-tailoring"
+
+    contents:
+
+      - id: 267053 # Pattern: Thalassian Alchemy Coveralls
+        costs:
+          3266: 200
+
+      - id: 267055 # Pattern: Thalassian Chef's Chapeau
+        costs:
+          3266: 200
+
+      - id: 267057 # Pattern: Thalassian Enchanter's Bonnet
+        costs:
+          3266: 200
+
+      - id: 267061 # Pattern: Thalassian Herbalist's Cowl
+        costs:
+          3266: 200
+
+      - id: 267063 # Pattern: Thalassian Tailor's Threads
+        costs:
+          3266: 200
+
+      - id: 258133 # Pattern: Chic Silvermoon Pillow
+        costs:
+          3266: 150
+
+      - id: 258035 # Pattern: Elegant Artisan's Alchemy Coveralls
+        costs:
+          3266: 150
+
+      - id: 258036 # Pattern: Elegant Artisan's Cooking Hat
+        costs:
+          3266: 150
+
+      - id: 258037 # Pattern: Elegant Artisan's Enchanting Hat
+        costs:
+          3266: 150
+
+      - id: 258038 # Pattern: Elegant Artisan's Fishing Hat
+        costs:
+          3266: 150
+
+      - id: 258039 # Pattern: Elegant Artisan's Herbalism Hat
+        costs:
+          3266: 150
+
+      - id: 258040 # Pattern: Elegant Artisan's Tailoring Robe
+        costs:
+          3266: 150
+
+      - id: 258132 # Pattern: Plush Silvermoon Bed
+        costs:
+          3266: 150
+
+      - id: 258127 # Pattern: Silvermoon Curtains
+        costs:
+          0: 250 # Gold

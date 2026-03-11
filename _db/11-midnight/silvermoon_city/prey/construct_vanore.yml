@@ -8,33 +8,77 @@ things:
       here: # silvermoon_city
         - 55.8 65.8
 
+    groups:
+
+      - name: "Prey - Misc"
+        range: 6
+        sortKey: "prey-1"
+
+      - name: "Prey - Professions"
+        range: 4
+        sortKey: "prey-2"
+
+      - name: "Prey - Transmog"
+        range: -1
+        sortKey: "prey-9"
+
     contents:
 
-      # 0 set=5359
-
-      - id: 258022 # Skilled Preyseeker's Plumed Helm [subclass=5 head]
+      - id: 264434 # Voldy [pet]
         costs:
-          3392: 400
+          3392: 800
 
-      - id: 258024 # Skilled Preyseeker's Shoulder-spikes [subclass=5 shoulders]
+      - id: 264666 # Rod of Exanguishation [toy]
         costs:
-          3392: 400
+          3392: 600
 
-      # 0 set=5360
-
-      - id: 258028 # Famed Preyseeker's Plumed Helm [subclass=5 head]
+      - id: 257191 # Preyseeker's Hubris
         costs:
+          3392: 2000
+        requirements:
+          - "reputation 2674 renown-5"
+
+      - id: 263933 # Preyseeker's Hearthstone [toy]
+        costs:
+          3392: 800
+        requirements:
+          - "reputation 2674 renown-6"
+
+      - id: 259991 # Lil' Preyseeker [pet]
+        costs:
+          3392: 1200
+        requirements:
+          - "reputation 2674 renown-9"
+
+      - id: 257192 # Preyseeker's Wrath
+        costs:
+          3392: 2550
+        requirements:
+          - "reputation 2674 renown-10"
+
+      # Professions
+
+      - id: 256756 # Formula: Enchant Boots - Farstrider's Hunt
+        costs:
+          3258: 150
           3392: 500
 
-      - id: 258026 # Famed Preyseeker's Shoulder-spikes [subclass=5 shoulders]
+      - id: 256754 # Formula: Enchant Shoulders - Nature's Embrace
         costs:
+          3258: 150
           3392: 500
 
-      - id: 258030 # Famed Preyseeker's Knapsack [subclass=5 back]
+      - id: 267399 # Technique: Sturdy Ren'dorei Cask
         costs:
+          3261: 150
           3392: 500
 
-      # 0
+      - id: 267400 # Technique: Wild Hanging Scroll
+        costs:
+          3261: 150
+          3392: 500
+
+      # Transmog
 
       - id: 266199 # Ensemble: Preyseeker's Polished Armor
         costs:
@@ -52,46 +96,32 @@ things:
         costs:
           3392: 1600
 
-      - id: 256756 # Formula: Enchant Boots - Farstrider's Hunt
+      - id: 258022 # Skilled Preyseeker's Plumed Helm [subclass=5 head]
         costs:
-          3258: 150
+          3392: 400
+        requirements:
+          - "reputation 2674 renown-3"
+
+      - id: 258024 # Skilled Preyseeker's Shoulder-spikes [subclass=5 shoulders]
+        costs:
+          3392: 400
+        requirements:
+          - "reputation 2674 renown-3"
+
+      - id: 258028 # Famed Preyseeker's Plumed Helm [subclass=5 head]
+        costs:
           3392: 500
+        requirements:
+          - "reputation 2674 renown-6"
 
-      - id: 256754 # Formula: Enchant Shoulders - Nature's Embrace
+      - id: 258026 # Famed Preyseeker's Shoulder-spikes [subclass=5 shoulders]
         costs:
-          3258: 150
           3392: 500
+        requirements:
+          - "reputation 2674 renown-6"
 
-      - id: 259991 # Lil' Preyseeker
+      - id: 258030 # Famed Preyseeker's Knapsack [subclass=5 back]
         costs:
-          3392: 1200
-
-      - id: 264434 # Voldy
-        costs:
-          3392: 800
-
-      - id: 263933 # Preyseeker's Hearthstone
-        costs:
-          3392: 800
-
-      - id: 264666 # Rod of Exanguishation
-        costs:
-          3392: 600
-
-      - id: 257191 # Preyseeker's Hubris
-        costs:
-          3392: 2000
-
-      - id: 257192 # Preyseeker's Wrath
-        costs:
-          3392: 2550
-
-      - id: 267399 # Technique: Sturdy Ren'dorei Cask
-        costs:
-          3261: 150
           3392: 500
-
-      - id: 267400 # Technique: Wild Hanging Scroll
-        costs:
-          3261: 150
-          3392: 500
+        requirements:
+          - "reputation 2674 renown-6"

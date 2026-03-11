@@ -1,0 +1,50 @@
+things:
+  - id: 252916
+    type: "vendor"
+    name: "Hesta Forlath"
+    note: "Apprentice"
+
+    locations:
+      here: # silvermoon_city
+        - 44 62.4
+        - 44 62.6
+
+    contents:
+
+      # 0
+
+      - id: 253612 # "Autumnal Eversong" Unframed Painting
+        costs:
+          0: 1500 # Gold
+
+      - id: 253606 # "Brunch and a Book" Unframed Painting
+        costs:
+          0: 1500 # Gold
+
+      - id: 253610 # "Isolation" Unframed Painting
+        costs:
+          0: 1500 # Gold
+
+      - id: 253613 # "Reclamation" Unframed Painting
+        costs:
+          0: 1500 # Gold
+
+      - id: 253609 # "River's Protectors" Unframed Painting
+        costs:
+          0: 1500 # Gold
+
+      - id: 253611 # "The Fallen Protectors" Unframed Painting
+        costs:
+          0: 1500 # Gold
+
+      - id: 253705 # "The Light Blooms" Unframed Painting
+        costs:
+          0: 1500 # Gold
+
+      - id: 253704 # Fresh Canvas
+        costs:
+          0: 1500 # Gold
+
+      - id: 244656 # Silvermoon Painter's Cushion
+        costs:
+          0: 150 # Gold

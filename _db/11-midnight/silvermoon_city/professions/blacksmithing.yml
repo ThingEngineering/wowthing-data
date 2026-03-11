@@ -1,0 +1,86 @@
+things:
+  - id: 241451
+    type: "vendor"
+    name: "Eriden"
+    note: "Blacksmithing Supplies"
+
+    locations:
+      here: # silvermoon_city
+        - 43.6 51.6
+
+    groups:
+      - name: "Professions - Blacksmithing"
+        range: -1
+        sortKey: "prof-blacksmithing"
+
+    contents:
+
+      # 0
+
+      - id: 259237 # Plans: Sunforged Blacksmith's Hammer
+        costs:
+          3257: 200
+
+      - id: 259231 # Plans: Sunforged Blacksmith's Toolbox
+        costs:
+          3257: 200
+
+      - id: 259318 # Plans: Sunforged Leatherworker's Knife
+        costs:
+          3257: 200
+
+      - id: 259233 # Plans: Sunforged Leatherworker's Toolset
+        costs:
+          3257: 200
+
+      - id: 259235 # Plans: Sunforged Needle Set
+        costs:
+          3257: 200
+
+      - id: 259319 # Plans: Sunforged Pickaxe
+        costs:
+          3257: 200
+
+      - id: 259317 # Plans: Sunforged Sickle
+        costs:
+          3257: 200
+
+      - id: 259322 # Plans: Sunforged Skinning Knife
+        costs:
+          3257: 200
+
+      - id: 265536 # Plans: Masterwork Crafting Hammer
+        costs:
+          3257: 150
+
+      - id: 267281 # Plans: Blood Knight's Mercy
+        costs:
+          3257: 150
+
+      - id: 267282 # Plans: Blood Knight's Warblade
+        costs:
+          3257: 150
+
+      - id: 267284 # Plans: Bloomforged Claw
+        costs:
+          3257: 150
+
+      - id: 267285 # Plans: Magister's Cleaver
+        costs:
+          3257: 150
+
+      - id: 267286 # Plans: Magister's Mana Sword
+        costs:
+          3257: 150
+
+      - id: 267287 # Plans: Magister's Ritual Knife
+        costs:
+          3257: 150
+
+      - id: 258519 # Plans: Magister's Valediction
+        costs:
+          3257: 150
+
+      - id: 260246 # Plans: Thalassian Skeleton Key
+        costs:
+          3257: 150

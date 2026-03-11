@@ -1,0 +1,48 @@
+things:
+  - id: 243346
+    type: "vendor"
+    name: "Gelanthis"
+    note: "Jewelcrafting Supplies"
+
+    locations:
+      here: # silvermoon_city
+        - 48 55
+
+    groups:
+      - name: "Professions - Jewelcrafting"
+        range: -1
+        sortKey: "prof-jewelcrafting"
+
+    contents:
+
+      - id: 256701 # Design: Attuned Thalassian Rune-Prism
+        costs:
+          3262: 200
+
+      - id: 256705 # Design: Flawless Text Scrutinizers
+        costs:
+          3262: 200
+
+      - id: 256707 # Design: Mage-Eye Precision Loupes
+        costs:
+          3262: 200
+
+      - id: 256711 # Design: Thalassian Scribe's Crystalline Lens
+        costs:
+          3262: 200
+
+      - id: 256713 # Design: Improved Right-Handed Magnifying Glass
+        costs:
+          3262: 150
+
+      - id: 256699 # Design: Sin'dorei Enchanter's Crystal
+        costs:
+          3262: 150
+
+      - id: 256709 # Design: Sin'dorei Jeweler's Loupes
+        costs:
+          3262: 150
+
+      - id: 256703 # Design: Sin'dorei Scribe's Spectacles
+        costs:
+          3262: 150

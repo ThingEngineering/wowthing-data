@@ -1,0 +1,92 @@
+things:
+  - id: 243531
+    type: "vendor"
+    name: "Zaralda"
+    note: "Leatherworking Supplies"
+
+    locations:
+      here: # silvermoon_city
+        - 43.2 55.8
+
+    groups:
+      - name: "Professions - Leatheworking"
+        range: -1
+        sortKey: "prof-leatherworking"
+
+    contents:
+
+      - id: 256658 # Pattern: Thalassian Alchemist's Mixcap
+        costs:
+          3263: 200
+
+      - id: 256667 # Pattern: Thalassian Gemshaper's Grand Cover
+        costs:
+          3263: 200
+
+      - id: 256663 # Pattern: Thalassian Herbtender's Cradle
+        costs:
+          3263: 200
+
+      - id: 256668 # Pattern: Thalassian Hideshaper's Regalia
+        costs:
+          3263: 200
+
+      - id: 256657 # Pattern: Thalassian Ironbender's Regalia
+        costs:
+          3263: 200
+
+      - id: 256661 # Pattern: Thalassian Scrapmaster's Gauntlets
+        costs:
+          3263: 200
+
+      - id: 256664 # Pattern: Thalassian Wildseeker's Stridercap
+        costs:
+          3263: 200
+
+      - id: 256671 # Pattern: Thalassian Wildseeker's Workbag
+        costs:
+          3263: 200
+
+      - id: 256645 # Pattern: Blessed Pango Charm
+        costs:
+          0: 250 # Gold
+
+      - id: 256669 # Pattern: Eversong Hunter's Headcover
+        costs:
+          3263: 150
+
+      - id: 256655 # Pattern: Sin'dorei Alchemist's Hat
+        costs:
+          3263: 150
+
+      - id: 256660 # Pattern: Sin'dorei Engineer's Gloves
+        costs:
+          3263: 150
+
+      - id: 256659 # Pattern: Sin'dorei Forgemaster's Cover
+        costs:
+          3263: 150
+
+      - id: 256662 # Pattern: Sin'dorei Herbalist's Backpack
+        costs:
+          3263: 150
+
+      - id: 256666 # Pattern: Sin'dorei Hunter's Pack
+        costs:
+          3263: 150
+
+      - id: 256670 # Pattern: Sin'dorei Jeweler's Cover
+        costs:
+          3263: 150
+
+      - id: 256665 # Pattern: Sin'dorei Leathershaper's Smock
+        costs:
+          3263: 150
+
+      - id: 259371 # Pattern: Stitched Haranir Rug
+        costs:
+          3263: 150
+
+      - id: 259368 # Pattern: Sturdy Haranir Chair
+        costs:
+          3263: 150

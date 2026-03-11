@@ -1,0 +1,89 @@
+things:
+  - id: 259864
+    type: "vendor"
+    name: "Sathren Azuredawn"
+    note: "Decor Specialist"
+
+    locations:
+      here: # eversong_woods
+        - 43.2 47.4
+
+    contents:
+
+      # 0
+
+      - id: 254773 # "Eversong Lantern" Painting
+        costs:
+          3316: 750
+
+      - id: 253488 # Diamond Honor Stone
+        costs:
+          3316: 750
+
+      - id: 251911 # Eversong Dessert Platter
+        costs:
+          3316: 750
+
+      - id: 251909 # Eversong Feast Platter
+        costs:
+          3316: 750
+
+      - id: 243106 # Gemmed Eversong Lantern
+        costs:
+          3316: 750
+
+      - id: 263211 # Gilded Eversong Cup
+        costs:
+          3316: 750
+
+      - id: 251912 # Goldenmist Grapes
+        costs:
+          3316: 750
+
+      - id: 246458 # Grand Aethercharged Crystal
+        costs:
+          3316: 750
+
+      - id: 244783 # Majestic Lightwood Table
+        costs:
+          3316: 2500
+
+      - id: 245992 # Ornate Silvermoon Candelabra
+        costs:
+          3316: 750
+
+      - id: 264660 # Ren'dorei Spired Tent
+        costs:
+          3316: 750
+
+      - id: 263231 # Silvermoon Curio Shelves
+        costs:
+          3316: 2500
+
+      - id: 257367 # Silvermoon Energy Focus
+        costs:
+          3316: 750
+
+      - id: 245282 # Silvermoon Library Bookcase
+        costs:
+          3316: 750
+
+      - id: 244538 # Silvermoon Sundial
+        costs:
+          3316: 750
+
+      - id: 253485 # Sin'dorei Honor Stone
+        costs:
+          3316: 750
+
+      - id: 264248 # Sin'dorei Storage Jar
+        costs:
+          3316: 750
+
+      - id: 251914 # Sumptuous Berry Pie
+        costs:
+          3316: 750
+
+      - id: 262610 # Swirling Ritual Pedestal
+        costs:
+          3316: 750

@@ -1,0 +1,107 @@
+things:
+  - id: 255114
+    type: "vendor"
+    name: "Maku"
+    note: "Decor Specialist"
+
+    locations:
+      here: # unknown
+        - 62.2 34.6
+        - 62.4 34.2
+        - 62.6 34.2
+
+    contents:
+
+      # 0
+
+      - id: 266259 # Altar of the Shul'ka
+        costs:
+          3316: 750
+
+      - id: 263315 # Bubbling Haranir Cauldron
+        costs:
+          3316: 750
+
+      - id: 252045 # Fungal Pergola
+        costs:
+          3316: 2500
+
+      - id: 265792 # Fungarian Vine Fence
+        costs:
+          3316: 750
+
+      - id: 262906 # Harandar Anvil
+        costs:
+          3316: 2500
+
+      - id: 264178 # Harandar Charcuterie Board
+        costs:
+          3316: 750
+
+      - id: 263196 # Harandar Glowvine Lantern
+        costs:
+          3316: 750
+
+      - id: 262614 # Harandar Runestone
+        costs:
+          3316: 750
+
+      - id: 264262 # Haranir Whistling Arrow
+        costs:
+          3316: 750
+
+      - id: 264266 # Lightbloom Moss Mound
+        costs:
+          3316: 750
+
+      - id: 264259 # On'ohia's Call
+        costs:
+          3316: 750
+
+      - id: 263041 # Replica Root of the World
+        costs:
+          3316: 750
+
+      - id: 253443 # Replica Sky's Hope
+        costs:
+          3316: 750
+
+      - id: 263037 # Replica Wey'nan's Ward
+        costs:
+          3316: 750
+
+      - id: 254319 # Root-Woven Door
+        costs:
+          3316: 750
+
+      - id: 254878 # Root-Woven Window
+        costs:
+          3316: 750
+
+      - id: 246415 # Ruddy Haranir Pigment Bowl
+        costs:
+          3316: 750
+
+      - id: 247234 # Rustic Harandar Planter
+        costs:
+          3316: 750
+
+      - id: 253467 # Rutaani Sporepod
+        costs:
+          3316: 2500
+
+      - id: 246407 # Stoppered Spring Water Gourd
+        costs:
+          3316: 750
+
+      - id: 245535 # Sturdy Haranir Handcart
+        costs:
+          3316: 750
+
+      - id: 263020 # Ward of the Shul'ka
+        costs:
+          3316: 2500
+
+      - id: 246416 # Waterlogged Haranir Pigment Bowl
+        costs:
+          3316: 750

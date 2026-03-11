@@ -1,0 +1,26 @@
+things:
+  - id: 243359
+    type: "vendor"
+    name: "Melaris"
+    note: "Alchemy Supplies"
+
+    locations:
+      here: # silvermoon_city
+        - 47 51.8
+
+    groups:
+      - name: "Professions - Alchemy"
+        range: -1
+        sortKey: "prof-alchemy"
+
+    contents:
+
+      # 0
+
+      - id: 247499 # Recipe: Haranir Preserving Agents
+        costs:
+          3256: 150
+
+      - id: 246671 # Recipe: Sunsmoke Censer
+        costs:
+          3256: 150

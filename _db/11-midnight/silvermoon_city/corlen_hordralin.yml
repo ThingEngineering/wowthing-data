@@ -1,0 +1,66 @@
+things:
+  - id: 252915
+    type: "vendor"
+    name: "Corlen Hordralin"
+    note: "Master Painter"
+
+    locations:
+      here: # silvermoon_city
+        - 44 62.4
+        - 44.2 62.6
+
+    contents:
+
+      # 0
+
+      - id: 253604 # "A Bridge Over Calm Waters" Painting
+        costs:
+          0: 5000 # Gold
+
+      - id: 253615 # "Autumnal Eversong" Painting
+        costs:
+          0: 5000 # Gold
+
+      - id: 253614 # "Brunch and a Book" Painting
+        costs:
+          0: 5000 # Gold
+
+      - id: 253607 # "Eversong in Bloom" Painting
+        costs:
+          0: 5000 # Gold
+
+      - id: 253605 # "Family Portrait" Painting
+        costs:
+          0: 5000 # Gold
+
+      - id: 253616 # "Isolation" Painting
+        costs:
+          0: 5000 # Gold
+
+      - id: 253608 # "Nature's Strength" Painting
+        costs:
+          0: 5000 # Gold
+
+      - id: 253617 # "Reclamation" Painting
+        costs:
+          0: 5000 # Gold
+
+      - id: 253620 # "River's Protectors" Painting
+        costs:
+          0: 5000 # Gold
+
+      - id: 253602 # "Silvermoon in Summer" Painting
+        costs:
+          0: 5000 # Gold
+
+      - id: 253619 # "The Fallen Protectors" Painting
+        costs:
+          0: 5000 # Gold
+
+      - id: 253603 # "The Last Day of the Semester" Painting
+        costs:
+          0: 5000 # Gold
+
+      - id: 253618 # "The Light Blooms" Painting
+        costs:
+          0: 5000 # Gold

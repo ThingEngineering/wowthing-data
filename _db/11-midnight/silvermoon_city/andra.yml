@@ -1,0 +1,54 @@
+things:
+  - id: 259722
+    type: "vendor"
+    name: "Andra"
+    note: "Thalassian Finery"
+
+    locations:
+      here: # silvermoon_city
+        - 41.8 66.2
+        - 41.8 66.6
+
+    contents:
+
+      # 0
+
+      - id: 265024 # Ensemble: Augur's Azure Garments
+        costs:
+          1264882: 1
+
+      - id: 265022 # Ensemble: Augur's Crimson Garments
+        costs:
+          1264882: 1
+
+      - id: 265026 # Ensemble: Augur's Lucent Garments
+        costs:
+          1264882: 1
+
+      - id: 265025 # Ensemble: Augur's Umbral Garments
+        costs:
+          1264882: 1
+
+      - id: 265023 # Ensemble: Augur's Viridian Garments
+        costs:
+          1264882: 1
+
+      - id: 265019 # Ensemble: Courtier's Azure Vestments
+        costs:
+          1264882: 1
+
+      - id: 264883 # Ensemble: Courtier's Crimson Vestments
+        costs:
+          1264882: 1
+
+      - id: 265021 # Ensemble: Courtier's Lucent Vestments
+        costs:
+          1264882: 1
+
+      - id: 265020 # Ensemble: Courtier's Umbral Vestments
+        costs:
+          1264882: 1
+
+      - id: 265018 # Ensemble: Courtier's Viridian Vestments
+        costs:
+          1264882: 1

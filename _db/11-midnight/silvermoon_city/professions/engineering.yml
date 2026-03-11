@@ -1,0 +1,44 @@
+things:
+  - id: 241453
+    type: "vendor"
+    name: "Yatheon"
+    note: "Engineering Supplies"
+
+    locations:
+      here: # silvermoon_city
+        - 43.4 53.8
+
+    groups:
+      - name: "Professions - Engineering"
+        range: -1
+        sortKey: "prof-engineering"
+
+    contents:
+
+      - id: 259172 # Schematic: Head-Mounted Beam Bummer
+        costs:
+          3259: 200
+
+      - id: 259176 # Schematic: Heavy-Duty Rock Assister
+        costs:
+          3259: 200
+
+      - id: 259174 # Schematic: Rock Bonkin' Hardhat
+        costs:
+          3259: 200
+
+      - id: 259178 # Schematic: Self-Sharpening Sin'dorei Snippers
+        costs:
+          3259: 200
+
+      - id: 259180 # Schematic: Sin'dorei Reeler's Rod
+        costs:
+          3259: 200
+
+      - id: 259184 # Schematic: Turbo-Junker's Multitool v9
+        costs:
+          3259: 200
+
+      - id: 259182 # Schematic: Giga-Gem Grippers
+        costs:
+          3259: 200

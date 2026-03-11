@@ -8,6 +8,11 @@ things:
       here: # silvermoon_city
         - 55.8 65.8
 
+    groups:
+      - name: "Prey - Decor"
+        range: -1
+        sortKey: "prey-3"
+
     contents:
 
       # 0
