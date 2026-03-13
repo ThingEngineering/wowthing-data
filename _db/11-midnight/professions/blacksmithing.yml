@@ -104,7 +104,7 @@ things:
     trackingQuestId: 89181
     locations:
       "11-midnight/voidstorm":
-        - "30.6 69.0"
+        - "41.3 34.7"
     contents:
       - type: "item"
         id: 238544 # Voidstorm Defense Spear

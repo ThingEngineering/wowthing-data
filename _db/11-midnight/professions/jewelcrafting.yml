@@ -26,7 +26,7 @@ things:
     trackingQuestId: 89128
     locations:
       "11-midnight/voidstorm":
-        - "54.2 51.2"
+        - "51.9 26.6"
     contents:
       - type: "item"
         id: 238586 # Ethereal Gem Pliers
@@ -52,7 +52,7 @@ things:
     trackingQuestId: 89126
     locations:
       "11-midnight/voidstorm":
-        - "62.7 53.4"
+        - "55.7 27.7"
     contents:
       - type: "item"
         id: 238584 # Shattered Glass
@@ -91,7 +91,7 @@ things:
     trackingQuestId: 89123
     locations:
       "11-midnight/voidstorm":
-        - "30.5 69.1"
+        - "41.3 34.7"
     contents:
       - type: "item"
         id: 238581 # Speculative Voidstorm Crystal
