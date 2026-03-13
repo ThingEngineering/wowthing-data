@@ -8,6 +8,10 @@ things:
       here: # harandar
         - 49.2 54.4
 
+    groups:
+      - name: "Moth Collecting"
+        range: -1
+
     contents:
 
       - id: 222988 # Elder Glowmite [mount]
