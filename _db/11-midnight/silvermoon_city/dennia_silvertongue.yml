@@ -1,0 +1,74 @@
+things:
+  - id: 256828
+    type: "vendor"
+    name: "Dennia Silvertongue"
+    note: "Decor Specialist"
+
+    locations:
+      here: # silvermoon_city
+        - 51 56.4
+        - 51 56.6
+
+    contents:
+
+      # 0
+
+      - id: 252668 # "The Harbinger" Painting
+        costs:
+          0: 10000 # Gold
+
+      - id: 252666 # "The High Exarch" Painting
+        costs:
+          0: 10000 # Gold
+
+      - id: 252667 # "The Ranger of the Void" Painting
+        costs:
+          0: 10000 # Gold
+
+      - id: 252669 # "The Redeemer" Painting
+        costs:
+          0: 10000 # Gold
+
+      - id: 263298 # Cuddly Alliance Blue Grrgle
+        costs:
+          0: 500 # Gold
+
+      - id: 263301 # Cuddly Green Grrgle
+        costs:
+          0: 500 # Gold
+
+      - id: 263299 # Cuddly Horde Red Grrgle
+        costs:
+          0: 500 # Gold
+
+      - id: 244668 # Light-Infused Fountain
+        costs:
+          0: 25000 # Gold
+
+      - id: 246414 # Light-Infused Rotunda
+        costs:
+          0: 25000 # Gold
+
+      - id: 260785 # Miniature Replica Dark Portal
+        costs:
+          0: 1500 # Gold
+
+      - id: 264396 # Naturally Elegant Doormat
+        costs:
+          0: 500 # Gold
+
+      - id: 256764 # Sanctuary's Horadric Cube
+        costs:
+          0: 500 # Gold
+
+      - id: 264397 # Simply Adorned Vase and Flowers
+        costs:
+          0: 500 # Gold
+
+      - id: 245939 # Void-Corrupted Fountain
+        costs:
+          0: 25000 # Gold
+
+      - id: 248809 # Void-Corrupted Rotunda
+        costs:
+          0: 25000 # Gold

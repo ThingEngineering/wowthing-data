@@ -1,0 +1,28 @@
+things:
+  - id: 250982
+    type: "vendor"
+    name: "Dethelin"
+    note: "Purloined Decor"
+
+    locations:
+      here: # silvermoon_city
+        - 52.4 47.4
+        - 52.4 47.6
+        - 52.6 47.4
+        - 52.6 47.6
+
+    contents:
+
+      # 0
+
+      - id: 245330 # Enchanted Blood Elven Candelabra
+        costs:
+          2815: 3000
+
+      - id: 245284 # Silvermoon Wooden Chair
+        costs:
+          2815: 3000
+
+      - id: 251997 # Sin'dorei Winged Chaise
+        costs:
+          2815: 5000
