@@ -1,0 +1,61 @@
+things:
+  - id: 259922
+    type: "vendor"
+    name: "Void Researcher Aemely"
+    note: "Decor Specialist"
+
+    locations:
+      here: # voidstorm
+        - 52.6 72.8
+
+    contents:
+
+      # 0
+
+      - id: 264340 # Cosmic Barrel
+        costs:
+          3316: 750
+
+      - id: 262472 # Cosmic Kettle
+        costs:
+          3316: 750
+
+      - id: 264659 # Cosmic Traveler's Satchel
+        costs:
+          3316: 750
+
+      - id: 264657 # Open Sturdy Void Elf Trunk
+        costs:
+          3316: 2500
+
+      - id: 267209 # Open Void Elf Bedroll
+        costs:
+          3316: 750
+
+      - id: 264493 # Opened Domanaar Storage Crate
+        costs:
+          3316: 750
+
+      - id: 262351 # Ornate Cosmic Rug
+        costs:
+          3316: 750
+
+      - id: 267082 # Ornate Cosmic Table
+        costs:
+          3316: 750
+
+      - id: 262606 # Smoldering Energy Forge
+        costs:
+          3316: 750
+
+      - id: 264508 # Sturdy Void Elf Barricade
+        costs:
+          3316: 2500
+
+      - id: 263240 # Sturdy Void Elf Crate
+        costs:
+          3316: 2500
+
+      - id: 264656 # Void Elf Weapon Rack
+        costs:
+          3316: 750

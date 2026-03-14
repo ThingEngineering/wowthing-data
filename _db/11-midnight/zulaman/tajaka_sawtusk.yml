@@ -1,0 +1,61 @@
+things:
+  - id: 254944
+    type: "vendor"
+    name: "Tajaka Sawtusk"
+    note: "Decor Specialist"
+
+    locations:
+      here: # zulaman
+        - 46 66
+
+    contents:
+
+      # 0
+
+      - id: 256925 # Amani Spearhunter's Spit
+        costs:
+          3316: 750
+
+      - id: 264255 # Amani Trophy Frame
+        costs:
+          3316: 750
+
+      - id: 264334 # Amani War Drum
+        costs:
+          3316: 750
+
+      - id: 256928 # Banner of the Amani Tribe
+        costs:
+          3316: 750
+
+      - id: 264335 # Colossal Amani Stone Visage
+        costs:
+          3316: 2500
+
+      - id: 264481 # Earthhide Amani Tapestry
+        costs:
+          3316: 750
+
+      - id: 264480 # Greenvine Amani Tapestry
+        costs:
+          3316: 750
+
+      - id: 253469 # Ritual-Cursed Sarcophagus
+        costs:
+          3316: 750
+
+      - id: 264479 # Skyweave Amani Tapestry
+        costs:
+          3316: 750
+
+      - id: 255648 # Zul'Aman Ancestral Fountain
+        costs:
+          3316: 2500
+
+      - id: 264257 # Zul'Aman Armament Rest
+        costs:
+          3316: 750
+
+      - id: 264715 # Zul'Aman Flame Cradle
+        costs:
+          3316: 750

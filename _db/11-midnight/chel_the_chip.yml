@@ -8,7 +8,8 @@ things:
       "11-midnight/harandar":
         - 66 61.4
 
-    groups:
+    groups: &groups
+
       - name: "Abundance - Misc"
         range: 5
       
@@ -21,7 +22,7 @@ things:
       - name: "Abundance - Transmog"
         range: -1
 
-    contents:
+    contents: &contents
 
       - id: 250782 # Amani Sunfeather [mount]
         costs:
@@ -112,3 +113,39 @@ things:
       - id: 262582 # Amani Gem Clamps [off-hand]
         costs:
           3377: 800
+
+  - id: 257633
+    type: "vendor"
+    name: "Chel the Chip"
+    note: "Abundance Vendor"
+
+    locations:
+      "11-midnight/eversong_woods":
+        - "56.8 65.8"
+
+    groups: *groups
+    contents: *contents
+
+  - id: 257632
+    type: "vendor"
+    name: "Chel the Chip"
+    note: "Abundance Vendor"
+
+    locations:
+      "11-midnight/voidstorm":
+        - "38.8 53.2"
+
+    groups: *groups
+    contents: *contents
+
+  - id: 241928
+    type: "vendor"
+    name: "Chel the Chip"
+    note: "Abundance Vendor"
+
+    locations:
+      "11-midnight/zulaman":
+        - "31.6 26.2"
+
+    groups: *groups
+    contents: *contents

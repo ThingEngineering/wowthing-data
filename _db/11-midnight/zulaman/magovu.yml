@@ -1,0 +1,249 @@
+things:
+  - id: 240279
+    type: "vendor"
+    name: "Magovu"
+    note: "Renown Quartermaster"
+
+    locations:
+      here: # zulaman
+        - 45.8 65.8
+
+    groups:
+      
+      - name: "Amani - Misc"
+        range: 4
+        sortKey: "rep-amani-1"
+      
+      - name: "Amani - Decor"
+        range: 15
+        sortKey: "rep-amani-2"
+
+      - name: "Amani - Professions"
+        range: 11
+        sortKey: "rep-amani-3"
+
+      - name: "Amani - Transmog"
+        range: -1
+        sortKey: "rep-amani-9"
+
+    contents:
+
+      - id: 250863 # Naloki [pet]
+        costs:
+          3316: 2500
+        requirements:
+          - "reputation 2696 renown-12"
+
+      - id: 250974 # Akil'zon's Updraft [toy]
+        costs:
+          3316: 4000
+        requirements:
+          - "reputation 2696 renown-13"
+
+      - id: 257219 # Amani Blessed Bear [mount]
+        costs:
+          3316: 6000
+        requirements:
+          - "reputation 2696 renown-17"
+
+      - id: 250889 # Amani Windcaller [mount]
+        costs:
+          3316: 8000
+        requirements:
+          - "reputation 2696 renown-19"
+
+      # Decor
+
+      - id: 263320 # Rope-Bound Amani Basket
+        costs:
+          3316: 750
+        requirements:
+          - "reputation 2696 renown-3"
+
+      - id: 263318 # Simple Amani Basket
+        costs:
+          3316: 750
+        requirements:
+          - "reputation 2696 renown-3"
+
+      - id: 264350 # Carved Idol of Akil'zon, Loa of Victory
+        costs:
+          3316: 750
+        requirements:
+          - "reputation 2696 renown-7"
+
+      - id: 258290 # Carved Idol of Halazzi, Loa of the Hunt
+        costs:
+          3316: 750
+        requirements:
+          - "reputation 2696 renown-7"
+
+      - id: 256933 # Carved Idol of Jan'alai, Loa of Fire
+        costs:
+          3316: 750
+        requirements:
+          - "reputation 2696 renown-7"
+
+      - id: 256927 # Carved Idol of Nalorakk, Loa of War
+        costs:
+          3316: 750
+        requirements:
+          - "reputation 2696 renown-7"
+
+      - id: 264333 # Amani Incense Burner
+        costs:
+          3316: 750
+        requirements:
+          - "reputation 2696 renown-11"
+
+      - id: 258549 # Burning Amani Pinecone
+        costs:
+          3316: 750
+        requirements:
+          - "reputation 2696 renown-11"
+
+      - id: 256934 # Boiling Amani Cauldron
+        costs:
+          3316: 750
+        requirements:
+          - "reputation 2696 renown-15"
+
+      - id: 256926 # Empty Amani Cauldron
+        costs:
+          3316: 750
+        requirements:
+          - "reputation 2696 renown-15"
+
+      - id: 256924 # Hash'ey Heartbroth Cauldron
+        costs:
+          3316: 750
+        requirements:
+          - "reputation 2696 renown-15"
+
+      - id: 260202 # Visage of Akil'zon, Loa of Victory
+        costs:
+          3316: 2500
+        requirements:
+          - "reputation 2696 renown-18"
+
+      - id: 260515 # Visage of Halazzi, Loa of the Hunt
+        costs:
+          3316: 2500
+        requirements:
+          - "reputation 2696 renown-18"
+
+      - id: 260516 # Visage of Jan'alai, Loa of Fire
+        costs:
+          3316: 2500
+        requirements:
+          - "reputation 2696 renown-18"
+
+      - id: 260514 # Visage of Nalorakk, Loa of War
+        costs:
+          3316: 2500
+        requirements:
+          - "reputation 2696 renown-18"
+
+      # Professions
+
+      - id: 258305 # Recipe: Amani Extract [cooking]
+        costs:
+          3256: 150
+          3316: 1500
+        requirements:
+          - "reputation 2696 renown-5"
+
+      - id: 256744 # Formula: Enchant Tool - Amani Perception [enchanting]
+        costs:
+          3258: 150
+          3316: 1500
+        requirements:
+          - "reputation 2696 renown-5"
+
+      - id: 256741 # Formula: Enchant Weapon - Strength of Halazzi [enchanting]
+        costs:
+          3258: 150
+          3316: 1500
+        requirements:
+          - "reputation 2696 renown-5"
+
+      - id: 268043 # Formula: Endless Codex of Nature's Grace [enchanting]
+        costs:
+          3258: 150
+          3316: 1500
+        requirements:
+          - "reputation 2696 renown-5"
+
+      - id: 251629 # Technique: Contract: The Amani Tribe [inscription]
+        costs:
+          3261: 150
+          3316: 1500
+        requirements:
+          - "reputation 2696 renown-5"
+
+      - id: 256717 # Design: Loa Worshiper's Band [jewelcrafting]
+        costs:
+          3262: 150
+          3316: 1500
+        requirements:
+          - "reputation 2696 renown-5"
+
+      - id: 256647 # Pattern: Forest Hunter's Armor Kit [leatherworking]
+        costs:
+          3263: 150
+          3316: 1500
+        requirements:
+          - "reputation 2696 renown-5"
+
+      - id: 251630 # Recipe: Braised Blood Hunter [leatherworking]
+        costs:
+          3316: 1500
+        requirements:
+          - "reputation 2696 renown-5"
+
+      - id: 250922 # Whisper of the Loa: Leatherworking
+        costs:
+          3263: 75
+          3316: 750
+        requirements:
+          - "reputation 2696 renown-6"
+
+      - id: 250924 # Whisper of the Loa: Mining
+        costs:
+          3264: 75
+          3316: 750
+        requirements:
+          - "reputation 2696 renown-6"
+
+      - id: 250923 # Whisper of the Loa: Skinning
+        costs:
+          3265: 75
+          3316: 750
+        requirements:
+          - "reputation 2696 renown-6"
+
+      # Transmog
+
+      - id: 250799 # Loa-Blessed Cloak [subclass=5 back]
+        costs:
+          3316: 3000
+        requirements:
+          - "reputation 2696 renown-2"
+
+      - id: 250800 # Loa-Blessed Tabard [tabard]
+        costs:
+          3316: 3000
+        requirements:
+          - "reputation 2696 renown-10"
+
+      - id: 250801 # Loa-Blessed Shoulderguards [subclass=5 shoulders]
+        costs:
+          3316: 3000
+        requirements:
+          - "reputation 2696 renown-16"
+
+      - id: 250855 # Crown of the Loa-Speaker [subclass=5 head]
+        costs:
+          3316: 5000
+        requirements:
+          - "reputation 2696 renown-20"
