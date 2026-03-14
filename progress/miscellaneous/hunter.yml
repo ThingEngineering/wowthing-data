@@ -3,7 +3,7 @@ groups:
 
 - name: "Taming (Character)" 
   icon: "spell/1515"
-  iconText: "Acc"
+  iconText: "Char"
   lookup: class
   type: mixed
   data:
