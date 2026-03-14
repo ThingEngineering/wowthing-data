@@ -1,0 +1,49 @@
+name: "Hunter"
+groups:
+
+- name: "Taming (Character)" 
+  icon: "spell/1515"
+  iconText: "Acc"
+  lookup: class
+  type: mixed
+  data:
+    hunter:
+
+      - name: "Direhorn"
+        id: 138430 # Ancient Zandalari Knowledge
+        type: spellKnown
+
+      - name: "Feathermane"
+        id: 242155 # Hybrid Kinship
+        type: spellKnown
+      
+      - name: "Mechanical"
+        id: 205154 # Mecha-Bond Imprint Matrix
+        type: spellKnown
+
+- name: "Beast Taming (Account)"
+  icon: "spell/1515"
+  iconText: "Acc"
+  lookup: class
+  type: mixed
+  data:
+    hunter:
+      - name: "Blood Beast"
+        id: 54753
+        type: accountQuest
+        description: "Dropped by Zul in the Uldir raid"
+
+      - name: "Cloud Serpent"
+        id: 62254
+        type: accountQuest
+        description: "Exalted with Order of the Cloud Serpent"
+
+      - name: "Dragonkin"
+        id: 72094
+        type: accountQuest
+        description: "Renown 23 with Valdrakken Accord"
+
+      - name: "Florafaun"
+        id: 87421
+        type: accountQuest
+        description: "Dropped by rares in Harandar"

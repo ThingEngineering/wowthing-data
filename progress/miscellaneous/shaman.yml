@@ -1,0 +1,41 @@
+name: "Shaman"
+groups:
+
+- name: "Hex"
+  icon: "spell/51514"
+  iconText: "Hex"
+  lookup: class
+  type: mixed
+  data:
+    shaman:
+      - name: "Cockroach" 
+        id: 211015
+        type: spellKnown
+
+      - name: "Compy" 
+        id: 210873
+        type: spellKnown
+
+      - name: "Living Honey" 
+        id: 309328
+        type: spellKnown
+
+      - name: "Skeletal Hatchling" 
+        id: 269352
+        type: spellKnown
+
+      - name: "Snake" 
+        id: 211010
+        type: spellKnown
+
+      - name: "Spider" 
+        id: 211004
+        type: spellKnown
+
+      - name: "Wicker Mongrel" 
+        id: 277784
+        type: spellKnown
+
+      - name: "Zandalari Tendonripper" 
+        id: 277778
+        type: spellKnown

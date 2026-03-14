@@ -1,0 +1,22 @@
+name: "Gathering"
+groups:
+
+- name: "Find Fish"
+  icon: "spell/43308"
+  lookup: none
+  type: mixed
+  data:
+    0:
+      - name: "Find Fish learned"
+        id: 43308
+        type: spellKnown
+
+- name: "Find Lumber"
+  icon: "spell/1266232" # Lumberjack
+  lookup: none
+  type: mixed
+  data:
+    0:
+      - name: "Find Lumber learned"
+        id: 1256697
+        type: spellKnown

@@ -1,0 +1,69 @@
+name: "Mage"
+groups:
+
+- name: "Polymorph"
+  icon: "spell/118"
+  iconText: "Poly"
+  lookup: class
+  type: mixed
+  data:
+    mage:
+      - name: "Black Cat"
+        id: 61305
+        type: spellKnown
+
+      - name: "Bumblebee"
+        id: 277792
+        type: spellKnown
+
+      - name: "Direhorn"
+        id: 277787
+        type: spellKnown
+
+      - name: "Duck"
+        id: 391622
+        type: spellKnown
+
+      - name: "Mawrat"
+        id: 321395
+        type: spellKnown
+
+      - name: "Monkey"
+        id: 161354
+        type: spellKnown
+
+      - name: "Mosswool"
+        id: 460392
+        type: spellKnown
+
+      - name: "Peacock"
+        id: 161372
+        type: spellKnown
+
+      - name: "Penguin"
+        id: 161355
+        type: spellKnown
+
+      - name: "Pig"
+        id: 28272
+        type: spellKnown
+
+      - name: "Polar Bear Cub"
+        id: 161353
+        type: spellKnown
+
+      - name: "Porcupine"
+        id: 126819
+        type: spellKnown
+
+      - name: "Rabbit"
+        id: 61721
+        type: spellKnown
+
+      - name: "Turkey"
+        id: 61780
+        type: spellKnown
+
+      - name: "Turtle"
+        id: 28271
+        type: spellKnown
