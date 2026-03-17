@@ -1,0 +1,45 @@
+name: "Legendaries"
+groups:
+
+- name: "{item:49623}" # Shadowmourne
+  icon: item/49623
+  lookup: class
+  type: quest
+  data:
+    death-knight: &shadowmourne
+      # Part 1
+      - name: "The Sacred and the Corrupt"
+        id: 24545
+        description: "{price:25|1049908} + drops from Festergut and Rotface"
+      
+      - name: "Shadow's Edge"
+        id: 24743
+        description: "Rewards {item:49888}" # Shadow's Edge
+      
+      - name: "A Feast of Souls"
+        id: 24547
+        description: "Kill stuff in ICC with {item:49888} equipped"
+      
+      - name: "Unholy Infusion"
+        id: 24749
+      
+      - name: "Blood Infusion"
+        id: 24756
+
+      - name: "Frost Infusion"
+        id: 24757
+      
+      - name: "The Splintered Throne"
+        id: 24548
+        description: "Collect {price:50|1050274} from ICC bosses"
+      
+      - name: "Shadowmourne..."
+        id: 24549
+        description: "Rewards {item:49623}" # Shadowmourne
+      
+      - name: "The Lich King's Last Stand"
+        id: 24748
+        description: "Rewards {item:52200} + {item:52252} + {item:52251} + {item:52201} + {item:52253}"
+
+    paladin: *shadowmourne
+    warrior: *shadowmourne
