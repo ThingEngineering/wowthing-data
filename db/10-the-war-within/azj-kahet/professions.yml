@@ -1,0 +1,207 @@
+requirements:
+
+tags:
+  - "treasure:profession"
+
+things:
+  
+  # Alchemy
+
+  - type: "object"
+    id: 456018
+    name: "{item:226272}"
+    reset: "never"
+    trackingQuestId: 83847
+    locations:
+      here:
+        - "42.83 57.35"
+    requirements:
+      - "profession alchemy tww 1"
+    contents:
+      - type: "item"
+        id: 226272 # Dark Apothecary's Vial
+        note: "{price:3|2785}" # Alchemy Knowledge
+
+  # Blacksmithing
+
+  - type: "object"
+    id: 456010
+    name: "{item:226283}"
+    reset: "never"
+    trackingQuestId: 83855
+    locations:
+      here:
+        - "53.0 51.3"
+    requirements:
+      - "profession blacksmithing tww 1"
+    contents:
+      - type: "item"
+        id: 226283 # Spiderling's Wire Brush
+        note: "{price:3|2786}" # Blacksmithing Knowledge
+
+  # Enchanting
+
+  - type: "object"
+    id: 456002
+    name: "{item:226291}"
+    reset: "never"
+    trackingQuestId: 83865
+    zoneMapsGroupId: 1
+    locations:
+      here:
+        - "57.3 44.0"
+    requirements:
+      - "profession enchanting tww 1"
+    contents:
+      - type: "item"
+        id: 226291 # Void Shard
+        note: "{price:3|2787}" # Enchanting Knowledge
+
+  # Engineering
+
+  - type: "object"
+    id: 455994
+    name: "{item:226299}"
+    reset: "never"
+    trackingQuestId: 83873
+    locations:
+      here:
+        - "63.1 11.2" # CoT?
+    requirements:
+      - "profession engineering tww 1"
+    contents:
+      - type: "item"
+        id: 226299 # Emptied Venom Canister
+        note: "{price:3|2788}" # Engineering Knowledge
+
+  - type: "object"
+    id: 455995
+    name: "{item:226298}"
+    reset: "never"
+    trackingQuestId: 83872
+    zoneMapsGroupId: 1
+    locations:
+      here:
+        - "56.8 38.6"
+    requirements:
+      - "profession engineering tww 1"
+    contents:
+      - type: "item"
+        id: 226298 # Puppeted Mechanical Spider
+        note: "{price:3|2788}" # Engineering Knowledge
+
+  # Inscription
+  
+  - type: "object"
+    id: 455979
+    name: "{item:226314}"
+    reset: "never"
+    trackingQuestId: 83888
+    zoneMapsGroupId: 1
+    locations:
+      here:
+        - "55.8 43.9"
+    requirements:
+      - "profession inscription tww 1"
+    contents:
+      - type: "item"
+        id: 226314 # Nerubian Texts
+        note: "{price:3|2790}" # Inscription Knowledge
+
+  - type: "object"
+    id: 455978
+    name: "{item:226315}"
+    reset: "never"
+    trackingQuestId: 83889
+    locations:
+      here:
+        - "50.1 30.8"
+    requirements:
+      - "profession inscription tww 1"
+    contents:
+      - type: "item"
+        id: 226315 # Venomancer's Ink Well
+        note: "{price:3|2790}" # Inscription Knowledge
+
+  # Jewelcrafting
+  
+  - type: "object"
+    id: 455970
+    name: "{item:226323}"
+    reset: "never"
+    trackingQuestId: 83897
+    locations:
+      here:
+        - "56.1 58.6"
+    requirements:
+      - "profession jewelcrafting tww 1"
+    contents:
+      - type: "item"
+        id: 226323 # Nerubian Bench Blocks
+        note: "{price:3|2791}" # Jewelcrafting Knowledge
+
+  # Leatherworking
+
+  - type: "object"
+    id: 455962
+    name: "{item:226331}"
+    reset: "never"
+    trackingQuestId: 83905
+    locations:
+      here:
+        - "59.9 54.0"
+    requirements:
+      - "profession leatherworking tww 1"
+    contents:
+      - type: "item"
+        id: 226331 # Curved Nerubian Skinning Knife
+        note: "{price:3|2792}" # Leatherworking Knowledge
+
+  - type: "object"
+    id: 455963
+    name: "{item:226330}"
+    reset: "never"
+    trackingQuestId: 83904
+    locations:
+      here:
+        - "55.0 27.0"
+    requirements:
+      - "profession leatherworking tww 1"
+    contents:
+      - type: "item"
+        id: 226330 # Nerubian Tanning Mallet
+        note: "{price:3|2792}" # Leatherworking Knowledge
+
+  # Skinning
+
+  - type: "object"
+    id: 455946
+    name: "{item:226347}"
+    reset: "never"
+    trackingQuestId: 83921
+    locations:
+      here:
+        - "56.5 55.2"
+    requirements:
+      - "profession skinning tww 1"
+    contents:
+      - type: "item"
+        id: 226347 # Carapace Shiner
+        note: "{price:3|2794}" # Skinning Knowledge
+
+  # Tailoring
+
+  - type: "object"
+    id: 455939
+    name: "{item:226354}"
+    reset: "never"
+    trackingQuestId: 83928
+    locations:
+      here:
+        - "53.2 53.1"
+    requirements:
+      - "profession tailoring tww 1"
+    contents:
+      - type: "item"
+        id: 226354 # Nerubian Quilt
+        note: "{price:3|2795}" # Tailoring Knowledge
