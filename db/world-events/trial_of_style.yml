@@ -13,8 +13,8 @@ things:
 
     groups: &groups
 
-      - name: "Decorations"
-        range: 3
+      # - name: "Decorations"
+      #   range: 3
 
       - name: "Ensembles"
         range: 13
@@ -50,17 +50,17 @@ things:
 
       # Decorations
 
-      - id: 156862
-        costs:
-          1151134: 100
+      # - id: 156862
+      #   costs:
+      #     1151134: 100
       
-      - id: 156864 # Trial of Style Flames
-        costs:
-          1151134: 100
+      # - id: 156864 # Trial of Style Flames
+      #   costs:
+      #     1151134: 100
 
-      - id: 156863 # Trial of Style Spotlight
-        costs:
-          1151134: 100
+      # - id: 156863 # Trial of Style Spotlight
+      #   costs:
+      #     1151134: 100
 
       # Ensemble
 
