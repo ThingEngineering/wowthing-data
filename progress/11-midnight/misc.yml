@@ -70,3 +70,23 @@ groups:
 
       - id: 88999
         name: "Sky's Hope"
+
+- name: "Level 90 Gear"
+  icon: "item/266432"
+  iconText: "90"
+  lookup: none
+  minimumLevel: 90
+  type: quest
+  data:
+    0:
+      - id: 93930 # Courting Success
+        name: "Eversong Woods - Head"
+
+      - id: 93931 # An Abundance of Wealth
+        name: "Zul'Aman - Neck"
+
+      - id: 93932 # Legendary Prosperity
+        name: "Haranar - Waist"
+
+      - id: 93933 # Guarded Treasures
+        name: "Voidstorm - Trinket"
