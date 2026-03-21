@@ -52,7 +52,7 @@ things:
     trackingQuestId: 89082
     locations:
       "11-midnight/voidstorm":
-        - "62.0 83.6"
+        - "55.4 41.0"
     contents:
       - type: "item"
         id: 238616 # Book of Sin'dorei Stitches
@@ -78,7 +78,7 @@ things:
     trackingQuestId: 89083
     locations:
       "11-midnight/voidstorm":
-        - "61.6 85.0"
+        - "55.0 41.8"
     contents:
       - type: "item"
         id: 238617 # Satin Throw Pillow
