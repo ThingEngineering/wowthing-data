@@ -73,7 +73,7 @@ groups:
 
 - name: "Level 90 Gear"
   icon: "item/266432"
-  iconText: "90"
+  iconText: "Gear"
   lookup: none
   minimumLevel: 90
   type: quest
