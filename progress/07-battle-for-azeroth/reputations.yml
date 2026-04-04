@@ -1,0 +1,74 @@
+name: "Reputations"
+groups:
+
+- name: "Zandalari"
+  icon: achievement/11861
+  iconText: "Zan"
+  minimumLevel: 10
+  lookup: faction
+  type: mixed
+  data:
+    horde:
+
+      - type: quest
+        id: 47706
+        name: "Hunt for King K'tal"
+
+      - type: quest
+        id: 51087
+        name: "WANTED: Dark Chronicler"
+
+      - type: quest
+        id: 51069
+        name: "WANTED: Darkspear Jo'la"
+
+      - type: quest
+        id: 51980
+        name: "WANTED: Jabra'kan"
+
+      - type: quest
+        id: 51072
+        name: "WANTED: Prime Thumpknuckle"
+
+      - type: quest
+        id: 51071
+        name: "WANTED: Sabertusk Empress"
+
+      - type: quest
+        id: 51091
+        name: "WANTED: Ten'gor and Nol'ixwan"
+      
+      - name: separator
+
+      - type: questline
+        id: 5403 # Fossil Extraction [The Bones of Xibala]
+
+      - type: questline
+        id: 5400 # Gorilla Greatness [Kaja'mite? Kaja'must!]
+
+      - type: quests
+        id: 52210 49758 49775 49754 49871 49785 49884
+        name: "Isle of Fangs" # [Sending Out An SOS]
+
+      - type: questline
+        id: 5401 # The Last of Their Kind [Monstrous Matchmaker]
+      
+      - type: quests
+        id: 47441 47442
+        name: "Pests"
+      
+      - type: quests
+        id: 49940 49679 49681 49680 49678
+        name: "Sandscar Breach"
+      
+      - type: quests
+        id: 48404 48405
+        name: "The Scamps"
+
+      - type: questline
+        id: 5402 # Warbeast Kraal [The Missing Handler]
+      
+      - name: separator
+
+      - type: questline
+        id: 5419 # This is the Pits [Nazmir]

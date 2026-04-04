@@ -454,7 +454,7 @@ groups:
       
       - name: "An Abyssal Opportunity"
         id: 56347
-        description: "Unlocks Abyssal Focus"
+        description: "Unlocks Restored Abyssal Focus"
       
       - name: "The Eternal Palace: We Can Make It Stronger..."
         id: 56348
