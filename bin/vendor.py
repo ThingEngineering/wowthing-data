@@ -9,7 +9,7 @@ import sys
 
 
 HEADERS = {
-    'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36',
+    'user-agent': 'Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0',
 }
 
 ARMOR_SUBCLASS = {
@@ -210,6 +210,7 @@ def main():
     m = NPC_RE.search(r.text)
     if not m:
         print('npc_re fail')
+        print(r.text)
         sys.exit(1)
 
     npc = json.loads(m.group(1))
