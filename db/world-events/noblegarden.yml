@@ -152,3 +152,48 @@ things:
         - 47.4 47.2 horde
 
     contents: *contents
+
+  - id: 216874 # Loot-Filled Basket
+    type: "item"
+    reset: "daily"
+    #trackingQuestId: 
+
+    contents:
+
+      - id: 212599 # Noble Flying Carpet [mount]
+
+      - id: 216890 # Black Duck Diguise
+
+      - id: 216897 # Brown Duck Diguise
+
+      - id: 216898 # Mallard Duck Diguise
+
+      - id: 216900 # Pink Duck Diguise
+
+      - id: 216901 # White Duck Diguise
+
+      - id: 216902 # Yellow Duck Diguise
+
+      - id: 212717 # Spring Reveler's Cornsilk Sun Hat [head]
+
+      - id: 212705 # Spring Reveler's Cornsilk Attire [chest]
+
+      - id: 212713 # Spring Reveler's Cornsilk Dress [chest]
+
+      - id: 212706 # Spring Reveler's Cornsilk Belt [waist]
+
+      - id: 212987 # Spring Reveler's Cornsilk Pants [legs]
+
+      - id: 212707 # Spring Reveler's Cornsilk Boots [feet]
+
+      - id: 212715 # Spring Reveler's Turquoise Sun Hat [head]
+
+      - id: 212698 # Spring Reveler's Turquoise Attire [chest]
+
+      - id: 212711 # Spring Reveler's Turquoise Dress [chest]
+
+      - id: 212699 # Spring Reveler's Turquoise Belt [waist]
+
+      - id: 212985 # Spring Reveler's Turquoise Pants [legs]
+
+      - id: 212701 # Spring Reveler's Turquoise Boots [feet]
