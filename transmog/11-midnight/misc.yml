@@ -8,8 +8,9 @@ groups:
     - "Quest Rewards"
     - "Rare Monsters"
     - "World Drops"
-    - "Rare Crafted"
+    # - "Rare Crafted" # has a lot of pvp gear set as primary in slot
     - "Epic Crafted"
+    - "Rare Crafted Armor"
   data:
     cloth:
       # Thalassian Cloth Armor [Quest Rewards]
@@ -25,12 +26,24 @@ groups:
         wowheadSetId:
 
       # Thalassian Cloth Armor [Rare Crafted]
-      - transmogSetId: 5632
-        wowheadSetId:
+      # - transmogSetId: 5632
+      #   wowheadSetId:
 
       # Thalassian Cloth Armor [Epic Crafted]
       - transmogSetId: 5630
         wowheadSetId:
+
+      - name: "Courtly Cloth"
+        itemsV2:
+          - 239668 # Courtly Helm [head]
+          - 239675 # Courtly Shoulders [shoulders]
+          - 239674 # Courtly Cloak [back]
+          - 239672 # Courtly Robes [chest]
+          - 239671 # Courtly Wrists [wrists]
+          - 239669 # Courtly Gloves [hands]
+          - 239670 # Courtly Belt [waist]
+          - 239676 # Courtly Pants [legs]
+          - 239673 # Courtly Slippers [feet]
 
     leather:
       # Thalassian Leather Armor [Quest Rewards]
@@ -46,12 +59,23 @@ groups:
         wowheadSetId:
 
       # Thalassian Leather Armor [Rare Crafted]
-      - transmogSetId: 5636
-        wowheadSetId:
+      # - transmogSetId: 5636
+      #   wowheadSetId:
 
       # Thalassian Leather Armor [Epic Crafted]
       - transmogSetId: 5634
         wowheadSetId:
+
+      - name: "Smuggler's Leather"
+        itemsV2:
+          - 244591 # Smuggler's Reinforced Hood [head]
+          - 244592 # Smuggler's Reinforced Shoulderguards [shoulders]
+          - 244587 # Smuggler's Leather Tunic [chest]
+          - 244586 # Smuggler's Leather Wristbands [wrists]
+          - 244593 # Smuggler's Reinforced Gloves [hands]
+          - 244595 # Smuggler's Reinforced Binding [waist]
+          - 244594 # Smuggler's Reinforced Pants [legs]
+          - 244585 # Smuggler's Leather Footpads [feet]
 
     mail:
       # Thalassian Mail Armor [Quest Rewards]
@@ -67,12 +91,23 @@ groups:
         wowheadSetId:
 
       # Thalassian Mail Armor [Rare Crafted]
-      - transmogSetId: 5640
-        wowheadSetId:
+      # - transmogSetId: 5640
+      #   wowheadSetId:
 
       # Thalassian Mail Armor [Epic Crafted]
       - transmogSetId: 5638
         wowheadSetId:
+
+      - name: "Scout's Mail"
+        itemsV2:
+          - 244596 # Scout's Polished Skullcap [head]
+          - 244597 # Scout's Polished Spaulders [shoulders]
+          - 244590 # Scout's Scaled Vest [chest]
+          - 244589 # Scout's Scaled Bracers [wrists]
+          - 244598 # Scout's Polished Gauntlets [hands]
+          - 244600 # Scout's Polished Wrap [waist]
+          - 244599 # Scout's Polished Legguards [legs]
+          - 244588 # Scout's Scaled Boots [feet]
 
     plate:
       # Thalassian Plate Armor [Quest Rewards]
@@ -88,9 +123,34 @@ groups:
         wowheadSetId:
 
       # Thalassian Plate Armor [Rare Crafted]
-      - transmogSetId: 5644
-        wowheadSetId:
+      # - transmogSetId: 5644
+      #   wowheadSetId:
 
       # Thalassian Plate Armor [Epic Crafted]
       - transmogSetId: 5642
         wowheadSetId:
+
+      - name: "Blood-Tempered Plate"
+        itemsV2:
+          - 237921 # Blood-Tempered Basinet [head]
+          - 237924 # Blood-Tempered Pauldrons [shoulders]
+          - 237918 # Blood-Tempered Chestplate [chest]
+          - 237923 # Blood-Tempered Bracers [wrists]
+          - 237925 # Blood-Tempered Gauntlets [hands]
+          - 237919 # Blood-Tempered Greatbelt [waist]
+          - 237922 # Blood-Tempered Leggings [legs]
+          - 237917 # Blood-Tempered Greaves [feet]
+
+#
+- name: "Thalassian Equipment"
+  type: all
+  sets:
+    - "Epic Crafted Weapons"
+    - "Rare Crafted Weapons"
+  data:
+    all:
+      - name: "Epic Crafted Weapons"
+        itemsV2:
+
+      - name: "Rare Crafted Weapons"
+        itemsV2:
