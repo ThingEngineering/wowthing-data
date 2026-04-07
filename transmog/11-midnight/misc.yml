@@ -9,8 +9,7 @@ groups:
     - "Rare Monsters"
     - "World Drops"
     # - "Rare Crafted" # has a lot of pvp gear set as primary in slot
-    - "Epic Crafted"
-    - "Rare Crafted Armor"
+    # - "Epic Crafted"
   data:
     cloth:
       # Thalassian Cloth Armor [Quest Rewards]
@@ -30,20 +29,8 @@ groups:
       #   wowheadSetId:
 
       # Thalassian Cloth Armor [Epic Crafted]
-      - transmogSetId: 5630
-        wowheadSetId:
-
-      - name: "Courtly Cloth"
-        itemsV2:
-          - 239668 # Courtly Helm [head]
-          - 239675 # Courtly Shoulders [shoulders]
-          - 239674 # Courtly Cloak [back]
-          - 239672 # Courtly Robes [chest]
-          - 239671 # Courtly Wrists [wrists]
-          - 239669 # Courtly Gloves [hands]
-          - 239670 # Courtly Belt [waist]
-          - 239676 # Courtly Pants [legs]
-          - 239673 # Courtly Slippers [feet]
+      # - transmogSetId: 5630
+      #   wowheadSetId:
 
     leather:
       # Thalassian Leather Armor [Quest Rewards]
@@ -63,19 +50,8 @@ groups:
       #   wowheadSetId:
 
       # Thalassian Leather Armor [Epic Crafted]
-      - transmogSetId: 5634
-        wowheadSetId:
-
-      - name: "Smuggler's Leather"
-        itemsV2:
-          - 244591 # Smuggler's Reinforced Hood [head]
-          - 244592 # Smuggler's Reinforced Shoulderguards [shoulders]
-          - 244587 # Smuggler's Leather Tunic [chest]
-          - 244586 # Smuggler's Leather Wristbands [wrists]
-          - 244593 # Smuggler's Reinforced Gloves [hands]
-          - 244595 # Smuggler's Reinforced Binding [waist]
-          - 244594 # Smuggler's Reinforced Pants [legs]
-          - 244585 # Smuggler's Leather Footpads [feet]
+      # - transmogSetId: 5634
+      #   wowheadSetId:
 
     mail:
       # Thalassian Mail Armor [Quest Rewards]
@@ -95,19 +71,8 @@ groups:
       #   wowheadSetId:
 
       # Thalassian Mail Armor [Epic Crafted]
-      - transmogSetId: 5638
-        wowheadSetId:
-
-      - name: "Scout's Mail"
-        itemsV2:
-          - 244596 # Scout's Polished Skullcap [head]
-          - 244597 # Scout's Polished Spaulders [shoulders]
-          - 244590 # Scout's Scaled Vest [chest]
-          - 244589 # Scout's Scaled Bracers [wrists]
-          - 244598 # Scout's Polished Gauntlets [hands]
-          - 244600 # Scout's Polished Wrap [waist]
-          - 244599 # Scout's Polished Legguards [legs]
-          - 244588 # Scout's Scaled Boots [feet]
+      # - transmogSetId: 5638
+      #   wowheadSetId:
 
     plate:
       # Thalassian Plate Armor [Quest Rewards]
@@ -127,10 +92,155 @@ groups:
       #   wowheadSetId:
 
       # Thalassian Plate Armor [Epic Crafted]
-      - transmogSetId: 5642
-        wowheadSetId:
+      # - transmogSetId: 5642
+      #   wowheadSetId:
 
-      - name: "Blood-Tempered Plate"
+- name: "Crafted Armor"
+  type: armor
+  sets:
+    - ":blacksmithing: :leatherworking: :tailoring: Epic Armor"
+    - ":blacksmithing: :leatherworking: :tailoring: Rare Armor"
+    - ":engineering: Armor"
+  data:
+    cloth:
+      - name: "Tailoring Epic Cloth"
+        itemsV2:
+          - 239652 # Martyr's Crown [head]
+          - 239650 # Martyr's Mantle [shoulders]
+          - 239656 # Adherent's Silken Shroud [back]
+          - 239655 # Martyr's Vestments [chest]
+          - 239648 # Martyr's Bindings [wrists]
+          - 239653 # Martyr's Gloves [hands]
+          - 239649 # Martyr's Waistwrap [waist]
+          - 239651 # Martyr's Leggings [legs]
+          - 239654 # Martyr's Slippers [feet]
+          - 239660 # Arcanoweave Bracers
+          - 239661 # Arcanoweave Cloak
+          - 239664 # Arcanoweave Cord
+          - 239662 # Arcanoweave Treads
+          - 239657 # Sunfire Bracers
+          - 239658 # Sunfire Cloak
+          - 239663 # Sunfire Sash
+          - 239659 # Sunfire Treads
+
+      - name: "Tailoring Rare Cloth"
+        itemsV2:
+          - 239668 # Courtly Helm [head]
+          - 239675 # Courtly Shoulders [shoulders]
+          - 239674 # Courtly Cloak [back]
+          - 239672 # Courtly Robes [chest]
+          - 239671 # Courtly Wrists [wrists]
+          - 239669 # Courtly Gloves [hands]
+          - 239670 # Courtly Belt [waist]
+          - 239676 # Courtly Pants [legs]
+          - 239673 # Courtly Slippers [feet]
+      
+      - name: "Engineering Cloth"
+        itemsV2:
+          - 244743 # Aetherlume Eye Wrap
+          - 244747 # Aetherlume Silken Cuffs
+          - 244771 # Aetherlume Softsteppers
+          - 245337 # Evercore Swiftfeet
+          - 244754 # Evercore Vision Guard
+          - 245341 # Evercore Wrist Latch
+          - 244759 # Quel'dorei Cloth Goggles
+          - 244755 # Quel'dorei Silken Cuffs
+          - 244767 # Quel'dorei Softsteppers
+
+    leather:
+      - name: "Leatherworking Epic Leather"
+        itemsV2:
+          - 244571 # Silvermoon Agent's Cover [head]
+          - 244572 # Silvermoon Agent's Mantle [shoulders]
+          - 244570 # Silvermoon Agent's Coat [chest]
+          - 244576 # Silvermoon Agent's Deflectors [wrists]
+          - 244575 # Silvermoon Agent's Handwraps [hands]
+          - 244573 # Silvermoon Agent's Utility Belt [waist]
+          - 244574 # Silvermoon Agent's Leggings [legs]
+          - 244569 # Silvermoon Agent's Sneakers [feet]
+          - 244606 # Hexwoven Strand
+          - 244612 # Row Walker's Deflectors
+          - 244613 # Row Walker's Insurance
+          - 244614 # Row Walker's Swiftgrips
+          - 244601 # World Tree Rootwraps
+
+      - name: "Leatherworking Rare Leather"
+        itemsV2:
+          - 244591 # Smuggler's Reinforced Hood [head]
+          - 244592 # Smuggler's Reinforced Shoulderguards [shoulders]
+          - 244587 # Smuggler's Leather Tunic [chest]
+          - 244586 # Smuggler's Leather Wristbands [wrists]
+          - 244593 # Smuggler's Reinforced Gloves [hands]
+          - 244595 # Smuggler's Reinforced Binding [waist]
+          - 244594 # Smuggler's Reinforced Pants [legs]
+          - 244585 # Smuggler's Leather Footpads [feet]
+
+      - name: "Engineering Leather"
+        itemsV2:
+          - 244748 # Aetherlume Bands
+          - 244744 # Aetherlume Optics
+          - 244772 # Aetherlume Runners
+          - 245342 # Evercore Binding
+          - 244752 # Evercore Shade
+          - 245338 # Evercore Stichwraps
+          - 244756 # Quel'dorei Bands
+          - 244760 # Quel'dorei Leather Optics
+          - 244768 # Quel'dorei Runners
+
+    mail:
+      - name: "Leatherworking Epic Mail"
+        itemsV2:
+          - 244579 # Farstrider's Unwavering Visage [head]
+          - 244580 # Farstrider's Brilliant Plumes [shoulders]
+          - 244578 # Farstrider's Scouting Vest [chest]
+          - 244584 # Farstrider's Plated Bracers [wrists]
+          - 244583 # Farstrider's Sharpened Claws [hands]
+          - 244581 # Farstrider's Trophy Belt [waist]
+          - 244582 # Farstrider's Reinforced Faulds [legs]
+          - 244577 # Farstrider's Razor Talons [feet]
+          - 244605 # Axe-Flingin' Bands
+          - 244602 # Ranger-General's Grips
+          - 244611 # World Tender's Barkclasp
+          - 244610 # World Tender's Rootslippers
+          - 244609 # World Tender's Trunkplate
+
+      - name: "Leatherworking Rare Mail"
+        itemsV2:
+          - 244596 # Scout's Polished Skullcap [head]
+          - 244597 # Scout's Polished Spaulders [shoulders]
+          - 244590 # Scout's Scaled Vest [chest]
+          - 244589 # Scout's Scaled Bracers [wrists]
+          - 244598 # Scout's Polished Gauntlets [hands]
+          - 244600 # Scout's Polished Wrap [waist]
+          - 244599 # Scout's Polished Legguards [legs]
+          - 244588 # Scout's Scaled Boots [feet]
+
+      - name: "Engineering Mail"
+        itemsV2:
+          - 244749 # Aetherlume Bracelets
+          - 244773 # Aetherlume Clonkers
+          - 244745 # Aetherlume Vision Shroud
+          - 245343 # Evercore Chainguards
+          - 244753 # Evercore Reconnaissance
+          - 245339 # Evercore Turbochains
+          - 244757 # Quel'dorei Bracelets
+          - 244769 # Quel'dorei Clonkers
+          - 244761 # Quel'dorei Mail Shroud
+
+    plate:
+      - name: "Blacksmithing Epic Plate"
+        itemsV2:
+          - 237832 # Spellbreaker's Cover [head]
+          - 237835 # Spellbreaker's Mantle [shoulders]
+          - 237829 # Spellbreaker's Shelter [chest]
+          - 237834 # Spellbreaker's Bracers [wrists]
+          - 237836 # Spellbreaker's Resolve [hands]
+          - 237830 # Spellbreaker's Girdle [waist]
+          - 237833 # Spellbreaker's Legguards [legs]
+          - 237828 # Spellbreaker's March [feet]
+          - 244463 # Murder Row Fleet Feet [feet]
+
+      - name: "Blacksmithing Rare Plate"
         itemsV2:
           - 237921 # Blood-Tempered Basinet [head]
           - 237924 # Blood-Tempered Pauldrons [shoulders]
@@ -141,16 +251,70 @@ groups:
           - 237922 # Blood-Tempered Leggings [legs]
           - 237917 # Blood-Tempered Greaves [feet]
 
-#
-- name: "Thalassian Equipment"
+      - name: "Engineering Plate"
+        itemsV2:
+          - 244750 # Aetherlume Guards
+          - 244774 # Aetherlume Stompers
+          - 244746 # Aetherlume Sun Guard
+          - 245344 # Evercore Gear Weight
+          - 245340 # Evercore Greaseplates
+          - 244751 # Evercore Zoomshroud
+          - 244758 # Quel'dorei Guards
+          - 244770 # Quel'dorei Stompers
+          - 244762 # Quel'dorei Visor
+
+- name: "Crafted Weapons"
   type: all
   sets:
-    - "Epic Crafted Weapons"
-    - "Rare Crafted Weapons"
+    - ":blacksmithing: Epic Weapons"
+    - ":blacksmithing: Rare Weapons"
+    - ":enchanting: :engineering: :inscription: Weapons"
   data:
     all:
-      - name: "Epic Crafted Weapons"
+      - name: "Blacksmithing Epic Weapons"
         itemsV2:
+          - 237847 # Blood Knight's Impetus
+          - 237848 # Blood Knight's Mercy
+          - 237846 # Blood Knight's Warblade
+          - 237845 # Bloomforged Claw
+          - 237842 # Bloomforged Greataxe
+          - 237850 # Farstrider's Chopper
+          - 237837 # Farstrider's Mercy
+          - 244472 # Knight-Commander's Palisade [shield]
+          - 237844 # Magister's Cleaver
+          - 237843 # Magister's Mana Sword
+          - 237838 # Magister's Ritual Knife
+          - 237849 # Magister's Valediction
+          - 244679 # Murder Row Fishhook
+          - 237839 # Spellbreaker's Blade
+          - 237831 # Spellbreaker's Rebuke [shield]
+          - 237841 # Spellbreaker's Ultimatum
+          - 237840 # Spellbreaker's Warglaive
 
-      - name: "Rare Crafted Weapons"
+      - name: "Blacksmithing Rare Weapons"
         itemsV2:
+          - 237927 # Dawnforged Edge
+          - 237928 # Dawnforged Long Blade
+          - 237926 # Dawnforged Ritual Knife
+          - 237931 # Dawnforged Splitter
+          - 237930 # Dawnforged War Mace
+          - 237932 # Primalforged Heavy Axe
+          - 237929 # Primalforged Knuckles
+
+      - name: "Enchanting Weapons"
+        itemsV2:
+          # Enchanting
+          - 244179 # Magister's Grand Focus
+          - 244178 # Thalassian Spellweaver's Wand
+          # Engineering
+          - 268475 # Evercore Dome Dinger
+          - 268477 # P.O.W. x3
+          # Inscription
+          - 245770 # Aln'hara Cane
+          - 245769 # Aln'hara Lantern
+          - 245771 # Aln'hara Pikestaff
+          - 265337 # Aln'hara Sprigshot
+          - 245773 # Faunatender's Baton
+          - 265336 # Faunatender's Trust
+          - 245772 # Floratender's Crutch
+          - 245768 # Rootwarden's Lamp
