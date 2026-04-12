@@ -105,12 +105,16 @@ world-events/_world_events.yml
 
 miscellaneous/_.yml
     miscellaneous/gathering.yml
-    -
-    miscellaneous/hunter.yml
-    miscellaneous/mage.yml
-    miscellaneous/shaman.yml
-    -
-    miscellaneous/dark_iron_dwarf.yml
+
+-
+
+class/_.yml
+    class/hunter.yml
+    class/mage.yml
+    class/shaman.yml
+
+race/_.yml
+    race/dark_iron_dwarf.yml
 
 -
 

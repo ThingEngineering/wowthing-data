@@ -1,0 +1,354 @@
+name: "Mage"
+groups:
+
+- name: "Polymorph"
+  icon: "spell/118"
+  iconText: "Poly"
+  lookup: class
+  type: mixed
+  data:
+    mage:
+      - name: "Black Cat"
+        id: 61305
+        type: spellKnown
+
+      - name: "Bumblebee"
+        id: 277792
+        type: spellKnown
+
+      - name: "Direhorn"
+        id: 277787
+        type: spellKnown
+
+      - name: "Duck"
+        id: 391622
+        type: spellKnown
+
+      - name: "Mawrat"
+        id: 321395
+        type: spellKnown
+
+      - name: "Monkey"
+        id: 161354
+        type: spellKnown
+
+      - name: "Mosswool"
+        id: 460392
+        type: spellKnown
+
+      - name: "Peacock"
+        id: 161372
+        type: spellKnown
+
+      - name: "Penguin"
+        id: 161355
+        type: spellKnown
+
+      - name: "Pig"
+        id: 28272
+        type: spellKnown
+
+      - name: "Polar Bear Cub"
+        id: 161353
+        type: spellKnown
+
+      - name: "Porcupine"
+        id: 126819
+        type: spellKnown
+
+      - name: "Rabbit"
+        id: 61721
+        type: spellKnown
+
+      - name: "Turkey"
+        id: 61780
+        type: spellKnown
+
+      - name: "Turtle"
+        id: 28271
+        type: spellKnown
+
+- name: "Portal"
+  icon: "spell/343140"
+  iconText: "Port"
+  lookup: faction-class
+  type: mixed
+  data:
+    alliance-mage:
+
+      - name: "Darnassus"
+        id: 11419
+        type: spellKnown
+
+      - name: "Ironforge"
+        id: 11416
+        type: spellKnown
+
+      - name: "Stormwind"
+        id: 10059
+        type: spellKnown
+
+      - name: "[TBC] Shattrath"
+        id: 33691
+        type: spellKnown
+
+      - name: "[TBC] Exodar"
+        id: 32266
+        type: spellKnown
+
+      - name: "[TBC] Theramore"
+        id: 49360
+        type: spellKnown
+
+      - name: "[WotLK] Dalaran - Northrend"
+        id: 53142
+        type: spellKnown
+
+      - name: "[Cata] Tol Barad"
+        id: 88345
+        type: spellKnown
+
+      - name: "[MoP] Vale of Eternal Blossoms"
+        id: 132620
+        type: spellKnown
+
+      - name: "[WoD] Stormshield"
+        id: 176246
+        type: spellKnown
+
+      - name: "[Leg] Dalaran - Broken Isles"
+        id: 224871
+        type: spellKnown
+
+      - name: "[BfA] Boralus"
+        id: 281400
+        type: spellKnown
+
+      - name: "[SL] Oribos"
+        id: 344597
+        type: spellKnown
+
+      - name: "[DF] Valdrakken"
+        id: 395289
+        type: spellKnown
+
+      - name: "[TWW] Dornogal"
+        id: 446534
+        type: spellKnown
+
+      - name: "[Mid] Silvermoon City"
+        id: 1259194
+        type: spellKnown
+
+    horde-mage:
+
+      - name: "Orgrimmar"
+        id: 11417
+        type: spellKnown
+
+      - name: "Thunder Bluff"
+        id: 11420
+        type: spellKnown
+
+      - name: "Undercity"
+        id: 11418
+        type: spellKnown
+
+      - name: "[TBC] Shattrath"
+        id: 35717
+        type: spellKnown
+
+      - name: "[TBC] Silvermoon"
+        id: 32267
+        type: spellKnown
+
+      - name: "[TBC] Stonard"
+        id: 49361
+        type: spellKnown
+
+      - name: "[WotLK] Dalaran - Northrend"
+        id: 53142
+        type: spellKnown
+
+      - name: "[Cata] Tol Barad"
+        id: 88346
+        type: spellKnown
+
+      - name: "[MoP] Vale of Eternal Blossoms"
+        id: 132626
+        type: spellKnown
+
+      - name: "[WoD] Warspear"
+        id: 176244
+        type: spellKnown
+
+      - name: "[Leg] Dalaran - Broken Isles"
+        id: 224871
+        type: spellKnown
+
+      - name: "[BfA] Dazar'alor"
+        id: 281402
+        type: spellKnown
+
+      - name: "[SL] Oribos"
+        id: 344597
+        type: spellKnown
+
+      - name: "[DF] Valdrakken"
+        id: 395289
+        type: spellKnown
+
+      - name: "[TWW] Dornogal"
+        id: 446534
+        type: spellKnown
+
+      - name: "[Mid] Silvermoon City"
+        id: 1259194
+        type: spellKnown
+
+
+- name: "Teleport"
+  icon: "spell/343127"
+  iconText: "Tele"
+  lookup: faction-class
+  type: mixed
+  data:
+    alliance-mage:
+
+      - name: "Darnassus"
+        id: 3565
+        type: spellKnown
+
+      - name: "Ironforge"
+        id: 3562
+        type: spellKnown
+
+      - name: "Stormwind"
+        id: 3561
+        type: spellKnown
+
+      - name: "[TBC] Shattrath"
+        id: 33690
+        type: spellKnown
+
+      - name: "[TBC] Exodar"
+        id: 32271
+        type: spellKnown
+
+      - name: "[TBC] Theramore"
+        id: 49359
+        type: spellKnown
+
+      - name: "[WotLK] Dalaran - Northrend"
+        id: 53140
+        type: spellKnown
+
+      - name: "[Cata] Tol Barad"
+        id: 88342
+        type: spellKnown
+
+      - name: "[MoP] Vale of Eternal Blossoms"
+        id: 132621
+        type: spellKnown
+
+      - name: "[WoD] Stormshield"
+        id: 176248
+        type: spellKnown
+
+      - name: "[Leg] Dalaran - Broken Isles"
+        id: 224869
+        type: spellKnown
+
+      - name: "[Leg] Hall of the Guardian"
+        id: 193759
+        type: spellKnown
+
+      - name: "[BfA] Boralus"
+        id: 281403
+        type: spellKnown
+
+      - name: "[SL] Oribos"
+        id: 344587
+        type: spellKnown
+
+      - name: "[DF] Valdrakken"
+        id: 395277
+        type: spellKnown
+
+      - name: "[TWW] Dornogal"
+        id: 446540
+        type: spellKnown
+
+      - name: "[Mid] Silvermoon City"
+        id: 1259190
+        type: spellKnown
+
+    horde-mage:
+
+      - name: "Orgrimmar"
+        id: 3567
+        type: spellKnown
+
+      - name: "Thunder Bluff"
+        id: 3566
+        type: spellKnown
+
+      - name: "Undercity"
+        id: 3563
+        type: spellKnown
+
+      - name: "[TBC] Shattrath"
+        id: 35715
+        type: spellKnown
+
+      - name: "[TBC] Silvermoon"
+        id: 32272
+        type: spellKnown
+
+      - name: "[TBC] Stonard"
+        id: 49358
+        type: spellKnown
+
+      - name: "[WotLK] Dalaran - Northrend"
+        id: 53140
+        type: spellKnown
+
+      - name: "[Cata] Tol Barad"
+        id: 88344
+        type: spellKnown
+
+      - name: "[MoP] Vale of Eternal Blossoms"
+        id: 132627
+        type: spellKnown
+
+      - name: "[WoD] Warspear"
+        id: 176242
+        type: spellKnown
+
+      - name: "[Leg] Dalaran - Broken Isles"
+        id: 224869
+        type: spellKnown
+
+      - name: "[Leg] Hall of the Guardian"
+        id: 193759
+        type: spellKnown
+
+      - name: "[BfA] Dazar'alor"
+        id: 281404
+        type: spellKnown
+
+      - name: "[SL] Oribos"
+        id: 344587
+        type: spellKnown
+
+      - name: "[DF] Valdrakken"
+        id: 395277
+        type: spellKnown
+
+      - name: "[TWW] Dornogal"
+        id: 446540
+        type: spellKnown
+
+      - name: "[Mid] Silvermoon City"
+        id: 1259190
+        type: spellKnown
