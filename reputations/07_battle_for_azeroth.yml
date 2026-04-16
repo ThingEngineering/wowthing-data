@@ -72,6 +72,30 @@ reputations:
 
     paragon: true
 
+  - alliance:
+      id: 2377 # Bladesman Inowari
+      icon: achievement/13759
+
+    horde:
+      id: 2389 # Neri Sharpfin
+      icon: achievement/13750
+
+  - alliance:
+      id: 2376 # Farseer Ori
+      icon: achievement/13760
+
+    horde:
+      id: 2388 # Poen Gillbrack
+      icon: achievement/13756
+
+  - alliance:
+      id: 2375 # Hunter Akana
+      icon: achievement/13758
+
+    horde:
+      id: 2390 # Vim Brineheart
+      icon: achievement/13757
+
 # 8.0
 -
   - both:
