@@ -1,0 +1,45 @@
+things:
+  - id: 255495
+    type: "vendor"
+    name: "Rae'ana"
+    note: "Historian and Research Supplier"
+
+    locations:
+      here: # silvermoon_city
+        - 47.7 50.5
+
+    groups:
+      - name: "Void - Decor"
+        range: -1
+        sortKey: "void-3"
+
+    contents:
+
+      - id: 273142 # Runic Parchment [decor]
+        costs: &costs
+          3316: 150 # Voidlight Marl
+        requirements: &renown-3
+          - "reputation 2792 renown-3"
+
+      - id: 273135 # Void Elf Floating Desk [decor]
+        costs: *costs
+        requirements: *renown-3
+
+      - id: 273157 # Void Flame Candle [decor]
+        costs: *costs
+        requirements: *renown-3
+
+      - id: 273147 # Void Inkwell [decor]
+        costs: *costs
+        requirements: *renown-3
+
+      - id: 273159 # Void Elf Scribe's Desk [decor]
+        costs:
+          3316: 250 # Voidlight Marl
+        requirements: *renown-3
+
+      - id: 271158 # Dark Obelisk [decor]
+        costs:
+          3316: 500 # Voidlight Marl
+        requirements:
+          - "reputation 2792 renown-7"

@@ -1,0 +1,574 @@
+things:
+  - id: 255473
+    type: "vendor"
+    name: "Maren Silverwing"
+    note: "Quartermaster"
+
+    locations:
+      here: # silvermoon_city
+        - 48.2 49.6
+
+    groups:
+
+      - name: "Void - :class-6: Armor" # Death Knight
+        range: 9
+        sortKey: "void-5-01-1"
+        bonusIds: &bonus-ids
+          - 12785 # champion 1/6
+          - 999999 # RNG
+
+      - name: "Void - :class-12: Armor" # Demon Hunter
+        range: 9
+        sortKey: "void-5-02-1"
+        bonusIds: *bonus-ids
+
+      - name: "Void - :class-11: Armor" # Druid
+        range: 10
+        sortKey: "void-5-03-1"
+        bonusIds: *bonus-ids
+
+      - name: "Void - :class-13: Armor" # Evoker
+        range: 9
+        sortKey: "void-5-04-1"
+        bonusIds: *bonus-ids
+
+      - name: "Void - :class-3: Armor" # Hunter
+        range: 9
+        sortKey: "void-5-05-1"
+        bonusIds: *bonus-ids
+
+      - name: "Void - :class-8: Armor" # Mage
+        range: 10
+        sortKey: "void-5-06-1"
+        bonusIds: *bonus-ids
+
+      - name: "Void - :class-10: Armor" # Monk
+        range: 9
+        sortKey: "void-5-07-1"
+        bonusIds: *bonus-ids
+
+      - name: "Void - :class-2: Armor" # Paladin
+        range: 10
+        sortKey: "void-5-08-1"
+        bonusIds: *bonus-ids
+
+      - name: "Void - :class-5: Armor" # Priest
+        range: 10
+        sortKey: "void-5-09-1"
+        bonusIds: *bonus-ids
+
+      - name: "Void - :class-4: Armor" # Rogue
+        range: 9
+        sortKey: "void-5-10-1"
+        bonusIds: *bonus-ids
+
+      - name: "Void - :class-7: Armor" # Shaman
+        range: 10
+        sortKey: "void-5-11-1"
+        bonusIds: *bonus-ids
+
+      - name: "Void - :class-9: Armor" # Warlock
+        range: 10
+        sortKey: "void-5-12-1"
+        bonusIds: *bonus-ids
+
+      - name: "Void - :class-1: Armor" # Warrior
+        range: 9
+        sortKey: "void-5-13-1"
+        bonusIds: *bonus-ids
+
+      - name: "Void - Weapons"
+        range: -1
+        sortKey: "void-5-99-1"
+        bonusIds: *bonus-ids
+
+    contents:
+
+      # Death Knight
+
+      - id: 263737 # Void Rider's Helm [head]
+        costs: &armor-costs
+          3405: 75
+
+      - id: 263739 # Void Rider's Pauldrons [shoulders]
+        costs: *armor-costs
+
+      - id: 263742 # Void Rider's Cloak [back]
+        costs: *armor-costs
+
+      - id: 263734 # Void Rider's Breastplate [chest]
+        costs: *armor-costs
+
+      - id: 263743 # Void Rider's Vambraces [wrists]
+        costs: *armor-costs
+
+      - id: 263736 # Void Rider's Gloves [hands]
+        costs: *armor-costs
+
+      - id: 263741 # Void Rider's Girdle [waist]
+        costs: *armor-costs
+
+      - id: 263738 # Void Rider's Leggings [legs]
+        costs: *armor-costs
+
+      - id: 263735 # Void Rider's Sabatons [feet]
+        costs: *armor-costs
+
+      # Demon Hunter
+
+      - id: 263747 # Voidwalker's Skullcap [head]
+        costs: *armor-costs
+
+      - id: 263749 # Voidwalker's Shoulderblades [shoulders]
+        costs: *armor-costs
+
+      - id: 263751 # Voidwalker's Cloak [back]
+        costs: *armor-costs
+
+      - id: 263744 # Voidwalker's Harness [chest
+        costs: *armor-costs
+
+      - id: 263752 # Voidwalker's Bracers [wrists]
+        costs: *armor-costs
+
+      - id: 263746 # Voidwalker's Gloves [hands]
+        costs: *armor-costs
+
+      - id: 263750 # Voidwalker's Cord [waist]
+        costs: *armor-costs
+
+      - id: 263748 # Voidwalker's Leggings [legs]
+        costs: *armor-costs
+
+      - id: 263745 # Voidwalker's Sandals [feet]
+        costs: *armor-costs
+
+      # Druid
+
+      - id: 263756 # Voidrage Cover [head]
+        costs: *armor-costs
+
+      - id: 263758 # Voidrage Pauldrons [shoulders]
+        costs: *armor-costs
+
+      - id: 263760 # Voidrage Cloak [back]
+        costs: *armor-costs
+
+      - id: 263762 # Voidrage Chestguard [chest]
+        costs: *armor-costs
+
+      - id: 263753 # Voidrage Robe [chest]
+        costs: *armor-costs
+
+      - id: 263761 # Voidrage Bracers [wrists]
+        costs: *armor-costs
+
+      - id: 263755 # Voidrage Handguards [hands]
+        costs: *armor-costs
+
+      - id: 263759 # Voidrage Belt [waist]
+        costs: *armor-costs
+
+      - id: 263757 # Voidrage Legguards [legs]
+        costs: *armor-costs
+
+      - id: 263754 # Voidrage Boots [feet]
+        costs: *armor-costs
+
+      # Evoker
+
+      - id: 263766 # Void-Warder's Crown [head]
+        costs: *armor-costs
+
+      - id: 263768 # Void-Warder's Pauldrons [shoulders]
+        costs: *armor-costs
+
+      - id: 263770 # Void-Warder's Cloak [back]
+        costs: *armor-costs
+
+      - id: 263763 # Void-Warder's Breastplate [chest]
+        costs: *armor-costs
+
+      - id: 263771 # Void-Warder's Vambraces [wrists]
+        costs: *armor-costs
+
+      - id: 263765 # Void-Warder's Claws [hands]
+        costs: *armor-costs
+
+      - id: 263769 # Void-Warder's Girdle [waist]
+        costs: *armor-costs
+
+      - id: 263767 # Void-Warder's Legplates [legs]
+        costs: *armor-costs
+
+      - id: 263764 # Void-Warder's Talons [feet]
+        costs: *armor-costs
+
+      # Hunter
+
+      - id: 263775 # Voidstalker's Helm [head]
+        costs: *armor-costs
+
+      - id: 263778 # Voidstalker's Spaulders [shoulders]
+        costs: *armor-costs
+
+      - id: 263780 # Voidstalker's Cloak [back]
+        costs: *armor-costs
+
+      - id: 263772 # Voidstalker's Breastplate [chest]
+        costs: *armor-costs
+
+      - id: 263781 # Voidstalker's Bracers [wrists]
+        costs: *armor-costs
+
+      - id: 263774 # Voidstalker's Gauntlets [hands]
+        costs: *armor-costs
+
+      - id: 263779 # Voidstalker's Belt [waist]
+        costs: *armor-costs
+
+      - id: 263777 # Voidstalker's Legguards [legs]
+        costs: *armor-costs
+
+      - id: 263773 # Voidstalker's Greaves [feet]
+        costs: *armor-costs
+
+      # Mage
+
+      - id: 263785 # Voidwind Crown [head]
+        costs: *armor-costs
+
+      - id: 263787 # Voidwind Mantle [shoulders]
+        costs: *armor-costs
+
+      - id: 263789 # Voidwind Cloak [back]
+        costs: *armor-costs
+
+      - id: 263791 # Voidwind Blouse [chest]
+        costs: *armor-costs
+
+      - id: 263782 # Voidwind Robes [chest]
+        costs: *armor-costs
+
+      - id: 263790 # Voidwind Bindings [wrists]
+        costs: *armor-costs
+
+      - id: 263784 # Voidwind Gloves [hands]
+        costs: *armor-costs
+
+      - id: 263788 # Voidwind Belt [waist]
+        costs: *armor-costs
+
+      - id: 263786 # Voidwind Pants [legs]
+        costs: *armor-costs
+
+      - id: 263783 # Voidwind Boots [feet]
+        costs: *armor-costs
+
+      # Monk
+
+      - id: 263795 # Helm of the Void Acolyte [head]
+        costs: *armor-costs
+
+      - id: 263797 # Spaulders of the Void Acolyte [shoulders]
+        costs: *armor-costs
+
+      - id: 263799 # Cloak of the Void Acolyte [back]
+        costs: *armor-costs
+
+      - id: 263792 # Vest of the Void Acolyte [chest]
+        costs: *armor-costs
+
+      - id: 263800 # Bindings of the Void Acolyte [wrists]
+        costs: *armor-costs
+
+      - id: 263794 # Grips of the Void Acolyte [hands]
+        costs: *armor-costs
+
+      - id: 263798 # Cord of the Void Acolyte [waist]
+        costs: *armor-costs
+
+      - id: 263796 # Pants of the Void Acolyte [legs]
+        costs: *armor-costs
+
+      - id: 263793 # Talons of the Void Acolyte [feet]
+        costs: *armor-costs
+
+      # Paladin
+
+      - id: 263804 # Void's Judgment Crown [head]
+        costs: *armor-costs
+
+      - id: 263806 # Void's Judgment Spaulders [shoulders]
+        costs: *armor-costs
+
+      - id: 263808 # Void's Judgment Cloak [back]
+        costs: *armor-costs
+
+      - id: 263801 # Void's Judgment Breastplate [chest]
+        costs: *armor-costs
+
+      - id: 263809 # Void's Judgment Bindings [wrists]
+        costs: *armor-costs
+
+      - id: 263803 # Void's Judgment Gauntlets [hands]
+        costs: *armor-costs
+
+      - id: 263807 # Void's Judgment Belt [waist]
+        costs: *armor-costs
+
+      - id: 263810 # Void's Judgment Greaves [legs]
+        costs: *armor-costs
+
+      - id: 263805 # Void's Judgment Legplates [legs]
+        costs: *armor-costs
+
+      - id: 263802 # Void's Judgment Sabatons [feet]
+        costs: *armor-costs
+
+      # Priest
+
+      - id: 263814 # Halo of Voidcendence [head]
+        costs: *armor-costs
+
+      - id: 263816 # Pauldrons of Voidcendence [shoulders]
+        costs: *armor-costs
+
+      - id: 263818 # Cloak of Voidcendence [back]
+        costs: *armor-costs
+
+      - id: 263820 # Blouse of Voidcendence [chest]
+        costs: *armor-costs
+
+      - id: 263811 # Robes of Voidcendence [chest]
+        costs: *armor-costs
+
+      - id: 263819 # Bindings of Voidcendence [wrists]
+        costs: *armor-costs
+
+      - id: 263813 # Handguards of Voidcendence [hands]
+        costs: *armor-costs
+
+      - id: 263817 # Belt of Voidcendence [waist]
+        costs: *armor-costs
+
+      - id: 263815 # Leggings of Voidcendence [legs]
+        costs: *armor-costs
+
+      - id: 263812 # Boots of Voidcendence [feet]
+        costs: *armor-costs
+
+      # Rogue
+
+      - id: 263825 # Voidfang Hood [head]
+        costs: *armor-costs
+
+      - id: 263827 # Voidfang Spaulders [shoulders]
+        costs: *armor-costs
+
+      - id: 263829 # Voidfang Cloak [back]
+        costs: *armor-costs
+
+      - id: 263821 # Voidfang Chestpiece [chest]
+        costs: *armor-costs
+
+      - id: 263830 # Voidfang Bracers [wrists]
+        costs: *armor-costs
+
+      - id: 263824 # Voidfang Gloves [hands]
+        costs: *armor-costs
+
+      - id: 263828 # Voidfang Belt [waist]
+        costs: *armor-costs
+
+      - id: 263826 # Voidfang Pants [legs]
+        costs: *armor-costs
+
+      - id: 263823 # Voidfang Boots [feet]
+        costs: *armor-costs
+
+      # Shaman
+
+      - id: 263834 # Helmet of Void Storms [head]
+        costs: *armor-costs
+
+      - id: 263836 # Epaulets of Void Storms [shoulders]
+        costs: *armor-costs
+
+      - id: 263838 # Cloak of Void Storms [back]
+        costs: *armor-costs
+
+      - id: 263831 # Breastplate of Void Storms [chest]
+        costs: *armor-costs
+
+      - id: 263839 # Bracers of Void Storms [wrists]
+        costs: *armor-costs
+
+      - id: 263833 # Gauntlets of Void Storms [hands]
+        costs: *armor-costs
+
+      - id: 263837 # Belt of Void Storms [waist]
+        costs: *armor-costs
+
+      - id: 263840 # Greaves of Void Storms [legs]
+        costs: *armor-costs
+
+      - id: 263835 # Kilt of Void Storms [legs]
+        costs: *armor-costs
+
+      - id: 263832 # Sabatons of Void Storms [feet]
+        costs: *armor-costs
+
+      # Warlock
+
+      - id: 263844 # Void Nemesis' Skullcap [head]
+        costs: *armor-costs
+
+      - id: 263846 # Void Nemesis' Spaulders [shoulders]
+        costs: *armor-costs
+
+      - id: 263848 # Void Nemesis' Cloak [back]
+        costs: *armor-costs
+
+      - id: 263850 # Void Nemesis' Blouse [chest]
+        costs: *armor-costs
+
+      - id: 263841 # Void Nemesis' Robes [chest]
+        costs: *armor-costs
+
+      - id: 263849 # Void Nemesis' Bracers [wrists]
+        costs: *armor-costs
+
+      - id: 263843 # Void Nemesis' Gloves [hands]
+        costs: *armor-costs
+
+      - id: 263847 # Void Nemesis' Belt [waist]
+        costs: *armor-costs
+
+      - id: 263845 # Void Nemesis' Leggings [legs]
+        costs: *armor-costs
+
+      - id: 263842 # Void Nemesis' Boots [feet]
+        costs: *armor-costs
+
+      # Warrior
+
+      - id: 263854 # Helm of Voidwrath [head]
+        costs: *armor-costs
+
+      - id: 263856 # Pauldrons of Voidwrath [shoulders]
+        costs: *armor-costs
+
+      - id: 263858 # Cloak of Voidwrath [back]
+        costs: *armor-costs
+
+      - id: 263851 # Breastplate of Voidwrath [chest]
+        costs: *armor-costs
+
+      - id: 263860 # Bracelets of Voidwrath [wrists]
+        costs: *armor-costs
+
+      - id: 263853 # Gauntlets of Voidwrath [hands]
+        costs: *armor-costs
+
+      - id: 263857 # Waistband of Voidwrath [waist]
+        costs: *armor-costs
+
+      - id: 263855 # Legplates of Voidwrath [legs]
+        costs: *armor-costs
+
+      - id: 263852 # Sabatons of Voidwrath [feet]
+        costs: *armor-costs
+
+      # Weapon
+    
+      - id: 263905 # Void-Touched Apprentice's Gavel [1h mace]
+        costs: &weapon-costs
+          3405: 75
+
+      - id: 263903 # Void-Touched Basher [1h mace]
+        costs: *weapon-costs
+
+      - id: 263904 # Void-Touched Gavel [1h mace]
+        costs: *weapon-costs
+
+      - id: 263914 # Void-Touched Hammer [1h mace]
+        costs: *weapon-costs
+
+      - id: 263913 # Void-Touched Smasher [1h mace]
+        costs: *weapon-costs
+
+      - id: 263915 # Void-Touched Torch [1h mace]
+        costs: *weapon-costs
+
+      - id: 263920 # Void-Touched Dueling Blade [1h sword]
+        costs: *weapon-costs
+
+      - id: 263917 # Void-Touched Flaredblade [1h sword]
+        costs: *weapon-costs
+
+      - id: 263918 # Void-Touched Guard's Blade [1h sword]
+        costs: *weapon-costs
+
+      - id: 263922 # Void-Touched Mageblade [1h sword]
+        costs: *weapon-costs
+
+      - id: 263919 # Void-Touched Magister's Sword [1h sword]
+        costs: *weapon-costs
+
+      - id: 263921 # Void-Touched Sunfury Blade [1h sword]
+        costs: *weapon-costs
+
+      - id: 263898 # Void-Touched Fang [dagger]
+        costs: *weapon-costs
+
+      - id: 263900 # Void-Touched Gutter [dagger]
+        costs: *weapon-costs
+
+      - id: 263901 # Void-Touched Sacrificial Knife [dagger]
+        costs: *weapon-costs
+
+      - id: 263902 # Void-Touched Twinblade [dagger]
+        costs: *weapon-costs
+
+      - id: 263927 # Void-Touched Glaiveblade [fist]
+        costs: *weapon-costs
+
+      - id: 263923 # Void-Touched Greatblade [2h sword]
+        costs: *weapon-costs
+
+      - id: 263908 # Void-Touched Poleaxe [polearm]
+        costs: *weapon-costs
+
+      - id: 263907 # Void-Touched Spade [polearm]
+        costs: *weapon-costs
+
+      - id: 263911 # Void-Touched Battle Baton [stave]
+        costs: *weapon-costs
+
+      - id: 263910 # Void-Touched Beacon Staff [stave]
+        costs: *weapon-costs
+
+      - id: 263912 # Void-Touched Magister's Baton [stave]
+        costs: *weapon-costs
+
+      - id: 263909 # Void-Touched Sunfury Stave [stave]
+        costs: *weapon-costs
+
+      - id: 263924 # Void-Touched Greatbow [bow]
+        costs: *weapon-costs
+
+      - id: 263894 # Void-Touched Rifle [gun]
+        costs: *weapon-costs
+
+      - id: 263925 # Void-Touched Foci [wand]
+        costs: *weapon-costs
+
+      - id: 263926 # Void-Touched Greatwand [wand]
+        costs: *weapon-costs
+
+      - id: 263916 # Void-Touched Tome [off-hand]
+        costs: *weapon-costs
+
+      - id: 263906 # Void-Touched Bulwark [shield]
+        costs: *weapon-costs

@@ -1,0 +1,42 @@
+things:
+  - id: 255503
+    type: "vendor"
+    name: "Sergeant Vornin"
+    note: "Animal Handler"
+
+    locations:
+      here: # silvermoon_city
+        - 48.6 50.6
+    
+    groups:
+      - name: "Void - Misc"
+        range: -1
+        sortKey: "void-1"
+
+    contents:
+      
+      - id: 264348 # Unbound Manawyrm [mount]
+        costs:
+          3316: 6000 # Voidlight Marl
+
+      - id: 270989 # Cappy [pet]
+        costs:
+          3316: 1800 # Voidlight Marl
+
+      - id: 270330 # Void-Touched Dragonhawk Egg [pet]
+        costs:
+          3316: 1800 # Voidlight Marl
+        requirements:
+          - "reputation 2792 renown-6"
+
+      - id: 270331 # Void-Infused Mindbreaker Fry [pet]
+        costs:
+          3316: 1800 # Voidlight Marl
+        requirements:
+          - "reputation 2792 renown-6"
+
+      - id: 268578 # Void-Touched Hawkstrider [mount]
+        costs:
+          3316: 4500 # Voidlight Marl
+        requirements:
+          - "reputation 2792 renown-8"

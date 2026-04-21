@@ -1,0 +1,5 @@
+name: "Void Assaults"
+vendorMaps:
+  - "11-midnight/silvermoon_city"
+vendorTags:
+  - "type:void-assault"
