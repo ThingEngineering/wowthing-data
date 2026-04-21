@@ -3,6 +3,8 @@ groups:
 
 - name: "Silvermoon City"
   things:
+    - 264413 # Dominating Victory (Nulling Nullaeus)
+    - 257736 # Lightcalled Hearthstone (March on Quel'Danas)
     - 253629 # Personal Key to the Arcantina (The Arcantina)
 
 - name: "Eversong Woods"

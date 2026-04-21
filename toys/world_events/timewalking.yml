@@ -37,3 +37,8 @@ groups:
   things:
     - 245942 # Sea-Blessed Shrine
     - 246227 # Lightning-Blessed Spire
+
+- name: "Shadowlands"
+  things:
+    - 256881 # Steward's Bauble
+    - 256893 # Wretched Dredger's Brand

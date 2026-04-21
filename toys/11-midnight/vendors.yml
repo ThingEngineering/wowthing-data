@@ -8,6 +8,8 @@ groups:
 
 - name: "Delves"
   things:
+    - 262431 # Bouncy Mushroom
+    - 267291 # Coffer Key Glue
     - 265100 # Corewarden's Hearthstone
     - 264414 # Midnight Delver's Flare Gun
 

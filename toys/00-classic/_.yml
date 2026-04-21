@@ -1,6 +1,10 @@
 name: "Classic"
 groups:
 
+- name: "Achievements"
+  things:
+    - 251491 # Magical Pet Clicker (Old World Family Battler)
+
 - name: "Instances"
   things:
     - 208096 # Familiar Journal (Scholomance)

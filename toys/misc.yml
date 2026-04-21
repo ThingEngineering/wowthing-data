@@ -30,6 +30,10 @@ groups:
   - 150743 # Surviving Kalimdor (Heirloom vendors)
   - 150744 # Walking Kalimdor with the Earthmother (Heirloom vendors)
 
+- name: "Promotions"
+  things:
+    - 268695 # Pin-o-Matic Camera (Pinterest)
+
 - name: PvP
   things:
   - 134026 # Honorable Pennant (Honor 10)

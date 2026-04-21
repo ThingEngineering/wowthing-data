@@ -61,6 +61,8 @@ world_events/_world_events.yml
 -
 
 drops.yml
+    10-the-war-within/drops.yml The War Within
+    09-dragonflight/drops.yml Dragonflight
     08-shadowlands/drops.yml Shadowlands
     07-battle-for-azeroth/drops.yml Battle for Azeroth
     06-legion/drops.yml Legion
@@ -68,10 +70,17 @@ drops.yml
     04-mists-of-pandaria/drops.yml Mists of Pandaria
 
 instances.yml
+    11-midnight/instances.yml Midnight
+    10-the-war-within/instances.yml The War Within
+    09-dragonflight/instances.yml Dragonflight
     08-shadowlands/instances.yml Shadowlands
     07-battle-for-azeroth/instances.yml Battle for Azeroth
+    06-legion/instances.yml Legion
 
 reputations.yml
+    11-midnight/reputations.yml Midnight
+    10-the-war-within/reputations.yml The War Within
+    09-dragonflight/reputations.yml Dragonflight
     08-shadowlands/reputations.yml Shadowlands
     07-battle-for-azeroth/reputations.yml Battle for Azeroth
     06-legion/reputations.yml Legion

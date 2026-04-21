@@ -3,6 +3,7 @@ groups:
 
 - name: "Achievements"
   things:
+    - 264695 # Interdimensional Parcel Signal (Treasures of Voidstorm)
     - 268717 # Pango Plating (Treasures of Zul'Aman)
 
 - name: "Professions"

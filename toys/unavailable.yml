@@ -31,6 +31,11 @@ groups:
     - 206267 # Obsidian Legend's Pennant (Legend: Dragonflight Season 2)
     - 210497 # Verdant Legend's Pennant (Legend: Dragonflight Season 3)
     - 211869 # Draconic Legend's Pennant (Legend: Dragonflight Season 4)
+    - 225933 # Forged Legend's Pennant (Legend: The War Within Season 1)
+    - 235519 # Prized Legend's Pennant (Legend: The War Within Season 2)
+    - 242636 # Astral Legend's Pennant (Legend: The War Within Season 3)
+    - 227538 # Unbound Legend's Pennant [shuffle medic]
+    - 227539 # Unbound Strategist's Pennant [blitz medic]
 
 - name: "PvP Promotions"
   things:
@@ -40,6 +45,7 @@ groups:
     - 203716 # Thundering Banner of the Aspects (WoW Esports: Dragonflight Season 1)
     - 208057 # Smoldering Banner of the Aspects (WoW Esports: Dragonflight Season 2)
     - 211424 # Dreaming Banner of the Aspects (PvP stuff 2024)
+    - 232305 # Forged Champion's Prestigious Banner [arena world championship?]
 
 - name: "Remix: Pandaria"
   things:

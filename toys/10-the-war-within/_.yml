@@ -20,13 +20,7 @@ groups:
 
 - name: "PvP"
   things:
-    - 242636 # Astral Legend's Pennant [season 3]
     - 225969 # Forged Flag of Victory
-    - 225933 # Forged Legend's Pennant
-    - 232305 # Forged Champion's Prestigious Banner
-    - 235519 # Prized Legend's Pennant [season 2]
-    - 227538 # Unbound Legend's Pennant
-    - 227539 # Unbound Strategist's Pennant
 
 - name: "Quests"
   things:
