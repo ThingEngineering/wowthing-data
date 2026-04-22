@@ -67,6 +67,11 @@ reputations:
 
 -
   - both:
+      id: 2792 # Ritual Sites
+      icon: "achievement/62622"
+      iconText: "Rit"
+
+  - both:
       id: 2744 # Valeera Sanguinar
       icon: "achievement/60891" # The Crimson Rogue
       iconText: "Val"
