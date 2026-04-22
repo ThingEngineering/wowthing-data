@@ -6,31 +6,31 @@ reputations:
 -
   - both:
       id: 2507 # Dragonscale Expedition
-      icon: "achievement/16522" # A True Explorer
+      icon: "achievement/41174" # A True Explorer
 
   - both:
       id: 2511 # Iskaara Tuskarr
-      icon: "achievement/16529" # Joining the Community
+      icon: "achievement/41181" # Joining the Community
   
   - both:
       id: 2503 # Maruuk Centaur
-      icon: "achievement/16528" # Joining the Khansguard
+      icon: "achievement/41180" # Joining the Khansguard
   
   - both:
       id: 2510 # Valdrakken Accord
-      icon: "achievement/16530" # Ally of the Flights
+      icon: "achievement/41182" # Ally of the Flights
 
 -
   # 10.1
   - both:
       id: 2564 # Loamm Niffen
-      icon: "achievement/17763" # There's No Place Like Loamm
+      icon: "achievement/41175" # Friends in Loamm Places
 
 -
   # 10.2
   - both:
       id: 2574 # Dream Wardens
-      icon: "achievement/19235" # Warden of the Dream
+      icon: "achievement/41177" # Warden of the Dream
 
 # 10.0 Friends
 -
