@@ -6,22 +6,22 @@ reputations:
 -
   - both:
       id: 2594 # Assembly of the Deeps
-      icon: "achievement/40836" # Assembly of the Deeps
+      icon: "achievement/41166"
       iconText: "AotD"
 
   - both:
       id: 2590 # Council of Dornogal
-      icon: "achievement/40856" # Council of Dornogal
+      icon: "achievement/41162"
       iconText: "CoD"
 
   - both:
       id: 2570 # Hallowfall Arathi
-      icon: "achievement/40845" # Hallowfall Arathi
+      icon: "achievement/41168"
       iconText: "HA"
 
   - both:
       id: 2600 # The Severed Threads
-      icon: "achievement/40838" # The Severed Threads
+      icon: "achievement/41164"
       iconText: "ST"
 
   - both:
