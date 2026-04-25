@@ -1,0 +1,60 @@
+things:
+  - id: 260180
+    type: "vendor"
+    name: "Depthdiver Tu'nakit"
+    note: "Abyss Angler"
+
+    locations:
+      here: # zulaman
+        - 68.2 20.2
+
+    groups:
+      - name: "Abyss Anglers"
+        range: -1
+        sortKey: "zzz-anglers"
+
+    contents:
+
+      - id: 274266 # Ka'bubb [pet]
+        costs:
+          3373: 2500
+
+      - id: 265749 # Idol of the Depths [quest]
+        costs:
+          3373: 1500
+
+      - id: 258537 # Amani Dreamer's Charm [decor]
+        costs:
+          3373: 750
+
+      - id: 258538 # Barebone Rope Charm [decor]
+        costs:
+          3373: 750
+
+      - id: 258535 # Simple Bone-Tied Charm [decor]
+        costs:
+          3373: 750
+
+      - id: 258536 # Windmark Tribal Charm [decor]
+        costs:
+          3373: 750
+
+      - id: 264251 # Depthdiver's Cooking Spit [decor]
+        costs:
+          3373: 1000
+
+      - id: 264252 # Zul'Aman Forest Hammock [decor]
+        costs:
+          3373: 1000
+
+      - id: 223245 # Ensemble: Abyss Angler
+        costs:
+          3373: 4500
+
+      - id: 266969 # Ensemble: Depthdiver Vestments
+        costs:
+          3373: 3000
+
+      - id: 253582 # Fangfin Flailer [1h ? mace]
+        costs:
+          3373: 2250
