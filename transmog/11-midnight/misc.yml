@@ -95,6 +95,77 @@ groups:
       # - transmogSetId: 5642
       #   wowheadSetId:
 
+# group 380
+- name: "Void Assaults"
+  type: class
+  sets:
+    - "Void Assaults"
+  data:
+    death-knight:
+      # Void Rider's Armor [description=14369]
+      - transmogSetId: 5551
+        wowheadSetId:
+
+    demon-hunter:
+      # Voidwalker's Armor [description=14369]
+      - transmogSetId: 3858
+        wowheadSetId:
+
+    druid:
+      # Voidrage Armor [description=14369]
+      - transmogSetId: 5552
+        wowheadSetId:
+
+    evoker:
+      # Void-Warder's Armor [description=14369]
+      - transmogSetId: 3859
+        wowheadSetId:
+
+    hunter:
+      # Voidstalker's Armor [description=14369]
+      - transmogSetId: 5553
+        wowheadSetId:
+
+    mage:
+      # Voidwind Regalia [description=14369]
+      - transmogSetId: 3853
+        wowheadSetId:
+
+    monk:
+      # Battlegear of the Void Acolyte [description=14369]
+      - transmogSetId: 5554
+        wowheadSetId:
+
+    paladin:
+      # Void's Judgment Armor [description=14369]
+      - transmogSetId: 3850
+        wowheadSetId:
+
+    priest:
+      # Vestments of Voidcendence [description=14369]
+      - transmogSetId: 5556
+        wowheadSetId:
+
+    rogue:
+      # Voidfang Armor [description=14369]
+      - transmogSetId: 3854
+        wowheadSetId:
+
+    shaman:
+      # Void Storms Armor [description=14369]
+      - transmogSetId: 3855
+        wowheadSetId:
+
+    warlock:
+     # Void Nemesis' Raiment [description=14369]
+      - transmogSetId: 3848
+        wowheadSetId:
+
+    warrior:
+      # Battlegear of Voidrath [description=14369]
+      - transmogSetId: 5555
+        wowheadSetId:
+
 - name: "Crafted Armor"
   type: armor
   sets:
