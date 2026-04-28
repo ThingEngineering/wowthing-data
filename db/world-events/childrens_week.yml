@@ -73,13 +73,9 @@ things:
         costs:
           1241215: 1
 
-      - id: 69895 # Green Balloon [toy]
+      - id: 272287 # Nap Mat [toy]
         costs:
-          0: 1 # Gold
-
-      - id: 69896 # Yellow Balloon [toy]
-        costs:
-          0: 1 # Gold
+          1241215: 1
 
       - id: 242260 # Arsenal: Children's Stormwind Guard Weapon Set [subclass=5 item_slot=0]
         costs:
@@ -158,13 +154,9 @@ things:
         costs:
           1241215: 1
 
-      - id: 69895 # Green Balloon [toy]
+      - id: 272287 # Nap Mat [toy]
         costs:
-          0: 1 # Gold
-
-      - id: 69896 # Yellow Balloon [toy]
-        costs:
-          0: 1 # Gold
+          1241215: 1
 
       - id: 242265 # Arsenal: Children's Orgrimmar Guard Weapon Set [subclass=5 item_slot=0]
         costs:
