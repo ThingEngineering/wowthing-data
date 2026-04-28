@@ -80,19 +80,19 @@ things:
 
       # Transmog
 
-      - id: 266199 # Ensemble: Preyseeker's Polished Armor
+      - id: 266196 # Ensemble: Preyseeker's Refined Armor [cloth]
         costs:
           3392: 1600
 
-      - id: 266196 # Ensemble: Preyseeker's Refined Armor
+      - id: 266197 # Ensemble: Preyseeker's Sleek Armor [leather]
         costs:
           3392: 1600
 
-      - id: 266198 # Ensemble: Preyseeker's Rugged Armor
+      - id: 266198 # Ensemble: Preyseeker's Rugged Armor [mail]
         costs:
           3392: 1600
 
-      - id: 266197 # Ensemble: Preyseeker's Sleek Armor
+      - id: 266199 # Ensemble: Preyseeker's Polished Armor [plate]
         costs:
           3392: 1600
 
