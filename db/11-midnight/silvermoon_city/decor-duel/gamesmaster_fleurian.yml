@@ -1,0 +1,116 @@
+things:
+  - id: 256084
+    type: "vendor"
+    name: "Gamesmaster Fleurian"
+    note: "Illusionary Coin Trader"
+
+    locations:
+      here: # silvermoon_city
+        - 31.4 76.4
+
+    groups:
+      - name: "Decor Duel - Misc"
+        range: 4
+        sortKey: "decorduel-1"
+
+      - name: "Decor Duel - Abilities"
+        range: 8
+        sortKey: "decorduel-3"
+
+      - name: "Decor Duel - Weapons"
+        range: -1
+        sortKey: "decorduel-9"
+
+    contents:
+
+      - id: 268481 # Magister's Spell Bee Comb [mount]
+        costs:
+          3393: 500
+
+      - id: 268456 # Animated Bench [toy]
+        costs:
+          3393: 200
+
+      - id: 268455 # Enchanted Hourglass [toy]
+        costs:
+          3393: 200
+
+      - id: 239018 # Winner's Podium [toy]
+        costs:
+          3393: 200
+
+      # 0
+
+      - id: 262746 # "Clockwork Sentinel" Kit
+        costs:
+          3393: 20
+
+      - id: 262741 # "Dispelling Leap" Kit
+        costs:
+          3393: 20
+
+      - id: 262755 # "Eccentro-Magic Pulse" Enhancement
+        costs:
+          3393: 20
+
+      - id: 262756 # "Make Decoy" Enhancement
+        costs:
+          3393: 20
+
+      - id: 262743 # "Nullification Field" Kit
+        costs:
+          3393: 20
+
+      - id: 262744 # "Riftwalk" Kit
+        costs:
+          3393: 20
+
+      - id: 262745 # "Stealth" Kit
+        costs:
+          3393: 20
+
+      - id: 262742 # "Swift" Kit
+        costs:
+          3393: 20
+
+      # Weapons
+
+      - id: 272337 # Mage Guard's Spellblade [1h ? sword]
+        costs:
+          3393: 150
+
+      - id: 272318 # Spellbreaker's Phoenixblade [1h ? sword]
+        costs:
+          3393: 150
+
+      - id: 272317 # Spellbreaker's Phoenixglaive [warglaive]
+        costs:
+          3393: 150
+
+      - id: 272336 # Nullbeacon Rift Smasher [2h ? mace]
+        costs:
+          3393: 150
+
+      - id: 272338 # Mage Guard's Spellsteel [2h ? sword]
+        costs:
+          3393: 150
+
+      - id: 272316 # Spellbreaker's Bladelance [polearm]
+        costs:
+          3393: 150
+
+      - id: 272320 # Nullbeacon Rift Channeler [staff]
+        costs:
+          3393: 150
+
+      - id: 272961 # Spellbreaker's Bladestaff [staff]
+        costs:
+          3393: 150
+
+      - id: 272321 # Arcane Ranger's Spellbow [bow]
+        costs:
+          3393: 150
+
+      - id: 272960 # Spellbreaker's Shieldwall [shield]
+        costs:
+          3393: 150
