@@ -1,0 +1,342 @@
+things:
+  - id: 240407
+    type: "vendor"
+    name: "Naynar"
+    note: "Renown Quartermaster"
+
+    locations:
+      here: # harandar
+        - 51 50.8
+
+    groups:
+      - name: "Hara'ti - Misc"
+        range: 4
+        sortKey: "rep-harati-1"
+
+      - name: "Hara'ti - Decor"
+        range: 12
+        sortKey: "rep-harati-2"
+
+      - name: "Hara'ti - Professions"
+        range: 14
+        sortKey: "rep-harati-3"
+
+      - name: "Hara'ti - Ensembles"
+        range: 5
+        sortKey: "rep-harati-8"
+
+      - name: "Hara'ti - Transmog"
+        range: -1
+        sortKey: "rep-harati-9"
+
+    contents:
+
+      - id: 256552 # Verdant Rutaani Seed [toy]
+        costs:
+          3316: 4000
+        requirements:
+          - "reputation 2704 renown-13"
+
+      - id: 259337 # Munchy [pet]
+        costs:
+          3316: 2500
+        requirements:
+          - "reputation 2704 renown-14"
+
+      - id: 246734 # Fierce Grimlynx [mount]
+        costs:
+          3316: 6000
+        requirements:
+          - "reputation 2704 renown-16"
+
+      - id: 252014 # Cerulean Sporeglider [mount]
+        costs:
+          3316: 8000
+        requirements:
+          - "reputation 2704 renown-19"
+
+      # Decor
+
+      - id: 246408 # Haranir Herb Rack
+        costs:
+          3316: 150
+        requirements:
+          - "reputation 2704 renown-3"
+
+      - id: 246402 # Hollowed Harandar Gourds
+        costs:
+          3316: 150
+        requirements:
+          - "reputation 2704 renown-3"
+
+      - id: 249768 # Fungarian Barrel
+        costs:
+          3316: 250
+        requirements:
+          - "reputation 2704 renown-7"
+
+      - id: 251980 # Fungarian Sack
+        costs:
+          3316: 150
+        requirements:
+          - "reputation 2704 renown-7"
+
+      - id: 246959 # Sealed Fungal Jar
+        costs:
+          3316: 150
+        requirements:
+          - "reputation 2704 renown-7"
+
+      - id: 263039 # Harandar Flowering Lamp
+        costs:
+          3316: 250
+        requirements:
+          - "reputation 2704 renown-12"
+
+      - id: 263195 # Harandar Glowvine Lamppost
+        costs:
+          3316: 250
+        requirements:
+          - "reputation 2704 renown-12"
+
+      - id: 263194 # Harandar Glowvine Sconce
+        costs:
+          3316: 250
+        requirements:
+          - "reputation 2704 renown-12"
+
+      - id: 264269 # Rutaani Bird Perch
+        costs:
+          3316: 250
+        requirements:
+          - "reputation 2704 renown-15"
+
+      - id: 264268 # Rutaani Birdbath
+        costs:
+          3316: 250
+        requirements:
+          - "reputation 2704 renown-15"
+
+      - id: 264267 # Rutaani Birdfeeder
+        costs:
+          3316: 500
+        requirements:
+          - "reputation 2704 renown-15"
+
+      - id: 263019 # Haranir Pennant
+        costs:
+          3316: 250
+        requirements:
+          - "reputation 2704 renown-18"
+
+      # Professions
+
+      - id: 258141 # Recipe: Haranir Phial of Perception [alchemy]
+        costs:
+          3256: 150
+          3316: 1500
+        requirements:
+          - "reputation 2704 renown-5"
+
+      - id: 247500 # Recipe: Rootbound Vat [alchemy]
+        costs:
+          3256: 150
+          3316: 1500
+        requirements:
+          - "reputation 2704 renown-5"
+
+      - id: 256745 # Formula: Enchant Chest - Mark of the Rootwarden [enchanting]
+        costs:
+          3258: 150
+          3316: 1500
+        requirements:
+          - "reputation 2704 renown-5"
+
+      - id: 256749 # Formula: Enchant Tool - Haranir Multicrafting [enchanting]
+        costs:
+          3258: 150
+          3316: 1500
+        requirements:
+          - "reputation 2704 renown-5"
+
+      - id: 256751 # Formula: Enchant Weapon - Worldsoul Tenacity [enchanting]
+        costs:
+          3258: 150
+          3316: 1500
+        requirements:
+          - "reputation 2704 renown-5"
+
+      - id: 256743 # Formula: Gleeful Glamour - Haranir [enchanting]
+        costs:
+          3258: 150
+          3316: 1500
+        requirements:
+          - "reputation 2704 renown-5"
+
+      - id: 263443 # Technique: Contract: The Hara'ti [inscription]
+        costs:
+          3261: 150
+          3316: 1500
+        requirements:
+          - "reputation 2704 renown-5"
+
+      - id: 258509 # Technique: Harandar Signpost [inscription]
+        costs:
+          3261: 150
+          3316: 1500
+        requirements:
+          - "reputation 2704 renown-5"
+
+      - id: 258510 # Technique: Magnificent Towering Bookcase [inscription]
+        costs:
+          3261: 150
+          3316: 1500
+        requirements:
+          - "reputation 2704 renown-5"
+
+      - id: 256700 # Design: Signet of Azerothian Blessings [jewelcrafting]
+        costs:
+          3262: 150
+          3316: 1500
+        requirements:
+          - "reputation 2704 renown-5"
+
+      - id: 259457 # Pattern: Simple Haranir Table [leatherworking]
+        costs:
+          3263: 150
+          3316: 1500
+        requirements:
+          - "reputation 2704 renown-5"
+
+      - id: 256639 # Pattern: World Tree Rootwraps [leatherworking]
+        costs:
+          3263: 150
+          3316: 1500
+        requirements:
+          - "reputation 2704 renown-5"
+
+      - id: 258410 # Traditions of the Haranir: Herbalism
+        costs:
+          3260: 75
+          3316: 750
+        requirements:
+          - "reputation 2704 renown-6"
+
+      - id: 258411 # Traditions of the Haranir: Inscription
+        costs:
+          3261: 75
+          3316: 750
+        requirements:
+          - "reputation 2704 renown-6"
+
+      # Ensembles
+
+      - id: 259073 # Arsenal: Arms of the Hara'ti
+        costs:
+          3316: 5000
+        requirements:
+          - "reputation 2704 renown-17"
+
+      - id: 258014 # Ensemble: Hara'ti Guardian's Armor
+        costs:
+          3316: 5000
+        requirements:
+          - "reputation 2704 renown-20"
+
+      - id: 258010 # Ensemble: Hara'ti Rootdancer's Garb
+        costs:
+          3316: 5000
+        requirements:
+          - "reputation 2704 renown-20"
+
+      - id: 258012 # Ensemble: Hara'ti Rootwarden's Wear
+        costs:
+          3316: 5000
+        requirements:
+          - "reputation 2704 renown-20"
+
+      - id: 258013 # Ensemble: Hara'ti Scout's Outfit
+        costs:
+          3316: 5000
+        requirements:
+          - "reputation 2704 renown-20"
+
+      # Transmog
+
+      - id: 267479 # Aspiring Hara'ti Defender's Sash [cloth waist]
+        costs:
+          3316: 25
+        requirements:
+          - "reputation 2704 renown-2"
+
+      - id: 267480 # Aspiring Hara'ti Defender's Cord [leather waist]
+        costs:
+          3316: 25
+        requirements:
+          - "reputation 2704 renown-2"
+
+      - id: 267481 # Aspiring Hara'ti Defender's Belt [mail waist]
+        costs:
+          3316: 25
+        requirements:
+          - "reputation 2704 renown-2"
+
+      - id: 267482 # Aspiring Hara'ti Defender's Greatbelt [plate waist]
+        costs:
+          3316: 25
+        requirements:
+          - "reputation 2704 renown-2"
+
+      - id: 256613 # Cloak of the Hara'ti Elder [subclass=5 back]
+        costs:
+          3316: 3000
+        requirements:
+          - "reputation 2704 renown-2"
+
+      - id: 267257 # Cloak of the Hara'ti Sage [subclass=5 back]
+        costs:
+          3316: 3000
+        requirements:
+          - "reputation 2704 renown-2"
+
+      - id: 267258 # Cloak of the Hara'ti Seer [subclass=5 back]
+        costs:
+          3316: 3000
+        requirements:
+          - "reputation 2704 renown-2"
+
+      - id: 256615 # Tabard of the Hara'ti Elder [tabard]
+        costs:
+          3316: 3000
+        requirements:
+          - "reputation 2704 renown-10"
+
+      - id: 267261 # Tabard of the Hara'ti Sage [tabard]
+        costs:
+          3316: 3000
+        requirements:
+          - "reputation 2704 renown-10"
+
+      - id: 267262 # Tabard of the Hara'ti Seer [tabard]
+        costs:
+          3316: 3000
+        requirements:
+          - "reputation 2704 renown-10"
+
+      - id: 256614 # Shoulderguards of the Hara'ti Elder [subclass=5 shoulders]
+        costs:
+          3316: 3000
+        requirements:
+          - "reputation 2704 renown-17"
+
+      - id: 267259 # Shoulderguards of the Hara'ti Sage [subclass=5 shoulders]
+        costs:
+          3316: 3000
+        requirements:
+          - "reputation 2704 renown-17"
+
+      - id: 267260 # Shoulderguards of the Hara'ti Seer [subclass=5 shoulders]
+        costs:
+          3316: 3000
+        requirements:
+          - "reputation 2704 renown-17"
