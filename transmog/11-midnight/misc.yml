@@ -100,7 +100,7 @@ groups:
   type: class
   sets:
     - "Void Assaults"
-    - "Void Assaults"
+    - "Void Assaults (Cosmetic)"
   data:
     death-knight:
       # Void Rider's Armor [description=14369]
@@ -520,15 +520,15 @@ groups:
       
       - name: "Engineering Cloth"
         itemsV2:
-          - 244743 # Aetherlume Eye Wrap
-          - 244747 # Aetherlume Silken Cuffs
-          - 244771 # Aetherlume Softsteppers
-          - 245337 # Evercore Swiftfeet
-          - 244754 # Evercore Vision Guard
-          - 245341 # Evercore Wrist Latch
-          - 244759 # Quel'dorei Cloth Goggles
-          - 244755 # Quel'dorei Silken Cuffs
-          - 244767 # Quel'dorei Softsteppers
+          - 244743 # Aetherlume Eye Wrap [head]
+          - 244747 # Aetherlume Silken Cuffs [wrists]
+          - 244771_6 # Aetherlume Softsteppers [feet]
+          - 244754 # Evercore Vision Guard [head]
+          - 245341 # Evercore Wrist Latch [wrists]
+          - 245337_6 # Evercore Swiftfeet [feet]
+          - 244759 # Quel'dorei Cloth Goggles [head]
+          - 244755 # Quel'dorei Silken Cuffs [wrists]
+          - 244767_6 # Quel'dorei Softsteppers [feet]
 
     leather:
       - name: "Leatherworking Epic Leather"
@@ -560,15 +560,15 @@ groups:
 
       - name: "Engineering Leather"
         itemsV2:
-          - 244748 # Aetherlume Bands
-          - 244744 # Aetherlume Optics
-          - 244772 # Aetherlume Runners
-          - 245342 # Evercore Binding
-          - 244752 # Evercore Shade
-          - 245338 # Evercore Stichwraps
-          - 244756 # Quel'dorei Bands
-          - 244760 # Quel'dorei Leather Optics
-          - 244768 # Quel'dorei Runners
+          - 244744 # Aetherlume Optics [head]
+          - 244748 # Aetherlume Bands [wrists]
+          - 244772_6 # Aetherlume Runners [feet]
+          - 244752 # Evercore Shade [head]
+          - 245342 # Evercore Binding [wrists]
+          - 245338_6 # Evercore Stichwraps [feet]
+          - 244760 # Quel'dorei Leather Optics [head]
+          - 244756 # Quel'dorei Bands [wrists]
+          - 244768_6 # Quel'dorei Runners [feet]
 
     mail:
       - name: "Leatherworking Epic Mail"
@@ -600,15 +600,15 @@ groups:
 
       - name: "Engineering Mail"
         itemsV2:
-          - 244749 # Aetherlume Bracelets
-          - 244773 # Aetherlume Clonkers
-          - 244745 # Aetherlume Vision Shroud
-          - 245343 # Evercore Chainguards
-          - 244753 # Evercore Reconnaissance
-          - 245339 # Evercore Turbochains
-          - 244757 # Quel'dorei Bracelets
-          - 244769 # Quel'dorei Clonkers
-          - 244761 # Quel'dorei Mail Shroud
+          - 244745 # Aetherlume Vision Shroud [head]
+          - 244749 # Aetherlume Bracelets [wrists]
+          - 244773_6 # Aetherlume Clonkers [feet]
+          - 244753 # Evercore Reconnaissance [head]
+          - 245343 # Evercore Chainguards [wrists]
+          - 245339_6 # Evercore Turbochains [feet]
+          - 244761 # Quel'dorei Mail Shroud [head]
+          - 244757 # Quel'dorei Bracelets [wrists]
+          - 244769_6 # Quel'dorei Clonkers [feet]
 
     plate:
       - name: "Blacksmithing Epic Plate"
@@ -636,15 +636,15 @@ groups:
 
       - name: "Engineering Plate"
         itemsV2:
-          - 244750 # Aetherlume Guards
-          - 244774 # Aetherlume Stompers
-          - 244746 # Aetherlume Sun Guard
-          - 245344 # Evercore Gear Weight
-          - 245340 # Evercore Greaseplates
-          - 244751 # Evercore Zoomshroud
-          - 244758 # Quel'dorei Guards
-          - 244770 # Quel'dorei Stompers
-          - 244762 # Quel'dorei Visor
+          - 244746 # Aetherlume Sun Guard [head]
+          - 244750 # Aetherlume Guards [wrists]
+          - 244774_6 # Aetherlume Stompers [feet]
+          - 244751 # Evercore Zoomshroud [head]
+          - 245344 # Evercore Gear Weight [wrists]
+          - 245340_6 # Evercore Greaseplates [feet]
+          - 244762 # Quel'dorei Visor [head]
+          - 244758 # Quel'dorei Guards [wrists]
+          - 244770_6 # Quel'dorei Stompers [feet]
 
 - name: "Crafted Weapons"
   type: all
@@ -684,7 +684,7 @@ groups:
           - 237932 # Primalforged Heavy Axe
           - 237929 # Primalforged Knuckles
 
-      - name: "Enchanting Weapons"
+      - name: "Enchanting/Engineering/Inscription Weapons"
         itemsV2:
           # Enchanting
           - 244179 # Magister's Grand Focus
