@@ -133,6 +133,7 @@ groups:
   sets:
     - "Aspirant Armor"
     - "Warmonger Armor"
+    - "Crafted Armor"
   data:
     cloth:
       # Galactic Aspirant's Silk Armor [Aspirant]
@@ -143,6 +144,21 @@ groups:
       - transmogSetId: 5474
         wowheadSetId:
 
+      - name: "Thalassian Competitor's Cloth"
+        itemsV2:
+          - 239680 # Thalassian Competitor's Cloth Hood [head]
+          - 239683 # Thalassian Competitor's Cloth Shoulderpads [shoulders]
+          - 239678 # Thalassian Competitor's Cloth Cloak [back]
+          - 239685 # Thalassian Competitor's Cloth Tunic [chest]
+          - 239677 # Thalassian Competitor's Cloth Bands [wrists]
+          - 239679 # Thalassian Competitor's Cloth Gloves [hands]
+          - 239682 # Thalassian Competitor's Cloth Sash [waist]
+          - 239681 # Thalassian Competitor's Cloth Leggings [legs]
+          - 239684 # Thalassian Competitor's Cloth Treads [feet]
+          - 244735 # Thalassian Competitor's Cloth Goggles [head]
+          - 244739 # Thalassian Competitor's Cloth Cuffs [wrists]
+          - 244763_6 # Thalassian Competitor's Cloth Tip-Toes [feet]
+
     leather:
       # Galactic Aspirant's Leather Armor [Aspirant]
       - transmogSetId: 5470
@@ -151,6 +167,20 @@ groups:
       # Galactic Warmonger's Leather Armor [War Mode]
       - transmogSetId: 5475
         wowheadSetId:
+
+      - name: "Thalassian Competitor's Leather"
+        itemsV2:
+          - 244555 # Thalassian Competitor's Leather Mask [head]
+          - 244556 # Thalassian Competitor's Leather Shoulderpads [shoulders]
+          - 244554 # Thalassian Competitor's Leather Chestpiece [chest]
+          - 244560 # Thalassian Competitor's Leather Wristwraps [wrists]
+          - 244559 # Thalassian Competitor's Leather Gloves [hands]
+          - 244557 # Thalassian Competitor's Leather Belt [waist]
+          - 244558 # Thalassian Competitor's Leather Trousers [legs]
+          - 244553 # Thalassian Competitor's Leather Boots [feet]
+          - 244736 # Thalassian Competitor's Leather Optics [head]
+          - 244740 # Thalassian Competitor's Leather Bands [wrists]
+          - 244764_6 # Thalassian Competitor's Leather Sliders [feet]
 
     mail:
       # Galactic Aspirant's Chain Armor [Aspirant]
@@ -161,6 +191,20 @@ groups:
       - transmogSetId: 5476
         wowheadSetId:
 
+      - name: "Thalassian Competitor's Chain"
+        itemsV2:
+          - 244563 # Thalassian Competitor's Chain Cowl [head]
+          - 244564 # Thalassian Competitor's Chain Epaulets [shoulders]
+          - 244562 # Thalassian Competitor's Chain Tunic [chest]
+          - 244568 # Thalassian Competitor's Chain Cuffs [wrists]
+          - 244567 # Thalassian Competitor's Chain Grips [hands]
+          - 244565 # Thalassian Competitor's Chain Girdle [waist]
+          - 244566 # Thalassian Competitor's Chain Leggings [legs]
+          - 244561 # Thalassian Competitor's Chain Stompers [feet]
+          - 244737 # Thalassian Competitor's Mail Visor [head]
+          - 244741 # Thalassian Competitor's Mail Links [wrists]
+          - 244765_6 # Thalassian Competitor's Mail Footlinks [feet]
+
     plate:
       # Galactic Aspirant's Plate Armor [Aspirant]
       - transmogSetId: 5472
@@ -169,3 +213,81 @@ groups:
       # Galactic Warmonger's Plate Armor [War Mode]
       - transmogSetId: 5477
         wowheadSetId:
+
+      - name: "Thalassian Competitor's Plate"
+        itemsV2:
+          - 237904_6 # Thalassian Competitor's Plate Helm [head]
+          - 237906_6 # Thalassian Competitor's Plate Pauldrons [shoulders]
+          - 237901_6 # Thalassian Competitor's Plate Breastplate [chest]
+          - 237908_6 # Thalassian Competitor's Plate Armguards [wrists]
+          - 237903_6 # Thalassian Competitor's Plate Gauntlets [hands]
+          - 237907_6 # Thalassian Competitor's Plate Waistguard [waist]
+          - 237905_6 # Thalassian Competitor's Plate Greaves [legs]
+          - 237902_6 # Thalassian Competitor's Plate Sabatons [feet]
+          - 244738 # Thalassian Competitor's Plate Guard [head]
+          - 244742 # Thalassian Competitor's Plate Bindings [wrists]
+          - 244766_6 # Thalassian Competitor's Plate Dunkers [feet]
+
+- name: "Midnight Season 1"
+  tag: "S41"
+  type: all
+  sets:
+    - "Elite Weapons*"
+    - "Gladiator Weapons"
+    - "Aspirant Weapons"
+    - "Warmonger Weapons"
+    - "Crafted Weapons"
+  data:
+    all:
+      # Elite Galactic Gladiator's Weapons
+      - transmogSetId: 5599
+        wowheadSetId:
+
+      # Galactic Gladiator's Weapons
+      - transmogSetId: 5598
+        wowheadSetId:
+
+      # Galactic Aspirant's Weapons
+      - transmogSetId: 5473
+        wowheadSetId:
+
+      - name: "Warmonger Weapons"
+        itemsV2:
+          - 255918 # Galactic Warmonger's Battleaxe [1h axe]
+          - 255920 # Galactic Warmonger's Carver [1h axe]
+          - 255919 # Galactic Warmonger's Hatchet [1h axe]
+          - 255928 # Galactic Warmonger's Club [1h mace]
+          - 255936 # Galactic Warmonger's Crusher [1h mace]
+          - 255930 # Galactic Warmonger's Cudgel [1h mace]
+          - 255929 # Galactic Warmonger's Hammer [1h mace]
+          - 255935 # Galactic Warmonger's Mace [1h mace]
+          - 255937 # Galactic Warmonger's Scepter [1h mace]
+          - 255938 # Galactic Warmonger's Dagger [dagger]
+          - 255939 # Galactic Warmonger's Dirk [dagger]
+          - 255922 # Galactic Warmonger's Twinblade [warglaive]
+          - 255927 # Galactic Warmonger's Broadsword [2h sword]
+          - 255926 # Galactic Warmonger's Greatsword [2h sword]
+          - 255932 # Galactic Warmonger's Impaler [polearm]
+          - 255933 # Galactic Warmonger's Spear [polearm]
+          - 255925 # Galactic Warmonger's Battlestaff [stave]
+          - 255924 # Galactic Warmonger's Spire [stave]
+          - 255921 # Galactic Warmonger's Longbow [bow]
+          - 255934 # Galactic Warmonger's Wand [wand]
+          - 255923 # Galactic Warmonger's Lantern [off-hand]
+          - 255931 # Galactic Warmonger's Aegis [shield]
+
+      - name: "Crafted Weapons"
+        itemsV2:
+          - 237909_159 # Thalassian Competitor's Pickaxe [1h axe]
+          - 237913_159 # Thalassian Competitor's Splitter [1h axe]
+          - 237911_159 # Thalassian Competitor's Maxim  [1h mace]
+          - 237916_159 # Thalassian Competitor's Sword [1h sword]
+          - 237910_159 # Thalassian Competitor's Knife [dagger]
+          - 237914_159 # Thalassian Competitor's Skewer [dagger]
+          - 245869_159 # Thalassian Competitor's Bow [bow]
+          - 268479_159 # Thalassian Competitor's Rifle [gun]
+          - 237915_159 # Thalassian Competitor's Greatsword [2h sword]
+          - 245868_159 # Thalassian Competitor's Pillar [polearm]
+          - 268365_159 # Thalassian Competitor's Staff [stave]
+          - 245870_159 # Thalassian Competitor's Lamp [off-hand]
+          - 237912_159 # Thalassian Competitor's Bulwark [shield]
