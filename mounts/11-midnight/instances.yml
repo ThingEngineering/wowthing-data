@@ -1,0 +1,18 @@
+name: "Instances"
+groups:
+
+- name: "Dungeons"
+  things:
+    - 2817 # Lucent Hawkstrider (Magisters' Terrace)
+    - 2805 # Spectral Hawkstrider (Windrunner Spire)
+
+- name: "Raids"
+  things:
+    - 2607 # Ashes of Belo'ren (Midnight Falls, March on Quel'Danas Mythic)
+
+- name: "Ritual Sites"
+  things:
+    - 2961 # Void-Corrupted Hex Eagle (Broken Throne)
+    - 2965 # Void-Corrupted Lynx (treasure?)
+    - 2964 # Void-Touched Snapdragon (Daggerspine Point)
+    - 2779 # Witherbark Warbear Mother (Broken Throne)

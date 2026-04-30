@@ -1,6 +1,10 @@
 name: "Vendors"
 groups:
 
+- name: "Harandar"
+  things:
+    - 2913 # Vivid Chloroceros (Mothkeeper Wew'tam, Harandar)
+
 - name: "Silvermoon City"
   things:
     - 2841 # Elven Arcane Guardian (Naleidea Rivergleam, Silvermoon City)
@@ -13,6 +17,10 @@ groups:
     - 2693 # Amani Sunfeather
     - 2772 # Blessed Amani Burrower
 
-- name: "Harandar"
+- name: "Decor Duel"
   things:
-    - 2913 # Vivid Chloroceros (Mothkeeper Wew'tam, Harandar)
+    - 2933 # Breaker Bee
+
+- name: "Void Assaults"
+  things:
+    - 2915 # Unbound Manawyrm

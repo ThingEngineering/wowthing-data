@@ -8,6 +8,7 @@ groups:
     - 2829 # Lab-grown Stormray (Staring into the Void)
     - 2771 # Preyseeker's Nightmare (Prey)
     - 2755 # Umbral Dragonhawk (Life of the Party)
+    - 2912 # Vivacious Chloroceros (Treasures of Harandar)
 
 - name: "Delves"
   things:

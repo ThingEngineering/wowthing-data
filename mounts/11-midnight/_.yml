@@ -1,11 +1,6 @@
 name: "Midnight"
 groups:
 
-- name: "Instances"
-  things:
-    - 2817 # Lucent Hawkstrider (Magisters' Terrace)
-    - 2607 # Ashes of Belo'ren (Midnight Falls, March on Quel'Danas Mythic)
-
 - name: "PvP"
   things:
     - 2794 # Vicious Snaplizard [A]
