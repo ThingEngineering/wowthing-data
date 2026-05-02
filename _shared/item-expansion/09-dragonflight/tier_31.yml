@@ -1,0 +1,111 @@
+# Aberrus, the Shadowed Crucible
+
+# Head
+202627: # Dreadful Melting Fluid
+  - 202461 # Lingering Phantom's Dreadhorns [death knight]
+  - 202524 # Kinslayer's Hood [demon hunter]
+  - 202533 # Grimhorns of the Sinister Savant [warlock]
+
+202628: # Mystic Melting Fluid
+  - 202515 # Bough of the Autumn Blaze [druid]
+  - 202479 # Ashen Predator's Faceguard [hunter]
+  - 202551 # Underlight Conjurer's Arcanocowl [mage]
+
+202629: # Venerated Melting Fluid
+  - 202452 # Heartfire Sentinel's Forgehelm [paladin]
+  - 202542 # Mask of the Furnace Seraph [priest]
+  - 202470 # Spangenhelm of the Cinderwolf [shaman]
+
+202630: # Zenith Melting Fluid
+  - 202488 # Crown of Obsidian Secrets [evoker]
+  - 202506 # Cover of the Vermillion Forge [monk]
+  - 202497 # Lurking Specter's Visage [rogue]
+  - 202443 # Thraexhelm of the Onyx Crucible [warrior]
+
+# Shoulders
+202621: # Dreadful Corrupting Fluid
+  - 202459 # Lingering Phantom's Shoulderplates [death knight]
+  - 202522 # Kinslayer's Tainted Spaulders [demon hunter]
+  - 202531 # Amice of the Sinister Savant [warlock]
+
+202622: # Mystic Corrupting Fluid
+  - 202513 # Mantle of the Autumn Blaze [druid]
+  - 202477 # Ashen Predator's Trophy [hunter]
+  - 202549 # Underlight Conjurer's Aurora [mage]
+
+202623: # Venerated Corrupting Fluid
+  - 202450 # Heartfire Sentinel's Steelwings [paladin]
+  - 202540 # Devotion of the Furnace Seraph [priest]
+  - 202468 # Thunderpads of the Cinderwolf [shaman]
+
+202637: # Zenith Corrupting Fluid
+  - 202486 # Wingspan of Obsidian Secrets [evoker]
+  - 202504 # Spines of the Vermillion Forge [monk]
+  - 202495 # Lurking Specter's Shoulderblades [rogue]
+  - 202441 # Pauldrons of the Onyx Crucible [warrior]
+
+# Chest
+202631: # Dreadful Ventilation Fluid
+  - 202464 # Lingering Phantom's Plackart [death knight]
+  - 202527 # Kinslayer's Vest [demon hunter]
+  - 202536 # Cursed Robes of the Sinister Savant [warlock]
+
+202632: # Mystic Ventilation Fluid
+  - 202518 # Chestroots of the Autumn Blaze [druid]
+  - 202482 # Ashen Predator's Sling Vest [hunter]
+  - 202554 # Underlight Conjurer's Vestment [mage]
+
+202633: # Venerated Ventilation Fluid
+  - 202455 # Heartfire Sentinel's Brigandine [paladin]
+  - 202545 # Command of the Furnace Seraph [priest]
+  - 202473 # Adornments of the Cinderwolf [shaman]
+
+202639: # Zenith Ventilation Fluid
+  - 202491 # Hauberk of Obsidian Secrets [evoker]
+  - 202509 # Cuirass of the Vermillion Forge [monk]
+  - 202500 # Lurking Specter's Brigandine [rogue]
+  - 202446 # Battlechest of the Onyx Crucible [warrior]
+
+# Hands
+202624: # Dreadful Mixing Fluid
+  - 202462 # Lingering Phantom's Gauntlets [death knight]
+  - 202525 # Kinslayer's Bloodstained Grips [demon hunter]
+  - 202534 # Grips of the Sinister Savant [warlock]
+
+202625: # Mystic Mixing Fluid
+  - 202516 # Handguards of the Autumn Blaze [druid]
+  - 202480 # Ashen Predator's Skinners [hunter]
+  - 202552 # Underlight Conjurer's Gloves [mage]
+
+202626: # Venerated Mixing Fluid
+  - 202453 # Heartfire Sentinel's Protectors [paladin]
+  - 202543 # Grasp of the Furnace Seraph [priest]
+  - 202471 # Knuckles of the Cinderwolf [shaman]
+
+202638: # Zenith Mixing Fluid
+  - 202489 # Claws of Obsidian Secrets [evoker]
+  - 202507 # Fists of the Vermillion Forge [monk]
+  - 202498 # Lurking Specter's Handgrips [rogue]
+  - 202444 # Handguards of the Onyx Crucible [warrior]
+
+# Legs
+202634: # Dreadful Cooling Fluid
+  - 202460 # Lingering Phantom's Schynbalds [death knight]
+  - 202523 # Kinslayer's Legguards [demon hunter]
+  - 202532 # Leggings of the Sinister Savant [warlock]
+
+202635: # Mystic Cooling Fluid
+  - 202514 # Pants of the Autumn Blaze [druid]
+  - 202478 # Ashen Predator's Poleyns [hunter]
+  - 202550 # Underlight Conjurer's Trousers [mage]
+
+202636: # Venerated Cooling Fluid
+  - 202451 # Heartfire Sentinel's Faulds [paladin]
+  - 202541 # Breeches of the Furnace Seraph [priest]
+  - 202469 # Braies of the Cinderwolf [shaman]
+
+202640: # Zenith Cooling Fluid
+  - 202487 # Chausses of Obsidian Secrets [evoker]
+  - 202505 # Pantaloons of the Vermillion Forge [monk]
+  - 202496 # Lurking Specter's Tights [rogue]
+  - 202442 # Legplates of the Onyx Crucible [warrior]
