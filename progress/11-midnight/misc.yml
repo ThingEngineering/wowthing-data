@@ -9,10 +9,22 @@ groups:
   type: quest
   data:
     0:
-      # Eversong Woods
+      # Isle of Quel'Danas
+      - id: 93386
+        name: "Delver's Call: Parhelion Plaza"
+
+      - name: separator
+
+      # Silvermoon
       - id: 93384
         name: "Delver's Call: Collegiate Calamity"
 
+      - id: 93385
+        name: "Delver's Call: The Darkway"
+
+      - name: separator
+
+      # Eversong Woods
       - id: 93372
         name: "Delver's Call: Shadow Enclave"
 
