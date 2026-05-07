@@ -1,0 +1,58 @@
+things:
+  - id: 258328
+    type: "vendor"
+    name: "Thraxadar"
+    note: "Slayer's Duellum Quartermaster"
+
+    locations:
+      here: # slayers_rise
+        - 39.2 81
+
+    groups:
+      - name: "Slayer's Duellum"
+        range: -1
+        sortKey: "rep-slayer"
+
+    contents:
+
+      - id: 264253 # Galactic Void-Scarred Barricade [decor]
+        costs:
+          3316: 250
+        requirements:
+          - "reputation 2770 friendly"
+
+      - id: 264345 # Galactic Commander's Orb [decor]
+        costs:
+          3316: 250
+        requirements:
+          - "reputation 2770 honored"
+
+      - id: 264517 # Galactic Flag of Victory [toy]
+        costs:
+          3316: 4000
+        requirements:
+          - "reputation 2770 honored"
+
+      - id: 247785 # Galactic Void-Scarred Banner [decor]
+        costs:
+          3316: 250
+        requirements:
+          - "reputation 2770 revered"
+
+      - id: 265035 # Medusa [pet]
+        costs:
+          3316: 2500
+        requirements:
+          - "reputation 2770 revered"
+
+      - id: 257448 # Frenzied Shredclaw [mount]
+        costs:
+          3316: 6000
+        requirements:
+          - "reputation 2770 exalted"
+
+      - id: 257447 # Prowling Shredclaw [mount]
+        costs:
+          3316: 6000
+        requirements:
+          - "reputation 2770 exalted"
