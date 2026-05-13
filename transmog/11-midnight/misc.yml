@@ -95,12 +95,63 @@ groups:
       # - transmogSetId: 5642
       #   wowheadSetId:
 
+- name: "Prey"
+  type: armor
+  sets:
+    - "Armor"
+  data:
+    cloth:
+      # Preyseeker's Refined Armor [description=14362]
+      - transmogSetId: 5618
+        wowheadSetId:
+
+    leather:
+      # Preyseeker's Sleek Armor [description=14362]
+      - transmogSetId: 5619
+        wowheadSetId:
+
+    mail:
+      # Preyseeker's Rugged Armor [description=14362]
+      - transmogSetId: 5620
+        wowheadSetId:
+
+    plate:
+      # Preyseeker's Polished Armor [description=14362]
+      - transmogSetId: 5621
+        wowheadSetId:
+
+- name: "Prey"
+  type: all
+  sets:
+    - "Weapons"
+  data:
+    all:
+      - name: "Prey Weapons"
+        itemsV2:
+          - 259949 # Preyseeker's Hatchet [1h axe]
+          - 259952 # Preyseeker's Cudgel [1h mace]
+          - 259955 # Preyseeker's Hammer [1h mace]
+          - 259953 # Preyseeker's Scepter [1h mace]
+          - 259958 # Preyseeker's Longsword [1h sword]
+          - 259957 # Preyseeker's Ritual Blade [1h sword]
+          - 259956 # Preyseeker's Scimitar [1h sword]
+          - 259950 # Preyseeker's Kukri [dagger]
+          - 259951 # Preyseeker's Shiv [dagger]
+          - 259959 # Preyseeker's Warglaive [warglaive]
+          - 259964 # Preyseeker's Falchion [2h sword]
+          - 259961 # Preyseeker's Spear [polearm]
+          - 259963 # Preyseeker's Spire [stave]
+          - 259962 # Preyseeker's Staff [stave]
+          - 259960 # Preyseeker's Longbow [bow]
+          - 259965 # Preyseeker's Lantern [off-hand]
+          - 259966 # Preyseeker's Tower Shield [shield]
+
 # group 380
 - name: "Void Assaults"
   type: class
   sets:
-    - "Void Assaults"
-    - "Void Assaults (Cosmetic)"
+    - "Vendor Armor"
+    - "Vendor Cosmetic Armor"
   data:
     death-knight:
       # Void Rider's Armor [description=14369]
@@ -477,6 +528,103 @@ groups:
         - 263705 # Waistband of Voidwrath [waist]
         - 263703 # Legplates of Voidwrath [legs]
         - 263700 # Sabatons of Voidwrath [feet]
+
+- name: "Void Assaults"
+  type: all
+  sets:
+    - "Vendor Cosmetic Weapons"
+  data:
+    all:
+      - name: "Vendor Cosmetic Weapons"
+        itemsV2:
+          - 263946 # Void-Touched Basher []
+          - 263954 # Void-Touched Battle Baton []
+          - 263949 # Void-Touched Bulwark []
+          - 263963 # Void-Touched Dueling Blade []
+          - 263942 # Void-Touched Fang []
+          - 263960 # Void-Touched Flaredblade []
+          - 263968 # Void-Touched Foci []
+          - 263970 # Void-Touched Glaiveblade []
+          - 263966 # Void-Touched Greatblade []
+          - 263967 # Void-Touched Greatbow []
+          - 263969 # Void-Touched Greatwand []
+          - 263943 # Void-Touched Gutter []
+          - 263941 # Void-Touched Rifle []
+          - 263956 # Void-Touched Smasher []
+          - 263950 # Void-Touched Spade []
+          - 273874 # Void-Touched Sunfury Poleaxe []
+          - 263952 # Void-Touched Sunfury Stave []
+          - 263959 # Void-Touched Tome []
+
+- name: "Void Assaults"
+  type: all
+  sets:
+    - "Bag Cosmetics"
+  data:
+    all:
+      - name: "Bag Cosmetics"
+        itemsV2:
+          - 271050 # Forest Hunter's Quiver [back]
+          - 270999 # Forest Berserker's Hatchet [1h axe]
+          - 271000 # Twilight Gut Ripper [1h axe]
+          - 271018 # Deepcrawler Pincher [1h mace]
+          - 271021 # Loa Battle Font [1h mace]
+          - 271020 # Phoenix Wing Basher [1h mace]
+          - 271022 # Ritual Overseer's Mace [1h mace]
+          - 271019 # Sin'dorei Magister's Gavel [1h mace]
+          - 271023 # Swingable Piranha [1h mace]
+          - 271041 # Blade of the Deeplurk Honorguard [1h sword]
+          - 271039 # Curved Blade of the Drained Loa [1h sword]
+          - 271042 # Myrmidon's Cutlass [1h sword]
+          - 271038 # Ornate Blade of the Royal Guard [1h sword]
+          - 271040 # Twilight Captain's Short Sword [1h sword]
+          - 271013 # Adherent's Wriggling Backstabber [dagger]
+          - 271008 # Cultist's Sacrificial Kris [dagger]
+          - 271009 # Daggerspine Trident Tine [dagger]
+          - 271012 # Forest Tiki Twinblade [dagger]
+          - 271011 # Frostdeep Spider's Fang [dagger]
+          - 271010 # Glistening Sin'dorei Twinblade [dagger]
+          - 271007 # Twilight Ritualist's Stiletto [dagger]
+          - 271014 # Twilight Scout's Sticher [dagger]
+          - 271015 # Deep Fathom Claw [fist]
+          - 271016 # Golden Phoenix's Beak [fist]
+          - 271043 # Twilight Assassin's Glaive [warglaive]
+          - 271001 # Greataxe of the Forest Tribe [2h axe]
+          - 271002 # Twilight Berserker's Cleaver [2h axe]
+          - 271025 # Twilight Guardian's Maul [2h mace]
+          - 271028 # Amani War Spear [polearm]
+          - 271027 # Deeplurk Battle Trident [polearm]
+          - 271026 # Deeplurk Myrmidon's Trident [polearm]
+          - 272144 # Onyx Bloodknight Bladestaff [polearm]
+          - 271034 # Ritual Overseer's Polestaff [polearm]
+          - 271037 # Battle Shaman's Ritual Staff [stave]
+          - 271035 # Deeplurk Sorceress' Stave [stave]
+          - 271029 # Fathom-Coral Lightstaff [stave]
+          - 271036 # Forest Shaman's Voodoo Staff [stave]
+          - 271030 # Living Stave of the Deepdweller [stave]
+          - 271031 # Onyx Bloodknight Stave [stave]
+          - 271033 # Skull-Bearer's Ritual Stave [stave]
+          - 271032 # Tiki-Bearer's Ritual Staff [stave]
+          - 271004 # Deepcrawler Recurve Bow [bow]
+          - 271006 # Forest Stalker's Bow [bow]
+          - 271003 # Sunfury Phoenix Bow [bow]
+          - 271005 # Violet Thalassian Greatbow [bow]
+          - 271017 # Twilight Slug Belcher [gun]
+          - 271045 # Crystal Focus Spellslinger [wand]
+          - 271044 # Deeplurk Shock Wand [wand]
+          - 271049 # Ritual Weaver's Spellstick [wand]
+          - 271047 # Spell-Infused Wriggling Tentacles [wand]
+          - 271046 # Voodoo Hex Stick [wand]
+          - 270997 # Blood Oath Tome [off-hand]
+          - 271024 # Diseased Piranha Fetish [off-hand]
+          - 270998 # Fetish of the Vanquished Foe [off-hand]
+          - 270995 # Sin'dorei Crystal Focus [off-hand]
+          - 271048 # Wriggling Tentacle Fetish [off-hand]
+          - 270992 # Amani Hex Crest [shield]
+          - 270994 # Deepsea Behemoth Scale [shield]
+          - 270996 # Hex-Horn Buckler [shield]
+          - 270991 # Sunfury Great Bulwark [shield]
+          - 270993 # Twilight Blade Barrier [shield]
 
 - name: "Crafted Armor"
   type: armor
