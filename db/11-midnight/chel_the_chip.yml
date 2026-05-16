@@ -86,11 +86,11 @@ things:
           3377: 1600
           3265: 75
 
-      - id: 254875 # Muck-Covered Writings [fishing]
-        costs:
-          3377: 6400
-        requirements:
-          - "reputation 2696 renown-14" # Amani Tribe
+      # - id: 254875 # Muck-Covered Writings [fishing]
+      #   costs:
+      #     3377: 6400
+      #   requirements:
+      #     - "reputation 2696 renown-14" # Amani Tribe
 
       # 0
 
