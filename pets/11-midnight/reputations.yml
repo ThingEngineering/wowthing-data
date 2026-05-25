@@ -1,0 +1,12 @@
+name: "Reputations"
+groups:
+
+- name: "Slayer's Duellum"
+  things:
+    - 4984 # Medusa (Revered)
+    - 4981 # Nova (Paragon)
+
+- name: "Ritual Sites"
+  things:
+    - 5036 # Rescued Dragonhawk Chick
+    - 5037 # Void-Infused Mindbreaker Fry

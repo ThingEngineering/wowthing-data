@@ -11,3 +11,12 @@ groups:
     - 4960 # Treja'saka
     - 4954 # Ziorg'pharon
     - 4958 # Ominous Domanus (Nullaeus?)
+
+- name: "Ritual Sites"
+  things:
+    - 5019 # Chubs (Broken Throne)
+    - 5017 # Void-Scarred Eaglet (Broken Throne)
+    - 5020 # Overloaded Manaling (Daggerspine Point)
+    - 5021 # Void-Corrupted Snapdragon (Daggerspine Point)
+    - 5022 # Void-Touched Chick (Daggerspine Point)
+    - 5023 # Void-Touched Lynx Kitten (Both?)

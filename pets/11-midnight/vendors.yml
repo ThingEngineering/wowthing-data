@@ -29,3 +29,7 @@ groups:
 - name: "Zul'Aman"
   things:
     - 4888 # Naloki
+
+- name: "Abyss Anglers"
+  things:
+    - 5065 # Ka'bubb

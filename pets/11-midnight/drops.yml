@@ -4,3 +4,8 @@ groups:
 - name: "Eversong Woods"
   things:
     - 4985 # Princess Bloodshed
+
+- name: "Void Strikes"
+  things:
+    - 5040 # Curious Lynx Kitten
+    - 5038 # Wriggling Capybara

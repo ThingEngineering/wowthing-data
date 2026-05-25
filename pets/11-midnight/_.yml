@@ -3,6 +3,7 @@ groups:
 
 - name: "Achievements"
   things:
+    - 5039 # Cappy (Cosmic Exterminator)
     - 4910 # Do, child of Filo (Midnight Safari)
     - 4803 # Niblet (Midnight Dungeon Hero)
     - 5012 # Sootpaw (Treasures of Eversong Woods)

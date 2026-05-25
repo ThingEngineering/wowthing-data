@@ -1,6 +1,11 @@
 name: "Classic"
 groups:
 
+- name: "Achievements"
+  things:
+    - 3519 # Byrn (Family Battler of Eastern Kingdoms)
+    - 4913 # Moon Darter (Family Battler of Kalimdor)
+
 - name: Daily Quests
   things:
   - 1984 # Albino Buzzard (Crysa, Northern Barrens)
