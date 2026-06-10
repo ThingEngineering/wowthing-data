@@ -200,6 +200,30 @@ groups:
           - 270947 # Ranger Recruit's Legguards [legs]
           - 270935 # Ranger Recruit's Sabatons [feet]
 
+- name: "Void Assaults"
+  type: all
+  sets:
+    - "Leveling Weapons"
+  data:
+    all:
+      - name: "Leveling Weapons"
+        itemsV2:
+          - 270985 # Ranger Recruit's Cleaver [1h axe]
+          - 270973 # Ranger Recruit's Skullcracker [1h mace]
+          - 270975 # Ranger Recruit's Acolyte's Blade [1h sword]
+          - 270972 # Ranger Recruit's Mace [1h mace]
+          - 270974 # Ranger Recruit's Blade [1h sword]
+          - 270971 # Ranger Recruit's Spellblade [dagger]
+          - 270982 # Ranger Recruit's Stiletto [dagger]
+          - 270976 # Ranger Recruit's Glaive [warglaive]
+          - 270977 # Ranger Recruit's Polearm [polearm]
+          - 270983 # Ranger Recruit's Battle Stave [stave]
+          - 270984 # Ranger Recruit's Staff [stave]
+          - 270979 # Ranger Recruit's Longbow [bow]
+          - 270980 # Ranger Recruit's Wand [wand]
+          - 270981 # Ranger Recruit's Fetish [off-hand]
+          - 270978 # Ranger Recruit's Shield [shield]
+
 # group 380
 - name: "Void Assaults"
   type: class
