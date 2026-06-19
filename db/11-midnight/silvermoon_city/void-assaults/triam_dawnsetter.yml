@@ -77,8 +77,28 @@ things:
         bonusIds: *bonus-ids
 
       - name: "Void - Cosmetic Weapons"
-        range: -1
+        range: 17
         sortKey: "void-5-99-2"
+        bonusIds: *bonus-ids
+
+      - name: "Void - Amani Bag Cosmetics"
+        range: 17
+        sortKey: "void-5-99-3"
+        bonusIds: *bonus-ids
+
+      - name: "Void - Elven Bag Cosmetics"
+        range: 12
+        sortKey: "void-5-99-4"
+        bonusIds: *bonus-ids
+
+      - name: "Void - Naga Bag Cosmetics"
+        range: 15
+        sortKey: "void-5-99-5"
+        bonusIds: *bonus-ids
+
+      - name: "Void - Twilight Bag Cosmetics"
+        range: -1
+        sortKey: "void-5-99-6"
         bonusIds: *bonus-ids
 
     contents:
@@ -521,3 +541,192 @@ things:
 
       - id: 263949 # Void-Touched Bulwark [shield]
         costs: *weapon-costs
+
+      # Bulging Amani Field Pouch
+
+      - id: 270999 # Forest Berserker's Hatchet [1h axe]
+        costs: &bag-costs
+          1267051: 150 # Dark Particles
+
+      - id: 271021 # Loa Battle Font [1h mace]
+        costs: *bag-costs
+
+      - id: 271039 # Curved Blade of the Drained Loa [1h sword]
+        costs: *bag-costs
+
+      - id: 271012 # Forest Tiki Twinblade [dagger]
+        costs: *bag-costs
+
+      - id: 271011 # Frostdeep Spider's Fang [dagger]
+        costs: *bag-costs
+
+      - id: 271046 # Voodoo Hex Stick [wand]
+        costs: *bag-costs
+
+      - id: 271001 # Greataxe of the Forest Tribe [2h axe]
+        costs: *bag-costs
+
+      - id: 271028 # Amani War Spear [polearm]
+        costs: *bag-costs
+
+      - id: 271037 # Battle Shaman's Ritual Staff [stave]
+        costs: *bag-costs
+
+      - id: 271036 # Forest Shaman's Voodoo Staff [stave]
+        costs: *bag-costs
+
+      - id: 271033 # Skull-Bearer's Ritual Stave [stave]
+        costs: *bag-costs
+
+      - id: 271032 # Tiki-Bearer's Ritual Staff [stave]
+        costs: *bag-costs
+
+      - id: 271006 # Forest Stalker's Bow [bow]
+        costs: *bag-costs
+
+      - id: 270997 # Blood Oath Tome [off-hand]
+        costs: *bag-costs
+
+      - id: 270998 # Fetish of the Vanquished Foe [off-hand]
+        costs: *bag-costs
+
+      - id: 270992 # Amani Hex Crest [shield]
+        costs: *bag-costs
+
+      - id: 270996 # Hex-Horn Buckler [shield]
+        costs: *bag-costs
+
+      # Bulging Elven Field Pouch
+
+      - id: 271020 # Phoenix Wing Basher [1h mace]
+        costs: *bag-costs
+
+      - id: 271019 # Sin'dorei Magister's Gavel [1h mace]
+        costs: *bag-costs
+
+      - id: 271038 # Ornate Blade of the Royal Guard [1h sword]
+        costs: *bag-costs
+
+      - id: 271010 # Glistening Sin'dorei Twinblade [dagger]
+        costs: *bag-costs
+
+      - id: 271016 # Golden Phoenix's Beak [fist]
+        costs: *bag-costs
+
+      - id: 271045 # Crystal Focus Spellslinger [wand]
+        costs: *bag-costs
+
+      - id: 272144 # Onyx Bloodknight Bladestaff [polearm]
+        costs: *bag-costs
+
+      - id: 271031 # Onyx Bloodknight Stave [stave]
+        costs: *bag-costs
+
+      - id: 271003 # Sunfury Phoenix Bow [bow]
+        costs: *bag-costs
+
+      - id: 271005 # Violet Thalassian Greatbow [bow]
+        costs: *bag-costs
+
+      - id: 270995 # Sin'dorei Crystal Focus [off-hand]
+        costs: *bag-costs
+
+      - id: 270991 # Sunfury Great Bulwark [shield]
+        costs: *bag-costs
+
+        # Bulging Naga Field Pouch
+
+      - id: 271018 # Deepcrawler Pincher [1h mace]
+        costs: *bag-costs
+
+      - id: 271023 # Swingable Piranha [1h mace]
+        costs: *bag-costs
+
+      - id: 271041 # Blade of the Deeplurk Honorguard [1h sword]
+        costs: *bag-costs
+
+      - id: 271042 # Myrmidon's Cutlass [1h sword]
+        costs: *bag-costs
+
+      - id: 271009 # Daggerspine Trident Tine [dagger]
+        costs: *bag-costs
+
+      - id: 271015 # Deep Fathom Claw [fist]
+        costs: *bag-costs
+
+      - id: 271044 # Deeplurk Shock Wand [wand]
+        costs: *bag-costs
+
+      - id: 271027 # Deeplurk Battle Trident [polearm]
+        costs: *bag-costs
+
+      - id: 271026 # Deeplurk Myrmidon's Trident [polearm]
+        costs: *bag-costs
+
+      - id: 271035 # Deeplurk Sorceress' Stave [stave]
+        costs: *bag-costs
+
+      - id: 271029 # Fathom-Coral Lightstaff [stave]
+        costs: *bag-costs
+
+      - id: 271030 # Living Stave of the Deepdweller [stave]
+        costs: *bag-costs
+
+      - id: 271004 # Deepcrawler Recurve Bow [bow]
+        costs: *bag-costs
+
+      - id: 271024 # Diseased Piranha Fetish [off-hand]
+        costs: *bag-costs
+
+      - id: 270994 # Deepsea Behemoth Scale [shield]
+        costs: *bag-costs
+
+      # Bulging Twilight Field Pouch
+
+      - id: 271000 # Twilight Gut Ripper [1h axe]
+        costs: *bag-costs
+
+      - id: 271022 # Ritual Overseer's Mace [1h mace]
+        costs: *bag-costs
+
+      - id: 271040 # Twilight Captain's Short Sword [1h sword
+        costs: *bag-costs
+
+      - id: 271013 # Adherent's Wriggling Backstabber [dagger]
+        costs: *bag-costs
+
+      - id: 271008 # Cultist's Sacrificial Kris [dagger]
+        costs: *bag-costs
+
+      - id: 271007 # Twilight Ritualist's Stiletto [dagger]
+        costs: *bag-costs
+
+      - id: 271014 # Twilight Scout's Sticher [dagger]
+        costs: *bag-costs
+
+      - id: 271049 # Ritual Weaver's Spellstick [wand]
+        costs: *bag-costs
+
+      - id: 271047 # Spell-Infused Wriggling Tentacles [wand]
+        costs: *bag-costs
+
+      - id: 271043 # Twilight Assassin's Glaive [warglaive]
+        costs: *bag-costs
+
+      - id: 271002 # Twilight Berserker's Cleaver [2h axe]
+        costs: *bag-costs
+
+      - id: 271025 # Twilight Guardian's Maul [2h mace]
+        costs: *bag-costs
+
+      - id: 271034 # Ritual Overseer's Polestaff [polearm]
+        costs: *bag-costs
+
+      - id: 271017 # Twilight Slug Belcher [gun]
+        costs: *bag-costs
+
+      - id: 271048 # Wriggling Tentacle Fetish [off-hand]
+        costs: *bag-costs
+
+      - id: 270993 # Twilight Blade Barrier [shield]
+        costs: *bag-costs
