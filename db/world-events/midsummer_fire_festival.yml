@@ -19,6 +19,27 @@ things:
       the_exodar:
         - 42.4 25.4 alliance
 
+    groups: &vendor-groups
+      - name: "Pets"
+        range: 3
+        sortKey: "event-midsummer-1"
+
+      - name: "Toys"
+        range: 9
+        sortKey: "event-midsummer-2"
+
+      - name: "Misc"
+        range: 1
+        sortKey: "event-midsummer-3"
+
+      - name: "Transmog"
+        range: 9
+        sortKey: "event-midsummer-4"
+
+      - name: "Transmog - Sun Festival"
+        range: -1
+        sortKey: "event-midsummer-5"
+
     contents: &vendor-contents
 
       # Pets
@@ -73,6 +94,12 @@ things:
         costs:
           1023247: 150
 
+      # Misc
+
+      - id: 276546 # Illusion: Summer Sun Blossom
+        costs:
+          1023247: 250
+
       # 0
 
       - id: 74278 # Helm of the Fire Festival [subclass=5 head]
@@ -111,6 +138,74 @@ things:
         costs:
           1023247: 350
 
+      - id: 275461 # Ensemble: Sun Festival's Flame Totems
+        costs:
+          1023247: 300
+
+      - id: 275466 # Sun Festival's Painted Mask [head]
+        costs:
+          1023247: 100
+
+      - id: 275468 # Sun Festival's Painted Mantle [shoulders]
+        costs:
+          1023247: 150
+
+      - id: 275467 # Sun Festival's Painted Wings [shoulders]
+        costs:
+          1023247: 150
+
+      - id: 275475 # Sun Festival's Painted Wrap [back]
+        costs:
+          1023247: 50
+
+      - id: 275476 # Sun Festival's Painted Hauberk [chest]
+        costs:
+          1023247: 100
+
+      - id: 275460 # Sun Festival's Painted Tunic [chest]
+        costs:
+          1023247: 100
+
+      - id: 275474 # Sun Festival's Painted Gauntlets [hands]
+        costs:
+          1023247: 75
+
+      - id: 275469 # Sun Festival's Painted Girdle [waist]
+        costs:
+          1023247: 50
+
+      - id: 275470 # Sun Festival's Painted Sash [waist]
+        costs:
+          1023247: 75
+
+      - id: 275471 # Sun Festival's Leggings [legs]
+        costs:
+          1023247: 75
+
+      - id: 275472 # Sun Festival's Painted Greaves [legs]
+        costs:
+          1023247: 100
+
+      - id: 275473 # Sun Festival's Painted Striders [feet]
+        costs:
+          1023247: 75
+
+      - id: 275457 # Sun Festival's Totemic Edge [1h axe]
+        costs:
+          1023247: 150
+
+      - id: 275459 # Sun Festival's Torchblade [1h sword]
+        costs:
+          1023247: 150
+
+      - id: 275458 # Sun Festival's Totemic Greataxe [2h axe]
+        costs:
+          1023247: 150
+
+      - id: 275460 # Sun Festival's Flamebrand [2h sword]
+        costs:
+          1023247: 150
+
   - id: 26124
     type: "vendor"
     name: "Midsummer Merchant"
@@ -127,6 +222,7 @@ things:
       silvermoon_city:
         - 70.4 44 horde
 
+    groups: *vendor-groups
     contents: *vendor-contents
 
   - id: 25740
@@ -154,10 +250,12 @@ things:
   - id: 117394
     type: "item"
     reset: "daily"
-    trackingQuestId: 83134
+    trackingQuestId: 97116 # 83134
     accountWide: true
 
     contents:
+
+      - id: 275464 # Sun Festival's Painted Roc [mount]
 
       - id: 53641 # Frigid Frostling [pet]
 
