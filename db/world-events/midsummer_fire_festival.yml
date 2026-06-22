@@ -162,7 +162,7 @@ things:
         costs:
           1023247: 100
 
-      - id: 275460 # Sun Festival's Painted Tunic [chest]
+      - id: 275465 # Sun Festival's Painted Tunic [chest]
         costs:
           1023247: 100
 
@@ -265,7 +265,29 @@ things:
 
       - id: 244356 # Crown of the Frost Lord [cosmetic head]
 
-      - id: 275475 # Sun Festival's Painted Wrap [cosmetic back]
+      - id: 275466 # Sun Festival's Painted Mask [head]
+
+      - id: 275468 # Sun Festival's Painted Mantle [shoulders]
+
+      - id: 275467 # Sun Festival's Painted Wings [shoulders]
+
+      - id: 275475 # Sun Festival's Painted Wrap [back]
+
+      - id: 275476 # Sun Festival's Painted Hauberk [chest]
+
+      - id: 275465 # Sun Festival's Painted Tunic [chest]
+
+      - id: 275474 # Sun Festival's Painted Gauntlets [hands]
+
+      - id: 275469 # Sun Festival's Painted Girdle [waist]
+
+      - id: 275470 # Sun Festival's Painted Sash [waist]
+
+      - id: 275471 # Sun Festival's Leggings [legs]
+
+      - id: 275472 # Sun Festival's Painted Greaves [legs]
+
+      - id: 275473 # Sun Festival's Painted Striders [feet]
 
       - id: 244422 # Glazfuris, Scythe of the Deep Chill [cosmetic polearm]
 
