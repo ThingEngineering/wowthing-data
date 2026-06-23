@@ -1,0 +1,24 @@
+name: "Midsummer Fire Festival Quests"
+groups:
+
+- name: "Midnight Flames"
+  icon: "achievement/61336"
+  iconText: "Mid"
+  lookup: none
+  type: quest
+  data:
+    0:
+      - id: 92555
+        name: "Silvermoon"
+
+      - id: 92556
+        name: "Eversong Woods"
+
+      - id: 92557
+        name: "Zul'Aman"
+
+      - id: 92559
+        name: "Harandar"
+
+      - id: 92558
+        name: "Voidstorm"
