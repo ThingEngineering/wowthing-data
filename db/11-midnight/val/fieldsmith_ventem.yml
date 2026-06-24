@@ -1,0 +1,253 @@
+things:
+  - id: 267315
+    type: "vendor"
+    name: "Fieldsmith Ventem"
+    note: "Field Gear and Repairs"
+
+    locations:
+      here: # unknown
+        - 48.4 81.4
+      
+    groups:
+      - name: "Weapons"
+        range: -1
+        sortKey: "val-9"
+
+    contents:
+
+      # 0
+
+      - id: 275175 # Response Team's Crown [cloth head]
+        costs:
+          3405: 30
+          3316: 300
+
+      - id: 275177 # Response Team's Spires [cloth shoulders]
+        costs:
+          3405: 30
+          3316: 300
+
+      - id: 275172 # Response Team's Vestments [cloth chest]
+        costs:
+          3405: 30
+          3316: 300
+
+      - id: 275179 # Response Team's Cuffs [cloth wrists]
+        costs:
+          3405: 30
+          3316: 300
+
+      - id: 275174 # Response Team's Gloves [cloth hands]
+        costs:
+          3405: 30
+          3316: 300
+
+      - id: 275178 # Response Team's Cord [cloth waist]
+        costs:
+          3405: 30
+          3316: 300
+
+      - id: 275176 # Response Team's Tights [cloth legs]
+        costs:
+          3405: 30
+          3316: 300
+
+      - id: 275173 # Response Team's Slippers [cloth feet]
+        costs:
+          3405: 30
+          3316: 300
+
+      - id: 275183 # Response Team's Mask [leather head]
+        costs:
+          3405: 30
+          3316: 300
+
+      - id: 275185 # Response Team's Shoulderpads [leather shoulders]
+        costs:
+          3405: 30
+          3316: 300
+
+      - id: 275180 # Response Team's Jerkin [leather chest]
+        costs:
+          3405: 30
+          3316: 300
+
+      - id: 275187 # Response Team's Bindings [leather wrists]
+        costs:
+          3405: 30
+          3316: 300
+
+      - id: 275182 # Response Team's Handguards [leather hands]
+        costs:
+          3405: 30
+          3316: 300
+
+      - id: 275186 # Response Team's Belt [leather waist]
+        costs:
+          3405: 30
+          3316: 300
+
+      - id: 275184 # Response Team's Trousers [leather legs]
+        costs:
+          3405: 30
+          3316: 300
+
+      - id: 275181 # Response Team's Boots [leather feet]
+        costs:
+          3405: 30
+          3316: 300
+
+      - id: 275191 # Response Team's Helmet [mail head]
+        costs:
+          3405: 30
+          3316: 300
+
+      - id: 275193 # Response Team's Shoulderguards [mail shoulders]
+        costs:
+          3405: 30
+          3316: 300
+
+      - id: 275188 # Response Team's Hauberk [mail chest]
+        costs:
+          3405: 30
+          3316: 300
+
+      - id: 275195 # Response Team's Bands [mail wrists]
+        costs:
+          3405: 30
+          3316: 300
+
+      - id: 275190 # Response Team's Grips [mail hands]
+        costs:
+          3405: 30
+          3316: 300
+
+      - id: 275194 # Response Team's Clasp [mail waist]
+        costs:
+          3405: 30
+          3316: 300
+
+      - id: 275192 # Response Team's Legguards [mail legs]
+        costs:
+          3405: 30
+          3316: 300
+
+      - id: 275189 # Response Team's Sabatons [mail feet]
+        costs:
+          3405: 30
+          3316: 300
+
+      - id: 275199 # Response Team's Helm [plate head]
+        costs:
+          3405: 30
+          3316: 300
+
+      - id: 275201 # Response Team's Pauldrons [plate shoulders]
+        costs:
+          3405: 30
+          3316: 300
+
+      - id: 275196 # Response Team's Chestplate [plate chest]
+        costs:
+          3405: 30
+          3316: 300
+
+      - id: 275203 # Response Team's Vambraces [plate wrists]
+        costs:
+          3405: 30
+          3316: 300
+
+      - id: 275198 # Response Team's Gauntlets [plate hands]
+        costs:
+          3405: 30
+          3316: 300
+
+      - id: 275202 # Response Team's Girdle [plate waist]
+        costs:
+          3405: 30
+          3316: 300
+
+      - id: 275200 # Response Team's Legplates [plate legs]
+        costs:
+          3405: 30
+          3316: 300
+
+      - id: 275197 # Response Team's Greatboots [plate feet]
+        costs:
+          3405: 30
+          3316: 300
+
+      - id: 275168 # Response Team's Cape [cloak]
+        costs:
+          3405: 30
+          3316: 300
+
+      - id: 275169 # Response Team's Cloak [cloak]
+        costs:
+          3405: 30
+          3316: 300
+
+      - id: 275171 # Response Team's Drape [cloak]
+        costs:
+          3405: 30
+          3316: 300
+
+      - id: 275170 # Response Team's Shawl [cloak]
+        costs:
+          3405: 30
+          3316: 300
+
+      - id: 275204 # Response Team's Hatchet [1h ? axe]
+        costs:
+          3405: 60
+          3316: 500
+
+      - id: 275206 # Response Team's Hammer [1h ? mace]
+        costs:
+          3405: 60
+          3316: 500
+
+      - id: 275207 # Response Team's Longsword [1h ? sword]
+        costs:
+          3405: 60
+          3316: 500
+
+      - id: 275205 # Response Team's Kukri [? dagger]
+        costs:
+          3405: 60
+          3316: 500
+
+      - id: 275208 # Response Team's Warglaive [warglaive]
+        costs:
+          3405: 60
+          3316: 500
+
+      - id: 275212 # Response Team's Falchion [2h ? sword]
+        costs:
+          3405: 60
+          3316: 500
+
+      - id: 275210 # Response Team's Spear [polearm]
+        costs:
+          3405: 60
+          3316: 500
+
+      - id: 275211 # Response Team's Spire [staff]
+        costs:
+          3405: 60
+          3316: 500
+
+      - id: 275209 # Response Team's Longbow [bow]
+        costs:
+          3405: 60
+          3316: 500
+
+      - id: 275213 # Response Team's Lantern [off-hand]
+        costs:
+          3405: 60
+          3316: 500
+
+      - id: 275214 # Response Team's Tower Shield [shield]
+        costs:
+          3405: 60
+          3316: 500

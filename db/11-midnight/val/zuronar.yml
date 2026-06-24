@@ -1,0 +1,58 @@
+things:
+  - id: 265581
+    type: "vendor"
+    name: "Zuronar"
+    note: "Lightveil Artificer"
+
+    locations:
+      here: # unknown
+        - 48 83.2
+
+    groups:
+      - name: "Decor"
+        range: 6
+        sortKey: "val-2"
+
+      - name: "Weapons"
+        range: -1
+        sortKey: "val-9"
+
+    contents:
+
+      - id: 276432 # De-Powered Lightforged Siegebreaker [decor]
+        costs:
+          3316: 500
+
+      - id: 276429 # Grand Artificer's Lightforged Console [decor]
+        costs:
+          3316: 250
+
+      - id: 276316 # Lightveil's Transport Pad [decor]
+        costs:
+          3316: 250
+
+      - id: 276321 # Luminant Defender's Golden Barricade [decor]
+        costs:
+          3316: 150
+
+      - id: 267211 # Luminant Scout's Golden Fence [decor]
+        costs:
+          3316: 150
+
+      - id: 276318 # Luminant Soldier's War Banner [decor]
+        costs:
+          3316: 150
+
+      - id: 276364 # Arsenal: Lightforged Armaments
+        costs:
+          3316: 15
+
+      - id: 276301 # Lightruned Crystal Beacon [1h ? mace]
+        costs:
+          3405: 60
+          3316: 500
+
+      - id: 276289 # Lightveil Argunite Blade [1h ? sword]
+        costs:
+          3405: 60
+          3316: 500
