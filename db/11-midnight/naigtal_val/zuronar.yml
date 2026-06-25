@@ -5,7 +5,9 @@ things:
     note: "Lightveil Artificer"
 
     locations:
-      here: # unknown
+      11-midnight/naigtal:
+        - 48 83.2
+      11-midnight/val:
         - 48 83.2
 
     groups:

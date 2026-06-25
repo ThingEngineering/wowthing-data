@@ -5,10 +5,10 @@ things:
     note: "The Consortium"
 
     locations:
-      here: # unknown
+      11-midnight/val:
         - 58.9 19.1
 
-    groups:
+    groups: &groups
       - name: "Misc"
         range: 6
         sortKey: "val-1"
@@ -17,7 +17,7 @@ things:
         range: 1
         sortKey: "val-9"
 
-    contents:
+    contents: &contents
 
       - id: 274650 # Netherforged Nullframe [mount]
         costs:
@@ -47,3 +47,15 @@ things:
         costs:
           3405: 60
           3316: 500
+
+  - id: 265559
+    type: "vendor"
+    name: "Kifaan"
+    note: "The Consortium"
+
+    locations:
+      11-midnight/naigtal:
+        - 47.4 81.4
+
+    groups: *groups
+    contents: *contents

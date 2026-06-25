@@ -5,17 +5,35 @@ things:
     note: "Field Gear and Repairs"
 
     locations:
-      here: # unknown
+      11-midnight/naigtal:
+        - 48.4 81.4
+      11-midnight/val:
         - 48.4 81.4
       
     groups:
+      - name: "Cloth"
+        range: 9
+        sortKey: "val-8-1"
+
+      - name: "Leather"
+        range: 9
+        sortKey: "val-8-2"
+
+      - name: "Mail"
+        range: 9
+        sortKey: "val-8-3"
+
+      - name: "Plate"
+        range: 9
+        sortKey: "val-8-4"
+
       - name: "Weapons"
         range: -1
         sortKey: "val-9"
 
     contents:
 
-      # 0
+      # Cloth
 
       - id: 275175 # Response Team's Crown [cloth head]
         costs:
@@ -23,6 +41,11 @@ things:
           3316: 300
 
       - id: 275177 # Response Team's Spires [cloth shoulders]
+        costs:
+          3405: 30
+          3316: 300
+
+      - id: 275170 # Response Team's Shawl [cloak]
         costs:
           3405: 30
           3316: 300
@@ -57,12 +80,19 @@ things:
           3405: 30
           3316: 300
 
+      # Leather
+
       - id: 275183 # Response Team's Mask [leather head]
         costs:
           3405: 30
           3316: 300
 
       - id: 275185 # Response Team's Shoulderpads [leather shoulders]
+        costs:
+          3405: 30
+          3316: 300
+
+      - id: 275171 # Response Team's Drape [cloak]
         costs:
           3405: 30
           3316: 300
@@ -97,12 +127,19 @@ things:
           3405: 30
           3316: 300
 
+      # Mail
+
       - id: 275191 # Response Team's Helmet [mail head]
         costs:
           3405: 30
           3316: 300
 
       - id: 275193 # Response Team's Shoulderguards [mail shoulders]
+        costs:
+          3405: 30
+          3316: 300
+
+      - id: 275168 # Response Team's Cape [cloak]
         costs:
           3405: 30
           3316: 300
@@ -137,12 +174,19 @@ things:
           3405: 30
           3316: 300
 
+      # Plate
+
       - id: 275199 # Response Team's Helm [plate head]
         costs:
           3405: 30
           3316: 300
 
       - id: 275201 # Response Team's Pauldrons [plate shoulders]
+        costs:
+          3405: 30
+          3316: 300
+
+      - id: 275169 # Response Team's Cloak [cloak]
         costs:
           3405: 30
           3316: 300
@@ -177,25 +221,7 @@ things:
           3405: 30
           3316: 300
 
-      - id: 275168 # Response Team's Cape [cloak]
-        costs:
-          3405: 30
-          3316: 300
-
-      - id: 275169 # Response Team's Cloak [cloak]
-        costs:
-          3405: 30
-          3316: 300
-
-      - id: 275171 # Response Team's Drape [cloak]
-        costs:
-          3405: 30
-          3316: 300
-
-      - id: 275170 # Response Team's Shawl [cloak]
-        costs:
-          3405: 30
-          3316: 300
+      # Weapons
 
       - id: 275204 # Response Team's Hatchet [1h ? axe]
         costs:
