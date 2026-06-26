@@ -1,6 +1,17 @@
 name: "Midsummer Fire Festival Quests"
 groups:
 
+- name: "Kill Ahune"
+  icon: "achievement/263"
+  iconText: "Ahune"
+  lookup: none
+  type: quest
+  data:
+    0:
+      - id: 11972
+        name: "Shards of Ahune"
+        description: "Rewards {price:20|1023247}"
+
 - name: "Midnight Flames"
   icon: "achievement/61336"
   iconText: "Mid"
@@ -22,3 +33,23 @@ groups:
 
       - id: 92558
         name: "Voidstorm"
+
+- name: "Khaz Algar Flames"
+  icon: "achievement/61336"
+  iconText: "TWW"
+  lookup: none
+  type: quest
+  data:
+    0:
+
+      - id: 87342
+        name: "Isle of Dawn"
+
+      - id: 87357
+        name: "The Ringing Deeps"
+
+      - id: 87355
+        name: "Hallowfall"
+
+      - id: 87356
+        name: "Azj-Kahet"
