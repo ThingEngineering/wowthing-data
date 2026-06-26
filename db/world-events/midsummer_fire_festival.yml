@@ -60,39 +60,39 @@ things:
 
       - id: 34686 # Brazier of Dancing Flames
         costs:
-          1023247: 350
+          1023247: 300
 
       - id: 116440 # Burning Defender's Medallion
         costs:
-          1023247: 500
+          1023247: 300
 
       - id: 116435 # Cozy Bonfire
         costs:
-          1023247: 350
+          1023247: 300
 
       - id: 166746 # Fire Eater's Hearthstone
         costs:
           1023247: 300
 
-      - id: 188701 # Fire Festival Batons
-        costs:
-          1023247: 50
-
       - id: 206038 # Flamin' Ring of Flashiness
         costs:
-          1023247: 500
+          1023247: 300
+
+      - id: 141649 # Set of Matches
+        costs:
+          1023247: 300
+
+      - id: 188695 # Summer Cranial Skillet
+        costs:
+          1023247: 150
 
       - id: 188699 # Insulated Dancing Insoles
         costs:
           1023247: 100
 
-      - id: 141649 # Set of Matches
+      - id: 188701 # Fire Festival Batons
         costs:
-          1023247: 500
-
-      - id: 188695 # Summer Cranial Skillet
-        costs:
-          1023247: 150
+          1023247: 50
 
       # Misc
 
@@ -104,39 +104,39 @@ things:
 
       - id: 74278 # Helm of the Fire Festival [subclass=5 head]
         costs:
-          1023247: 350
+          1023247: 50
 
       - id: 23324 # Mantle of the Fire Festival [subclass=5 shoulders]
         costs:
-          1023247: 100
+          1023247: 50
 
       - id: 220787 # Mantle of Midsummer [subclass=5 back]
         costs:
-          1023247: 350
+          1023247: 150
 
       - id: 34685 # Vestment of Summer [subclass=5 chest]
         costs:
-          1023247: 100
+          1023247: 50
 
       - id: 34683 # Sandals of Summer [subclass=5 feet]
         costs:
-          1023247: 200
+          1023247: 50
 
       - id: 242740 # Grand Helm of the Fire Festival [subclass=5 head]
         costs:
-          1023247: 350
+          1023247: 100
 
       - id: 242741 # Grand Mantle of the Fire Festival [subclass=5 shoulders]
         costs:
-          1023247: 350
+          1023247: 150
 
       - id: 242742 # Grand Belt of the Fire Festival [subclass=5 waist]
         costs:
-          1023247: 150
+          1023247: 75
 
       - id: 220785 # Midsummer Safeguard [shield]
         costs:
-          1023247: 350
+          1023247: 150
 
       - id: 275461 # Ensemble: Sun Festival's Flame Totems
         costs:
