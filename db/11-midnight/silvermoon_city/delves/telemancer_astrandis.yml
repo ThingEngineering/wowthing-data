@@ -1,0 +1,65 @@
+things:
+  - id: 242399
+    type: "vendor"
+    name: "Telemancer Astrandis"
+    note: "Delve Treasures"
+
+    locations:
+      here: # silvermoon_city
+        - 52.4 78.6
+
+    groups:
+
+      - name: "Delves - Misc"
+        range: 4
+        sortKey: "delves-1"
+
+      - name: "Delves - Decor"
+        range: -1
+        sortKey: "delves-2"
+
+    contents:
+
+      - id: 262500 # Silvermoon's Arcane Defender [mount]
+        costs:
+          3316: 10
+
+      - id: 265100 # Corewarden's Hearthstone [toy]
+        costs:
+          3316: 10
+
+      - id: 264414 # Midnight Delver's Flare Gun [toy]
+        costs:
+          3316: 10
+
+      - id: 262951 # Sin'dorei Gravestone [weird delve thing]
+        costs:
+          3316: 10
+
+      - id: 264175 # Amani Strongbox [decor]
+        costs:
+          3316: 250
+
+      - id: 264170 # Ancient Kaldorei Coffer [decor]
+        costs:
+          3316: 250
+
+      - id: 264007 # Corewarden's Spoils [decor]
+        costs:
+          3316: 250
+
+      - id: 263995 # Delver's Bountiful Coffer [decor]
+        costs:
+          3316: 250
+
+      - id: 263994 # Fungal Chest [decor]
+        costs:
+          3316: 250
+
+      - id: 264008 # Root-Wrapped Reliquary [decor]
+        costs:
+          3316: 250
+
+      - id: 263996 # Twilight Tabernacle [decor]
+        costs:
+          3316: 250

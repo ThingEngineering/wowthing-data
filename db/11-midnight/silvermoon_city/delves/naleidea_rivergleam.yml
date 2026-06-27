@@ -1,0 +1,85 @@
+things:
+  - id: 242398
+    type: "vendor"
+    name: "Naleidea Rivergleam"
+    note: "Delve Treasures"
+
+    locations:
+      here: # silvermoon_city
+        - 52.6 78
+
+    groups:
+
+      - name: "Delves - Misc"
+        range: 5
+        sortKey: "delves-1"
+
+      - name: "Delves - Decor"
+        range: 2
+        sortKey: "delves-2"
+
+      - name: "Delves - Transmog"
+        range: -1
+        sortKey: "delves-3"
+
+    contents:
+
+      - id: 262502 # Elven Arcane Guardian [mount]
+        costs:
+          2803: 10000
+
+      - id: 262393 # Kreepah'zoyd [pet]
+        costs:
+          2803: 10000
+
+      - id: 262431 # Bouncy Mushroom [toy]
+        costs:
+          2803: 5000
+
+      - id: 267291 # Coffer Key Glue [toy]
+        costs:
+          2803: 250
+
+      - id: 262963 # Pious Memorial [weird delve thing]
+        costs:
+          2803: 2000
+
+      - id: 246779 # Hanging Mana Brazier [decor]
+        costs:
+          2803: 500
+
+      - id: 250770 # Silvermoon Privacy Screen [decor]
+        costs:
+          2803: 500
+
+      - id: 264860 # Twilight Magus's Cowl [subclass=5 head]
+        costs:
+          2803: 2500
+
+      - id: 264856 # Vilebranch Lifeseer [subclass=5 head]
+        costs:
+          2803: 2000
+
+      - id: 264853 # Gilded Twilight Spaulder [subclass=5 shoulders]
+        costs:
+          2803: 2500
+
+      - id: 264849 # Dewy Vinepouch [subclass=5 back]
+        costs:
+          2803: 2500
+
+      - id: 262984 # Reliquary Expedition Bag [cloak]
+        costs:
+          2803: 2500
+
+      - id: 262989 # Focusight Relic Mace [1h ? mace]
+        costs:
+          2803: 2500
+
+      - id: 262973 # Reliquary Expedition Notes [off-hand]
+        costs:
+          2803: 2500
+
+      - id: 262990 # Sin'dorei Arcane Manuscript [off-hand]
+        costs:
+          2803: 2500
