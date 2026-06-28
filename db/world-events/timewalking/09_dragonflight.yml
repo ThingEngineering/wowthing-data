@@ -1,0 +1,242 @@
+tags:
+  - "expansion:9"
+  - "expansion:dragonflight"
+
+things:
+  - id: 255019
+    type: "vendor"
+    name: "Xydan"
+    note: "Timewalking Vendor"
+
+    locations:
+      "09-dragonfight/valdrakken":
+        - 81.4 47
+
+    groups:
+      - name: "DF TW - Misc"
+        range: 13
+        sortKey: "z-tw-09-0"
+
+      - name: "DF TW - Dragonriding"
+        range: 4
+        sortKey: "z-tw-09-1"
+
+      - name: "DF TW - Ensembles"
+        range: 8
+        sortKey: "z-tw-09-2"
+
+      - name: "DF TW - Armor"
+        range: 10
+        sortKey: "z-tw-09-3"
+
+      - name: "DF TW - Weapons"
+        range: 10
+        sortKey: "z-tw-09-4"
+
+      - name: "DF TW - $$$ Weapons"
+        range: -1
+        sortKey: "z-tw-09-5"
+
+    contents:
+
+      - id: 210140 # Black-Furred Bakar [mount]
+        costs:
+          1166: 5000
+
+      - id: 257513 # Bronze Aquilon Harness [mount]
+        costs:
+          1166: 5000
+
+      - id: 257514 # Bronze Corpsefly Harness [mount]
+        costs:
+          1166: 5000
+
+      - id: 257516 # Bronze Gravewing Harness [mount]
+        costs:
+          1166: 5000
+
+      - id: 257511 # Bronze Wilderling Harness [mount]
+        costs:
+          1166: 5000
+
+      - id: 238739 # Chrono Corsair [mount]
+        costs:
+          1166: 5000
+
+      - id: 192778 # Liquid Hot Magma Slug [mount]
+        costs:
+          1166: 5000
+
+      - id: 205208 # Sandy Shalewing [mount]
+        costs:
+          1166: 5000
+
+      - id: 232624 # Timely Buzzbee [mount]
+        costs:
+          1166: 5000
+
+      - id: 260885 # Shadowflame Remnant [pet]
+        costs:
+          1166: 2200
+
+      - id: 259899 # Ashen Horn of the Fallen Keeper [toy]
+        costs:
+          1166: 750
+
+      - id: 260170 # Oathstone Fragment [toy]
+        costs:
+          1166: 500
+
+      - id: 259335 # Photo Finisher [toy]
+        costs:
+          1166: 1000
+
+      # Dragonriding
+
+      - id: 196993 # Cliffside Wylderdrake: Sleek Horns
+        costs:
+          1166: 1000
+
+      - id: 210478 # Flourishing Whimsydrake: Gold and Pink Armor
+        costs:
+          1166: 1000
+
+      - id: 207757 # Grotto Netherwing Drake: Purple and Silver Armor
+        costs:
+          1166: 1000
+
+      - id: 207777 # Grotto Netherwing Drake: Yellow Scales
+        costs:
+          1166: 1000
+
+      # 0
+
+      - id: 260926 # Ensemble: Shadowflame-Seared Druidic Garb
+        costs:
+          1166: 4000
+
+      - id: 260899 # Ensemble: Time-Lost Earthwarden's Battlegear
+        costs:
+          1166: 2500
+
+      - id: 260941 # Ensemble: Winter's Dreaming Garb
+        costs:
+          1166: 2000
+
+      - id: 260944 # Ensemble: Pristine Draconic Scholar's Finery
+        costs:
+          1166: 2000
+
+      - id: 260946 # Ensemble: Dragonstone Shoulderguards
+        costs:
+          1166: 2000
+
+      - id: 260945 # Ensemble: Razorscale Pauldrons
+        costs:
+          1166: 2000
+
+      - id: 260915 # Arsenal: Found Plunder Key
+        costs:
+          1166: 1200
+
+      - id: 260914 # Arsenal: Lost Plunder Key
+        costs:
+          1166: 1200
+
+      # Armor
+
+      - id: 260920 # Emergency Landing Kit [subclass=5 back]
+        costs:
+          1166: 600
+
+      - id: 260919 # Scavenger's Banner [subclass=5 back]
+        costs:
+          1166: 600
+
+      - id: 262379 # Chronomental Halfgloves [cloth hands]
+        costs:
+          1166: 25
+
+      - id: 262383 # Ohn'ir Initiate Leggings [cloth legs]
+        costs:
+          1166: 25
+
+      - id: 262378 # Chronomental Grips [leather hands]
+        costs:
+          1166: 25
+
+      - id: 262382 # Teerai Watcher Breeches [leather legs]
+        costs:
+          1166: 25
+
+      - id: 262381 # Chronomental Gloves [mail hands]
+        costs:
+          1166: 25
+
+      - id: 262384 # Shikaar Scout Breeches [mail legs]
+        costs:
+          1166: 25
+
+      - id: 262380 # Chronomental Gauntlets [plate hands]
+        costs:
+          1166: 25
+
+      - id: 262385 # Nokhud Reaver Legplates [plate legs]
+        costs:
+          1166: 25
+
+      # Weapons
+
+      - id: 262363 # Expeditioner's Mallet [1h ? mace]
+        costs:
+          1166: 50
+
+      - id: 262362 # Expeditioner's Spellblade [1h ? sword]
+        costs:
+          1166: 50
+
+      - id: 262364 # Drakonid Stabber [? dagger]
+        costs:
+          1166: 50
+
+      - id: 262368 # Centaur Battleglaive [warglaive]
+        costs:
+          1166: 50
+
+      - id: 262361 # Rothide Crusher [2h ? mace]
+        costs:
+          1166: 100
+
+      - id: 262359 # Djaradin Sparring Spear [polearm]
+        costs:
+          1166: 100
+
+      - id: 262366 # Headmaster's Emberstaff [staff]
+        costs:
+          1166: 100
+
+      - id: 262365 # Maruuk Hunting Bow [bow]
+        costs:
+          1166: 100
+
+      - id: 262360 # Storyteller's Verses [off-hand]
+        costs:
+          1166: 35
+
+      - id: 262367 # Slumbering Guardian's Bulwark [shield]
+        costs:
+          1166: 35
+
+      # $$$ Weapons
+
+      - id: 260917 # Infinite Broodkeeper's Greatstaff [staff]
+        costs:
+          1166: 1500
+
+      - id: 260921 # Khan's Ceremonial Crossbow [crossbow]
+        costs:
+          1166: 1500
+
+      - id: 260923 # Infinite Timeslicer [1h ? sword]
+        costs:
+          1166: 1000
