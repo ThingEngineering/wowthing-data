@@ -196,15 +196,16 @@ pvp/_pvp.yml
     pvp/00_classic.yml
 
 timewalking.yml
-    00-classic/timewalking.yml Classic
-    01-the-burning-crusade/timewalking.yml Burning Crusade
-    02-wrath-of-the-lich-king/dalaran/timewalking.yml Wrath of the Lich King
-    03-cataclysm/timewalking.yml Cataclysm
-    04-mists-of-pandaria/timewalking.yml Mists of Pandaria
-    05-warlords-of-draenor/timewalking.yml Warlords of Draenor
-    06-legion/timewalking.yml Legion
-    07-battle-for-azeroth/timewalking.yml Battle for Azeroth
+    09-dragonflight/timewalking.yml Dragonflight
     08-shadowlands/timewalking.yml Shadowlands
+    07-battle-for-azeroth/timewalking.yml Battle for Azeroth
+    06-legion/timewalking.yml Legion
+    05-warlords-of-draenor/timewalking.yml Warlords of Draenor
+    04-mists-of-pandaria/timewalking.yml Mists of Pandaria
+    03-cataclysm/timewalking.yml Cataclysm
+    02-wrath-of-the-lich-king/dalaran/timewalking.yml Wrath of the Lich King
+    01-the-burning-crusade/timewalking.yml Burning Crusade
+    00-classic/timewalking.yml Classic
 
 world-events/_world_events.yml
     world-events/brewfest.yml
