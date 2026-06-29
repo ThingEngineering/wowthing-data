@@ -17,7 +17,7 @@ things:
 
       - name: "Weapons"
         range: -1
-        sortKey: "val-9"
+        sortKey: "val-6"
 
     contents:
 

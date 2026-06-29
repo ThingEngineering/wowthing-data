@@ -15,7 +15,19 @@ things:
       
       - name: "Weapons"
         range: 1
-        sortKey: "val-9"
+        sortKey: "val-6"
+      
+      - name: "Bulging Ethereal Pack"
+        range: 13
+        sortKey: "val-9-2"
+        bonusIds:
+          - 999999 # RNG
+      
+      - name: "Bulging Winter Pack"
+        range: 9
+        sortKey: "val-9-1"
+        bonusIds:
+          - 999999 # RNG
 
     contents: &contents
 
@@ -47,6 +59,98 @@ things:
         costs:
           3405: 60
           3316: 500
+
+      # Bulging Ethereal Pack
+
+      - id: 274877 # Phaseblade Headsplitter [1h axe]
+        costs:
+          3316: 250
+
+      - id: 274884 # Arcanografter's Beacon [stave]
+        costs:
+          3316: 250
+
+      - id: 274880 # Hal'hadar Adjutant's Gavel [1h mace]
+        costs:
+          3316: 250
+
+      - id: 274879 # Mana-Amplified Crusher [1h mace]
+        costs:
+          3316: 250
+
+      - id: 274889 # Hal'hadar Darkblade's Edge [1h sword]
+        costs:
+          3316: 250
+
+      - id: 274878 # Hal'hadar Shadowripper's Blade [dagger]
+        costs:
+          3316: 250
+
+      - id: 274888 # Hal'hadar Legion Glaives [warglaive]
+        costs:
+          3316: 250
+
+      - id: 274885 # Phase-Edged Falchion [2h sword]
+        costs:
+          3316: 250
+
+      - id: 274883 # Hal'hadar Warpguard's Poleaxe [polearm]
+        costs:
+          3316: 250
+
+      - id: 274882 # Hal'hadar Pulse Rifle [gun]
+        costs:
+          3316: 250
+
+      - id: 274881 # Phase Igniter [wand]
+        costs:
+          3316: 250
+
+      - id: 274886 # Eradicator's Censer [off-hand]
+        costs:
+          3316: 250
+
+      - id: 274887 # Mana-Overloaded Bulwark [shield]
+        costs:
+          3316: 250
+
+      # Bulging Winter Pack
+
+      - id: 249755 # Void-Touched Winter Hood [head]
+        costs:
+          3316: 250
+
+      - id: 249756 # Void-Touched Winter Pauldrons [shoulder]
+        costs:
+          3316: 250
+
+      - id: 249864 # Void-Touched Winter Spaulders [shoulder]
+        costs:
+          3316: 250
+
+      - id: 249762 # Void-Touched Winter Cloak [back]
+        costs:
+          3316: 250
+
+      - id: 249757 # Void-Touched Winter Tunic [chest]
+        costs:
+          3316: 250
+
+      - id: 249761 # Void-Touched Winter Gloves [hands]
+        costs:
+          3316: 250
+
+      - id: 249758 # Void-Touched Winter Belt [waist]
+        costs:
+          3316: 250
+
+      - id: 249759 # Void-Touched Winter Leggings [legs]
+        costs:
+          3316: 250
+
+      - id: 249760 # Void-Touched Winter Boots [feet]
+        costs:
+          3316: 250
 
   - id: 265559
     type: "vendor"
