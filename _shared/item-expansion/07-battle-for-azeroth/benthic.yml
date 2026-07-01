@@ -1,0 +1,114 @@
+# Nazjatar Benthic armor
+169478: # Benthic Bracers
+  - 170121 # Azsh'iri Stormsurger Armwraps
+  - 170105 # Azsh'iri Stormsurger Bindings
+  - 169814 # Azsh'iri Stormsurger Bracers
+  - 167774 # Azsh'iri Stormsurger Vambraces
+  - 169813 # Fathomstalker Armbands
+  - 170104 # Fathomstalker Bindings
+  - 170122 # Fathomstalker Coils
+  - 167766 # Fathomstalker Wristwraps
+  - 170329 # Neri's Chain Manacles
+  - 170328 # Neri's Heavy Manacles
+  - 170330 # Neri's Wavebreaker Bindings
+  - 170331 # Neri's Wavebreaker Cuffs
+  - 170304 # Ori's Tidal Bracers
+  - 170305 # Ori's Tidal Wristwraps
+  - 170103 # Shirakess Armwraps
+  - 170123 # Shirakess Bracelets
+  - 169812 # Shirakess Cuffs
+  - 167758 # Shirakess Wristwraps
+  - 170303 # Waveblade Farseer's Armguards
+  - 170306 # Waveblade Farseer's Bindings
+  - 167783 # Zanj'ir Scaleguard Armguards
+  - 170111 # Zanj'ir Scaleguard Coils
+  - 169815 # Zanj'ir Scaleguard Vambraces
+  - 170106 # Zanj'ir Scaleguard Wristguards
+
+169480: # Benthic Chestguard
+  - 167767 # Azsh'iri Stormsurger Vest
+  - 167759 # Fathomstalker Wraps
+  - 167779 # Shirakess Wraps
+  - 167775 # Zanj'ir Scaleguard Chestplate
+
+169481: # Benthic Cloak
+  - 169489 # Azsh'iri Stormsurger Cape
+  - 169487 # Fathomstalker Cloak
+  - 169486 # Shirakess Drape
+  - 169488 # Zanj'ir Scaleguard Greatcloak
+
+169485: # Benthic Gauntlets
+  - 169792 # Azsh'iri Stormsurger Gloves
+  - 167769 # Azsh'iri Stormsurger Handguards
+  - 170135 # Azsh'iri Stormsurger Handwraps
+  - 169791 # Fathomstalker Gloves
+  - 167761 # Fathomstalker Grips
+  - 170134 # Fathomstalker Handwraps
+  - 170378 # Inowari's Waterdancer Gauntlets
+  - 170376 # Inowari's Waterdancer Grips
+  - 170377 # Inowari's Waterdancer Handguards
+  - 170375 # Inowari's Waterdancer Handwraps
+  - 170333 # Poen's Deepsea Gloves
+  - 170334 # Poen's Deepsea Grips
+  - 170335 # Poen's Deepsea Handgrips
+  - 170336 # Poen's Deepsea Handguards
+  - 169790 # Shirakess Gloves
+  - 170133 # Shirakess Grips
+  - 167753 # Shirakess Handwraps
+  - 167777 # Zanj'ir Scaleguard Crushers
+  - 170136 # Zanj'ir Scaleguard Fists
+  - 169793 # Zanj'ir Scaleguard Gauntlets
+
+169477: # Benthic Girdle
+  - 167773 # Azsh'iri Stormsurger Links
+  - 167765 # Fathomstalker Waistband
+  - 167757 # Shirakess Cinch
+  - 170367 # Vim's Scalecrusher Belt
+  - 170369 # Vim's Scalecrusher Chain
+  - 170368 # Vim's Scalecrusher Clasp
+  - 170370 # Vim's Scalecrusher Girdle
+  - 167782 # Zanj'ir Scaleguard Greatbelt
+
+169479: # Benthic Helm
+  - 167770 # Azsh'iri Stormsurger Helm
+  - 167762 # Fathomstalker Headcover
+  - 167754 # Shirakess Headdress
+  - 167778 # Zanj'ir Scaleguard Faceguard
+
+169482: # Benthic Leggings
+  - 167771 # Azsh'iri Stormsurger Legguards
+  - 169810 # Azsh'iri Stormsurger Legs
+  - 170109 # Azsh'iri Stormsurger Striders
+  - 170108 # Fathomstalker Breeches
+  - 169809 # Fathomstalker Leggings
+  - 167763 # Fathomstalker Legwraps
+  - 167755 # Shirakess Leggings
+  - 169808 # Shirakess Legwraps
+  - 170107 # Shirakess Pants
+  - 169811 # Zanj'ir Scaleguard Legguards
+  - 170110 # Zanj'ir Scaleguard Legplates
+  - 167780 # Zanj'ir Scaleguard Wargreaves
+
+169484: # Benthic Spaulders
+  - 167772 # Azsh'iri Stormsurger Shoulderguards
+  - 167764 # Fathomstalker Shoulderpads
+  - 167756 # Shirakess Mantle
+  - 167781 # Zanj'ir Scaleguard Shoulderplates
+
+169483: # Benthic Treads
+  - 170143 # Akana's Reefstrider Boots
+  - 170141 # Akana's Reefstrider Footwraps
+  - 170140 # Akana's Reefstrider Soles
+  - 170142 # Akana's Reefstrider Treads
+  - 169892 # Azsh'iri Stormsurger Boots
+  - 170373 # Azsh'iri Stormsurger Striders
+  - 167768 # Azsh'iri Stormsurger Treads
+  - 169893 # Fathomstalker Boots
+  - 167760 # Fathomstalker Footpads
+  - 170372 # Fathomstalker Footwraps
+  - 167752 # Shirakess Footwraps
+  - 169894 # Shirakess Sandals
+  - 170371 # Shirakess Slippers
+  - 167776 # Zanj'ir Scaleguard Stompers
+  - 170374 # Zanj'ir Scaleguard Waders
+  - 169891 # Zanj'ir Scaleguard Warboots
