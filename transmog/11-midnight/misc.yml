@@ -709,6 +709,7 @@ groups:
   sets:
     - "Naigtal/Val Winter Armor"
     - "Naigtal/Val Ethereal Weapons"
+    - "Naigtal/Val BoEs"
   data:
     all:
       # Void-Touched Winter Collection [Purple]
@@ -717,19 +718,32 @@ groups:
 
       - name: "Naigtal/Val Ethereal Weapons"
         itemsV2:
-          - 274884 # Arcanografter's Beacon
-          - 274886 # Eradicator's Censer
-          - 274880 # Hal'hadar Adjutant's Gavel
-          - 274889 # Hal'hadar Darkblade's Edge
-          - 274888 # Hal'hadar Legion Glaives
-          - 274882 # Hal'hadar Pulse Rifle
-          - 274878 # Hal'hadar Shadowripper's Blade
-          - 274883 # Hal'hadar Warpguard's Poleaxe
-          - 274879 # Mana-Amplified Crusher
-          - 274887 # Mana-Overloaded Bulwark
-          - 274881 # Phase Igniter
-          - 274885 # Phase-Edged Falchion
-          - 274877 # Phaseblade Headsplitter
+          - 274877 # Phaseblade Headsplitter [1h axe]
+          - 274880 # Hal'hadar Adjutant's Gavel [1h mace]
+          - 274879 # Mana-Amplified Crusher [1h mace]
+          - 274889 # Hal'hadar Darkblade's Edge [1h sword]
+          - 274878 # Hal'hadar Shadowripper's Blade [dagger]
+          - 274888 # Hal'hadar Legion Glaives [warglaive]
+          - 274885 # Phase-Edged Falchion [2h sword]
+          - 274883 # Hal'hadar Warpguard's Poleaxe [polearm]
+          - 274884 # Arcanografter's Beacon [stave]
+          - 274882 # Hal'hadar Pulse Rifle [gun]
+          - 274881 # Phase Igniter [wand]
+          - 274886 # Eradicator's Censer [off-hand]
+          - 274887 # Mana-Overloaded Bulwark [shield]
+      
+      - name: "Naigtal/Val BoEs"
+        itemsV2:
+          - 276302 # Taalvilor Crystalsmith's Mace [1h mace]
+          - 276299 # Umbralwarden's Soul Gavel [1h mace]
+          - 276300 # Vilaldoun Anchorite's Scepter [1h mace]
+          - 276285 # Elonath's Defender's Sword [1h sword]
+          - 276288 # Forgotten Sword of Vilaldoun [1h sword]
+          - 276298 # Forgotten Fel-Shard Talon [dagger]
+          - 276296 # Soltian Wrangler's Grip [fist]
+          - 276303 # Blessed Blade of Taalvilor [2h sword]
+          - 276330 # Taken Riftwalker's Starbarb [polearm]
+          - 276292 # Ancient Anchorite's Beacon [off-hand]
 
 - name: "Crafted Armor"
   type: armor
