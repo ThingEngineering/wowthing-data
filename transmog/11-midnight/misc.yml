@@ -146,84 +146,6 @@ groups:
           - 259965 # Preyseeker's Lantern [off-hand]
           - 259966 # Preyseeker's Tower Shield [shield]
 
-- name: "Void Assaults"
-  type: armor
-  sets:
-    - "Leveling Armor"
-  data:
-    cloth:
-      - name: "Ranger Recruit's Cloth"
-        itemsV2:
-          - 270944 # Ranger Recruit's Crown [head]
-          - 270953 # Ranger Recruit's Mantle [shoulders]
-          - 270966 # Ranger Recruit's Cloak [back]
-          - 270936 # Ranger Recruit's Robes [chest]
-          - 270959 # Ranger Recruit's Cuffs [wrists]
-          - 270942 # Ranger Recruit's Mitts [hands]
-          - 270956 # Ranger Recruit's Sash [waist]
-          - 270948 # Ranger Recruit's Pants [legs]
-          - 270968 # Ranger Recruit's Slippers [feet]
-
-    leather:
-      - name: "Ranger Recruit's Leather"
-        itemsV2:
-          - 270946 # Ranger Recruit's Hood [head]
-          - 270951 # Ranger Recruit's Shoulderpads [shoulders]
-          - 270939 # Ranger Recruit's Jerkin [chest]
-          - 270962 # Ranger Recruit's Wraps [wrists]
-          - 270940 # Ranger Recruit's Gloves [hands]
-          - 270958 # Ranger Recruit's Belt [waist]
-          - 270950 # Ranger Recruit's Tights [legs]
-          - 270970 # Ranger Recruit's Treads [feet]
-
-    mail:
-      - name: "Ranger Recruit's Mail"
-        itemsV2:
-          - 270945 # Ranger Recruit's Helmet [head]
-          - 270954 # Ranger Recruit's Spaulders [shoulders]
-          - 270938 # Ranger Recruit's Chainmail [chest]
-          - 270961 # Ranger Recruit's Wristguards [wrists]
-          - 270943 # Ranger Recruit's Grips [hands]
-          - 270957 # Ranger Recruit's Waistguard [waist]
-          - 270949 # Ranger Recruit's Breeches [legs]
-          - 270969 # Ranger Recruit's Boots [feet]
-
-    plate:
-      - name: "Ranger Recruit's Plate"
-        itemsV2:
-          - 270967 # Ranger Recruit's Helm [head]
-          - 270952 # Ranger Recruit's Pauldrons [shoulders]
-          - 270937 # Ranger Recruit's Breastplate [chest]
-          - 270960 # Ranger Recruit's Vambraces [wrists]
-          - 270941 # Ranger Recruit's Gauntlets [hands]
-          - 270955 # Ranger Recruit's Girdle [waist]
-          - 270947 # Ranger Recruit's Legguards [legs]
-          - 270935 # Ranger Recruit's Sabatons [feet]
-
-- name: "Void Assaults"
-  type: all
-  sets:
-    - "Leveling Weapons"
-  data:
-    all:
-      - name: "Leveling Weapons"
-        itemsV2:
-          - 270985 # Ranger Recruit's Cleaver [1h axe]
-          - 270973 # Ranger Recruit's Skullcracker [1h mace]
-          - 270975 # Ranger Recruit's Acolyte's Blade [1h sword]
-          - 270972 # Ranger Recruit's Mace [1h mace]
-          - 270974 # Ranger Recruit's Blade [1h sword]
-          - 270971 # Ranger Recruit's Spellblade [dagger]
-          - 270982 # Ranger Recruit's Stiletto [dagger]
-          - 270976 # Ranger Recruit's Glaive [warglaive]
-          - 270977 # Ranger Recruit's Polearm [polearm]
-          - 270983 # Ranger Recruit's Battle Stave [stave]
-          - 270984 # Ranger Recruit's Staff [stave]
-          - 270979 # Ranger Recruit's Longbow [bow]
-          - 270980 # Ranger Recruit's Wand [wand]
-          - 270981 # Ranger Recruit's Fetish [off-hand]
-          - 270978 # Ranger Recruit's Shield [shield]
-
 # group 380
 - name: "Void Assaults"
   type: class
@@ -635,6 +557,84 @@ groups:
           - 263959 # Void-Touched Tome []
 
 - name: "Void Assaults"
+  type: armor
+  sets:
+    - "Leveling Armor"
+  data:
+    cloth:
+      - name: "Ranger Recruit's Cloth"
+        itemsV2:
+          - 270944 # Ranger Recruit's Crown [head]
+          - 270953 # Ranger Recruit's Mantle [shoulders]
+          - 270966 # Ranger Recruit's Cloak [back]
+          - 270936 # Ranger Recruit's Robes [chest]
+          - 270959 # Ranger Recruit's Cuffs [wrists]
+          - 270942 # Ranger Recruit's Mitts [hands]
+          - 270956 # Ranger Recruit's Sash [waist]
+          - 270948 # Ranger Recruit's Pants [legs]
+          - 270968 # Ranger Recruit's Slippers [feet]
+
+    leather:
+      - name: "Ranger Recruit's Leather"
+        itemsV2:
+          - 270946 # Ranger Recruit's Hood [head]
+          - 270951 # Ranger Recruit's Shoulderpads [shoulders]
+          - 270939 # Ranger Recruit's Jerkin [chest]
+          - 270962 # Ranger Recruit's Wraps [wrists]
+          - 270940 # Ranger Recruit's Gloves [hands]
+          - 270958 # Ranger Recruit's Belt [waist]
+          - 270950 # Ranger Recruit's Tights [legs]
+          - 270970 # Ranger Recruit's Treads [feet]
+
+    mail:
+      - name: "Ranger Recruit's Mail"
+        itemsV2:
+          - 270945 # Ranger Recruit's Helmet [head]
+          - 270954 # Ranger Recruit's Spaulders [shoulders]
+          - 270938 # Ranger Recruit's Chainmail [chest]
+          - 270961 # Ranger Recruit's Wristguards [wrists]
+          - 270943 # Ranger Recruit's Grips [hands]
+          - 270957 # Ranger Recruit's Waistguard [waist]
+          - 270949 # Ranger Recruit's Breeches [legs]
+          - 270969 # Ranger Recruit's Boots [feet]
+
+    plate:
+      - name: "Ranger Recruit's Plate"
+        itemsV2:
+          - 270967 # Ranger Recruit's Helm [head]
+          - 270952 # Ranger Recruit's Pauldrons [shoulders]
+          - 270937 # Ranger Recruit's Breastplate [chest]
+          - 270960 # Ranger Recruit's Vambraces [wrists]
+          - 270941 # Ranger Recruit's Gauntlets [hands]
+          - 270955 # Ranger Recruit's Girdle [waist]
+          - 270947 # Ranger Recruit's Legguards [legs]
+          - 270935 # Ranger Recruit's Sabatons [feet]
+
+- name: "Void Assaults"
+  type: all
+  sets:
+    - "Leveling Weapons"
+  data:
+    all:
+      - name: "Leveling Weapons"
+        itemsV2:
+          - 270985 # Ranger Recruit's Cleaver [1h axe]
+          - 270973 # Ranger Recruit's Skullcracker [1h mace]
+          - 270975 # Ranger Recruit's Acolyte's Blade [1h sword]
+          - 270972 # Ranger Recruit's Mace [1h mace]
+          - 270974 # Ranger Recruit's Blade [1h sword]
+          - 270971 # Ranger Recruit's Spellblade [dagger]
+          - 270982 # Ranger Recruit's Stiletto [dagger]
+          - 270976 # Ranger Recruit's Glaive [warglaive]
+          - 270977 # Ranger Recruit's Polearm [polearm]
+          - 270983 # Ranger Recruit's Battle Stave [stave]
+          - 270984 # Ranger Recruit's Staff [stave]
+          - 270979 # Ranger Recruit's Longbow [bow]
+          - 270980 # Ranger Recruit's Wand [wand]
+          - 270981 # Ranger Recruit's Fetish [off-hand]
+          - 270978 # Ranger Recruit's Shield [shield]
+
+- name: "Void Assaults"
   type: all
   sets:
     - "Bag Cosmetics"
@@ -703,6 +703,33 @@ groups:
           - 270996 # Hex-Horn Buckler [shield]
           - 270991 # Sunfury Great Bulwark [shield]
           - 270993 # Twilight Blade Barrier [shield]
+
+- name: "Void Assaults"
+  type: all
+  sets:
+    - "Naigtal/Val Winter Armor"
+    - "Naigtal/Val Ethereal Weapons"
+  data:
+    all:
+      # Void-Touched Winter Collection [Purple]
+      - transmogSetId: 5241
+        wowheadSetId:
+
+      - name: "Naigtal/Val Ethereal Weapons"
+        itemsV2:
+          - 274884 # Arcanografter's Beacon
+          - 274886 # Eradicator's Censer
+          - 274880 # Hal'hadar Adjutant's Gavel
+          - 274889 # Hal'hadar Darkblade's Edge
+          - 274888 # Hal'hadar Legion Glaives
+          - 274882 # Hal'hadar Pulse Rifle
+          - 274878 # Hal'hadar Shadowripper's Blade
+          - 274883 # Hal'hadar Warpguard's Poleaxe
+          - 274879 # Mana-Amplified Crusher
+          - 274887 # Mana-Overloaded Bulwark
+          - 274881 # Phase Igniter
+          - 274885 # Phase-Edged Falchion
+          - 274877 # Phaseblade Headsplitter
 
 - name: "Crafted Armor"
   type: armor
