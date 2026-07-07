@@ -1,0 +1,5 @@
+name: "PvP"
+vendorMaps:
+  - "09-dragonflight/valdrakken"
+vendorTags:
+  - "type:pvp"
