@@ -704,14 +704,86 @@ groups:
           - 270991 # Sunfury Great Bulwark [shield]
           - 270993 # Twilight Blade Barrier [shield]
 
-- name: "Void Assaults"
+- name: "Void Assaults - Naigtal/Val"
+  type: armor
+  sets:
+    - "Response Team Armor"
+  data:
+    cloth:
+      - name: "Response Team's Cloth"
+        itemsV2:
+          - 275175 # Response Team's Crown [head]
+          - 275177 # Response Team's Spires [shoulders]
+          - 275170 # Response Team's Shawl [back]
+          - 275172 # Response Team's Vestments [chest]
+          - 275179 # Response Team's Cuffs [wrists]
+          - 275174 # Response Team's Gloves [hands]
+          - 275178 # Response Team's Cord [waist]
+          - 275176 # Response Team's Tights [legs]
+          - 275173 # Response Team's Slippers [feet]
+
+    leather:
+      - name: "Response Team's Leather"
+        itemsV2:
+          - 275183 # Response Team's Mask [head]
+          - 275185 # Response Team's Shoulderpads [shoulders]
+          - 275171 # Response Team's Drape [back]
+          - 275180 # Response Team's Jerkin [chest]
+          - 275187 # Response Team's Bindings [wrists]
+          - 275182 # Response Team's Handguards [hands]
+          - 275186 # Response Team's Belt [waist]
+          - 275184 # Response Team's Trousers [legs]
+          - 275181 # Response Team's Boots [feet]
+
+    mail:
+      - name: "Response Team's Mail"
+        itemsV2:
+          - 275191 # Response Team's Helmet [head]
+          - 275193 # Response Team's Shoulderguards [shoulders]
+          - 275168 # Response Team's Cape [back]
+          - 275188 # Response Team's Hauberk [chest]
+          - 275195 # Response Team's Bands [wrists]
+          - 275190 # Response Team's Grips [hands]
+          - 275194 # Response Team's Clasp [waist]
+          - 275192 # Response Team's Legguards [legs]
+          - 275189 # Response Team's Sabatons [feet]
+
+    plate:
+      - name: "Response Team's Plate"
+        itemsV2:
+          - 275199 # Response Team's Helm [head]
+          - 275201 # Response Team's Pauldrons [shoulders]
+          - 275169 # Response Team's Cloak [back]
+          - 275196 # Response Team's Chestplate [chest]
+          - 275203 # Response Team's Vambraces [wrists]
+          - 275198 # Response Team's Gauntlets [hands]
+          - 275202 # Response Team's Girdle [waist]
+          - 275200 # Response Team's Legplates [legs]
+          - 275197 # Response Team's Greatboots [feet]
+
+- name: "Void Assaults - Naigtal/Val"
   type: all
   sets:
-    - "Naigtal/Val Winter Armor"
-    - "Naigtal/Val Ethereal Weapons"
-    - "Naigtal/Val BoEs"
+    - "Response Team Weapons"
+    - ":random: Winter Armor"
+    - ":random: Ethereal Weapons"
+    - "Misc BoEs"
   data:
     all:
+      - name: "Response Team Weapons"
+        itemsV2:
+        - 275212 # Response Team's Falchion
+        - 275206 # Response Team's Hammer
+        - 275204 # Response Team's Hatchet
+        - 275205 # Response Team's Kukri
+        - 275213 # Response Team's Lantern
+        - 275209 # Response Team's Longbow
+        - 275207 # Response Team's Longsword
+        - 275210 # Response Team's Spear
+        - 275211 # Response Team's Spire
+        - 275214 # Response Team's Tower Shield
+        - 275208 # Response Team's Warglaive
+
       # Void-Touched Winter Collection [Purple]
       - transmogSetId: 5241
         wowheadSetId:
