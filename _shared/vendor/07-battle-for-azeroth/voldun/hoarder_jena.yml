@@ -1,7 +1,7 @@
 id: 135804
 name: "Hoarder Jena"
 locations:
-  z7_voldun:
+  07-battle-for-azeroth/voldun:
     - 56.6 49.8 horde
 tags:
   - "voldunai"

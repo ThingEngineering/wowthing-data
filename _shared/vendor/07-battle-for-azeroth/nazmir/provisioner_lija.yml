@@ -1,7 +1,7 @@
 id: 135459
 name: "Provisioner Lija"
 locations:
-  z7_nazmir:
+  07-battle-for-azeroth/nazmir:
     - 39.0 79.4 horde
 sells:
   - type: mount

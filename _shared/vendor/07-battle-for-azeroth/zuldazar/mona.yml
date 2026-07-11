@@ -1,7 +1,7 @@
 id: 136219
 name: "Mona"
 locations:
-  z7_zuldazar:
+  07-battle-for-azeroth/zuldazar:
     - 71.4 27.6
 sells:
   - type: pet

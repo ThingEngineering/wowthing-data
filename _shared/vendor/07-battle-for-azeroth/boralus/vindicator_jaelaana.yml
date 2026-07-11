@@ -1,7 +1,7 @@
 id: 135446
 name: "Vindicator Jaelaana"
 locations:
-  z7_boralus:
+  07-battle-for-azeroth/boralus:
     - 69.6 18.2 alliance
 sells:
   - type: pet

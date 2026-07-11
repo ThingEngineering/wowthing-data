@@ -1,7 +1,7 @@
 id: 136674
 name: "Madeline Netley"
 locations:
-  z7_stormsong_valley:
+  07-battle-for-azeroth/stormsong_valley:
     - 31.6 67.2 alliance
 sells:
   - type: pet

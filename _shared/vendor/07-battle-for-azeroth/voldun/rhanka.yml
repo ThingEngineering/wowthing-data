@@ -2,7 +2,7 @@ id: 129354
 name: "Rhan'ka"
 note: "Complete the Meet the Goldtusk Gang quest chain"
 locations:
-  z7_voldun:
+  07-battle-for-azeroth/voldun:
     - 43.4 60.2 horde
 sells:
   - type: toy

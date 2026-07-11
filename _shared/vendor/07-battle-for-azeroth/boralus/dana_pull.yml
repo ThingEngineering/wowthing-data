@@ -1,7 +1,7 @@
 id: 142065
 name: "Dana Pull"
 locations:
-  z7_boralus:
+  07-battle-for-azeroth/boralus:
     - 51.0 46.2 alliance
 sells:
   - type: pet

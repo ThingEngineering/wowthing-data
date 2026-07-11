@@ -1,0 +1,238 @@
+things:
+  - id: 134345
+    type: "vendor"
+    name: "Collector Kojo"
+    note: "Tortollan Seekers Emissary"
+
+    locations:
+      07-battle-for-azeroth/zuldazar:
+        - 71.4 30.2
+
+    groups: &groups
+      - name: "Tortollan - Misc"
+        range: 1
+        sortKey: "rep-tort-1"
+
+      - name: "Tortollan - Professions"
+        range: 22
+        sortKey: "rep-tort-2"
+
+      - name: "Tortollan - Transmog"
+        range: -1
+        sortKey: "rep-tort-3"
+
+    contents: &contents
+
+      - id: 163513 # Cou'pa [pet]
+        costs:
+          1163036: 200
+        requirements:
+          - "reputation 2163 revered"
+
+      # Professions
+
+      - id: 162136 # Recipe: Endless Tincture of Renewed Combat [alchemy]
+        costs:
+          0: 1400 # Gold
+        requirements:
+          - "reputation 2163 revered"
+
+      - id: 162355 # Recipe: Inked Vessel of Robust Regeneration [alchemy]
+        costs:
+          0: 1200 # Gold
+        requirements:
+          - "reputation 2163 revered"
+
+      - id: 162137 # Recipe: Siren's Alchemist Stone [alchemy]
+        costs:
+          0: 1400 # Gold
+        requirements:
+          - "reputation 2163 revered"
+
+      - id: 162288 # Recipe: Bountiful Captain's Feast [cooking]
+        costs:
+          0: 1100 # Gold
+        requirements:
+          - "reputation 2163 honored"
+
+      - id: 162289 # Recipe: Bountiful Captain's Feast [cooking]
+        costs:
+          0: 1400 # Gold
+        requirements:
+          - "reputation 2163 revered"
+
+      - id: 162287 # Recipe: Galley Banquet [cooking]
+        costs:
+          0: 1400 # Gold
+        requirements:
+          - "reputation 2163 revered"
+
+      - id: 162292 # Recipe: Grilled Catfish [cooking]
+        costs:
+          0: 1400 # Gold
+        requirements:
+          - "reputation 2163 revered"
+
+      - id: 162293 # Recipe: Seasoned Loins [cooking]
+        costs:
+          0: 1400 # Gold
+        requirements:
+          - "reputation 2163 revered"
+
+      - id: 166806 # Recipe: Boralus Blood Sausage [cooking]
+        costs:
+          0: 1520 # Gold
+        requirements:
+          - "reputation 2163 exalted"
+
+      - id: 166263 # Recipe: Sanguinated Feast [cooking]
+        costs:
+          0: 1520 # Gold
+        requirements:
+          - "reputation 2163 exalted"
+
+      - id: 166368 # Recipe: Seasoned Steak and Potatoes [cooking]
+        costs:
+          0: 1520 # Gold
+        requirements:
+          - "reputation 2163 exalted"
+
+      - id: 166367 # Recipe: Wild Berry Bread [cooking]
+        costs:
+          0: 1520 # Gold
+        requirements:
+          - "reputation 2163 exalted"
+
+      - id: 162298 # Formula: Enchant Ring - Seal of Critical Strike [enchanting]
+        costs:
+          0: 1400 # Gold
+        requirements:
+          - "reputation 2163 revered"
+
+      - id: 162301 # Formula: Enchant Ring - Seal of Versatility [enchanting]
+        costs:
+          0: 1400 # Gold
+        requirements:
+          - "reputation 2163 revered"
+
+      - id: 162373 # Technique: Contract: Champions of Azeroth [inscription]
+        costs:
+          0: 1100 # Gold
+        requirements:
+          - "reputation 2163 honored"
+
+      - id: 162371 # Technique: Contract: Tortollan Seekers [inscription]
+        costs:
+          0: 1100 # Gold
+        requirements:
+          - "reputation 2163 honored"
+
+      - id: 162358 # Technique: Codex of the Quiet Mind [inscription]
+        costs:
+          0: 1400 # Gold
+        requirements:
+          - "reputation 2163 revered"
+
+      - id: 162377 # Technique: Darkmoon Card of War [inscription]
+        costs:
+          0: 1400 # Gold
+        requirements:
+          - "reputation 2163 revered"
+
+      - id: 162023 # Technique: Glyph of the Dolphin [inscription]
+        costs:
+          0: 1400 # Gold
+        requirements:
+          - "reputation 2163 revered"
+
+      - id: 162352 # Technique: Inscribed Vessel of Mysticism [inscription]
+        costs:
+          0: 1120 # Gold
+        requirements:
+          - "reputation 2163 revered"
+
+      - id: 162376 # Technique: Tome of the Quiet Mind [inscription]
+        costs:
+          0: 1400 # Gold
+        requirements:
+          - "reputation 2163 revered"
+
+      - id: 163026 # Pattern: Embroidered Deep Sea Bag [tailoring]
+        costs:
+          0: 1400 # Gold
+        requirements:
+          - "reputation 2163 revered"
+
+      # 0
+
+      - id: 160538 # Cape of the Scroll Keepers [cloak]
+        costs:
+          0: 1100 # Gold
+        requirements:
+          - "reputation 2163 honored"
+
+      - id: 161494 # Sea-Treated Footwraps [cloth feet]
+        costs:
+          0: 1400 # Gold
+        requirements:
+          - "reputation 2163 revered"
+
+      - id: 161514 # Antiquity Handler's Gloves [leather hands]
+        costs:
+          0: 1400 # Gold
+        requirements:
+          - "reputation 2163 revered"
+
+      - id: 161529 # Girdle of the Scroll-Sages [mail waist]
+        costs:
+          0: 1400 # Gold
+        requirements:
+          - "reputation 2163 revered"
+
+      - id: 161544 # Vambraces of a Thousand Year Toil [plate wrists]
+        costs:
+          0: 1400 # Gold
+        requirements:
+          - "reputation 2163 revered"
+
+      - id: 161503 # Wristwraps of Scrollbinding [cloth wrists]
+        costs:
+          0: 1900 # Gold
+        requirements:
+          - "reputation 2163 exalted"
+
+      - id: 161519 # Supple Moccasins of Pilgrimage [leather feet]
+        costs:
+          0: 1900 # Gold
+        requirements:
+          - "reputation 2163 exalted"
+
+      - id: 161534 # Legguards of Ai'twen's Resurgence [mail legs]
+        costs:
+          0: 1900 # Gold
+        requirements:
+          - "reputation 2163 exalted"
+
+      - id: 161549 # Shellbuckle Girdle [plate waist]
+        costs:
+          0: 1900 # Gold
+        requirements:
+          - "reputation 2163 exalted"
+
+      - id: 160543 # Tabard of the Tortollan Seekers [tabard]
+        costs:
+          0: 625 # Gold
+        requirements:
+          - "reputation 2163 exalted"
+
+  - id: 135793
+    type: "vendor"
+    name: "Collector Kojo"
+    note: "Tortollan Seekers Emissary"
+
+    locations:
+      07-battle-for-azeroth/stormsong_valley:
+        - 40.4 36.4
+
+    groups: *groups
+    contents: *contents

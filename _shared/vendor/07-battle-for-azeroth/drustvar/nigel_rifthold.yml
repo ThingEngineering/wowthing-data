@@ -1,7 +1,7 @@
 id: 142197
 name: "Nigel Rifthold"
 locations:
-  z7_drustvar:
+  07-battle-for-azeroth/drustvar:
     - 52.2 31.6
 sells:
   - type: pet

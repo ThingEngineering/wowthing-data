@@ -1,7 +1,7 @@
 id: 135400
 name: "Jenoh"
 locations:
-  z7_voldun:
+  07-battle-for-azeroth/voldun:
     - 29.6 59.2
 sells:
   - type: pet

@@ -1,7 +1,7 @@
 id: 142691
 name: "Tricky Rick"
 locations:
-  z7_boralus:
+  07-battle-for-azeroth/boralus:
     - 56.7 47.0 alliance
 sells:
   - type: mount

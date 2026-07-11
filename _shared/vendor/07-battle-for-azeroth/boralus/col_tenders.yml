@@ -1,7 +1,7 @@
 id: 141009
 name: "Col. Tenders"
 locations:
-  z7_boralus:
+  07-battle-for-azeroth/boralus:
     - 60.0 22.4 alliance
 sells:
   - type: pet

@@ -1,7 +1,7 @@
 id: 135800
 name: "Sister Lilyana"
 locations:
-  z7_stormsong_valley:
+  07-battle-for-azeroth/stormsong_valley:
     - 59.2 69.4 alliance
 sells:
   - type: mount

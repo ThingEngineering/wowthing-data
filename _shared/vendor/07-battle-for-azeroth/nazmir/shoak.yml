@@ -1,7 +1,7 @@
 id: 132011
 name: "Shoak"
 locations:
-  z7_nazmir:
+  07-battle-for-azeroth/nazmir:
     - 67.0 42.0
 sells:
   - type: pet

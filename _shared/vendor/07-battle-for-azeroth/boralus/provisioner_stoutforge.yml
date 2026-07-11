@@ -1,7 +1,7 @@
 id: 148927
 name: "Provisioner Stoutforge"
 locations:
-  z7_boralus:
+  07-battle-for-azeroth/boralus:
     - 66.9 25.8 alliance
 sells:
   - type: mount

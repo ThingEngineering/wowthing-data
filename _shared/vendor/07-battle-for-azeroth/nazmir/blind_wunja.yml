@@ -1,7 +1,7 @@
 id: 126833
 name: "Blind Wunja"
 locations:
-  z7_nazmir:
+  07-battle-for-azeroth/nazmir:
     - 35.4 55.2
 sells:
   - type: pet

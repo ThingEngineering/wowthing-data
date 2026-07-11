@@ -1,0 +1,222 @@
+things:
+  - id: 135808
+    type: "vendor"
+    name: "Provisioner Fray"
+    note: "Proudmoore Admiralty Emissary"
+
+    locations:
+      here:
+        - 67.5 21.5
+
+    groups:
+      - name: "Proudmoore Admiralty"
+        range: -1
+        sortKey: "rep-proud-1"
+
+    contents:
+
+      # 0
+
+      - id: 160540 # Proudmoore Admiralty Tabard [tabard]
+        costs:
+          0: 593 # Gold
+        requirements:
+          - "reputation 2160 exalted"
+
+      - id: 161568 # Maritime Spellweaver's Leggings [cloth legs]
+        costs:
+          0: 1805 # Gold
+        requirements:
+          - "reputation 2160 exalted"
+
+      - id: 161570 # First Lieutenant's Ceremonial Belt [leather waist]
+        costs:
+          0: 1805 # Gold
+        requirements:
+          - "reputation 2160 exalted"
+
+      - id: 161571 # Cordage Sliding Grips [mail hands]
+        costs:
+          0: 1805 # Gold
+        requirements:
+          - "reputation 2160 exalted"
+
+      - id: 161574 # Boarding Action Vambraces [plate wrists]
+        costs:
+          0: 1805 # Gold
+        requirements:
+          - "reputation 2160 exalted"
+
+      - id: 166277 # Schematic: Unstable Temporal Time Shifter
+        costs:
+          0: 1615 # Gold
+        requirements:
+          - "reputation 2160 exalted"
+
+      - id: 161911 # Reins of the Admiralty Stallion
+        costs:
+          0: 11875 # Gold
+        requirements:
+          - "reputation 2160 exalted"
+
+      - id: 161879 # Reins of the Proudmoore Sea Scout
+        costs:
+          0: 85500 # Gold
+        requirements:
+          - "reputation 2160 exalted"
+
+      - id: 161567 # Sailing Master's Sash [cloth waist]
+        costs:
+          0: 1330 # Gold
+        requirements:
+          - "reputation 2160 revered"
+
+      - id: 161569 # Master-At-Arms Wristguards [leather wrists]
+        costs:
+          0: 1330 # Gold
+        requirements:
+          - "reputation 2160 revered"
+
+      - id: 161572 # Yardarm Sharpshooter's Boots [mail feet]
+        costs:
+          0: 1330 # Gold
+        requirements:
+          - "reputation 2160 revered"
+
+      - id: 161573 # Proudmoore Marine's Legplates [plate legs]
+        costs:
+          0: 1330 # Gold
+        requirements:
+          - "reputation 2160 revered"
+
+      - id: 161976 # Admiralty Marine's Duffel
+        costs:
+          0: 2850 # Gold
+        requirements:
+          - "reputation 2160 revered"
+
+      - id: 162414 # Pattern: Hardened Tempest Knuckles
+        costs:
+          0: 1330 # Gold
+        requirements:
+          - "reputation 2160 revered"
+
+      - id: 162413 # Pattern: Mistscale Knuckles
+        costs:
+          0: 1330 # Gold
+        requirements:
+          - "reputation 2160 revered"
+
+      - id: 162328 # Schematic: AZ3-R1-T3 Bionic Bifocals
+        costs:
+          0: 1330 # Gold
+        requirements:
+          - "reputation 2160 revered"
+
+      - id: 163316 # Recipe: Battle Potion of Intellect
+        costs:
+          0: 1330 # Gold
+        requirements:
+          - "reputation 2160 revered"
+
+      - id: 162254 # Recipe: Coastal Mana Potion
+        costs:
+          0: 1330 # Gold
+        requirements:
+          - "reputation 2160 revered"
+
+      - id: 162134 # Recipe: Flask of the Vast Horizon
+        costs:
+          0: 1330 # Gold
+        requirements:
+          - "reputation 2160 revered"
+
+      - id: 162130 # Recipe: Potion of Bursting Blood
+        costs:
+          0: 1330 # Gold
+        requirements:
+          - "reputation 2160 revered"
+
+      - id: 162304 # Formula: Enchant Ring - Pact of Mastery
+        costs:
+          0: 1330 # Gold
+        requirements:
+          - "reputation 2160 revered"
+
+      - id: 162317 # Formula: Enchant Weapon - Masterful Navigation
+        costs:
+          0: 1330 # Gold
+        requirements:
+          - "reputation 2160 revered"
+
+      - id: 162316 # Formula: Enchant Weapon - Siphoning
+        costs:
+          0: 1330 # Gold
+        requirements:
+          - "reputation 2160 revered"
+
+      - id: 163200 # Cursed Spyglass
+        costs:
+          0: 1710 # Gold
+        requirements:
+          - "reputation 2160 revered"
+
+      - id: 162380 # Design: Tidal Amethyst Loop
+        costs:
+          0: 1330 # Gold
+        requirements:
+          - "reputation 2160 revered"
+
+      - id: 252036 # Tidesage's Bookcase
+        costs:
+          1560: 500
+        requirements:
+          - "reputation 2160 revered"
+
+      - id: 252402 # Tidesage's Double Bookshelves
+        costs:
+          1560: 450
+        requirements:
+          - "reputation 2160 revered"
+
+      - id: 160534 # Navy Blue Boat Cloak [cloak]
+        costs:
+          0: 1045 # Gold
+        requirements:
+          - "reputation 2160 honored"
+
+      - id: 162327 # Schematic: AZ3-R1-T3 Bionic Bifocals
+        costs:
+          0: 1045 # Gold
+        requirements:
+          - "reputation 2160 honored"
+
+      - id: 163201 # Gnoll Targeting Barrel
+        costs:
+          0: 1045 # Gold
+        requirements:
+          - "reputation 2160 honored"
+
+      - id: 246222 # Boralus String Lights
+        costs:
+          1560: 75
+        requirements:
+          - "reputation 2160 honored"
+
+      - id: 162359 # Technique: Contract: Proudmoore Admiralty
+        costs:
+          0: 1045 # Gold
+        requirements:
+          - "reputation 2160 honored"
+
+      - id: 252387 # Boralus Fence
+        costs:
+          1560: 100
+        requirements:
+          - "reputation 2160 friendly"
+
+      - id: 252388 # Boralus Fencepost
+        costs:
+          1560: 50
+        requirements:
+          - "reputation 2160 friendly"

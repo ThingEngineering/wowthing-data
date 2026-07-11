@@ -16,7 +16,7 @@ things:
 
     groups:
       - name: "BfA TW - Misc"
-        range: 8
+        range: 12
         sortKey: "z-tw-07-0"
 
       - name: "BfA TW - Ensembles"
@@ -24,8 +24,12 @@ things:
         sortKey: "z-tw-07-1"
 
       - name: "BfA TW - Armor"
-        range: 13
+        range: 12
         sortKey: "z-tw-07-2"
+
+      - name: "BfA TW - $$$ Armor"
+        range: 1
+        sortKey: "z-tw-07-3"
 
       - name: "BfA TW - Weapons"
         range: 13
@@ -44,6 +48,22 @@ things:
           1166: 5000
 
       - id: 245695 # Reins of the Moonlit Nightsaber
+        costs:
+          1166: 5000
+
+      - id: 257513 # Bronze Aquilon Harness [mount]
+        costs:
+          1166: 5000
+
+      - id: 257514 # Bronze Corpsefly Harness [mount]
+        costs:
+          1166: 5000
+
+      - id: 257516 # Bronze Gravewing Harness [mount]
+        costs:
+          1166: 5000
+
+      - id: 257511 # Bronze Wilderling Harness [mount]
         costs:
           1166: 5000
 
@@ -144,6 +164,8 @@ things:
       - id: 243566 # Waycrest Sentry Cloak [cloak]
         costs:
           1166: 25
+
+      # $$$ Armor
 
       - id: 244471 # Time-Lost Tempest Caller [cosmetic head]
         costs:
