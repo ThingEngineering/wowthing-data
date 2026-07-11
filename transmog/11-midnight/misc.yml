@@ -707,7 +707,90 @@ groups:
 - name: "Void Assaults - Naigtal/Val"
   type: armor
   sets:
-    - "Response Team Armor"
+    - "World Quest Armor"
+  data:
+    cloth:
+      - name: "World Quest Cloth"
+        itemsV2:
+          - 274831 # Portal Shaper's Circlet [head]
+          - 274833 # Icy Spidersilk Mantle [shoulders]
+          - 274820 # Cloak of the Voracious Gorger [back]
+          - 274828 # Domanaar Subjugator's Vestments [chest]
+          - 274835 # Bands of Pincher Sinew [wrists]
+          - 274830 # Ice-Glazed Gloves [hands]
+          - 274834 # Cord of Domineering Resolve [waist]
+          - 274832 # Fel-Tainted Trousers [legs]
+          - 274829 # Creature Corruptor Slippers [feet]
+
+    leather:
+      - name: "World Quest Leather"
+        itemsV2:
+          - 274839 # Cold-World Cover [head]
+          - 274841 # Frigid Cavedweller's Shoulderpads [shoulders]
+          - 274821 # Drape of the Hal'hadar Assassin [back]
+          - 274836 # Sleet-Resistant Jerkin [chest]
+          - 274843 # Pincher-Proof Wristguards [wrists]
+          - 274838 # Gloves of the Descending Destroyer [hands]
+          - 274842 # Gatekeeper's Leather Waistguard [waist]
+          - 274840 # Pants of the Lost Legion [legs]
+          - 274837 # Corrupted Hide Boots [feet]
+
+    mail:
+      - name: "World Quest Mail"
+        itemsV2:
+          - 274847 # Atomus's Headcover [head]
+          - 274849 # Frostscale Spider's Monnion [shoulders]
+          - 274818 # Drape of Intense Darkness [back]
+          - 274844 # Sleetlink Hauberk [chest]
+          - 274851 # Glittering Frostscale Wraps [wrists]
+          - 274846 # Glacier Basin Gauntlets [hands]
+          - 274850 # Mercilus's Chain Waistguard [waist]
+          - 274848 # Legguards of Fel-Corruption [legs]
+          - 274845 # Greaves of Corrupted Scale [feet]
+
+    plate:
+      - name: "World Quest Plate"
+        itemsV2:
+          - 274855 # Portal-Keeper's Helm [head]
+          - 274857 # Chitonous Broodmother's Spaulders [shoulders]
+          - 274819 # Fungle Fold Frock [back]
+          - 274852 # Sleetstone Chestplate [chest]
+          - 274859 # Klaxid Plate Vambraces [wrists]
+          - 274854 # Shadowguard Plate Gauntlets [hands]
+          - 274858 # Domanaar Battle Belt [waist]
+          - 274856 # Felguard's Frozen Greaves [legs]
+          - 274853 # Creature Crushers [feet]
+
+- name: "Void Assaults - Naigtal/Val"
+  type: all
+  sets:
+    - "World Quest Weapons"
+  data:
+    all:
+      - name: "World Quest Weapons"
+        itemsV2:
+          - 274860 # Ancient Spore-Coated Axe
+          - 274870 # Assassin's Void-String Bow
+          - 274862 # Corrupted Draenei Priest's Kris
+          - 274863 # Cudgel of the Twisted Reaper
+          - 274872 # Darkness' Horrific Barb
+          - 274865 # Destroyer's Drop Hammer
+          - 274874 # Flickering Wing Separator
+          - 274861 # Frosty Broodmother's Fang
+          - 274873 # Funeral Attendant's Spire
+          - 274871 # Giant Worm Piercer
+          - 274867 # Inscribed Domanaar's Sword
+          - 274868 # Portal Master's Shortblade
+          - 274876 # Reinforced Fungalhide Bulwark
+          - 274875 # Riftwalker's Lantern
+          - 274864 # Sporebloom Gavel
+          - 274866 # Voidwarped Edge
+          - 274869 # Void-Iced Warglaives
+
+- name: "Void Assaults - Naigtal/Val"
+  type: armor
+  sets:
+    - "Response Team Armor Weapons"
   data:
     cloth:
       - name: "Response Team's Cloth"
