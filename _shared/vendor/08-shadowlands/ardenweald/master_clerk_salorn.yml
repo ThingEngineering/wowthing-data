@@ -3,7 +3,7 @@ name: "Master Clerk Salorn"
 note: "Tickets and Patron Rewards"
 
 locations:
-  z8_ardenweald:
+  08-shadowlands/ardenweald:
     - 43 47
 
 sells:

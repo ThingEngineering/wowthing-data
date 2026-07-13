@@ -3,7 +3,7 @@ name: "Sha'leth"
 note: "Fishing, not up every day"
 
 locations:
-  z6_suramar:
+  06-legion/suramar:
     - 50.6 49.2
 
 sells:

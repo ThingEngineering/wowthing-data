@@ -3,7 +3,7 @@ name: "Cortinarius"
 note: "Marasmius Quartermaster"
 
 locations:
-  z8_heart_of_the_forest:
+  08-shadowlands/heart_of_the_forest:
     - 52.2 15.2
 
 sets:

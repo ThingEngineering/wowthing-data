@@ -2,7 +2,7 @@ id: 49387
 name: "Grot Deathblow"
 
 locations:
-  z3_twilight_highlands:
+  03-cataclysm/twilight_highlands:
     - 53.8 42.0 horde
 
 sells:

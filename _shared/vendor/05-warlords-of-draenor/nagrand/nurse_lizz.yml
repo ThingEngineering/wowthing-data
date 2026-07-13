@@ -3,7 +3,7 @@ name: "Nurse Lizz"
 note: "First Aid Supplies"
 
 locations:
-  z5_nagrand:
+  05-warlords-of-draenor/nagrand:
     - 78.6 47.8
 
 sells:

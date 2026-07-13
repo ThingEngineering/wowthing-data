@@ -3,7 +3,7 @@ name: "Yrma"
 note: "Transmuter of Sin'dorei Relics"
 
 locations:
-  z1_isle_of_queldanas:
+  01-the-burning-crusade/isle_of_queldanas:
     - 51.1 28.4
 
 sets:

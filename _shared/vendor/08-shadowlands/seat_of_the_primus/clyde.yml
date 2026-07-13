@@ -3,7 +3,7 @@ name: "Clyde"
 note: "Requires Abomination Stitching"
 
 locations:
-  z8_seat_of_the_primus:
+  08-shadowlands/seat_of_the_primus:
     - 50.6 15.0
 
 sets:

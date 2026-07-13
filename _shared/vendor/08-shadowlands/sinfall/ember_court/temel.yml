@@ -3,7 +3,7 @@ name: "Temel"
 note: "The Party Herald"
 
 locations:
-  z8_sinfall_2:
+  08-shadowlands/sinfall_2:
     - 28.8 40.5
 
 sets:

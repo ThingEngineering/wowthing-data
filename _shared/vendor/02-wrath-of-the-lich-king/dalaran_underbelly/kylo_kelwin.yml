@@ -3,7 +3,7 @@ name: "Kylo Kelwin"
 note: "Furious Gladiator [S6]"
 
 locations:
-  z2_dalaran_underbelly:
+  02-wrath-of-the-lich-king/dalaran_underbelly:
     - 57.8 59.9
 
 tags:

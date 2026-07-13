@@ -3,7 +3,7 @@ name: "Sparklebreeze"
 note: "Raid Finder Nathrian Weaponsmith"
 
 locations:
-  z8_heart_of_the_forest:
+  08-shadowlands/heart_of_the_forest:
     - 44.9 33.5
     #- 47.5 33.5
 

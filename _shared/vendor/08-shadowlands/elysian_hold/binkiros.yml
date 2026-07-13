@@ -3,7 +3,7 @@ name: "Binkiros"
 note: "Mount Vendor"
 
 locations:
-  z8_elysian_hold:
+  08-shadowlands/elysian_hold:
     - 32.1 48.5
     #- 31.6 48.0
 

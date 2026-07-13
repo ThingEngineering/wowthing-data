@@ -3,7 +3,7 @@ name: "Horace Hunderland"
 note: "Plate Armor Merchant" # T9/T10
 
 locations:
-  z2_dalaran:
+  02-wrath-of-the-lich-king/dalaran:
     - 44.8 28.9
     #- 45.7 27.6
 

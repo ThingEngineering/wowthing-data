@@ -3,7 +3,7 @@ name: "Lady Ilinca"
 note: "Court Concierge"
 
 locations:
-  z8_sinfall_2:
+  08-shadowlands/sinfall_2:
     - 28.8 38.0
 
 sells:

@@ -3,7 +3,7 @@ name: "Lady Rovinette"
 note: "Ember Court Clothier"
 
 locations:
-  z8_sinfall_2:
+  08-shadowlands/sinfall_2:
     - 27.0 40.5
 
 sets:

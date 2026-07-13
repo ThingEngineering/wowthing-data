@@ -3,7 +3,7 @@ name: "Elwyn"
 note: "Renown Quartermaster"
 
 locations:
-  z8_heart_of_the_forest:
+  08-shadowlands/heart_of_the_forest:
     - 61.1 32.6
     #- 60.3 32.6
 

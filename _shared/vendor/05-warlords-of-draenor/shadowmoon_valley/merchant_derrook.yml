@@ -2,7 +2,7 @@ id: 84074
 name: "Merchant Derrook"
 
 locations:
-  z5_shadowmoon_valley:
+  05-warlords-of-draenor/shadowmoon_valley:
     - 57.4 30.2 alliance
 
 sells:

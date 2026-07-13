@@ -3,7 +3,7 @@ name: "Grand Marshal Mudrag"
 note: "Requires Ramparts Racer achievement"
 
 locations:
-  z8_revendreth:
+  08-shadowlands/revendreth:
     - 40.6 46.8
 
 sells:

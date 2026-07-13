@@ -3,7 +3,7 @@ name: "Sage Whiteheart"
 note: "The August Celestials Quartermaster"
 
 locations:
-  z4_vale_of_eternal_blossoms:
+  04-mists-of-pandaria/vale_of_eternal_blossoms:
     - 84.6 63.8
 
 sets:

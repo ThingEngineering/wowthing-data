@@ -3,7 +3,7 @@ name: "Alisius"
 note: "Normal Nathrian Weaponsmith"
 
 locations:
-  z8_elysian_hold:
+  08-shadowlands/elysian_hold:
     - 56.1 85.0
 
 sets:

@@ -3,7 +3,7 @@ name: "Commander Lo Ping"
 note: "Justice Quartermaster"
 
 locations:
-  z4_townlong_steppes:
+  04-mists-of-pandaria/townlong_steppes:
     - 38 64.6
     #- 38 64.6
 

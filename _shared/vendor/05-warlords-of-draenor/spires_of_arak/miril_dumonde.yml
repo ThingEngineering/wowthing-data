@@ -1,7 +1,7 @@
 id: 82432
 name: "Miril Dumonde"
 locations:
-  z5_spires_of_arak:
+  05-warlords-of-draenor/spires_of_arak:
     - 37.6 50.8 alliance
 sells:
   - type: transmog

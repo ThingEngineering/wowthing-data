@@ -3,7 +3,7 @@ name: "Harkoth"
 note: "Heroic Nathrian Weaponsmith"
 
 locations:
-  z8_heart_of_the_forest:
+  08-shadowlands/heart_of_the_forest:
     - 48.3 33.5
     #- 47.5 33.5
 

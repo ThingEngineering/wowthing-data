@@ -3,7 +3,7 @@ name: "Matilda Brightlink"
 note: "Mail Armor Merchant"
 
 locations:
-  z2_dalaran:
+  02-wrath-of-the-lich-king/dalaran:
     - 52.2 72.7
 
 sets:

@@ -2,7 +2,7 @@ id: 93539
 name: "Hobart Grapplehammer"
 
 locations:
-  z6_dalaran:
+  06-legion/dalaran:
     - 38.4 25
 
 sells:

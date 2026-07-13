@@ -3,7 +3,7 @@ name: "Kezzik the Striker"
 note: "Gladiator and General's Gladiator"
 
 locations:
-  z1_netherstorm:
+  01-the-burning-crusade/netherstorm:
     - 35 64.2
 
 tags:

@@ -3,7 +3,7 @@ name: "Rough-rider Kim"
 note: "Stable Master"
 
 locations:
-  z4_dread_wastes:
+  04-mists-of-pandaria/dread_wastes:
     - 55.8 69.6
 
 sells:

@@ -3,7 +3,7 @@ name: "Supplier Xin"
 note: "Gear Vendor"
 
 locations:
-  z4_townlong_steppes:
+  04-mists-of-pandaria/townlong_steppes:
     - 70.8 55.8
 
 sets:

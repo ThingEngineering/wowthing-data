@@ -2,7 +2,7 @@ id: 107109
 name: "Xur'ios"
 note: "Sells 1 of 6 rare items each day"
 locations:
-  z6_dalaran:
+  06-legion/dalaran:
     - 48.6 14.6
 sells:
   - type: mount

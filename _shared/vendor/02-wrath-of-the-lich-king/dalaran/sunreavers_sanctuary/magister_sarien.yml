@@ -3,7 +3,7 @@ name: "Magister Sarien"
 note: "Legacy Justice Quartermaster" # S5 Deadly
 
 locations:
-  z2_dalaran:
+  02-wrath-of-the-lich-king/dalaran:
     - 63.8 22.0 horde
     #- 65.6 23.3 horde
 

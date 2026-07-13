@@ -1,7 +1,7 @@
 id: 120898
 name: "Warmage Kath'leen"
 locations:
-  z6_broken_shore:
+  06-legion/broken_shore:
     - 44.4 62.2
 tags:
   - "armies-of-legionfall"

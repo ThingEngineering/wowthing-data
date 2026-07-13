@@ -3,7 +3,7 @@ name: "Agent Malley"
 note: "Operation: Shieldwall Quartermaster"
 
 locations:
-  z4_krasarang_wilds:
+  04-mists-of-pandaria/krasarang_wilds:
     - 89.6 33.4 alliance
 
 sets:

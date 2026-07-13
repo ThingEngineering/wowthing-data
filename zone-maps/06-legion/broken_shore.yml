@@ -1,5 +1,5 @@
 name: "Broken Shore"
-mapName: z6_broken_shore
+mapName: 06-legion/broken_shore
 minimumLevel: 45
 requiredQuestId: 46730 # Armies of Legionfall
 farms:

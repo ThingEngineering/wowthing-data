@@ -3,7 +3,7 @@ name: "The Metal Paw"
 note: "Adventuring Supplies"
 
 locations:
-  z4_kun_lai_summit:
+  04-mists-of-pandaria/kun_lai_summit:
     - 71.4 92.2
 
 sets:

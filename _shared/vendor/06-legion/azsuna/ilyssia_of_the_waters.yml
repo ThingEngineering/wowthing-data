@@ -3,7 +3,7 @@ name: "Ilyssia of the Waters"
 note: "Fishing, not up every day"
 
 locations:
-  z6_azsuna:
+  06-legion/azsuna:
     - 43.2 40.6
 
 sells:

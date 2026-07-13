@@ -9,7 +9,7 @@ things:
     note: "Timewalking Vendor"
 
     locations:
-      z2_dalaran:
+      02-wrath-of-the-lich-king/dalaran:
         - 49.2 46.4
 
     groups:

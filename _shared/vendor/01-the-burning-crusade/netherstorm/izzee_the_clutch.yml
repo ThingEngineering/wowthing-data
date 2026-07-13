@@ -3,7 +3,7 @@ name: "Izzee the 'Clutch'"
 note: "Merciless and Veteran's Gladiator"
 
 locations:
-  z1_netherstorm:
+  01-the-burning-crusade/netherstorm:
     - 33 64.2
 
 tags:

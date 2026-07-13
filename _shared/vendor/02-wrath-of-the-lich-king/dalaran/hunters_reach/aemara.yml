@@ -3,7 +3,7 @@ name: "Aemara"
 note: "Bowyer"
 
 locations:
-  z2_dalaran:
+  02-wrath-of-the-lich-king/dalaran:
     - 60.8 52.0
 
 sells:

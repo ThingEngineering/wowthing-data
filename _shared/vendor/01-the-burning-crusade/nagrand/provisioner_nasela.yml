@@ -3,7 +3,7 @@ name: "Provisioner Nasela"
 note: "Mag'har Quartermaster"
 
 locations:
-  z1_nagrand:
+  01-the-burning-crusade/nagrand:
     - 53.4 36.8 horde
 
 sells:

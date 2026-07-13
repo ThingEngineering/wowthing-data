@@ -2,7 +2,7 @@ id: 54402
 name: "Lurah Wrathvine"
 
 locations:
-  z3_mount_hyjal:
+  03-cataclysm/mount_hyjal:
     - 46.3 81.0
 
 sets:

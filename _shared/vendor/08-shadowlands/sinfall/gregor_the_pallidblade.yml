@@ -3,7 +3,7 @@ name: "Gregor the Pallidblade"
 note: "Sinfall Quartermaster"
 
 locations:
-  z8_sinfall_2:
+  08-shadowlands/sinfall_2:
     - 70.6 27.3
 
 sets:

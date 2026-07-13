@@ -3,7 +3,7 @@ name: "Selis Silksong"
 note: "T-Shirt Enthusiast"
 
 locations:
-  z1_shattrath_city:
+  01-the-burning-crusade/shattrath_city:
     - 67.8 27.6 alliance
 
 sells:

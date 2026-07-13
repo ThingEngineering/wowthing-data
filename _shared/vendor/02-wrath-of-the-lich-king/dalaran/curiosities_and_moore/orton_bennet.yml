@@ -3,7 +3,7 @@ name: "Orton Bennet"
 note: "Offhand Offerings"
 
 locations:
-  z2_dalaran:
+  02-wrath-of-the-lich-king/dalaran:
     - 52.3 55.6
 
 sells:

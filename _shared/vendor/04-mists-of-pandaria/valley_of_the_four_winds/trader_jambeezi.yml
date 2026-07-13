@@ -3,7 +3,7 @@ name: "Trader Jambeezi"
 note: "Adventuring Supplies"
 
 locations:
-  z4_valley_of_the_four_winds:
+  04-mists-of-pandaria/valley_of_the_four_winds:
     - 55.4 47.2
 
 sets:

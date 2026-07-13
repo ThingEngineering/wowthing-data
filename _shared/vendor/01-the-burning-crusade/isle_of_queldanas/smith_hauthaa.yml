@@ -3,7 +3,7 @@ name: "Smith Hauthaa"
 note: "Weapons & Armorsmith"
 
 locations:
-  z1_isle_of_queldanas:
+  01-the-burning-crusade/isle_of_queldanas:
     - 48.5 43.0
     #- 49.4 39.8
 

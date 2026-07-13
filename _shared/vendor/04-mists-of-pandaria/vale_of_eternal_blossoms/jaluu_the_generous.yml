@@ -3,7 +3,7 @@ name: "Jaluu the Generous"
 note: "The Golden Lotus Quartermaster"
 
 locations:
-  z4_vale_of_eternal_blossoms:
+  04-mists-of-pandaria/vale_of_eternal_blossoms:
     - 84.2 62.6 alliance
     - 63.0 22.2 horde
 

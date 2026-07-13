@@ -3,7 +3,7 @@ name: "Karaaz"
 note: "Consortium Quartermaster"
 
 locations:
-  z1_netherstorm:
+  01-the-burning-crusade/netherstorm:
     - 43.6 34.4
 
 sells:

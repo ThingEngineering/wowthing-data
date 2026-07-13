@@ -3,7 +3,7 @@ name: "Ahemen"
 note: "Staff Vendor"
 
 locations:
-  z1_shattrath_city:
+  01-the-burning-crusade/shattrath_city:
     - 34.2 19.4
 
 sells:

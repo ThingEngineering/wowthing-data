@@ -3,7 +3,7 @@ name: "Quartermaster Enuril"
 note: "Scryer Quartermaster"
 
 locations:
-  z1_shattrath_city:
+  01-the-burning-crusade/shattrath_city:
     - 60.4 63.8
 
 sets:

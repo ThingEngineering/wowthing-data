@@ -3,7 +3,7 @@ name: "Shen Kang Cheng"
 note: "Staves"
 
 locations:
-  z2_dalaran:
+  02-wrath-of-the-lich-king/dalaran:
     - 49.8 72.5
 
 sells:

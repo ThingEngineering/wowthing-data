@@ -4,7 +4,7 @@ note: "Tailoring Supplies"
 zoneMapsGroupId: 1
 
 locations:
-  z4_vale_of_eternal_blossoms:
+  04-mists-of-pandaria/vale_of_eternal_blossoms:
     - 59.6 12.6 horde
 
 sets:

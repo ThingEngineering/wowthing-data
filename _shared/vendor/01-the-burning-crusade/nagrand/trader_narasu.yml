@@ -3,7 +3,7 @@ name: "Trader Narasu"
 note: "Kurenai Quartermaster"
 
 locations:
-  z1_nagrand:
+  01-the-burning-crusade/nagrand:
     - 54.6 75.0 alliance
 
 sells:

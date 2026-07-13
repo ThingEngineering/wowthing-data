@@ -3,7 +3,7 @@ name: "Erunak Stonespeaker"
 note: "The Earthen Ring"
 
 locations:
-  z3_vashjir_kelpthar_forest:
+  03-cataclysm/vashjir_kelpthar_forest:
     - 38.8 31.4 horde
 
 sets:

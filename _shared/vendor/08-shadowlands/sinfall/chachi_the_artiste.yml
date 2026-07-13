@@ -3,7 +3,7 @@ name: "Chachi the Artiste"
 note: "Renown Quartermaster [Upstairs]"
 
 locations:
-  z8_sinfall_2:
+  08-shadowlands/sinfall_2:
     - 78.1 33.4
 
 sets:

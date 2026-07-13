@@ -3,7 +3,7 @@ name: "Tiffany Cartier"
 note: "Jewelcrafting Supplies"
 
 locations:
-  z2_dalaran:
+  02-wrath-of-the-lich-king/dalaran:
     - 40.7 34.5
 
 sets:

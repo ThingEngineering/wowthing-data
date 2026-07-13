@@ -3,7 +3,7 @@ name: "Arcanist Uovril"
 note: "Legacy Justice Quartermaster"
 
 locations:
-  z2_dalaran:
+  02-wrath-of-the-lich-king/dalaran:
     - 38.7 57.0 alliance
     #- 37.8 55.7
 

@@ -3,7 +3,7 @@ name: "Blazik Fireclaw"
 note: "Hateful Gladiator [S5]"
 
 locations:
-  z2_dalaran_underbelly:
+  02-wrath-of-the-lich-king/dalaran_underbelly:
     - 59.6 57.4
 
 tags:

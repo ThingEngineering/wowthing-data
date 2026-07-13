@@ -3,7 +3,7 @@ name: "Sheddle Glossgleam"
 note: "Cobbler"
 
 locations:
-  z2_dalaran:
+  02-wrath-of-the-lich-king/dalaran:
     - 45.3 46.2
 
 sells:

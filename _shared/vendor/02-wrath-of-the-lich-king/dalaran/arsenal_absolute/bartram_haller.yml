@@ -3,7 +3,7 @@ name: "Bartram Haller"
 note: "Dagger & Fist Weapon Merchant"
 
 locations:
-  z2_dalaran:
+  02-wrath-of-the-lich-king/dalaran:
     - 53.4 62.7
 
 sells:

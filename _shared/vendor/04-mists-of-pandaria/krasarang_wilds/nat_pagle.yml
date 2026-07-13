@@ -1,7 +1,7 @@
 id: 63721
 name: "Nat Pagle"
 locations:
-  z4_krasarang_wilds:
+  04-mists-of-pandaria/krasarang_wilds:
     - 68.4 43.4
 tags:
   - "anglers"

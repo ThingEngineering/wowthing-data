@@ -3,7 +3,7 @@ name: "Mar'lan"
 note: "Night Fae Armor Trader"
 
 locations:
-  z8_heart_of_the_forest:
+  08-shadowlands/heart_of_the_forest:
     - 46.1 56.6
 
 sets:

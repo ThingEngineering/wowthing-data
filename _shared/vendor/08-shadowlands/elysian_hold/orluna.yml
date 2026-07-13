@@ -3,7 +3,7 @@ name: "Orluna"
 note: "Armor Vendor"
 
 locations:
-  z8_elysian_hold:
+  08-shadowlands/elysian_hold:
     - 27.1 41.0
 
 sets:

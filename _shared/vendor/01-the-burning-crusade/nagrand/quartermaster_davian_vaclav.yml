@@ -2,7 +2,7 @@ id: 18822
 name: "Quartermaster Davian Vaclav"
 
 locations:
-  z1_nagrand:
+  01-the-burning-crusade/nagrand:
     - 42.1 44.6 horde
 
 sets:

@@ -3,7 +3,7 @@ name: "Arodis Sunblade"
 note: "Keeper of Sha'tari Artifacts"
 
 locations:
-  z1_shattrath_city:
+  01-the-burning-crusade/shattrath_city:
     - 42.4 90.4
 
 sets:

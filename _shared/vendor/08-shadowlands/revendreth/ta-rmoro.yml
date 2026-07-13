@@ -2,7 +2,7 @@ id: 160084
 name: "Ta'rmoro"
 
 locations:
-  z8_revendreth:
+  08-shadowlands/revendreth:
     - 50.4 81.4
 
 sells:

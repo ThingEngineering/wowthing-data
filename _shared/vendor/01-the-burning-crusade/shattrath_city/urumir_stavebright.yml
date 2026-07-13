@@ -3,7 +3,7 @@ name: "Urumir Stavebright"
 note: "Staff Vendor"
 
 locations:
-  z1_shattrath_city:
+  01-the-burning-crusade/shattrath_city:
     - 49.4 79
 
 sells:

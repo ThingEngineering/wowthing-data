@@ -3,7 +3,7 @@ name: "Arcanist Miluria"
 note: "Legacy Justice Quartermaster" # S6
 
 locations:
-  z2_dalaran:
+  02-wrath-of-the-lich-king/dalaran:
     - 36.9 57.0 alliance
     #- 37.8 55.7
 

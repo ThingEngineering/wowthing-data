@@ -3,7 +3,7 @@ name: "Commander Oxheart"
 note: "Valor Quartermaster"
 
 locations:
-  z4_townlong_steppes:
+  04-mists-of-pandaria/townlong_steppes:
     - 39.8 64.6
     #- 38 64.6
 

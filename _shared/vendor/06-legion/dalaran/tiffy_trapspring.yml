@@ -1,7 +1,7 @@
 id: 98723
 name: "Tiffy Trapspring"
 locations:
-  z6_dalaran:
+  06-legion/dalaran:
     - 59.2 39.6
 sells:
   - type: pet

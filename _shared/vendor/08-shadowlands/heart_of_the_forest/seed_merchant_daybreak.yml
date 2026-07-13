@@ -3,7 +3,7 @@ name: "Seed Merchant Daybreak"
 note: "Queen's Conservatory"
 
 locations:
-  z8_heart_of_the_forest:
+  08-shadowlands/heart_of_the_forest:
     - 54.0 41.4
 
 sets:

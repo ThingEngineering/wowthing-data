@@ -3,7 +3,7 @@ name: "Valaden Silverblade"
 note: "Sword Merchant"
 
 locations:
-  z2_dalaran:
+  02-wrath-of-the-lich-king/dalaran:
     - 54.8 63.4
 
 sells:

@@ -3,7 +3,7 @@ name: "Eldara Dawnrunner"
 note: "Shattered Sun Quartermaster"
 
 locations:
-  z1_isle_of_queldanas:
+  01-the-burning-crusade/isle_of_queldanas:
     - 47.2 30.6
 
 sets:

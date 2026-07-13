@@ -1,7 +1,7 @@
 id: 107376
 name: "Veridis Fallon"
 locations:
-  z6_azsuna:
+  06-legion/azsuna:
     - 46.8 41.4
 tags:
   - "court-of-farondis"

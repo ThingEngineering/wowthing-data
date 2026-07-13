@@ -3,7 +3,7 @@ name: "Jade Lovelyshirts"
 note: "T-Shirt Enthusiast"
 
 locations:
-  z4_valley_of_the_four_winds:
+  04-mists-of-pandaria/valley_of_the_four_winds:
     - 61.8 58.8
 
 sells:

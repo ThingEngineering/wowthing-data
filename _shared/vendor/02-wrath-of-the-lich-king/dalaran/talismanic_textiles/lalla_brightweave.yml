@@ -3,7 +3,7 @@ name: "Lalla Brightweave"
 note: "Spellfire Tailoring Specialist"
 
 locations:
-  z2_dalaran:
+  02-wrath-of-the-lich-king/dalaran:
     - 36.6 32.5
 
 sets:

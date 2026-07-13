@@ -1,7 +1,7 @@
 id: 92805
 name: "Z'tenga the Walker"
 locations:
-  z5_tanaan_jungle:
+  05-warlords-of-draenor/tanaan_jungle:
     - 55.2 74.8
 sells:
   - type: mount

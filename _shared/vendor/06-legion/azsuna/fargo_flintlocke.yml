@@ -2,7 +2,7 @@ id: 102196
 name: "Fargo Flintlocke"
 
 locations:
-  z6_azsuna:
+  06-legion/azsuna:
     - 43 62.8
 
 sells:

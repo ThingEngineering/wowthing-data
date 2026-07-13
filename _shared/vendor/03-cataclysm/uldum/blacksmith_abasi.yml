@@ -2,7 +2,7 @@ id: 48617
 name: "Blacksmith Abasi"
 
 locations:
-  z3_uldum:
+  03-cataclysm/uldum:
     - 54.0 33.2
 
 sells:

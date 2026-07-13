@@ -1,7 +1,7 @@
 id: 113843
 name: "Kieule"
 locations:
-  z6_suramar:
+  06-legion/suramar:
     - 50.4 53.0
 sells:
   - type: toy

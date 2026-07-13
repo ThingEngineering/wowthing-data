@@ -3,7 +3,7 @@ name: "Marshal Frazer"
 note: "Gladiator Quartermaster"
 
 locations:
-  z6_dalaran:
+  06-legion/dalaran:
     - 33.4 74.0 alliance
 
 sets:

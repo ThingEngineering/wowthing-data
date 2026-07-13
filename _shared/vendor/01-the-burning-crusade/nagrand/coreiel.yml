@@ -2,7 +2,7 @@ id: 21474
 name: "Coreiel"
 
 locations:
-  z1_nagrand:
+  01-the-burning-crusade/nagrand:
     - 43.7 42.4 horde
 
 sells:

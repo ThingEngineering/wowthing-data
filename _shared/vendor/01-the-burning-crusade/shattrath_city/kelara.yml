@@ -3,7 +3,7 @@ name: "Kelara"
 note: "Keeper of Sha'tari Heirlooms"
 
 locations:
-  z1_shattrath_city:
+  01-the-burning-crusade/shattrath_city:
     - 24.8 27
 
 sets:

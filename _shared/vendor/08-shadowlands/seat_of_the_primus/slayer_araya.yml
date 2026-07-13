@@ -3,7 +3,7 @@ name: "Slayer Araya"
 note: "Covenant Armor"
 
 locations:
-  z8_seat_of_the_primus:
+  08-shadowlands/seat_of_the_primus:
     - 57.2 48.7
 
 sets:

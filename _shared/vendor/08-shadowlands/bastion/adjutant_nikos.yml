@@ -2,7 +2,7 @@ id: 160470
 name: "Adjutant Nikos"
 
 locations:
-  z8_bastion:
+  08-shadowlands/bastion:
     - 52.2 47.0
 
 sets:

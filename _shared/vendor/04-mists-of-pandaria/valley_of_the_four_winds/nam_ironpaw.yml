@@ -1,7 +1,7 @@
 id: 64395
 name: "Nam Ironpaw"
 locations:
-  z4_valley_of_the_four_winds:
+  04-mists-of-pandaria/valley_of_the_four_winds:
     - 54.4 51.4
 sells:
   - type: toy

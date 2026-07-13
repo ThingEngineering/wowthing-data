@@ -3,7 +3,7 @@ name: "Walther Whiteford"
 note: "Mace Merchant"
 
 locations:
-  z2_dalaran:
+  02-wrath-of-the-lich-king/dalaran:
     - 55.3 64.9
 
 sells:

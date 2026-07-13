@@ -3,7 +3,7 @@ name: "Ravenspeaker Thelnaas"
 note: "Order of the Awakened"
 
 locations:
-  z5_tanaan_jungle:
+  05-warlords-of-draenor/tanaan_jungle:
     - 57.8 59.4 alliance
     - 60.4 46.6 horde
 

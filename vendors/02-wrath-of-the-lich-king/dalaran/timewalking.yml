@@ -1,5 +1,5 @@
 name: "Timewalking"
 vendorMaps:
-  - z2_dalaran
+  - 02-wrath-of-the-lich-king/dalaran
 vendorSets:
   - "WotLK TW - "

@@ -3,7 +3,7 @@ name: "Olea Manu"
 note: "Complete the Jiro to Hero quest chain to access"
 
 locations:
-  z8_zereth_mortis:
+  08-shadowlands/zereth_mortis:
     - 37.0 44.6
 
 sells:

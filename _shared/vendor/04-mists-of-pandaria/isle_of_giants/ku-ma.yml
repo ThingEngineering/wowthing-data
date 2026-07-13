@@ -1,7 +1,7 @@
 id: 70022
 name: "Ku'ma"
 locations:
-  z4_isle_of_giants:
+  04-mists-of-pandaria/isle_of_giants:
     - 33.0 54.1
 tags: []
 sells:

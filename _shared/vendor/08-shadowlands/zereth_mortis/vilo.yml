@@ -2,7 +2,7 @@ id: 182257
 name: "Vilo"
 
 locations:
-  z8_zereth_mortis:
+  08-shadowlands/zereth_mortis:
     - 34.8 64.2
 
 sells:

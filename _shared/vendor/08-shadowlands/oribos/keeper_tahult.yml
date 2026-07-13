@@ -2,7 +2,7 @@ id: 156769
 name: "Keeper Tahult"
 
 locations:
-  z8_oribos_1:
+  08-shadowlands/oribos_1:
     - 64.8 67.6
 
 sells:

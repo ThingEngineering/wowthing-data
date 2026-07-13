@@ -3,7 +3,7 @@ name: "Alin the Finder"
 note: "Adventuring Supplies"
 
 locations:
-  z4_townlong_steppes:
+  04-mists-of-pandaria/townlong_steppes:
     - 71.4 57.2
 
 sets:

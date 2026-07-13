@@ -1,7 +1,7 @@
 id: 87123
 name: "Vesharr"
 locations:
-  z5_spires_of_arak:
+  05-warlords-of-draenor/spires_of_arak:
     - 46.4 45.2
 note: "Beat him in a pet bettle to access his wares"
 sells:

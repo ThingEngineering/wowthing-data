@@ -2,7 +2,7 @@ id: 18821
 name: "Quartermaster Jaffrey Noreliqe"
 
 locations:
-  z1_nagrand:
+  01-the-burning-crusade/nagrand:
     - 40.3 44.6 alliance
 
 sets:

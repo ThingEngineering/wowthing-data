@@ -3,7 +3,7 @@ name: "Linsa"
 note: "Tabard Vendor"
 
 locations:
-  z1_shattrath_city:
+  01-the-burning-crusade/shattrath_city:
     - 58.6 46.4
 
 sells:

@@ -2,7 +2,7 @@ id: 115710
 name: "Chief Telemancer Oculeth"
 
 locations:
-  z6_suramar:
+  06-legion/suramar:
     - 36.6 45
     
 tags:

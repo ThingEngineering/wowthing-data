@@ -1,7 +1,7 @@
 id: 128134
 name: "Orix the All-Seer"
 locations:
-  z6_antoran_wastes:
+  06-legion/antoran_wastes:
     - 60.2 45.4
 sells:
   - type: pet

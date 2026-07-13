@@ -2,7 +2,7 @@ id: 54401
 name: "Naresir Stormfury"
 
 locations:
-  z3_mount_hyjal:
+  03-cataclysm/mount_hyjal:
     - 48.3 81.0
 
 tags:

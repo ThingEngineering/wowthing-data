@@ -3,7 +3,7 @@ name: "Griselda Hunderland"
 note: "Plate Armor Merchant" # T7
 
 locations:
-  z2_dalaran:
+  02-wrath-of-the-lich-king/dalaran:
     - 44.8 26.3
     #- 45.7 27.6
 

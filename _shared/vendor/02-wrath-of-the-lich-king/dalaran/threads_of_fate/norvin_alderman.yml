@@ -3,7 +3,7 @@ name: "Norvin Alderman"
 note: "Cloaks"
 
 locations:
-  z2_dalaran:
+  02-wrath-of-the-lich-king/dalaran:
     - 44.5 49.5
 
 sells:

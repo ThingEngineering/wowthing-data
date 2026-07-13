@@ -1,7 +1,7 @@
 id: 90974
 name: "Vindicator Krethos"
 locations:
-  z5_tanaan_jungle:
+  05-warlords-of-draenor/tanaan_jungle:
     - 59.6 59.4 alliance
 sells:
   - type: mount

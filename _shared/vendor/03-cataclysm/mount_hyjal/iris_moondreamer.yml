@@ -3,7 +3,7 @@ name: "Iris Moondreamer"
 note: "Quartermaster"
 
 locations:
-  z3_mount_hyjal:
+  03-cataclysm/mount_hyjal:
     - 63.7 23.8
     #- 62.8 23.8
 

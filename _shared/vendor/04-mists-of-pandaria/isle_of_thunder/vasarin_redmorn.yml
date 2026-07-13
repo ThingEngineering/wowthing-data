@@ -3,7 +3,7 @@ name: "Vasarin Redmorn"
 note: "Sunreaver Onslaught Quartermaster"
 
 locations:
-  z4_isle_of_thunder:
+  04-mists-of-pandaria/isle_of_thunder:
     - 33.4 32.4 horde
 
 tags:

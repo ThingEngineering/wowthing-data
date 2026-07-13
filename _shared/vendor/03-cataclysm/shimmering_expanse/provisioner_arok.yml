@@ -3,7 +3,7 @@ name: "Provisioner Arok"
 note: "Earthen Ring Quartermaster"
 
 locations:
-  z3_vashjir_shimmering_expanse:
+  03-cataclysm/vashjir_shimmering_expanse:
     - 49.1 42.2
 
 sets:

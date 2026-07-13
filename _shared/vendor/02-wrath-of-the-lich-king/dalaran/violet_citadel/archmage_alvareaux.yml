@@ -3,7 +3,7 @@ name: "Archmage Alvareaux"
 note: "Kirin Tor Quartermaster"
 
 locations:
-  z2_dalaran:
+  02-wrath-of-the-lich-king/dalaran:
     - 25.2 47.7
 
 sets:

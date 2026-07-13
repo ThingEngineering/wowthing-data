@@ -3,7 +3,7 @@ name: "Vanessa Sellers"
 note: "Shard Trader"
 
 locations:
-  z2_dalaran:
+  02-wrath-of-the-lich-king/dalaran:
     - 38.4 41.0
 
 sets:

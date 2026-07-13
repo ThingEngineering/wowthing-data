@@ -1,7 +1,7 @@
 id: 112064
 name: "Dolse Shimmersong"
 locations:
-  z6_suramar:
+  06-legion/suramar:
     - 51.2 49.8
 sells:
   - type: toy

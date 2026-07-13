@@ -1,7 +1,7 @@
 id: 97140
 name: "First Arcanist Thalyssra"
 locations:
-  z6_suramar:
+  06-legion/suramar:
     - 37.0 46.2
 tags:
   - "nightfallen"

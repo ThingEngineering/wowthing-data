@@ -1,7 +1,7 @@
 id: 55143
 name: "Sally Fizzlefury"
 locations:
-  z4_valley_of_the_four_winds:
+  04-mists-of-pandaria/valley_of_the_four_winds:
     - 16.0 83.0
 sells:
   - type: toy

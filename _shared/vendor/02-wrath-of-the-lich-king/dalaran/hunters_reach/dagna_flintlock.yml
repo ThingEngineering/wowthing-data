@@ -3,7 +3,7 @@ name: "Dagna Flintlock"
 note: "Gunsmith"
 
 locations:
-  z2_dalaran:
+  02-wrath-of-the-lich-king/dalaran:
     - 60.1 53.1
 
 sells:

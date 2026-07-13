@@ -3,7 +3,7 @@ name: "Rafael Langrom"
 note: "Leather Armor Merchant"
 
 locations:
-  z2_dalaran:
+  02-wrath-of-the-lich-king/dalaran:
     - 50.6 70.4
 
 sets:

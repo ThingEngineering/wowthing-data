@@ -3,7 +3,7 @@ name: "Veynna Dawnstar"
 note: "Keeper of Sha'tari Heirlooms"
 
 locations:
-  z1_shattrath_city:
+  01-the-burning-crusade/shattrath_city:
     - 44.8 91.6
 
 sets:

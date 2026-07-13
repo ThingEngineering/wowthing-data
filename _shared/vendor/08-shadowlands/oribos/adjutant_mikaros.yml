@@ -2,7 +2,7 @@ id: 176064
 name: "Adjutant Mikaros"
 
 locations:
-  z8_oribos_1:
+  08-shadowlands/oribos_1:
     - 45.6 77.6
 
 sets:

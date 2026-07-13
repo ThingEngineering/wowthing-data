@@ -3,7 +3,7 @@ name: "Braeg Stoutbeard"
 note: "Fur & Leather Trader"
 
 locations:
-  z2_dalaran:
+  02-wrath-of-the-lich-king/dalaran:
     - 37.3 28.7
 
 sets:

@@ -2,7 +2,7 @@ id: 21485
 name: "Aldraan"
 
 locations:
-  z1_nagrand:
+  01-the-burning-crusade/nagrand:
     - 41.9 42.4 alliance
 
 sells:

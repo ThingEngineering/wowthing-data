@@ -3,7 +3,7 @@ name: "Breanni"
 note: "Pet Supplies"
 
 locations:
-  z2_dalaran:
+  02-wrath-of-the-lich-king/dalaran:
     - 58.8 38.9
 
 sells:

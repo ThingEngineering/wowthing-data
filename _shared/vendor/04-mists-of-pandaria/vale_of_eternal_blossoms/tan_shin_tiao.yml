@@ -2,7 +2,7 @@ id: 64605
 name: "Tan Shin Tiao"
 
 locations:
-  z4_vale_of_eternal_blossoms:
+  04-mists-of-pandaria/vale_of_eternal_blossoms:
     - 80.4 29.0
 
 tags:

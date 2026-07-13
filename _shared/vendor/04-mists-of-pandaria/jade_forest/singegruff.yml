@@ -3,7 +3,7 @@ name: "Singegruff"
 note: "Adventuring Supplies"
 
 locations:
-  z4_the_jade_forest:
+  04-mists-of-pandaria/the_jade_forest:
     - 46.6 45.6
 
 sets:

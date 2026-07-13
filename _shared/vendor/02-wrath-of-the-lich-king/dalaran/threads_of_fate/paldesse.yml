@@ -3,7 +3,7 @@ name: "Paldesse"
 note: "Cloth Armor Merchant"
 
 locations:
-  z2_dalaran:
+  02-wrath-of-the-lich-king/dalaran:
     - 43.4 50.4
     - 43.4 50.6
     - 43.6 50.2

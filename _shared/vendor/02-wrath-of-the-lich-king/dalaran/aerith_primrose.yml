@@ -3,7 +3,7 @@ name: "Aerith Primrose"
 note: "Flower Vendor"
 
 locations:
-  z2_dalaran:
+  02-wrath-of-the-lich-king/dalaran:
     - 57.5 53.2
 
 sells:

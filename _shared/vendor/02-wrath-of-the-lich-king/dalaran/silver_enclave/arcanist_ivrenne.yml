@@ -3,7 +3,7 @@ name: "Arcanist Ivrenne"
 note: "Legacy Justice Quartermaster" # S5 Savage
 
 locations:
-  z2_dalaran:
+  02-wrath-of-the-lich-king/dalaran:
     - 39.6 54.4 alliance
     #- 37.8 55.7
 

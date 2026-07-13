@@ -3,7 +3,7 @@ name: "Dealer Rashaad"
 note: "Exotic Creatures"
 
 locations:
-  z1_netherstorm:
+  01-the-burning-crusade/netherstorm:
     - 44.8 37.0
 
 sells:

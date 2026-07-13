@@ -3,7 +3,7 @@ name: "Anwehu"
 note: "Weapons & Armorsmith"
 
 locations:
-  z1_shattrath_city:
+  01-the-burning-crusade/shattrath_city:
     - 48.1 42.9
 
 sets:

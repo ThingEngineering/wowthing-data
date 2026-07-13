@@ -3,7 +3,7 @@ name: "Teng of the Flying Daggers"
 note: "Shado-Pan Assault Quartermaster"
 
 locations:
-  z4_isle_of_thunder:
+  04-mists-of-pandaria/isle_of_thunder:
     - 51.6 46.6
 
 sets:

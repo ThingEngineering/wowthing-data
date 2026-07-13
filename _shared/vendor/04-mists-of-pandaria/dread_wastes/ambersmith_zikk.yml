@@ -3,7 +3,7 @@ name: "Ambersmith Zikk"
 note: "Klaxxi Quartermaster"
 
 locations:
-  z4_dread_wastes:
+  04-mists-of-pandaria/dread_wastes:
     - 55.0 35.6
 
 sets:

@@ -2,7 +2,7 @@ id: 20112
 name: "Wind Trader Tuluman"
 
 locations:
-  z1_netherstorm:
+  01-the-burning-crusade/netherstorm:
     - 34.6 37.8
 
 sells:

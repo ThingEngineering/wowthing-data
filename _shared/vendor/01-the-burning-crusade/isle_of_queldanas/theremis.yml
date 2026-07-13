@@ -3,7 +3,7 @@ name: "Theremis"
 note: "Keeper of Lost Artifacts"
 
 locations:
-  z1_isle_of_queldanas:
+  01-the-burning-crusade/isle_of_queldanas:
     - 49.3 28.4
 
 sets:

@@ -3,7 +3,7 @@ name: "Ao Pye"
 note: "Shado-Pan Assault Quartermaster"
 
 locations:
-  z4_townlong_steppes:
+  04-mists-of-pandaria/townlong_steppes:
     - 36.4 64.6
     #- 38 64.6
 

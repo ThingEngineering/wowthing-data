@@ -3,7 +3,7 @@ name: "Karynna"
 note: "Exotic Gear Purveyor"
 
 locations:
-  z1_isle_of_queldanas:
+  01-the-burning-crusade/isle_of_queldanas:
     - 47.6 38.0
     #- 49.4 39.8
 

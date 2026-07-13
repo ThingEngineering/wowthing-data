@@ -3,7 +3,7 @@ name: "Synthesis Forge"
 note: "Pet Protoform Synthesis"
 
 locations:
-  z8_zereth_mortis:
+  08-shadowlands/zereth_mortis:
     - 60.6 59.4
 
 sets:

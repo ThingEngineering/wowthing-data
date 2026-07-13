@@ -3,7 +3,7 @@ name: "Vindicator Jaelaana"
 note: "Army of the Light Emissary"
 
 locations:
- z6_vindicaar:
+ 06-legion/vindicaar:
     - 43.3 73.9
 
 sells:

@@ -3,7 +3,7 @@ name: "Spindlenose"
 note: "Court of Night Quartermaster"
 
 locations:
-  z8_ardenweald:
+  08-shadowlands/ardenweald:
     - 59.6 52.8
 
 sets:

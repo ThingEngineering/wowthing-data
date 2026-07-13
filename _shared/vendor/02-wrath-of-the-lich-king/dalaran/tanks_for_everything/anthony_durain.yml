@@ -3,7 +3,7 @@ name: "Anthony Durain"
 note: "Shield Merchant"
 
 locations:
-  z2_dalaran:
+  02-wrath-of-the-lich-king/dalaran:
     - 46.6 28.9
     #- 45.7 27.6
 

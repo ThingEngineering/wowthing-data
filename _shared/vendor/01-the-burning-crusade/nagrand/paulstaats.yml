@@ -3,7 +3,7 @@ name: "Paulsta'ats"
 note: "Consortium Quartermaster"
 
 locations:
-  z1_nagrand:
+  01-the-burning-crusade/nagrand:
     - 30.6 57.0
 
 sells:

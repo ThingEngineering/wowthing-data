@@ -3,7 +3,7 @@ name: "Taiya Tacere"
 note: "Heroic Nathrian Warsmith"
 
 locations:
-  z8_seat_of_the_primus:
+  08-shadowlands/seat_of_the_primus:
     - 60.0 47.6
     #- 60.9 46.4
 

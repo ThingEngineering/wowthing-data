@@ -3,7 +3,7 @@ name: "Xazi Smolderpipe"
 note: "Wrathful Gladiator [S8]"
 
 locations:
-  z2_dalaran_underbelly:
+  02-wrath-of-the-lich-king/dalaran_underbelly:
     - 61.4 59.9
 
 tags:

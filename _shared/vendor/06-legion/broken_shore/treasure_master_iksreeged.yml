@@ -3,7 +3,7 @@ name: "Treasure Master Iks'reeged"
 note: "Use the rope to get to him"
 
 locations:
-  z6_broken_shore:
+  06-legion/broken_shore:
     - 47.8 67.3
 
 sells:

@@ -1,7 +1,7 @@
 id: 120460
 name: "Impus"
 locations:
-  z6_broken_shore:
+  06-legion/broken_shore:
     - 34.0 50.0
 sells:
   - type: toy

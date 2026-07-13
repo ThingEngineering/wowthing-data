@@ -3,7 +3,7 @@ name: "Battlemaster Endios"
 note: "Mythic Nathrian Weaponsmith"
 
 locations:
-  z8_elysian_hold:
+  08-shadowlands/elysian_hold:
     - 58.5 81.5
     #- 58.2 81.2
 

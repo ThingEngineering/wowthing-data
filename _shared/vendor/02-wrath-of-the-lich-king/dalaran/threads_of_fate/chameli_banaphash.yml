@@ -3,7 +3,7 @@ name: "Chameli Banaphash"
 note: "Haberdasher"
 
 locations:
-  z2_dalaran:
+  02-wrath-of-the-lich-king/dalaran:
     - 44.3 45.8
 
 sells:

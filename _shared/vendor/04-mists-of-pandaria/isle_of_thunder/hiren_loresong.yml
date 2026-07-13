@@ -3,7 +3,7 @@ name: "Hiren Loresong"
 note: "Kirin Tor Offensive Quartermaster"
 
 locations:
-  z4_isle_of_thunder:
+  04-mists-of-pandaria/isle_of_thunder:
     - 64.6 74.6 alliance
 
 tags:

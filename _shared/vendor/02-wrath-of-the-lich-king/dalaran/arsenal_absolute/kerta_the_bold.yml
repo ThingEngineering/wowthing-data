@@ -3,7 +3,7 @@ name: "Kerta the Bold"
 note: "Axe & Polearm Merchant"
 
 locations:
-  z2_dalaran:
+  02-wrath-of-the-lich-king/dalaran:
     - 55.0 62.9
 
 sells:

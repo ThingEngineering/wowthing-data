@@ -1,7 +1,7 @@
 id: 1092489
 name: "Mei Francis"
 locations:
-  z6_dalaran:
+  06-legion/dalaran:
     - 59.2 42.6 horde
 sells:
   - type: mount

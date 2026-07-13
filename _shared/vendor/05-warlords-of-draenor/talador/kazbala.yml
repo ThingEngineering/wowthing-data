@@ -1,7 +1,7 @@
 id: 84212
 name: "Kazbala"
 locations:
-  z5_talador:
+  05-warlords-of-draenor/talador:
     - 45.2 38.8
 sells:
   - type: pet

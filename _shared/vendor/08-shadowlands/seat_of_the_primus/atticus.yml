@@ -3,7 +3,7 @@ name: "Atticus"
 note: "Requires Abomination Stitching"
 
 locations:
-  z8_seat_of_the_primus:
+  08-shadowlands/seat_of_the_primus:
     - 48.8 15.0
 
 sells:

@@ -3,7 +3,7 @@ name: "Lieutenant Surtees"
 note: "Legion Gladiator"
 
 locations:
-  z6_dalaran:
+  06-legion/dalaran:
     - 29.4 75.6 alliance
 
 sets:

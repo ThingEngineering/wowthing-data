@@ -3,7 +3,7 @@ name: "Dubin Clay"
 note: "Plate Armor Merchant" # T8/T9
 
 locations:
-  z2_dalaran:
+  02-wrath-of-the-lich-king/dalaran:
     - 46.6 26.3
     #- 45.7 27.6
 

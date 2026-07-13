@@ -3,7 +3,7 @@ name: "Lord Afanas"
 note: "Normal Nathrian Weaponsmith"
 
 locations:
-  z8_sinfall_2:
+  08-shadowlands/sinfall_2:
     - 55.3 54.3
 
 sets:

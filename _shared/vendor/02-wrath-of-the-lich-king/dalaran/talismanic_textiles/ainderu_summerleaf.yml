@@ -3,7 +3,7 @@ name: "Ainderu Summerleaf"
 note: "Mooncloth Tailoring Specialist"
 
 locations:
-  z2_dalaran:
+  02-wrath-of-the-lich-king/dalaran:
     - 37.0 34.1
 
 sets:

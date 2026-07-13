@@ -3,7 +3,7 @@ name: "Toraan the Revered"
 note: "Argussian Reach Emissary"
 
 locations:
- z6_vindicaar:
+ 06-legion/vindicaar:
     - 68.0 56.9
 
 sells:

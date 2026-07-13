@@ -2,7 +2,7 @@ id: 108468
 name: "The Mad Merchant"
 note: "Region-wide, random spawn time, only up for 1 hour"
 locations:
-  z6_dalaran:
+  06-legion/dalaran:
     - 43.6 48.2
 sells:
   - type: mount

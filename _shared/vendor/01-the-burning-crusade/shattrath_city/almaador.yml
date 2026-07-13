@@ -3,7 +3,7 @@ name: "Almaador"
 note: "Sha'tari Quartermaster"
 
 locations:
-  z1_shattrath_city:
+  01-the-burning-crusade/shattrath_city:
     - 51.6 41.6
 
 sets:
