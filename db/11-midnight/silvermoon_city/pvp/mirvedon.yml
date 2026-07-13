@@ -1,0 +1,286 @@
+things:
+  - id: 243225
+    type: "vendor"
+    name: "Mirvedon"
+    note: "Competitor's Recipes"
+
+    locations:
+      here: # silvermoon_city
+        - 34 81.2
+    
+    groups:
+      - name: "Honor - Recipes"
+        range: -1
+        sortKey: "pvp-0"
+
+    contents:
+
+      # 0
+
+      - id: 256646 # Pattern: Thalassian Competitor's Chain Cowl
+        costs:
+          1792: 7500
+
+      - id: 256654 # Pattern: Thalassian Competitor's Chain Cuffs
+        costs:
+          1792: 7500
+
+      - id: 256644 # Pattern: Thalassian Competitor's Chain Epaulets
+        costs:
+          1792: 7500
+
+      - id: 256649 # Pattern: Thalassian Competitor's Chain Girdle
+        costs:
+          1792: 7500
+
+      - id: 256643 # Pattern: Thalassian Competitor's Chain Grips
+        costs:
+          1792: 7500
+
+      - id: 256641 # Pattern: Thalassian Competitor's Chain Leggings
+        costs:
+          1792: 7500
+
+      - id: 256633 # Pattern: Thalassian Competitor's Chain Stompers
+        costs:
+          1792: 7500
+
+      - id: 256634 # Pattern: Thalassian Competitor's Chain Tunic
+        costs:
+          1792: 7500
+
+      - id: 256631 # Pattern: Thalassian Competitor's Leather Belt
+        costs:
+          1792: 7500
+
+      - id: 256626 # Pattern: Thalassian Competitor's Leather Boots
+        costs:
+          1792: 7500
+
+      - id: 256627 # Pattern: Thalassian Competitor's Leather Chestpiece
+        costs:
+          1792: 7500
+
+      - id: 256628 # Pattern: Thalassian Competitor's Leather Gloves
+        costs:
+          1792: 7500
+
+      - id: 256632 # Pattern: Thalassian Competitor's Leather Mask
+        costs:
+          1792: 7500
+
+      - id: 256630 # Pattern: Thalassian Competitor's Leather Shoulderpads
+        costs:
+          1792: 7500
+
+      - id: 256629 # Pattern: Thalassian Competitor's Leather Trousers
+        costs:
+          1792: 7500
+
+      - id: 256635 # Pattern: Thalassian Competitor's Leather Wristwraps
+        costs:
+          1792: 7500
+
+      - id: 256880 # Pattern: Thalassian Competitor's Cloth Bands
+        costs:
+          1792: 7500
+
+      - id: 256891 # Pattern: Thalassian Competitor's Cloth Cloak
+        costs:
+          1792: 7500
+
+      - id: 256887 # Pattern: Thalassian Competitor's Cloth Gloves
+        costs:
+          1792: 7500
+
+      - id: 256888 # Pattern: Thalassian Competitor's Cloth Hood
+        costs:
+          1792: 7500
+
+      - id: 256889 # Pattern: Thalassian Competitor's Cloth Leggings
+        costs:
+          1792: 7500
+
+      - id: 256884 # Pattern: Thalassian Competitor's Cloth Sash
+        costs:
+          1792: 7500
+
+      - id: 256890 # Pattern: Thalassian Competitor's Cloth Shoulderpads
+        costs:
+          1792: 7500
+
+      - id: 256886 # Pattern: Thalassian Competitor's Cloth Treads
+        costs:
+          1792: 7500
+
+      - id: 256885 # Pattern: Thalassian Competitor's Cloth Tunic
+        costs:
+          1792: 7500
+
+      - id: 257410 # Schematic: Thalassian Competitor's Cloth Cuffs
+        costs:
+          1792: 7500
+
+      - id: 257411 # Schematic: Thalassian Competitor's Cloth Goggles
+        costs:
+          1792: 7500
+
+      - id: 257371 # Schematic: Thalassian Competitor's Cloth Tip-Toes
+        costs:
+          1792: 7500
+
+      - id: 257413 # Schematic: Thalassian Competitor's Leather Bands
+        costs:
+          1792: 7500
+
+      - id: 257414 # Schematic: Thalassian Competitor's Leather Optics
+        costs:
+          1792: 7500
+
+      - id: 257370 # Schematic: Thalassian Competitor's Leather Sliders
+        costs:
+          1792: 7500
+
+      - id: 257369 # Schematic: Thalassian Competitor's Mail Footlinks
+        costs:
+          1792: 7500
+
+      - id: 257415 # Schematic: Thalassian Competitor's Mail Links
+        costs:
+          1792: 7500
+
+      - id: 257416 # Schematic: Thalassian Competitor's Mail Visor
+        costs:
+          1792: 7500
+
+      - id: 257407 # Schematic: Thalassian Competitor's Plate Bindings
+        costs:
+          1792: 7500
+
+      - id: 257298 # Schematic: Thalassian Competitor's Plate Dunkers
+        costs:
+          1792: 7500
+
+      - id: 257408 # Schematic: Thalassian Competitor's Plate Guard
+        costs:
+          1792: 7500
+
+      - id: 268480 # Schematic: Thalassian Competitor's Rifle
+        costs:
+          1792: 7500
+
+      - id: 238229 # Plans: Thalassian Competitor's Bulwark
+        costs:
+          1792: 7500
+
+      - id: 238232 # Plans: Thalassian Competitor's Greatsword
+        costs:
+          1792: 7500
+
+      - id: 238227 # Plans: Thalassian Competitor's Knife
+        costs:
+          1792: 7500
+
+      - id: 238228 # Plans: Thalassian Competitor's Maxim
+        costs:
+          1792: 7500
+
+      - id: 238226 # Plans: Thalassian Competitor's Pickaxe
+        costs:
+          1792: 7500
+
+      - id: 238225 # Plans: Thalassian Competitor's Plate Armguards
+        costs:
+          1792: 7500
+
+      - id: 238218 # Plans: Thalassian Competitor's Plate Breastplate
+        costs:
+          1792: 7500
+
+      - id: 238220 # Plans: Thalassian Competitor's Plate Gauntlets
+        costs:
+          1792: 7500
+
+      - id: 238222 # Plans: Thalassian Competitor's Plate Greaves
+        costs:
+          1792: 7500
+
+      - id: 238221 # Plans: Thalassian Competitor's Plate Helm
+        costs:
+          1792: 7500
+
+      - id: 238223 # Plans: Thalassian Competitor's Plate Pauldrons
+        costs:
+          1792: 7500
+
+      - id: 238219 # Plans: Thalassian Competitor's Plate Sabatons
+        costs:
+          1792: 7500
+
+      - id: 238224 # Plans: Thalassian Competitor's Plate Waistguard
+        costs:
+          1792: 7500
+
+      - id: 238231 # Plans: Thalassian Competitor's Skewer
+        costs:
+          1792: 7500
+
+      - id: 238230 # Plans: Thalassian Competitor's Splitter
+        costs:
+          1792: 7500
+
+      - id: 238233 # Plans: Thalassian Competitor's Sword
+        costs:
+          1792: 7500
+
+      - id: 257417 # Recipe: Vicious Thalassian Flask of Honor
+        costs:
+          1792: 7500
+
+      - id: 256712 # Design: Cognitive Heliotrope
+        costs:
+          1792: 7500
+
+      - id: 256706 # Design: Determined Heliotrope
+        costs:
+          1792: 7500
+
+      - id: 256710 # Design: Enduring Heliotrope
+        costs:
+          1792: 7500
+
+      - id: 256719 # Design: Thalassian Competitor's Amulet
+        costs:
+          1792: 7500
+
+      - id: 256702 # Design: Thalassian Competitor's Signet
+        costs:
+          1792: 7500
+
+      - id: 257258 # Technique: Thalassian Competitor's Bow
+        costs:
+          1792: 7500
+
+      - id: 257260 # Technique: Thalassian Competitor's Emblem
+        costs:
+          1792: 7500
+
+      - id: 257261 # Technique: Thalassian Competitor's Insignia of Alacrity
+        costs:
+          1792: 7500
+
+      - id: 257243 # Technique: Thalassian Competitor's Lamp
+        costs:
+          1792: 7500
+
+      - id: 257262 # Technique: Thalassian Competitor's Medallion
+        costs:
+          1792: 7500
+
+      - id: 257259 # Technique: Thalassian Competitor's Pillar
+        costs:
+          1792: 7500
+
+      - id: 268366 # Technique: Thalassian Competitor's Staff
+        costs:
+          1792: 7500

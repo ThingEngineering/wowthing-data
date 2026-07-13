@@ -1,0 +1,274 @@
+things:
+  - id: 243224
+    type: "vendor"
+    name: "Knight-Lord Bloodvalor"
+    note: "War Mode Quartermaster"
+
+    locations:
+      here: # silvermoon_city
+        - 34.2 81.4
+
+    groups:
+      - name: "War Mode - Cloth"
+        range: 9
+        sortKey: "pvp-1-1"
+
+      - name: "War Mode - Leather"
+        range: 9
+        sortKey: "pvp-1-1"
+
+      - name: "War Mode - Mail"
+        range: 9
+        sortKey: "pvp-1-1"
+
+      - name: "War Mode - Plate"
+        range: 9
+        sortKey: "pvp-1-1"
+
+      - name: "War Mode - Weapons"
+        range: -1
+        sortKey: "pvp-1-9"
+
+    contents:
+
+      # 0 set=5474
+
+      - id: 255885 # Galactic Warmonger's Mask [cloth head]
+        costs:
+          2123: 875
+
+      - id: 255889 # Galactic Warmonger's Mantle [cloth shoulders]
+        costs:
+          2123: 700
+
+      - id: 255916 # Galactic Warmonger's Cloak [cloak]
+        costs:
+          2123: 525
+
+      - id: 255882 # Galactic Warmonger's Garb [cloth chest]
+        costs:
+          2123: 875
+
+      - id: 255888 # Galactic Warmonger's Bindings [cloth wrists]
+        costs:
+          2123: 525
+
+      - id: 255884 # Galactic Warmonger's Gloves [cloth hands]
+        costs:
+          2123: 700
+
+      - id: 255887 # Galactic Warmonger's Cord [cloth waist]
+        costs:
+          2123: 700
+
+      - id: 255886 # Galactic Warmonger's Pants [cloth legs]
+        costs:
+          2123: 875
+
+      - id: 255883 # Galactic Warmonger's Slippers [cloth feet]
+        costs:
+          2123: 700
+
+      # 0 set=5475
+
+      - id: 255892 # Galactic Warmonger's Hood [leather head]
+        costs:
+          2123: 875
+
+      - id: 255897 # Galactic Warmonger's Shoulderguard [leather shoulders]
+        costs:
+          2123: 700
+
+      - id: 255917 # Galactic Warmonger's Drape [cloak]
+        costs:
+          2123: 525
+
+      - id: 255896 # Galactic Warmonger's Jerkin [leather chest]
+        costs:
+          2123: 875
+
+      - id: 255895 # Galactic Warmonger's Wraps [leather wrists]
+        costs:
+          2123: 525
+
+      - id: 255891 # Galactic Warmonger's Handwraps [leather hands]
+        costs:
+          2123: 700
+
+      - id: 255894 # Galactic Warmonger's Belt [leather waist]
+        costs:
+          2123: 700
+
+      - id: 255893 # Galactic Warmonger's Breeches [leather legs]
+        costs:
+          2123: 875
+
+      - id: 255890 # Galactic Warmonger's Boots [leather feet]
+        costs:
+          2123: 700
+
+      # 0 set=5476
+
+      - id: 255909 # Galactic Warmonger's Helm [mail head]
+        costs:
+          2123: 875
+
+      - id: 255911 # Galactic Warmonger's Epaulets [mail shoulders]
+        costs:
+          2123: 700
+
+      - id: 255914 # Galactic Warmonger's Cape [cloak]
+        costs:
+          2123: 525
+
+      - id: 255906 # Galactic Warmonger's Chestguard [mail chest]
+        costs:
+          2123: 875
+
+      - id: 255913 # Galactic Warmonger's Armguards [mail wrists]
+        costs:
+          2123: 525
+
+      - id: 255908 # Galactic Warmonger's Grips [mail hands]
+        costs:
+          2123: 700
+
+      - id: 255912 # Galactic Warmonger's Cinch [mail waist]
+        costs:
+          2123: 700
+
+      - id: 255910 # Galactic Warmonger's Leggings [mail legs]
+        costs:
+          2123: 875
+
+      - id: 255907 # Galactic Warmonger's Greaves [mail feet]
+        costs:
+          2123: 700
+
+      # 0 set=5477
+
+      - id: 255898 # Galactic Warmonger's Faceplate [plate head]
+        costs:
+          2123: 875
+
+      - id: 255903 # Galactic Warmonger's Spaulders [plate shoulders]
+        costs:
+          2123: 700
+
+      - id: 255915 # Galactic Warmonger's Shawl [cloak]
+        costs:
+          2123: 525
+
+      - id: 255899 # Galactic Warmonger's Cuirass [plate chest]
+        costs:
+          2123: 875
+
+      - id: 255905 # Galactic Warmonger's Bracers [plate wrists]
+        costs:
+          2123: 525
+
+      - id: 255901 # Galactic Warmonger's Gauntlets [plate hands]
+        costs:
+          2123: 700
+
+      - id: 255904 # Galactic Warmonger's Clasp [plate waist]
+        costs:
+          2123: 700
+
+      - id: 255902 # Galactic Warmonger's Legguards [plate legs]
+        costs:
+          2123: 875
+
+      - id: 255900 # Galactic Warmonger's Sabatons [plate feet]
+        costs:
+          2123: 700
+
+      # 0 set=5478
+
+      - id: 255918 # Galactic Warmonger's Battleaxe [1h ? axe]
+        costs:
+          2123: 875
+
+      - id: 255920 # Galactic Warmonger's Carver [1h ? axe]
+        costs:
+          2123: 875
+
+      - id: 255919 # Galactic Warmonger's Hatchet [1h ? axe]
+        costs:
+          2123: 1225
+
+      - id: 255928 # Galactic Warmonger's Club [1h ? mace]
+        costs:
+          2123: 1225
+
+      - id: 255936 # Galactic Warmonger's Crusher [1h ? mace]
+        costs:
+          2123: 875
+
+      - id: 255930 # Galactic Warmonger's Cudgel [1h ? mace]
+        costs:
+          2123: 875
+
+      - id: 255929 # Galactic Warmonger's Hammer [1h ? mace]
+        costs:
+          2123: 875
+
+      - id: 255935 # Galactic Warmonger's Mace [1h ? mace]
+        costs:
+          2123: 875
+
+      - id: 255937 # Galactic Warmonger's Scepter [1h ? mace]
+        costs:
+          2123: 1225
+
+      - id: 255938 # Galactic Warmonger's Dagger [? dagger]
+        costs:
+          2123: 1225
+
+      - id: 255939 # Galactic Warmonger's Dirk [? dagger]
+        costs:
+          2123: 875
+
+      - id: 255922 # Galactic Warmonger's Twinblade [warglaive]
+        costs:
+          2123: 875
+
+      - id: 255927 # Galactic Warmonger's Broadsword [2h ? sword]
+        costs:
+          2123: 1750
+
+      - id: 255926 # Galactic Warmonger's Greatsword [2h ? sword]
+        costs:
+          2123: 1750
+
+      - id: 255932 # Galactic Warmonger's Impaler [polearm]
+        costs:
+          2123: 1750
+
+      - id: 255933 # Galactic Warmonger's Spear [polearm]
+        costs:
+          2123: 1750
+
+      - id: 255925 # Galactic Warmonger's Battlestaff [staff]
+        costs:
+          2123: 1750
+
+      - id: 255924 # Galactic Warmonger's Spire [staff]
+        costs:
+          2123: 1750
+
+      - id: 255921 # Galactic Warmonger's Longbow [bow]
+        costs:
+          2123: 1750
+
+      - id: 255934 # Galactic Warmonger's Wand [wand]
+        costs:
+          2123: 1225
+
+      - id: 255923 # Galactic Warmonger's Lantern [off-hand]
+        costs:
+          2123: 525
+
+      - id: 255931 # Galactic Warmonger's Aegis [shield]
+        costs:
+          2123: 525

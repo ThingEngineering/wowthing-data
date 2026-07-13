@@ -1,0 +1,398 @@
+things:
+  - id: 243221
+    type: "vendor"
+    name: "Captain Dawnrunner"
+    note: "Honor Quartermaster"
+
+    locations:
+      here: # silvermoon_city
+        - 34 81
+
+    groups:
+      - name: "Honor - Cloth"
+        range: 16
+        sortKey: "pvp-39-2-1"
+
+      - name: "Honor - Leather"
+        range: 16
+        sortKey: "pvp-39-2-2"
+
+      - name: "Honor - Mail"
+        range: 16
+        sortKey: "pvp-39-2-3"
+
+      - name: "Honor - Plate"
+        range: 16
+        sortKey: "pvp-39-2-4"
+
+      - name: "Honor - Cloaks"
+        range: 4
+        sortKey: "pvp-39-2-5"
+
+      - name: "Honor - Weapons"
+        range: -1
+        sortKey: "pvp-39-2-9"
+
+    contents:
+
+      # 0 set=5469
+
+      - id: 255307 # Galactic Aspirant's Silk Cover [cloth head]
+        costs:
+          1792: 875
+
+      - id: 255275 # Galactic Aspirant's Silk Hood [cloth head]
+        costs:
+          1792: 875
+
+      - id: 255284 # Galactic Aspirant's Silk Mantle [cloth shoulders]
+        costs:
+          1792: 700
+
+      - id: 255316 # Galactic Aspirant's Silk Shawl [cloth shoulders]
+        costs:
+          1792: 700
+
+      - id: 255263 # Galactic Aspirant's Silk Robe [cloth chest]
+        costs:
+          1792: 875
+
+      - id: 255295 # Galactic Aspirant's Silk Shirt [cloth chest]
+        costs:
+          1792: 875
+
+      - id: 255322 # Galactic Aspirant's Silk Bindings [cloth wrists]
+        costs:
+          1792: 525
+
+      - id: 255290 # Galactic Aspirant's Silk Wristwraps [cloth wrists]
+        costs:
+          1792: 525
+
+      - id: 255273 # Galactic Aspirant's Silk Gloves [cloth hands]
+        costs:
+          1792: 700
+
+      - id: 255305 # Galactic Aspirant's Silk Handwraps [cloth hands]
+        costs:
+          1792: 700
+
+      - id: 255319 # Galactic Aspirant's Silk Belt [cloth waist]
+        costs:
+          1792: 700
+
+      - id: 255287 # Galactic Aspirant's Silk Cord [cloth waist]
+        costs:
+          1792: 700
+
+      - id: 255279 # Galactic Aspirant's Silk Leggings [cloth legs]
+        costs:
+          1792: 875
+
+      - id: 255311 # Galactic Aspirant's Silk Legwraps [cloth legs]
+        costs:
+          1792: 875
+
+      - id: 255300 # Galactic Aspirant's Silk Footwraps [cloth feet]
+        costs:
+          1792: 700
+
+      - id: 255268 # Galactic Aspirant's Silk Treads [cloth feet]
+        costs:
+          1792: 700
+
+      # 0 set=5470
+
+      - id: 255277 # Galactic Aspirant's Leather Helm [leather head]
+        costs:
+          1792: 875
+
+      - id: 255309 # Galactic Aspirant's Leather Mask [leather head]
+        costs:
+          1792: 875
+
+      - id: 255314 # Galactic Aspirant's Leather Mantle [leather shoulders]
+        costs:
+          1792: 700
+
+      - id: 255282 # Galactic Aspirant's Leather Spaulders [leather shoulders]
+        costs:
+          1792: 700
+
+      - id: 255298 # Galactic Aspirant's Leather Tunic [leather chest]
+        costs:
+          1792: 875
+
+      - id: 255266 # Galactic Aspirant's Leather Vest [leather chest]
+        costs:
+          1792: 875
+
+      - id: 255325 # Galactic Aspirant's Leather Armguards [leather wrists]
+        costs:
+          1792: 525
+
+      - id: 255293 # Galactic Aspirant's Leather Wristwraps [leather wrists]
+        costs:
+          1792: 525
+
+      - id: 255271 # Galactic Aspirant's Leather Gloves [leather hands]
+        costs:
+          1792: 700
+
+      - id: 255303 # Galactic Aspirant's Leather Grips [leather hands]
+        costs:
+          1792: 700
+
+      - id: 255289 # Galactic Aspirant's Leather Belt [leather waist]
+        costs:
+          1792: 700
+
+      - id: 255321 # Galactic Aspirant's Leather Cord [leather waist]
+        costs:
+          1792: 700
+
+      - id: 255281 # Galactic Aspirant's Leather Breeches [leather legs]
+        costs:
+          1792: 875
+
+      - id: 255313 # Galactic Aspirant's Leather Leggings [leather legs]
+        costs:
+          1792: 875
+
+      - id: 255270 # Galactic Aspirant's Leather Boots [leather feet]
+        costs:
+          1792: 700
+
+      - id: 255302 # Galactic Aspirant's Leather Footpads [leather feet]
+        costs:
+          1792: 700
+
+      # 0 set=5471
+
+      - id: 255308 # Galactic Aspirant's Chain Headguard [mail head]
+        costs:
+          1792: 875
+
+      - id: 255276 # Galactic Aspirant's Chain Helm [mail head]
+        costs:
+          1792: 875
+
+      - id: 255317 # Galactic Aspirant's Chain Shoulderguards [mail shoulders]
+        costs:
+          1792: 700
+
+      - id: 255285 # Galactic Aspirant's Chain Spaulders [mail shoulders]
+        costs:
+          1792: 700
+
+      - id: 255297 # Galactic Aspirant's Armored Tunic [mail chest]
+        costs:
+          1792: 875
+
+      - id: 255265 # Galactic Aspirant's Armored Vest [mail chest]
+        costs:
+          1792: 875
+
+      - id: 255324 # Galactic Aspirant's Chain Bracer [mail wrists]
+        costs:
+          1792: 525
+
+      - id: 255292 # Galactic Aspirant's Chain Wristwraps [mail wrists]
+        costs:
+          1792: 525
+
+      - id: 255274 # Galactic Aspirant's Chain Gauntlets [mail hands]
+        costs:
+          1792: 700
+
+      - id: 255306 # Galactic Aspirant's Chain Handguards [mail hands]
+        costs:
+          1792: 700
+
+      - id: 255288 # Galactic Aspirant's Chain Belt [mail waist]
+        costs:
+          1792: 700
+
+      - id: 255320 # Galactic Aspirant's Chain Clasp [mail waist]
+        costs:
+          1792: 700
+
+      - id: 255280 # Galactic Aspirant's Chain Leggings [mail legs]
+        costs:
+          1792: 875
+
+      - id: 255312 # Galactic Aspirant's Chain Wargreaves [mail legs]
+        costs:
+          1792: 875
+
+      - id: 255269 # Galactic Aspirant's Chain Sabatons [mail feet]
+        costs:
+          1792: 700
+
+      - id: 255301 # Galactic Aspirant's Chain Stompers [mail feet]
+        costs:
+          1792: 700
+
+      # 0 set=5472
+
+      - id: 255294 # Galactic Aspirant's Plate Headguard [plate head]
+        costs:
+          1792: 875
+
+      - id: 255262 # Galactic Aspirant's Plate Helm [plate head]
+        costs:
+          1792: 875
+
+      - id: 255315 # Galactic Aspirant's Plate Pauldrons [plate shoulders]
+        costs:
+          1792: 700
+
+      - id: 255283 # Galactic Aspirant's Plate Shoulders [plate shoulders]
+        costs:
+          1792: 700
+
+      - id: 255264 # Galactic Aspirant's Chestplate [plate chest]
+        costs:
+          1792: 875
+
+      - id: 255296 # Galactic Aspirant's Plate Armor [plate chest]
+        costs:
+          1792: 875
+
+      - id: 255323 # Galactic Aspirant's Plate Armguards [plate wrists]
+        costs:
+          1792: 525
+
+      - id: 255291 # Galactic Aspirant's Plate Cuffs [plate wrists]
+        costs:
+          1792: 525
+
+      - id: 255272 # Galactic Aspirant's Plate Gauntlets [plate hands]
+        costs:
+          1792: 700
+
+      - id: 255304 # Galactic Aspirant's Plate Handguards [plate hands]
+        costs:
+          1792: 700
+
+      - id: 255286 # Galactic Aspirant's Plate Girdle [plate waist]
+        costs:
+          1792: 700
+
+      - id: 255318 # Galactic Aspirant's Plate Greatbelt [plate waist]
+        costs:
+          1792: 700
+
+      - id: 255278 # Galactic Aspirant's Plate Legguards [plate legs]
+        costs:
+          1792: 875
+
+      - id: 255310 # Galactic Aspirant's Plate Wargreaves [plate legs]
+        costs:
+          1792: 875
+
+      - id: 255299 # Galactic Aspirant's Plate Stompers [plate feet]
+        costs:
+          1792: 700
+
+      - id: 255267 # Galactic Aspirant's Plate Warboots [plate feet]
+        costs:
+          1792: 700
+
+      # 0 set=5469
+
+      - id: 255338 # Galactic Aspirant's Cloak [cloak]
+        costs:
+          1792: 525
+
+      # 0 set=5470
+
+      - id: 255337 # Galactic Aspirant's Drape [cloak]
+        costs:
+          1792: 525
+
+      # 0 set=5471
+
+      - id: 255339 # Galactic Aspirant's Cape [cloak]
+        costs:
+          1792: 525
+
+      # 0 set=5472
+
+      - id: 255340 # Galactic Aspirant's Greatcloak [cloak]
+        costs:
+          1792: 525
+
+      # 0 set=5473
+
+      - id: 255341 # Galactic Aspirant's Battleaxe [1h ? axe]
+        costs:
+          1792: 875
+
+      - id: 255355 # Galactic Aspirant's Chopper [1h ? axe]
+        costs:
+          1792: 875
+
+      - id: 255343 # Galactic Aspirant's Mace [1h ? mace]
+        costs:
+          1792: 875
+
+      - id: 255353 # Galactic Aspirant's Morningstar [1h ? mace]
+        costs:
+          1792: 875
+
+      - id: 255349 # Galactic Aspirant's Scepter [1h ? mace]
+        costs:
+          1792: 1225
+
+      - id: 255342 # Galactic Aspirant's Dagger [? dagger]
+        costs:
+          1792: 875
+
+      - id: 255354 # Galactic Aspirant's Knife [? dagger]
+        costs:
+          1792: 1225
+
+      - id: 267375 # Galactic Aspirant's Claws [fist]
+        costs:
+          1792: 1225
+
+      - id: 267417 # Galactic Aspirant's Talons [fist]
+        costs:
+          1792: 875
+
+      - id: 255348 # Galactic Aspirant's Warglaive [warglaive]
+        costs:
+          1792: 875
+
+      - id: 255346 # Galactic Aspirant's Greatsword [2h ? sword]
+        costs:
+          1792: 1750
+
+      - id: 255352 # Galactic Aspirant's Halberd [polearm]
+        costs:
+          1792: 1750
+
+      - id: 255344 # Galactic Aspirant's Polearm [polearm]
+        costs:
+          1792: 1750
+
+      - id: 255345 # Galactic Aspirant's Staff [staff]
+        costs:
+          1792: 1750
+
+      - id: 255351 # Galactic Aspirant's Bow [bow]
+        costs:
+          1792: 1750
+
+      - id: 255356 # Galactic Aspirant's Wand [wand]
+        costs:
+          1792: 1225
+
+      - id: 255347 # Galactic Aspirant's Censer [off-hand]
+        costs:
+          1792: 525
+
+      - id: 255350 # Galactic Aspirant's Shield [shield]
+        costs:
+          1792: 525

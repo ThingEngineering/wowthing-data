@@ -1,0 +1,5 @@
+name: "PvP"
+vendorMaps:
+  - "11-midnight/silvermoon_city"
+vendorTags:
+  - "type:pvp"

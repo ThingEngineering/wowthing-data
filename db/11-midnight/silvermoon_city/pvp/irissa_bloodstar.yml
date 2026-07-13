@@ -1,0 +1,1176 @@
+things:
+  - id: 243220
+    type: "vendor"
+    name: "Irissa Bloodstar"
+    note: "Conquest Quartermaster"
+
+    locations:
+      here: # silvermoon_city
+        - 34 80.4
+
+    groups:
+      - name: "Conquest - Death Knight"
+        range: 19
+        sortKey: "pvp-3-01"
+
+      - name: "Conquest - Demon Hunter"
+        range: 19
+        sortKey: "pvp-3-02"
+
+      - name: "Conquest - Druid"
+        range: 19
+        sortKey: "pvp-3-03"
+
+      - name: "Conquest - Evoker"
+        range: 19
+        sortKey: "pvp-3-04"
+
+      - name: "Conquest - Hunter"
+        range: 19
+        sortKey: "pvp-3-05"
+
+      - name: "Conquest - Mage"
+        range: 19
+        sortKey: "pvp-3-06"
+
+      - name: "Conquest - Monk"
+        range: 19
+        sortKey: "pvp-3-07"
+
+      - name: "Conquest - Paladin"
+        range: 19
+        sortKey: "pvp-3-08"
+
+      - name: "Conquest - Priest"
+        range: 19
+        sortKey: "pvp-3-09"
+
+      - name: "Conquest - Rogue"
+        range: 19
+        sortKey: "pvp-3-10"
+
+      - name: "Conquest - Shaman"
+        range: 19
+        sortKey: "pvp-3-11"
+
+      - name: "Conquest - Warlock"
+        range: 19
+        sortKey: "pvp-3-12"
+
+      - name: "Conquest - Warrior"
+        range: 19
+        sortKey: "pvp-3-13"
+
+      - name: "Conquest - Weapons"
+        range: -1
+        sortKey: "pvp-3-99"
+
+    contents:
+
+      # Death Knight set=5572
+
+      - id: 255555 # Galactic Gladiator's Plate Helm [plate head]
+        costs:
+          1602: 875
+
+      - id: 255556 # Galactic Gladiator's Plate Helmet [plate head]
+        costs:
+          1602: 875
+
+      - id: 255560 # Galactic Gladiator's Plate Pauldrons [plate shoulders]
+        costs:
+          1602: 700
+
+      - id: 255559 # Galactic Gladiator's Plate Shoulders [plate shoulders]
+        costs:
+          1602: 700
+
+      - id: 255565 # Galactic Gladiator's Cloak [cloak]
+        costs:
+          1602: 525
+
+      - id: 255566 # Galactic Gladiator's Drape [cloak]
+        costs:
+          1602: 525
+
+      - id: 255567 # Galactic Gladiator's Shawl [cloak]
+        costs:
+          1602: 525
+
+      - id: 255549 # Galactic Gladiator's Chestguard [plate chest]
+        costs:
+          1602: 875
+
+      - id: 255550 # Galactic Gladiator's Chestplate [plate chest]
+        costs:
+          1602: 875
+
+      - id: 255564 # Galactic Gladiator's Plate Vambraces [plate wrists]
+        costs:
+          1602: 525
+
+      - id: 255563 # Galactic Gladiator's Plate Wristguards [plate wrists]
+        costs:
+          1602: 525
+
+      - id: 255553 # Galactic Gladiator's Plate Gauntlets [plate hands]
+        costs:
+          1602: 700
+
+      - id: 255554 # Galactic Gladiator's Plate Handguards [plate hands]
+        costs:
+          1602: 700
+
+      - id: 255561 # Galactic Gladiator's Plate Girdle [plate waist]
+        costs:
+          1602: 700
+
+      - id: 255562 # Galactic Gladiator's Plate Greatbelt [plate waist]
+        costs:
+          1602: 700
+
+      - id: 255557 # Galactic Gladiator's Plate Legguards [plate legs]
+        costs:
+          1602: 875
+
+      - id: 255558 # Galactic Gladiator's Plate Wargreaves [plate legs]
+        costs:
+          1602: 875
+
+      - id: 255552 # Galactic Gladiator's Plate Stompers [plate feet]
+        costs:
+          1602: 700
+
+      - id: 255551 # Galactic Gladiator's Plate Warboots [plate feet]
+        costs:
+          1602: 700
+
+      # Demon Hunter set=5573
+
+      - id: 255441 # Galactic Gladiator's Leather Helm [leather head]
+        costs:
+          1602: 875
+
+      - id: 255442 # Galactic Gladiator's Leather Mask [leather head]
+        costs:
+          1602: 875
+
+      - id: 255446 # Galactic Gladiator's Leather Shoulderpads [leather shoulders]
+        costs:
+          1602: 700
+
+      - id: 255445 # Galactic Gladiator's Leather Spaulders [leather shoulders]
+        costs:
+          1602: 700
+
+      - id: 255451 # Galactic Gladiator's Cloak [cloak]
+        costs:
+          1602: 525
+
+      - id: 255452 # Galactic Gladiator's Drape [cloak]
+        costs:
+          1602: 525
+
+      - id: 255453 # Galactic Gladiator's Shawl [cloak]
+        costs:
+          1602: 525
+
+      - id: 255436 # Galactic Gladiator's Leather Jerkin [leather chest]
+        costs:
+          1602: 875
+
+      - id: 255435 # Galactic Gladiator's Leather Vest [leather chest]
+        costs:
+          1602: 875
+
+      - id: 255450 # Galactic Gladiator's Leather Wristguards [leather wrists]
+        costs:
+          1602: 525
+
+      - id: 255449 # Galactic Gladiator's Leather Wristwraps [leather wrists]
+        costs:
+          1602: 525
+
+      - id: 255439 # Galactic Gladiator's Leather Gloves [leather hands]
+        costs:
+          1602: 700
+
+      - id: 255440 # Galactic Gladiator's Leather Grips [leather hands]
+        costs:
+          1602: 700
+
+      - id: 255447 # Galactic Gladiator's Leather Belt [leather waist]
+        costs:
+          1602: 700
+
+      - id: 255448 # Galactic Gladiator's Leather Strap [leather waist]
+        costs:
+          1602: 700
+
+      - id: 255443 # Galactic Gladiator's Leather Breeches [leather legs]
+        costs:
+          1602: 875
+
+      - id: 255444 # Galactic Gladiator's Leather Legwraps [leather legs]
+        costs:
+          1602: 875
+
+      - id: 255437 # Galactic Gladiator's Leather Boots [leather feet]
+        costs:
+          1602: 700
+
+      - id: 255438 # Galactic Gladiator's Leather Treads [leather feet]
+        costs:
+          1602: 700
+
+      # Druid set=5574
+
+      - id: 255421 # Galactic Gladiator's Leather Helm [leather head]
+        costs:
+          1602: 875
+
+      - id: 255422 # Galactic Gladiator's Leather Mask [leather head]
+        costs:
+          1602: 875
+
+      - id: 255426 # Galactic Gladiator's Leather Shoulderpads [leather shoulders]
+        costs:
+          1602: 700
+
+      - id: 255425 # Galactic Gladiator's Leather Spaulders [leather shoulders]
+        costs:
+          1602: 700
+
+      - id: 255432 # Galactic Gladiator's Cloak [cloak]
+        costs:
+          1602: 525
+
+      - id: 255433 # Galactic Gladiator's Drape [cloak]
+        costs:
+          1602: 525
+
+      - id: 255434 # Galactic Gladiator's Shawl [cloak]
+        costs:
+          1602: 525
+
+      - id: 255415 # Galactic Gladiator's Leather Vest [leather chest]
+        costs:
+          1602: 875
+
+      - id: 255416 # Galactic Gladiator's Leather Vestments [leather chest]
+        costs:
+          1602: 875
+
+      - id: 255431 # Galactic Gladiator's Leather Wristguards [leather wrists]
+        costs:
+          1602: 525
+
+      - id: 255430 # Galactic Gladiator's Leather Wristwraps [leather wrists]
+        costs:
+          1602: 525
+
+      - id: 255419 # Galactic Gladiator's Leather Gloves [leather hands]
+        costs:
+          1602: 700
+
+      - id: 255420 # Galactic Gladiator's Leather Grips [leather hands]
+        costs:
+          1602: 700
+
+      - id: 255427 # Galactic Gladiator's Leather Belt [leather waist]
+        costs:
+          1602: 700
+
+      - id: 255429 # Galactic Gladiator's Leather Strap [leather waist]
+        costs:
+          1602: 700
+
+      - id: 255423 # Galactic Gladiator's Leather Breeches [leather legs]
+        costs:
+          1602: 875
+
+      - id: 255424 # Galactic Gladiator's Leather Legwraps [leather legs]
+        costs:
+          1602: 875
+
+      - id: 255417 # Galactic Gladiator's Leather Boots [leather feet]
+        costs:
+          1602: 700
+
+      - id: 255418 # Galactic Gladiator's Leather Treads [leather feet]
+        costs:
+          1602: 700
+
+      # Evoker set=5575
+
+      - id: 255499 # Galactic Gladiator's Chain Faceguard [mail head]
+        costs:
+          1602: 875
+
+      - id: 255498 # Galactic Gladiator's Chain Helm [mail head]
+        costs:
+          1602: 875
+
+      - id: 255502 # Galactic Gladiator's Chain Monnion [mail shoulders]
+        costs:
+          1602: 700
+
+      - id: 255503 # Galactic Gladiator's Chain Shoulderguard [mail shoulders]
+        costs:
+          1602: 700
+
+      - id: 255508 # Galactic Gladiator's Cloak [cloak]
+        costs:
+          1602: 525
+
+      - id: 255509 # Galactic Gladiator's Drape [cloak]
+        costs:
+          1602: 525
+
+      - id: 255510 # Galactic Gladiator's Shawl [cloak]
+        costs:
+          1602: 525
+
+      - id: 255492 # Galactic Gladiator's Armored Scales [mail chest]
+        costs:
+          1602: 875
+
+      - id: 255493 # Galactic Gladiator's Scaleguard [mail chest]
+        costs:
+          1602: 875
+
+      - id: 255507 # Galactic Gladiator's Chain Bracers [mail wrists]
+        costs:
+          1602: 525
+
+      - id: 255506 # Galactic Gladiator's Chain Wristguards [mail wrists]
+        costs:
+          1602: 525
+
+      - id: 255496 # Galactic Gladiator's Chain Gauntlets [mail hands]
+        costs:
+          1602: 700
+
+      - id: 255497 # Galactic Gladiator's Chain Handguards [mail hands]
+        costs:
+          1602: 700
+
+      - id: 255504 # Galactic Gladiator's Chain Belt [mail waist]
+        costs:
+          1602: 700
+
+      - id: 255505 # Galactic Gladiator's Chain Girdle [mail waist]
+        costs:
+          1602: 700
+
+      - id: 255501 # Galactic Gladiator's Chain Breeches [mail legs]
+        costs:
+          1602: 875
+
+      - id: 255500 # Galactic Gladiator's Chain Leggings [mail legs]
+        costs:
+          1602: 875
+
+      - id: 255495 # Galactic Gladiator's Chain Boots [mail feet]
+        costs:
+          1602: 700
+
+      - id: 255494 # Galactic Gladiator's Chain Sabatons [mail feet]
+        costs:
+          1602: 700
+
+      # Hunter set=5576
+
+      - id: 255518 # Galactic Gladiator's Chain Faceguard [mail head]
+        costs:
+          1602: 875
+
+      - id: 255517 # Galactic Gladiator's Chain Helm [mail head]
+        costs:
+          1602: 875
+
+      - id: 255521 # Galactic Gladiator's Chain Monnion [mail shoulders]
+        costs:
+          1602: 700
+
+      - id: 255522 # Galactic Gladiator's Chain Shoulderguard [mail shoulders]
+        costs:
+          1602: 700
+
+      - id: 255527 # Galactic Gladiator's Cloak [cloak]
+        costs:
+          1602: 525
+
+      - id: 255528 # Galactic Gladiator's Drape [cloak]
+        costs:
+          1602: 525
+
+      - id: 255529 # Galactic Gladiator's Shawl [cloak]
+        costs:
+          1602: 525
+
+      - id: 255512 # Galactic Gladiator's Chain Tunic [mail chest]
+        costs:
+          1602: 875
+
+      - id: 255511 # Galactic Gladiator's Chain Vest [mail chest]
+        costs:
+          1602: 875
+
+      - id: 255526 # Galactic Gladiator's Chain Bracers [mail wrists]
+        costs:
+          1602: 525
+
+      - id: 255525 # Galactic Gladiator's Chain Wristguards [mail wrists]
+        costs:
+          1602: 525
+
+      - id: 255515 # Galactic Gladiator's Chain Gauntlets [mail hands]
+        costs:
+          1602: 700
+
+      - id: 255516 # Galactic Gladiator's Chain Handguards [mail hands]
+        costs:
+          1602: 700
+
+      - id: 255523 # Galactic Gladiator's Chain Belt [mail waist]
+        costs:
+          1602: 700
+
+      - id: 255524 # Galactic Gladiator's Chain Girdle [mail waist]
+        costs:
+          1602: 700
+
+      - id: 255520 # Galactic Gladiator's Chain Breeches [mail legs]
+        costs:
+          1602: 875
+
+      - id: 255519 # Galactic Gladiator's Chain Leggings [mail legs]
+        costs:
+          1602: 875
+
+      - id: 255514 # Galactic Gladiator's Chain Boots [mail feet]
+        costs:
+          1602: 700
+
+      - id: 255513 # Galactic Gladiator's Chain Sabatons [mail feet]
+        costs:
+          1602: 700
+
+      # Mage set=5577
+
+      - id: 255364 # Galactic Gladiator's Silk Cap [cloth head]
+        costs:
+          1602: 875
+
+      - id: 255363 # Galactic Gladiator's Silk Hat [cloth head]
+        costs:
+          1602: 875
+
+      - id: 255368 # Galactic Gladiator's Silk Amice [cloth shoulders]
+        costs:
+          1602: 700
+
+      - id: 255367 # Galactic Gladiator's Silk Mantle [cloth shoulders]
+        costs:
+          1602: 700
+
+      - id: 255373 # Galactic Gladiator's Cloak [cloak]
+        costs:
+          1602: 525
+
+      - id: 255374 # Galactic Gladiator's Drape [cloak]
+        costs:
+          1602: 525
+
+      - id: 255375 # Galactic Gladiator's Shawl [cloak]
+        costs:
+          1602: 525
+
+      - id: 255358 # Galactic Gladiator's Silk Gown [cloth chest]
+        costs:
+          1602: 875
+
+      - id: 255357 # Galactic Gladiator's Silk Robe [cloth chest]
+        costs:
+          1602: 875
+
+      - id: 255372 # Galactic Gladiator's Silk Armbands [cloth wrists]
+        costs:
+          1602: 525
+
+      - id: 255371 # Galactic Gladiator's Silk Wristwraps [cloth wrists]
+        costs:
+          1602: 525
+
+      - id: 255361 # Galactic Gladiator's Silk Gloves [cloth hands]
+        costs:
+          1602: 700
+
+      - id: 255362 # Galactic Gladiator's Silk Handwraps [cloth hands]
+        costs:
+          1602: 700
+
+      - id: 255370 # Galactic Gladiator's Silk Belt [cloth waist]
+        costs:
+          1602: 700
+
+      - id: 255369 # Galactic Gladiator's Silk Cord [cloth waist]
+        costs:
+          1602: 700
+
+      - id: 255365 # Galactic Gladiator's Silk Leggings [cloth legs]
+        costs:
+          1602: 875
+
+      - id: 255366 # Galactic Gladiator's Silk Trousers [cloth legs]
+        costs:
+          1602: 875
+
+      - id: 255359 # Galactic Gladiator's Silk Slippers [cloth feet]
+        costs:
+          1602: 700
+
+      - id: 255360 # Galactic Gladiator's Silk Treads [cloth feet]
+        costs:
+          1602: 700
+
+      # Monk set=5578
+
+      - id: 255460 # Galactic Gladiator's Leather Helm [leather head]
+        costs:
+          1602: 875
+
+      - id: 255461 # Galactic Gladiator's Leather Mask [leather head]
+        costs:
+          1602: 875
+
+      - id: 255465 # Galactic Gladiator's Leather Shoulderpads [leather shoulders]
+        costs:
+          1602: 700
+
+      - id: 255464 # Galactic Gladiator's Leather Spaulders [leather shoulders]
+        costs:
+          1602: 700
+
+      - id: 255470 # Galactic Gladiator's Cloak [cloak]
+        costs:
+          1602: 525
+
+      - id: 255471 # Galactic Gladiator's Drape [cloak]
+        costs:
+          1602: 525
+
+      - id: 255472 # Galactic Gladiator's Shawl [cloak]
+        costs:
+          1602: 525
+
+      - id: 255455 # Galactic Gladiator's Leather Jerkin [leather chest]
+        costs:
+          1602: 875
+
+      - id: 255454 # Galactic Gladiator's Leather Vest [leather chest]
+        costs:
+          1602: 875
+
+      - id: 255469 # Galactic Gladiator's Leather Wristguards [leather wrists]
+        costs:
+          1602: 525
+
+      - id: 255468 # Galactic Gladiator's Leather Wristwraps [leather wrists]
+        costs:
+          1602: 525
+
+      - id: 255458 # Galactic Gladiator's Leather Gloves [leather hands]
+        costs:
+          1602: 700
+
+      - id: 255459 # Galactic Gladiator's Leather Grips [leather hands]
+        costs:
+          1602: 700
+
+      - id: 255466 # Galactic Gladiator's Leather Belt [leather waist]
+        costs:
+          1602: 700
+
+      - id: 255467 # Galactic Gladiator's Leather Strap [leather waist]
+        costs:
+          1602: 700
+
+      - id: 255462 # Galactic Gladiator's Leather Breeches [leather legs]
+        costs:
+          1602: 875
+
+      - id: 255463 # Galactic Gladiator's Leather Legwraps [leather legs]
+        costs:
+          1602: 875
+
+      - id: 255456 # Galactic Gladiator's Leather Boots [leather feet]
+        costs:
+          1602: 700
+
+      - id: 255457 # Galactic Gladiator's Leather Treads [leather feet]
+        costs:
+          1602: 700
+
+      # Paladin set=5579
+
+      - id: 255574 # Galactic Gladiator's Plate Helm [plate head]
+        costs:
+          1602: 875
+
+      - id: 255575 # Galactic Gladiator's Plate Helmet [plate head]
+        costs:
+          1602: 875
+
+      - id: 255580 # Galactic Gladiator's Plate Pauldrons [plate shoulders]
+        costs:
+          1602: 700
+
+      - id: 255579 # Galactic Gladiator's Plate Shoulders [plate shoulders]
+        costs:
+          1602: 700
+
+      - id: 255585 # Galactic Gladiator's Cloak [cloak]
+        costs:
+          1602: 525
+
+      - id: 255586 # Galactic Gladiator's Drape [cloak]
+        costs:
+          1602: 525
+
+      - id: 255587 # Galactic Gladiator's Shawl [cloak]
+        costs:
+          1602: 525
+
+      - id: 255568 # Galactic Gladiator's Chestguard [plate chest]
+        costs:
+          1602: 875
+
+      - id: 255569 # Galactic Gladiator's Chestplate [plate chest]
+        costs:
+          1602: 875
+
+      - id: 255584 # Galactic Gladiator's Plate Vambraces [plate wrists]
+        costs:
+          1602: 525
+
+      - id: 255583 # Galactic Gladiator's Plate Wristguards [plate wrists]
+        costs:
+          1602: 525
+
+      - id: 255572 # Galactic Gladiator's Plate Gauntlets [plate hands]
+        costs:
+          1602: 700
+
+      - id: 255573 # Galactic Gladiator's Plate Handguards [plate hands]
+        costs:
+          1602: 700
+
+      - id: 255581 # Galactic Gladiator's Plate Girdle [plate waist]
+        costs:
+          1602: 700
+
+      - id: 255582 # Galactic Gladiator's Plate Greatbelt [plate waist]
+        costs:
+          1602: 700
+
+      - id: 255576 # Galactic Gladiator's Plate Legguards [plate legs]
+        costs:
+          1602: 875
+
+      - id: 255578 # Galactic Gladiator's Plate Tasses [plate legs]
+        costs:
+          1602: 875
+
+      - id: 255571 # Galactic Gladiator's Plate Stompers [plate feet]
+        costs:
+          1602: 700
+
+      - id: 255570 # Galactic Gladiator's Plate Warboots [plate feet]
+        costs:
+          1602: 700
+
+      # Priest set=5580
+
+      - id: 255383 # Galactic Gladiator's Silk Guise [cloth head]
+        costs:
+          1602: 875
+
+      - id: 255382 # Galactic Gladiator's Silk Hood [cloth head]
+        costs:
+          1602: 875
+
+      - id: 255387 # Galactic Gladiator's Silk Amice [cloth shoulders]
+        costs:
+          1602: 700
+
+      - id: 255386 # Galactic Gladiator's Silk Mantle [cloth shoulders]
+        costs:
+          1602: 700
+
+      - id: 255392 # Galactic Gladiator's Cloak [cloak]
+        costs:
+          1602: 525
+
+      - id: 255393 # Galactic Gladiator's Drape [cloak]
+        costs:
+          1602: 525
+
+      - id: 255394 # Galactic Gladiator's Shawl [cloak]
+        costs:
+          1602: 525
+
+      - id: 255376 # Galactic Gladiator's Silk Robe [cloth chest]
+        costs:
+          1602: 875
+
+      - id: 255377 # Galactic Gladiator's Silk Vestments [cloth chest]
+        costs:
+          1602: 875
+
+      - id: 255391 # Galactic Gladiator's Silk Armbands [cloth wrists]
+        costs:
+          1602: 525
+
+      - id: 255390 # Galactic Gladiator's Silk Wristwraps [cloth wrists]
+        costs:
+          1602: 525
+
+      - id: 255380 # Galactic Gladiator's Silk Gloves [cloth hands]
+        costs:
+          1602: 700
+
+      - id: 255381 # Galactic Gladiator's Silk Handwraps [cloth hands]
+        costs:
+          1602: 700
+
+      - id: 255389 # Galactic Gladiator's Silk Belt [cloth waist]
+        costs:
+          1602: 700
+
+      - id: 255388 # Galactic Gladiator's Silk Cord [cloth waist]
+        costs:
+          1602: 700
+
+      - id: 255384 # Galactic Gladiator's Silk Leggings [cloth legs]
+        costs:
+          1602: 875
+
+      - id: 255385 # Galactic Gladiator's Silk Trousers [cloth legs]
+        costs:
+          1602: 875
+
+      - id: 255378 # Galactic Gladiator's Silk Slippers [cloth feet]
+        costs:
+          1602: 700
+
+      - id: 255379 # Galactic Gladiator's Silk Treads [cloth feet]
+        costs:
+          1602: 700
+
+      # Rogue set=5581
+
+      - id: 255479 # Galactic Gladiator's Leather Helm [leather head]
+        costs:
+          1602: 875
+
+      - id: 255480 # Galactic Gladiator's Leather Mask [leather head]
+        costs:
+          1602: 875
+
+      - id: 255484 # Galactic Gladiator's Leather Shoulderpads [leather shoulders]
+        costs:
+          1602: 700
+
+      - id: 255483 # Galactic Gladiator's Leather Spaulders [leather shoulders]
+        costs:
+          1602: 700
+
+      - id: 255489 # Galactic Gladiator's Cloak [cloak]
+        costs:
+          1602: 525
+
+      - id: 255490 # Galactic Gladiator's Drape [cloak]
+        costs:
+          1602: 525
+
+      - id: 255491 # Galactic Gladiator's Shawl [cloak]
+        costs:
+          1602: 525
+
+      - id: 255474 # Galactic Gladiator's Leather Jerkin [leather chest]
+        costs:
+          1602: 875
+
+      - id: 255473 # Galactic Gladiator's Leather Vest [leather chest]
+        costs:
+          1602: 875
+
+      - id: 255488 # Galactic Gladiator's Leather Wristguards [leather wrists]
+        costs:
+          1602: 525
+
+      - id: 255487 # Galactic Gladiator's Leather Wristwraps [leather wrists]
+        costs:
+          1602: 525
+
+      - id: 255477 # Galactic Gladiator's Leather Gloves [leather hands]
+        costs:
+          1602: 700
+
+      - id: 255478 # Galactic Gladiator's Leather Grips [leather hands]
+        costs:
+          1602: 700
+
+      - id: 255485 # Galactic Gladiator's Leather Belt [leather waist]
+        costs:
+          1602: 700
+
+      - id: 255486 # Galactic Gladiator's Leather Strap [leather waist]
+        costs:
+          1602: 700
+
+      - id: 255481 # Galactic Gladiator's Leather Breeches [leather legs]
+        costs:
+          1602: 875
+
+      - id: 255482 # Galactic Gladiator's Leather Legwraps [leather legs]
+        costs:
+          1602: 875
+
+      - id: 255475 # Galactic Gladiator's Leather Boots [leather feet]
+        costs:
+          1602: 700
+
+      - id: 255476 # Galactic Gladiator's Leather Treads [leather feet]
+        costs:
+          1602: 700
+
+      # Shaman set=5582
+
+      - id: 255537 # Galactic Gladiator's Chain Faceguard [mail head]
+        costs:
+          1602: 875
+
+      - id: 255536 # Galactic Gladiator's Chain Helm [mail head]
+        costs:
+          1602: 875
+
+      - id: 255540 # Galactic Gladiator's Chain Monnion [mail shoulders]
+        costs:
+          1602: 700
+
+      - id: 255541 # Galactic Gladiator's Chain Shoulderguard [mail shoulders]
+        costs:
+          1602: 700
+
+      - id: 255546 # Galactic Gladiator's Cloak [cloak]
+        costs:
+          1602: 525
+
+      - id: 255547 # Galactic Gladiator's Drape [cloak]
+        costs:
+          1602: 525
+
+      - id: 255548 # Galactic Gladiator's Shawl [cloak]
+        costs:
+          1602: 525
+
+      - id: 255531 # Galactic Gladiator's Chain Tunic [mail chest]
+        costs:
+          1602: 875
+
+      - id: 255530 # Galactic Gladiator's Chain Vest [mail chest]
+        costs:
+          1602: 875
+
+      - id: 255545 # Galactic Gladiator's Chain Bracers [mail wrists]
+        costs:
+          1602: 525
+
+      - id: 255544 # Galactic Gladiator's Chain Wristguards [mail wrists]
+        costs:
+          1602: 525
+
+      - id: 255534 # Galactic Gladiator's Chain Gauntlets [mail hands]
+        costs:
+          1602: 700
+
+      - id: 255535 # Galactic Gladiator's Chain Handguards [mail hands]
+        costs:
+          1602: 700
+
+      - id: 255542 # Galactic Gladiator's Chain Belt [mail waist]
+        costs:
+          1602: 700
+
+      - id: 255543 # Galactic Gladiator's Chain Girdle [mail waist]
+        costs:
+          1602: 700
+
+      - id: 255539 # Galactic Gladiator's Chain Breeches [mail legs]
+        costs:
+          1602: 875
+
+      - id: 255538 # Galactic Gladiator's Chain Leggings [mail legs]
+        costs:
+          1602: 875
+
+      - id: 255533 # Galactic Gladiator's Chain Boots [mail feet]
+        costs:
+          1602: 700
+
+      - id: 255532 # Galactic Gladiator's Chain Sabatons [mail feet]
+        costs:
+          1602: 700
+
+      # Warlock set=5583
+
+      - id: 255402 # Galactic Gladiator's Silk Guise [cloth head]
+        costs:
+          1602: 875
+
+      - id: 255401 # Galactic Gladiator's Silk Hood [cloth head]
+        costs:
+          1602: 875
+
+      - id: 255407 # Galactic Gladiator's Silk Amice [cloth shoulders]
+        costs:
+          1602: 700
+
+      - id: 255406 # Galactic Gladiator's Silk Mantle [cloth shoulders]
+        costs:
+          1602: 700
+
+      - id: 255412 # Galactic Gladiator's Cloak [cloak]
+        costs:
+          1602: 525
+
+      - id: 255413 # Galactic Gladiator's Drape [cloak]
+        costs:
+          1602: 525
+
+      - id: 255414 # Galactic Gladiator's Shawl [cloak]
+        costs:
+          1602: 525
+
+      - id: 255395 # Galactic Gladiator's Silk Raiment [cloth chest]
+        costs:
+          1602: 875
+
+      - id: 255396 # Galactic Gladiator's Silk Vestments [cloth chest]
+        costs:
+          1602: 875
+
+      - id: 255411 # Galactic Gladiator's Silk Armbands [cloth wrists]
+        costs:
+          1602: 525
+
+      - id: 255410 # Galactic Gladiator's Silk Wristwraps [cloth wrists]
+        costs:
+          1602: 525
+
+      - id: 255399 # Galactic Gladiator's Silk Gloves [cloth hands]
+        costs:
+          1602: 700
+
+      - id: 255400 # Galactic Gladiator's Silk Handwraps [cloth hands]
+        costs:
+          1602: 700
+
+      - id: 255409 # Galactic Gladiator's Silk Belt [cloth waist]
+        costs:
+          1602: 700
+
+      - id: 255408 # Galactic Gladiator's Silk Cord [cloth waist]
+        costs:
+          1602: 700
+
+      - id: 255404 # Galactic Gladiator's Silk Leggings [cloth legs]
+        costs:
+          1602: 875
+
+      - id: 255405 # Galactic Gladiator's Silk Trousers [cloth legs]
+        costs:
+          1602: 875
+
+      - id: 255397 # Galactic Gladiator's Silk Slippers [cloth feet]
+        costs:
+          1602: 700
+
+      - id: 255398 # Galactic Gladiator's Silk Treads [cloth feet]
+        costs:
+          1602: 700
+
+      # Warrior set=5584
+
+      - id: 255594 # Galactic Gladiator's Plate Helm [plate head]
+        costs:
+          1602: 875
+
+      - id: 255595 # Galactic Gladiator's Plate Helmet [plate head]
+        costs:
+          1602: 875
+
+      - id: 255599 # Galactic Gladiator's Plate Pauldrons [plate shoulders]
+        costs:
+          1602: 700
+
+      - id: 255598 # Galactic Gladiator's Plate Shoulders [plate shoulders]
+        costs:
+          1602: 700
+
+      - id: 255604 # Galactic Gladiator's Cloak [cloak]
+        costs:
+          1602: 525
+
+      - id: 255605 # Galactic Gladiator's Drape [cloak]
+        costs:
+          1602: 525
+
+      - id: 255606 # Galactic Gladiator's Shawl [cloak]
+        costs:
+          1602: 525
+
+      - id: 255588 # Galactic Gladiator's Chestguard [plate chest]
+        costs:
+          1602: 875
+
+      - id: 255589 # Galactic Gladiator's Chestplate [plate chest]
+        costs:
+          1602: 875
+
+      - id: 255603 # Galactic Gladiator's Plate Vambraces [plate wrists]
+        costs:
+          1602: 525
+
+      - id: 255602 # Galactic Gladiator's Plate Wristguards [plate wrists]
+        costs:
+          1602: 525
+
+      - id: 255592 # Galactic Gladiator's Plate Gauntlets [plate hands]
+        costs:
+          1602: 700
+
+      - id: 255593 # Galactic Gladiator's Plate Handguards [plate hands]
+        costs:
+          1602: 700
+
+      - id: 255600 # Galactic Gladiator's Plate Girdle [plate waist]
+        costs:
+          1602: 700
+
+      - id: 255601 # Galactic Gladiator's Plate Greatbelt [plate waist]
+        costs:
+          1602: 700
+
+      - id: 255596 # Galactic Gladiator's Plate Legguards [plate legs]
+        costs:
+          1602: 875
+
+      - id: 255597 # Galactic Gladiator's Plate Wargreaves [plate legs]
+        costs:
+          1602: 875
+
+      - id: 255591 # Galactic Gladiator's Plate Stompers [plate feet]
+        costs:
+          1602: 700
+
+      - id: 255590 # Galactic Gladiator's Plate Warboots [plate feet]
+        costs:
+          1602: 700
+
+      # 0 set=5598
+
+      - id: 255627 # Galactic Gladiator's Hammer [1h ? mace]
+        costs:
+          1602: 875
+
+      - id: 255639 # Galactic Gladiator's Mace [1h ? mace]
+        costs:
+          1602: 1225
+
+      - id: 255624 # Galactic Gladiator's Scepter [1h ? mace]
+        costs:
+          1602: 1225
+
+      - id: 255636 # Galactic Gladiator's Gladius [1h ? sword]
+        costs:
+          1602: 875
+
+      - id: 255635 # Galactic Gladiator's Sword [1h ? sword]
+        costs:
+          1602: 875
+
+      - id: 255619 # Galactic Gladiator's Dagger [? dagger]
+        costs:
+          1602: 875
+
+      - id: 255628 # Galactic Gladiator's Shattered Blade [? dagger]
+        costs:
+          1602: 1225
+
+      - id: 267371 # Galactic Gladiator's Ripper [fist]
+        costs:
+          1602: 1225
+
+      - id: 255629 # Galactic Gladiator's Slicer [fist]
+        costs:
+          1602: 875
+
+      - id: 255620 # Galactic Gladiator's Warglaive [warglaive]
+        costs:
+          1602: 875
+
+      - id: 265601 # Galactic Gladiator's Greataxe [2h ? axe]
+        costs:
+          1602: 1750
+
+      - id: 255634 # Galactic Gladiator's Morningstar [2h ? mace]
+        costs:
+          1602: 1750
+
+      - id: 255633 # Galactic Gladiator's Greatsword [2h ? sword]
+        costs:
+          1602: 1750
+
+      - id: 255621 # Galactic Gladiator's Polearm [polearm]
+        costs:
+          1602: 1750
+
+      - id: 255637 # Galactic Gladiator's Battlestaff [staff]
+        costs:
+          1602: 1750
+
+      - id: 255631 # Galactic Gladiator's Greatstaff [staff]
+        costs:
+          1602: 1750
+
+      - id: 255622 # Galactic Gladiator's Staff [staff]
+        costs:
+          1602: 1750
+
+      - id: 255623 # Galactic Gladiator's Bow [bow]
+        costs:
+          1602: 1750
+
+      - id: 255630 # Galactic Gladiator's Blaster [gun]
+        costs:
+          1602: 1750
+
+      - id: 255638 # Galactic Gladiator's Focus [off-hand]
+        costs:
+          1602: 525
+
+      - id: 255625 # Galactic Gladiator's Tome [off-hand]
+        costs:
+          1602: 525
+
+      - id: 255632 # Galactic Gladiator's Bulwark [shield]
+        costs:
+          1602: 525
+
+      - id: 255626 # Galactic Gladiator's Shield [shield]
+        costs:
+          1602: 525
