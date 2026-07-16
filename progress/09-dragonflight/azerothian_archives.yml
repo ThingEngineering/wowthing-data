@@ -1,0 +1,21 @@
+name: "Azerothian Archives"
+groups:
+  
+- name: "Azerothian Archives"
+  icon: "achievement/19790"
+  iconText: "AA"
+  lookup: none
+  type: questline
+  data:
+    0:
+      - id: 5466
+        name: "Tutorial"
+      
+      - id: 5468
+        name: "Excavation Sites"
+
+      - id: 5469
+        name: "Technoscrying Sites"
+      
+      - id: 5470
+        name: "Research Site & Wrap Up"
