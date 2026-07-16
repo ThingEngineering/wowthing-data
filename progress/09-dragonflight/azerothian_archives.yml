@@ -19,3 +19,64 @@ groups:
       
       - id: 5470
         name: "Research Site & Wrap Up"
+
+- name: "Just One More Thing"
+  icon: "achievement/19792"
+  iconText: "JOMT"
+  lookup: none
+  type: quest
+  data:
+    0:
+      - id: 79601
+        name: "Lost Atheneum 1"
+
+      - id: 79600
+        name: "Lost Atheneum 2"
+
+      - id: 79599
+        name: "Lost Atheneum 3"
+
+      - id: 79596
+        name: "The Riverbed 1"
+
+      - id: 79597
+        name: "The Riverbed 2"
+
+      - id: 79598
+        name: "The Riverbed 3"
+
+      - id: 79604
+        name: "Igira's Watch 1"
+
+      - id: 79603
+        name: "Igira's Watch 2"
+
+      - id: 79602
+        name: "Igira's Watch 3"
+
+      - id: 79607
+        name: "Gaze of Neltharion 1"
+
+      - id: 79606
+        name: "Gaze of Neltharion 2"
+
+      - id: 79605
+        name: "Gaze of Neltharion 3"
+
+      - id: 79610
+        name: "Concord Observatory 1"
+
+      - id: 79609
+        name: "Concord Observatory 2"
+
+      - id: 79608
+        name: "Concord Observatory 3"
+
+      - id: 79613
+        name: "Winglord's Perch 1"
+
+      - id: 79612
+        name: "Winglord's Perch 2"
+
+      - id: 79611
+        name: "Winglord's Perch 3"
