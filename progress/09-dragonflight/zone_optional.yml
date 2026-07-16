@@ -134,7 +134,7 @@ groups:
 - name: separator
 
 - name: "Tarjin the Blind"
-  icon: ""
+  icon: "achievement/16406"
   iconText: "Tarj"
   lookup: none
   type: quest
