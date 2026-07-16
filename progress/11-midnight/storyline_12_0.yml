@@ -66,3 +66,35 @@ groups:
       - id: 5730 # Dawn of Reckoning [15]
 
 #      - id: 5979 # The Darkening Sky [16]
+
+- name: separator
+
+- name: "Omnium Folio"
+  icon: "achievement/63325"
+  iconText: "Om"
+  lookup: none
+  type: mixed
+  data:
+    0:
+      - type: questline
+        id: 6275
+
+      - type: quest
+        id: 96410
+        name: "Week 1: Empower"
+
+      - type: quest
+        id: 96441
+        name: "Week 2: Ritual Sites"
+
+      - type: quest
+        id: 96442
+        name: "Week 3: Void Assaults"
+
+      - type: quest
+        id: 96443
+        name: "Week 4: Instances"
+
+      - type: quest
+        id: 96444
+        name: "Week 5: Naigtal/Val World Boss"
