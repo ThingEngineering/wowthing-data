@@ -24,6 +24,7 @@ groups:
     - 202859 # Warcraft Rumble Toy: Undead Ghoul
     - 202865 # Warcraft Rumble Toy: Whelp Egg
     - 232301 # Tempered Banner of the Algari
+    - 254666 # Exodar Replica (TBC Classic)
 
 - name: "PvP"
   things:

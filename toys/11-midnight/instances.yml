@@ -21,3 +21,8 @@ groups:
 - name: "The Voidspire (Raid)"
   things:
     - 264672 # Cosmic Ritual Stone
+
+- name: "Sporefall (Raid)"
+  things:
+    - 264313 # Madcap Redcap
+    - 264367 # Mycomancer's Hearthspore

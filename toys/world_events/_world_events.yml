@@ -11,7 +11,12 @@ groups:
 - name: "Children's Week"
   things:
     - 69895 # Green Balloon
+    - 272287 # Nap Mat
     - 69896 # Yellow Balloon
+
+- name: "Darkspear Dash"
+  things:
+    - 267323 # Troll Scroll of Rainbow Roll
 
 - name: "Dastardly Duos"
   things:
@@ -25,6 +30,10 @@ groups:
     - 116889 # "Purple Phantom" Contender's Costume
     - 116890 # "Santo's Sun" Contender's Costume
     - 116891 # "Snowy Owl" Contender's Costume
+
+- name: "Great Gnomeregan Run"
+  things:
+    - 267472 # Gnomatic Projector
 
 - name: Noblegarden
   things:

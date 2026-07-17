@@ -1,6 +1,10 @@
 name: Timewalking
 groups:
 
+- name: "???"
+  things:
+    - 170380 # Jar of Sunwarmed Sand
+
 - name: "Burning Crusade"
   things:
   - 129929 # Ever-Shifting Mirror
@@ -42,3 +46,8 @@ groups:
   things:
     - 256881 # Steward's Bauble
     - 256893 # Wretched Dredger's Brand
+
+- name: "Dragonflight"
+  things:
+    - 259899 # Ashen Horn of the Fallen Keeper
+    - 260170 # Oathstone Fragment

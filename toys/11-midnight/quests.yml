@@ -16,3 +16,7 @@ groups:
 - name: "Voidstorm"
   things:
     - 243146 # Ren'dorei Struggle
+
+- name: "Naigtal/Val"
+  things:
+    - 276371 # Lightveil Recall Beacon
