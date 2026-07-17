@@ -25,6 +25,7 @@ groups:
   things:
     - 2792 # Frenzied Shredclaw (Exalted)
     - 2791 # Prowling Shredclaw (Exalted)
+    - 2764 # Duskbrute Harrower (Paragon)
 
 - name: "Ritual Sites"
   things:

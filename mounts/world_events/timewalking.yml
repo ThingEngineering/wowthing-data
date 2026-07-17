@@ -5,6 +5,7 @@ groups:
   things:
     - 1532 # Soaring Spelltome
     - 2518 # Chrono Corsair (Master of the Turbulent Timeways III)
+    - 2806 # Spawn of Vyranoth (Master of the Turbulent Timeways V)
 
 - name: Misc
   things:
@@ -57,5 +58,12 @@ groups:
 
 - name: "Shadowlands"
   things:
-    - 2803 # Skypaw Glimmerfur
+    - 1374 # Bonecleaver's Skullboar
     - 2804 # Crimson Lupine
+    - 2803 # Skypaw Glimmerfur
+    - 2815 # Snowpaw Glimmerfur Prowler
+
+- name: "Dragonflight"
+  things:
+    - 1710 # Black-Furred Bakar
+    - 1470 # Liquid Hot Magma Slug

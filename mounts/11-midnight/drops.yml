@@ -3,21 +3,26 @@ groups:
 
 - name: "Eversong Woods"
   things:
-    - 2762 # Cerulean Hawkstrider
-    - 2758 # Cobalt Dragonhawk
+    - 2762 # Cerulean Hawkstrider (rares)
+    - 2758 # Cobalt Dragonhawk (rares)
 
 - name: "Harandar"
   things:
+    - 2615 # Rootstalker Grimlynx (rares)
+    - 2708 # Vibrant Petalwing (rares)
     - 2749 # Echo of Aln'sharan
-    - 2615 # Rootstalker Grimlynx
-    - 2708 # Vibrant Petalwing
 
 - name: "Voidstorm"
   things:
-    - 2751 # Augmented Stormray
-    - 2827 # Sanguine Harrower
+    - 2751 # Augmented Stormray (rares)
+    - 2827 # Sanguine Harrower (rares)
+    - 2767 # Contained Stormarion Defender (Stormarion Assault)
 
 - name: "Zul'Aman"
   things:
-    - 2760 # Amani Sharptalon
-    - 2775 # Witherbark Pango
+    - 2760 # Amani Sharptalon (rares)
+    - 2775 # Witherbark Pango (rares)
+
+- name: "Sporefall (Raid)"
+  things:
+    - 2950 # Luminous Sporeglider

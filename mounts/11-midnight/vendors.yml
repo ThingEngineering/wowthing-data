@@ -24,3 +24,12 @@ groups:
 - name: "Void Assaults"
   things:
     - 2915 # Unbound Manawyrm
+
+- name: "Mythic+"
+  things:
+    - 3006 # Amethyst Mechsuit
+    - 3005 # Cerulean Deathwalker
+    - 3007 # Blue-Chip Shreddertank
+    - 3010 # High-Yield Shreddertank
+    - 3008 # Profit-Green Shreddertank
+    - 3009 # Speculative Shreddertank

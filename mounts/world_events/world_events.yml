@@ -54,6 +54,10 @@ groups:
   things:
     - 2327 # Lunar Launcher
 
+- name: "Midsummer Fire Festival"
+  things:
+    - 3036 # Sun Festival's Painted Roc
+
 - name: Noblegarden
   things:
   - 2023 # Noble Flying Carpet

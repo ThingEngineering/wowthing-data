@@ -10,6 +10,12 @@ groups:
     - 2755 # Umbral Dragonhawk (Life of the Party)
     - 2912 # Vivacious Chloroceros (Treasures of Harandar)
 
+- name: "Naigtal/Val"
+  things:
+    - 2990 # Netherforged Nullframe
+    - 3033 # Tortured Gorger
+    - 2988 # Voidmancer's Starcarver
+
 - name: "Delves"
   things:
     - 2773 # Giganto Manis (Glory of the Midnight Delver)
