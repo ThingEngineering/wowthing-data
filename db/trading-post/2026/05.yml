@@ -1,0 +1,143 @@
+things:
+  - type: vendor
+    name: "2026-05"
+    id: 1202605
+
+    groups:
+      - name: "2026-05"
+        range: -1
+        sortKey: "tp-7407" # (100-YY)(12-MM)
+
+    contents:
+
+      - id: 268364 # Gilneas Loyalist's Rouncey [mount]
+        costs:
+          2032: 500
+
+      - id: 268363 # Pyrewood Rebel's Rouncey [mount]
+        costs:
+          2032: 500
+
+      - id: 210141 # Brown-Furred Spiky Bakar [mount]
+        costs:
+          2032: 325
+
+      - id: 224576 # Lil' Flameo [pet]
+        costs:
+          2032: 250
+
+      - id: 228758 # Parrlok [pet]
+        costs:
+          2032: 250
+
+      - id: 268431 # Ensemble: Gilneas Loyalist Streetwear
+        costs:
+          2032: 475
+
+      - id: 237225 # Ensemble: Attire of the Gilneas Fox
+        costs:
+          2032: 440
+
+      - id: 237222 # Ensemble: Attire of the Woodland Raccoon
+        costs:
+          2032: 440
+
+      - id: 237224 # Ensemble: Attire of the Swift Fox
+        costs:
+          2032: 440
+
+      - id: 257989 # Ensemble: Sorcerer's Faded Garb
+        costs:
+          2032: 100
+
+      - id: 268806 # Scarred Tabard of Gilneas [tabard]
+        costs:
+          2032: 100
+
+      - id: 270289 # Crown of Faded Springflowers [head]
+        costs:
+          2032: 50
+
+      - id: 268831 # Stylish Black Cap [head]
+        costs:
+          2032: 50
+
+      - id: 268832 # Stylish Brown Top Hat [head]
+        costs:
+          2032: 50
+
+      - id: 268830 # Stylish Flowered Brown Cap [head]
+        costs:
+          2032: 50
+
+      - id: 252744 # Faded Winter Toque [head]
+        costs:
+          2032: 50
+
+      - id: 266087 # Ren'dorei Aspirant's Quiver [back]
+        costs:
+          2032: 100
+
+      - id: 262864 # Faded Dunecloth Vest [chest]
+        costs:
+          2032: 35
+
+      - id: 262846 # Faded Dunecloth Belt [waist]
+        costs:
+          2032: 30
+
+      - id: 262828 # Faded Dunecloth Skirt [legs]
+        costs:
+          2032: 35
+
+      - id: 210856 # Trader's Faded Sarong [legs]
+        costs:
+          2032: 100
+
+      - id: 268494 # Gilneas Loyalist Bonecracker [1h mace]
+        costs:
+          2032: 125
+
+      - id: 237343 # Nunchuck of the Renaissance [1h mace]
+        costs:
+          2032: 120
+
+      - id: 268492 # Pyrewood Rebel Bonecracker [1h mace]
+        costs:
+          2032: 125
+
+      - id: 237344 # Renaissance Katana [1h sword]
+        costs:
+          2032: 110
+
+      - id: 237342 # Renaissance Sai [dagger]
+        costs:
+          2032: 120
+
+      - id: 268498 # Gilneas Loyalist Knuckleblades [fist]
+        costs:
+          2032: 125
+
+      - id: 268496 # Pyrewood Rebel Knuckleblades [fist]
+        costs:
+          2032: 125
+
+      - id: 238252 # Large Renaissance Katana [2h sword]
+        costs:
+          2032: 130
+
+      - id: 260389 # Ren'dorei Aspirant's Bow [bow]
+        costs:
+          2032: 80
+
+      - id: 268514 # Gilneas Loyalist Boltshot [crossbow]
+        costs:
+          2032: 150
+
+      - id: 268512 # Pyrewood Rebel Boltshot [crossbow]
+        costs:
+          2032: 150
+
+      - id: 238217 # Offhand Renaissance Nunchuck [off-hand]
+        costs:
+          2032: 120
