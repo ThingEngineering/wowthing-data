@@ -1,0 +1,155 @@
+things:
+  - type: vendor
+    name: "2026-03"
+    id: 1202603
+
+    groups:
+      - name: "2026-03"
+        range: -1
+        sortKey: "tp-7409" # (100-YY)(12-MM)
+
+    contents:
+
+      - id: 235650 # Pearlescent Butterfly [mount]
+        costs:
+          2032: 700
+
+      - id: 235657 # Ruby Butterfly [mount]
+        costs:
+          2032: 700
+
+      - id: 263452 # Comfy Silvermoon Flying Quilt [mount]
+        costs:
+          2032: 550
+
+      - id: 235646 # Shimmermist Free Runner [mount]
+        costs:
+          2032: 325
+
+      - id: 258725 # Ensemble: Elaborate Lavender Mageweave
+        costs:
+          2032: 500
+
+      - id: 258727 # Ensemble: Elaborate Ruby Mageweave
+        costs:
+          2032: 500
+
+      - id: 235228 # Ensemble: Ornaments of the Blood Monarch
+        costs:
+          2032: 370
+
+      - id: 258018 # Ensemble: Sorcerer's Violet Garb
+        costs:
+          2032: 100
+
+      - id: 252749 # Violet Winter Toque [head]
+        costs:
+          2032: 50
+
+      - id: 234602 # Wings of the Blood Monarch [back]
+        costs:
+          2032: 225
+
+      - id: 266080 # Sentinel's Night Quiver [back]
+        costs:
+          2032: 100
+
+      - id: 251992 # Shadestalker's Hunting Quiver [back]
+        costs:
+          2032: 100
+
+      - id: 262869 # Violet Dunecloth Vest [chest]
+        costs:
+          2032: 35
+
+      - id: 262851 # Violet Dunecloth Belt [waist]
+        costs:
+          2032: 30
+
+      - id: 262833 # Violet Dunecloth Skirt [legs]
+        costs:
+          2032: 35
+
+      - id: 266095 # Obsidian Scale Treads [feet]
+        costs:
+          2032: 40
+
+      - id: 258406 # Lil' Navy "Whirlwind" Axe [1h axe]
+        costs:
+          2032: 100
+
+      - id: 235272 # Blood Monarch's Mace [1h mace]
+        costs:
+          2032: 250
+
+      - id: 266122 # Archer's Night Sabre [1h sword]
+        costs:
+          2032: 80
+
+      - id: 235291 # Blood Monarch's Sword [1h sword]
+        costs:
+          2032: 250
+
+      - id: 260732 # Glimr's Lil' Fish Stick [1h sword]
+        costs:
+          2032: 100
+
+      - id: 266097 # Huntress' Moonblade [1h sword]
+        costs:
+          2032: 80
+
+      - id: 266120 # Sisterhood's Crescent [1h sword]
+        costs:
+          2032: 80
+
+      - id: 266124 # Archer's Shadow Talon [dagger]
+        costs:
+          2032: 80
+
+      - id: 266125 # Priestess' Starblade [dagger]
+        costs:
+          2032: 80
+
+      - id: 260756 # Lil' Purple Claw [fist]
+        costs:
+          2032: 100
+
+      - id: 266096 # Huntress' Moonglaive [warglaive]
+        costs:
+          2032: 80
+
+      - id: 266121 # Sisterhood's Glaive [warglaive]
+        costs:
+          2032: 80
+
+      - id: 260743 # Big Navy "Whirlwind" Axe [2h axe]
+        costs:
+          2032: 115
+
+      - id: 235401 # Blood Monarch's Polearm [polearm]
+        costs:
+          2032: 300
+
+      - id: 266123 # Sisterhood's Moonlance [polearm]
+        costs:
+          2032: 100
+
+      - id: 235655 # Blood Monarch's Longbow [bow]
+        costs:
+          2032: 250
+
+      - id: 260382 # Sentinel's Night Bow [bow]
+        costs:
+          2032: 80
+
+      - id: 260762 # Lil' Blue Popper [gun]
+        costs:
+          2032: 100
+
+      - id: 235295 # Blood Monarch's Wand [wand]
+        costs:
+          2032: 200
+
+      - id: 266968 # Priestess' Starpoint [off-hand]
+        costs:
+          2032: 80
