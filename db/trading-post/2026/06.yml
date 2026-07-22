@@ -1,0 +1,135 @@
+things:
+  - type: vendor
+    name: "2026-06"
+    id: 1202606
+
+    groups:
+      - name: "2026-06"
+        range: -1
+        sortKey: "tp-7406" # (100-YY)(12-MM)
+
+    contents:
+
+      - id: 238941 # Coldflame Cormaera [mount]
+        costs:
+          2032: 700
+
+      - id: 268877 # Dusk-Painted Sun Roc [mount]
+        costs:
+          2032: 700
+
+      - id: 236415 # Reins of the Spotted Black Riding Goat [mount]
+        costs:
+          2032: 325
+
+      - id: 72153 # Sand Scarab [pet]
+        costs:
+          2032: 250
+
+      - id: 268743 # Ensemble: Sunbringer's Painted Battle Garb
+        costs:
+          2032: 675
+
+      - id: 268693 # Ensemble: Duskrunner's Painted Battle Garb
+        costs:
+          2032: 675
+
+      - id: 238438 # Ensemble: Lavaborn Battleplate
+        costs:
+          2032: 550
+
+      - id: 268893 # Ensemble: Duskrunner's Guiding Totems
+        costs:
+          2032: 350
+
+      - id: 268894 # Ensemble: Sunbringer's Guiding Totems
+        costs:
+          2032: 350
+
+      - id: 258021 # Ensemble: Sorcerer's Sunny Garb
+        costs:
+          2032: 100
+
+      - id: 242492 # Ensemble: Sunny Sweatsuit
+        costs:
+          2032: 100
+
+      - id: 228764 # Classic Sunny Tabard [tabard]
+        costs:
+          2032: 100
+
+      - id: 238950 # Molten Inferno Helm [head]
+        costs:
+          2032: 300
+
+      - id: 270297 # Crown of Sunny Springflowers [head]
+        costs:
+          2032: 50
+
+      - id: 252752 # Sunny Winter Toque [head]
+        costs:
+          2032: 50
+
+      - id: 235036 # Vigilante's Sunny Mask [head]
+        costs:
+          2032: 50
+
+      - id: 262872 # Sunny Dunecloth Vest [chest]
+        costs:
+          2032: 35
+
+      - id: 262854 # Sunny Dunecloth Belt [waist]
+        costs:
+          2032: 30
+
+      - id: 262836 # Sunny Dunecloth Skirt [legs]
+        costs:
+          2032: 35
+
+      - id: 268909 # Duskrunner's Totemic Edge [1h axe]
+        costs:
+          2032: 230
+
+      - id: 238399 # Lavaborn Ruby's Edge [1h axe]
+        costs:
+          2032: 200
+
+      - id: 268910 # Sunbringer's Totemic Edge [1h axe]
+        costs:
+          2032: 230
+
+      - id: 268901 # Duskrunner's Torchblade [1h sword]
+        costs:
+          2032: 230
+
+      - id: 268902 # Sunbringer's Torchblade [1h sword]
+        costs:
+          2032: 230
+
+      - id: 238894 # Lavaborn Barb [dagger]
+        costs:
+          2032: 200
+
+      - id: 268905 # Duskrunner's Totemic Greataxe [2h axe]
+        costs:
+          2032: 260
+
+      - id: 268906 # Sunbringer's Totemic Greataxe [2h axe]
+        costs:
+          2032: 260
+
+      - id: 268897 # Duskrunner's Flamebrand [2h sword]
+        costs:
+          2032: 260
+
+      - id: 268898 # Sunbringer's Flamebrand [2h sword]
+        costs:
+          2032: 260
+
+      - id: 237856 # Sunwell Bardiche [polearm]
+        costs:
+          2032: 245
+
+      - id: 238953 # Red Flame Burner [gun]
+        costs:
+          2032: 150
