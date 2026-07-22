@@ -1,0 +1,151 @@
+things:
+  - type: vendor
+    name: "2026-02"
+    id: 1202602
+
+    groups:
+      - name: "2026-02"
+        range: -1
+        sortKey: "tp-7410" # (100-YY)(12-MM)
+
+    contents:
+
+      - id: 260580 # Cloudborn Razorwing [mount]
+        costs:
+          2032: 600
+
+      - id: 233023 # Silvermoon Sweeper [mount]
+        costs:
+          2032: 600
+
+      - id: 234397 # Fullbelly Rollingpaw [pet]
+        costs:
+          2032: 350
+
+      - id: 258793 # Ensemble: South Guard's Golden Raiment
+        costs:
+          2032: 660
+
+      - id: 234057 # Ensemble: Ornate Crimson Lunar Festival Attire
+        costs:
+          2032: 600
+
+      - id: 230177 # Ensemble: Prowler's Rosy Headgear
+        costs:
+          2032: 100
+
+      - id: 242471 # Ensemble: Rosy Sweatsuit
+        costs:
+          2032: 100
+
+      - id: 257997 # Ensemble: Sorcerer's Rosy Garb
+        costs:
+          2032: 100
+
+      - id: 252746 # Rosy Winter Toque [head]
+        costs:
+          2032: 50
+
+      - id: 235030 # Vigilante's Rosy Mask [head]
+        costs:
+          2032: 50
+
+      - id: 262358 # Sin'dorei Captain's Mantle [shoulders]
+        costs:
+          2032: 130
+
+      - id: 233236 # Crimson Pack of Lunar Explosives [back]
+        costs:
+          2032: 250
+
+      - id: 260933 # Basic Pink Quiver [back]
+        costs:
+          2032: 100
+
+      - id: 260935 # Tranquillien Archer's Quiver [back]
+        costs:
+          2032: 100
+
+      - id: 233107 # Long Rosy War Skirt [legs]
+        costs:
+          2032: 40
+
+      - id: 233146 # Long Rosy War Skirt and Leg Wraps [legs]
+        costs:
+          2032: 50
+
+      - id: 233090 # Short Rosy War Skirt [legs]
+        costs:
+          2032: 40
+
+      - id: 233129 # Short Rosy War Skirt and Leg Wraps [legs]
+        costs:
+          2032: 50
+
+      - id: 233180 # Banded Rosy War Slippers [feet]
+        costs:
+          2032: 20
+
+      - id: 233163 # Banded Rosy War Wraps [feet]
+        costs:
+          2032: 20
+
+      - id: 233232 # Crimson Lunar Firewhacker [1h mace]
+        costs:
+          2032: 300
+
+      - id: 257712 # Anubisath's Golden Blade [1h sword]
+        costs:
+          2032: 170
+
+      - id: 233223 # Jade Lunar Blade [dagger]
+        costs:
+          2032: 300
+
+      - id: 262369 # Sin'dorei Handglaive [fist]
+        costs:
+          2032: 130
+
+      - id: 257427 # Anubisath's Golden Greatblade [2h sword]
+        costs:
+          2032: 200
+
+      - id: 262373 # Quel'dorei Poleblade [polearm]
+        costs:
+          2032: 160
+
+      - id: 233228 # Jade Lunar Polearm [polearm]
+        costs:
+          2032: 300
+
+      - id: 262372 # Quel'dorei Bladestaff [stave]
+        costs:
+          2032: 160
+
+      - id: 262371 # Bronze Magister's Courtstaff [stave]
+        costs:
+          2032: 160
+
+      - id: 262377 # Sunfury Battlemage's Stave [stave]
+        costs:
+          2032: 160
+
+      - id: 262370 # Longbow of the Shattered Sun [bow]
+        costs:
+          2032: 130
+
+      - id: 260392 # Pink Wooden Shortbow [bow]
+        costs:
+          2032: 80
+
+      - id: 260396 # Tranquillien Archer's Bow [bow]
+        costs:
+          2032: 80
+
+      - id: 262374 # Sunfury Apprentice's Wand [wand]
+        costs:
+          2032: 130
+
+      - id: 233218 # Crimson Lunar Lantern [off-hand]
+        costs:
+          2032: 250
