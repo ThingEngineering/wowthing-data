@@ -1,0 +1,123 @@
+things:
+  - type: vendor
+    name: "2026-04"
+    id: 1202604
+
+    groups:
+      - name: "2026-04"
+        range: -1
+        sortKey: "tp-7408" # (100-YY)(12-MM)
+
+    contents:
+
+      - id: 262705 # Vicious Snapvine [mount]
+        costs:
+          2032: 600
+
+      - id: 238897 # Spring Harvesthog [mount]
+        costs:
+          2032: 550
+
+      - id: 260893 # Arboreal Pseudoshell [mount]
+        costs:
+          2032: 450
+
+      - id: 235662 # Emerald Snail [mount]
+        costs:
+          2032: 325
+
+      - id: 262762 # Grumpy Mandrake [pet]
+        costs:
+          2032: 250
+
+      - id: 249917 # Ensemble: Villager's Forest Attire
+        costs:
+          2032: 440
+
+      - id: 250888 # Ensemble: Villager's Forest Collection
+        costs:
+          2032: 440
+
+      - id: 235594 # Ensemble: Forest Dweller's Blooming Attire
+        costs:
+          2032: 380
+
+      - id: 235595 # Ensemble: Forest Dweller's Rooted Attire
+        costs:
+          2032: 380
+
+      - id: 242461 # Ensemble: Camo Sweatsuit
+        costs:
+          2032: 100
+
+      - id: 257987 # Ensemble: Sorcerer's Lively Garb
+        costs:
+          2032: 100
+
+      - id: 252743 # Lively Winter Toque [head]
+        costs:
+          2032: 50
+
+      - id: 235027 # Vigilante's Lively Mask [head]
+        costs:
+          2032: 50
+
+      - id: 266084 # Farstrider's Forest Quiver [back]
+        costs:
+          2032: 100
+
+      - id: 251987 # Wildstalker's Hunting Quiver [back]
+        costs:
+          2032: 100
+
+      - id: 260416 # Gold Chainkini [chest]
+        costs:
+          2032: 100
+
+      - id: 262863 # Lively Dunecloth Vest [chest]
+        costs:
+          2032: 35
+
+      - id: 262845 # Lively Dunecloth Belt [waist]
+        costs:
+          2032: 30
+
+      - id: 262827 # Lively Dunecloth Skirt [legs]
+        costs:
+          2032: 35
+
+      - id: 266160 # Trapper's Green Slippers [feet]
+        costs:
+          2032: 40
+
+      - id: 234612 # Double-Bladed Blooming Garden Trowel [2h axe]
+        costs:
+          2032: 125
+
+      - id: 234611 # Double-Bladed Butterfly Garden Trowel [2h axe]
+        costs:
+          2032: 125
+
+      - id: 234613 # Double-Bladed Rooted Garden Trowel [2h axe]
+        costs:
+          2032: 125
+
+      - id: 260738 # Forest Dweller's Glowcap Staff [stave]
+        costs:
+          2032: 140
+
+      - id: 260386 # Farstrider's Forest Bow [bow]
+        costs:
+          2032: 80
+
+      - id: 262747 # Green Dagger-Tined Rake [polearm]
+        costs:
+          2032: 125
+
+      - id: 262761 # Pepe's Vacation Home [off-hand]
+        costs:
+          2032: 100
+
+      - id: 262715 # Simple Mossy Trowel [1h sword]
+        costs:
+          2032: 100
