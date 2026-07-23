@@ -1,0 +1,511 @@
+things:
+  - id: 179321
+    type: "vendor"
+    name: "Duchess Mynx"
+    note: "Death's Advance Quartermaster"
+
+    locations:
+      here: # korthia
+        - 63.4 23.4
+
+    groups:
+      - name: "DA - Misc"
+        range: 7
+        sortKey: "rep-da-1"
+
+      - name: "DA - Recipes"
+        range: 3
+        sortKey: "rep-da-2"
+
+      - name: "DA - Ensembles"
+        range: 5
+        sortKey: "rep-da-3"
+
+      - name: "DA - Transmog"
+        range: 6
+        sortKey: "rep-da-4"
+
+      - name: "DA - :random: Head"
+        range: 8
+        sortKey: "rep-da-9-01"
+        bonusIds: &rng
+          - 999999 # RNG
+
+      - name: "DA - :random: Shoulders"
+        range: 8
+        sortKey: "rep-da-9-02"
+        bonusIds: *rng
+
+      - name: "DA - :random: Back"
+        range: 2
+        sortKey: "rep-da-9-03"
+        bonusIds: *rng
+
+      - name: "DA - :random: Chest"
+        range: 8
+        sortKey: "rep-da-9-04"
+        bonusIds: *rng
+
+      - name: "DA - :random: Wrists"
+        range: 8
+        sortKey: "rep-da-9-05"
+        bonusIds: *rng
+
+      - name: "DA - :random: Hands"
+        range: 8
+        sortKey: "rep-da-9-06"
+        bonusIds: *rng
+
+      - name: "DA - :random: Waist"
+        range: 8
+        sortKey: "rep-da-9-07"
+        bonusIds: *rng
+
+      - name: "DA - :random: Legs"
+        range: 8
+        sortKey: "rep-da-9-08"
+        bonusIds: *rng
+
+      - name: "DA - :random: Feet"
+        range: 8
+        sortKey: "rep-da-9-09"
+        bonusIds: *rng
+
+      - name: "DA - :random: Weapon"
+        range: -1
+        sortKey: "rep-da-9-10"
+        bonusIds: *rng
+
+    contents:
+
+      - id: 186453 # Vault Anima Tracker
+        costs:
+          1767: 1000
+        requirements:
+          - "reputation 2470 friendly"
+
+      - id: 186543 # Domestic Aunian [pet]
+        costs:
+          1767: 1500
+          1163036: 50
+        requirements:
+          - "reputation 2470 honored"
+
+      - id: 186647 # Amber Shardhide [mount]
+        costs:
+          1767: 5000
+        requirements:
+          - "reputation 2470 revered"
+
+      - id: 186480 # Battle-Hardened Aquilon [mount]
+        costs:
+          1767: 1000
+        requirements:
+          - "reputation 2470 exalted"
+
+      - id: 186490 # Battlefield Swarmer Harness [mount]
+        costs:
+          1767: 1000
+        requirements:
+          - "reputation 2470 exalted"
+
+      - id: 186477 # Pale Gravewing [mount]
+        costs:
+          1767: 1000
+        requirements:
+          - "reputation 2470 exalted"
+
+      - id: 186495 # Winter Wilderling Harness [mount]
+        costs:
+          1767: 1000
+        requirements:
+          - "reputation 2470 exalted"
+
+      # Profession
+
+      - id: 186598 # Recipe: Crafter's Mark III
+        costs:
+          1767: 2000
+        requirements:
+          - "reputation 2470 honored"
+
+      - id: 187218 # Tome of Origins
+        costs:
+          1767: 2000
+        requirements:
+          - "reputation 2470 honored"
+
+      - id: 186724 # Technique: Contract: Death's Advance
+        costs:
+          1767: 2500
+        requirements:
+          - "reputation 2470 revered"
+
+      # Ensemble
+
+      - id: 186517 # Ensemble: Battlefield Messenger's Regalia
+        costs:
+          1767: 6000
+        requirements:
+          - "reputation 2470 exalted"
+
+      - id: 186504 # Ensemble: Frontline Necromancer's Vestments
+        costs:
+          1767: 6000
+        requirements:
+          - "reputation 2470 exalted"
+
+      - id: 186499 # Ensemble: Garb of Fall's Promise
+        costs:
+          1767: 6000
+        requirements:
+          - "reputation 2470 exalted"
+
+      - id: 186511 # Ensemble: Renathal's Battlefield Attire
+        costs:
+          1767: 6000
+        requirements:
+          - "reputation 2470 exalted"
+
+      - id: 186512 # Ensemble: Renathal's Field Inquisitor's Vestments
+        costs:
+          1767: 6000
+        requirements:
+          - "reputation 2470 exalted"
+
+      # Transmog
+
+      - id: 186997 # Death's Advance Tabard [tabard]
+        costs:
+          1767: 3000
+        requirements:
+          - "reputation 2470 exalted"
+
+      - id: 187540 # Cincture of Enveloping Death [cloth waist]
+        costs:
+          1767: 2000
+
+      - id: 187538 # Gloves of Advancing Death [leather hands]
+        costs:
+          1767: 2000
+
+      - id: 187541 # Chain of Encircling Death [mail waist]
+        costs:
+          1767: 2000
+
+      - id: 187539 # Gauntlets of Death's Guardian [plate hands]
+        costs:
+          1767: 2000
+
+      - id: 187411 # Mantle of Death's Advance [cloak]
+        costs:
+          1767: 500
+
+      # Head
+
+      - id: 185858 # Korthian Caretaker's Crest [head]
+        costs: &helm
+          1767: 1250
+
+      - id: 186666 # Korthian Caretaker's Crown [head]
+        costs: *helm
+
+      - id: 186736 # Shardhide Leather Cowl [head]
+        costs: *helm
+
+      - id: 185864 # Shardhide Leather Hood [head]
+        costs: *helm
+
+      - id: 185871 # Razorwing Scale Coif [head]
+        costs: *helm
+
+      - id: 186743 # Razorwing Scale Hood [head]
+        costs: *helm
+
+      - id: 185876 # Vault Guardian's Helm [head]
+        costs: *helm
+
+      - id: 186748 # Vault Guardian's Visor [head]
+        costs: *helm
+
+      # Shoulders
+
+      - id: 186670 # Korthian Caretaker's Mantle [shoulders]
+        costs: &shoulders
+          1767: 1000
+
+      - id: 185886 # Korthian Caretaker's Shoulderpads [shoulders]
+        costs: *shoulders
+
+      - id: 186757 # Shardhide Leather Epaulets [shoulders]
+        costs: *shoulders
+
+      - id: 185885 # Shardhide Leather Shoulderguards [shoulders]
+        costs: *shoulders
+
+      - id: 185873 # Razorwing Scale Shoulderguards [shoulders]
+        costs: *shoulders
+
+      - id: 186745 # Razorwing Scale Spaulders [shoulders]
+        costs: *shoulders
+
+      - id: 185881 # Vault Guardian's Pauldrons [shoulders]
+        costs: *shoulders
+
+      - id: 186753 # Vault Guardian's Shoulderplates [shoulders]
+        costs: *shoulders
+
+      # Cloak
+
+      - id: 186770 # Vault Attendant's Cape
+        costs: &cloak
+          1767: 750
+
+      - id: 185905 # Vault Guardian's Drape
+        costs: *cloak
+
+      # Chest
+
+      - id: 185855 # Korthian Caretaker's Robes [chest]
+        costs: &chestpiece
+          1767: 1250
+
+      - id: 186663 # Korthian Caretaker's Vestments [chest]
+        costs: *chestpiece
+
+      - id: 186756 # Shardhide Leather Jerkin [chest]
+        costs: *chestpiece
+
+      - id: 185884 # Shardhide Leather Vest [chest]
+        costs: *chestpiece
+
+      - id: 185868 # Razorwing Scale Chainmail [chest]
+        costs: *chestpiece
+
+      - id: 186740 # Razorwing Scale Harness [chest]
+        costs: *chestpiece
+
+      - id: 185877 # Vault Guardian's Breastplate [chest]
+        costs: *chestpiece
+
+      - id: 186749 # Vault Guardian's Chestpiece [chest]
+        costs: *chestpiece
+
+      # Wrists
+
+      - id: 185861 # Korthian Caretaker's Bindings [wrists]
+        costs: &bracers
+          1767: 750
+
+      - id: 186669 # Korthian Caretaker's Wraps [wrists]
+        costs: *bracers
+
+      - id: 185867 # Shardhide Leather Bracers [wrists]
+        costs: *bracers
+
+      - id: 186739 # Shardhide Leather Cuffs [wrists]
+        costs: *bracers
+
+      - id: 185875 # Razorwing Scale Bracers [wrists]
+        costs: *bracers
+
+      - id: 186747 # Razorwing Scale Wristguards [wrists]
+        costs: *bracers
+
+      - id: 186755 # Vault Guardian's Binders [wrists]
+        costs: *bracers
+
+      - id: 185883 # Vault Guardian's Vambraces [wrists]
+        costs: *bracers
+
+      # Hands
+
+      - id: 185857 # Korthian Caretaker's Handwraps [hands]
+        costs: &gloves
+          1767: 1000
+
+      - id: 186665 # Korthian Caretaker's Mitts [hands]
+        costs: *gloves
+
+      - id: 185863 # Shardhide Leather Gloves [hands]
+        costs: *gloves
+
+      - id: 186735 # Shardhide Leather Handlers [hands]
+        costs: *gloves
+
+      - id: 186742 # Razorwing Scale Fists [hands]
+        costs: *gloves
+
+      - id: 185870 # Razorwing Scale Grips [hands]
+        costs: *gloves
+
+      - id: 185879 # Vault Guardian's Gauntlets [hands]
+        costs: *gloves
+
+      - id: 186751 # Vault Guardian's Handguards [hands]
+        costs: *gloves
+
+      # Waist
+
+      - id: 185860 # Korthian Caretaker's Cinch [waist]
+        costs: &belt
+          1767: 750
+
+      - id: 186668 # Korthian Caretaker's Sash [waist]
+        costs: *belt
+
+      - id: 185866 # Shardhide Leather Belt [waist]
+        costs: *belt
+
+      - id: 186738 # Shardhide Leather Strap [waist]
+        costs: *belt
+
+      - id: 186746 # Razorwing Scale Chain [waist]
+        costs: *belt
+
+      - id: 185874 # Razorwing Scale Cincture [waist]
+        costs: *belt
+
+      - id: 186754 # Vault Guardian's Buckle [waist]
+        costs: *belt
+
+      - id: 185882 # Vault Guardian's Girdle [waist]
+        costs: *belt
+
+      # Legs
+
+      - id: 185859 # Korthian Caretaker's Leggings [legs]
+        costs: &legguards
+          1767: 1250
+
+      - id: 186667 # Korthian Caretaker's Pantaloons [legs]
+        costs: *legguards
+
+      - id: 185865 # Shardhide Leather Breeches [legs]
+        costs: *legguards
+
+      - id: 186737 # Shardhide Leather Trousers [legs]
+        costs: *legguards
+
+      - id: 185872 # Razorwing Scale Greaves [legs]
+        costs: *legguards
+
+      - id: 186744 # Razorwing Scale Pants [legs]
+        costs: *legguards
+
+      - id: 185880 # Vault Guardian's Legguards [legs]
+        costs: *legguards
+
+      - id: 186752 # Vault Guardian's Legplates [legs]
+        costs: *legguards
+
+      # Feet
+
+      - id: 186664 # Korthian Caretaker's Sandals [feet]
+        costs: &boots
+          1767: 1000
+
+      - id: 185856 # Korthian Caretaker's Slippers [feet]
+        costs: *boots
+
+      - id: 185862 # Shardhide Leather Boots [feet]
+        costs: *boots
+
+      - id: 186734 # Shardhide Leather Treads [feet]
+        costs: *boots
+
+      - id: 186741 # Razorwing Scale Footguards [feet]
+        costs: *boots
+
+      - id: 185869 # Razorwing Scale Striders [feet]
+        costs: *boots
+
+      - id: 185878 # Vault Guardian's Sabatons [feet]
+        costs: *boots
+
+      - id: 186750 # Vault Guardian's Stompers [feet]
+        costs: *boots
+
+      # Weapon
+
+      - id: 185899 # Korthian Archivist's Gavel [1h mace]
+        costs: &weaponry
+          1767: 1500
+
+      - id: 186767 # Korthian Attendant's Scepter [1h mace]
+        costs: *weaponry
+
+      - id: 186764 # Korthian Protector's Warhammer [1h mace]
+        costs: *weaponry
+
+      - id: 185897 # Korthian Sentinel's Hammer [1h mace]
+        costs: *weaponry
+
+      - id: 185896 # Vault Guardian's Cudgel [1h mace]
+        costs: *weaponry
+
+      - id: 186765 # Vault Patroller's Mace [1h mace]
+        costs: *weaponry
+
+      - id: 186762 # Korthian Anima Slicer [dagger]
+        costs: *weaponry
+
+      - id: 186761 # Korthian Attendant's Blade [dagger]
+        costs: *weaponry
+
+      - id: 185890 # Korthian Caretaker's Kris [dagger]
+        costs: *weaponry
+
+      - id: 185891 # Razorwing's Claw [dagger]
+        costs: *weaponry
+
+      - id: 185901 # Korthian Twinblade [warglaive]
+        costs: *weaponry
+
+      - id: 186769 # Vault Guardian's Warglaive [warglaive]
+        costs: *weaponry
+
+      - id: 185893 # Korthian Protector's Greataxe [2h axe]
+        costs: *weaponry
+
+      - id: 186763 # Vault Guardian's Decapitator [2h axe]
+        costs: *weaponry
+
+      - id: 185944 # Vault Guardian's Cleaver [2h sword]
+        costs: *weaponry
+
+      - id: 186771 # Vault Patroller's Slicer [2h sword]
+        costs: *weaponry
+
+      - id: 186768 # Korthian Attendant's Cane [stave]
+        costs: *weaponry
+
+      - id: 185900 # Korthian Caretaker's Rod [stave]
+        costs: *weaponry
+
+      - id: 185900 # Korthian Caretaker's Stave [stave]
+        costs: *weaponry
+
+      - id: 185898 # Korthian Pathfinder's Spire [stave]
+        costs: *weaponry
+
+      - id: 186766 # Vault Patroller's Staff [stave]
+        costs: *weaponry
+
+      - id: 185889 # Gromit Tendon Longbow [bow]
+        costs: *weaponry
+
+      - id: 186760 # Korthian Energy Bow [bow]
+        costs: *weaponry
+
+      - id: 186759 # Korthian Anima Vessel [off-hand]
+        costs: *weaponry
+
+      - id: 185888 # Korthian Caretaker's Orb [off-hand]
+        costs: *weaponry
+
+      - id: 186758 # Korthian Keeper's Buckler [shield]
+        costs: *weaponry
+
+      - id: 185887 # Vault Guardian's Targe [shield]
+        costs: *weaponry

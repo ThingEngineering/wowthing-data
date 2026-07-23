@@ -1,0 +1,146 @@
+things:
+  - id: 178257
+    type: "vendor"
+    name: "Archivist Roh-Suir"
+
+    locations:
+      here: # korthia
+        - 61.4 21.8
+
+    groups:
+      - name: "AC - Misc"
+        range: 1
+        sortKey: "rep-ac-1"
+
+      - name: "AC - Profession"
+        range: 2
+        sortKey: "rep-ac-2"
+
+      - name: "AC - Upgrades"
+        range: 9
+        sortKey: "rep-ac-3"
+
+      - name: "AC - Transmog"
+        range: 5
+        sortKey: "rep-ac-9"
+
+    contents:
+
+      # Misc
+
+      - id: 186648 # Soaring Razorwing
+        costs:
+          1931: 5000
+        requirements:
+          - "reputation 2472 renown-6"
+
+      # Profession
+
+      - id: 186991 # Recipe: Transmute: Stones to Ore
+        costs:
+          1931: 2000
+        requirements:
+          - "reputation 2472 renown-4"
+
+      - id: 186470 # Recipe: Crafter's Mark of the Chained Isle
+        costs:
+          1931: 2500
+        requirements:
+          - "reputation 2472 renown-4"
+
+      # TODO: work out how to handle these
+      # - id: 184665 # Chronicle of Lost Memories
+      #   costs:
+      #     1931: 1500
+
+      # - id: 187148 # Death-Bound Shard
+      #   costs:
+      #     1931: 3000
+
+      # 0
+
+      - id: 186714 # Research Report: All-Seeing Crystal
+        costs:
+          1931: 100
+        requirements:
+          - "reputation 2472 renown-2"
+
+      - id: 187145 # Treatise: Recognizing Stygia and its Uses
+        costs:
+          1931: 800
+        requirements:
+          - "reputation 2472 renown-2"
+
+      - id: 187706 # Treatise: Bonds of Stygia in Mortals
+        costs:
+          1931: 1000
+        requirements:
+          - "reputation 2472 renown-4"
+
+      - id: 186716 # Research Report: Ancient Shrines
+        costs:
+          1931: 1000
+        requirements:
+          - "reputation 2472 renown-5"
+
+      - id: 186722 # Treatise: The Study of Anima and Harnessing Every Drop
+        costs:
+          1931: 1500
+        requirements:
+          - "reputation 2472 renown-5"
+
+      - id: 186717 # Research Report: Adaptive Alloys
+        costs:
+          1931: 4000
+        requirements:
+          - "reputation 2472 renown-6"
+
+      - id: 187138 # Research Report: First Alloys
+        costs:
+          1931: 8000
+        requirements:
+          - "reputation 2472 renown-6"
+
+      - id: 187136 # Research Report: Relic Examination Techniques
+        costs:
+          1931: 2500
+        requirements:
+          - "reputation 2472 renown-6"
+
+      - id: 186721 # Treatise: Relics Abound in the Shadowlands
+        costs:
+          1931: 2000
+        requirements:
+          - "reputation 2472 renown-6"
+
+      # Transmog
+
+      - id: 187409 # Cloak of the Korthian Scholar [cloak]
+        costs:
+          1931: 500
+        requirements:
+          - "reputation 2472 renown-5"
+
+      - id: 187535 # Attendant Scholar's Waistcord [cloth waist]
+        costs:
+          1931: 4000
+        requirements:
+          - "reputation 2472 renown-6"
+
+      - id: 187537 # Subtle Mortality Manipulators [leather hands]
+        costs:
+          1931: 4000
+        requirements:
+          - "reputation 2472 renown-6"
+
+      - id: 187534 # Korthite Crystal Waistguard [mail waist]
+        costs:
+          1931: 4000
+        requirements:
+          - "reputation 2472 renown-6"
+
+      - id: 187536 # Prototype Guardian Grips [plate hands]
+        costs:
+          1931: 4000
+        requirements:
+          - "reputation 2472 renown-6"
