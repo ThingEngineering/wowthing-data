@@ -15,7 +15,7 @@ things:
 
     groups:
       - name: "Classic TW - Misc"
-        range: 5
+        range: 12
         sortKey: "z-tw-00-00"
 
       - name: "Classic TW - Armor"
@@ -38,6 +38,36 @@ things:
           1166: 5000
 
       - id: 205208 # Sandy Shalewing
+        costs:
+          1166: 5000
+
+      # Mounts (shared)
+
+      - id: 257513 # Bronze Aquilon Harness [mount]
+        costs:
+          1166: 5000
+
+      - id: 257514 # Bronze Corpsefly Harness [mount]
+        costs:
+          1166: 5000
+
+      - id: 257516 # Bronze Gravewing Harness [mount]
+        costs:
+          1166: 5000
+
+      - id: 257511 # Bronze Wilderling Harness [mount]
+        costs:
+          1166: 5000
+
+      - id: 238739 # Chrono Corsair [mount]
+        costs:
+          1166: 5000
+
+      - id: 205208 # Sandy Shalewing [mount]
+        costs:
+          1166: 5000
+
+      - id: 232624 # Timely Buzzbee [mount]
         costs:
           1166: 5000
 
