@@ -1,0 +1,111 @@
+# The Voidspire
+#  bin/expand_sets.py 1978 1979 1980 1981 1982 1983 1984 1985 1986 1987 1988 1989 1990
+
+# Mage, Priest, Warlock
+249355: # Voidwoven Fanatical Nullcore [head]
+  - 250060 # Voidbreaker's Veil [Mage Head]
+  - 250051 # Blind Oath's Winged Crest [Priest Head]
+  - 250042 # Abyssal Immolator's Smoldering Flames [Warlock Head]
+
+249363: # Voidwoven Unraveled Nullcore [shoulders]
+  - 250058 # Voidbreaker's Leyline Nexi [Mage Shoulders]
+  - 250049 # Blind Oath's Seraphguards [Priest Shoulders]
+  - 250040 # Abyssal Immolator's Fury [Warlock Shoulders]
+
+249347: # Alnwoven Riftbloom [chest]
+  - 250063 # Voidbreaker's Robe [Mage Chest]
+  - 250054 # Blind Oath's Raiment [Priest Chest]
+  - 250045 # Abyssal Immolator's Dreadrobe [Warlock Chest]
+
+249351: # Voidwoven Hungering Nullcore [hands]
+  - 250061 # Voidbreaker's Gloves [Mage Hands]
+  - 250052 # Blind Oath's Touch [Priest Hands]
+  - 250043 # Abyssal Immolator's Grasps [Warlock Hands]
+
+249359: # Voidwoven Corrupted Nullcore [legs]
+  - 250059 # Voidbreaker's Britches [Mage Legs]
+  - 250050 # Blind Oath's Leggings [Priest Legs]
+  - 250041 # Abyssal Immolator's Pillars [Warlock Legs]
+
+# Demon Hunter, Druid, Monk, Rogue
+249356: # Voidcured Fanatical Nullcore [head]
+  - 250033 # Devouring Reaver's Intake [Demon Hunter Head]
+  - 250024 # Branches of the Luminous Bloom [Druid Head]
+  - 250015 # Fearsome Visage of Ra-den's Chosen [Monk Head]
+  - 250006 # Masquerade of the Grim Jest [Rogue Head]
+
+249364: # Voidcured Unraveled Nullcore [shoulders]
+  - 250031 # Devouring Reaver's Exhaustplates [Demon Hunter Shoulders]
+  - 250022 # Seedpods of the Luminous Bloom [Druid Shoulders]
+  - 250013 # Aurastones of Ra-den's Chosen [Monk Shoulders]
+  - 250004 # Venom Casks of the Grim Jest [Rogue Shoulders]
+
+249348: # Alncured Riftbloom [chest]
+  - 250036 # Devouring Reaver's Engine [Demon Hunter Chest]
+  - 250027 # Trunk of the Luminous Bloom [Druid Chest]
+  - 250018 # Battle Garb of Ra-den's Chosen [Monk Chest]
+  - 250009 # Fantastic Finery of the Grim Jest [Rogue Chest]
+
+249352: # Voidcured Hungering Nullcore [hands]
+  - 250034 # Devouring Reaver's Essence Grips [Demon Hunter Hands]
+  - 250025 # Arbortenders of the Luminous Bloom [Druid Hands]
+  - 250016 # Thunderfists of Ra-den's Chosen [Monk Hands]
+  - 250007 # Sleight of Hand of the Grim Jest [Rogue Hands]
+
+249360: # Voidcured Corrupted Nullcore [legs]
+  - 250032 # Devouring Reaver's Pistons [Demon Hunter Legs]
+  - 250023 # Phloemwraps of the Luminous Bloom [Druid Legs]
+  - 250014 # Swiftsweepers of Ra-den's Chosen [Monk Legs]
+  - 250005 # Blade Holsters of the Grim Jest [Rogue Legs]
+
+# Evoker, Hunter, Shaman
+249357: # Voidcast Fanatical Nullcore [head]
+  - 249997 # Hornhelm of the Black Talon [Evoker Head]
+  - 249988 # Primal Sentry's Maw [Hunter Head]
+  - 249979 # Locus of the Primal Core [Shaman Head]
+
+249365: # Voidforged Unraveled Nullcore [shoulders]
+  - 249995 # Beacons of the Black Talon [Evoker Shoulders]
+  - 249986 # Primal Sentry's Trophies [Hunter Shoulders]
+  - 249977 # Tempests of the Primal Core [Shaman Shoulders]
+
+249349: # Alnwoven Riftbloom [chest]
+  - 250000 # Frenzyward of the Black Talon [Evoker Chest]
+  - 249991 # Primal Sentry's Scaleplate [Hunter Chest]
+  - 249982 # Embrace of the Primal Core [Shaman Chest]
+
+249353: # Voidforged Hungering Nullcore [hands]
+  - 249998 # Enforcer's Grips of the Black Talon [Evoker Hands]
+  - 249989 # Primal Sentry's Talonguards [Hunter Hands]
+  - 249980 # Earthgrips of the Primal Core [Shaman Hands]
+
+249361: # Voidforged Corrupted Nullcore [legs]
+  - 249996 # Greaves of the Black Talon [Evoker Legs]
+  - 249987 # Primal Sentry's Legguards [Hunter Legs]
+  - 249978 # Leggings of the Primal Core [Shaman Legs]
+
+# Death Knight, Paladin, Warrior
+249358: # Voidforged Fanatical Nullcore [head]
+  - 249970 # Relentless Rider's Crown [Death Knight Head]
+  - 249961 # Luminant Verdict's Unwavering Gaze [Paladin Head]
+  - 249952 # Night Ender's Tusks [Warrior Head]
+
+249366: # Voidforged Unraveled Nullcore [shoulders]
+  - 249968 # Relentless Rider's Dreadthorns [Death Knight Shoulders]
+  - 249959 # Luminant Verdict's Providence Watch [Paladin Shoulders]
+  - 249950 # Night Ender's Pauldrons [Warrior Shoulders]
+
+249350: # Alnwoven Riftbloom [chest]
+  - 249973 # Relentless Rider's Cuirass [Death Knight Chest]
+  - 249964 # Luminant Verdict's Divine Warplate [Paladin Chest]
+  - 249955 # Night Ender's Breastplate [Warrior Chest]
+
+249354: # Voidforged Hungering Nullcore [hands]
+  - 249971 # Relentless Rider's Bonegrasps [Death Knight Hands]
+  - 249962 # Luminant Verdict's Gauntlets [Paladin Hands]
+  - 249953 # Night Ender's Fists [Warrior Hands]
+
+249362: # Voidforged Corrupted Nullcore [legs]
+  - 249969 # Relentless Rider's Legguards [Death Knight Legs]
+  - 249960 # Luminant Verdict's Greaves [Paladin Legs]
+  - 249951 # Night Ender's Chausses [Warrior Legs]
