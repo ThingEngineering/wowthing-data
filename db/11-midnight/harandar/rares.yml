@@ -1,0 +1,242 @@
+things:
+  - id: 250347
+    type: "npc"
+    name: "Ahl'ua'huhi"
+    reset: "daily"
+    trackingQuestId: 92193
+
+    locations:
+      here:
+        - 39.6 60.8
+
+    contents:
+      - &mount1
+        id: 246735 # Rootstalker Grimlynx [mount]
+      
+      - &mount2
+        id: 252012 # Vibrant Petalwing [mount]
+
+      - id: 264534 # Bogvine Shoulderguards [cloth shoulders]
+      - id: 264540 # Mirevine Wristguards [leather wrists]
+
+  - id: 250358
+    type: "npc"
+    name: "Annulus the Worldshaker"
+    reset: "daily"
+    trackingQuestId: 92194
+
+    locations:
+      here:
+        - 44.2 16.4
+
+    contents:
+      - *mount1
+      - *mount2
+      - id: 264614 # Fungal Cap Guard [shield]
+
+  - id: 249844
+    type: "npc"
+    name: "Chironex"
+    reset: "daily"
+    trackingQuestId: 92137
+
+    locations:
+      here:
+        - 68.5 40.6
+
+    contents:
+      - *mount1
+      - *mount2
+      - id: 264538 # Translucent Membrane Slippers [cloth feet]
+      - id: 264544 # Grounded Death Cap [leather head]
+
+  - id: 249997
+    type: "npc"
+    name: "Chlorokyll"
+    reset: "daily"
+    trackingQuestId: 92161
+
+    locations:
+      here:
+        - 64.6 47.9
+
+    contents:
+      - *mount1
+      - *mount2
+      - id: 264626 # Scepter of Radiant Conversion [off-hand]
+
+  - id: 250231
+    type: "npc"
+    name: "Dracaena"
+    reset: "daily"
+    trackingQuestId: 92176
+
+    locations:
+      here:
+        - 40.6 43.1
+
+    contents:
+      - *mount1
+      - *mount2
+      - id: 264562 # Plated Grove Vest [mail chest]
+      - id: 264644 # Crawler's Mindscythe [1h axe]
+
+  - id: 249849
+    type: "npc"
+    name: "Ha'kalawe"
+    reset: "daily"
+    trackingQuestId: 92142
+
+    locations:
+      here:
+        - 69.2 63.1
+
+    contents:
+      - *mount1
+      - *mount2
+      - id: 264553 # Deepspore Leather Galoshes [leather feet]
+      - id: 264592 # Ha'kalawe's Flawless Wing [cloak]
+
+  - id: 250226
+    type: "npc"
+    name: "Mindrot"
+    reset: "daily"
+    trackingQuestId: 92172
+
+    locations:
+      here:
+        - 46.0 31.3
+
+    contents:
+      - *mount1
+      - *mount2
+      - id: 264550 # Fungal Stalker's Stockings [leather legs]
+      - id: 264649 # Mindrot Claw-Hammer [1h mace]
+
+  - id: 250317
+    type: "npc"
+    name: "Oro'ohna"
+    reset: "daily"
+    trackingQuestId: 92190
+
+    locations:
+      here:
+        - 28.2 81.9
+
+    contents:
+      - *mount1
+      - *mount2
+      - id: 264591 # Radiant Petalwing's Feather [cloak]
+      - id: 264616 # Lightblighted Sapdrinker [1h sword]
+
+  - id: 250321
+    type: "npc"
+    name: "Pterrock"
+    reset: "daily"
+    trackingQuestId: 92191
+
+    locations:
+      here:
+        - 27.2 70.2
+
+    contents:
+      - *mount1
+      - *mount2
+      - id: 264567 # Rockscale Hood [mail head]
+      - id: 264576 # Slatescale Grips [plate hands]
+
+  - id: 249962
+    type: "npc"
+    name: "Queen Lashtongue"
+    reset: "daily"
+    trackingQuestId: 92154
+
+    locations:
+      here:
+        - 60.0 46.6
+
+    contents:
+      - *mount1
+      - *mount2
+      - id: 264566 # Lashtongue's Leaffroggers [mail legs]
+      - id: 264571 # Ironleaf Wristguards [plate wrists]
+
+  - id: 248741
+    type: "npc"
+    name: "Rhazul"
+    reset: "daily"
+    trackingQuestId: 91832
+
+    locations:
+      here:
+        - 51.2 45.3
+
+    contents:
+      - *mount1
+      - *mount2
+      - id: 264530 # Grimfur Mittens [cloth hands]
+      - id: 264622 # Grimfang Shank [dagger]
+
+  - id: 250180
+    type: "npc"
+    name: "Serrasa"
+    reset: "daily"
+    trackingQuestId: 92170
+
+    locations:
+      here:
+        - 56.7 33.6
+
+    contents:
+      - *mount1
+      - *mount2
+      - id: 264568 # Serrated Scale Gauntlets [mail hands]
+      - id: 264639 # Razorfang Hacker [1h axe]
+
+  - id: 250086
+    type: "npc"
+    name: "Stumpy"
+    reset: "daily"
+    trackingQuestId: 92168
+
+    locations:
+      here:
+        - 65.8 32.4
+
+    contents:
+      - *mount1
+      - *mount2
+      - id: 264578 # Stumpy's Terrorplate [plate chest]
+      - id: 264635 # Stumpy's Stump [stave]
+
+  - id: 249902
+    type: "npc"
+    name: "Tallcap the Truthspreader"
+    reset: "daily"
+    trackingQuestId: 92148
+
+    locations:
+      here:
+        - 72.6 69.2
+
+    contents:
+      - *mount1
+      - *mount2
+      - id: 264532 # Robes of Flowing Truths [cloth chest]
+      - id: 264650 # Truthspreader's Truth Spreader [1h mace]
+
+  - id: 250246
+    type: "npc"
+    name: "Treetop"
+    reset: "daily"
+    trackingQuestId: 92183
+
+    locations:
+      here:
+        - 36.7 75.2
+
+    contents:
+      - *mount1
+      - *mount2
+      - id: 264581 # Bloombark Spaulders [plate shoulders]
+      - id: 264633 # Treetop Battlestave [stave]

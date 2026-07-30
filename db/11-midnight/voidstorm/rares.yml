@@ -1,7 +1,7 @@
 things:
   - id: 256924
     type: "npc"
-    name: Aeonelle Blackstar
+    name: "Aeonelle Blackstar"
     reset: "daily"
     trackingQuestId: 93944
 
@@ -21,7 +21,7 @@ things:
 
   - id: 256923
     type: "npc"
-    name: Bane of the Vilebloods
+    name: "Bane of the Vilebloods"
     reset: "daily"
     trackingQuestId: 93946
 
@@ -37,7 +37,7 @@ things:
 
   - id: 256770
     type: "npc"
-    name: Bilemaw the Gluttonous
+    name: "Bilemaw the Gluttonous"
     reset: "daily"
     trackingQuestId: 93884
 
@@ -53,7 +53,7 @@ things:
 
   - id: 245182
     type: "npc"
-    name: Eruundi
+    name: "Eruundi"
     reset: "daily"
     trackingQuestId: 91047
 
@@ -68,7 +68,7 @@ things:
 
   - id: 256821
     type: "npc"
-    name: Far'thana the Mad
+    name: "Far'thana the Mad"
     reset: "daily"
     trackingQuestId: 93896
 
@@ -84,7 +84,7 @@ things:
 
   - id: 257231
     type: "npc"
-    name: Gar'chak Skullcleave
+    name: "Gar'chak Skullcleave"
     reset: "daily"
     trackingQuestId: 94461
 
@@ -99,7 +99,7 @@ things:
 
   - id: 257199
     type: "npc"
-    name: Hardin Steellock
+    name: "Hardin Steellock"
     reset: "daily"
     trackingQuestId: 94461
 
@@ -114,7 +114,7 @@ things:
 
   - id: 256925
     type: "npc"
-    name: Lotus Darkblossom
+    name: "Lotus Darkblossom"
     reset: "daily"
     trackingQuestId: 93947
 
@@ -130,7 +130,7 @@ things:
 
   - id: 245044
     type: "npc"
-    name: Nightbrood
+    name: "Nightbrood"
     reset: "daily"
     trackingQuestId: 91051
 
@@ -146,7 +146,7 @@ things:
 
   - id: 256926
     type: "npc"
-    name: Queen o' War
+    name: "Queen o' War"
     reset: "daily"
     trackingQuestId: 93934
 
@@ -161,7 +161,7 @@ things:
 
   - id: 257027
     type: "npc"
-    name: Rakshur the Bonegrinder
+    name: "Rakshur the Bonegrinder"
     reset: "daily"
     trackingQuestId: 93953
 
@@ -177,7 +177,7 @@ things:
 
   - id: 256808
     type: "npc"
-    name: Ravengerus
+    name: "Ravengerus"
     reset: "daily"
     trackingQuestId: 93895
 
@@ -193,7 +193,7 @@ things:
 
   - id: 256922
     type: "npc"
-    name: Screammaxa the Matriarch
+    name: "Screammaxa the Matriarch"
     reset: "daily"
     trackingQuestId: 93966
 
@@ -209,7 +209,7 @@ things:
 
   - id: 244272
     type: "npc"
-    name: Sundereth the Caller
+    name: "Sundereth the Caller"
     reset: "daily"
     trackingQuestId: 90805
 
@@ -225,7 +225,7 @@ things:
 
   - id: 238498
     type: "npc"
-    name: Territorial Voidscythe
+    name: "Territorial Voidscythe"
     reset: "daily"
     trackingQuestId: 91050
 
@@ -241,7 +241,7 @@ things:
 
   - id: 241443
     type: "npc"
-    name: Tremora
+    name: "Tremora"
     reset: "daily"
     trackingQuestId: 91048
 
@@ -259,7 +259,7 @@ things:
 
   - id: 248700
     type: "npc"
-    name: Abysslick
+    name: "Abysslick"
     reset: "daily"
     trackingQuestId: 94462
 
@@ -273,7 +273,7 @@ things:
 
   - id: 248823
     type: "npc"
-    name: Blackcore
+    name: "Blackcore"
     reset: "daily"
     trackingQuestId: 94463
 
@@ -286,7 +286,7 @@ things:
 
   - id: 248068
     type: "npc"
-    name: Nullspiral
+    name: "Nullspiral"
     reset: "daily"
     trackingQuestId: 94460
 
@@ -300,7 +300,7 @@ things:
 
   - id: 248459
     type: "npc"
-    name: The Many-Broken
+    name: "The Many-Broken"
     reset: "daily"
     trackingQuestId: 94458
 
@@ -314,7 +314,7 @@ things:
 
   - id: 248791
     type: "npc"
-    name: Voidseer Orivane
+    name: "Voidseer Orivane"
     reset: "daily"
     trackingQuestId: 94459
 

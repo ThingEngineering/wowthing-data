@@ -1,7 +1,7 @@
 things:
   - id: 245692
     type: "npc"
-    name: Ash'an the Empowered
+    name: "Ash'an the Empowered"
     reset: "daily"
     trackingQuestId: 91073
 
@@ -21,7 +21,7 @@ things:
 
   - id: 242027
     type: "npc"
-    name: Depthborn Eelamental
+    name: "Depthborn Eelamental"
     reset: "daily"
     trackingQuestId: 89573
 
@@ -36,7 +36,7 @@ things:
 
   - id: 242026
     type: "npc"
-    name: Elder Oaktalon
+    name: "Elder Oaktalon"
     reset: "daily"
     trackingQuestId: 89572
 
@@ -52,7 +52,7 @@ things:
 
   - id: 242028
     type: "npc"
-    name: Lightwood Borer
+    name: "Lightwood Borer"
     reset: "daily"
     trackingQuestId: 89575
 
@@ -68,7 +68,7 @@ things:
 
   - id: 245975
     type: "npc"
-    name: Mrrlokk
+    name: "Mrrlokk"
     reset: "daily"
     trackingQuestId: 91174
 
@@ -84,7 +84,7 @@ things:
 
   - id: 242023
     type: "npc"
-    name: Necrohexxer Raz'ka
+    name: "Necrohexxer Raz'ka"
     reset: "daily"
     trackingQuestId: 89569
 
@@ -99,7 +99,7 @@ things:
 
   - id: 242032
     type: "npc"
-    name: Oophaga
+    name: "Oophaga"
     reset: "daily"
     trackingQuestId: 89579
 
@@ -115,7 +115,7 @@ things:
 
   - id: 247976
     type: "npc"
-    name: Poacher Rav'ik
+    name: "Poacher Rav'ik"
     reset: "daily"
     trackingQuestId: 91634
 
@@ -131,7 +131,7 @@ things:
 
   - id: 242025
     type: "npc"
-    name: Skullcrusher Harak
+    name: "Skullcrusher Harak"
     reset: "daily"
     trackingQuestId: 89571
 
@@ -147,7 +147,7 @@ things:
 
   - id: 242031
     type: "npc"
-    name: Spinefrill
+    name: "Spinefrill"
     reset: "daily"
     trackingQuestId: 89578
 
@@ -163,7 +163,7 @@ things:
 
   - id: 245691
     type: "npc"
-    name: The Decaying Diamondback
+    name: "The Decaying Diamondback"
     reset: "daily"
     trackingQuestId: 91072
 
@@ -179,7 +179,7 @@ things:
 
   - id: 242035
     type: "npc"
-    name: The Devouring Invader
+    name: "The Devouring Invader"
     reset: "daily"
     trackingQuestId: 89583
 
@@ -195,7 +195,7 @@ things:
 
   - id: 242024
     type: "npc"
-    name: The Snapping Scourge
+    name: "The Snapping Scourge"
     reset: "daily"
     trackingQuestId: 89570
 
@@ -211,7 +211,7 @@ things:
 
   - id: 242033
     type: "npc"
-    name: Tiny Vermin
+    name: "Tiny Vermin"
     reset: "daily"
     trackingQuestId: 89580
 
@@ -226,7 +226,7 @@ things:
 
   - id: 242034
     type: "npc"
-    name: Voidtouched Crustacean
+    name: "Voidtouched Crustacean"
     reset: "daily"
     trackingQuestId: 89581
 

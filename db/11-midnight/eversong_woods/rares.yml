@@ -1,7 +1,7 @@
 things:
   - id: 250841
     type: "npc"
-    name: Bad Zed
+    name: "Bad Zed"
     reset: "daily"
     trackingQuestId: 92404
 
@@ -21,7 +21,7 @@ things:
 
   - id: 250826
     type: "npc"
-    name: Banuran
+    name: "Banuran"
     reset: "daily"
     trackingQuestId: 92403
 
@@ -37,7 +37,7 @@ things:
 
   - id: 250582
     type: "npc"
-    name: Bloated Snapdragon
+    name: "Bloated Snapdragon"
     reset: "daily"
     trackingQuestId: 92366
 
@@ -53,7 +53,7 @@ things:
 
   - id: 250683
     type: "npc"
-    name: Coralfang
+    name: "Coralfang"
     reset: "daily"
     trackingQuestId: 92389
 
@@ -68,7 +68,7 @@ things:
 
   - id: 250719
     type: "npc"
-    name: Cre'van
+    name: "Cre'van"
     reset: "daily"
     trackingQuestId: 92391
 
@@ -84,7 +84,7 @@ things:
 
   - id: 255348
     type: "npc"
-    name: Dame Bloodshed
+    name: "Dame Bloodshed"
     reset: "daily"
     trackingQuestId: 93561
 
@@ -101,7 +101,7 @@ things:
 
   - id: 255302
     type: "npc"
-    name: Duskburn
+    name: "Duskburn"
     reset: "daily"
     trackingQuestId: 93550
 
@@ -117,7 +117,7 @@ things:
 
   - id: 246633
     type: "npc"
-    name: Harried Hawkstrider
+    name: "Harried Hawkstrider"
     reset: "daily"
     trackingQuestId: 91315
 
@@ -133,7 +133,7 @@ things:
 
   - id: 250754
     type: "npc"
-    name: Lady Liminus
+    name: "Lady Liminus"
     reset: "daily"
     trackingQuestId: 92393
 
@@ -148,7 +148,7 @@ things:
 
   - id: 250806
     type: "npc"
-    name: Lost Guardian
+    name: "Lost Guardian"
     reset: "daily"
     trackingQuestId: 92399
 
@@ -164,7 +164,7 @@ things:
 
   - id: 255329
     type: "npc"
-    name: Malfunctioning Construct
+    name: "Malfunctioning Construct"
     reset: "daily"
     trackingQuestId: 93555
 
@@ -179,7 +179,7 @@ things:
 
   - id: 240129
     type: "npc"
-    name: Overfester Hydra
+    name: "Overfester Hydra"
     reset: "daily"
     trackingQuestId: 92392
 
@@ -195,7 +195,7 @@ things:
 
   - id: 250876
     type: "npc"
-    name: Terrinor
+    name: "Terrinor"
     reset: "daily"
     trackingQuestId: 92409
 
@@ -211,7 +211,7 @@ things:
 
   - id: 246332
     type: "npc"
-    name: Warden of Weeds
+    name: "Warden of Weeds"
     reset: "daily"
     trackingQuestId: 91280
 
@@ -227,7 +227,7 @@ things:
 
   - id: 250780
     type: "npc"
-    name: Waverly
+    name: "Waverly"
     reset: "daily"
     trackingQuestId: 92395
 
