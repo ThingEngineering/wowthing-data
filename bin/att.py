@@ -90,10 +90,11 @@ def main():
             print(f'    reset: "daily"')
             print(f'    trackingQuestId: {npc['questId']}')
 
-        print()
-        print(f'    locations:')
-        print(f'      here:')
-        print(f'        - {npc['coords']}')
+        if 'coords' in npc:
+            print()
+            print(f'    locations:')
+            print(f'      here:')
+            print(f'        - {npc['coords']}')
 
         if 'items' in npc:
             print()

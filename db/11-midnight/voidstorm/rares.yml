@@ -1,0 +1,328 @@
+things:
+  - id: 256924
+    type: "npc"
+    name: Aeonelle Blackstar
+    reset: "daily"
+    trackingQuestId: 93944
+
+    locations:
+      here:
+        - 39.2 64.0
+
+    contents:
+      - &mount1
+        id: 257085 # Augmented Stormray [mount]
+
+      - &mount2
+        id: 260635 # Sanguine Harrower [mount]
+
+      - id: 264549 # Ever-Devouring Shoulderguards [leater shoulders]
+      - id: 264637 # Cosmic Hunter's Glaive [warglaive]
+
+  - id: 256923
+    type: "npc"
+    name: Bane of the Vilebloods
+    reset: "daily"
+    trackingQuestId: 93946
+
+    locations:
+      here:
+        - 47.0 80.6
+
+    contents:
+      - *mount1
+      - *mount2
+      - id: 264558 # Vileblood Resistant Sabatons [mail legs]
+      - id: 264572 # Netherplate Clasp [plate waist]
+
+  - id: 256770
+    type: "npc"
+    name: Bilemaw the Gluttonous
+    reset: "daily"
+    trackingQuestId: 93884
+
+    locations:
+      here:
+        - 35.5 50.2
+
+    contents:
+      - *mount1
+      - *mount2
+      - id: 264579 # Hungering Wristplates [plate wrist]
+      - id: 264623 # Shredding Fang [dagger]
+
+  - id: 245182
+    type: "npc"
+    name: Eruundi
+    reset: "daily"
+    trackingQuestId: 91047
+
+    locations:
+      here:
+        - 41.6 90.6
+
+    contents:
+      - *mount1
+      - *mount2
+      - id: 264563 # Eruundi's Wristguards [mail wrist]
+
+  - id: 256821
+    type: "npc"
+    name: Far'thana the Mad
+    reset: "daily"
+    trackingQuestId: 93896
+
+    locations:
+      here:
+        - 53.8 62.7
+
+    contents:
+      - *mount1
+      - *mount2
+      - id: 264913 # Focused Netherslicer [1h sword]
+      - id: 264912 # Void-Channeler's Spire [stave]
+
+  - id: 257231
+    type: "npc"
+    name: Gar'chak Skullcleave
+    reset: "daily"
+    trackingQuestId: 94461
+
+    locations:
+      here:
+        - 70.6 77.0
+
+    contents:
+      - *mount1
+      - *mount2
+      - id: 264641 # Sharpened Skullcleaver [1h axe]
+
+  - id: 257199
+    type: "npc"
+    name: Hardin Steellock
+    reset: "daily"
+    trackingQuestId: 94461
+
+    locations:
+      here:
+        - 40.3 29.3 horde
+
+    contents:
+      - *mount1
+      - *mount2
+      - id: 264615 # Hardin's Backup Blade [1h sword]
+
+  - id: 256925
+    type: "npc"
+    name: Lotus Darkblossom
+    reset: "daily"
+    trackingQuestId: 93947
+
+    locations:
+      here:
+        - 37.9 71.8
+
+    contents:
+      - *mount1
+      - *mount2
+      - id: 264548 # Sash of Cosmic Tranquility [leather waist]
+      - id: 264632 # Darkblossom's Crook [stave]
+
+  - id: 245044
+    type: "npc"
+    name: Nightbrood
+    reset: "daily"
+    trackingQuestId: 91051
+
+    locations:
+      here:
+        - 40.2 41.5
+
+    contents:
+      - *mount1
+      - *mount2
+      - id: 264551 # Nightbrood's Jaw [leather head]
+      - id: 264574 # Netherterror's Legplates [plate legs]
+
+  - id: 256926
+    type: "npc"
+    name: Queen o' War
+    reset: "daily"
+    trackingQuestId: 93934
+
+    locations:
+      here:
+        - 55.7 79.4
+
+    contents:
+      - *mount1
+      - *mount2
+      - id: 264533 # Queen's Tentacle Sash [cloth waist]
+
+  - id: 257027
+    type: "npc"
+    name: Rakshur the Bonegrinder
+    reset: "daily"
+    trackingQuestId: 93953
+
+    locations:
+      here:
+        - 48.2 22.0
+
+    contents:
+      - *mount1
+      - *mount2
+      - id: 264561 # Primal Bonestompers [mail feet]
+      - id: 264630 # Colossal Voidsunderer [2h axe]
+
+  - id: 256808
+    type: "npc"
+    name: Ravengerus
+    reset: "daily"
+    trackingQuestId: 93895
+
+    locations:
+      here:
+        - 48.8 53.2
+
+    contents:
+      - *mount1
+      - *mount2
+      - id: 264535 # Leggings of the Cosmic Harrower [cloth legs]
+      - id: 264589 # Voidfused Wing Cloak [cloak]
+
+  - id: 256922
+    type: "npc"
+    name: Screammaxa the Matriarch
+    reset: "daily"
+    trackingQuestId: 93966
+
+    locations:
+      here:
+        - 43.7 51.5
+
+    contents:
+      - *mount1
+      - *mount2
+      - id: 264545 # Harrower-Claw Grips [leather hands]
+      - id: 264583 # Barbute of the Winged Hunter [plate head]
+
+  - id: 244272
+    type: "npc"
+    name: Sundereth the Caller
+    reset: "daily"
+    trackingQuestId: 90805
+
+    locations:
+      here:
+        - 29.5 50.1
+
+    contents:
+      - *mount1
+      - *mount2
+      - id: 264539 # Robes of the Voidcaller [cloth chest]
+      - id: 264619 # Nethersteel Spellblade [1h sword]
+
+  - id: 238498
+    type: "npc"
+    name: Territorial Voidscythe
+    reset: "daily"
+    trackingQuestId: 91050
+
+    locations:
+      here:
+        - 34.1 82.1
+
+    contents:
+      - *mount1
+      - *mount2
+      - id: 264565 # Voidscale Shoulderpads [mail shoulders]
+      - id: 264642 # Carving Voidscythe [1h axe]
+
+  - id: 241443
+    type: "npc"
+    name: Tremora
+    reset: "daily"
+    trackingQuestId: 91048
+
+    locations:
+      here:
+        - 36.0 83.3
+
+    contents:
+      - *mount1
+      - *mount2
+      - id: 264565 # Voidscale Shoulderpads [mail shoulders]
+      - id: 264646 # Specimen Sinew Longbow [bow]
+
+  # Stormarion Citadel rares don't drop mounts
+
+  - id: 248700
+    type: "npc"
+    name: Abysslick
+    reset: "daily"
+    trackingQuestId: 94462
+
+    locations:
+      here:
+        - 28.2 66.0
+
+    contents:
+      - id: 264596 # Voidthread Veil [cloak]
+      - id: 264634 # Spire of Flowing Void [stave]
+
+  - id: 248823
+    type: "npc"
+    name: Blackcore
+    reset: "daily"
+    trackingQuestId: 94463
+
+    locations:
+      here:
+        - 24.8 68.0
+
+    contents:
+      - id: 264519 # Repurposed Voidwalker's Chestplate [shield]
+
+  - id: 248068
+    type: "npc"
+    name: Nullspiral
+    reset: "daily"
+    trackingQuestId: 94460
+
+    locations:
+      here:
+        - 29.8 67.9
+
+    contents:
+      - id: 264531 # Shadowthread Slippers [cloth feet]
+      - id: 264588 # Shawl of Cosmic Whispers [cloak]
+
+  - id: 248459
+    type: "npc"
+    name: The Many-Broken
+    reset: "daily"
+    trackingQuestId: 94458
+
+    locations:
+      here:
+        - 28.8 70.2
+
+    contents:
+      - id: 264577 # Crystalforged Boots [plate feet]
+      - id: 264651 # Resonating Traumatizer [1h mace]
+
+  - id: 248791
+    type: "npc"
+    name: Voidseer Orivane
+    reset: "daily"
+    trackingQuestId: 94459
+
+    locations:
+      here:
+        - 30.1 69.3
+
+    contents:
+      - id: 264556 # Voidforged Cinch [mail waist]
+      - id: 264628 # Spear of Nothingness [polearm]
+
