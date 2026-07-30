@@ -1,0 +1,164 @@
+things:
+  - id: 262421
+    type: "npc"
+    name: "Atomus <Portal Master>"
+    reset: "daily"
+    trackingQuestId: 95940
+
+    locations:
+      here:
+        - 38.2 79.4
+
+    contents:
+      - id: 274831 # Portal Shaper's Circlet [cloth head]
+      - id: 274839 # Cold-World Cover [leather head]
+      - id: 274847 # Atomus's Headcover [mail head]
+      - id: 274855 # Portal-Keeper's Helm [plate head]
+      - id: 274868 # Portal Master's Shortblade [1h sword]
+
+  - id: 261716
+    type: "npc"
+    name: "Glacial Broodmother <Frost-Hive Alpha>"
+    description: "In Frost Chitter Grotto?"
+    reset: "daily"
+    trackingQuestId: 95559
+
+    locations:
+      here:
+        - 67.2 42.4
+
+    contents:
+      - id: 274833 # Icy Spidersilk Mantle [cloth shoulders]
+      - id: 274841 # Frigid Cavedweller's Shoulderpads [leather shoulders]
+      - id: 274849 # Frostscale Spider's Monnion [mail shoulders]
+      - id: 274857 # Chitonous Broodmother's Spaulders [plate shoulders]
+      - id: 274861 # Frosty Broodmother's Fang [dagger]
+
+  - id: 264866
+    type: "npc"
+    name: "Krilkan"
+    reset: "daily"
+    trackingQuestId: 96372
+
+    locations:
+      here:
+        - 44.6 52.8
+
+    contents:
+      - id: 274835 # Bands of Pincher Sinew [cloth wrists]
+      - id: 274843 # Pincher-Proof Wristguards [leather wrists]
+      - id: 274851 # Glittering Frostscale Wraps [mail wrists]
+      - id: 274859 # Klaxid Plate Vambraces [plate wrists]
+
+  - id: 264865
+    type: "npc"
+    name: "Mercilus"
+    reset: "daily"
+    trackingQuestId: 96371
+
+    locations:
+      here:
+        - 49.7 79.2
+
+    contents:
+      - id: 274834 # Cord of Domineering Resolve [cloth waist]
+      - id: 274842 # Gatekeeper's Leather Waistguard [leather waist]
+      - id: 274850 # Mercilus's Chain Waistguard [mail waist]
+      - id: 274858 # Domanaar Battle Belt [plate waist]
+      - id: 274867 # Inscribed Domanaar's Sword [1h sword]
+
+  - id: 264869
+    type: "npc"
+    name: "Nelgothar <The Forgotten>"
+    reset: "daily"
+    trackingQuestId: 96374
+
+    locations:
+      here:
+        - 23.2 41.9
+
+    contents:
+      - id: 274832 # Fel-Tainted Trousers [cloth legs]
+      - id: 274840 # Pants of the Lost Legion [leather legs]
+      - id: 274848 # Legguards of Fel-Corruption [mail legs]
+      - id: 274856 # Felguard's Frozen Greaves [plate legs]
+
+  - id: 264868
+    type: "npc"
+    name: "Opprimius <Reaper of Beasts>"
+    reset: "daily"
+    trackingQuestId: 96373
+
+    locations:
+      here:
+        - 33.0 43.0
+
+    contents:
+      - id: 274829 # Creature Corruptor Slippers [cloth feet]
+      - id: 274837 # Corrupted Hide Boots [leather feet]
+      - id: 274845 # Greaves of Corrupted Scale [mail feet]
+      - id: 274853 # Creature Crushers [plate feet]
+      - id: 274863 # Cudgel of the Twisted Reaper [1h mace]
+
+  - id: 265269
+    type: "npc"
+    name: "Shadowguard Destroyer"
+    reset: "daily"
+    trackingQuestId: 96465
+
+    locations:
+      here:
+        - 46.0 64.6
+
+    contents:
+      - id: 274830 # Ice-Glazed Gloves [cloth hands]
+      - id: 274838 # Gloves of the Descending Destroyer [leather hands]
+      - id: 274846 # Glacier Basin Gauntlets [mail hands]
+      - id: 274854 # Shadowguard Plate Gauntlets [plate hands]
+      - id: 274865 # Destroyer's Drop Hammer [1h mace]
+
+  - id: 261965
+    type: "npc"
+    name: "Sleet-Rune <The Void-Infused Watcher>"
+    reset: "daily"
+    trackingQuestId: 95939
+
+    locations:
+      here:
+        - 55.2 65.6
+
+    contents:
+      - id: 274828 # Domanaar Subjugator's Vestments [cloth chest]
+      - id: 274836 # Sleet-Resistant Jerkin [leather chest]
+      - id: 274844 # Sleetlink Hauberk [mail chest]
+      - id: 274852 # Sleetstone Chestplate [plate chest]
+      - id: 274869 # Void-Iced Warglaives [warglaive]
+
+  - id: 264870
+    type: "npc"
+    name: "The Horror Below <The Living Whisper>"
+    description: "Take the Portal to the Forgotten Depths"
+    reset: "daily"
+    trackingQuestId: 96375
+
+    locations:
+      here:
+        - 35.5 57.6
+
+    contents:
+      - id: 274818 # Drape of Intense Darkness [cloak]
+      - id: 274872 # Darkness' Horrific Barb [stave]
+
+  - id: 264864
+    type: "npc"
+    name: "Xirah <Voracious Glutton>"
+    reset: "daily"
+    trackingQuestId: 96370
+
+    locations:
+      here:
+        - 28.6 74.6
+
+    contents:
+      - id: 274820 # Cloak of the Voracious Gorger [cloak]
+      - id: 274875 # Riftwalker's Lantern [off-hand]
