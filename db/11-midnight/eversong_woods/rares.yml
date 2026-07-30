@@ -1,0 +1,242 @@
+things:
+  - id: 250841
+    type: "npc"
+    name: Bad Zed
+    reset: "daily"
+    trackingQuestId: 92404
+
+    locations:
+      here:
+        - 49.0 87.9
+
+    contents:
+      - &mount1
+        id: 257156 # Cerulean Hawkstrider [mount]
+      
+      - &mount2
+        id: 257147 # Cobalt Dragonhawk [mount]
+
+      - id: 264536 # Zedling Summoning Collar [cloth head]
+      - id: 264621 # Bad Zed's Worst Channeler [dagger]
+
+  - id: 250826
+    type: "npc"
+    name: Banuran
+    reset: "daily"
+    trackingQuestId: 92403
+
+    locations:
+      here:
+        - 56.4 77.6
+
+    contents:
+      - *mount1
+      - *mount2
+      - id: 264526 # Supremely Slimy Sash [cloth waist]
+      - id: 264552 # Frogskin Grips [leather hands]
+
+  - id: 250582
+    type: "npc"
+    name: Bloated Snapdragon
+    reset: "daily"
+    trackingQuestId: 92366
+
+    locations:
+      here:
+        - 36.6 64.0
+
+    contents:
+      - *mount1
+      - *mount2
+      - id: 264543 # Snapdragon Pantaloons [leather legs]
+      - id: 264560 # Sharpclaw Gauntlets [mail hands]
+
+  - id: 250683
+    type: "npc"
+    name: Coralfang
+    reset: "daily"
+    trackingQuestId: 92389
+
+    locations:
+      here:
+        - 36.4 36.4
+
+    contents:
+      - *mount1
+      - *mount2
+      - id: 264629 # Coralfang's Hefty Fin [2h sword]
+
+  - id: 250719
+    type: "npc"
+    name: Cre'van
+    reset: "daily"
+    trackingQuestId: 92391
+
+    locations:
+      here:
+        - 63.2 50.0
+
+    contents:
+      - *mount1
+      - *mount2
+      - id: 264573 # Taskmaster's Sadistic Shoulderguards [plate shoulders]
+      - id: 264647 # Cre'van's Punisher [1h mace]
+
+  - id: 255348
+    type: "npc"
+    name: Dame Bloodshed
+    reset: "daily"
+    trackingQuestId: 93561
+
+    locations:
+      here:
+        - 44.8 38.5
+
+    contents:
+      - *mount1
+      - *mount2
+      - id: 265609 # Princess Bloodshed [pet]
+      - id: 264595 # Lynxhide Shawl [cloak]
+      - id: 264624 # Fang of the Dame [dagger]
+
+  - id: 255302
+    type: "npc"
+    name: Duskburn
+    reset: "daily"
+    trackingQuestId: 93550
+
+    locations:
+      here:
+        - 42.3 69.0
+
+    contents:
+      - *mount1
+      - *mount2
+      - id: 264569 # Void-Gorged Kickers [mail feet]
+      - id: 264594 # Netherscale Cloak [back]
+
+  - id: 246633
+    type: "npc"
+    name: Harried Hawkstrider
+    reset: "daily"
+    trackingQuestId: 91315
+
+    locations:
+      here:
+        - 45.0 78.9
+
+    contents:
+      - *mount1
+      - *mount2
+      - id: 264522 # Striderplume Armbands [cloth wrist]
+      - id: 264521 # Striderplume Focus [off-hand]
+
+  - id: 250754
+    type: "npc"
+    name: Lady Liminus
+    reset: "daily"
+    trackingQuestId: 92393
+
+    locations:
+      here:
+        - 36.6 77.2
+
+    contents:
+      - *mount1
+      - *mount2
+      - id: 264645 # Aged Farstrider Bow [bow]
+
+  - id: 250806
+    type: "npc"
+    name: Lost Guardian
+    reset: "daily"
+    trackingQuestId: 92399
+
+    locations:
+      here:
+        - 59.1 79.2
+
+    contents:
+      - *mount1
+      - *mount2
+      - id: 264555 # Splintered Hexwood Clasps [mail wrist]
+      - id: 264575 # Hexwood Helm [plate head]
+
+  - id: 255329
+    type: "npc"
+    name: Malfunctioning Construct
+    reset: "daily"
+    trackingQuestId: 93555
+
+    locations:
+      here:
+        - 51.7 46.0
+
+    contents:
+      - *mount1
+      - *mount2
+      - id: 264584 # Stonecarved Smashers [plate hands]
+
+  - id: 240129
+    type: "npc"
+    name: Overfester Hydra
+    reset: "daily"
+    trackingQuestId: 92392
+
+    locations:
+      here:
+        - 54.7 60.4
+
+    contents:
+      - *mount1
+      - *mount2
+      - id: 264524 # Lightblighted Verdant Vest [leather chest]
+      - id: 264523 # Hydrafang Blade [1h sword]
+
+  - id: 250876
+    type: "npc"
+    name: Terrinor
+    reset: "daily"
+    trackingQuestId: 92409
+
+    locations:
+      here:
+        - 40.3 85.3
+
+    contents:
+      - *mount1
+      - *mount2
+      - id: 264537 # Winged Terror Gloves [cloth hands]
+      - id: 264546 # Bat Fur Boots [leather feet]
+
+  - id: 246332
+    type: "npc"
+    name: Warden of Weeds
+    reset: "daily"
+    trackingQuestId: 91280
+
+    locations:
+      here:
+        - 52.7 75.0
+
+    contents:
+      - *mount1
+      - *mount2
+      - id: 264520 # Warden's Leycrook [stave]
+      - id: 264613 # Steelbark Bulwark [shield]
+
+  - id: 250780
+    type: "npc"
+    name: Waverly
+    reset: "daily"
+    trackingQuestId: 92395
+
+    locations:
+      here:
+        - 34.8 21.0
+
+    contents:
+      - *mount1
+      - *mount2
+      - id: 264910 # Shell-Cleaving Poleaxe [polearm]
+
