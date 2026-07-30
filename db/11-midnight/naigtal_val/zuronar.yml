@@ -8,7 +8,11 @@ things:
       11-midnight/naigtal:
         - 48 83.2
       11-midnight/val:
-        - 48 83.2
+        - 63.7 21.2
+
+    tags:
+      - "zone:naigtal"
+      - "zone:val"
 
     groups:
       - name: "Decor"

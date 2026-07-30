@@ -1,0 +1,164 @@
+things:
+  - id: 264569
+    type: "npc"
+    name: "Auredar's Chassis <The Vacant Vigilant>"
+    description: "In the crypt"
+    reset: "daily"
+    trackingQuestId: 96316
+
+    locations:
+      here:
+        - 28.8 62.9
+
+    contents:
+      - id: 275143 # Draeni Ceremonial Cuffs [cloth wrist]
+      - id: 275151 # Bands of Draenic Mourning [leather waist]
+      - id: 275159 # Construct Manipulator Bracers [mail wrist]
+      - id: 275167 # Intact Construct Plates [plate wrist]
+      - id: 274873 # Funeral Attendant's Spire [stave]
+
+  - id: 263950
+    type: "npc"
+    name: "Broxion <Contagious Anomaly>"
+    reset: "daily"
+    trackingQuestId: 96206
+
+    locations:
+      here:
+        - 45.1 55.3
+
+    contents:
+      - id: 275138 # Spore-Handler's Handwraps [cloth hands]
+      - id: 275146 # Spore-Membrane Gloves [leather hands]
+      - id: 275154 # Swamp Trekker's Grips [mail hands]
+      - id: 275162 # Spore-Shined Gloves [plate hands]
+
+  - id: 264571
+    type: "npc"
+    name: "Indomitable Mk XII <Blazing Reaver>"
+    reset: "daily"
+    trackingQuestId: 96317
+
+    locations:
+      here:
+        - 54.5 43.8
+
+    contents:
+      - id: 275140 # Leggings of Tainted Stuffing [cloth legs]
+      - id: 275148 # Reaver's Padded Trousers [leather legs]
+      - id: 275156 # Gear-Linked Leggings [mail legs]
+      - id: 275164 # Indomitable Mechanized Legplates [plate legs]
+
+  - id: 263947
+    type: "npc"
+    name: "Interminable Uarn <The Undying Stalk>"
+    reset: "daily"
+    trackingQuestId: 96205
+
+    locations:
+      here:
+        - 37.6 61.8
+
+    contents:
+      - id: 275139 # Crown of Fungal Spores [cloth head]
+      - id: 275147 # Bioluminescent Swamp Mask [leather head]
+      - id: 275155 # Interminable Fungal Helmet [mail head]
+      - id: 275163 # Uarn's Reinforced Headplate [plate head]
+      - id: 274862 # Corrupted Draenei Priest's Kris [dagger]
+      - id: 274876 # Reinforced Fungalhide Bulwark [shield]
+
+  - id: 263955
+    type: "npc"
+    name: "Lomelith <The Bogshaker>"
+    reset: "daily"
+    trackingQuestId: 96208
+
+    locations:
+      here:
+        - 67.7 62.9
+
+    contents:
+      - id: 274819 # Fungle Fold Frock [cloak]
+      - id: 274860 # Ancient Spore-Coated Axe [1h axe]
+
+  - id: 263954
+    type: "npc"
+    name: "Swalewing Matriarch <The Manabog Apex>"
+    reset: "daily"
+    trackingQuestId: 96207
+
+    locations:
+      here:
+        - 77.7 38.0
+
+    contents:
+      - id: 275137 # Flickering Soft-Steppers [cloth feet]
+      - id: 275145 # Swalewing Skin Footpads [leather feet]
+      - id: 275153 # Flickering Scale Sabatons [mail feet]
+      - id: 275161 # Swamp-Resistant Stompers [plate feet]
+      - id: 274874 # Flickering Wing Separator [2h sword]
+
+  - id: 264576
+    type: "npc"
+    name: "Slaipaan <The Fel-Gorged>"
+    reset: "daily"
+    trackingQuestId: 96320
+
+    locations:
+      here:
+        - 56.1 61.4
+
+    contents:
+      - id: 274871 # Giant Worm Piercer []
+      - id: 275152 # Burrower's Linked Hauberk []
+      - id: 275136 # Leaf-Woven Blouse []
+      - id: 275144 # Leafy-Hide Coat []
+      - id: 275160 # Slaipaan's Carapace []
+
+  - id: 265698
+    type: "npc"
+    name: "Voidwarped Sporebat"
+    reset: "daily"
+    trackingQuestId: 96566
+
+    locations:
+      here:
+        - 48.8 47.4
+
+    contents:
+      - id: 275142 # Voidwarped Sash [cloth waist]
+      - id: 275150 # Sporebat Leather Belt [leather waist]
+      - id: 275158 # Voidwarped Scale Girdle [mail waist]
+      - id: 275166 # Voidwarped Greatbelt [plate waist]
+      - id: 274866 # Voidwarped Edge [1h sword]
+
+  - id: 267422
+    type: "npc"
+    name: "Warbringer Thal'kuur <The Mutinied>"
+    reset: "daily"
+    trackingQuestId: 97014
+
+    locations:
+      here:
+        - 29.6 19.0
+
+    contents:
+      - id: 275141 # Spore-Speckled Shoulderpads [cloth shoulders]
+      - id: 275149 # Fungal Draped Epaulets [leather shoulders]
+      - id: 275157 # Swampwalker's Spaulders [mail shoulders]
+      - id: 275165 # Petrified Mushroom Shoulderplates [plate shoulders]
+      - id: 274864 # Sporebloom Gavel [1h mace]
+
+  - id: 264574
+    type: "npc"
+    name: "Warp Agent Xi'grivr <Ky'veza's Second>"
+    reset: "daily"
+    trackingQuestId: 96319
+
+    locations:
+      here:
+        - 70.3 76.4
+
+    contents:
+      - id: 274821 # Drape of the Hal'hadar Assassin [cloak]
+      - id: 274870 # Assassin's Void-String Bow [bow]

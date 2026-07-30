@@ -8,8 +8,12 @@ things:
       11-midnight/naigtal:
         - 48.4 81.4
       11-midnight/val:
-        - 48.4 81.4
-      
+        - 59.8 19.6
+
+    tags:
+      - "zone:naigtal"
+      - "zone:val"
+
     groups:
       - name: "Armor - Cloth"
         range: 9

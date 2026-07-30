@@ -8,11 +8,13 @@ STATE_IDLE = 0
 STATE_RARES = 1
 STATE_NPC = 2
 STATE_GROUPS = 3
+STATE_SYM_ITEMID = 4
 
 RE_NPC = re.compile(r'^n\((\d+).*?--\s*(.+)$')
 RE_COORD = re.compile(r'^\["coord"\] = \{ ([\d\.]+), ([\d\.]+).*?\},$')
 RE_QUEST_ID = re.compile(r'^\["questID"\] = (\d+),$')
 RE_ITEM = re.compile(r'^i\((\d+)\),.*?--\s*(.+)$')
+RE_SYM_ITEM = re.compile(r'(\d+).*?--\s*(.+)$')
 
 def main():
     if len(sys.argv) < 2:
@@ -54,6 +56,8 @@ def main():
             
             if line.startswith('["groups"] = '):
                 state = STATE_GROUPS
+            elif line == '["sym"] = {{"select","itemID",':
+                state = STATE_SYM_ITEMID
             elif line == '}),':
                 npcs.append(npc_data)
                 npc_data = {}
@@ -73,6 +77,20 @@ def main():
             else:
                 print(f'STATE_GROUPS #{line}#')
 
+        elif state == STATE_SYM_ITEMID:
+            m = RE_SYM_ITEM.match(line)
+            if m:
+                npc_data.setdefault('items', []).append([
+                    int(m.group(1)),
+                    m.group(2)
+                ])
+                continue
+            
+            if line == '}},':
+                state = STATE_NPC
+            else:
+                print(f'STATE_SYM_ITEMID #{line}#')
+
         else:
             print(line)
     
@@ -84,7 +102,7 @@ def main():
     for npc in npcs:
         print(f'  - id: {npc['id']}')
         print(f'    type: "npc"')
-        print(f'    name: {npc['name']}')
+        print(f'    name: "{npc['name']}"')
 
         if 'questId' in npc:
             print(f'    reset: "daily"')

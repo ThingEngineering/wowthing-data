@@ -8,6 +8,9 @@ things:
       11-midnight/val:
         - 58.9 19.1
 
+    tags:
+      - "zone:val"
+
     groups: &groups
       - name: "Misc"
         range: 6
@@ -160,6 +163,9 @@ things:
     locations:
       11-midnight/naigtal:
         - 47.4 81.4
+
+    tags:
+      - "zone:naigtal"
 
     groups: *groups
     contents: *contents
