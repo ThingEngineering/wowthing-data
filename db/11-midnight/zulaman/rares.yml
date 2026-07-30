@@ -1,0 +1,242 @@
+things:
+  - id: 245692
+    type: "npc"
+    name: Ash'an the Empowered
+    reset: "daily"
+    trackingQuestId: 91073
+
+    locations:
+      here:
+        - 45.2 41.7
+
+    contents:
+      - &mount1
+        id: 257152 # Amani Sharptalon [mount]
+
+      - &mount2
+        id: 257200 # Escaped Witherbark Pango [mount]
+
+      - id: 264593 # Warcloak of the Butcher [cloak]
+      - id: 264643 # Ash'an's Spare Cleaver [1h axe]
+
+  - id: 242027
+    type: "npc"
+    name: Depthborn Eelamental
+    reset: "daily"
+    trackingQuestId: 89573
+
+    locations:
+      here:
+        - 47.8 20.5
+
+    contents:
+      - *mount1
+      - *mount2
+      - id: 264618 # Strangely Eelastic Blade [1h sword]
+
+  - id: 242026
+    type: "npc"
+    name: Elder Oaktalon
+    reset: "daily"
+    trackingQuestId: 89572
+
+    locations:
+      here:
+        - 33.7 89.0
+
+    contents:
+      - *mount1
+      - *mount2
+      - id: 264529 # Cover of the Furbolg Elder [cloth head]
+      - id: 264547 # Worn Furbolg Bindings [leather wrist]
+
+  - id: 242028
+    type: "npc"
+    name: Lightwood Borer
+    reset: "daily"
+    trackingQuestId: 89575
+
+    locations:
+      here:
+        - 28.9 24.4
+
+    contents:
+      - *mount1
+      - *mount2
+      - id: 264557 # Borerplate Pauldrons [mail shoulders]
+      - id: 264640 # Sharpened Borer Claw [1h axe]
+
+  - id: 245975
+    type: "npc"
+    name: Mrrlokk
+    reset: "daily"
+    trackingQuestId: 91174
+
+    locations:
+      here:
+        - 50.9 65.2
+
+    contents:
+      - *mount1
+      - *mount2
+      - id: 264570 # Reinforced Chainmrrl [mail chest]
+      - id: 264580 # Mrrlokk's Mrgl Grrdle [plate waist]
+
+  - id: 242023
+    type: "npc"
+    name: Necrohexxer Raz'ka
+    reset: "daily"
+    trackingQuestId: 89569
+
+    locations:
+      here:
+        - 34.4 33.0
+
+    contents:
+      - *mount1
+      - *mount2
+      - id: 264527 # Vile Hexxer's Mantle [cloth shoulders]
+
+  - id: 242032
+    type: "npc"
+    name: Oophaga
+    reset: "daily"
+    trackingQuestId: 89579
+
+    locations:
+      here:
+        - 46.6 51.3
+
+    contents:
+      - *mount1
+      - *mount2
+      - id: 264528 # Goop-Coated Leggings [cloth legs]
+      - id: 264541 # Egg-Swaddling Sash [leather waist]
+
+  - id: 247976
+    type: "npc"
+    name: Poacher Rav'ik
+    reset: "daily"
+    trackingQuestId: 91634
+
+    locations:
+      here:
+        - 39.0 50.1
+
+    contents:
+      - *mount1
+      - *mount2
+      - id: 264627 # Rav'ik's Spare Hunting Spear [polearm]
+      - id: 264911 # Forest Hunter's Arc [bow]
+
+  - id: 242025
+    type: "npc"
+    name: Skullcrusher Harak
+    reset: "daily"
+    trackingQuestId: 89571
+
+    locations:
+      here:
+        - 51.8 72.9
+
+    contents:
+      - *mount1
+      - *mount2
+      - id: 264542 # Skullcrusher's Mantle [leather shoulders]
+      - id: 264631 # Harak's Skullcutter [2h sword]
+
+  - id: 242031
+    type: "npc"
+    name: Spinefrill
+    reset: "daily"
+    trackingQuestId: 89578
+
+    locations:
+      here:
+        - 30.5 44.7
+
+    contents:
+      - *mount1
+      - *mount2
+      - id: 264554 # Frilly Leather Vest [leather chest]
+      - id: 264620 # Pufferspine Spellpierce [dagger]
+
+  - id: 245691
+    type: "npc"
+    name: The Decaying Diamondback
+    reset: "daily"
+    trackingQuestId: 91072
+
+    locations:
+      here:
+        - 46.4 43.5
+
+    contents:
+      - *mount1
+      - *mount2
+      - id: 264525 # Wrapped Antenna Cuffs [cloth wrist]
+      - id: 264582 # Diamondback-Scale Legguards [plate legs]
+
+  - id: 242035
+    type: "npc"
+    name: The Devouring Invader
+    reset: "daily"
+    trackingQuestId: 89583
+
+    locations:
+      here:
+        - 39.5 20.8
+
+    contents:
+      - *mount1
+      - *mount2
+      - id: 264559 # Devourer's Visage [mail head]
+      - id: 264638 # Fangs of the Invader [warglaive]
+
+  - id: 242024
+    type: "npc"
+    name: The Snapping Scourge
+    reset: "daily"
+    trackingQuestId: 89570
+
+    locations:
+      here:
+        - 51.8 18.6
+
+    contents:
+      - *mount1
+      - *mount2
+      - id: 264585 # Snapper Steppers [plate feet]
+      - id: 264617 # Scourge's Spike [1h sword]
+
+  - id: 242033
+    type: "npc"
+    name: Tiny Vermin
+    reset: "daily"
+    trackingQuestId: 89580
+
+    locations:
+      here:
+        - 47.7 34.4
+
+    contents:
+      - *mount1
+      - *mount2
+      - id: 264648 # Verminscale Gavel [1h mace]
+
+  - id: 242034
+    type: "npc"
+    name: Voidtouched Crustacean
+    reset: "daily"
+    trackingQuestId: 89581
+
+    locations:
+      here:
+        - 21.4 70.6
+
+    contents:
+      - *mount1
+      - *mount2
+      - id: 264586 # Crustacean Carapace Chestguard [mail waist]
+      - id: 264564 # Crab Wrangling Harness [plate chest]
+
