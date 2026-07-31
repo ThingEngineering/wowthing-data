@@ -88,7 +88,7 @@ things:
 
       - id: 263737 # Void Rider's Helm [head]
         costs: &armor-costs
-          3405: 75
+          3405: 100
 
       - id: 263739 # Void Rider's Pauldrons [shoulders]
         costs: *armor-costs
@@ -484,7 +484,7 @@ things:
     
       - id: 263905 # Void-Touched Apprentice's Gavel [1h mace]
         costs: &weapon-costs
-          3405: 75
+          3405: 100
 
       - id: 263903 # Void-Touched Basher [1h mace]
         costs: *weapon-costs
