@@ -847,7 +847,7 @@ groups:
 - name: "Void Assaults - Naigtal/Val"
   type: armor
   sets:
-    - "Response Team Armor Weapons"
+    - "Response Team Armor"
   data:
     cloth:
       - name: "Response Team's Cloth"
