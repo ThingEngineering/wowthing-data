@@ -1,0 +1,183 @@
+things:
+  - type: vendor
+    name: "2026-08"
+    id: 1202608
+
+    groups:
+      - name: "2026-08"
+        range: -1
+        sortKey: "tp-7404" # (100-YY)(12-MM)
+
+    contents:
+
+      - id: 243591 # Grandmaster's Royal Board [mount]
+        costs:
+          2032: 700
+
+      - id: 274681 # Badlands Buzzard [mount]
+        costs:
+          2032: 550
+
+      - id: 211087 # Hateforged Blazecycle [mount]
+        costs:
+          2032: 500
+
+      - id: 271594 # Ensemble: Badlands Lawbringer [ensemble]
+        costs:
+          2032: 675
+
+      - id: 271450 # Ensemble: Righteous Lawbringer [ensemble]
+        costs:
+          2032: 675
+
+      - id: 243277 # Ensemble: Grandmaster's Royal Attire [ensemble]
+        costs:
+          2032: 550
+
+      - id: 273769 # Ensemble: Slinger's Munitions [ensemble]
+        costs:
+          2032: 200
+
+      - id: 242455 # Ensemble: Midnight Sweatsuit [ensemble]
+        costs:
+          2032: 100
+
+      - id: 230152 # Ensemble: Prowler's Midnight Headgear [ensemble]
+        costs:
+          2032: 100
+
+      - id: 242489 # Ensemble: Snowy Sweatsuit [ensemble]
+        costs:
+          2032: 100
+
+      - id: 257970 # Ensemble: Sorcerer's Midnight Garb [ensemble]
+        costs:
+          2032: 100
+
+      - id: 258020 # Ensemble: Sorcerer's Snowy Garb [ensemble]
+        costs:
+          2032: 100
+
+      - id: 246015 # Classic Midnight Eyepatch [head]
+        costs:
+          2032: 50
+
+      - id: 246016 # Classic Snowy Eyepatch [head]
+        costs:
+          2032: 50
+
+      - id: 270279 # Crown of Midnight Springflowers [head]
+        costs:
+          2032: 50
+
+      - id: 270296 # Crown of Snowy Springflowers [head]
+        costs:
+          2032: 50
+
+      - id: 274630 # Gunslinger's Carrot Lid [head]
+        costs:
+          2032: 50
+
+      - id: 274619 # Gunslinger's Midnight Lid [head]
+        costs:
+          2032: 50
+
+      - id: 274636 # Gunslinger's Snowy Lid [head]
+        costs:
+          2032: 50
+
+      - id: 252710 # Midnight Winter Toque [head]
+        costs:
+          2032: 50
+
+      - id: 252751 # Snowy Winter Toque [head]
+        costs:
+          2032: 50
+
+      - id: 235019 # Vigilante's Midnight Mask [head]
+        costs:
+          2032: 50
+
+      - id: 235035 # Vigilante's Snowy Mask [head]
+        costs:
+          2032: 50
+
+      - id: 230033 # Prowler's Midnight Shoulder Cape [shoulder]
+        costs:
+          2032: 75
+
+      - id: 230051 # Prowler's Snowy Shoulder Cape [shoulder]
+        costs:
+          2032: 75
+
+      - id: 262855 # Midnight Dunecloth Vest [chest]
+        costs:
+          2032: 35
+
+      - id: 262871 # Snowy Dunecloth Vest [chest]
+        costs:
+          2032: 35
+
+      - id: 262837 # Midnight Dunecloth Belt [waist]
+        costs:
+          2032: 30
+
+      - id: 262853 # Snowy Dunecloth Belt [waist]
+        costs:
+          2032: 30
+
+      - id: 262819 # Midnight Dunecloth Skirt [legs]
+        costs:
+          2032: 35
+
+      - id: 262835 # Snowy Dunecloth Skirt [legs]
+        costs:
+          2032: 35
+
+      - id: 274050 # Bandit's Midnight Highboot [feet]
+        costs:
+          2032: 40
+
+      - id: 274066 # Bandit's Snowy Highboot [feet]
+        costs:
+          2032: 40
+
+      - id: 242527 # Grandmaster's Royal Axe [1h axe]
+        costs:
+          2032: 150
+
+      - id: 274403 # Badlands Lawbringer's Brand [1h mace]
+        costs:
+          2032: 200
+
+      - id: 274404 # Righteous Lawbringer's Brand [1h mace]
+        costs:
+          2032: 200
+
+      - id: 274433 # Badlands Lawbringer's Knife [dagger]
+        costs:
+          2032: 200
+
+      - id: 274434 # Righteous Lawbringer's Knife [dagger]
+        costs:
+          2032: 200
+
+      - id: 242541 # Grandmaster's Royal Mace [2h mace]
+        costs:
+          2032: 175
+
+      - id: 242359 # Grandmaster's Royal Stave [stave]
+        costs:
+          2032: 175
+
+      - id: 274717 # Badlands Lawbringer's Hand Cannon [gun]
+        costs:
+          2032: 200
+
+      - id: 274716 # Righteous Lawbringer's Hand Cannon [gun]
+        costs:
+          2032: 200
+
+      - id: 242374 # Grandmaster's Royal Bulwark [shield]
+        costs:
+          2032: 100
