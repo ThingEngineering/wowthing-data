@@ -838,8 +838,8 @@ groups:
           - 274871 # Giant Worm Piercer
           - 274867 # Inscribed Domanaar's Sword
           - 274868 # Portal Master's Shortblade
-          - 274876 # Reinforced Fungalhide Bulwark
-          - 274875 # Riftwalker's Lantern
+          - 274876 # Reinforced Fungalhide Bulwark [shield]
+          - 274875 # Riftwalker's Lantern [off-hand]
           - 274864 # Sporebloom Gavel
           - 274866 # Voidwarped Edge
           - 274869 # Void-Iced Warglaives
@@ -962,7 +962,8 @@ groups:
   sets:
     - ":blacksmithing: :leatherworking: :tailoring: Epic Armor"
     - ":blacksmithing: :leatherworking: :tailoring: Rare Armor"
-    - ":engineering: Armor"
+    - ":engineering: Epic Armor"
+    - ":engineering: Rare Armor"
   data:
     cloth:
       - name: "Tailoring Epic Cloth"
@@ -997,11 +998,14 @@ groups:
           - 239676 # Courtly Pants [legs]
           - 239673 # Courtly Slippers [feet]
       
-      - name: "Engineering Cloth"
+      - name: "Engineering Epic Cloth"
         itemsV2:
           - 244743 # Aetherlume Eye Wrap [head]
           - 244747 # Aetherlume Silken Cuffs [wrists]
           - 244771_6 # Aetherlume Softsteppers [feet]
+
+      - name: "Engineering Rare Cloth"
+        itemsV2:
           - 244754 # Evercore Vision Guard [head]
           - 245341 # Evercore Wrist Latch [wrists]
           - 245337_6 # Evercore Swiftfeet [feet]
@@ -1037,11 +1041,14 @@ groups:
           - 244594 # Smuggler's Reinforced Pants [legs]
           - 244585 # Smuggler's Leather Footpads [feet]
 
-      - name: "Engineering Leather"
+      - name: "Engineering Epic Leather"
         itemsV2:
           - 244744 # Aetherlume Optics [head]
           - 244748 # Aetherlume Bands [wrists]
           - 244772_6 # Aetherlume Runners [feet]
+
+      - name: "Engineering Rare Leather"
+        itemsV2:
           - 244752 # Evercore Shade [head]
           - 245342 # Evercore Binding [wrists]
           - 245338_6 # Evercore Stichwraps [feet]
@@ -1077,11 +1084,14 @@ groups:
           - 244599 # Scout's Polished Legguards [legs]
           - 244588 # Scout's Scaled Boots [feet]
 
-      - name: "Engineering Mail"
+      - name: "Engineering Epic Mail"
         itemsV2:
           - 244745 # Aetherlume Vision Shroud [head]
           - 244749 # Aetherlume Bracelets [wrists]
           - 244773_6 # Aetherlume Clonkers [feet]
+
+      - name: "Engineering Rare Mail"
+        itemsV2:
           - 244753 # Evercore Reconnaissance [head]
           - 245343 # Evercore Chainguards [wrists]
           - 245339_6 # Evercore Turbochains [feet]
@@ -1113,11 +1123,14 @@ groups:
           - 237922 # Blood-Tempered Leggings [legs]
           - 237917 # Blood-Tempered Greaves [feet]
 
-      - name: "Engineering Plate"
+      - name: "Engineering Epic Plate"
         itemsV2:
           - 244746 # Aetherlume Sun Guard [head]
           - 244750 # Aetherlume Guards [wrists]
           - 244774_6 # Aetherlume Stompers [feet]
+
+      - name: "Engineering Rare Plate"
+        itemsV2:
           - 244751 # Evercore Zoomshroud [head]
           - 245344 # Evercore Gear Weight [wrists]
           - 245340_6 # Evercore Greaseplates [feet]
