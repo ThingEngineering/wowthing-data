@@ -90,7 +90,7 @@ things:
 
     locations:
       here:
-        - 70.6 77.0
+        - 58.8 38.3 alliance
 
     contents:
       - *mount1
