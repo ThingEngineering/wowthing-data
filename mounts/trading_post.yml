@@ -11,6 +11,7 @@ groups:
     - 1799 # Eve's Ghastly Rider (October 2023)
     - 2238 # Plunderlord's Golden Crocolisk (2024-09)
     - 1550 # Depthstalker (2024-10)
+    - 2975 # Bilgewater X-TREME Firework Rocket (2026-07)
 
 - name: "Trading Post"
   things:
@@ -61,6 +62,8 @@ groups:
     - 2630 # Ornery Breezestrider (2025-09)
     - 2625 # The Headless Horseman's Hallowed Charger (2025-10)
     - 2823 # Savage Crimson Battle Turtle (2026-01)
+    - 2973 # Blackwater X-TREME Firework Rocket (2026-07)
+    - 2994 # Badlands Buzzard (2026-08)
 
 - name: "Unavailable"
   things:

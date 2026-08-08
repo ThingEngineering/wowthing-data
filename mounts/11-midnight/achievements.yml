@@ -3,6 +3,7 @@ groups:
 
 - name: "Misc"
   things:
+    - 2707 # Brilliant Petalwing (Light Up the Night)
     - 2756 # Crimson Dragonhawk (Midnight Glyph Hunter)
     - 2616 # Ivory Grimlynx (Allied Race: Haranir)
     - 2829 # Lab-grown Stormray (Staring into the Void)

@@ -22,7 +22,3 @@ groups:
   things:
     - 2760 # Amani Sharptalon (rares)
     - 2775 # Witherbark Pango (rares)
-
-- name: "Sporefall (Raid)"
-  things:
-    - 2950 # Luminous Sporeglider

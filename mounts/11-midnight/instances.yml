@@ -9,6 +9,7 @@ groups:
 - name: "Raids"
   things:
     - 2607 # Ashes of Belo'ren (Midnight Falls, March on Quel'Danas Mythic)
+    - 2950 # Luminous Sporeglider (Rotmire, Sporefall ??)
 
 - name: "Ritual Sites"
   things:
