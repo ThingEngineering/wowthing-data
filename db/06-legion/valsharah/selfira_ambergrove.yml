@@ -1,0 +1,72 @@
+things:
+  - id: 253387
+    type: "vendor"
+    name: "Selfira Ambergrove"
+    note: "Decor Specialist"
+
+    locations:
+      here: # valsharah
+        - 54.2 72.4
+        - 54.2 72.6
+
+    contents:
+
+      # 0
+
+      - id: 238859 # Cenarion Privacy Screen
+        costs:
+          0: 1000 # Gold
+          1220: 2000
+        requirements:
+          - "reputation 1883 exalted"
+
+      - id: 245261 # Kaldorei Washbasin
+        costs:
+          0: 700 # Gold
+          1220: 1000
+        requirements:
+          - "reputation 1883 revered"
+
+      - id: 238861 # Cenarion Rectangular Rug
+        costs:
+          0: 500 # Gold
+          1220: 750
+        requirements:
+          - "reputation 1883 honored"
+
+      - id: 264168 # Cenarion Round Rug
+        costs:
+          0: 500 # Gold
+          1220: 750
+        requirements:
+          - "reputation 1883 honored"
+
+      - id: 251494 # Moon-Blessed Barrel
+        costs:
+          1220: 200
+        requirements:
+          - "reputation 1883 friendly"
+
+      - id: 245739 # Crescent Moon Lamppost
+        costs:
+          1220: 600
+
+      - id: 238860 # Deluxe Val'sharah Bed
+        costs:
+          1220: 1000
+
+      - id: 245700 # Kaldorei Cushioned Seat
+        costs:
+          1220: 250
+
+      - id: 245703 # Kaldorei Treasure Trove
+        costs:
+          1220: 750
+
+      - id: 245702 # Kaldorei Wall Shelf
+        costs:
+          1220: 450
+
+      - id: 245697 # Shala'nir Feather Bed
+        costs:
+          1220: 950
