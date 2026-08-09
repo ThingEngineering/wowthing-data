@@ -1,0 +1,174 @@
+things:
+  - id: 176064
+    type: "vendor"
+    name: "Adjutant Mikaros"
+    note: "Ascended Quartermaster"
+
+    locations:
+      here: # unknown
+        - 47.4 76.4
+
+    contents:
+
+      # 0
+
+      - id: 178991 # Tabard of the Ascended [tabard]
+        costs:
+          0: 8 # Gold
+        requirements:
+          - "reputation 2407 exalted"
+
+      - id: 184351 # Illusion: Devoted Spirit
+        costs:
+          0: 1250 # Gold
+        requirements:
+          - "reputation 2407 exalted"
+
+      - id: 184729 # Masque of the Path [cloth head]
+        costs:
+          0: 18 # Gold
+        requirements:
+          - "reputation 2407 exalted"
+
+      - id: 184731 # Gorget of the Path [leather head]
+        costs:
+          0: 18 # Gold
+        requirements:
+          - "reputation 2407 exalted"
+
+      - id: 184730 # Cowl of the Path [mail head]
+        costs:
+          0: 18 # Gold
+        requirements:
+          - "reputation 2407 exalted"
+
+      - id: 184728 # Casque of the Path [plate head]
+        costs:
+          0: 18 # Gold
+        requirements:
+          - "reputation 2407 exalted"
+
+      - id: 183097 # Schematic: PHA7-YNX
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation 2407 exalted"
+
+      - id: 184732 # Manacles of Burden [cloth wrists]
+        costs:
+          0: 7 # Gold
+        requirements:
+          - "reputation 2407 revered"
+
+      - id: 184735 # Wristclasps of Shame [leather wrists]
+        costs:
+          0: 8 # Gold
+        requirements:
+          - "reputation 2407 revered"
+
+      - id: 184734 # Bracers of Regret [mail wrists]
+        costs:
+          0: 7 # Gold
+        requirements:
+          - "reputation 2407 revered"
+
+      - id: 184733 # Wristclamps of Remorse [plate wrists]
+        costs:
+          0: 7 # Gold
+        requirements:
+          - "reputation 2407 revered"
+
+      - id: 184410 # Aspirant's Stretcher
+        costs:
+          0: 1412 # Gold
+        requirements:
+          - "reputation 2407 revered"
+
+      - id: 183103 # Technique: Contract: The Ascended
+        costs:
+          0: 1765 # Gold
+        requirements:
+          - "reputation 2407 revered"
+
+      # Demon Hunter
+
+      - id: 217591 # Glyph of Elysian Decree
+        costs:
+          0: 5000 # Gold
+        requirements:
+          - "reputation 2407 honored"
+
+      # Mage
+
+      - id: 217586 # Glyph of Radiant Spark
+        costs:
+          0: 5000 # Gold
+        requirements:
+          - "reputation 2407 honored"
+
+      # Monk
+
+      - id: 217595 # Glyph of Weapons of Order
+        costs:
+          0: 4000 # Gold
+        requirements:
+          - "reputation 2407 honored"
+
+      # Paladin
+
+      - id: 217587 # Glyph of Divine Toll
+        costs:
+          0: 5000 # Gold
+        requirements:
+          - "reputation 2407 honored"
+
+      # Rogue
+
+      - id: 217597 # Glyph of Echoing Reprimand
+        costs:
+          0: 5000 # Gold
+        requirements:
+          - "reputation 2407 honored"
+
+      # Warrior
+
+      - id: 217584 # Glyph of Spear of Bastion
+        costs:
+          0: 5000 # Gold
+        requirements:
+          - "reputation 2407 honored"
+      # Skipped id=184756 name=Smoothed Loop of Contemplation slot=11
+
+      # 0
+
+      - id: 183094 # Plans: Shadowsteel Helm
+        costs:
+          0: 16 # Gold
+        requirements:
+          - "reputation 2407 honored"
+
+      - id: 183098 # Technique: Codex of the Still Mind
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation 2407 friendly"
+
+      - id: 190644 # Vessel of Profound Possibilities
+        costs:
+          2009: 10000
+
+      - id: 183243 # Memory of the Arbiter's Judgment
+        costs:
+          0: 935 # Gold
+
+      - id: 180857 # Goldenpaw Kit
+        costs:
+          0: 1 # Gold
+
+      - id: 180857 # Goldenpaw Kit
+        costs:
+          1163036: 250
+
+      - id: 183740 # Gilded Prowler
+        costs:
+          0: 24000 # Gold

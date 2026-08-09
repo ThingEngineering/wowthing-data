@@ -1,0 +1,217 @@
+things:
+  - id: 176065
+    type: "vendor"
+    name: "Liawyn"
+    note: "Wild Hunt Quartermaster"
+
+    locations:
+      here: # unknown
+        - 46.4 77.2
+
+    contents:
+
+      # 0
+
+      - id: 178336 # Tabard of the Wild Hunt [tabard]
+        costs:
+          0: 200 # Gold
+        requirements:
+          - "reputation 2465 exalted"
+
+      - id: 183134 # Illusion: Hunt's Favor
+        costs:
+          0: 1187 # Gold
+        requirements:
+          - "reputation 2465 exalted"
+
+      - id: 184751 # Cycle-Tender's Pantaloons [cloth legs]
+        costs:
+          0: 24 # Gold
+        requirements:
+          - "reputation 2465 exalted"
+
+      - id: 184753 # Tree-Scaler's Britches [leather legs]
+        costs:
+          0: 24 # Gold
+        requirements:
+          - "reputation 2465 exalted"
+
+      - id: 184752 # Gormscale Leggings [mail legs]
+        costs:
+          0: 24 # Gold
+        requirements:
+          - "reputation 2465 exalted"
+
+      - id: 184750 # Amber-Plated Legguards [plate legs]
+        costs:
+          0: 24 # Gold
+        requirements:
+          - "reputation 2465 exalted"
+
+      - id: 180729 # Duskflutter Ardenmoth
+        costs:
+          0: 24000 # Gold
+        requirements:
+          - "reputation 2465 exalted"
+
+      - id: 181309 # Faewoven Pack [subclass=5 back]
+        costs:
+          1813: 3500
+        requirements:
+          - "reputation 2465 revered"
+
+      - id: 181309 # Faewoven Pack [subclass=5 back]
+        costs:
+          1813: 3500
+        requirements:
+          - "reputation 2465 revered"
+
+      - id: 184747 # Gamekeeper's Slippers [cloth feet]
+        costs:
+          0: 10 # Gold
+        requirements:
+          - "reputation 2465 revered"
+
+      - id: 184749 # Gametender's Bramblewards [leather feet]
+        costs:
+          0: 10 # Gold
+        requirements:
+          - "reputation 2465 revered"
+
+      - id: 184748 # Gametender's Wading Boots [mail feet]
+        costs:
+          0: 10 # Gold
+        requirements:
+          - "reputation 2465 revered"
+
+      - id: 184746 # Gametender's Muckstompers [plate feet]
+        costs:
+          0: 10 # Gold
+        requirements:
+          - "reputation 2465 revered"
+
+      - id: 183106 # Recipe: Eternal Cauldron
+        costs:
+          0: 1676 # Gold
+        requirements:
+          - "reputation 2465 revered"
+
+      - id: 183093 # Technique: Contract: The Wild Hunt
+        costs:
+          0: 1412 # Gold
+        requirements:
+          - "reputation 2465 revered"
+
+      - id: 187883 # Technique: Mark of the Twilight Runestag
+        costs:
+          0: 1412 # Gold
+        requirements:
+          - "reputation 2465 revered"
+
+      # Demon Hunter
+
+      - id: 217590 # Glyph of the Hunt
+        costs:
+          0: 5000 # Gold
+        requirements:
+          - "reputation 2465 honored"
+
+      # Druid
+
+      - id: 217585 # Glyph of Convoke the Spirits
+        costs:
+          0: 4000 # Gold
+        requirements:
+          - "reputation 2465 honored"
+
+      # Mage
+
+      - id: 217594 # Glyph of Shifting Power
+        costs:
+          0: 5000 # Gold
+        requirements:
+          - "reputation 2465 honored"
+
+      # Monk
+
+      - id: 217494 # Glyph of Faeline Stomp
+        costs:
+          0: 4000 # Gold
+        requirements:
+          - "reputation 2465 honored"
+
+      # Paladin
+
+      - id: 217588 # Glyph of Blessing of the Seasons
+        costs:
+          0: 5000 # Gold
+        requirements:
+          - "reputation 2465 honored"
+
+      # Rogue
+
+      - id: 217583 # Glyph of Sepsis
+        costs:
+          0: 4500 # Gold
+        requirements:
+          - "reputation 2465 honored"
+
+      # Warlock
+
+      - id: 217600 # Glyph of Soul Rot
+        costs:
+          0: 4000 # Gold
+        requirements:
+          - "reputation 2465 honored"
+
+      # 0
+
+      - id: 184754 # Glitterwing Scarf [cloak]
+        costs:
+          0: 8 # Gold
+        requirements:
+          - "reputation 2465 honored"
+
+      - id: 183100 # Pattern: Heavy Desolate Armor Kit
+        costs:
+          0: 1080 # Gold
+        requirements:
+          - "reputation 2465 honored"
+
+      - id: 182168 # Crane Soul
+        costs:
+          1813: 1500
+        requirements:
+          - "reputation 2465 honored"
+
+      - id: 182168 # Crane Soul
+        costs:
+          1813: 1500
+        requirements:
+          - "reputation 2465 honored"
+
+      - id: 183096 # Formula: Sacred Shard
+        costs:
+          0: 1080 # Gold
+        requirements:
+          - "reputation 2465 honored"
+
+      - id: 180641 # Floofa
+        costs:
+          0: 10 # Gold
+        requirements:
+          - "reputation 2465 friendly"
+
+      - id: 180641 # Floofa
+        costs:
+          1163036: 250
+        requirements:
+          - "reputation 2465 friendly"
+
+      - id: 190644 # Vessel of Profound Possibilities
+        costs:
+          2009: 10000
+
+      - id: 183242 # Memory of Eonar
+        costs:
+          0: 1045 # Gold

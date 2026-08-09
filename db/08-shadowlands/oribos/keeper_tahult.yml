@@ -1,0 +1,37 @@
+things:
+  - id: 156769
+    type: "vendor"
+    name: "Keeper Ta'hult"
+    note: "Pet Vendor"
+
+    locations:
+      here: # unknown
+        - 64.2 66.6
+
+    contents:
+
+      - id: 185919 # Flawless Amethyst Baubleworm
+        costs:
+          1163036: 10000 # Polished Pet Charm
+
+      - id: 186992 # Formula: Anima-ted Leash
+        costs:
+          1163036: 15
+
+      - id: 186537 # Ruby Baubleworm
+        costs:
+          1036812: 1 # Ground Gear
+          1062072: 1 # Robble's Wobbly Staff
+          1067410: 1 # Very Unlucky Rock
+
+      - id: 186535 # Topaz Baubleworm
+        costs:
+          1011406: 1 # Rotting Bear Carcass
+          1011944: 1 # Dark Iron Baby Booties
+          1025402: 1 # The Stoppable Force
+
+      - id: 186536 # Turquoise Baubleworm
+        costs:
+          1003300: 1 # Rabbit's Foot
+          1003670: 1 # Large Slimy Bone
+          1006150: 1 # A Frayed Knot

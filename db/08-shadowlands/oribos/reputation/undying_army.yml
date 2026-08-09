@@ -1,0 +1,174 @@
+things:
+  - id: 176067
+    type: "vendor"
+    name: "Dar Vattish"
+    note: "Undying Army Quartermaster"
+
+    locations:
+      here: # unknown
+        - 47.4 76.4
+
+    contents:
+
+      # 0
+
+      - id: 181807 # Barbarous Osteowings [subclass=5 back]
+        costs:
+          0: 500 # Gold
+        requirements:
+          - "reputation 2410 exalted"
+
+      - id: 181808 # Death Fetish [subclass=5 back]
+        costs:
+          0: 500 # Gold
+        requirements:
+          - "reputation 2410 exalted"
+
+      - id: 180456 # Colors of the Undying Army [tabard]
+        costs:
+          0: 12 # Gold
+        requirements:
+          - "reputation 2410 exalted"
+
+      - id: 183189 # Illusion: Undying Spirit
+        costs:
+          0: 12 # Gold
+        requirements:
+          - "reputation 2410 exalted"
+
+      - id: 184736 # Robe of the March Warden [cloth chest]
+        costs:
+          0: 28 # Gold
+        requirements:
+          - "reputation 2410 exalted"
+
+      - id: 184745 # Tunic of the March Warden [leather chest]
+        costs:
+          0: 30 # Gold
+        requirements:
+          - "reputation 2410 exalted"
+
+      - id: 184738 # Chainmail of the March Warden [mail chest]
+        costs:
+          0: 28 # Gold
+        requirements:
+          - "reputation 2410 exalted"
+
+      - id: 184737 # Chestplate of the March Warden [plate chest]
+        costs:
+          0: 28 # Gold
+        requirements:
+          - "reputation 2410 exalted"
+
+      - id: 182082 # Lurid Bloodtusk
+        costs:
+          0: 12 # Gold
+        requirements:
+          - "reputation 2410 exalted"
+      # Skipped id=184744 name=Gnarled Boneloop slot=11
+
+      - id: 181272 # Toenail
+        costs:
+          0: 5 # Gold
+        requirements:
+          - "reputation 2410 revered"
+
+      - id: 181272 # Toenail
+        costs:
+          1163036: 250
+        requirements:
+          - "reputation 2410 revered"
+
+      - id: 183104 # Technique: Contract: The Undying Army
+        costs:
+          0: 1765 # Gold
+        requirements:
+          - "reputation 2410 revered"
+
+      # Death Knight
+
+      - id: 217596 # Glyph of Abomination Limb
+        costs:
+          0: 5000 # Gold
+        requirements:
+          - "reputation 2410 honored"
+
+      # Druid
+
+      - id: 217592 # Glyph of Adaptive Swarm
+        costs:
+          0: 4750 # Gold
+        requirements:
+          - "reputation 2410 honored"
+
+      # Hunter
+
+      - id: 217593 # Glyph of Death Chakram
+        costs:
+          0: 5000 # Gold
+        requirements:
+          - "reputation 2410 honored"
+
+      # Shaman
+
+      - id: 217599 # Glyph of Primordial Wave
+        costs:
+          0: 5000 # Gold
+        requirements:
+          - "reputation 2410 honored"
+
+      # 0
+
+      - id: 184741 # Apprentice Necromancer's Gloves [cloth hands]
+        costs:
+          0: 6 # Gold
+        requirements:
+          - "reputation 2410 honored"
+
+      - id: 184739 # Pallid Stitched Gloves [leather hands]
+        costs:
+          0: 6 # Gold
+        requirements:
+          - "reputation 2410 honored"
+
+      - id: 184742 # Rattling Bonefists [mail hands]
+        costs:
+          0: 6 # Gold
+        requirements:
+          - "reputation 2410 honored"
+
+      - id: 184740 # Fortified Jawcrackers [plate hands]
+        costs:
+          0: 6 # Gold
+        requirements:
+          - "reputation 2410 honored"
+
+      - id: 183101 # Pattern: Shadowlace Cloak
+        costs:
+          0: 1350 # Gold
+        requirements:
+          - "reputation 2410 honored"
+
+      - id: 183858 # Schematic: Wormhole Generator: Shadowlands
+        costs:
+          0: 1350 # Gold
+        requirements:
+          - "reputation 2410 honored"
+
+      - id: 183095 # Plans: Shadowsteel Pauldrons
+        costs:
+          0: 1350 # Gold
+        requirements:
+          - "reputation 2410 honored"
+
+      - id: 190644 # Vessel of Profound Possibilities
+        costs:
+          2009: 10000
+
+      - id: 183244 # Memory of the Rattle of the Maw
+        costs:
+          0: 935 # Gold
+
+      - id: 183112 # Animated Radius
+        costs:
+          1163036: 250

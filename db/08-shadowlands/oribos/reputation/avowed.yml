@@ -1,0 +1,61 @@
+things:
+  - id: 176368
+    type: "vendor"
+    name: "Archivist Leonara"
+    note: "Avowed Quartermaster"
+
+    locations:
+      here: # unknown
+        - 46.4 77.4
+
+    contents:
+
+      # 0
+
+      - id: 184221 # Archivist's Quill
+        costs:
+          1816: 1000
+        requirements:
+          - "reputation 2439 exalted"
+
+      - id: 184218 # Vulgarity Arbiter
+        costs:
+          1816: 1000
+        requirements:
+          - "reputation 2439 exalted"
+
+      - id: 180940 # Ebony Crypt Keeper's Mantle [cloak]
+        costs:
+          1816: 500
+        requirements:
+          - "reputation 2439 revered"
+
+      - id: 182890 # Rapid Recitation Quill
+        costs:
+          1816: 500
+        requirements:
+          - "reputation 2439 revered"
+
+      - id: 184219 # Treatise on Sinstone Fragment Acquisition
+        costs:
+          1816: 600
+        requirements:
+          - "reputation 2439 revered"
+
+      - id: 184222 # Lemet's Requisition Orders
+        costs:
+          1816: 350
+        requirements:
+          - "reputation 2439 honored"
+
+      - id: 182660 # Recipe: Shadestone
+        costs:
+          1816: 35
+
+      - id: 184220 # Encyclopedia of Sinstone Fragment Recovery
+        costs:
+          1816: 1200
+
+      - id: 182954 # Inquisition Gargon
+        costs:
+          1816: 2000
