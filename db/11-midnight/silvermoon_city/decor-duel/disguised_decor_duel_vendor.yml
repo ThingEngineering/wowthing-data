@@ -15,13 +15,15 @@ things:
 
     contents:
 
-      # 0
+      - id: 272445 # Decorative Dornogal Opal
+        costs:
+          3393: 10
 
       - id: 272442 # Empty Wooden Toolbox
         costs:
           3393: 20
 
-      - id: 269636 # Sin'dorei Cookpot Lid
+      - id: 272446 # Large Decorative Dornogal Opal
         costs:
           3393: 10
 
@@ -35,10 +37,6 @@ things:
 
       - id: 269641 # Sin'dorei Display Case
         costs:
-          3393: 20
-
-      - id: 269641 # Sin'dorei Display Case
-        costs:
           3393: 50
 
       - id: 271162 # Sin'dorei Garden Swing
@@ -47,20 +45,21 @@ things:
 
       - id: 269614 # Sin'dorei Open Cookpot
         costs:
-          3393: 10
-
-      - id: 269614 # Sin'dorei Open Cookpot
-        costs:
           3393: 15
-
-      - id: 268457 # Sin'dorei Tiffin-Style Lamp
-        costs:
-          3393: 20
 
       - id: 268457 # Sin'dorei Tiffin-Style Lamp
         costs:
           3393: 50
 
+      - id: 272444 # Small Decorative Dornogal Opal
+        costs:
+          3393: 10
+
       - id: 272441 # Small Lumber Pile
         costs:
           3393: 10
+
+      - id: 272443 # Suramar Arcfruit Bowl
+        costs:
+          3393: 20
+      
