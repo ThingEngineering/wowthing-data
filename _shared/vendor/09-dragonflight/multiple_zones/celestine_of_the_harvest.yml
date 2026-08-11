@@ -76,6 +76,13 @@ sells:
     costs:
       1207026: 500
 
+  # Decor
+
+  - type: item
+    id: 255673 # Moonclasp Satchel
+    costs:
+      1207026: 500
+
   # Cloth
 
   - type: item
