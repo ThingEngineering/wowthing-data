@@ -1,0 +1,186 @@
+things:
+  - id: 106902
+    type: "vendor"
+    name: "Ransa Greyfeather"
+    note: "Highmountain Emissary"
+
+    locations:
+      here: # unknown
+        - 46.2 60.7
+
+    groups:
+      - name: "[HT] Misc"
+        range: 3
+        sortKey: "rep-highmountain-tribe-1"
+
+      - name: "[HT] Decor"
+        range: 8
+        sortKey: "rep-highmountain-tribe-2"
+
+      - name: "[HT] Professions"
+        range: 10
+        sortKey: "rep-highmountain-tribe-3"
+
+      - name: "[HT] Transmog"
+        range: -1
+        sortKey: "rep-highmountain-tribe-9"
+
+    contents:
+
+      - id: 131814 # Whitewater Carp [toy]
+        costs:
+          0: 80 # Gold
+        requirements:
+          - "reputation 1828 friendly"
+
+      - id: 136919 # Baby Elderhorn [pet]
+        costs:
+          0: 500 # Gold
+        requirements:
+          - "reputation 1828 revered"
+
+      - id: 131812 # Darkshard Fragment [toy]
+        costs:
+          0: 500 # Gold
+        requirements:
+          - "reputation 1828 revered"
+
+      # Decor
+
+      - id: 245458 # Riverbend Jar [decor]
+        costs:
+          0: 300 # Gold
+          1220: 500
+        requirements:
+          - "reputation 1828 friendly"
+
+      - id: 245454 # Small Highmountain Drum [decor]
+        costs:
+          0: 300 # Gold
+          1220: 500
+        requirements:
+          - "reputation 1828 friendly"
+
+      - id: 245452 # Stonebull Canoe [decor]
+        costs:
+          0: 500 # Gold
+          1220: 750
+        requirements:
+          - "reputation 1828 honored"
+
+      - id: 248985 # Tauren Hanging Brazier [decor]
+        costs:
+          0: 500 # Gold
+          1220: 750
+        requirements:
+          - "reputation 1828 honored"
+
+      - id: 243359 # Tauren Windmill [decor]
+        costs:
+          0: 700 # Gold
+          1220: 1000
+        requirements:
+          - "reputation 1828 revered"
+
+      - id: 245270 # Thunder Totem Kiln [decor]
+        costs:
+          0: 700 # Gold
+          1220: 1000
+        requirements:
+          - "reputation 1828 revered"
+
+      - id: 245450 # Highmountain Totem [decor]
+        costs:
+          0: 1000 # Gold
+          1220: 2000
+        requirements:
+          - "reputation 1828 exalted"
+
+      - id: 243290 # Tauren Waterwheel [decor]
+        costs:
+          0: 1000 # Gold
+          1220: 2000
+        requirements:
+          - "reputation 1828 exalted"
+
+      # 0
+
+      - id: 136697 # Plans: Gleaming Iron Spike [blacksmithing]
+        costs:
+          0: 550 # Gold
+        requirements:
+          - "reputation 1828 honored"
+
+      - id: 123948 # Plans: Demonsteel Armguards [blacksmithing]
+        costs:
+          0: 3000 # Gold
+        requirements:
+          - "reputation 1828 exalted"
+
+      - id: 123955 # Plans: Demonsteel Breastplate [blacksmithing]
+        costs:
+          0: 3000 # Gold
+        requirements:
+          - "reputation 1828 exalted"
+
+      - id: 123953 # Plans: Demonsteel Gauntlets [blacksmithing]
+        costs:
+          0: 3000 # Gold
+        requirements:
+          - "reputation 1828 exalted"
+
+      - id: 137839 # Design: Skystone Loop [jewelcrafting]
+        costs:
+          0: 550 # Gold
+        requirements:
+          - "reputation 1828 honored"
+
+      - id: 137855 # Design: Ancient Maelstrom Amulet [jewelcrafting]
+        costs:
+          0: 3000 # Gold
+        requirements:
+          - "reputation 1828 exalted"
+
+      - id: 137846 # Design: Dawnlight Band [jewelcrafting]
+        costs:
+          0: 3000 # Gold
+        requirements:
+          - "reputation 1828 exalted"
+
+      - id: 137844 # Design: Prophetic Band [jewelcrafting]
+        costs:
+          0: 3000 # Gold
+        requirements:
+          - "reputation 1828 exalted"
+
+      - id: 142408 # Pattern: Drums of the Mountain 2 [leatherworking]
+        costs:
+          0: 550 # Gold
+        requirements:
+          - "reputation 1828 revered"
+
+      - id: 142409 # Pattern: Drums of the Mountain 3 [leatherworking]
+        costs:
+          0: 3000 # Gold
+        requirements:
+          - "reputation 1828 exalted"
+
+      # Transmog
+
+      - id: 139601 # Harpy-Hunter's Gloves [leather hands]
+        costs:
+          0: 1000 # Gold
+        requirements:
+          - "reputation 1828 revered"
+
+      - id: 139597 # Mountainforged Chain Hauberk [mail chest]
+        costs:
+          0: 5000 # Gold
+        requirements:
+          - "reputation 1828 exalted"
+
+      - id: 140576 # Tabard of the Highmountain Tribe [tabard]
+        costs:
+          0: 300 # Gold
+        requirements:
+          - "reputation 1828 exalted"
