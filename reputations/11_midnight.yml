@@ -67,21 +67,32 @@ reputations:
 
 -
   - both:
-      id: 2792 # Ritual Sites
-      icon: "achievement/62622"
-      iconText: "Rit"
-
-  - both:
       id: 2744 # Valeera Sanguinar
       icon: "achievement/60891" # The Crimson Rogue
       iconText: "Val"
 
   - both:
+      id: 2796 # Delves: Season 2
+      icon: "achievement/63326" # My Venomous Nemesis
+      iconText: "Delv2"
+
+  - both:
+      id: 2808 # Prey: Season 2?
+      icon: "achievement/63453" # One, Two, Ral'kala's Coming for You
+      iconText: "Prey2"
+
+-
+  - both:
+      id: 2792 # Ritual Sites
+      icon: "achievement/62622"
+      iconText: "Rit"
+
+  - both:
       id: 2742 # Delves: Season 1
       icon: "achievement/61797" # My Shady Nemesis
-      iconText: "Sing"
+      iconText: "Delv1"
 
   - both:
       id: 2764 # Prey: Season 1
       icon: "achievement/61387"
-      iconText: "Prey"
+      iconText: "Prey1"
