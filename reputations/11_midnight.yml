@@ -4,6 +4,33 @@ reputations:
 
 -
   - both:
+      id: 2772 # Zul'jarra's Forces
+      icon: "achievement/62297"
+      iconText: "ZJF"
+  
+  - both:
+      id: 2773 # Captain Tokka
+      icon: "achievement/63631"
+      iconText: "Tokka"
+
+-
+  - both:
+      id: 2744 # Valeera Sanguinar
+      icon: "achievement/60891" # The Crimson Rogue
+      iconText: "Val"
+
+  - both:
+      id: 2796 # Delves: Season 2
+      icon: "achievement/63326" # My Venomous Nemesis
+      iconText: "Delv2"
+
+  - both:
+      id: 2808 # Prey: Season 2?
+      icon: "achievement/63453" # One, Two, Ral'kala's Coming for You
+      iconText: "Prey2"
+
+-
+  - both:
       id: 2696 # Amani Tribe
       icon: "achievement/62263"
       iconText: "Amani"
@@ -64,22 +91,6 @@ reputations:
 #   - both:
 #       id: 2709 # Vanguard of the Light
 #       icon: "item/265997"
-
--
-  - both:
-      id: 2744 # Valeera Sanguinar
-      icon: "achievement/60891" # The Crimson Rogue
-      iconText: "Val"
-
-  - both:
-      id: 2796 # Delves: Season 2
-      icon: "achievement/63326" # My Venomous Nemesis
-      iconText: "Delv2"
-
-  - both:
-      id: 2808 # Prey: Season 2?
-      icon: "achievement/63453" # One, Two, Ral'kala's Coming for You
-      iconText: "Prey2"
 
 -
   - both:
