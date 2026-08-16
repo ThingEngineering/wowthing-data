@@ -5,15 +5,113 @@ requirements:
   - "holiday:FreeTshirtDay" # Holiday enum
 
 things:
+
+  - id: 146961
+    type: "vendor"
+    name: "Jade Lovelyshirts"
+
+    locations:
+      04-mists-of-pandaria/valley_of_the_four_winds:
+        - 61 58
+
+    groups: &vendor-groups
+      - name: "Shirts"
+        range: -1
+        sortKey: "shirts"
+
+    contents:
+      - id: 167207 # Jade's Lovely Shirt
+
+  - id: 150904
+    type: "vendor"
+    name: "Melvin Shirtson"
+
+    locations:
+      00-classic/eastern-plaguelands:
+        - 74 52
+    
+    groups: *vendor-groups
+
+    contents:
+      - id: 167220 # Threads of Tirion
+
+  - id: 150905
+    type: "vendor"
+    name: "Shirtsi Clothpatch"
+
+    locations:
+      00-classic/winterspring:
+        - 59 50
+        
+    groups: *vendor-groups
+
+    contents:
+      - id: 167229 # Shirtsi's Cloth Shirt
+
+  - id: 150945
+    type: "vendor"
+    name: "Selis Silksong"
+
+    locations:
+      01-the-burning-crusade/shattrath:
+        - 67 27
+        
+    groups: *vendor-groups
+
+    contents:
+      - id: 167222 # Selis' Silk Shirt
+
+  - id: 150946
+    type: "vendor"
+    name: "Shuurt the Clothripper"
+
+    locations:
+      02-wrath-of-the-lich-king/grizzly_hills:
+        - 49 51
+        
+    groups: *vendor-groups
+
+    contents:
+      - id: 167212 # Shuurt's Precious
+
+  - id: 150948
+    type: "vendor"
+    name: "Gild Crewneck"
+
+    locations:
+      06-legion/stormheim:
+        - 60 52
+        
+    groups: *vendor-groups
+
+    contents:
+      - id: 167226 # Gild's Crewneck
+
+  - id: 150950
+    type: "vendor"
+    name: "Tia Shortsleeve"
+
+    locations:
+      05-warlords-of-draenor/talador:
+        - 85 31
+        
+    groups: *vendor-groups
+
+    contents:
+      - id: 167215 # Tia Shortsleeve's Short Sleeve SHirt
+
+  # `Everything` component displays these weird if there's two sources, just use one
   - id: 145826
     type: "npc"
-    name: "Orgrimmar Entertainer"
+    name: "<City> Entertainer"
 
     locations:
       00-classic/orgrimmar:
         - 60 50.4 horde
+      00-classic/stormwind:
+        - 65 34 alliance
     
-    contents: &entertainer-contents
+    contents:
       - id: 279539 # Junior Artificer's Work Vest
       - id: 279528 # Mag'har Laborer's Tunic
       - id: 279536 # Painted Raptor-Tooth Shirt
@@ -47,12 +145,12 @@ things:
       - id: 167196 # Wound Dressing
       - id: 167193 # Yellow Martial Shirt
 
-  - id: 150942
-    type: "npc"
-    name: "Stormwind Entertainer"
+  # - id: 150942
+  #   type: "npc"
+  #   name: "Stormwind Entertainer"
 
-    locations:
-      00-classic/stormwind:
-        - 65 34 alliance
+  #   locations:
+  #     00-classic/stormwind:
+  #       - 65 34 alliance
     
-    contents: *entertainer-contents
+  #   contents: *entertainer-contents
