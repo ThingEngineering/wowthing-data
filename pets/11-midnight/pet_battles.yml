@@ -40,3 +40,14 @@ groups:
     - 4885 # Gloom Toad [common]
     - 3364 # Striped Snakebiter [common]
     - 4880 # Swamp Biter [common]
+
+- name: "The Coiled Isle"
+  things:
+    - 5031 # Caustic Writhling [rare]
+    - 5032 # Nightfur Kapara [rare]
+    - 5035 # Autumn Snapling [uncommon]
+    - 5030 # Jaundiced Slitherer [uncommon]
+    - 5033 # Sleek Snakebiter [uncommon]
+    - 5029 # Cursed Spawn [common]
+    - 5028 # Poisoned Parasite [common]
+    - 5034 # Steady Croakfrog [common]

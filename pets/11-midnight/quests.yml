@@ -17,4 +17,10 @@ groups:
 
 - name: "Zul'Aman"
   things:
+    - 5007 # Akiki (Dead End)
+    - 5041 # Emberlyn (Like Dragonhawks to a Flame)
     - 4977 # Emberwing Hatchling (A Quiet Farewell)
+
+- name: "The Coiled Isle"
+  things:
+    - 5011 # Zan (A Little Kindness)

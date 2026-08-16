@@ -5,6 +5,8 @@ groups:
   things:
     - 4955 # Kreepah'zoyd
     - 4930 # Lil' Preyseeker
+    - 5076 # Preyhunter's Prismguard (Construct V'anore, Prey)
+    - 5078 # Preyhunter's Riftbreaker (Construct V'anore, Prey)
     - 4976 # Voldy (Construct V'anore, Prey)
 
 - name: "Twilight Highlands"

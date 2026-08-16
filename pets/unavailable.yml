@@ -7,17 +7,18 @@ groups:
 
 - name: BlizzCon
   things:
-  - 107 # Murky (Blizzcon 2005)
-  - 228 # Grunty (Blizzcon 2009)
-  - 294 # Deathy (Blizzcon 2010)
-  - 329 # Murkablo (Blizzcon 2011)
-  - 1364 # Murkalot (Blizzcon 2013)
-  - 1602 # Grommloc (Blizzcon 2014)
-  - 1454 # Murkidan (Blizzcon 2015)
-  - 1940 # Knight-Captain Murky (Blizzcon 2016)
-  - 1939 # Legionnaire Murky (Blizzcon 2016)
-  - 2777 # Gillvanas (Blizzcon 2019)
-  - 2778 # Finduin (Blizzcon 2019)
+    - 107 # Murky (Blizzcon 2005)
+    - 228 # Grunty (Blizzcon 2009)
+    - 294 # Deathy (Blizzcon 2010)
+    - 329 # Murkablo (Blizzcon 2011)
+    - 1364 # Murkalot (Blizzcon 2013)
+    - 1602 # Grommloc (Blizzcon 2014)
+    - 1454 # Murkidan (Blizzcon 2015)
+    - 1940 # Knight-Captain Murky (Blizzcon 2016)
+    - 1939 # Legionnaire Murky (Blizzcon 2016)
+    - 2777 # Gillvanas (Blizzcon 2019)
+    - 2778 # Finduin (Blizzcon 2019)
+    - 5064 # Murk'atath (Blizzcon 2026)
 
 - name: Promotions
   things:

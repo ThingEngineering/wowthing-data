@@ -39,12 +39,13 @@ groups:
 
 - name: Promotions
   things:
-  - 3177 # Drakks (Dragonflight preorder bonus)
-  - 3053 # Moon-Touched Netherwhelp (The Celebration Collection)
-  - 4616 # Gummi (Trolli)
-  - 4618 # Chillbot 9000 (Mountain Dew)
-  - 4617 # Thrillbot 9000 (Mountain Dew)
-  - 4595 # Lil' Flameo (Steelseries)
+    - 3177 # Drakks (Dragonflight preorder bonus)
+    - 3053 # Moon-Touched Netherwhelp (The Celebration Collection)
+    - 4616 # Gummi (Trolli)
+    - 4618 # Chillbot 9000 (Mountain Dew)
+    - 4617 # Thrillbot 9000 (Mountain Dew)
+    - 4595 # Lil' Flameo (Steelseries)
+    - 5064 # Murk'atath (BlizzCon 2026)
 
 - name: Store
   things:
@@ -79,10 +80,13 @@ groups:
     - 248 # Pandaren Monk
     - 4682 # Reven
     - 2062 # Shadow
+    - 5060 # Sha-Warped Hippogryph Hatchling
     - 4862 # Smoldering Valor
     - 347 # Soul of the Aspects
     - 4943 # Star the Lucky Dragon
+    - 5052 # Sunflicker Driftmoth
     - 2890 # Sunny
+    - 5042 # The Sire's Ghastly Screecher
     - 4684 # Timbered Sky Snakelet
     - 2051 # Twilight
     - 4717 # Wanderer Liu
