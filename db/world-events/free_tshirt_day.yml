@@ -1,0 +1,58 @@
+tags:
+  - "event:free-tshirt-day"
+
+requirements:
+  - "holiday:FreeTshirtDay" # Holiday enum
+
+things:
+  - id: 145826
+    type: "npc"
+    name: "Orgrimmar Entertainer"
+
+    locations:
+      00-classic/orgrimmar:
+        - 60 50.4 horde
+    
+    contents: &entertainer-contents
+      - id: 279539 # Junior Artificer's Work Vest
+      - id: 279528 # Mag'har Laborer's Tunic
+      - id: 279536 # Painted Raptor-Tooth Shirt
+      - id: 279209 # Plainsrunner's Sun Tunic
+      - id: 279541 # Priestess' Moon Tunic
+      - id: 279542 # Runecloth Clergy Coat
+      - id: 279538 # Spore-Pocked Lab Coat
+      - id: 279540 # Tinker's Padded Vest
+
+      - id: 167183 # Amber Filigreed Doublet
+      - id: 167187 # Amber Filigreed Shirt
+      - id: 167197 # Antiseptic-Soaked Dressing
+      - id: 167190 # Blue Martial Shirt
+      - id: 167081 # Bold Yellow Shirt
+      - id: 167182 # Cerulean Filigreed Doublet
+      - id: 167186 # Cerulean Filigreed Shirt
+      - id: 167178 # Common Brown Shirt
+      - id: 167177 # Common Gray Shirt
+      - id: 167179 # Common White Shirt
+      - id: 167180 # Ebon Filigreed Doublet
+      - id: 167185 # Ebon Filigreed Shirt
+      - id: 167192 # Embroidered Shirt
+      - id: 167181 # Golden Filigreed Doublet
+      - id: 167189 # Golden Filigreed Shirt
+      - id: 167191 # Green Martial Shirt
+      - id: 167194 # Purple Martial Shirt
+      - id: 167195 # Red Martial Shirt
+      - id: 167184 # Scarlet Filigreed Doublet
+      - id: 167188 # Scarlet Filigreed Shirt
+      - id: 167082 # Stylish Black Shirt
+      - id: 167196 # Wound Dressing
+      - id: 167193 # Yellow Martial Shirt
+
+  - id: 150942
+    type: "npc"
+    name: "Stormwind Entertainer"
+
+    locations:
+      00-classic/stormwind:
+        - 65 34 alliance
+    
+    contents: *entertainer-contents
