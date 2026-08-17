@@ -6,7 +6,7 @@ groups:
   sets:
     - "Renown"
     - "World Quests"
-    - "Dungeons/Vaults/Coins"
+    - "Dungeons / Vaults"
   data:
     cloth:
       # Vestments of Jan'alai's Chosen [Renown]

@@ -58,7 +58,7 @@ groups:
           - 274856 # Felguard's Frozen Greaves [legs]
           - 274853 # Creature Crushers [feet]
 
-- name: "Naigtal/Val"
+- name: "Naigtal / Val"
   type: all
   sets:
     - "World Quest Weapons"
@@ -84,7 +84,7 @@ groups:
           - 274866 # Voidwarped Edge
           - 274869 # Void-Iced Warglaives
 
-- name: "Naigtal/Val"
+- name: "Naigtal / Val"
   type: armor
   sets:
     - "Response Team Armor"
@@ -141,7 +141,7 @@ groups:
           - 275200 # Response Team's Legplates [legs]
           - 275197 # Response Team's Greatboots [feet]
 
-- name: "Naigtal/Val"
+- name: "Naigtal / Val"
   type: all
   sets:
     - "Response Team Weapons"
@@ -168,7 +168,7 @@ groups:
       - transmogSetId: 5241
         wowheadSetId:
 
-      - name: "Naigtal/Val Ethereal Weapons"
+      - name: "Naigtal / Val Ethereal Weapons"
         itemsV2:
           - 274877 # Phaseblade Headsplitter [1h axe]
           - 274880 # Hal'hadar Adjutant's Gavel [1h mace]
@@ -184,7 +184,7 @@ groups:
           - 274886 # Eradicator's Censer [off-hand]
           - 274887 # Mana-Overloaded Bulwark [shield]
       
-      - name: "Naigtal/Val BoEs"
+      - name: "Naigtal / Val BoEs"
         itemsV2:
           - 276302 # Taalvilor Crystalsmith's Mace [1h mace]
           - 276299 # Umbralwarden's Soul Gavel [1h mace]
