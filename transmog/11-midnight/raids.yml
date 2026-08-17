@@ -1,7 +1,240 @@
 name: "Raids"
 groups:
 
+# group 404
+
+- name: "The Venomous Abyss"
+  tag: "T30"
+  type: class
+  sets:
+  - "Mythic"
+  - "Heroic"
+  - "Normal"
+  - "Raid Finder"
+  data:
+    death-knight:
+      # Baleful Grave-Knight's Crucible [Mythic]
+      - transmogSetId: 5840
+        wowheadSetId:
+
+      # Baleful Grave-Knight's Crucible [Heroic]
+      - transmogSetId: 5839
+        wowheadSetId:
+
+      # Baleful Grave-Knight's Crucible [Normal]
+      - transmogSetId: 5838
+        wowheadSetId:
+
+      # Baleful Grave-Knight's Crucible [Raid Finder]
+      - transmogSetId: 5837
+        wowheadSetId:
+
+    demon-hunter:
+      # Abyssal Doomhound's Pursuit [Mythic]
+      - transmogSetId: 5844
+        wowheadSetId:
+
+      # Abyssal Doomhound's Pursuit [Heroic]
+      - transmogSetId: 5843
+        wowheadSetId:
+
+      # Abyssal Doomhound's Pursuit [Normal]
+      - transmogSetId: 5842
+        wowheadSetId:
+
+      # Abyssal Doomhound's Pursuit [Raid Finder]
+      - transmogSetId: 5841
+        wowheadSetId:
+
+    druid:
+      # Bark of the Enigmatic Dreamwatcher [Mythic]
+      - transmogSetId: 5848
+        wowheadSetId:
+
+      # Bark of the Enigmatic Dreamwatcher [Heroic]
+      - transmogSetId: 5847
+        wowheadSetId:
+
+      # Bark of the Enigmatic Dreamwatcher [Normal]
+      - transmogSetId: 5846
+        wowheadSetId:
+
+      # Bark of the Enigmatic Dreamwatcher [Raid Finder]
+      - transmogSetId: 5845
+        wowheadSetId:
+
+    evoker:
+      # Echo of Calamity [Mythic]
+      - transmogSetId: 5852
+        wowheadSetId:
+
+      # Echo of Calamity [Heroic]
+      - transmogSetId: 5851
+        wowheadSetId:
+
+      # Echo of Calamity [Normal]
+      - transmogSetId: 5850
+        wowheadSetId:
+
+      # Echo of Calamity [Raid Finder]
+      - transmogSetId: 5849
+        wowheadSetId:
+
+    hunter:
+      # Skulking Viper's Ambush [Mythic]
+      - transmogSetId: 5856
+        wowheadSetId:
+
+      # Skulking Viper's Ambush [Heroic]
+      - transmogSetId: 5855
+        wowheadSetId:
+
+      # Skulking Viper's Ambush [Normal]
+      - transmogSetId: 5854
+        wowheadSetId:
+
+      # Skulking Viper's Ambush [Raid Finder]
+      - transmogSetId: 5853
+        wowheadSetId:
+
+    mage:
+      # Primal Leywarden's Attire [Mythic]
+      - transmogSetId: 5860
+        wowheadSetId:
+
+      # Primal Leywarden's Attire [Heroic]
+      - transmogSetId: 5859
+        wowheadSetId:
+
+      # Primal Leywarden's Attire [Normal]
+      - transmogSetId: 5858
+        wowheadSetId:
+
+      # Primal Leywarden's Attire [Raid Finder]
+      - transmogSetId: 5857
+        wowheadSetId:
+
+    monk:
+      # Guile of the Monkey King [Mythic]
+      - transmogSetId: 5864
+        wowheadSetId:
+
+      # Guile of the Monkey King [Heroic]
+      - transmogSetId: 5863
+        wowheadSetId:
+
+      # Guile of the Monkey King [Normal]
+      - transmogSetId: 5862
+        wowheadSetId:
+
+      # Guile of the Monkey King [Raid Finder]
+      - transmogSetId: 5861
+        wowheadSetId:
+
+    paladin:
+      # Radiance of the Consecrated Flame [Mythic]
+      - transmogSetId: 5868
+        wowheadSetId:
+
+      # Radiance of the Consecrated Flame [Heroic]
+      - transmogSetId: 5867
+        wowheadSetId:
+
+      # Radiance of the Consecrated Flame [Normal]
+      - transmogSetId: 5866
+        wowheadSetId:
+
+      # Radiance of the Consecrated Flame [Raid Finder]
+      - transmogSetId: 5865
+        wowheadSetId:
+
+    priest:
+      # Cosmic Penitent's Raiment [Mythic]
+      - transmogSetId: 5872
+        wowheadSetId:
+
+      # Cosmic Penitent's Raiment [Heroic]
+      - transmogSetId: 5871
+        wowheadSetId:
+
+      # Cosmic Penitent's Raiment [Normal]
+      - transmogSetId: 5870
+        wowheadSetId:
+
+      # Cosmic Penitent's Raiment [Raid Finder]
+      - transmogSetId: 5869
+        wowheadSetId:
+
+    rogue:
+      # Chosen Bloodslayer's Hexweave [Mythic]
+      - transmogSetId: 5876
+        wowheadSetId:
+
+      # Chosen Bloodslayer's Hexweave [Heroic]
+      - transmogSetId: 5875
+        wowheadSetId:
+
+      # Chosen Bloodslayer's Hexweave [Normal]
+      - transmogSetId: 5874
+        wowheadSetId:
+
+      # Chosen Bloodslayer's Hexweave [Raid Finder]
+      - transmogSetId: 5873
+        wowheadSetId:
+
+    shaman:
+      # Ophidian Oracle's Prophecy [Mythic]
+      - transmogSetId: 5880
+        wowheadSetId:
+
+      # Ophidian Oracle's Prophecy [Heroic]
+      - transmogSetId: 5879
+        wowheadSetId:
+
+      # Ophidian Oracle's Prophecy [Normal]
+      - transmogSetId: 5878
+        wowheadSetId:
+
+      # Ophidian Oracle's Prophecy [Raid Finder]
+      - transmogSetId: 5877
+        wowheadSetId:
+
+    warlock:
+      # Damned Necrolyte's Shattered Restraints [Mythic]
+      - transmogSetId: 5884
+        wowheadSetId:
+
+      # Damned Necrolyte's Shattered Restraints [Heroic]
+      - transmogSetId: 5883
+        wowheadSetId:
+
+      # Damned Necrolyte's Shattered Restraints [Normal]
+      - transmogSetId: 5882
+        wowheadSetId:
+
+      # Damned Necrolyte's Shattered Restraints [Raid Finder]
+      - transmogSetId: 5881
+        wowheadSetId:
+
+    warrior:
+      # Jade Warlord's Dominion [Mythic]
+      - transmogSetId: 5888
+        wowheadSetId:
+
+      # Jade Warlord's Dominion [Heroic]
+      - transmogSetId: 5887
+        wowheadSetId:
+
+      # Jade Warlord's Dominion [Normal]
+      - transmogSetId: 5886
+        wowheadSetId:
+
+      # Jade Warlord's Dominion [Raid Finder]
+      - transmogSetId: 5885
+        wowheadSetId:
+
 # group 372
+
 - name: "The Voidspire"
   tag: "T29"
   type: class
