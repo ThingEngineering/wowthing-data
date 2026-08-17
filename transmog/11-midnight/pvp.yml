@@ -1,7 +1,203 @@
 name: PvP
 groups:
 
+# group 401
+
+- name: "Midnight Season 2"
+  tag: "S42"
+  type: class
+  sets:
+    - "Elite Armor*"
+    - "Gladiator Armor"
+  data:
+    death-knight:
+      # Venomous Gladiator's Plate Armor [Elite]
+      - transmogSetId: 5819
+        wowheadSetId:
+
+      # Venomous Gladiator's Plate Armor [Gladiator]
+      - transmogSetId: 5813
+        wowheadSetId:
+
+    demon-hunter:
+      # Venomous Gladiator's Leather Armor [Elite]
+      - transmogSetId: 5812
+        wowheadSetId:
+
+      # Venomous Gladiator's Leather Armor [Gladiator]
+      - transmogSetId: 5806
+        wowheadSetId:
+
+    druid:
+      # Venomous Gladiator's Leather Armor [Elite]
+      - transmogSetId: 5805
+        wowheadSetId:
+
+      # Venomous Gladiator's Leather Armor [Gladiator]
+      - transmogSetId: 5799
+        wowheadSetId:
+
+    evoker:
+      # Venomous Gladiator's Chain Armor [Elite]
+      - transmogSetId: 5796
+        wowheadSetId:
+
+      # Venomous Gladiator's Chain Armor [Gladiator]
+      - transmogSetId: 5790
+        wowheadSetId:
+
+    hunter:
+      # Venomous Gladiator's Chain Armor [Elite]
+      - transmogSetId: 5789
+        wowheadSetId:
+
+      # Venomous Gladiator's Chain Armor [Gladiator]
+      - transmogSetId: 5783
+        wowheadSetId:
+
+    mage:
+      # Venomous Gladiator's Silk Armor [Elite]
+      - transmogSetId: 5782
+        wowheadSetId:
+
+      # Venomous Gladiator's Silk Armor [Gladiator]
+      - transmogSetId: 5776
+        wowheadSetId:
+
+    monk:
+      # Venomous Gladiator's Leather Armor [Elite]
+      - transmogSetId: 5775
+        wowheadSetId:
+
+      # Venomous Gladiator's Leather Armor [Gladiator]
+      - transmogSetId: 5769
+        wowheadSetId:
+
+    paladin:
+      # Venomous Gladiator's Plate Armor [Elite]
+      - transmogSetId: 5768
+        wowheadSetId:
+
+      # Venomous Gladiator's Plate Armor [Gladiator]
+      - transmogSetId: 5762
+        wowheadSetId:
+
+    priest:
+      # Venomous Gladiator's Silk Armor [Elite]
+      - transmogSetId: 5761
+        wowheadSetId:
+
+      # Venomous Gladiator's Silk Armor [Gladiator]
+      - transmogSetId: 5755
+        wowheadSetId:
+
+    rogue:
+      # Venomous Gladiator's Leather Armor [Elite]
+      - transmogSetId: 5754
+        wowheadSetId:
+
+      # Venomous Gladiator's Leather Armor [Gladiator]
+      - transmogSetId: 5748
+        wowheadSetId:
+
+    shaman:
+      # Venomous Gladiator's Chain Armor [Elite]
+      - transmogSetId: 5747
+        wowheadSetId:
+
+      # Venomous Gladiator's Chain Armor [Gladiator]
+      - transmogSetId: 5741
+        wowheadSetId:
+
+    warlock:
+      # Venomous Gladiator's Silk Armor [Elite]
+      - transmogSetId: 5740
+        wowheadSetId:
+
+      # Venomous Gladiator's Silk Armor [Gladiator]
+      - transmogSetId: 5734
+        wowheadSetId:
+
+    warrior:
+      # Venomous Gladiator's Plate Armor [Elite]
+      - transmogSetId: 5733
+        wowheadSetId:
+
+      # Venomous Gladiator's Plate Armor [Gladiator]
+      - transmogSetId: 5727
+        wowheadSetId:
+
+- name: "Midnight Season 2"
+  tag: "S42"
+  type: armor
+  sets:
+    - "Aspirant Armor"
+    - "Warmonger Armor"
+  data:
+    cloth:
+      # Venomous Skirmisher's Silk Armor [description=14478]
+      - transmogSetId: 5823
+        wowheadSetId:
+
+      # Venomous Warmonger's Silk Armor [War Mode]
+      - transmogSetId: 5721
+        wowheadSetId:
+
+    leather:
+      # Venomous Skirmisher's Leather Armor [description=14478]
+      - transmogSetId: 5824
+        wowheadSetId:
+
+      # Venomous Warmonger's Leather Armor [War Mode]
+      - transmogSetId: 5722
+        wowheadSetId:
+
+    mail:
+      # Venomous Aspirant's Chain Armor [description=14478]
+      - transmogSetId: 5825
+        wowheadSetId:
+
+      # Venomous Warmonger's Chain Armor [War Mode]
+      - transmogSetId: 5723
+        wowheadSetId:
+
+    plate:
+      # Venomous Aspirant's Plate Armor [description=14478]
+      - transmogSetId: 5826
+        wowheadSetId:
+
+      # Venomous Warmonger's Plate Armor [War Mode]
+      - transmogSetId: 5724
+        wowheadSetId:
+
+- name: "Midnight Season 2"
+  tag: "S42"
+  type: all
+  sets:
+    - "Elite Weapons*"
+    - "Gladiator Weapons"
+    - "Aspirant Weapons"
+    - "Warmonger Weapons"
+  data:
+    all:
+      # Elite Venomous Gladiator's Weapons
+      - transmogSetId: 5821
+        wowheadSetId:
+
+      # Venomous Gladiator's Weapons
+      - transmogSetId: 5820
+        wowheadSetId:
+
+      # Venomous Aspirant's Weapons
+      - transmogSetId: 5822
+        wowheadSetId:
+      
+      # Venomous Warmonger's Weapons
+      - transmogSetId: 5725
+        wowheadSetId:
+
 # group 371
+
 - name: "Midnight Season 1"
   tag: "S41"
   type: class
