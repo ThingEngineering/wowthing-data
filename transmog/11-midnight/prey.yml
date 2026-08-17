@@ -1,0 +1,104 @@
+name: "Prey"
+groups:
+
+- name: "Season 2"
+  type: armor
+  sets:
+    - "Armor"
+  data:
+    cloth:
+      # Preyhunter's Refined Armor [description=14362]
+      - transmogSetId: 5834
+        wowheadSetId:
+
+    leather:
+      # Preyhunter's Sleek Armor [description=14362]
+      - transmogSetId: 5833
+        wowheadSetId:
+
+    mail:
+      # Preyhunter's Rugged Armor [description=14362]
+      - transmogSetId: 5832
+        wowheadSetId:
+
+    plate:
+      # Preyhunter's Polished Armor [description=14362]
+      - transmogSetId: 5831
+        wowheadSetId:
+
+- name: "Season 2"
+  type: all
+  sets:
+    - "Weapons"
+  data:
+    all:
+      - name: "Weapons"
+        itemsV2:
+          - 275532 # Preyhunter's Hatchet [1h axe]
+          - 275535 # Preyhunter's Cudgel [1h mace]
+          - 275537 # Preyhunter's Hammer [1h mace]
+          - 275536 # Preyhunter's Scepter [1h mace]
+          - 275540 # Preyhunter's Longsword [1h sword]
+          - 275539 # Preyhunter's Ritual Blade [1h sword]
+          - 275538 # Preyhunter's Scimitar [1h sword]
+          - 275533 # Preyhunter's Kukri [dagger]
+          - 275534 # Preyhunter's Shiv [dagger]
+          - 275541 # Preyhunter's Warglaive [warglaive]
+          - 275546 # Preyhunter's Falchion [2h sword]
+          - 275543 # Preyhunter's Spear [polearm]
+          - 275545 # Preyhunter's Spire [stave]
+          - 275544 # Preyhunter's Staff [stave]
+          - 275542 # Preyhunter's Longbow [bow]
+          - 275547 # Preyhunter's Lantern [off-hand]
+          - 275548 # Preyhunter's Tower Shield [shield]
+
+- name: "Season 1"
+  type: armor
+  sets:
+    - "Armor"
+  data:
+    cloth:
+      # Preyseeker's Refined Armor [description=14362]
+      - transmogSetId: 5618
+        wowheadSetId:
+
+    leather:
+      # Preyseeker's Sleek Armor [description=14362]
+      - transmogSetId: 5619
+        wowheadSetId:
+
+    mail:
+      # Preyseeker's Rugged Armor [description=14362]
+      - transmogSetId: 5620
+        wowheadSetId:
+
+    plate:
+      # Preyseeker's Polished Armor [description=14362]
+      - transmogSetId: 5621
+        wowheadSetId:
+
+- name: "Season 1"
+  type: all
+  sets:
+    - "Weapons"
+  data:
+    all:
+      - name: "Weapons"
+        itemsV2:
+          - 259949 # Preyseeker's Hatchet [1h axe]
+          - 259952 # Preyseeker's Cudgel [1h mace]
+          - 259955 # Preyseeker's Hammer [1h mace]
+          - 259953 # Preyseeker's Scepter [1h mace]
+          - 259958 # Preyseeker's Longsword [1h sword]
+          - 259957 # Preyseeker's Ritual Blade [1h sword]
+          - 259956 # Preyseeker's Scimitar [1h sword]
+          - 259950 # Preyseeker's Kukri [dagger]
+          - 259951 # Preyseeker's Shiv [dagger]
+          - 259959 # Preyseeker's Warglaive [warglaive]
+          - 259964 # Preyseeker's Falchion [2h sword]
+          - 259961 # Preyseeker's Spear [polearm]
+          - 259963 # Preyseeker's Spire [stave]
+          - 259962 # Preyseeker's Staff [stave]
+          - 259960 # Preyseeker's Longbow [bow]
+          - 259965 # Preyseeker's Lantern [off-hand]
+          - 259966 # Preyseeker's Tower Shield [shield]
