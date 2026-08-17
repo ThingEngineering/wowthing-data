@@ -1,10 +1,14 @@
 *
     misc.yml
-    raids.yml
     dungeons.yml
+    raids.yml
     pvp.yml
 
 11-midnight/_.yml
+    11-midnight/12_1_0.yml
+    11-midnight/12_0_7.yml
+    11-midnight/12_0_5.yml
+    11-midnight/delves.yml
     11-midnight/prey.yml
 
 10-the-war-within/_.yml

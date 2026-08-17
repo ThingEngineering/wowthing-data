@@ -1,0 +1,61 @@
+name: "[12.1.0] The Coiled Isle"
+groups:
+
+- name: "The Coiled Isle"
+  type: armor
+  sets:
+    - "Renown"
+    - "World Quests"
+    - "Dungeons/Vaults/Coins"
+  data:
+    cloth:
+      # Vestments of Jan'alai's Chosen [Renown]
+      - transmogSetId: 5716
+        wowheadSetId:
+
+      # Flamebeak Vestments [World Quests]
+      - transmogSetId: 5893
+        wowheadSetId:
+
+      # Venom-Cursed Dragonhawk's Raiment [Dungeons]
+      - transmogSetId: 5827
+        wowheadSetId:
+
+    leather:
+      # Battlegear of Halazzi's Chosen [Renown]
+      - transmogSetId: 5717
+        wowheadSetId:
+
+      # Shadowclaw Leathers [World Quests]
+      - transmogSetId: 5894
+        wowheadSetId:
+
+      # Venom-Cursed Lynx's Garb [Dungeons]
+      - transmogSetId: 5828
+        wowheadSetId:
+
+    mail:
+      # Chainmail of Akil'zon's Chosen [Renown]
+      - transmogSetId: 5718
+        wowheadSetId:
+
+      # Skytalon Chainmail [World Quests]
+      - transmogSetId: 5895
+        wowheadSetId:
+
+      # Venom-Cursed Eagle's Scales [Dungeons]
+      - transmogSetId: 5829
+        wowheadSetId:
+
+    plate:
+      # Warplate of Nalorakk's Chosen [Renown]
+      - transmogSetId: 5719
+        wowheadSetId:
+
+      # Stonehide Plate [World Quests]
+      - transmogSetId: 5896
+        wowheadSetId:
+
+      # Venom-Cursed Bear's Guard [Dungeons]
+      - transmogSetId: 5830
+        wowheadSetId:

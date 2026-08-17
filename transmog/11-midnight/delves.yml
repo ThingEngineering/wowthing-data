@@ -1,0 +1,72 @@
+name: "Delves"
+groups:
+
+- name: "Season 2"
+  type: armor
+  sets:
+    - "Armor"
+  data:
+    cloth:
+      # Pyrewalker's Panoply [Delves]
+      - transmogSetId: 5898
+        wowheadSetId:
+
+    leather:
+      # Miststalker's Harness [Delves]
+      - transmogSetId: 5900
+        wowheadSetId:
+
+    mail:
+      # Galerider's Battlegear [Delves]
+      - transmogSetId: 5901
+        wowheadSetId:
+
+    plate:
+      # Pledgebearer's Warplate [Delves]
+      - transmogSetId: 5902
+        wowheadSetId:
+
+- name: "Season 2"
+  type: all
+  sets:
+    - "Weapons"
+  data:
+    all:
+      # Amani Weaponry [Delves]
+      - transmogSetId: 5905
+        wowheadSetId:
+
+- name: "Season 1"
+  type: armor
+  sets:
+    - "Armor"
+  data:
+    cloth:
+      # Sprawling Garb [Delves]
+      - transmogSetId: 5546
+        wowheadSetId:
+
+    leather:
+      # Osseoclad's Wear [Delves]
+      - transmogSetId: 5547
+        wowheadSetId:
+
+    mail:
+      # Elder Moss Outfit [Delves]
+      - transmogSetId: 5548
+        wowheadSetId:
+
+    plate:
+      # Rampant Thorn Armor [Delves]
+      - transmogSetId: 5549
+        wowheadSetId:
+
+- name: "Season 1"
+  type: all
+  sets:
+    - "Weapons"
+  data:
+    all:
+     # Harandar Weaponry [Delves]
+      - transmogSetId: 5550
+        wowheadSetId:

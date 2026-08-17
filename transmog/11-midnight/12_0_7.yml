@@ -1,0 +1,198 @@
+name: "[12.0.7] Naigtal / Val"
+groups:
+
+- name: "Naigtal / Val"
+  type: armor
+  sets:
+    - "World Quest Armor"
+  data:
+    cloth:
+      - name: "World Quest Cloth"
+        itemsV2:
+          - 274831 # Portal Shaper's Circlet [head]
+          - 274833 # Icy Spidersilk Mantle [shoulders]
+          - 274820 # Cloak of the Voracious Gorger [back]
+          - 274828 # Domanaar Subjugator's Vestments [chest]
+          - 274835 # Bands of Pincher Sinew [wrists]
+          - 274830 # Ice-Glazed Gloves [hands]
+          - 274834 # Cord of Domineering Resolve [waist]
+          - 274832 # Fel-Tainted Trousers [legs]
+          - 274829 # Creature Corruptor Slippers [feet]
+
+    leather:
+      - name: "World Quest Leather"
+        itemsV2:
+          - 274839 # Cold-World Cover [head]
+          - 274841 # Frigid Cavedweller's Shoulderpads [shoulders]
+          - 274821 # Drape of the Hal'hadar Assassin [back]
+          - 274836 # Sleet-Resistant Jerkin [chest]
+          - 274843 # Pincher-Proof Wristguards [wrists]
+          - 274838 # Gloves of the Descending Destroyer [hands]
+          - 274842 # Gatekeeper's Leather Waistguard [waist]
+          - 274840 # Pants of the Lost Legion [legs]
+          - 274837 # Corrupted Hide Boots [feet]
+
+    mail:
+      - name: "World Quest Mail"
+        itemsV2:
+          - 274847 # Atomus's Headcover [head]
+          - 274849 # Frostscale Spider's Monnion [shoulders]
+          - 274818 # Drape of Intense Darkness [back]
+          - 274844 # Sleetlink Hauberk [chest]
+          - 274851 # Glittering Frostscale Wraps [wrists]
+          - 274846 # Glacier Basin Gauntlets [hands]
+          - 274850 # Mercilus's Chain Waistguard [waist]
+          - 274848 # Legguards of Fel-Corruption [legs]
+          - 274845 # Greaves of Corrupted Scale [feet]
+
+    plate:
+      - name: "World Quest Plate"
+        itemsV2:
+          - 274855 # Portal-Keeper's Helm [head]
+          - 274857 # Chitonous Broodmother's Spaulders [shoulders]
+          - 274819 # Fungle Fold Frock [back]
+          - 274852 # Sleetstone Chestplate [chest]
+          - 274859 # Klaxid Plate Vambraces [wrists]
+          - 274854 # Shadowguard Plate Gauntlets [hands]
+          - 274858 # Domanaar Battle Belt [waist]
+          - 274856 # Felguard's Frozen Greaves [legs]
+          - 274853 # Creature Crushers [feet]
+
+- name: "Naigtal/Val"
+  type: all
+  sets:
+    - "World Quest Weapons"
+  data:
+    all:
+      - name: "World Quest Weapons"
+        itemsV2:
+          - 274860 # Ancient Spore-Coated Axe
+          - 274870 # Assassin's Void-String Bow
+          - 274862 # Corrupted Draenei Priest's Kris
+          - 274863 # Cudgel of the Twisted Reaper
+          - 274872 # Darkness' Horrific Barb
+          - 274865 # Destroyer's Drop Hammer
+          - 274874 # Flickering Wing Separator
+          - 274861 # Frosty Broodmother's Fang
+          - 274873 # Funeral Attendant's Spire
+          - 274871 # Giant Worm Piercer
+          - 274867 # Inscribed Domanaar's Sword
+          - 274868 # Portal Master's Shortblade
+          - 274876 # Reinforced Fungalhide Bulwark [shield]
+          - 274875 # Riftwalker's Lantern [off-hand]
+          - 274864 # Sporebloom Gavel
+          - 274866 # Voidwarped Edge
+          - 274869 # Void-Iced Warglaives
+
+- name: "Naigtal/Val"
+  type: armor
+  sets:
+    - "Response Team Armor"
+  data:
+    cloth:
+      - name: "Response Team's Cloth"
+        itemsV2:
+          - 275175 # Response Team's Crown [head]
+          - 275177 # Response Team's Spires [shoulders]
+          - 275170 # Response Team's Shawl [back]
+          - 275172 # Response Team's Vestments [chest]
+          - 275179 # Response Team's Cuffs [wrists]
+          - 275174 # Response Team's Gloves [hands]
+          - 275178 # Response Team's Cord [waist]
+          - 275176 # Response Team's Tights [legs]
+          - 275173 # Response Team's Slippers [feet]
+
+    leather:
+      - name: "Response Team's Leather"
+        itemsV2:
+          - 275183 # Response Team's Mask [head]
+          - 275185 # Response Team's Shoulderpads [shoulders]
+          - 275171 # Response Team's Drape [back]
+          - 275180 # Response Team's Jerkin [chest]
+          - 275187 # Response Team's Bindings [wrists]
+          - 275182 # Response Team's Handguards [hands]
+          - 275186 # Response Team's Belt [waist]
+          - 275184 # Response Team's Trousers [legs]
+          - 275181 # Response Team's Boots [feet]
+
+    mail:
+      - name: "Response Team's Mail"
+        itemsV2:
+          - 275191 # Response Team's Helmet [head]
+          - 275193 # Response Team's Shoulderguards [shoulders]
+          - 275168 # Response Team's Cape [back]
+          - 275188 # Response Team's Hauberk [chest]
+          - 275195 # Response Team's Bands [wrists]
+          - 275190 # Response Team's Grips [hands]
+          - 275194 # Response Team's Clasp [waist]
+          - 275192 # Response Team's Legguards [legs]
+          - 275189 # Response Team's Sabatons [feet]
+
+    plate:
+      - name: "Response Team's Plate"
+        itemsV2:
+          - 275199 # Response Team's Helm [head]
+          - 275201 # Response Team's Pauldrons [shoulders]
+          - 275169 # Response Team's Cloak [back]
+          - 275196 # Response Team's Chestplate [chest]
+          - 275203 # Response Team's Vambraces [wrists]
+          - 275198 # Response Team's Gauntlets [hands]
+          - 275202 # Response Team's Girdle [waist]
+          - 275200 # Response Team's Legplates [legs]
+          - 275197 # Response Team's Greatboots [feet]
+
+- name: "Naigtal/Val"
+  type: all
+  sets:
+    - "Response Team Weapons"
+    - ":random: Winter Armor"
+    - ":random: Ethereal Weapons"
+    - "Misc BoEs"
+  data:
+    all:
+      - name: "Response Team Weapons"
+        itemsV2:
+        - 275212 # Response Team's Falchion
+        - 275206 # Response Team's Hammer
+        - 275204 # Response Team's Hatchet
+        - 275205 # Response Team's Kukri
+        - 275213 # Response Team's Lantern
+        - 275209 # Response Team's Longbow
+        - 275207 # Response Team's Longsword
+        - 275210 # Response Team's Spear
+        - 275211 # Response Team's Spire
+        - 275214 # Response Team's Tower Shield
+        - 275208 # Response Team's Warglaive
+
+      # Void-Touched Winter Collection [Purple]
+      - transmogSetId: 5241
+        wowheadSetId:
+
+      - name: "Naigtal/Val Ethereal Weapons"
+        itemsV2:
+          - 274877 # Phaseblade Headsplitter [1h axe]
+          - 274880 # Hal'hadar Adjutant's Gavel [1h mace]
+          - 274879 # Mana-Amplified Crusher [1h mace]
+          - 274889 # Hal'hadar Darkblade's Edge [1h sword]
+          - 274878 # Hal'hadar Shadowripper's Blade [dagger]
+          - 274888 # Hal'hadar Legion Glaives [warglaive]
+          - 274885 # Phase-Edged Falchion [2h sword]
+          - 274883 # Hal'hadar Warpguard's Poleaxe [polearm]
+          - 274884 # Arcanografter's Beacon [stave]
+          - 274882 # Hal'hadar Pulse Rifle [gun]
+          - 274881 # Phase Igniter [wand]
+          - 274886 # Eradicator's Censer [off-hand]
+          - 274887 # Mana-Overloaded Bulwark [shield]
+      
+      - name: "Naigtal/Val BoEs"
+        itemsV2:
+          - 276302 # Taalvilor Crystalsmith's Mace [1h mace]
+          - 276299 # Umbralwarden's Soul Gavel [1h mace]
+          - 276300 # Vilaldoun Anchorite's Scepter [1h mace]
+          - 276285 # Elonath's Defender's Sword [1h sword]
+          - 276288 # Forgotten Sword of Vilaldoun [1h sword]
+          - 276298 # Forgotten Fel-Shard Talon [dagger]
+          - 276296 # Soltian Wrangler's Grip [fist]
+          - 276303 # Blessed Blade of Taalvilor [2h sword]
+          - 276330 # Taken Riftwalker's Starbarb [polearm]
+          - 276292 # Ancient Anchorite's Beacon [off-hand]

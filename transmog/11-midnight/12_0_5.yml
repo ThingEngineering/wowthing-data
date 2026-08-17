@@ -1,0 +1,617 @@
+name: "[12.0.5] Void Assaults"
+groups:
+
+# group 380
+- name: "Void Assaults"
+  type: class
+  sets:
+    - "Vendor Armor"
+  data:
+    death-knight:
+      # Void Rider's Armor [description=14369]
+      - name: "Void Rider's Armor"
+        wowheadSetId:
+        itemsV2:
+        - 263737 # Void Rider's Helm [head]
+        - 263739 # Void Rider's Pauldrons [shoulders]
+        - 263742 # Void Rider's Cloak [back]
+        - 263734 # Void Rider's Breastplate [chest]
+        - 263743 # Void Rider's Vambraces [wrists]
+        - 263736 # Void Rider's Gloves [hands]
+        - 263741 # Void Rider's Girdle [waist]
+        - 263738 # Void Rider's Leggings [legs]
+        - 263735 # Void Rider's Sabatons [feet]
+
+    demon-hunter:
+      # Voidwalker's Armor [description=14369]
+      - name: "Voidwalker's Armor"
+        wowheadSetId:
+        itemsV2:
+        - 263747 # Voidwalker's Skullcap [head]
+        - 263749 # Voidwalker's Shoulderblades [shoulders]
+        - 263751 # Voidwalker's Cloak [back]
+        - 263744 # Voidwalker's Harness [chest
+        - 263752 # Voidwalker's Bracers [wrists]
+        - 263746 # Voidwalker's Gloves [hands]
+        - 263750 # Voidwalker's Cord [waist]
+        - 263748 # Voidwalker's Leggings [legs]
+        - 263745 # Voidwalker's Sandals [feet]
+
+    druid:
+      # Voidrage Armor [description=14369]
+      - name: "Voidrage Armor"
+        wowheadSetId:
+        itemsV2:
+        - 263756 # Voidrage Cover [head]
+        - 263758 # Voidrage Pauldrons [shoulders]
+        - 263760 # Voidrage Cloak [back]
+        - 263762 # Voidrage Chestguard [chest]
+        - 263753 # Voidrage Robe [chest]
+        - 263761 # Voidrage Bracers [wrists]
+        - 263755 # Voidrage Handguards [hands]
+        - 263759 # Voidrage Belt [waist]
+        - 263757 # Voidrage Legguards [legs]
+        - 263754 # Voidrage Boots [feet]
+
+    evoker:
+      # Void-Warder's Armor [description=14369]
+      - name: "Void-Warder's Armor"
+        wowheadSetId:
+        itemsV2:
+        - 263766 # Void-Warder's Crown [head]
+        - 263768 # Void-Warder's Pauldrons [shoulders]
+        - 263770 # Void-Warder's Cloak [back]
+        - 263763 # Void-Warder's Breastplate [chest]
+        - 263771 # Void-Warder's Vambraces [wrists]
+        - 263765 # Void-Warder's Claws [hands]
+        - 263769 # Void-Warder's Girdle [waist]
+        - 263767 # Void-Warder's Legplates [legs]
+        - 263764 # Void-Warder's Talons [feet]
+
+    hunter:
+      # Voidstalker's Armor [description=14369]
+      - name: "Voidstalker's Armor"
+        wowheadSetId:
+        itemsV2:
+        - 263775 # Voidstalker's Helm [head]
+        - 263778 # Voidstalker's Spaulders [shoulders]
+        - 263780 # Voidstalker's Cloak [back]
+        - 263772 # Voidstalker's Breastplate [chest]
+        - 263781 # Voidstalker's Bracers [wrists]
+        - 263774 # Voidstalker's Gauntlets [hands]
+        - 263779 # Voidstalker's Belt [waist]
+        - 263777 # Voidstalker's Legguards [legs]
+        - 263773 # Voidstalker's Greaves [feet]
+
+    mage:
+      # Voidwind Regalia [description=14369]
+      - name: "Voidwind Regalia"
+        wowheadSetId:
+        itemsV2:
+        - 263785 # Voidwind Crown [head]
+        - 263787 # Voidwind Mantle [shoulders]
+        - 263789 # Voidwind Cloak [back]
+        - 263791 # Voidwind Blouse [chest]
+        - 263782 # Voidwind Robes [chest]
+        - 263790 # Voidwind Bindings [wrists]
+        - 263784 # Voidwind Gloves [hands]
+        - 263788 # Voidwind Belt [waist]
+        - 263786 # Voidwind Pants [legs]
+        - 263783 # Voidwind Boots [feet]
+
+    monk:
+      # Battlegear of the Void Acolyte [description=14369]
+      - name: "Battlegear of the Void Acolyte"
+        wowheadSetId:
+        itemsV2:
+        - 263795 # Helm of the Void Acolyte [head]
+        - 263797 # Spaulders of the Void Acolyte [shoulders]
+        - 263799 # Cloak of the Void Acolyte [back]
+        - 263792 # Vest of the Void Acolyte [chest]
+        - 263800 # Bindings of the Void Acolyte [wrists]
+        - 263794 # Grips of the Void Acolyte [hands]
+        - 263798 # Cord of the Void Acolyte [waist]
+        - 263796 # Pants of the Void Acolyte [legs]
+        - 263793 # Talons of the Void Acolyte [feet]
+
+    paladin:
+      # Void's Judgment Armor [description=14369]
+      - name: "Void's Judgment Armor"
+        wowheadSetId:
+        itemsV2:
+        - 263804 # Void's Judgment Crown [head]
+        - 263806 # Void's Judgment Spaulders [shoulders]
+        - 263808 # Void's Judgment Cloak [back]
+        - 263801 # Void's Judgment Breastplate [chest]
+        - 263809 # Void's Judgment Bindings [wrists]
+        - 263803 # Void's Judgment Gauntlets [hands]
+        - 263807 # Void's Judgment Belt [waist]
+        - 263810 # Void's Judgment Greaves [legs]
+        - 263805 # Void's Judgment Legplates [legs]
+        - 263802 # Void's Judgment Sabatons [feet]
+
+    priest:
+      # Vestments of Voidcendence [description=14369]
+      - name: "Vestments of Voidcendence"
+        wowheadSetId:
+        itemsV2:
+        - 263814 # Halo of Voidcendence [head]
+        - 263816 # Pauldrons of Voidcendence [shoulders]
+        - 263818 # Cloak of Voidcendence [back]
+        - 263820 # Blouse of Voidcendence [chest]
+        - 263811 # Robes of Voidcendence [chest]
+        - 263819 # Bindings of Voidcendence [wrists]
+        - 263813 # Handguards of Voidcendence [hands]
+        - 263817 # Belt of Voidcendence [waist]
+        - 263815 # Leggings of Voidcendence [legs]
+        - 263812 # Boots of Voidcendence [feet]
+
+    rogue:
+      # Voidfang Armor [description=14369]
+      - name: "Voidfang Armor"
+        wowheadSetId:
+        itemsV2:
+        - 263825 # Voidfang Hood [head]
+        - 263827 # Voidfang Spaulders [shoulders]
+        - 263829 # Voidfang Cloak [back]
+        - 263821 # Voidfang Chestpiece [chest]
+        - 263830 # Voidfang Bracers [wrists]
+        - 263824 # Voidfang Gloves [hands]
+        - 263828 # Voidfang Belt [waist]
+        - 263826 # Voidfang Pants [legs]
+        - 263823 # Voidfang Boots [feet]
+
+    shaman:
+      # Void Storms Armor [description=14369]
+      - name: "Void Storms Armor"
+        wowheadSetId:
+        itemsV2:
+        - 263834 # Helmet of Void Storms [head]
+        - 263836 # Epaulets of Void Storms [shoulders]
+        - 263838 # Cloak of Void Storms [back]
+        - 263831 # Breastplate of Void Storms [chest]
+        - 263839 # Bracers of Void Storms [wrists]
+        - 263833 # Gauntlets of Void Storms [hands]
+        - 263837 # Belt of Void Storms [waist]
+        - 263840 # Greaves of Void Storms [legs]
+        - 263835 # Kilt of Void Storms [legs]
+        - 263832 # Sabatons of Void Storms [feet]
+
+    warlock:
+     # Void Nemesis' Raiment [description=14369]
+      - name: "Void Nemesis' Raiment"
+        wowheadSetId:
+        itemsV2:
+        - 263844 # Void Nemesis' Skullcap [head]
+        - 263846 # Void Nemesis' Spaulders [shoulders]
+        - 263848 # Void Nemesis' Cloak [back]
+        - 263850 # Void Nemesis' Blouse [chest]
+        - 263841 # Void Nemesis' Robes [chest]
+        - 263849 # Void Nemesis' Bracers [wrists]
+        - 263843 # Void Nemesis' Gloves [hands]
+        - 263847 # Void Nemesis' Belt [waist]
+        - 263845 # Void Nemesis' Leggings [legs]
+        - 263842 # Void Nemesis' Boots [feet]
+
+    warrior:
+      # Battlegear of Voidrath [description=14369]
+      - name: "Battlegear of Voidrath"
+        wowheadSetId:
+        itemsV2:
+        - 263854 # Helm of Voidwrath [head]
+        - 263856 # Pauldrons of Voidwrath [shoulders]
+        - 263858 # Cloak of Voidwrath [back]
+        - 263851 # Breastplate of Voidwrath [chest]
+        - 263860 # Bracelets of Voidwrath [wrists]
+        - 263853 # Gauntlets of Voidwrath [hands]
+        - 263857 # Waistband of Voidwrath [waist]
+        - 263855 # Legplates of Voidwrath [legs]
+        - 263852 # Sabatons of Voidwrath [feet]
+
+- name: "Void Assaults"
+  type: all
+  sets:
+    - "Vendor Weapons"
+  data:
+    all:
+      - name: "Vendor Weapons"
+        itemsV2:
+          - 263905 # Void-Touched Apprentice's Gavel
+          - 263903 # Void-Touched Basher
+          - 263911 # Void-Touched Battle Baton
+          - 263910 # Void-Touched Beacon Staff
+          - 263906 # Void-Touched Bulwark
+          - 263920 # Void-Touched Dueling Blade
+          - 263898 # Void-Touched Fang
+          - 263917 # Void-Touched Flaredblade
+          - 263925 # Void-Touched Foci
+          - 263904 # Void-Touched Gavel
+          - 263927 # Void-Touched Glaiveblade
+          - 263923 # Void-Touched Greatblade
+          - 263924 # Void-Touched Greatbow
+          - 263926 # Void-Touched Greatwand
+          - 263918 # Void-Touched Guard's Blade
+          - 263900 # Void-Touched Gutter
+          - 263914 # Void-Touched Hammer
+          - 263922 # Void-Touched Mageblade
+          - 263912 # Void-Touched Magister's Baton
+          - 263919 # Void-Touched Magister's Sword
+          - 263908 # Void-Touched Poleaxe
+          - 263894 # Void-Touched Rifle
+          - 263901 # Void-Touched Sacrificial Knife
+          - 263913 # Void-Touched Smasher
+          - 263907 # Void-Touched Spade
+          - 263921 # Void-Touched Sunfury Blade
+          - 273873 # Void-Touched Sunfury Poleaxe
+          - 263909 # Void-Touched Sunfury Stave
+          - 263916 # Void-Touched Tome
+          - 263915 # Void-Touched Torch
+          - 263902 # Void-Touched Twinblade
+
+- name: "Void Assaults"
+  type: class
+  sets:
+    - "Vendor Cosmetic Armor"
+  data:
+    death-knight:
+      - name: "Void Rider's Armor"
+        wowheadSetId:
+        itemsV2:
+        - 263588 # Void Rider's Helm [head]
+        - 263590 # Void Rider's Pauldrons [shoulders]
+        - 263592 # Void Rider's Cloak [back]
+        - 263585 # Void Rider's Breastplate [chest]
+        - 263593 # Void Rider's Vambraces [wrists]
+        - 263587 # Void Rider's Gloves [hands]
+        - 263591 # Void Rider's Girdle [waist]
+        - 263589 # Void Rider's Leggings [legs]
+        - 263586 # Void Rider's Sabatons [feet]
+
+    demon-hunter:
+      - name: "Voidwalker's Armor"
+        wowheadSetId:
+        itemsV2:
+        - 263597 # Voidwalker's Skullcap [head]
+        - 263599 # Voidwalker's Shoulderblades [shoulders]
+        - 263601 # Voidwalker's Cloak [back]
+        - 263594 # Voidwalker's Harness [chest]
+        - 263602 # Voidwalker's Bracers [wrists]
+        - 263596 # Voidwalker's Gloves [hands]
+        - 263600 # Voidwalker's Cord [waist]
+        - 263598 # Voidwalker's Leggings [legs]
+        - 263595 # Voidwalker's Sandals [feet]
+
+    druid:
+      - name: "Voidrage Armor"
+        wowheadSetId:
+        itemsV2:
+        - 263606 # Voidrage Cover [head]
+        - 263608 # Voidrage Pauldrons [shoulders]
+        - 263610 # Voidrage Cloak [back]
+        - 263612 # Voidrage Chestguard [chest]
+        - 263603 # Voidrage Robe [chest]
+        - 263611 # Voidrage Bracers [wrists]
+        - 263605 # Voidrage Handguards [hands]
+        - 263609 # Voidrage Belt [waist]
+        - 263607 # Voidrage Legguards [legs]
+        - 263604 # Voidrage Boots [feet]
+
+    evoker:
+      - name: "Void-Warder's Armor"
+        wowheadSetId:
+        itemsV2:
+        - 263616 # Void-Warder's Crown [head]
+        - 263618 # Void-Warder's Pauldrons [shoulders]
+        - 263620 # Void-Warder's Cloak [back]
+        - 263613 # Void-Warder's Breastplate [chest]
+        - 263621 # Void-Warder's Vambraces [wrists]
+        - 263615 # Void-Warder's Claws [hands]
+        - 263619 # Void-Warder's Girdle [waist]
+        - 263617 # Void-Warder's Legplates [legs]
+        - 263614 # Void-Warder's Talons [feet]
+
+    hunter:
+      - name: "Voidstalker's Armor"
+        wowheadSetId:
+        itemsV2:
+        - 263625 # Voidstalker's Helm [head]
+        - 263627 # Voidstalker's Spaulders [shoulders]
+        - 263629 # Voidstalker's Cloak [back]
+        - 263622 # Voidstalker's Breastplate [chest]
+        - 263630 # Voidstalker's Bracers [wrists]
+        - 263624 # Voidstalker's Gauntlets [hands]
+        - 263628 # Voidstalker's Belt [waist]
+        - 263626 # Voidstalker's Legguards [legs]
+        - 263623 # Voidstalker's Greaves [feet]
+
+    mage:
+      - name: "Voidwind Regalia"
+        wowheadSetId:
+        itemsV2:
+        - 263634 # Voidwind Crown [head]
+        - 263636 # Voidwind Mantle [shoulders]
+        - 263638 # Voidwind Cloak [back]
+        - 263640 # Voidwind Blouse [chest]
+        - 263631 # Voidwind Robes [chest]
+        - 263639 # Voidwind Bindings [wrists]
+        - 263633 # Voidwind Gloves [hands]
+        - 263637 # Voidwind Belt [waist]
+        - 263635 # Voidwind Pants [legs]
+        - 263632 # Voidwind Boots [feet]
+
+    monk:
+      - name: "Battlegear of the Void Acolyte"
+        wowheadSetId:
+        itemsV2:
+        - 263644 # Helm of the Void Acolyte [head]
+        - 263646 # Spaulders of the Void Acolyte [shoulders]
+        - 263648 # Cloak of the Void Acolyte [back]
+        - 263641 # Vest of the Void Acolyte [chest]
+        - 263649 # Bindings of the Void Acolyte [wrists]
+        - 263643 # Grips of the Void Acolyte [hands]
+        - 263647 # Cord of the Void Acolyte [waist]
+        - 263645 # Pants of the Void Acolyte [legs]
+        - 263642 # Talons of the Void Acolyte [feet]
+
+    paladin:
+      - name: "Void's Judgment Armor"
+        wowheadSetId:
+        itemsV2:
+        - 263653 # Void's Judgment Crown [head]
+        - 263655 # Void's Judgment Spaulders [shoulders]
+        - 263657 # Void's Judgment Cloak [back]
+        - 263650 # Void's Judgment Breastplate [chest]
+        - 263658 # Void's Judgment Bindings [wrists]
+        - 263652 # Void's Judgment Gauntlets [hands]
+        - 263656 # Void's Judgment Belt [waist]
+        - 263654 # Void's Judgment Legplates [legs]
+        - 263659 # Void's Judgment Greaves [legs]
+        - 263651 # Void's Judgment Sabatons [feet]
+
+    priest:
+      - name: "Vestments of Voidcendence"
+        wowheadSetId:
+        itemsV2:
+        - 263663 # Halo of Voidcendence [head]
+        - 263665 # Pauldrons of Voidcendence [shoulders]
+        - 263667 # Cloak of Voidcendence [back]
+        - 263669 # Blouse of Voidcendence [chest]
+        - 263660 # Robes of Voidcendence [chest]
+        - 263668 # Bindings of Voidcendence [wrists]
+        - 263662 # Handguards of Voidcendence [hands]
+        - 263666 # Belt of Voidcendence [waist]
+        - 263664 # Leggings of Voidcendence [legs]
+        - 263661 # Boots of Voidcendence [feet]
+
+    rogue:
+      - name: "Voidfang Armor"
+        wowheadSetId:
+        itemsV2:
+        - 263673 # Voidfang Hood [head]
+        - 263675 # Voidfang Spaulders [shoulders]
+        - 263677 # Voidfang Cloak [back]
+        - 263670 # Voidfang Chestpiece [chest]
+        - 263678 # Voidfang Bracers [wrists]
+        - 263672 # Voidfang Gloves [hands]
+        - 263676 # Voidfang Belt [waist]
+        - 263674 # Voidfang Pants [legs]
+        - 263671 # Voidfang Boots [feet]
+
+    shaman:
+      - name: "Void Storms Armor"
+        wowheadSetId:
+        itemsV2:
+        - 263682 # Helmet of Void Storms [head]
+        - 263684 # Epaulets of Void Storms [shoulders]
+        - 263686 # Cloak of Void Storms [back]
+        - 263679 # Breastplate of Void Storms [chest]
+        - 263687 # Bracers of Void Storms [wrists]
+        - 263681 # Gauntlets of Void Storms [hands]
+        - 263685 # Belt of Void Storms [waist]
+        - 263688 # Greaves of Void Storms [legs]
+        - 263683 # Kilt of Void Storms [legs]
+        - 263680 # Sabatons of Void Storms [feet]
+
+    warlock:
+      - name: "Void Nemesis' Raiment"
+        wowheadSetId:
+        itemsV2:
+        - 263692 # Void Nemesis' Skullcap [head]
+        - 263694 # Void Nemesis' Spaulders [shoulders]
+        - 263696 # Void Nemesis' Cloak [back]
+        - 263698 # Void Nemesis' Blouse [chest]
+        - 263689 # Void Nemesis' Robes [chest]
+        - 263697 # Void Nemesis' Bracers [wrists]
+        - 263691 # Void Nemesis' Gloves [hands]
+        - 263695 # Void Nemesis' Belt [waist]
+        - 263693 # Void Nemesis' Leggings [legs]
+        - 263690 # Void Nemesis' Boots [feet]
+
+    warrior:
+      - name: "Battlegear of Voidrath"
+        wowheadSetId:
+        itemsV2:
+        - 263702 # Helm of Voidwrath [head]
+        - 263704 # Pauldrons of Voidwrath [shoulders]
+        - 263706 # Cloak of Voidwrath [back]
+        - 263699 # Breastplate of Voidwrath [chest]
+        - 263707 # Bracelets of Voidwrath [wrists]
+        - 263701 # Gauntlets of Voidwrath [hands]
+        - 263705 # Waistband of Voidwrath [waist]
+        - 263703 # Legplates of Voidwrath [legs]
+        - 263700 # Sabatons of Voidwrath [feet]
+
+- name: "Void Assaults"
+  type: all
+  sets:
+    - "Vendor Cosmetic Weapons"
+  data:
+    all:
+      - name: "Vendor Cosmetic Weapons"
+        itemsV2:
+          - 263946 # Void-Touched Basher []
+          - 263954 # Void-Touched Battle Baton []
+          - 263949 # Void-Touched Bulwark []
+          - 263963 # Void-Touched Dueling Blade []
+          - 263942 # Void-Touched Fang []
+          - 263960 # Void-Touched Flaredblade []
+          - 263968 # Void-Touched Foci []
+          - 263970 # Void-Touched Glaiveblade []
+          - 263966 # Void-Touched Greatblade []
+          - 263967 # Void-Touched Greatbow []
+          - 263969 # Void-Touched Greatwand []
+          - 263943 # Void-Touched Gutter []
+          - 263941 # Void-Touched Rifle []
+          - 263956 # Void-Touched Smasher []
+          - 263950 # Void-Touched Spade []
+          - 273874 # Void-Touched Sunfury Poleaxe []
+          - 263952 # Void-Touched Sunfury Stave []
+          - 263959 # Void-Touched Tome []
+
+- name: "Void Assaults"
+  type: armor
+  sets:
+    - "Leveling Armor"
+  data:
+    cloth:
+      - name: "Ranger Recruit's Cloth"
+        itemsV2:
+          - 270944 # Ranger Recruit's Crown [head]
+          - 270953 # Ranger Recruit's Mantle [shoulders]
+          - 270966 # Ranger Recruit's Cloak [back]
+          - 270936 # Ranger Recruit's Robes [chest]
+          - 270959 # Ranger Recruit's Cuffs [wrists]
+          - 270942 # Ranger Recruit's Mitts [hands]
+          - 270956 # Ranger Recruit's Sash [waist]
+          - 270948 # Ranger Recruit's Pants [legs]
+          - 270968 # Ranger Recruit's Slippers [feet]
+
+    leather:
+      - name: "Ranger Recruit's Leather"
+        itemsV2:
+          - 270946 # Ranger Recruit's Hood [head]
+          - 270951 # Ranger Recruit's Shoulderpads [shoulders]
+          - 270939 # Ranger Recruit's Jerkin [chest]
+          - 270962 # Ranger Recruit's Wraps [wrists]
+          - 270940 # Ranger Recruit's Gloves [hands]
+          - 270958 # Ranger Recruit's Belt [waist]
+          - 270950 # Ranger Recruit's Tights [legs]
+          - 270970 # Ranger Recruit's Treads [feet]
+
+    mail:
+      - name: "Ranger Recruit's Mail"
+        itemsV2:
+          - 270945 # Ranger Recruit's Helmet [head]
+          - 270954 # Ranger Recruit's Spaulders [shoulders]
+          - 270938 # Ranger Recruit's Chainmail [chest]
+          - 270961 # Ranger Recruit's Wristguards [wrists]
+          - 270943 # Ranger Recruit's Grips [hands]
+          - 270957 # Ranger Recruit's Waistguard [waist]
+          - 270949 # Ranger Recruit's Breeches [legs]
+          - 270969 # Ranger Recruit's Boots [feet]
+
+    plate:
+      - name: "Ranger Recruit's Plate"
+        itemsV2:
+          - 270967 # Ranger Recruit's Helm [head]
+          - 270952 # Ranger Recruit's Pauldrons [shoulders]
+          - 270937 # Ranger Recruit's Breastplate [chest]
+          - 270960 # Ranger Recruit's Vambraces [wrists]
+          - 270941 # Ranger Recruit's Gauntlets [hands]
+          - 270955 # Ranger Recruit's Girdle [waist]
+          - 270947 # Ranger Recruit's Legguards [legs]
+          - 270935 # Ranger Recruit's Sabatons [feet]
+
+- name: "Void Assaults"
+  type: all
+  sets:
+    - "Leveling Weapons"
+  data:
+    all:
+      - name: "Leveling Weapons"
+        itemsV2:
+          - 270985 # Ranger Recruit's Cleaver [1h axe]
+          - 270973 # Ranger Recruit's Skullcracker [1h mace]
+          - 270975 # Ranger Recruit's Acolyte's Blade [1h sword]
+          - 270972 # Ranger Recruit's Mace [1h mace]
+          - 270974 # Ranger Recruit's Blade [1h sword]
+          - 270971 # Ranger Recruit's Spellblade [dagger]
+          - 270982 # Ranger Recruit's Stiletto [dagger]
+          - 270976 # Ranger Recruit's Glaive [warglaive]
+          - 270977 # Ranger Recruit's Polearm [polearm]
+          - 270983 # Ranger Recruit's Battle Stave [stave]
+          - 270984 # Ranger Recruit's Staff [stave]
+          - 270979 # Ranger Recruit's Longbow [bow]
+          - 270980 # Ranger Recruit's Wand [wand]
+          - 270981 # Ranger Recruit's Fetish [off-hand]
+          - 270978 # Ranger Recruit's Shield [shield]
+
+- name: "Void Assaults"
+  type: all
+  sets:
+    - "Bag Cosmetics"
+  data:
+    all:
+      - name: "Bag Cosmetics"
+        itemsV2:
+          - 271050 # Forest Hunter's Quiver [back]
+          - 270999 # Forest Berserker's Hatchet [1h axe]
+          - 271000 # Twilight Gut Ripper [1h axe]
+          - 271018 # Deepcrawler Pincher [1h mace]
+          - 271021 # Loa Battle Font [1h mace]
+          - 271020 # Phoenix Wing Basher [1h mace]
+          - 271022 # Ritual Overseer's Mace [1h mace]
+          - 271019 # Sin'dorei Magister's Gavel [1h mace]
+          - 271023 # Swingable Piranha [1h mace]
+          - 271041 # Blade of the Deeplurk Honorguard [1h sword]
+          - 271039 # Curved Blade of the Drained Loa [1h sword]
+          - 271042 # Myrmidon's Cutlass [1h sword]
+          - 271038 # Ornate Blade of the Royal Guard [1h sword]
+          - 271040 # Twilight Captain's Short Sword [1h sword]
+          - 271013 # Adherent's Wriggling Backstabber [dagger]
+          - 271008 # Cultist's Sacrificial Kris [dagger]
+          - 271009 # Daggerspine Trident Tine [dagger]
+          - 271012 # Forest Tiki Twinblade [dagger]
+          - 271011 # Frostdeep Spider's Fang [dagger]
+          - 271010 # Glistening Sin'dorei Twinblade [dagger]
+          - 271007 # Twilight Ritualist's Stiletto [dagger]
+          - 271014 # Twilight Scout's Sticher [dagger]
+          - 271015 # Deep Fathom Claw [fist]
+          - 271016 # Golden Phoenix's Beak [fist]
+          - 271043 # Twilight Assassin's Glaive [warglaive]
+          - 271001 # Greataxe of the Forest Tribe [2h axe]
+          - 271002 # Twilight Berserker's Cleaver [2h axe]
+          - 271025 # Twilight Guardian's Maul [2h mace]
+          - 271028 # Amani War Spear [polearm]
+          - 271027 # Deeplurk Battle Trident [polearm]
+          - 271026 # Deeplurk Myrmidon's Trident [polearm]
+          - 272144 # Onyx Bloodknight Bladestaff [polearm]
+          - 271034 # Ritual Overseer's Polestaff [polearm]
+          - 271037 # Battle Shaman's Ritual Staff [stave]
+          - 271035 # Deeplurk Sorceress' Stave [stave]
+          - 271029 # Fathom-Coral Lightstaff [stave]
+          - 271036 # Forest Shaman's Voodoo Staff [stave]
+          - 271030 # Living Stave of the Deepdweller [stave]
+          - 271031 # Onyx Bloodknight Stave [stave]
+          - 271033 # Skull-Bearer's Ritual Stave [stave]
+          - 271032 # Tiki-Bearer's Ritual Staff [stave]
+          - 271004 # Deepcrawler Recurve Bow [bow]
+          - 271006 # Forest Stalker's Bow [bow]
+          - 271003 # Sunfury Phoenix Bow [bow]
+          - 271005 # Violet Thalassian Greatbow [bow]
+          - 271017 # Twilight Slug Belcher [gun]
+          - 271045 # Crystal Focus Spellslinger [wand]
+          - 271044 # Deeplurk Shock Wand [wand]
+          - 271049 # Ritual Weaver's Spellstick [wand]
+          - 271047 # Spell-Infused Wriggling Tentacles [wand]
+          - 271046 # Voodoo Hex Stick [wand]
+          - 270997 # Blood Oath Tome [off-hand]
+          - 271024 # Diseased Piranha Fetish [off-hand]
+          - 270998 # Fetish of the Vanquished Foe [off-hand]
+          - 270995 # Sin'dorei Crystal Focus [off-hand]
+          - 271048 # Wriggling Tentacle Fetish [off-hand]
+          - 270992 # Amani Hex Crest [shield]
+          - 270994 # Deepsea Behemoth Scale [shield]
+          - 270996 # Hex-Horn Buckler [shield]
+          - 270991 # Sunfury Great Bulwark [shield]
+          - 270993 # Twilight Blade Barrier [shield]
