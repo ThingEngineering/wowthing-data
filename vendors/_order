@@ -158,7 +158,6 @@
     -
     02-wrath-of-the-lich-king/dalaran.yml
         02-wrath-of-the-lich-king/dalaran/professions.yml
-        02-wrath-of-the-lich-king/dalaran/timewalking.yml
         02-wrath-of-the-lich-king/dalaran/tier_07.yml
         02-wrath-of-the-lich-king/dalaran/tier_08.yml
         02-wrath-of-the-lich-king/dalaran/tier_09.yml
@@ -168,6 +167,8 @@
         02-wrath-of-the-lich-king/dalaran-underbelly/season_06.yml
         02-wrath-of-the-lich-king/dalaran-underbelly/season_07.yml
         02-wrath-of-the-lich-king/dalaran-underbelly/season_08.yml
+    -
+    02-wrath-of-the-lich-king/timewalking.yml
 
 01-the-burning-crusade/_.yml
     01-the-burning-crusade/isle_of_queldanas.yml
@@ -207,7 +208,7 @@ timewalking.yml
     05-warlords-of-draenor/timewalking.yml Warlords of Draenor
     04-mists-of-pandaria/timewalking.yml Mists of Pandaria
     03-cataclysm/timewalking.yml Cataclysm
-    02-wrath-of-the-lich-king/dalaran/timewalking.yml Wrath of the Lich King
+    02-wrath-of-the-lich-king/timewalking.yml Wrath of the Lich King
     01-the-burning-crusade/timewalking.yml Burning Crusade
     00-classic/timewalking.yml Classic
 

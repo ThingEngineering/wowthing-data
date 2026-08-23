@@ -14,7 +14,7 @@ things:
 
     groups:
       - name: "WotLK TW - Misc"
-        range: 6
+        range: 13
         sortKey: "z-tw-02-0"
 
       - name: "WotLK TW - Ensembles"
@@ -37,6 +37,36 @@ things:
           1166: 5000
 
       - id: 231374 # Enchanted Spellweave Carpet
+        costs:
+          1166: 5000
+
+      # Mounts (shared)
+
+      - id: 257513 # Bronze Aquilon Harness [mount]
+        costs:
+          1166: 5000
+
+      - id: 257514 # Bronze Corpsefly Harness [mount]
+        costs:
+          1166: 5000
+
+      - id: 257516 # Bronze Gravewing Harness [mount]
+        costs:
+          1166: 5000
+
+      - id: 257511 # Bronze Wilderling Harness [mount]
+        costs:
+          1166: 5000
+
+      - id: 238739 # Chrono Corsair [mount]
+        costs:
+          1166: 5000
+
+      - id: 205208 # Sandy Shalewing [mount]
+        costs:
+          1166: 5000
+
+      - id: 232624 # Timely Buzzbee [mount]
         costs:
           1166: 5000
 
