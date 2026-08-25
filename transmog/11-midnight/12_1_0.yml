@@ -59,3 +59,29 @@ groups:
       # Venom-Cursed Bear's Guard [Dungeons]
       - transmogSetId: 5830
         wowheadSetId:
+
+- name: "The Coiled Isle"
+  type: all
+  sets:
+    - "Venom Fishing Weapons"
+  data:
+    all:
+      - name: "Venom Fishing Weapons"
+        itemsV2:
+          - 274805 # Envenomed Chopper [1h axe]
+          - 274802 # Envenomed Gavel [1h mace]
+          - 274813 # Envenomed Hammer [1h mace]
+          - 274801 # Envenomed Snakefang [1h sword]
+          - 274816 # Envenomed False Promise [dagger]
+          - 274811 # Envenomed Sacrificial Dagger [dagger]
+          - 274806 # Envenomed Gut-Puncher [fist]
+          - 274804 # Envenomed Elfcleaver [2h axe]
+          - 274803 # Envenomed Trollsplitter [2h axe]
+          - 274809 # Envenomed Soul Collector [2h mace]
+          - 274796 # Envenomed Deathblade [2h sword]
+          - 274810 # Envenomed Spring's Frenzy [2h sword]
+          - 274808 # Envenomed Umbral Claymore [2h sword]
+          - 274814 # Envenomed Game Ripper [polearm]
+          - 274812 # Envenomed Hunter's Spear [polearm]
+          - 274807 # Envenomed Ritualizer [stave]
+          - 274815 # Envenomed Pages [off-hand]
