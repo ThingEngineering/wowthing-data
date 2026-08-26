@@ -1,0 +1,45 @@
+things:
+  - id: 254687
+    type: "vendor"
+    name: "Rotha"
+    note: "General Contractor"
+
+    locations:
+      here: # razorwind_shores
+        - 53.4 56.6
+
+    contents:
+
+      # 0
+
+      - id: 274673 # Orgrimmar Council Room Plans
+        costs:
+          3363: 50
+
+      - id: 274676 # Orgrimmar Display Room Plans
+        costs:
+          3363: 50
+
+      - id: 274675 # Orgrimmar Stone Pit Room Plans
+        costs:
+          3363: 50
+
+      - id: 274674 # Orgrimmar Theater Plans
+        costs:
+          3363: 50
+
+      - id: 274663 # Silvermoon Armory Plans
+        costs:
+          3363: 50
+
+      - id: 274661 # Silvermoon Display Room Plans
+        costs:
+          3363: 50
+
+      - id: 274664 # Silvermoon Lofty Study Plans
+        costs:
+          3363: 50
+
+      - id: 274662 # Silvermoon Small Study Plans
+        costs:
+          3363: 50
