@@ -27,6 +27,15 @@ groups:
     - 2791 # Prowling Shredclaw (Exalted)
     - 2764 # Duskbrute Harrower (Paragon)
 
+- name: "Prey"
+  things:
+    - 3032 # Preyhunter's Fury
+
 - name: "Ritual Sites"
   things:
     - 2935 # Void-Touched Hawkstrider
+
+- name: "{faction:2772}" # Zul'jarra's Forces
+  things:
+    - 3060 # Indigo Coiled Horror (Renown 17)
+    - 3054 # Violet-Backed Skyfang (Renown 19)

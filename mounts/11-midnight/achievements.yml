@@ -17,15 +17,23 @@ groups:
     - 3033 # Tortured Gorger
     - 2988 # Voidmancer's Starcarver
 
+- name: "Coiled Isle"
+  things:
+    - 3023 # Auriferous Venomfang (Treasures of the Coiled Isle)
+    - 3053 # Emerald Skyfang (Pro Poison Patroller)
+    - 3062 # Venomous Coiler (Assault the Vault)
+
 - name: "Delves"
   things:
     - 2773 # Giganto Manis (Glory of the Midnight Delver)
-    - 2842 # Arcanovoid Construct (Let Me Solo Him: Nullaeus)
+    - 3029 # Apophic Soul Crusher (Let Me Solo Him: Azta'rec)
 
 - name: "Dungeons"
   things:
-    - 2733 # Calamitous Carrion (Midnight Keystone Master: Season One)
+    - 3063 # Breath of Blight (KSM Season 2)
+    - 3064 # Breath of Ruin (KSL Season 2)
 
 - name: "Raids"
   things:
     - 2831 # Tenebrous Harrower (Glory of the Midnight Raider)
+    - 3021 # Crimson Venomfang (Glory of the Venomous Abyss Raider)

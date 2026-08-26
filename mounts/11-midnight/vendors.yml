@@ -27,6 +27,20 @@ groups:
 
 - name: "Mythic+"
   things:
+    - 1326 # Awakened Mindborer (Battle for Azeroth Keystone Master: Season Four)
+    - 1419 # Sintouched Deathwalker (Shadowlands Keystone Master: Season One)
+    - 1520 # Soultwisted Deathwalker (Shadowlands Keystone Master: Season Two)
+    - 1544 # Wastewarped Deathwalker (Shadowlands Keystone Master: Season Three)
+    - 1405 # Restoration Deathwalker (Shadowlands Keystone Master: Season Four)
+    - 1681 # Hailstorm Armoredon (Dragonflight Keystone Master:  Season 1)
+    - 1725 # Inferno Armoredon (Dragonflight Keystone Master:  Season 2)
+    - 1801 # Verdant Armoredon (Dragonflight Keystone Master:  Season 3)
+    - 2055 # Infinite Armoredon (Dragonflight Keystone Master:  Season 4)
+    - 2244 # Diamond Mechsuit (The War Within Keystone Master: Season 1)
+    - 2480 # Crimson Shreddertank (The War Within Keystone Master: Season 2)
+    - 2508 # Enterprising Shreddertank (The War Within Keystone Legend: Season 2)
+    - 2633 # Azure Void Flyer (The War Within Keystone Master: Season 3)
+    - 2631 # Scarlet Void Flyer (The War Within Keystone Legend: Season 3)
     - 3006 # Amethyst Mechsuit
     - 3005 # Cerulean Deathwalker
     - 3007 # Blue-Chip Shreddertank

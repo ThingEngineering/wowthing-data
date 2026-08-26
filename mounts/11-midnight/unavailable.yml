@@ -5,6 +5,12 @@ groups:
   things:
     - 2801 # Galactic Gladiator's Goredrake (Season 1)
 
+- name: "Delves"
+  things:
+    - 2842 # Arcanovoid Construct (Let Me Solo Him: Nullaeus)
+
 - name: "Mythic+"
   things:
+    - 2733 # Calamitous Carrion (KSM Season 1)
     - 2734 # Convalescent Carrion (KSL Season 1)
+    - 3069 # Umbral Ashes (1% Season 1)

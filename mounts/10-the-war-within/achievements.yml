@@ -9,21 +9,18 @@ groups:
     - 2181 # Swarmite Skyhunter (Khaz Algar Glyph Hunter)
     - 2332 # The Breaker's Song (Isle Remember You)
 
+- name: "Raids"
+  things:
+    - 2230 # Ivory Goliathus (Glory of the Delver)
+    - 2180 # Shadowed Swarmite (Glory of the Nerub-ar Raider)
+    - 2313 # Junkmaestro's Magnetomech (Glory of the Liberation of Undermine Raider)
+    - 2549 # Umbral K'aaroc (Glory of the Omega Raider)
+
 - name: "K'aresh"
   things:
     - 2655 # Phase-Lost Slateback (Phase-Lost-And-Found)
     - 2505 # Resplendent K'arroc (quest after Ecological Stability)
     - 2511 # Terror of the Night (Vigilante)
-
-- name: "Instances"
-  things:
-    - 2230 # Ivory Goliathus (Glory of the Delver)
-    - 2633 # Azure Void Flyer (KSM Season 3)
-    - 2631 # Scarlet Void Flyer (KSL Season 3)
-    - 2180 # Shadowed Swarmite (Glory of the Nerub-ar Raider)
-    - 2313 # Junkmaestro's Magnetomech (Glory of the Liberation of Undermine Raider)
-    - 2549 # Umbral K'aaroc (Glory of the Omega Raider)
-    - 2606 # Royal Voidwing (Ahead of the Curve: Dimensius, the All Devouring)
 
 - name: "PvP"
   things:

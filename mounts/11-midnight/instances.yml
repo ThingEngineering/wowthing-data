@@ -1,10 +1,15 @@
 name: "Instances"
 groups:
 
+- name: "Delves"
+  things:
+    - 2839 # Delver's Arcane Golem (Gnarldor Isle)
+
 - name: "Dungeons"
   things:
     - 2817 # Lucent Hawkstrider (Magisters' Terrace)
     - 2805 # Spectral Hawkstrider (Windrunner Spire)
+    - 3058 # The Writhing Brood (Altar of Fangs)
 
 - name: "Raids"
   things:

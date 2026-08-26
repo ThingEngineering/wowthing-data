@@ -84,6 +84,7 @@ groups:
     - 1346 # Steamscale Incinerator (6 month sub reward))
     - 2718 # Steel Prototype Panther MK-0
     - 2743 # Stormgilded Celestial
+    - 2977 # Sunflare Driftmoth
     - 1330 # Sunwarmed Furline
     - 523 # Swift Windsteed
     - 1223 # Sylverian Dreamer
@@ -94,6 +95,17 @@ groups:
     - 1531 # Wen Lo, the River's Edge
     - 421 # Winged Guardian
     - 1692 # Wondrous Wavewhisker
+    - 2703 # Blossombranch Groveglider
+    - 2701 # Cindertuft Groveglider
+    - 2700 # Frostfall Groveglider
+    - 2702 # Gloombough Groveglider
+    - 3004 # Autumnal Witchwick's Rider
+    - 3017 # Blushing Witchwick's Rider
+    - 3018 # Carmine Witchwick's Rider
+    - 3015 # Moonlit Witchwick's Rider
+    - 3014 # Mossy Witchwick's Rider
+    - 3016 # Scarlet Witchwick's Rider
+    - 3119 # Wintry Witchwick's Rider
 
 - name: TCG
   things:

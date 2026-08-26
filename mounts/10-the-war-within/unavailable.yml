@@ -6,8 +6,6 @@ groups:
     - 2218 # Forged Gladiator's Fel Bat (Season 1)
     - 2298 # Prized Gladiator's Fel Bat (Season 2)
 
-- name: "Mythic+"
+- name: "Raids"
   things:
-    - 2244 # Diamond Mechsuit (KSM Season 1)
-    - 2480 # Crimson Shreddertank (KSM Season 2)
-    - 2508 # Enterprising Shreddertank (KSL Season 2)
+    - 2606 # Royal Voidwing (Ahead of the Curve: Dimensius, the All Devouring)

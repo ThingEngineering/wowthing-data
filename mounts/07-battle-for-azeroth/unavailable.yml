@@ -11,7 +11,3 @@ groups:
 - name: "Brawler's Guild"
   things:
   - 1220 # Bruce (Brawler's Guild questline)
-
-- name: "Mythic+"
-  things:
-  - 1326 # Awakened Mindborer (Battle for Azeroth Keystone Master: Season Four)
