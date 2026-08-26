@@ -18,3 +18,11 @@ groups:
   things:
     - 4849 # Flotsam Harvester
     - 4852 # Lil' Daz'ti
+
+- name: "Shadowlands"
+  things:
+    - 4911 # P.O.S.T. Assistant
+
+- name: "Dragonflight"
+  things:
+    - 4949 # Shadowflame Remnant

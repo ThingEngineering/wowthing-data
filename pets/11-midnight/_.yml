@@ -12,3 +12,8 @@ groups:
     - 5131 # Ki'clak (A Stack of Snacks, ??)
     - 5130 # Ula'took (No Egg Scramble, Midnight Raids)
     - 5132 # Zesty (The Coiled Isle Safari)
+
+- name: "Events"
+  things:
+    - 4983 # Kai (Stormarion)
+    - 5092 # Vibrant Venomfang (Curse Surges)

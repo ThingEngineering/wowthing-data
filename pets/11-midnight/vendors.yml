@@ -35,3 +35,8 @@ groups:
 - name: "Abyss Anglers"
   things:
     - 5065 # Ka'bubb
+
+- name: "Coiled Isle"
+  things:
+    - 5071 # Corrosive Writhling (Skull of Er'inye)
+    - 5072 # Volatile Venomfang (Skull of Er'inye)

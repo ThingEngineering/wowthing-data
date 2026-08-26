@@ -22,3 +22,7 @@ groups:
 - name: "Zul'Aman"
   things:
     - 4906 # Scruffbeak (Abandoned Nest)
+
+- name: "Coiled Isle"
+  things:
+    - 5133 # Poison Dart Frog

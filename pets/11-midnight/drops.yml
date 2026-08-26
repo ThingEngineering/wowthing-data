@@ -9,3 +9,8 @@ groups:
   things:
     - 5040 # Curious Lynx Kitten
     - 5038 # Wriggling Capybara
+
+- name: "Coiled Isle"
+  things:
+    - 5137 # Lil' Mon (Big Mon)
+    - 5126 # Pale Hexscale (Ral'kala)

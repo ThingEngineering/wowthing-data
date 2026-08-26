@@ -10,3 +10,11 @@ groups:
   things:
     - 5036 # Rescued Dragonhawk Chick
     - 5037 # Void-Infused Mindbreaker Fry
+
+- name: "{faction:2772}" # Zul'jarra's Forces
+  things:
+    - 5093 # Snek'zali (Renown 12)
+
+- name: "{faction:2773}" # Captain Tokka's Crew
+  things:
+    - 5070 # Venom Elemental (Venom Trawler)
