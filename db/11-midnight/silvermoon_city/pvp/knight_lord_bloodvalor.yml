@@ -31,244 +31,268 @@ things:
 
     contents:
 
-      # 0 set=5474
+      # 0 set=5823
 
-      - id: 255885 # Galactic Warmonger's Mask [cloth head]
+      - id: 270354 # Venomous Warmonger's Mask [cloth head]
         costs:
           2123: 875
 
-      - id: 255889 # Galactic Warmonger's Mantle [cloth shoulders]
+      - id: 270356 # Venomous Warmonger's Mantle [cloth shoulders]
         costs:
           2123: 700
 
-      - id: 255916 # Galactic Warmonger's Cloak [cloak]
+      - id: 270347 # Venomous Warmonger's Cloak [cloak]
         costs:
           2123: 525
 
-      - id: 255882 # Galactic Warmonger's Garb [cloth chest]
+      - id: 270351 # Venomous Warmonger's Garb [cloth chest]
         costs:
           2123: 875
 
-      - id: 255888 # Galactic Warmonger's Bindings [cloth wrists]
+      - id: 270358 # Venomous Warmonger's Bindings [cloth wrists]
         costs:
           2123: 525
 
-      - id: 255884 # Galactic Warmonger's Gloves [cloth hands]
+      - id: 270353 # Venomous Warmonger's Gloves [cloth hands]
         costs:
           2123: 700
 
-      - id: 255887 # Galactic Warmonger's Cord [cloth waist]
+      - id: 270357 # Venomous Warmonger's Cord [cloth waist]
         costs:
           2123: 700
 
-      - id: 255886 # Galactic Warmonger's Pants [cloth legs]
+      - id: 270355 # Venomous Warmonger's Pants [cloth legs]
         costs:
           2123: 875
 
-      - id: 255883 # Galactic Warmonger's Slippers [cloth feet]
+      - id: 270352 # Venomous Warmonger's Slippers [cloth feet]
         costs:
           2123: 700
 
-      # 0 set=5475
+      # 0 set=5824
 
-      - id: 255892 # Galactic Warmonger's Hood [leather head]
+      - id: 270362 # Venomous Warmonger's Hood [leather head]
         costs:
           2123: 875
 
-      - id: 255897 # Galactic Warmonger's Shoulderguard [leather shoulders]
+      - id: 270364 # Venomous Warmonger's Shoulderguard [leather shoulders]
         costs:
           2123: 700
 
-      - id: 255917 # Galactic Warmonger's Drape [cloak]
+      - id: 270348 # Venomous Warmonger's Drape [cloak]
         costs:
           2123: 525
 
-      - id: 255896 # Galactic Warmonger's Jerkin [leather chest]
+      - id: 270359 # Venomous Warmonger's Jerkin [leather chest]
         costs:
           2123: 875
 
-      - id: 255895 # Galactic Warmonger's Wraps [leather wrists]
+      - id: 270366 # Venomous Warmonger's Wraps [leather wrists]
         costs:
           2123: 525
 
-      - id: 255891 # Galactic Warmonger's Handwraps [leather hands]
+      - id: 270361 # Venomous Warmonger's Handwraps [leather hands]
         costs:
           2123: 700
 
-      - id: 255894 # Galactic Warmonger's Belt [leather waist]
+      - id: 270365 # Venomous Warmonger's Belt [leather waist]
         costs:
           2123: 700
 
-      - id: 255893 # Galactic Warmonger's Breeches [leather legs]
+      - id: 270363 # Venomous Warmonger's Breeches [leather legs]
         costs:
           2123: 875
 
-      - id: 255890 # Galactic Warmonger's Boots [leather feet]
+      - id: 270360 # Venomous Warmonger's Boots [leather feet]
         costs:
           2123: 700
 
-      # 0 set=5476
+      # 0 set=5825
 
-      - id: 255909 # Galactic Warmonger's Helm [mail head]
+      - id: 270370 # Venomous Warmonger's Helm [mail head]
         costs:
           2123: 875
 
-      - id: 255911 # Galactic Warmonger's Epaulets [mail shoulders]
+      - id: 270372 # Venomous Warmonger's Epaulets [mail shoulders]
         costs:
           2123: 700
 
-      - id: 255914 # Galactic Warmonger's Cape [cloak]
+      - id: 270349 # Venomous Warmonger's Cape [cloak]
         costs:
           2123: 525
 
-      - id: 255906 # Galactic Warmonger's Chestguard [mail chest]
+      - id: 270367 # Venomous Warmonger's Chestguard [mail chest]
         costs:
           2123: 875
 
-      - id: 255913 # Galactic Warmonger's Armguards [mail wrists]
+      - id: 270374 # Venomous Warmonger's Armguards [mail wrists]
         costs:
           2123: 525
 
-      - id: 255908 # Galactic Warmonger's Grips [mail hands]
+      - id: 270369 # Venomous Warmonger's Grips [mail hands]
         costs:
           2123: 700
 
-      - id: 255912 # Galactic Warmonger's Cinch [mail waist]
+      - id: 270373 # Venomous Warmonger's Cinch [mail waist]
         costs:
           2123: 700
 
-      - id: 255910 # Galactic Warmonger's Leggings [mail legs]
+      - id: 270371 # Venomous Warmonger's Leggings [mail legs]
         costs:
           2123: 875
 
-      - id: 255907 # Galactic Warmonger's Greaves [mail feet]
+      - id: 270368 # Venomous Warmonger's Greaves [mail feet]
         costs:
           2123: 700
 
-      # 0 set=5477
+      # 0 set=5826
 
-      - id: 255898 # Galactic Warmonger's Faceplate [plate head]
+      - id: 270378 # Venomous Warmonger's Faceplate [plate head]
         costs:
           2123: 875
 
-      - id: 255903 # Galactic Warmonger's Spaulders [plate shoulders]
+      - id: 270380 # Venomous Warmonger's Spaulders [plate shoulders]
         costs:
           2123: 700
 
-      - id: 255915 # Galactic Warmonger's Shawl [cloak]
+      - id: 270350 # Venomous Warmonger's Shawl [cloak]
         costs:
           2123: 525
 
-      - id: 255899 # Galactic Warmonger's Cuirass [plate chest]
+      - id: 270375 # Venomous Warmonger's Cuirass [plate chest]
         costs:
           2123: 875
 
-      - id: 255905 # Galactic Warmonger's Bracers [plate wrists]
+      - id: 270382 # Venomous Warmonger's Bracers [plate wrists]
         costs:
           2123: 525
 
-      - id: 255901 # Galactic Warmonger's Gauntlets [plate hands]
+      - id: 270377 # Venomous Warmonger's Gauntlets [plate hands]
         costs:
           2123: 700
 
-      - id: 255904 # Galactic Warmonger's Clasp [plate waist]
+      - id: 270381 # Venomous Warmonger's Clasp [plate waist]
         costs:
           2123: 700
 
-      - id: 255902 # Galactic Warmonger's Legguards [plate legs]
+      - id: 270379 # Venomous Warmonger's Legguards [plate legs]
         costs:
           2123: 875
 
-      - id: 255900 # Galactic Warmonger's Sabatons [plate feet]
+      - id: 270376 # Venomous Warmonger's Sabatons [plate feet]
         costs:
           2123: 700
 
-      # 0 set=5478
+      # 0 set=5725
 
-      - id: 255918 # Galactic Warmonger's Battleaxe [1h ? axe]
+      - id: 270385 # Venomous Warmonger's Chopper [1h ? axe]
         costs:
           2123: 875
 
-      - id: 255920 # Galactic Warmonger's Carver [1h ? axe]
-        costs:
-          2123: 875
-
-      - id: 255919 # Galactic Warmonger's Hatchet [1h ? axe]
+      - id: 270384 # Venomous Warmonger's Slicer [1h ? axe]
         costs:
           2123: 1225
 
-      - id: 255928 # Galactic Warmonger's Club [1h ? mace]
+      - id: 270383 # Venomous Warmonger's Splitter [1h ? axe]
+        costs:
+          2123: 875
+
+      - id: 270392 # Venomous Warmonger's Crusher [1h ? mace]
+        costs:
+          2123: 875
+
+      - id: 270390 # Venomous Warmonger's Cudgel [1h ? mace]
         costs:
           2123: 1225
 
-      - id: 255936 # Galactic Warmonger's Crusher [1h ? mace]
+      - id: 270388 # Venomous Warmonger's Mace [1h ? mace]
         costs:
           2123: 875
 
-      - id: 255930 # Galactic Warmonger's Cudgel [1h ? mace]
+      - id: 270542 # Venomous Warmonger's Blade [1h ? sword]
         costs:
           2123: 875
 
-      - id: 255929 # Galactic Warmonger's Hammer [1h ? mace]
+      - id: 270407 # Venomous Warmonger's Spellblade [1h ? sword]
         costs:
           2123: 875
 
-      - id: 255935 # Galactic Warmonger's Mace [1h ? mace]
+      - id: 270408 # Venomous Warmonger's Sword [1h ? sword]
         costs:
           2123: 875
 
-      - id: 255937 # Galactic Warmonger's Scepter [1h ? mace]
+      - id: 270387 # Venomous Warmonger's Dagger [? dagger]
         costs:
           2123: 1225
 
-      - id: 255938 # Galactic Warmonger's Dagger [? dagger]
-        costs:
-          2123: 1225
-
-      - id: 255939 # Galactic Warmonger's Dirk [? dagger]
+      - id: 270386 # Venomous Warmonger's Shank [? dagger]
         costs:
           2123: 875
 
-      - id: 255922 # Galactic Warmonger's Twinblade [warglaive]
+      - id: 270395 # Venomous Warmonger's Warglaive [warglaive]
         costs:
           2123: 875
 
-      - id: 255927 # Galactic Warmonger's Broadsword [2h ? sword]
+      - id: 270549 # Venomous Warmonger's Battleaxe [2h ? axe]
         costs:
           2123: 1750
 
-      - id: 255926 # Galactic Warmonger's Greatsword [2h ? sword]
+      - id: 270550 # Venomous Warmonger's Cleaver [2h ? axe]
         costs:
           2123: 1750
 
-      - id: 255932 # Galactic Warmonger's Impaler [polearm]
+      - id: 270406 # Venomous Warmonger's Decapitator [2h ? axe]
         costs:
           2123: 1750
 
-      - id: 255933 # Galactic Warmonger's Spear [polearm]
+      - id: 270405 # Venomous Warmonger's Rage [2h ? axe]
         costs:
           2123: 1750
 
-      - id: 255925 # Galactic Warmonger's Battlestaff [staff]
+      - id: 270551 # Venomous Warmonger's Reaper [2h ? axe]
         costs:
           2123: 1750
 
-      - id: 255924 # Galactic Warmonger's Spire [staff]
+      - id: 270402 # Venomous Warmonger's Claymore [2h ? sword]
         costs:
           2123: 1750
 
-      - id: 255921 # Galactic Warmonger's Longbow [bow]
+      - id: 270401 # Venomous Warmonger's Greatblade [2h ? sword]
         costs:
           2123: 1750
 
-      - id: 255934 # Galactic Warmonger's Wand [wand]
+      - id: 277970 # Venomous Warmonger's Warblade [2h ? sword]
+        costs:
+          2123: 1750
+
+      - id: 270398 # Venomous Warmonger's Polearm [polearm]
+        costs:
+          2123: 1750
+
+      - id: 270397 # Venomous Warmonger's Spear [polearm]
+        costs:
+          2123: 1750
+
+      - id: 270399 # Venomous Warmonger's Battlestaff [staff]
+        costs:
+          2123: 1750
+
+      - id: 270400 # Venomous Warmonger's Stave [staff]
+        costs:
+          2123: 1750
+
+      - id: 270396 # Venomous Warmonger's Bow [bow]
+        costs:
+          2123: 1750
+
+      - id: 270394 # Venomous Warmonger's Wand [wand]
         costs:
           2123: 1225
 
-      - id: 255923 # Galactic Warmonger's Lantern [off-hand]
+      - id: 270403 # Venomous Warmonger's Horn [off-hand]
         costs:
           2123: 525
 
-      - id: 255931 # Galactic Warmonger's Aegis [shield]
+      - id: 270404 # Venomous Warmonger's Shield [shield]
         costs:
           2123: 525

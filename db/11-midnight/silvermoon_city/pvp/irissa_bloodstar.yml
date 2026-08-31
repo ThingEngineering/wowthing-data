@@ -67,1110 +67,1150 @@ things:
 
     contents:
 
-      # Death Knight set=5572
+      # Death Knight set=5819
 
-      - id: 255555 # Galactic Gladiator's Plate Helm [plate head]
+      - id: 270779 # Venomous Gladiator's Plate Helm [plate head]
         costs:
           1602: 875
 
-      - id: 255556 # Galactic Gladiator's Plate Helmet [plate head]
+      - id: 270780 # Venomous Gladiator's Plate Helmet [plate head]
         costs:
           1602: 875
 
-      - id: 255560 # Galactic Gladiator's Plate Pauldrons [plate shoulders]
+      - id: 270784 # Venomous Gladiator's Plate Pauldrons [plate shoulders]
         costs:
           1602: 700
 
-      - id: 255559 # Galactic Gladiator's Plate Shoulders [plate shoulders]
+      - id: 270783 # Venomous Gladiator's Plate Shoulders [plate shoulders]
         costs:
           1602: 700
 
-      - id: 255565 # Galactic Gladiator's Cloak [cloak]
+      - id: 270563 # Venomous Gladiator's Cloak [cloak]
         costs:
           1602: 525
 
-      - id: 255566 # Galactic Gladiator's Drape [cloak]
+      - id: 270564 # Venomous Gladiator's Drape [cloak]
         costs:
           1602: 525
 
-      - id: 255567 # Galactic Gladiator's Shawl [cloak]
+      - id: 270565 # Venomous Gladiator's Shawl [cloak]
         costs:
           1602: 525
 
-      - id: 255549 # Galactic Gladiator's Chestguard [plate chest]
+      - id: 270773 # Venomous Gladiator's Chestguard [plate chest]
         costs:
           1602: 875
 
-      - id: 255550 # Galactic Gladiator's Chestplate [plate chest]
+      - id: 270774 # Venomous Gladiator's Chestplate [plate chest]
         costs:
           1602: 875
 
-      - id: 255564 # Galactic Gladiator's Plate Vambraces [plate wrists]
+      - id: 270788 # Venomous Gladiator's Plate Vambraces [plate wrists]
         costs:
           1602: 525
 
-      - id: 255563 # Galactic Gladiator's Plate Wristguards [plate wrists]
+      - id: 270787 # Venomous Gladiator's Plate Wristguards [plate wrists]
         costs:
           1602: 525
 
-      - id: 255553 # Galactic Gladiator's Plate Gauntlets [plate hands]
+      - id: 270777 # Venomous Gladiator's Plate Gauntlets [plate hands]
         costs:
           1602: 700
 
-      - id: 255554 # Galactic Gladiator's Plate Handguards [plate hands]
+      - id: 270778 # Venomous Gladiator's Plate Handguards [plate hands]
         costs:
           1602: 700
 
-      - id: 255561 # Galactic Gladiator's Plate Girdle [plate waist]
+      - id: 270785 # Venomous Gladiator's Plate Girdle [plate waist]
         costs:
           1602: 700
 
-      - id: 255562 # Galactic Gladiator's Plate Greatbelt [plate waist]
+      - id: 270786 # Venomous Gladiator's Plate Greatbelt [plate waist]
         costs:
           1602: 700
 
-      - id: 255557 # Galactic Gladiator's Plate Legguards [plate legs]
+      - id: 270781 # Venomous Gladiator's Plate Legguards [plate legs]
         costs:
           1602: 875
 
-      - id: 255558 # Galactic Gladiator's Plate Wargreaves [plate legs]
+      - id: 270782 # Venomous Gladiator's Plate Wargreaves [plate legs]
         costs:
           1602: 875
 
-      - id: 255552 # Galactic Gladiator's Plate Stompers [plate feet]
+      - id: 270776 # Venomous Gladiator's Plate Stompers [plate feet]
         costs:
           1602: 700
 
-      - id: 255551 # Galactic Gladiator's Plate Warboots [plate feet]
+      - id: 270775 # Venomous Gladiator's Plate Warboots [plate feet]
         costs:
           1602: 700
 
-      # Demon Hunter set=5573
+      # Demon Hunter set=5812
 
-      - id: 255441 # Galactic Gladiator's Leather Helm [leather head]
+      - id: 270672 # Venomous Gladiator's Leather Shoulderpads [leather shoulders]
         costs:
-          1602: 875
+          1602: 700
 
-      - id: 255442 # Galactic Gladiator's Leather Mask [leather head]
+      - id: 270671 # Venomous Gladiator's Leather Spaulders [leather shoulders]
         costs:
-          1602: 875
+          1602: 700
+
+      - id: 270673 # Venomous Gladiator's Leather Belt [leather waist]
+        costs:
+          1602: 700
+
+      - id: 270674 # Venomous Gladiator's Leather Strap [leather waist]
+        costs:
+          1602: 700
 
-      - id: 255446 # Galactic Gladiator's Leather Shoulderpads [leather shoulders]
+      - id: 270663 # Venomous Gladiator's Leather Boots [leather feet]
         costs:
           1602: 700
 
-      - id: 255445 # Galactic Gladiator's Leather Spaulders [leather shoulders]
+      - id: 270664 # Venomous Gladiator's Leather Treads [leather feet]
         costs:
           1602: 700
 
-      - id: 255451 # Galactic Gladiator's Cloak [cloak]
+      - id: 270566 # Venomous Gladiator's Cloak [cloak]
         costs:
           1602: 525
 
-      - id: 255452 # Galactic Gladiator's Drape [cloak]
+      - id: 270567 # Venomous Gladiator's Drape [cloak]
         costs:
           1602: 525
 
-      - id: 255453 # Galactic Gladiator's Shawl [cloak]
+      - id: 270568 # Venomous Gladiator's Shawl [cloak]
         costs:
           1602: 525
 
-      - id: 255436 # Galactic Gladiator's Leather Jerkin [leather chest]
+      - id: 270667 # Venomous Gladiator's Leather Helm [leather head]
         costs:
           1602: 875
 
-      - id: 255435 # Galactic Gladiator's Leather Vest [leather chest]
+      - id: 270668 # Venomous Gladiator's Leather Mask [leather head]
         costs:
           1602: 875
 
-      - id: 255450 # Galactic Gladiator's Leather Wristguards [leather wrists]
+      - id: 270662 # Venomous Gladiator's Leather Jerkin [leather chest]
         costs:
-          1602: 525
+          1602: 875
 
-      - id: 255449 # Galactic Gladiator's Leather Wristwraps [leather wrists]
+      - id: 270661 # Venomous Gladiator's Leather Vest [leather chest]
         costs:
-          1602: 525
+          1602: 875
 
-      - id: 255439 # Galactic Gladiator's Leather Gloves [leather hands]
+      - id: 270676 # Venomous Gladiator's Leather Wristguards [leather wrists]
         costs:
-          1602: 700
+          1602: 525
 
-      - id: 255440 # Galactic Gladiator's Leather Grips [leather hands]
+      - id: 270675 # Venomous Gladiator's Leather Wristwraps [leather wrists]
         costs:
-          1602: 700
+          1602: 525
 
-      - id: 255447 # Galactic Gladiator's Leather Belt [leather waist]
+      - id: 270665 # Venomous Gladiator's Leather Gloves [leather hands]
         costs:
           1602: 700
 
-      - id: 255448 # Galactic Gladiator's Leather Strap [leather waist]
+      - id: 270666 # Venomous Gladiator's Leather Grips [leather hands]
         costs:
           1602: 700
 
-      - id: 255443 # Galactic Gladiator's Leather Breeches [leather legs]
+      - id: 270669 # Venomous Gladiator's Leather Breeches [leather legs]
         costs:
           1602: 875
 
-      - id: 255444 # Galactic Gladiator's Leather Legwraps [leather legs]
+      - id: 270670 # Venomous Gladiator's Leather Legwraps [leather legs]
         costs:
           1602: 875
-
-      - id: 255437 # Galactic Gladiator's Leather Boots [leather feet]
-        costs:
-          1602: 700
-
-      - id: 255438 # Galactic Gladiator's Leather Treads [leather feet]
-        costs:
-          1602: 700
 
-      # Druid set=5574
+      # Druid set=5805
 
-      - id: 255421 # Galactic Gladiator's Leather Helm [leather head]
+      - id: 270683 # Venomous Gladiator's Leather Helm [leather head]
         costs:
           1602: 875
 
-      - id: 255422 # Galactic Gladiator's Leather Mask [leather head]
+      - id: 270684 # Venomous Gladiator's Leather Mask [leather head]
         costs:
           1602: 875
 
-      - id: 255426 # Galactic Gladiator's Leather Shoulderpads [leather shoulders]
+      - id: 270688 # Venomous Gladiator's Leather Shoulderpads [leather shoulders]
         costs:
           1602: 700
 
-      - id: 255425 # Galactic Gladiator's Leather Spaulders [leather shoulders]
+      - id: 270687 # Venomous Gladiator's Leather Spaulders [leather shoulders]
         costs:
           1602: 700
 
-      - id: 255432 # Galactic Gladiator's Cloak [cloak]
+      - id: 270569 # Venomous Gladiator's Cloak [cloak]
         costs:
           1602: 525
 
-      - id: 255433 # Galactic Gladiator's Drape [cloak]
+      - id: 270570 # Venomous Gladiator's Drape [cloak]
         costs:
           1602: 525
 
-      - id: 255434 # Galactic Gladiator's Shawl [cloak]
+      - id: 270571 # Venomous Gladiator's Shawl [cloak]
         costs:
           1602: 525
 
-      - id: 255415 # Galactic Gladiator's Leather Vest [leather chest]
+      - id: 270677 # Venomous Gladiator's Leather Vest [leather chest]
         costs:
           1602: 875
 
-      - id: 255416 # Galactic Gladiator's Leather Vestments [leather chest]
+      - id: 270678 # Venomous Gladiator's Leather Vestments [leather chest]
         costs:
           1602: 875
 
-      - id: 255431 # Galactic Gladiator's Leather Wristguards [leather wrists]
+      - id: 270692 # Venomous Gladiator's Leather Wristguards [leather wrists]
         costs:
           1602: 525
 
-      - id: 255430 # Galactic Gladiator's Leather Wristwraps [leather wrists]
+      - id: 270691 # Venomous Gladiator's Leather Wristwraps [leather wrists]
         costs:
           1602: 525
 
-      - id: 255419 # Galactic Gladiator's Leather Gloves [leather hands]
+      - id: 270681 # Venomous Gladiator's Leather Gloves [leather hands]
         costs:
           1602: 700
 
-      - id: 255420 # Galactic Gladiator's Leather Grips [leather hands]
+      - id: 270682 # Venomous Gladiator's Leather Grips [leather hands]
         costs:
           1602: 700
 
-      - id: 255427 # Galactic Gladiator's Leather Belt [leather waist]
+      - id: 270689 # Venomous Gladiator's Leather Belt [leather waist]
         costs:
           1602: 700
 
-      - id: 255429 # Galactic Gladiator's Leather Strap [leather waist]
+      - id: 270690 # Venomous Gladiator's Leather Strap [leather waist]
         costs:
           1602: 700
 
-      - id: 255423 # Galactic Gladiator's Leather Breeches [leather legs]
+      - id: 270685 # Venomous Gladiator's Leather Breeches [leather legs]
         costs:
           1602: 875
 
-      - id: 255424 # Galactic Gladiator's Leather Legwraps [leather legs]
+      - id: 270686 # Venomous Gladiator's Leather Legwraps [leather legs]
         costs:
           1602: 875
 
-      - id: 255417 # Galactic Gladiator's Leather Boots [leather feet]
+      - id: 270679 # Venomous Gladiator's Leather Boots [leather feet]
         costs:
           1602: 700
 
-      - id: 255418 # Galactic Gladiator's Leather Treads [leather feet]
+      - id: 270680 # Venomous Gladiator's Leather Treads [leather feet]
         costs:
           1602: 700
 
-      # Evoker set=5575
+      # Evoker set=5796
 
-      - id: 255499 # Galactic Gladiator's Chain Faceguard [mail head]
+      - id: 270732 # Venomous Gladiator's Chain Faceguard [mail head]
         costs:
           1602: 875
 
-      - id: 255498 # Galactic Gladiator's Chain Helm [mail head]
+      - id: 270731 # Venomous Gladiator's Chain Helm [mail head]
         costs:
           1602: 875
 
-      - id: 255502 # Galactic Gladiator's Chain Monnion [mail shoulders]
+      - id: 270735 # Venomous Gladiator's Chain Monnion [mail shoulders]
         costs:
           1602: 700
 
-      - id: 255503 # Galactic Gladiator's Chain Shoulderguard [mail shoulders]
+      - id: 270736 # Venomous Gladiator's Chain Shoulderguard [mail shoulders]
         costs:
           1602: 700
 
-      - id: 255508 # Galactic Gladiator's Cloak [cloak]
+      - id: 270725 # Venomous Gladiator's Armored Scales [mail chest]
         costs:
-          1602: 525
+          1602: 875
 
-      - id: 255509 # Galactic Gladiator's Drape [cloak]
+      - id: 270726 # Venomous Gladiator's Scaleguard [mail chest]
         costs:
-          1602: 525
+          1602: 875
 
-      - id: 255510 # Galactic Gladiator's Shawl [cloak]
+      - id: 270572 # Venomous Gladiator's Cloak [cloak]
         costs:
           1602: 525
 
-      - id: 255492 # Galactic Gladiator's Armored Scales [mail chest]
+      - id: 270573 # Venomous Gladiator's Drape [cloak]
         costs:
-          1602: 875
+          1602: 525
 
-      - id: 255493 # Galactic Gladiator's Scaleguard [mail chest]
+      - id: 270574 # Venomous Gladiator's Shawl [cloak]
         costs:
-          1602: 875
+          1602: 525
 
-      - id: 255507 # Galactic Gladiator's Chain Bracers [mail wrists]
+      - id: 270740 # Venomous Gladiator's Chain Bracers [mail wrists]
         costs:
           1602: 525
 
-      - id: 255506 # Galactic Gladiator's Chain Wristguards [mail wrists]
+      - id: 270739 # Venomous Gladiator's Chain Wristguards [mail wrists]
         costs:
           1602: 525
 
-      - id: 255496 # Galactic Gladiator's Chain Gauntlets [mail hands]
+      - id: 270729 # Venomous Gladiator's Chain Gauntlets [mail hands]
         costs:
           1602: 700
 
-      - id: 255497 # Galactic Gladiator's Chain Handguards [mail hands]
+      - id: 270730 # Venomous Gladiator's Chain Handguards [mail hands]
         costs:
           1602: 700
 
-      - id: 255504 # Galactic Gladiator's Chain Belt [mail waist]
+      - id: 270737 # Venomous Gladiator's Chain Belt [mail waist]
         costs:
           1602: 700
 
-      - id: 255505 # Galactic Gladiator's Chain Girdle [mail waist]
+      - id: 270738 # Venomous Gladiator's Chain Girdle [mail waist]
         costs:
           1602: 700
 
-      - id: 255501 # Galactic Gladiator's Chain Breeches [mail legs]
+      - id: 270734 # Venomous Gladiator's Chain Breeches [mail legs]
         costs:
           1602: 875
 
-      - id: 255500 # Galactic Gladiator's Chain Leggings [mail legs]
+      - id: 270733 # Venomous Gladiator's Chain Leggings [mail legs]
         costs:
           1602: 875
 
-      - id: 255495 # Galactic Gladiator's Chain Boots [mail feet]
+      - id: 270728 # Venomous Gladiator's Chain Boots [mail feet]
         costs:
           1602: 700
 
-      - id: 255494 # Galactic Gladiator's Chain Sabatons [mail feet]
+      - id: 270727 # Venomous Gladiator's Chain Sabatons [mail feet]
         costs:
           1602: 700
 
-      # Hunter set=5576
+      # Hunter set=5789
 
-      - id: 255518 # Galactic Gladiator's Chain Faceguard [mail head]
+      - id: 270748 # Venomous Gladiator's Chain Faceguard [mail head]
         costs:
           1602: 875
 
-      - id: 255517 # Galactic Gladiator's Chain Helm [mail head]
+      - id: 270747 # Venomous Gladiator's Chain Helm [mail head]
         costs:
           1602: 875
 
-      - id: 255521 # Galactic Gladiator's Chain Monnion [mail shoulders]
+      - id: 270751 # Venomous Gladiator's Chain Monnion [mail shoulders]
         costs:
           1602: 700
 
-      - id: 255522 # Galactic Gladiator's Chain Shoulderguard [mail shoulders]
+      - id: 270752 # Venomous Gladiator's Chain Shoulderguard [mail shoulders]
         costs:
           1602: 700
 
-      - id: 255527 # Galactic Gladiator's Cloak [cloak]
+      - id: 270578 # Venomous Gladiator's Cloak [cloak]
         costs:
           1602: 525
 
-      - id: 255528 # Galactic Gladiator's Drape [cloak]
+      - id: 270579 # Venomous Gladiator's Drape [cloak]
         costs:
           1602: 525
 
-      - id: 255529 # Galactic Gladiator's Shawl [cloak]
+      - id: 270580 # Venomous Gladiator's Shawl [cloak]
         costs:
           1602: 525
 
-      - id: 255512 # Galactic Gladiator's Chain Tunic [mail chest]
+      - id: 270742 # Venomous Gladiator's Chain Tunic [mail chest]
         costs:
           1602: 875
 
-      - id: 255511 # Galactic Gladiator's Chain Vest [mail chest]
+      - id: 270741 # Venomous Gladiator's Chain Vest [mail chest]
         costs:
           1602: 875
 
-      - id: 255526 # Galactic Gladiator's Chain Bracers [mail wrists]
+      - id: 270756 # Venomous Gladiator's Chain Bracers [mail wrists]
         costs:
           1602: 525
 
-      - id: 255525 # Galactic Gladiator's Chain Wristguards [mail wrists]
+      - id: 270755 # Venomous Gladiator's Chain Wristguards [mail wrists]
         costs:
           1602: 525
 
-      - id: 255515 # Galactic Gladiator's Chain Gauntlets [mail hands]
+      - id: 270745 # Venomous Gladiator's Chain Gauntlets [mail hands]
         costs:
           1602: 700
 
-      - id: 255516 # Galactic Gladiator's Chain Handguards [mail hands]
+      - id: 270746 # Venomous Gladiator's Chain Handguards [mail hands]
         costs:
           1602: 700
 
-      - id: 255523 # Galactic Gladiator's Chain Belt [mail waist]
+      - id: 270753 # Venomous Gladiator's Chain Belt [mail waist]
         costs:
           1602: 700
 
-      - id: 255524 # Galactic Gladiator's Chain Girdle [mail waist]
+      - id: 270754 # Venomous Gladiator's Chain Girdle [mail waist]
         costs:
           1602: 700
 
-      - id: 255520 # Galactic Gladiator's Chain Breeches [mail legs]
+      - id: 270750 # Venomous Gladiator's Chain Breeches [mail legs]
         costs:
           1602: 875
 
-      - id: 255519 # Galactic Gladiator's Chain Leggings [mail legs]
+      - id: 270749 # Venomous Gladiator's Chain Leggings [mail legs]
         costs:
           1602: 875
 
-      - id: 255514 # Galactic Gladiator's Chain Boots [mail feet]
+      - id: 270744 # Venomous Gladiator's Chain Boots [mail feet]
         costs:
           1602: 700
 
-      - id: 255513 # Galactic Gladiator's Chain Sabatons [mail feet]
+      - id: 270743 # Venomous Gladiator's Chain Sabatons [mail feet]
         costs:
           1602: 700
 
-      # Mage set=5577
+      # Mage set=5782
 
-      - id: 255364 # Galactic Gladiator's Silk Cap [cloth head]
+      - id: 270620 # Venomous Gladiator's Silk Cap [cloth head]
         costs:
           1602: 875
 
-      - id: 255363 # Galactic Gladiator's Silk Hat [cloth head]
+      - id: 270619 # Venomous Gladiator's Silk Hat [cloth head]
         costs:
           1602: 875
 
-      - id: 255368 # Galactic Gladiator's Silk Amice [cloth shoulders]
+      - id: 270624 # Venomous Gladiator's Silk Amice [cloth shoulders]
         costs:
           1602: 700
 
-      - id: 255367 # Galactic Gladiator's Silk Mantle [cloth shoulders]
+      - id: 270623 # Venomous Gladiator's Silk Mantle [cloth shoulders]
         costs:
           1602: 700
 
-      - id: 255373 # Galactic Gladiator's Cloak [cloak]
+      - id: 270581 # Venomous Gladiator's Cloak [cloak]
         costs:
           1602: 525
 
-      - id: 255374 # Galactic Gladiator's Drape [cloak]
+      - id: 270582 # Venomous Gladiator's Drape [cloak]
         costs:
           1602: 525
 
-      - id: 255375 # Galactic Gladiator's Shawl [cloak]
+      - id: 270583 # Venomous Gladiator's Shawl [cloak]
         costs:
           1602: 525
 
-      - id: 255358 # Galactic Gladiator's Silk Gown [cloth chest]
+      - id: 270614 # Venomous Gladiator's Silk Gown [cloth chest]
         costs:
           1602: 875
 
-      - id: 255357 # Galactic Gladiator's Silk Robe [cloth chest]
+      - id: 270613 # Venomous Gladiator's Silk Robe [cloth chest]
         costs:
           1602: 875
 
-      - id: 255372 # Galactic Gladiator's Silk Armbands [cloth wrists]
+      - id: 270628 # Venomous Gladiator's Silk Armbands [cloth wrists]
         costs:
           1602: 525
 
-      - id: 255371 # Galactic Gladiator's Silk Wristwraps [cloth wrists]
+      - id: 270627 # Venomous Gladiator's Silk Wristwraps [cloth wrists]
         costs:
           1602: 525
 
-      - id: 255361 # Galactic Gladiator's Silk Gloves [cloth hands]
+      - id: 270617 # Venomous Gladiator's Silk Gloves [cloth hands]
         costs:
           1602: 700
 
-      - id: 255362 # Galactic Gladiator's Silk Handwraps [cloth hands]
+      - id: 270618 # Venomous Gladiator's Silk Handwraps [cloth hands]
         costs:
           1602: 700
 
-      - id: 255370 # Galactic Gladiator's Silk Belt [cloth waist]
+      - id: 270626 # Venomous Gladiator's Silk Belt [cloth waist]
         costs:
           1602: 700
 
-      - id: 255369 # Galactic Gladiator's Silk Cord [cloth waist]
+      - id: 270625 # Venomous Gladiator's Silk Cord [cloth waist]
         costs:
           1602: 700
 
-      - id: 255365 # Galactic Gladiator's Silk Leggings [cloth legs]
+      - id: 270621 # Venomous Gladiator's Silk Leggings [cloth legs]
         costs:
           1602: 875
 
-      - id: 255366 # Galactic Gladiator's Silk Trousers [cloth legs]
+      - id: 270622 # Venomous Gladiator's Silk Trousers [cloth legs]
         costs:
           1602: 875
 
-      - id: 255359 # Galactic Gladiator's Silk Slippers [cloth feet]
+      - id: 270615 # Venomous Gladiator's Silk Slippers [cloth feet]
         costs:
           1602: 700
 
-      - id: 255360 # Galactic Gladiator's Silk Treads [cloth feet]
+      - id: 270616 # Venomous Gladiator's Silk Treads [cloth feet]
         costs:
           1602: 700
 
-      # Monk set=5578
+      # Monk set=5775
 
-      - id: 255460 # Galactic Gladiator's Leather Helm [leather head]
+      - id: 270699 # Venomous Gladiator's Leather Helm [leather head]
         costs:
           1602: 875
 
-      - id: 255461 # Galactic Gladiator's Leather Mask [leather head]
+      - id: 270700 # Venomous Gladiator's Leather Mask [leather head]
         costs:
           1602: 875
 
-      - id: 255465 # Galactic Gladiator's Leather Shoulderpads [leather shoulders]
+      - id: 270704 # Venomous Gladiator's Leather Shoulderpads [leather shoulders]
         costs:
           1602: 700
 
-      - id: 255464 # Galactic Gladiator's Leather Spaulders [leather shoulders]
+      - id: 270703 # Venomous Gladiator's Leather Spaulders [leather shoulders]
         costs:
           1602: 700
 
-      - id: 255470 # Galactic Gladiator's Cloak [cloak]
+      - id: 270584 # Venomous Gladiator's Cloak [cloak]
         costs:
           1602: 525
 
-      - id: 255471 # Galactic Gladiator's Drape [cloak]
+      - id: 270585 # Venomous Gladiator's Drape [cloak]
         costs:
           1602: 525
 
-      - id: 255472 # Galactic Gladiator's Shawl [cloak]
+      - id: 270586 # Venomous Gladiator's Shawl [cloak]
         costs:
           1602: 525
 
-      - id: 255455 # Galactic Gladiator's Leather Jerkin [leather chest]
+      - id: 270694 # Venomous Gladiator's Leather Jerkin [leather chest]
         costs:
           1602: 875
 
-      - id: 255454 # Galactic Gladiator's Leather Vest [leather chest]
+      - id: 270693 # Venomous Gladiator's Leather Vest [leather chest]
         costs:
           1602: 875
 
-      - id: 255469 # Galactic Gladiator's Leather Wristguards [leather wrists]
+      - id: 270708 # Venomous Gladiator's Leather Wristguards [leather wrists]
         costs:
           1602: 525
 
-      - id: 255468 # Galactic Gladiator's Leather Wristwraps [leather wrists]
+      - id: 270707 # Venomous Gladiator's Leather Wristwraps [leather wrists]
         costs:
           1602: 525
 
-      - id: 255458 # Galactic Gladiator's Leather Gloves [leather hands]
+      - id: 270697 # Venomous Gladiator's Leather Gloves [leather hands]
         costs:
           1602: 700
 
-      - id: 255459 # Galactic Gladiator's Leather Grips [leather hands]
+      - id: 270698 # Venomous Gladiator's Leather Grips [leather hands]
         costs:
           1602: 700
 
-      - id: 255466 # Galactic Gladiator's Leather Belt [leather waist]
+      - id: 270705 # Venomous Gladiator's Leather Belt [leather waist]
         costs:
           1602: 700
 
-      - id: 255467 # Galactic Gladiator's Leather Strap [leather waist]
+      - id: 270706 # Venomous Gladiator's Leather Strap [leather waist]
         costs:
           1602: 700
 
-      - id: 255462 # Galactic Gladiator's Leather Breeches [leather legs]
+      - id: 270701 # Venomous Gladiator's Leather Breeches [leather legs]
         costs:
           1602: 875
 
-      - id: 255463 # Galactic Gladiator's Leather Legwraps [leather legs]
+      - id: 270702 # Venomous Gladiator's Leather Legwraps [leather legs]
         costs:
           1602: 875
 
-      - id: 255456 # Galactic Gladiator's Leather Boots [leather feet]
+      - id: 270695 # Venomous Gladiator's Leather Boots [leather feet]
         costs:
           1602: 700
 
-      - id: 255457 # Galactic Gladiator's Leather Treads [leather feet]
+      - id: 270696 # Venomous Gladiator's Leather Treads [leather feet]
         costs:
           1602: 700
 
-      # Paladin set=5579
+      # Paladin set=5768
 
-      - id: 255574 # Galactic Gladiator's Plate Helm [plate head]
+      - id: 270795 # Venomous Gladiator's Plate Helm [plate head]
         costs:
           1602: 875
 
-      - id: 255575 # Galactic Gladiator's Plate Helmet [plate head]
+      - id: 270796 # Venomous Gladiator's Plate Helmet [plate head]
         costs:
           1602: 875
 
-      - id: 255580 # Galactic Gladiator's Plate Pauldrons [plate shoulders]
+      - id: 270800 # Venomous Gladiator's Plate Pauldrons [plate shoulders]
         costs:
           1602: 700
 
-      - id: 255579 # Galactic Gladiator's Plate Shoulders [plate shoulders]
+      - id: 270799 # Venomous Gladiator's Plate Shoulders [plate shoulders]
         costs:
           1602: 700
 
-      - id: 255585 # Galactic Gladiator's Cloak [cloak]
+      - id: 270590 # Venomous Gladiator's Cloak [cloak]
         costs:
           1602: 525
 
-      - id: 255586 # Galactic Gladiator's Drape [cloak]
+      - id: 270591 # Venomous Gladiator's Drape [cloak]
         costs:
           1602: 525
 
-      - id: 255587 # Galactic Gladiator's Shawl [cloak]
+      - id: 270592 # Venomous Gladiator's Shawl [cloak]
         costs:
           1602: 525
 
-      - id: 255568 # Galactic Gladiator's Chestguard [plate chest]
+      - id: 270789 # Venomous Gladiator's Chestguard [plate chest]
         costs:
           1602: 875
 
-      - id: 255569 # Galactic Gladiator's Chestplate [plate chest]
+      - id: 270790 # Venomous Gladiator's Chestplate [plate chest]
         costs:
           1602: 875
 
-      - id: 255584 # Galactic Gladiator's Plate Vambraces [plate wrists]
+      - id: 270804 # Venomous Gladiator's Plate Vambraces [plate wrists]
         costs:
           1602: 525
 
-      - id: 255583 # Galactic Gladiator's Plate Wristguards [plate wrists]
+      - id: 270803 # Venomous Gladiator's Plate Wristguards [plate wrists]
         costs:
           1602: 525
 
-      - id: 255572 # Galactic Gladiator's Plate Gauntlets [plate hands]
+      - id: 270793 # Venomous Gladiator's Plate Gauntlets [plate hands]
         costs:
           1602: 700
 
-      - id: 255573 # Galactic Gladiator's Plate Handguards [plate hands]
+      - id: 270794 # Venomous Gladiator's Plate Handguards [plate hands]
         costs:
           1602: 700
 
-      - id: 255581 # Galactic Gladiator's Plate Girdle [plate waist]
+      - id: 270801 # Venomous Gladiator's Plate Girdle [plate waist]
         costs:
           1602: 700
 
-      - id: 255582 # Galactic Gladiator's Plate Greatbelt [plate waist]
+      - id: 270802 # Venomous Gladiator's Plate Greatbelt [plate waist]
         costs:
           1602: 700
 
-      - id: 255576 # Galactic Gladiator's Plate Legguards [plate legs]
+      - id: 270797 # Venomous Gladiator's Plate Legguards [plate legs]
         costs:
           1602: 875
 
-      - id: 255578 # Galactic Gladiator's Plate Tasses [plate legs]
+      - id: 270798 # Venomous Gladiator's Plate Tasses [plate legs]
         costs:
           1602: 875
 
-      - id: 255571 # Galactic Gladiator's Plate Stompers [plate feet]
+      - id: 270792 # Venomous Gladiator's Plate Stompers [plate feet]
         costs:
           1602: 700
 
-      - id: 255570 # Galactic Gladiator's Plate Warboots [plate feet]
+      - id: 270791 # Venomous Gladiator's Plate Warboots [plate feet]
         costs:
           1602: 700
 
-      # Priest set=5580
+      # Priest set=5761
 
-      - id: 255383 # Galactic Gladiator's Silk Guise [cloth head]
+      - id: 270636 # Venomous Gladiator's Silk Guise [cloth head]
         costs:
           1602: 875
 
-      - id: 255382 # Galactic Gladiator's Silk Hood [cloth head]
+      - id: 270635 # Venomous Gladiator's Silk Hood [cloth head]
         costs:
           1602: 875
 
-      - id: 255387 # Galactic Gladiator's Silk Amice [cloth shoulders]
+      - id: 270640 # Venomous Gladiator's Silk Amice [cloth shoulders]
         costs:
           1602: 700
 
-      - id: 255386 # Galactic Gladiator's Silk Mantle [cloth shoulders]
+      - id: 270639 # Venomous Gladiator's Silk Mantle [cloth shoulders]
         costs:
           1602: 700
 
-      - id: 255392 # Galactic Gladiator's Cloak [cloak]
+      - id: 270593 # Venomous Gladiator's Cloak [cloak]
         costs:
           1602: 525
 
-      - id: 255393 # Galactic Gladiator's Drape [cloak]
+      - id: 270594 # Venomous Gladiator's Drape [cloak]
         costs:
           1602: 525
 
-      - id: 255394 # Galactic Gladiator's Shawl [cloak]
+      - id: 270595 # Venomous Gladiator's Shawl [cloak]
         costs:
           1602: 525
 
-      - id: 255376 # Galactic Gladiator's Silk Robe [cloth chest]
+      - id: 270629 # Venomous Gladiator's Silk Robe [cloth chest]
         costs:
           1602: 875
 
-      - id: 255377 # Galactic Gladiator's Silk Vestments [cloth chest]
+      - id: 270630 # Venomous Gladiator's Silk Vestments [cloth chest]
         costs:
           1602: 875
 
-      - id: 255391 # Galactic Gladiator's Silk Armbands [cloth wrists]
+      - id: 270644 # Venomous Gladiator's Silk Armbands [cloth wrists]
         costs:
           1602: 525
 
-      - id: 255390 # Galactic Gladiator's Silk Wristwraps [cloth wrists]
+      - id: 270643 # Venomous Gladiator's Silk Wristwraps [cloth wrists]
         costs:
           1602: 525
 
-      - id: 255380 # Galactic Gladiator's Silk Gloves [cloth hands]
+      - id: 270633 # Venomous Gladiator's Silk Gloves [cloth hands]
         costs:
           1602: 700
 
-      - id: 255381 # Galactic Gladiator's Silk Handwraps [cloth hands]
+      - id: 270634 # Venomous Gladiator's Silk Handwraps [cloth hands]
         costs:
           1602: 700
 
-      - id: 255389 # Galactic Gladiator's Silk Belt [cloth waist]
+      - id: 270642 # Venomous Gladiator's Silk Belt [cloth waist]
         costs:
           1602: 700
 
-      - id: 255388 # Galactic Gladiator's Silk Cord [cloth waist]
+      - id: 270641 # Venomous Gladiator's Silk Cord [cloth waist]
         costs:
           1602: 700
 
-      - id: 255384 # Galactic Gladiator's Silk Leggings [cloth legs]
+      - id: 270637 # Venomous Gladiator's Silk Leggings [cloth legs]
         costs:
           1602: 875
 
-      - id: 255385 # Galactic Gladiator's Silk Trousers [cloth legs]
+      - id: 270638 # Venomous Gladiator's Silk Trousers [cloth legs]
         costs:
           1602: 875
 
-      - id: 255378 # Galactic Gladiator's Silk Slippers [cloth feet]
+      - id: 270631 # Venomous Gladiator's Silk Slippers [cloth feet]
         costs:
           1602: 700
 
-      - id: 255379 # Galactic Gladiator's Silk Treads [cloth feet]
+      - id: 270632 # Venomous Gladiator's Silk Treads [cloth feet]
         costs:
           1602: 700
 
-      # Rogue set=5581
+      # Rogue set=5754
 
-      - id: 255479 # Galactic Gladiator's Leather Helm [leather head]
+      - id: 270715 # Venomous Gladiator's Leather Helm [leather head]
         costs:
           1602: 875
 
-      - id: 255480 # Galactic Gladiator's Leather Mask [leather head]
+      - id: 270716 # Venomous Gladiator's Leather Mask [leather head]
         costs:
           1602: 875
 
-      - id: 255484 # Galactic Gladiator's Leather Shoulderpads [leather shoulders]
+      - id: 270720 # Venomous Gladiator's Leather Shoulderpads [leather shoulders]
         costs:
           1602: 700
 
-      - id: 255483 # Galactic Gladiator's Leather Spaulders [leather shoulders]
+      - id: 270719 # Venomous Gladiator's Leather Spaulders [leather shoulders]
         costs:
           1602: 700
 
-      - id: 255489 # Galactic Gladiator's Cloak [cloak]
+      - id: 270713 # Venomous Gladiator's Leather Gloves [leather hands]
         costs:
-          1602: 525
+          1602: 700
 
-      - id: 255490 # Galactic Gladiator's Drape [cloak]
+      - id: 270714 # Venomous Gladiator's Leather Grips [leather hands]
         costs:
-          1602: 525
+          1602: 700
 
-      - id: 255491 # Galactic Gladiator's Shawl [cloak]
+      - id: 270721 # Venomous Gladiator's Leather Belt [leather waist]
         costs:
-          1602: 525
+          1602: 700
 
-      - id: 255474 # Galactic Gladiator's Leather Jerkin [leather chest]
+      - id: 270722 # Venomous Gladiator's Leather Strap [leather waist]
         costs:
-          1602: 875
+          1602: 700
 
-      - id: 255473 # Galactic Gladiator's Leather Vest [leather chest]
+      - id: 270596 # Venomous Gladiator's Cloak [cloak]
         costs:
-          1602: 875
+          1602: 525
 
-      - id: 255488 # Galactic Gladiator's Leather Wristguards [leather wrists]
+      - id: 270597 # Venomous Gladiator's Drape [cloak]
         costs:
           1602: 525
 
-      - id: 255487 # Galactic Gladiator's Leather Wristwraps [leather wrists]
+      - id: 270598 # Venomous Gladiator's Shawl [cloak]
         costs:
           1602: 525
 
-      - id: 255477 # Galactic Gladiator's Leather Gloves [leather hands]
+      - id: 270710 # Venomous Gladiator's Leather Jerkin [leather chest]
         costs:
-          1602: 700
+          1602: 875
 
-      - id: 255478 # Galactic Gladiator's Leather Grips [leather hands]
+      - id: 270709 # Venomous Gladiator's Leather Vest [leather chest]
         costs:
-          1602: 700
+          1602: 875
 
-      - id: 255485 # Galactic Gladiator's Leather Belt [leather waist]
+      - id: 270724 # Venomous Gladiator's Leather Wristguards [leather wrists]
         costs:
-          1602: 700
+          1602: 525
 
-      - id: 255486 # Galactic Gladiator's Leather Strap [leather waist]
+      - id: 270723 # Venomous Gladiator's Leather Wristwraps [leather wrists]
         costs:
-          1602: 700
+          1602: 525
 
-      - id: 255481 # Galactic Gladiator's Leather Breeches [leather legs]
+      - id: 270717 # Venomous Gladiator's Leather Breeches [leather legs]
         costs:
           1602: 875
 
-      - id: 255482 # Galactic Gladiator's Leather Legwraps [leather legs]
+      - id: 270718 # Venomous Gladiator's Leather Legwraps [leather legs]
         costs:
           1602: 875
 
-      - id: 255475 # Galactic Gladiator's Leather Boots [leather feet]
+      - id: 270711 # Venomous Gladiator's Leather Boots [leather feet]
         costs:
           1602: 700
 
-      - id: 255476 # Galactic Gladiator's Leather Treads [leather feet]
+      - id: 270712 # Venomous Gladiator's Leather Treads [leather feet]
         costs:
           1602: 700
 
-      # Shaman set=5582
+      # Shaman set=5747
 
-      - id: 255537 # Galactic Gladiator's Chain Faceguard [mail head]
+      - id: 270764 # Venomous Gladiator's Chain Faceguard [mail head]
         costs:
           1602: 875
 
-      - id: 255536 # Galactic Gladiator's Chain Helm [mail head]
+      - id: 270763 # Venomous Gladiator's Chain Helm [mail head]
         costs:
           1602: 875
 
-      - id: 255540 # Galactic Gladiator's Chain Monnion [mail shoulders]
+      - id: 270767 # Venomous Gladiator's Chain Monnion [mail shoulders]
         costs:
           1602: 700
 
-      - id: 255541 # Galactic Gladiator's Chain Shoulderguard [mail shoulders]
+      - id: 270768 # Venomous Gladiator's Chain Shoulderguard [mail shoulders]
         costs:
           1602: 700
 
-      - id: 255546 # Galactic Gladiator's Cloak [cloak]
+      - id: 270599 # Venomous Gladiator's Cloak [cloak]
         costs:
           1602: 525
 
-      - id: 255547 # Galactic Gladiator's Drape [cloak]
+      - id: 270600 # Venomous Gladiator's Drape [cloak]
         costs:
           1602: 525
 
-      - id: 255548 # Galactic Gladiator's Shawl [cloak]
+      - id: 270601 # Venomous Gladiator's Shawl [cloak]
         costs:
           1602: 525
 
-      - id: 255531 # Galactic Gladiator's Chain Tunic [mail chest]
+      - id: 270758 # Venomous Gladiator's Chain Tunic [mail chest]
         costs:
           1602: 875
 
-      - id: 255530 # Galactic Gladiator's Chain Vest [mail chest]
+      - id: 270757 # Venomous Gladiator's Chain Vest [mail chest]
         costs:
           1602: 875
 
-      - id: 255545 # Galactic Gladiator's Chain Bracers [mail wrists]
+      - id: 270772 # Venomous Gladiator's Chain Bracers [mail wrists]
         costs:
           1602: 525
 
-      - id: 255544 # Galactic Gladiator's Chain Wristguards [mail wrists]
+      - id: 270771 # Venomous Gladiator's Chain Wristguards [mail wrists]
         costs:
           1602: 525
 
-      - id: 255534 # Galactic Gladiator's Chain Gauntlets [mail hands]
+      - id: 270761 # Venomous Gladiator's Chain Gauntlets [mail hands]
         costs:
           1602: 700
 
-      - id: 255535 # Galactic Gladiator's Chain Handguards [mail hands]
+      - id: 270762 # Venomous Gladiator's Chain Handguards [mail hands]
         costs:
           1602: 700
 
-      - id: 255542 # Galactic Gladiator's Chain Belt [mail waist]
+      - id: 270769 # Venomous Gladiator's Chain Belt [mail waist]
         costs:
           1602: 700
 
-      - id: 255543 # Galactic Gladiator's Chain Girdle [mail waist]
+      - id: 270770 # Venomous Gladiator's Chain Girdle [mail waist]
         costs:
           1602: 700
 
-      - id: 255539 # Galactic Gladiator's Chain Breeches [mail legs]
+      - id: 270766 # Venomous Gladiator's Chain Breeches [mail legs]
         costs:
           1602: 875
 
-      - id: 255538 # Galactic Gladiator's Chain Leggings [mail legs]
+      - id: 270765 # Venomous Gladiator's Chain Leggings [mail legs]
         costs:
           1602: 875
 
-      - id: 255533 # Galactic Gladiator's Chain Boots [mail feet]
+      - id: 270760 # Venomous Gladiator's Chain Boots [mail feet]
         costs:
           1602: 700
 
-      - id: 255532 # Galactic Gladiator's Chain Sabatons [mail feet]
+      - id: 270759 # Venomous Gladiator's Chain Sabatons [mail feet]
         costs:
           1602: 700
 
-      # Warlock set=5583
+      # Warlock set=5740
 
-      - id: 255402 # Galactic Gladiator's Silk Guise [cloth head]
+      - id: 270652 # Venomous Gladiator's Silk Guise [cloth head]
         costs:
           1602: 875
 
-      - id: 255401 # Galactic Gladiator's Silk Hood [cloth head]
+      - id: 270651 # Venomous Gladiator's Silk Hood [cloth head]
         costs:
           1602: 875
 
-      - id: 255407 # Galactic Gladiator's Silk Amice [cloth shoulders]
+      - id: 270656 # Venomous Gladiator's Silk Amice [cloth shoulders]
         costs:
           1602: 700
 
-      - id: 255406 # Galactic Gladiator's Silk Mantle [cloth shoulders]
+      - id: 270655 # Venomous Gladiator's Silk Mantle [cloth shoulders]
         costs:
           1602: 700
 
-      - id: 255412 # Galactic Gladiator's Cloak [cloak]
+      - id: 270607 # Venomous Gladiator's Cloak [cloak]
         costs:
           1602: 525
 
-      - id: 255413 # Galactic Gladiator's Drape [cloak]
+      - id: 270608 # Venomous Gladiator's Drape [cloak]
         costs:
           1602: 525
 
-      - id: 255414 # Galactic Gladiator's Shawl [cloak]
+      - id: 270609 # Venomous Gladiator's Shawl [cloak]
         costs:
           1602: 525
 
-      - id: 255395 # Galactic Gladiator's Silk Raiment [cloth chest]
+      - id: 270645 # Venomous Gladiator's Silk Raiment [cloth chest]
         costs:
           1602: 875
 
-      - id: 255396 # Galactic Gladiator's Silk Vestments [cloth chest]
+      - id: 270646 # Venomous Gladiator's Silk Vestments [cloth chest]
         costs:
           1602: 875
 
-      - id: 255411 # Galactic Gladiator's Silk Armbands [cloth wrists]
+      - id: 270660 # Venomous Gladiator's Silk Armbands [cloth wrists]
         costs:
           1602: 525
 
-      - id: 255410 # Galactic Gladiator's Silk Wristwraps [cloth wrists]
+      - id: 270659 # Venomous Gladiator's Silk Wristwraps [cloth wrists]
         costs:
           1602: 525
 
-      - id: 255399 # Galactic Gladiator's Silk Gloves [cloth hands]
+      - id: 270649 # Venomous Gladiator's Silk Gloves [cloth hands]
         costs:
           1602: 700
 
-      - id: 255400 # Galactic Gladiator's Silk Handwraps [cloth hands]
+      - id: 270650 # Venomous Gladiator's Silk Handwraps [cloth hands]
         costs:
           1602: 700
 
-      - id: 255409 # Galactic Gladiator's Silk Belt [cloth waist]
+      - id: 270658 # Venomous Gladiator's Silk Belt [cloth waist]
         costs:
           1602: 700
 
-      - id: 255408 # Galactic Gladiator's Silk Cord [cloth waist]
+      - id: 270657 # Venomous Gladiator's Silk Cord [cloth waist]
         costs:
           1602: 700
 
-      - id: 255404 # Galactic Gladiator's Silk Leggings [cloth legs]
+      - id: 270653 # Venomous Gladiator's Silk Leggings [cloth legs]
         costs:
           1602: 875
 
-      - id: 255405 # Galactic Gladiator's Silk Trousers [cloth legs]
+      - id: 270654 # Venomous Gladiator's Silk Trousers [cloth legs]
         costs:
           1602: 875
 
-      - id: 255397 # Galactic Gladiator's Silk Slippers [cloth feet]
+      - id: 270647 # Venomous Gladiator's Silk Slippers [cloth feet]
         costs:
           1602: 700
 
-      - id: 255398 # Galactic Gladiator's Silk Treads [cloth feet]
+      - id: 270648 # Venomous Gladiator's Silk Treads [cloth feet]
         costs:
           1602: 700
 
-      # Warrior set=5584
+      # Warrior set=5733
 
-      - id: 255594 # Galactic Gladiator's Plate Helm [plate head]
+      - id: 270811 # Venomous Gladiator's Plate Helm [plate head]
         costs:
           1602: 875
 
-      - id: 255595 # Galactic Gladiator's Plate Helmet [plate head]
+      - id: 270812 # Venomous Gladiator's Plate Helmet [plate head]
         costs:
           1602: 875
 
-      - id: 255599 # Galactic Gladiator's Plate Pauldrons [plate shoulders]
+      - id: 270816 # Venomous Gladiator's Plate Pauldrons [plate shoulders]
         costs:
           1602: 700
 
-      - id: 255598 # Galactic Gladiator's Plate Shoulders [plate shoulders]
+      - id: 270815 # Venomous Gladiator's Plate Shoulders [plate shoulders]
         costs:
           1602: 700
 
-      - id: 255604 # Galactic Gladiator's Cloak [cloak]
+      - id: 270610 # Venomous Gladiator's Cloak [cloak]
         costs:
           1602: 525
 
-      - id: 255605 # Galactic Gladiator's Drape [cloak]
+      - id: 270611 # Venomous Gladiator's Drape [cloak]
         costs:
           1602: 525
 
-      - id: 255606 # Galactic Gladiator's Shawl [cloak]
+      - id: 270612 # Venomous Gladiator's Shawl [cloak]
         costs:
           1602: 525
 
-      - id: 255588 # Galactic Gladiator's Chestguard [plate chest]
+      - id: 270805 # Venomous Gladiator's Chestguard [plate chest]
         costs:
           1602: 875
 
-      - id: 255589 # Galactic Gladiator's Chestplate [plate chest]
+      - id: 270806 # Venomous Gladiator's Chestplate [plate chest]
         costs:
           1602: 875
 
-      - id: 255603 # Galactic Gladiator's Plate Vambraces [plate wrists]
+      - id: 270820 # Venomous Gladiator's Plate Vambraces [plate wrists]
         costs:
           1602: 525
 
-      - id: 255602 # Galactic Gladiator's Plate Wristguards [plate wrists]
+      - id: 270819 # Venomous Gladiator's Plate Wristguards [plate wrists]
         costs:
           1602: 525
 
-      - id: 255592 # Galactic Gladiator's Plate Gauntlets [plate hands]
+      - id: 270809 # Venomous Gladiator's Plate Gauntlets [plate hands]
         costs:
           1602: 700
 
-      - id: 255593 # Galactic Gladiator's Plate Handguards [plate hands]
+      - id: 270810 # Venomous Gladiator's Plate Handguards [plate hands]
         costs:
           1602: 700
 
-      - id: 255600 # Galactic Gladiator's Plate Girdle [plate waist]
+      - id: 270817 # Venomous Gladiator's Plate Girdle [plate waist]
         costs:
           1602: 700
 
-      - id: 255601 # Galactic Gladiator's Plate Greatbelt [plate waist]
+      - id: 270818 # Venomous Gladiator's Plate Greatbelt [plate waist]
         costs:
           1602: 700
 
-      - id: 255596 # Galactic Gladiator's Plate Legguards [plate legs]
+      - id: 270813 # Venomous Gladiator's Plate Legguards [plate legs]
         costs:
           1602: 875
 
-      - id: 255597 # Galactic Gladiator's Plate Wargreaves [plate legs]
+      - id: 270814 # Venomous Gladiator's Plate Wargreaves [plate legs]
         costs:
           1602: 875
 
-      - id: 255591 # Galactic Gladiator's Plate Stompers [plate feet]
+      - id: 270808 # Venomous Gladiator's Plate Stompers [plate feet]
         costs:
           1602: 700
 
-      - id: 255590 # Galactic Gladiator's Plate Warboots [plate feet]
+      - id: 270807 # Venomous Gladiator's Plate Warboots [plate feet]
         costs:
           1602: 700
+
+      # Weapons
 
-      # 0 set=5598
+      - id: 270828 # Venomous Gladiator's Chopper [1h ? axe]
+        costs:
+          1602: 875
 
-      - id: 255627 # Galactic Gladiator's Hammer [1h ? mace]
+      - id: 270830 # Venomous Gladiator's Slicer [1h ? axe]
         costs:
           1602: 875
 
-      - id: 255639 # Galactic Gladiator's Mace [1h ? mace]
+      - id: 270830 # Venomous Gladiator's Slicer [1h ? axe]
         costs:
           1602: 1225
 
-      - id: 255624 # Galactic Gladiator's Scepter [1h ? mace]
+      - id: 270829 # Venomous Gladiator's Splitter [1h ? axe]
+        costs:
+          1602: 875
+
+      - id: 270825 # Venomous Gladiator's Crusher [1h ? mace]
         costs:
           1602: 1225
 
-      - id: 255636 # Galactic Gladiator's Gladius [1h ? sword]
-        costs:
-          1602: 875
-
-      - id: 255635 # Galactic Gladiator's Sword [1h ? sword]
-        costs:
-          1602: 875
-
-      - id: 255619 # Galactic Gladiator's Dagger [? dagger]
-        costs:
-          1602: 875
-
-      - id: 255628 # Galactic Gladiator's Shattered Blade [? dagger]
+      - id: 270827 # Venomous Gladiator's Cudgel [1h ? mace]
         costs:
           1602: 1225
 
-      - id: 267371 # Galactic Gladiator's Ripper [fist]
+      - id: 270826 # Venomous Gladiator's Mace [1h ? mace]
         costs:
           1602: 1225
 
-      - id: 255629 # Galactic Gladiator's Slicer [fist]
+      - id: 270831 # Venomous Gladiator's Blade [1h ? sword]
         costs:
           1602: 875
 
-      - id: 255620 # Galactic Gladiator's Warglaive [warglaive]
+      - id: 270833 # Venomous Gladiator's Spellblade [1h ? sword]
         costs:
           1602: 875
 
-      - id: 265601 # Galactic Gladiator's Greataxe [2h ? axe]
+      - id: 270833 # Venomous Gladiator's Spellblade [1h ? sword]
+        costs:
+          1602: 1225
+
+      - id: 270832 # Venomous Gladiator's Sword [1h ? sword]
+        costs:
+          1602: 875
+
+      - id: 270821 # Venomous Gladiator's Shank [? dagger]
+        costs:
+          1602: 875
+
+      - id: 270822 # Venomous Gladiator's Spine [? dagger]
+        costs:
+          1602: 1225
+
+      - id: 270823 # Venomous Gladiator's Incisors [fist]
+        costs:
+          1602: 875
+
+      - id: 270824 # Venomous Gladiator's Rippers [fist]
+        costs:
+          1602: 1225
+
+      - id: 270834 # Venomous Gladiator's Edge [warglaive]
+        costs:
+          1602: 875
+
+      - id: 270835 # Venomous Gladiator's Battleaxe [2h ? axe]
         costs:
           1602: 1750
 
-      - id: 255634 # Galactic Gladiator's Morningstar [2h ? mace]
+      - id: 270836 # Venomous Gladiator's Cleaver [2h ? axe]
         costs:
           1602: 1750
 
-      - id: 255633 # Galactic Gladiator's Greatsword [2h ? sword]
+      - id: 270837 # Venomous Gladiator's Reaper [2h ? axe]
         costs:
           1602: 1750
 
-      - id: 255621 # Galactic Gladiator's Polearm [polearm]
+      - id: 284846 # Venomous Gladiator's Smasher [2h ? mace]
         costs:
           1602: 1750
 
-      - id: 255637 # Galactic Gladiator's Battlestaff [staff]
+      - id: 270851 # Venomous Gladiator's Claymore [2h ? sword]
         costs:
           1602: 1750
 
-      - id: 255631 # Galactic Gladiator's Greatstaff [staff]
+      - id: 270853 # Venomous Gladiator's Greatblade [2h ? sword]
         costs:
           1602: 1750
 
-      - id: 255622 # Galactic Gladiator's Staff [staff]
+      - id: 270852 # Venomous Gladiator's Warblade [2h ? sword]
         costs:
           1602: 1750
 
-      - id: 255623 # Galactic Gladiator's Bow [bow]
+      - id: 270843 # Venomous Gladiator's Spear [polearm]
         costs:
           1602: 1750
 
-      - id: 255630 # Galactic Gladiator's Blaster [gun]
+      - id: 270844 # Venomous Gladiator's Spike [staff]
         costs:
           1602: 1750
 
-      - id: 255638 # Galactic Gladiator's Focus [off-hand]
+      - id: 270845 # Venomous Gladiator's Staff [staff]
+        costs:
+          1602: 1750
+
+      - id: 270846 # Venomous Gladiator's Stave [staff]
+        costs:
+          1602: 1750
+
+      - id: 270838 # Venomous Gladiator's Bow [bow]
+        costs:
+          1602: 1750
+
+      - id: 270839 # Venomous Gladiator's Spitter [gun]
+        costs:
+          1602: 1750
+
+      - id: 270847 # Venomous Gladiator's Scepter [off-hand]
         costs:
           1602: 525
 
-      - id: 255625 # Galactic Gladiator's Tome [off-hand]
+      - id: 270848 # Venomous Gladiator's Sigil [off-hand]
         costs:
           1602: 525
 
-      - id: 255632 # Galactic Gladiator's Bulwark [shield]
+      - id: 270849 # Venomous Gladiator's Scaleshield [shield]
         costs:
           1602: 525
 
-      - id: 255626 # Galactic Gladiator's Shield [shield]
+      - id: 270850 # Venomous Gladiator's Spikeshield [shield]
         costs:
           1602: 525
