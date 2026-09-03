@@ -1,0 +1,120 @@
+things:
+  - id: 272751
+    type: "vendor"
+    name: "Skull of Er'inye"
+    note: "Venomous Goods"
+
+    locations:
+      here: # vaults_of_atalutek
+        - 51.2 62.4
+
+    contents:
+
+      - id: 275654 # Caustic Venomfang [mount]
+        costs:
+          3448: 10000
+
+      - id: 275631 # Corrosive Writhling [pet]
+        costs:
+          3448: 5000
+
+      - id: 275632 # Volatile Venomfang [pet]
+        costs:
+          3448: 5000
+
+      - id: 271888 # Recipe: Liquid Luster [alchemy]
+        costs:
+          3448: 2500 # Corrosive Coin
+          3256: 150 # Artisan Alchemist's Moxie
+
+      - id: 279358 # Arsenal: Venom-Cursed Arms
+        costs:
+          3448: 25000
+
+      - id: 279230 # Ensemble: Venom-Cursed Bear's Guard
+        costs:
+          3448: 10000
+
+      - id: 279224 # Ensemble: Venom-Cursed Dragonhawk's Raiment
+        costs:
+          3448: 10000
+
+      - id: 279228 # Ensemble: Venom-Cursed Eagle's Scales
+        costs:
+          3448: 10000
+
+      - id: 279227 # Ensemble: Venom-Cursed Lynx's Garb
+        costs:
+          3448: 10000
+
+      - id: 279922 # Altar of Corrosion
+        costs:
+          3448: 2500
+
+      - id: 275628 # Cauldron of Ula'tek
+        costs:
+          3448: 750
+
+      - id: 271358 # Clutch of Ula'tek
+        costs:
+          3448: 750
+
+      - id: 281620 # Corrosive Cache
+        costs:
+          3448: 1500
+
+      - id: 271604 # Egg of Ula'tek
+        costs:
+          3448: 500
+
+      - id: 269637 # Serpent-Caller Spike
+        costs:
+          3448: 750
+
+      - id: 266169 # Soulcoiler Canopy
+        costs:
+          3448: 750
+
+      - id: 279919 # Soulcoiler Jaw
+        costs:
+          3448: 1500
+
+      - id: 275578 # Soulcoiler Sconce
+        costs:
+          3448: 500
+
+      - id: 279917 # Soulcoiler Skull
+        costs:
+          3448: 1500
+
+      - id: 253473 # Unearthed Amani Sarcophagus Base
+        costs:
+          3448: 750
+
+      - id: 253455 # Unearthed Amani Sarcophagus Lid
+        costs:
+          3448: 500
+
+      - id: 267378 # Venom Scholar's Focus
+        costs:
+          3448: 500
+
+      - id: 272362 # Venombound Ropes
+        costs:
+          3448: 750
+
+      - id: 280764 # Venomous Defender's Barricade
+        costs:
+          3448: 750
+
+      - id: 281577 # Venomous Globule
+        costs:
+          3448: 500
+
+      - id: 271850 # Venomous Tendril
+        costs:
+          3448: 500
+
+      - id: 281573 # Venomous Thread
+        costs:
+          3448: 500
