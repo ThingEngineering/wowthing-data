@@ -6,7 +6,7 @@ groups:
   sets:
     - "Renown"
     - "World Quests"
-    - "Dungeons / Vaults"
+    - "Dungeon / Vault Armor"
   data:
     cloth:
       # Vestments of Jan'alai's Chosen [Renown]
@@ -63,9 +63,26 @@ groups:
 - name: "The Coiled Isle"
   type: all
   sets:
+    - "Vault Weapons"
     - "Venom Fishing Weapons"
   data:
     all:
+      - name: "Vault Weapons"
+        itemsV2:
+          - 277803 # Venom-Cursed Spellcarver [1h axe]
+          - 277799 # Venom-Cursed Cudgel [1h mace]
+          - 277808 # Venom-Cursed Gladius [1h sword]
+          - 277805 # Venom-Cursed Dirk [dagger]
+          - 277801 # Venom-Cursed Boneglaive [warglaive]
+          - 277802 # Venom-Cursed Guillotine [2h axe]
+          - 277809 # Venom-Cursed Claymore [2h sword]
+          - 277806 # Venom-Cursed Hidepiercer [polearm]
+          - 277807 # Venom-Cursed Ritual Staff [stave]
+          - 277804 # Venom-Cursed Longbow [bow]
+          - 277800 # Venom-Cursed Focus [wand]
+          - 277798 # Venom-Cursed Spellfang [off-hand]
+          - 277810 # Venom-Cursed Aegis [shield]
+
       - name: "Venom Fishing Weapons"
         itemsV2:
           - 274805 # Envenomed Chopper [1h axe]
