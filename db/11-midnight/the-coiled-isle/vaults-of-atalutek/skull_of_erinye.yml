@@ -47,6 +47,8 @@ things:
         costs:
           3448: 10000
 
+      # Decor
+
       - id: 279922 # Altar of Corrosion
         costs:
           3448: 2500

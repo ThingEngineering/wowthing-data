@@ -63,10 +63,34 @@ groups:
 - name: "The Coiled Isle"
   type: all
   sets:
+    - "World Quest Weapons"
     - "Vault Weapons"
     - "Venom Fishing Weapons"
   data:
     all:
+      - name: "World Quest Weapons"
+        itemsV2:
+          - 276057 # Cryptbound Scepter
+          - 276051 # Fangmouth Warspear
+          - 276059 # Headhunter's Hacker
+          - 276060 # Hexxer's Blastin' Rod
+          - 276062 # Hydra Neckchopper
+          - 276044 # Loa-Infused Battlestaff
+          - 276058 # Ruinous Slitherslicer
+          - 276054 # Serpentvine Machete
+          - 276053 # Snakehunter's Warglaive
+          - 276049 # Snakeslayer's Claymore
+          - 276055 # Soulweaver's Curseblade
+          - 276046 # Superclutch Smasher
+          - 276047 # Swamp Whomper
+          - 276042 # Templetusk Shield
+          - 276045 # Trailblazing Soulblade
+          - 276052 # Venomshot Greatbow
+          - 276050 # Victorious Spiritstaff
+          - 276043 # Vilefang Censer
+          - 276048 # Vipersbane Dagger
+          - 276061 # Witch Doctor's Bloodletter
+
       - name: "Vault Weapons"
         itemsV2:
           - 277803 # Venom-Cursed Spellcarver [1h axe]
