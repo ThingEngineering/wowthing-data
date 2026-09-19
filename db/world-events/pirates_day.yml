@@ -1,0 +1,52 @@
+tags:
+  - "event:pirates-day"
+
+things:
+
+  - id: 28048
+    type: "vendor"
+    name: "Dread Captain DeMeza"
+    note: "Scourge of the South Seas"
+
+    locations:
+      here: # the_cape_of_stranglethorn
+        - 40 72.6
+
+    contents:
+
+      - id: 208858 # Highland Drake: Pirates' Day Armor
+        costs:
+          0: 50000 # Gold
+
+      - id: 217373 # Frenzied Hat of the Dark Depths [subclass=5 head]
+        costs:
+          0: 1000 # Gold
+
+  - id: 122396
+    type: "vendor"
+    name: "Edward Techt"
+    note: "Keeper of the Black"
+
+    locations:
+      here: # the_cape_of_stranglethorn
+        - 39.6 84.2
+
+    contents:
+
+      - id: 150547 # Jolly Roger
+        costs:
+          0: 10 # Gold
+
+  - id: 108715
+    type: "npc"
+    name: "Ol' Eary"
+    reset: "daily"
+    trackingQuestId: 
+
+    locations:
+      here: # the_cape_of_stranglethorn
+        - 37.8 66.2
+
+    contents:
+
+      - id: 138415 # Slightly-Chewed Insult Book [toy]
