@@ -21,6 +21,10 @@ things:
       - id: 217373 # Frenzied Hat of the Dark Depths [subclass=5 head]
         costs:
           0: 1000 # Gold
+      
+      - id: 280333 # Pirate's Eyepatch
+        costs:
+          0: 1000 # Gold
 
   - id: 122396
     type: "vendor"
