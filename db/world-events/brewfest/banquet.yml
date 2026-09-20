@@ -5,16 +5,28 @@ things:
     trackingQuestId: 90118
 
     contents:
-      - id: 241232 # Brewer's Basic Shoulder Cape
-      - id: 241341 # Brewer's Blue Shoulder Cape
       - id: 241343 # Brewer's Basic Beret
-      - id: 241345 # Brewer's Blue Beret
-      - id: 241347 # Brewer's Basic Kilt
-      - id: 241350 # Brewer's Blue Kilt
-      - id: 249857 # Brewer's Blue Belt
+      - id: 241232 # Brewer's Basic Shoulder Cape
       - id: 249858 # Brewer's Basic Belt
-      - id: 245950 # Dark Iron Portable Forge
-      - id: 245955 # Dark Iron's Ceremonial Mace
-      - id: 245959 # Dark Iron's Crystal Ward
-      - id: 246784 # Dark Iron's Ancient Crusher
-      - id: 246801 # Dark Iron's Mighty Crossbow
+      - id: 241347 # Brewer's Basic Kilt
+
+      - id: 241345 # Brewer's Blue Beret
+      - id: 241341 # Brewer's Blue Shoulder Cape
+      - id: 249857 # Brewer's Blue Belt
+      - id: 241350 # Brewer's Blue Kilt
+
+      - id: 279531 # Brewer's Purple Beret
+      - id: 279529 # Brewer's Purple Shoulder Cape
+      - id: 279530 # Brewer's Purple Belt
+      - id: 279524 # Brewer's Purple Kilt
+
+      - id: 279532 # Brewer's Red Beret
+      - id: 279533 # Brewer's Red Shoulder Cape
+      - id: 279535 # Brewer's Red Belt
+      - id: 279534 # Brewer's Red Kilt
+
+      - id: 245950 # Dark Iron Portable Forge [back]
+      - id: 245955 # Dark Iron's Ceremonial Mace [1h mace]
+      - id: 246784 # Dark Iron's Ancient Crusher [2h mace]
+      - id: 246801 # Dark Iron's Mighty Crossbow [crossbow]
+      - id: 245959 # Dark Iron's Crystal Ward [off-hand]

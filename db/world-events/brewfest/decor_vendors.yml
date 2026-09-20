@@ -1,0 +1,36 @@
+things:
+  - id: 271372
+    name: "Fizz Alechux"
+    type: "vendor"
+
+    # locations:
+    #   00-classic/durotar:
+    #     - 50 50 
+
+    contents: &contents
+
+      - id: 280339 # Brewfest Fence
+        costs:
+          1037829: 50
+
+      - id: 280341 # Brewfest Fencepost
+        costs:
+          1037829: 50
+
+      - id: 280343 # Hanging Brewfest Wreath
+        costs:
+          1037829: 75
+
+      - id: 280337 # Traditional Brewfest Banner
+        costs:
+          1037829: 125
+
+  - id: 271603
+    name: ""
+    type: "vendor"
+
+    # locations:
+    #   00-classic/dun_morogh:
+    #     - 0 0
+
+    contents: *contents
