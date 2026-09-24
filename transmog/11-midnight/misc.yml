@@ -309,10 +309,10 @@ groups:
           - 237927 # Dawnforged Edge
           - 237928 # Dawnforged Long Blade
           - 237926 # Dawnforged Ritual Knife
-          - 237931 # Dawnforged Splitter
-          - 237930 # Dawnforged War Mace
-          - 237932 # Primalforged Heavy Axe
-          - 237929 # Primalforged Knuckles
+          - 237931_6 # Dawnforged Splitter
+          - 237930_6 # Dawnforged War Mace
+          - 237932_6 # Primalforged Heavy Axe
+          - 237929_6 # Primalforged Knuckles
 
       - name: "Enchanting/Engineering/Inscription Weapons"
         itemsV2:
