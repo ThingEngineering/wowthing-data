@@ -56,6 +56,7 @@
     05-warlords-of-draenor/raid_skips.yml
 
 04-mists-of-pandaria/_.yml
+    04-mists-of-pandaria/storyline_5_1.yml
     04-mists-of-pandaria/dungeons.yml
     04-mists-of-pandaria/travel.yml
     04-mists-of-pandaria/isle_of_thunder.yml

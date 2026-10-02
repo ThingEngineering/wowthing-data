@@ -1,0 +1,14 @@
+name: "[5.1] Landfall"
+groups:
+
+- name: "Landfall"
+  icon: "achievement/7929" # Dominance Offensive Campaign
+  iconText: "5.1"
+  lookup: faction
+  type: questline
+  data:
+    alliance:
+      - id: 5497 # Operation: Shieldwall
+
+    horde:
+      - id: 5499 # Dominance Offensive
