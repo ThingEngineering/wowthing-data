@@ -1,0 +1,100 @@
+name: "Battle for Mount Hyjal"
+groups:
+
+  - name: "The Vials of Eternity"
+    icon: "item/29906"
+    iconText: "Vials"
+    minimumLevel: 30
+    type: quest
+    data:
+      0:
+        - id: 10445 13432 # removed, current
+          name: "The Vials of Eternity"
+
+  - name: "Band of the Eternal Champion"
+    icon: "item/29301"
+    iconText: "Cham"
+    minimumLevel: 30
+    type: quest
+    data:
+      0:
+        - id: 10462
+          name: "Champion's Pledge"
+        
+        - id: 10466
+          name: "Champion's Vow"
+          description: "Requires Honored with Scale of the Sands"
+        
+        - id: 10470
+          name: "Champion's Oath"
+          description: "Requires Revered with Scale of the Sands"
+        
+        - id: 10474
+          name: "Champion's Covenant"
+          description: "Requires Exalted with Scale of the Sands"
+
+  - name: "Band of the Eternal Defender"
+    icon: "item/29301"
+    iconText: "Def"
+    minimumLevel: 30
+    type: quest
+    data:
+      0:
+        - id: 10460
+          name: "Defender's Pledge"
+        
+        - id: 10467
+          name: "Defender's Vow"
+          description: "Requires Honored with Scale of the Sands"
+        
+        - id: 10471
+          name: "Defender's Oath"
+          description: "Requires Revered with Scale of the Sands"
+        
+        - id: 10475
+          name: "Defender's Covenant"
+          description: "Requires Exalted with Scale of the Sands"
+
+  - name: "Band of the Eternal Restorer"
+    icon: "item/29301"
+    iconText: "Rest"
+    minimumLevel: 30
+    type: quest
+    data:
+      0:
+        - id: 10461
+          name: "Restorer's Pledge"
+        
+        - id: 10465
+          name: "Restorer's Vow"
+          description: "Requires Honored with Scale of the Sands"
+        
+        - id: 10469
+          name: "Restorer's Oath"
+          description: "Requires Revered with Scale of the Sands"
+        
+        - id: 10473
+          name: "Restorer's Covenant"
+          description: "Requires Exalted with Scale of the Sands"
+
+  - name: "Band of the Eternal Sage"
+    icon: "item/29301"
+    iconText: "Sage"
+    minimumLevel: 30
+    type: quest
+    data:
+      0:
+        - id: 10463
+          name: "Sage's Pledge"
+        
+        - id: 10464
+          name: "Sage's Vow"
+          description: "Requires Honored with Scale of the Sands"
+        
+        - id: 10468
+          name: "Sage's Oath"
+          description: "Requires Revered with Scale of the Sands"
+        
+        - id: 10472
+          name: "Sage's Covenant"
+          description: "Requires Exalted with Scale of the Sands"
