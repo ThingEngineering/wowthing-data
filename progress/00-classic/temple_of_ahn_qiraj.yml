@@ -1,0 +1,78 @@
+name: "Temple of Ahn'Qiraj"
+groups:
+
+  - name: "Mortal Champions"
+    icon: "item/21229"
+    minimumLevel: 30
+    type: quest
+    data:
+      0:
+        - id: 8579
+          name: "Mortal Champions"
+          description: "First turn-in of {item:21229}"
+
+  - name: "Conqueror Rings"
+    icon: "item/21204"
+    iconText: "Conq"
+    minimumLevel: 30
+    type: quest
+    data:
+      0:
+        - id: 8752
+          name: "Neutral Ring"
+        
+        - id: 8753
+          name: "Friendly Ring"
+        
+        - id: 8754
+          name: "Honored Ring"
+        
+        - id: 8755
+          name: "Revered Ring"
+        
+        - id: 8756
+          name: "Exalted Ring"
+
+  - name: "Invoker Rings"
+    icon: "item/21204"
+    iconText: "Invo"
+    minimumLevel: 30
+    type: quest
+    data:
+      0:
+        - id: 8757
+          name: "Neutral Ring"
+        
+        - id: 8758
+          name: "Friendly Ring"
+        
+        - id: 8759
+          name: "Honored Ring"
+        
+        - id: 8760
+          name: "Revered Ring"
+        
+        - id: 8761
+          name: "Exalted Ring"
+
+  - name: "Protector Rings"
+    icon: "item/21204"
+    iconText: "Prot"
+    minimumLevel: 30
+    type: quest
+    data:
+      0:
+        - id: 8747
+          name: "Neutral Ring"
+        
+        - id: 8748
+          name: "Friendly Ring"
+        
+        - id: 8749
+          name: "Honored Ring"
+        
+        - id: 8750
+          name: "Revered Ring"
+        
+        - id: 8751
+          name: "Exalted Ring"
