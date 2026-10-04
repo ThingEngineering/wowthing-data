@@ -1,0 +1,203 @@
+things:
+  - type: vendor
+    name: "2026-09"
+    id: 1202609
+
+    groups:
+      - name: "2026-09"
+        range: -1
+        sortKey: "tp-7403" # (100-YY)(12-MM)
+
+    contents:
+
+      - id: 247793 # Cinder-Plumed Highland Gryphon [mount]
+        costs:
+          2032: 650
+
+      - id: 278574 # Crested Aqua Leafmimic [mount]
+        costs:
+          2032: 500
+
+      - id: 278575 # Crested Verdant Leafmimic [mount]
+        costs:
+          2032: 500
+
+      - id: 247795 # Ornery Breezestrider [mount]
+        costs:
+          2032: 325
+
+      - id: 228765 # Gummi [pet]
+        costs:
+          2032: 250
+
+      - id: 248309 # Ensemble: The Speaker's Ceremonial Collection
+        costs:
+          2032: 575
+
+      - id: 242485 # Ensemble: Aquatic Sweatsuit
+        costs:
+          2032: 100
+
+      - id: 242462 # Ensemble: Brick Sweatsuit
+        costs:
+          2032: 100
+
+      - id: 258019 # Ensemble: Sorcerer's Aquatic Garb
+        costs:
+          2032: 100
+
+      - id: 257979 # Ensemble: Sorcerer's Brick Garb
+        costs:
+          2032: 100
+
+      - id: 279443 # Aquatic Gloomcap [head]
+        costs:
+          2032: 50
+
+      - id: 252750 # Aquatic Winter Toque [head]
+        costs:
+          2032: 50
+
+      - id: 279435 # Brick Gloomcap [head]
+        costs:
+          2032: 50
+
+      - id: 252742 # Brick Winter Toque [head]
+        costs:
+          2032: 50
+
+      - id: 270295 # Crown of Aquatic Springflowers [head]
+        costs:
+          2032: 50
+
+      - id: 270287 # Crown of Brick Springflowers [head]
+        costs:
+          2032: 50
+
+      - id: 274635 # Gunslinger's Aquatic Lid [head]
+        costs:
+          2032: 50
+
+      - id: 274627 # Gunslinger's Brick Lid [head]
+        costs:
+          2032: 50
+
+      - id: 262870 # Aquatic Dunecloth Vest [chest]
+        costs:
+          2032: 35
+
+      - id: 262862 # Brick Dunecloth Vest [chest]
+        costs:
+          2032: 35
+
+      - id: 275237 # Dragon's Eye Diamond Bracelet of Friendship [wrist]
+        costs:
+          2032: 50
+
+      - id: 275230 # Moonstone Bracelet of Friendship [wrist]
+        costs:
+          2032: 50
+
+      - id: 275232 # Moss Agate Bracelet of Friendship [wrist]
+        costs:
+          2032: 50
+
+      - id: 275231 # Souldarite Bracelet of Friendship [wrist]
+        costs:
+          2032: 50
+
+      - id: 275235 # Star Ruby Bracelet of Friendship [wrist]
+        costs:
+          2032: 50
+
+      - id: 262852 # Aquatic Dunecloth Belt [waist]
+        costs:
+          2032: 30
+
+      - id: 262844 # Brick Dunecloth Belt [waist]
+        costs:
+          2032: 30
+
+      - id: 262834 # Aquatic Dunecloth Skirt [legs]
+        costs:
+          2032: 35
+
+      - id: 262826 # Brick Dunecloth Skirt [legs]
+        costs:
+          2032: 35
+
+      - id: 274065 # Bandit's Aquatic Highboot [feet]
+        costs:
+          2032: 40
+
+      - id: 274057 # Bandit's Brick Highboot [feet]
+        costs:
+          2032: 40
+
+      - id: 228761 # Classic Brick Tabard [tabard]
+        costs:
+          2032: 100
+
+      - id: 228763 # Classic Crimson Tabard [tabard]
+        costs:
+          2032: 100
+
+      - id: 228762 # Classic Lively Tabard [tabard]
+        costs:
+          2032: 100
+
+      - id: 276405 # Elegant Draenite Chopper [1h axe]
+        costs:
+          2032: 150
+
+      - id: 276408 # Elegant Pyrestone Chopper [1h axe]
+        costs:
+          2032: 150
+
+      - id: 276406 # Elegant Talasite Chopper [1h axe]
+        costs:
+          2032: 150
+
+      - id: 275066 # Foxton's Song of Strength [1h axe]
+        costs:
+          2032: 150
+
+      - id: 275063 # Foxton's Song of Warmth [1h axe]
+        costs:
+          2032: 150
+
+      - id: 276413 # Ceremonial Draenite War Maul [1h mace]
+        costs:
+          2032: 150
+
+      - id: 276416 # Ceremonial Pyrestone War Maul [1h mace]
+        costs:
+          2032: 150
+
+      - id: 276414 # Ceremonial Talasite War Maul [1h mace]
+        costs:
+          2032: 150
+
+      - id: 276409 # Grand Draenite War Axe [2h axe]
+        costs:
+          2032: 150
+
+      - id: 276412 # Grand Pyrestone War Axe [2h axe]
+        costs:
+          2032: 150
+
+      - id: 276410 # Grand Talasite War Axe [2h axe]
+        costs:
+          2032: 150
+
+      - id: 276417 # Battle-Hardened Draenite War Maul [2h mace]
+        costs:
+          2032: 150
+
+      - id: 276421 # Battle-Hardened Pyrestone War Maul [2h mace]
+        costs:
+          2032: 150
+
+      - id: 276418 # Battle-Hardened Talasite War Maul [2h mace]
+        costs:
+          2032: 150
