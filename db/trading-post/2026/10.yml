@@ -1,0 +1,195 @@
+things:
+  - type: vendor
+    name: "2026-10"
+    id: 1202610
+
+    groups:
+      - name: "2026-10"
+        range: -1
+        sortKey: "tp-7402" # (100-YY)(12-MM)
+
+    contents:
+
+      - id: 247723 # The Headless Horseman's Hallowed Charger [mount]
+        costs:
+          2032: 750
+
+      - id: 93671 # Ghastly Charger's Skull [mount]
+        costs:
+          2032: 700
+
+      - id: 250191 # Reins of the Bilebound Ur'zul [mount]
+        costs:
+          2032: 700
+
+      - id: 277282 # Archmage's Familiar [pet]
+        costs:
+          2032: 350
+
+      - id: 190609 # Watcher of the Huntress [pet]
+        costs:
+          2032: 350
+
+      - id: 278612 # Ensemble: Moonlit Assassin's Attire
+        costs:
+          2032: 700
+
+      - id: 278605 # Ensemble: Ravenholdt Assassin's Attire
+        costs:
+          2032: 700
+
+      - id: 247991 # Ensemble: The Horseman's Hallowed Collection
+        costs:
+          2032: 600
+
+      - id: 278815 # Playwright's Collection: Painted Abomination Masks
+        costs:
+          2032: 200
+
+      - id: 278818 # Playwright's Collection: Painted Grovetender's Masks
+        costs:
+          2032: 200
+
+      - id: 278806 # Playwright's Collection: Painted Mogu Masks
+        costs:
+          2032: 200
+
+      - id: 278816 # Playwright's Collection: Painted Sha Masks
+        costs:
+          2032: 200
+
+      - id: 278814 # Playwright's Collection: Painted Sun Masks
+        costs:
+          2032: 200
+
+      - id: 278808 # Playwright's Collection: Painted Witch's Masks
+        costs:
+          2032: 200
+
+      - id: 258003 # Ensemble: Sorcerer's Plum Garb
+        costs:
+          2032: 100
+
+      - id: 270292 # Crown of Plum Springflowers [head]
+        costs:
+          2032: 50
+
+      - id: 233053 # Crown of the Violet Rose [head]
+        costs:
+          2032: 250
+
+      - id: 274632 # Gunslinger's Plum Lid [head]
+        costs:
+          2032: 50
+
+      - id: 279440 # Plum Gloomcap [head]
+        costs:
+          2032: 50
+
+      - id: 252747 # Plum Winter Toque [head]
+        costs:
+          2032: 50
+
+      - id: 266077 # Dark Ranger's Shadow Quiver [back]
+        costs:
+          2032: 100
+
+      - id: 266085 # Silver Ranger's Spell Quiver [back]
+        costs:
+          2032: 100
+
+      - id: 262867 # Plum Dunecloth Vest [chest]
+        costs:
+          2032: 35
+
+      - id: 262849 # Plum Dunecloth Belt [waist]
+        costs:
+          2032: 30
+
+      - id: 262831 # Plum Dunecloth Skirt [legs]
+        costs:
+          2032: 35
+
+      - id: 274062 # Bandit's Plum Highboot [feet]
+        costs:
+          2032: 40
+
+      - id: 279819 # Basic Dark Iron Sabatons [feet]
+        costs:
+          2032: 40
+
+      - id: 279818 # Basic Steel Sabatons [feet]
+        costs:
+          2032: 40
+
+      - id: 269752 # Nunchucks of the Artisan [1h mace]
+        costs:
+          2032: 120
+
+      - id: 269753 # Artisan Katana [1h sword]
+        costs:
+          2032: 110
+
+      - id: 278873 # Lil' Armegeddon's Play-Blade [1h sword]
+        costs:
+          2032: 100
+
+      - id: 250312 # Monastery's Katana [1h sword]
+        costs:
+          2032: 100
+
+      - id: 280842 # Shadowhunters' Hexblade [1h sword]
+        costs:
+          2032: 125
+
+      - id: 247708 # The Horseman's Hallowed Blade [1h sword]
+        costs:
+          2032: 230
+
+      - id: 269751 # Artisan Sai [dagger]
+        costs:
+          2032: 120
+
+      - id: 278872 # Lil' Perdition's Play-Blade [dagger]
+        costs:
+          2032: 100
+
+      - id: 250310 # Theif's Notched Blade [dagger]
+        costs:
+          2032: 125
+
+      - id: 250314 # Initiate's Training Glaive [warglaive]
+        costs:
+          2032: 125
+
+      - id: 279579 # Crusader's Zweihander [2h sword]
+        costs:
+          2032: 125
+
+      - id: 269755 # Large Artisan Katana [2h sword]
+        costs:
+          2032: 130
+
+      - id: 278993 # Lil' Armegeddon's Play-More [2h sword]
+        costs:
+          2032: 115
+
+      - id: 247712 # The Horseman's Hallowed Great Blade [2h sword]
+        costs:
+          2032: 260
+
+      - id: 260379 # Dark Ranger's Shortbow [bow]
+        costs:
+          2032: 80
+
+      - id: 260387 # Silver Ranger's Shortbow [bow]
+        costs:
+          2032: 80
+
+      - id: 269754 # Offhand Artisan Nunchucks [off-hand]
+        costs:
+          2032: 120
+
+      - id: 247717 # The Horseman's Hallowed Bulwark [shield]
+        costs:
+          2032: 100
