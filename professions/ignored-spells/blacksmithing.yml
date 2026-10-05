@@ -3,9 +3,11 @@
 - 8366 # Ironforge Chain
 - 8368 # Ironforge Gauntlets
 - 9942 # Mithril Scale Gloves
+- 9954 # Truesilver Gauntlets
 - 9957 # Orcish War Leggings
+- 9974 # Truesilver Breastplate
 - 16960 # Thorium Greatsword
-- 16965 # Bleakwood Hew
+# - 16965 # Bleakwood Hew
 - 16967 # Inlaid Thorium Hammer
 - 16980 # Rune Edge
 - 16986 # Blood Talon
@@ -38,13 +40,17 @@
 - 36256 # Embrace of the Twisting Nether
 - 36257 # Bulwark of the Ancient Kings
 
+# The Burning Crusade - Weaponsmith [4.0.3]
+- 36126 # Light Skyforged Axe
+- 36128 # Light Emberforged Hammer
+
 # The Burning Crusade - Weaponsmith > Axesmith [4.0.3]
 - 34542 # Black Planar Edge
 - 36261 # Bloodmoon
 - 34543 # Lunar Crescent
 - 34544 # Mooncleaver
-- 36135 # Skyforged Great Axe
-- 36134 # Stormforged Axe
+# - 36135 # Skyforged Great Axe
+# - 36134 # Stormforged Axe
 - 34541 # The Planar Edge
 - 36260 # Wicked Edge of the Planes
 
@@ -53,8 +59,8 @@
 - 34546 # Dragonmaw
 - 34545 # Drakefist Hammer
 - 36262 # Dragonstrike
-- 36137 # Great Earthforged Hammer
-- 36136 # Lavaforged Warhammer
+# - 36137 # Great Earthforged Hammer
+# - 36136 # Lavaforged Warhammer
 - 34547 # Thunder
 - 36263 # Stormherald
 
@@ -65,9 +71,8 @@
 - 34538 # Lionheart Blade
 - 34540 # Lionheart Champion
 - 36259 # Lionheart Executioner
-- 36133 # Stoneforged Claymore
-- 36131 # Windforged Rapier
-
+# - 36133 # Stoneforged Claymore
+# - 36131 # Windforged Rapier
 
 # Wrath of the Lich King
 - 55183 # Corroded Saronite Edge
