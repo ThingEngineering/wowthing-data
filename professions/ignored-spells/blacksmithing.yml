@@ -4,18 +4,70 @@
 - 8368 # Ironforge Gauntlets
 - 9942 # Mithril Scale Gloves
 - 9957 # Orcish War Leggings
-# - 9972 # Ornate Mithril Breastplate
-# - 9979 # Ornate Mithril Boots
-# - 9980 # Ornate Mithril Helm
 - 16960 # Thorium Greatsword
 - 16965 # Bleakwood Hew
 - 16967 # Inlaid Thorium Hammer
 - 16980 # Rune Edge
 - 16986 # Blood Talon
 
-# The Burning Crusade
+# Classic - Armorsmith [4.0.3]
+- 9945 # Ornate Mithril Pants
+- 9950 # Ornate Mithril Gloves
+- 9952 # Ornate Mithril Shoulder
+- 9972 # Ornate Mithril Breastplate
+- 9979 # Ornate Mithril Boots
+- 9980 # Ornate Mithril Helm
+- 16655 # Fiery Plate Gauntlets
+- 16667 # Demon Forged Breastplate
+- 16742 # Enchanted Thorium Helm
+- 16744 # Enchanted Thorium Leggings
+- 16745 # Enchanted Thorium Breastplate
+
+# Classic - Weaponsmith [4.0.3]
+- 16973 # Enchanted Battlehammer
+
+# The Burning Crusade - Armorsmith [4.0.3]
 - 34529 # Nether Chain Shirt
 - 34530 # Twisting Nether Chain Shirt
+- 34533 # Breastplate of Kings
+- 34534 # Bulwark of Kings
+- 36122 # Earthforged Leggings
+- 36124 # Windforged Leggings
+- 36129 # Heavy Earthforged Breastplate
+- 36130 # Stormforged Hauberk
+- 36256 # Embrace of the Twisting Nether
+- 36257 # Bulwark of the Ancient Kings
+
+# The Burning Crusade - Weaponsmith > Axesmith [4.0.3]
+- 34542 # Black Planar Edge
+- 36261 # Bloodmoon
+- 34543 # Lunar Crescent
+- 34544 # Mooncleaver
+- 36135 # Skyforged Great Axe
+- 36134 # Stormforged Axe
+- 34541 # The Planar Edge
+- 36260 # Wicked Edge of the Planes
+
+# The Burning Crusade - Weaponsmith > Hammersmith [4.0.3]
+- 34548 # Deep Thunder
+- 34546 # Dragonmaw
+- 34545 # Drakefist Hammer
+- 36262 # Dragonstrike
+- 36137 # Great Earthforged Hammer
+- 36136 # Lavaforged Warhammer
+- 34547 # Thunder
+- 36263 # Stormherald
+
+# The Burning Crusade - Weaponsmith > Swordsmith [4.0.3]
+- 36258 # Blazefury
+- 34537 # Blazeguard
+- 34535 # Fireguard
+- 34538 # Lionheart Blade
+- 34540 # Lionheart Champion
+- 36259 # Lionheart Executioner
+- 36133 # Stoneforged Claymore
+- 36131 # Windforged Rapier
+
 
 # Wrath of the Lich King
 - 55183 # Corroded Saronite Edge
