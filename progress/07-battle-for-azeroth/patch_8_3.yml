@@ -145,6 +145,48 @@ groups:
 
 - name: separator
 
+- name: "Shadowbarb Drone"
+  icon: "item/174771"
+  iconText: "Drone"
+  lookup: none
+  type: quest
+  data:
+    0:
+      - id: 58802
+        name: "The Incredible Egg"
+      
+      - name: separator
+      
+      - id: 58803
+        name: "Match the Hatch"
+      
+      - id: 58810
+        name: "Coming Out of His Shell"
+        description: "Rewards {item:175063} toy"
+      
+      - name: separator
+
+      - id: 58811
+        name: "A Balanced Diet"
+
+      - id: 58829
+        name: "They Grow So Fast"
+        description: "Rewards {item:175049} pet"
+      
+      - name: separator
+
+      - id: 58863
+        name: "A Custom Order"
+      
+      - id: 58865
+        name: "Otherworldly Armaments"
+      
+      - id: 58866
+        name: "My Own Drone"
+        description: "Rewards {item:174771} mount"
+
+- name: separator
+
 - name: "Cloak Ranks"
   icon: "achievement/14060" # Unwavering Resolve
   iconText: "Ranks"
