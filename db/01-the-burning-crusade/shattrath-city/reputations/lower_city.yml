@@ -1,0 +1,180 @@
+things:
+  - id: 21655
+    type: "vendor"
+    name: "Nakodu"
+    note: "Lower City Quartermaster"
+
+    locations:
+      here: # shattrath_city
+        - 32.6 29.8
+
+    groups:
+      - name: "Reputation - Lower City"
+        range: -1
+        sortKey: "0-rep-lower-city"
+
+    contents:
+
+      - id: 22910 # Recipe: Elixir of Major Shadow Power [alchemy]
+        costs:
+          0: 8 # Gold
+        requirements:
+          - "reputation 1011 revered"
+
+      - id: 33148 # Formula: Enchant Cloak - Dodge [enchanting]
+        costs:
+          0: 10 # Gold
+        requirements:
+          - "reputation 1011 exalted"
+
+      - id: 23138 # Design: Potent Flame Spessarite [jewelcrafting]
+        costs:
+          0: 6 # Gold
+        requirements:
+          - "reputation 1011 friendly"
+
+      - id: 33157 # Design: Falling Star [jewelcrafting]
+        costs:
+          0: 12 # Gold
+        requirements:
+          - "reputation 1011 revered"
+
+      - id: 24179 # Design: Felsteel Boar [jewelcrafting]
+        costs:
+          0: 12 # Gold
+        requirements:
+          - "reputation 1011 revered"
+
+      - id: 24175 # Design: Pendant of Thawing [jewelcrafting]
+        costs:
+          0: 12 # Gold
+        requirements:
+          - "reputation 1011 revered"
+
+      - id: 30833 # Pattern: Cloak of Arcane Evasion [tailoring]
+        costs:
+          0: 6 # Gold
+        requirements:
+          - "reputation 1011 honored"
+
+      # Transmog
+
+      - id: 35344 # Evoker's Silk Cowl [cloth head] mage
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation 1011 honored"
+
+      - id: 35335 # Mooncloth Mitts [cloth hands] priest
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation 1011 honored"
+
+      - id: 35340 # Satin Leggings [cloth legs] priest
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation 1011 honored"
+
+      - id: 35331 # Dreadweave Mantle [cloth shoulders] warlock
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation 1011 honored"
+
+      - id: 35357 # Dragonhide Helm [leather head] druid
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation 1011 honored"
+
+      - id: 35361 # Kodohide Gloves [leather hands] druid
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation 1011 honored"
+
+      - id: 35373 # Wyrmhide Legguards [leather legs] druid
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation 1011 honored"
+
+      - id: 35370 # Opportunist's Leather Tunic [leather chest] rogue
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation 1011 honored"
+
+      - id: 35378 # Stalker's Chain Helm [mail head] hunter
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation 1011 honored"
+
+      - id: 35391 # Seer's Ringmail Chestguard [mail chest] shaman
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation 1011 honored"
+
+      - id: 35382 # Seer's Linked Gauntlets [mail hands] shaman
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation 1011 honored"
+
+      - id: 35389 # Seer's Mail Leggings [mail legs] shaman
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation 1011 honored"
+
+      - id: 35412 # Crusader's Scaled Chestpiece [plate chest] paladin
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation 1011 honored"
+
+      - id: 35405 # Crusader's Ornamented Leggings [plate legs] paladin
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation 1011 honored"
+
+      - id: 35411 # Savage Plate Shoulders [plate shoulders] warrior
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation 1011 honored"
+
+      - id: 30836 # Leggings of the Skettis Exile [cloth legs]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation 1011 revered"
+
+      - id: 30835 # Salvager's Hauberk [mail chest]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation 1011 revered"
+
+      - id: 31778 # Lower City Tabard [tabard]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation 1011 exalted"
+
+      - id: 30832 # Gavel of Unearthed Secrets [1h ? mace]
+        costs:
+          0: 50 # Gold
+        requirements:
+          - "reputation 1011 exalted"
+
+      - id: 30830 # Trident of the Outcast Tribe [polearm]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation 1011 exalted"

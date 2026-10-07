@@ -1,0 +1,204 @@
+things:
+  - id: 21432
+    type: "vendor"
+    name: "Almaador"
+    note: "Sha'tari Quartermaster"
+
+    locations:
+      here: # shattrath_city
+        - 29.8 23.2
+
+    groups:
+      - name: "Reputation - The Sha'tari"
+        range: -1
+        sortKey: "0-rep-shatari"
+
+    contents:
+
+      - id: 13517 # Recipe: Alchemist Stone [alchemy]
+        costs:
+          0: 8 # Gold
+        requirements:
+          - "reputation 935 revered"
+
+      - id: 22915 # Recipe: Transmute Primal Air to Fire [alchemy]
+        costs:
+          0: 8 # Gold
+        requirements:
+          - "reputation 935 revered"
+
+      - id: 31354 # Recipe: Flask of the Titans [alchemy]
+        costs:
+          0: 4 # Gold
+        requirements:
+          - "reputation 935 exalted"
+
+      - id: 28273 # Formula: Enchant Gloves - Major Healing [enchanting]
+        costs:
+          0: 6 # Gold
+        requirements:
+          - "reputation 935 honored"
+
+      - id: 28281 # Formula: Enchant Weapon - Major Healing [enchanting]
+        costs:
+          0: 6 # Gold
+        requirements:
+          - "reputation 935 revered"
+
+      - id: 33153 # Formula: Enchant Gloves - Threat [enchanting]
+        costs:
+          0: 10 # Gold
+        requirements:
+          - "reputation 935 exalted"
+
+      - id: 25904 # Design: Insightful Earthstorm Diamond [jewelcrafting]
+        costs:
+          0: 12 # Gold
+        requirements:
+          - "reputation 935 friendly"
+
+      - id: 33155 # Design: Kailee's Rose [jewelcrafting]
+        costs:
+          0: 12 # Gold
+        requirements:
+          - "reputation 935 honored"
+
+      - id: 30826 # Design: Ring of Arcane Shielding [jewelcrafting]
+        costs:
+          0: 12 # Gold
+        requirements:
+          - "reputation 935 honored"
+
+      - id: 33159 # Design: Blood of Amber [jewelcrafting]
+        costs:
+          0: 12 # Gold
+        requirements:
+          - "reputation 935 revered"
+
+      - id: 24182 # Design: Talasite Owl [jewelcrafting]
+        costs:
+          0: 12 # Gold
+        requirements:
+          - "reputation 935 revered"
+
+      - id: 29717 # Pattern: Drums of Battle [leatherworking]
+        costs:
+          0: 12 # Gold
+        requirements:
+          - "reputation 935 honored"
+
+      # Transmog
+
+      - id: 35345 # Evoker's Silk Handguards [cloth hands] mage
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation 935 honored"
+
+      - id: 35333 # Mooncloth Cowl [cloth head] priest
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation 935 honored"
+
+      - id: 35341 # Satin Mantle [cloth shoulders] priest
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation 935 honored"
+
+      - id: 35330 # Dreadweave Leggings [cloth legs] warlock
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation 935 honored"
+
+      - id: 35362 # Kodohide Helm [leather head] druid
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation 935 honored"
+
+      - id: 35359 # Dragonhide Spaulders [leather shoulders] druid
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation 935 honored"
+
+      - id: 35375 # Wyrmhide Robe [leather chest] druid
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation 935 honored"
+
+      - id: 35368 # Opportunist's Leather Legguards [leather legs] rogue
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation 935 honored"
+
+      - id: 35380 # Stalker's Chain Spaulders [mail shoulders] hunter
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation 935 honored"
+
+      - id: 35388 # Seer's Mail Helm [mail head] shaman
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation 935 honored"
+
+      - id: 35395 # Seer's Ringmail Shoulderpads [mail shoulders]
+        costs:
+          0: 20 # Gold
+        requirements:
+          - "reputation 935 honored"
+
+      - id: 35381 # Seer's Linked Armor [mail chest]
+        costs:
+          0: 25 # Gold
+        requirements:
+          - "reputation 935 honored"
+
+      - id: 35404 # Crusader's Ornamented Headguard [plate head] paladin
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation 935 honored"
+
+      - id: 35416 # Crusader's Scaled Shoulders [plate shoulders] paladin
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation 935 honored"
+
+      - id: 35407 # Savage Plate Chestpiece [plate chest] warrior
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation 935 honored"
+
+      - id: 29180 # Blessed Scale Girdle [mail waist]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation 935 revered"
+
+      - id: 31781 # Sha'tar Tabard [tabard]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation 935 exalted"
+
+      - id: 29175 # Gavel of Pure Light [1h ? mace]
+        costs:
+          0: 200 # Gold
+        requirements:
+          - "reputation 935 exalted"
+
+      - id: 29176 # Crest of the Sha'tar [shield]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation 935 exalted"

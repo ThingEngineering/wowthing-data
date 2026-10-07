@@ -1,0 +1,144 @@
+things:
+  - id: 19331
+    type: "vendor"
+    name: "Quartermaster Enuril"
+    note: "Scryer Quartermaster"
+
+    locations:
+      here: # shattrath_city
+        - 32.2 28.6
+
+    groups:
+      - name: "Reputation - The Scryers"
+        range: -1
+        sortKey: "0-rep-the-scryers"
+
+    contents:
+
+      - id: 22908 # Recipe: Elixir of Major Firepower [alchemy]
+        costs:
+          0: 6 # Gold
+        requirements:
+          - "reputation 934 revered"
+
+      - id: 23597 # Plans: Enchanted Adamantite Belt [blacksmithing]
+        costs:
+          0: 6 # Gold
+        requirements:
+          - "reputation 934 friendly"
+
+      - id: 23598 # Plans: Enchanted Adamantite Boots [blacksmithing]
+        costs:
+          0: 6 # Gold
+        requirements:
+          - "reputation 934 honored"
+
+      - id: 23599 # Plans: Enchanted Adamantite Breastplate [blacksmithing]
+        costs:
+          0: 6 # Gold
+        requirements:
+          - "reputation 934 revered"
+
+      - id: 23600 # Plans: Enchanted Adamantite Leggings [blacksmithing]
+        costs:
+          0: 8 # Gold
+        requirements:
+          - "reputation 934 exalted"
+
+      - id: 23133 # Design: Brilliant Blood Garnet [jewelcrafting]
+        costs:
+          0: 6 # Gold
+        requirements:
+          - "reputation 934 friendly"
+
+      - id: 24176 # Design: Pendant of Withering [jewelcrafting]
+        costs:
+          0: 12 # Gold
+        requirements:
+          - "reputation 934 revered"
+
+      - id: 29701 # Pattern: Enchanted Clefthoof Boots [leatherworking]
+        costs:
+          0: 8 # Gold
+        requirements:
+          - "reputation 934 honored"
+
+      - id: 29682 # Pattern: Enchanted Felscale Gloves [leatherworking]
+        costs:
+          0: 8 # Gold
+        requirements:
+          - "reputation 934 honored"
+
+      - id: 29700 # Pattern: Enchanted Clefthoof Gloves [leatherworking]
+        costs:
+          0: 8 # Gold
+        requirements:
+          - "reputation 934 revered"
+
+      - id: 29684 # Pattern: Enchanted Felscale Boots [leatherworking]
+        costs:
+          0: 8 # Gold
+        requirements:
+          - "reputation 934 revered"
+
+      - id: 25722 # Pattern: Magister's Armor Kit [leatherworking]
+        costs:
+          0: 5 # Gold
+        requirements:
+          - "reputation 934 revered"
+
+      - id: 29698 # Pattern: Enchanted Clefthoof Leggings [leatherworking]
+        costs:
+          0: 8 # Gold
+        requirements:
+          - "reputation 934 exalted"
+
+      - id: 29677 # Pattern: Enchanted Felscale Leggings [leatherworking]
+        costs:
+          0: 8 # Gold
+        requirements:
+          - "reputation 934 exalted"
+
+      - id: 24292 # Pattern: Mystic Spellthread [tailoring]
+        costs:
+          0: 6 # Gold
+        requirements:
+          - "reputation 934 honored"
+
+      - id: 24294 # Pattern: Runic Spellthread [tailoring]
+        costs:
+          0: 36 # Gold
+        requirements:
+          - "reputation 934 exalted"
+
+      # Transmog
+
+      - id: 29131 # Retainer's Leggings [leather legs]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation 934 revered"
+
+      - id: 29134 # Gauntlets of the Chosen [plate hands]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation 934 revered"
+
+      - id: 31780 # Scryers Tabard [tabard]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation 934 exalted"
+
+      - id: 29125 # Retainer's Blade [? dagger]
+        costs:
+          0: 208 # Gold
+        requirements:
+          - "reputation 934 exalted"
+
+      - id: 29133 # Seer's Cane [staff]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation 934 revered"

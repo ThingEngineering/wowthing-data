@@ -1,0 +1,162 @@
+things:
+  - id: 19321
+    type: "vendor"
+    name: "Quartermaster Endarin"
+    note: "Aldor Quartermaster"
+
+    locations:
+      here: # shattrath_city
+        - 29 19.4
+
+    groups:
+      - name: "Reputation - The Aldor"
+        range: -1
+        sortKey: "0-rep-the-aldor"
+
+    contents:
+
+      - id: 23601 # Plans: Flamebane Bracers [blacksmithing]
+        costs:
+          0: 6 # Gold
+        requirements:
+          - "reputation 932 friendly"
+
+      - id: 23603 # Plans: Flamebane Gloves [blacksmithing]
+        costs:
+          0: 6 # Gold
+        requirements:
+          - "reputation 932 honored"
+
+      - id: 23604 # Plans: Flamebane Breastplate [blacksmithing]
+        costs:
+          0: 8 # Gold
+        requirements:
+          - "reputation 932 revered"
+
+      - id: 29702 # Pattern: Blastguard Pants [leatherworking]
+        costs:
+          0: 8 # Gold
+        requirements:
+          - "reputation 932 exalted"
+
+      - id: 29689 # Pattern: Flamescale Leggings [leatherworking]
+        costs:
+          0: 8 # Gold
+        requirements:
+          - "reputation 932 exalted"
+
+      - id: 23602 # Plans: Flamebane Helm [blacksmithing]
+        costs:
+          0: 6 # Gold
+        requirements:
+          - "reputation 932 exalted"
+
+      - id: 23149 # Design: Smooth Golden Draenite [jewelcrafting]
+        costs:
+          0: 5 # Gold
+        requirements:
+          - "reputation 932 friendly"
+
+      - id: 23145 # Design: Purified Shadow Draenite [jewelcrafting]
+        costs:
+          0: 5 # Gold
+        requirements:
+          - "reputation 932 honored"
+
+      - id: 24177 # Design: Pendant of Shadow's End [jewelcrafting]
+        costs:
+          0: 12 # Gold
+        requirements:
+          - "reputation 932 revered"
+
+      - id: 29704 # Pattern: Blastguard Belt [leatherworking]
+        costs:
+          0: 8 # Gold
+        requirements:
+          - "reputation 932 honored"
+
+      - id: 29693 # Pattern: Flamescale Belt [leatherworking]
+        costs:
+          0: 8 # Gold
+        requirements:
+          - "reputation 932 honored"
+
+      - id: 29703 # Pattern: Blastguard Boots [leatherworking]
+        costs:
+          0: 8 # Gold
+        requirements:
+          - "reputation 932 revered"
+
+      - id: 29691 # Pattern: Flamescale Boots [leatherworking]
+        costs:
+          0: 8 # Gold
+        requirements:
+          - "reputation 932 revered"
+
+      - id: 25721 # Pattern: Vindicator's Armor Kit [leatherworking]
+        costs:
+          0: 5 # Gold
+        requirements:
+          - "reputation 932 revered"
+
+      - id: 30842 # Pattern: Flameheart Bracers [tailoring]
+        costs:
+          0: 6 # Gold
+        requirements:
+          - "reputation 932 friendly"
+
+      - id: 30843 # Pattern: Flameheart Gloves [tailoring]
+        costs:
+          0: 8 # Gold
+        requirements:
+          - "reputation 932 honored"
+
+      - id: 24293 # Pattern: Silver Spellthread [tailoring]
+        costs:
+          0: 6 # Gold
+        requirements:
+          - "reputation 932 honored"
+
+      - id: 30844 # Pattern: Flameheart Vest [tailoring]
+        costs:
+          0: 10 # Gold
+        requirements:
+          - "reputation 932 exalted"
+
+      - id: 24295 # Pattern: Golden Spellthread [tailoring]
+        costs:
+          0: 36 # Gold
+        requirements:
+          - "reputation 932 exalted"
+
+      # Transmog
+
+      - id: 29129 # Anchorite's Robes [cloth chest]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation 932 honored"
+
+      - id: 29127 # Vindicator's Hauberk [plate chest]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation 932 revered"
+
+      - id: 31779 # Aldor Tabard [tabard]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation 932 exalted"
+
+      - id: 29124 # Vindicator's Brand [1h ? sword]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation 932 exalted"
+
+      - id: 29130 # Auchenai Staff [staff]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation 932 revered"
