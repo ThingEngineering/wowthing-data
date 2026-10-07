@@ -1,6 +1,42 @@
 name: "Intro"
 groups:
 
+- name: "Intro"
+  icon: ""
+  iconText: "Intro"
+  lookup: faction
+  type: quest
+  data:
+    alliance:
+      - id: 46728 # Kul Tirans don't get this one?
+        name: "The Nation of Kul Tiras"
+      
+      - id: 51341
+        name: "Daughter of the Sea"
+      
+      - id: 47098
+        name: "Out Like Flynn"
+      
+      - id: 47099
+        name: "Get Your Bearings"
+      
+      - id: 46729
+        name: "The Old Knight"
+
+    horde:
+      - id: 50769
+        name: "The Stormwind Extraction"
+        description: "Skip by talking to Nathanos after meeting the team"
+      
+      - id: 46957
+        name: "Welcome to Zuldazar"
+      
+      - id: 46930
+        name: "Rastakhan"
+      
+      - id: 46931
+        name: "Speaker of the Horde"
+
 - name: "Heart of Azeroth"
   icon: "item/158075"
   iconText: "HoA"
