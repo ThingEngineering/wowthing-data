@@ -1,0 +1,28 @@
+name: "[12.1] Storyline"
+groups:
+
+- name: "Spirit of Tok'jara"
+  icon: "item/273838"
+  iconText: "Tok"
+  lookup: none
+  type: quest
+  data:
+    0:
+      - id: 96267
+        name: "Ancestral Gems"
+
+      - id: 96276
+        name: "Dark Charms"
+
+      - id: 96273
+        name: "A Balance Paid in Blood"
+
+      - id: 96275
+        name: "Wading In"
+
+      - id: 96271
+        name: "Cursed Existence"
+
+      - id: 96305
+        name: "The Innocent Essence"
+        description: "Rewards {item:273838} mount"
