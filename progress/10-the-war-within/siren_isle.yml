@@ -1,0 +1,25 @@
+name: "Siren Isle"
+groups:
+
+- name: "Starving Snapdragon Runt"
+  icon: "item/233489"
+  iconText: "Snap"
+  lookup: none
+  type: quest
+  data:
+    0:
+      - id: 86482
+        name: "Lifeline"
+        description: "Day 1"
+      
+      - id: 86483
+        name: "Snap To It"
+        description: "Day 4"
+      
+      - id: 86484
+        name: "Temper Like A Tempest"
+        description: "Day 7"
+      
+      - id: 86485
+        name: "A Loyal Friend"
+        description: "Day 10, rewards {item:233489} mount"
