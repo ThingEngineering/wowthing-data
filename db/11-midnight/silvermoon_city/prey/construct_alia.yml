@@ -9,138 +9,200 @@ things:
         - 55.8 65.8
 
     groups:
-      - name: "Prey - Decor"
+      - name: "Prey - S1 Decor"
+        range: 32
+        sortKey: "prey-1-3"
+
+      - name: "Prey - S2 Decor"
         range: -1
-        sortKey: "prey-3"
+        sortKey: "prey-2-3"
 
     contents:
 
-      # 0
-
-      - id: 265700 # Preyseeker's Amani Bust
-        costs:
-          3392: 800
-
-      - id: 265685 # Preyseeker's Amani Effigy
-        costs:
-          3392: 1200
-
-      - id: 265699 # Preyseeker's Breaker Bust
-        costs:
-          3392: 800
-
-      - id: 265684 # Preyseeker's Breaker Effigy
-        costs:
-          3392: 1200
-
-      - id: 265703 # Preyseeker's Consul Bust
-        costs:
-          3392: 800
-
-      - id: 265688 # Preyseeker's Consul Effigy
-        costs:
-          3392: 1200
-
-      - id: 265698 # Preyseeker's Ethereal Bust
-        costs:
-          3392: 800
-
-      - id: 265683 # Preyseeker's Ethereal Effigy
-        costs:
-          3392: 1200
-
-      - id: 265704 # Preyseeker's Executor Bust
-        costs:
-          3392: 800
-
-      - id: 265689 # Preyseeker's Executor Effigy
-        costs:
-          3392: 1200
-
-      - id: 265799 # Preyseeker's Farstrider Bust
-        costs:
-          3392: 800
-
-      - id: 265797 # Preyseeker's Farstrider Effigy
-        costs:
-          3392: 1200
-
-      - id: 265705 # Preyseeker's Knight-Errant Bust
-        costs:
-          3392: 800
-
-      - id: 265690 # Preyseeker's Knight-Errant Effigy
-        costs:
-          3392: 1200
-
-      - id: 265696 # Preyseeker's Magister Bust
-        costs:
-          3392: 800
-
-      - id: 265681 # Preyseeker's Magister Effigy
-        costs:
-          3392: 1200
-
-      - id: 265795 # Preyseeker's Ornate Plinth
-        costs:
-          3392: 1200
+      # Season 1
 
       - id: 265794 # Preyseeker's Plinth
         costs:
-          3392: 800
+          3392: 400
+
+      - id: 265700 # Preyseeker's Amani Bust
+        costs:
+          3392: 400
+
+      - id: 265699 # Preyseeker's Breaker Bust
+        costs:
+          3392: 400
+
+      - id: 265703 # Preyseeker's Consul Bust
+        costs:
+          3392: 400
+
+      - id: 265704 # Preyseeker's Executor Bust
+        costs:
+          3392: 400
+
+      - id: 265698 # Preyseeker's Ethereal Bust
+        costs:
+          3392: 400
+
+      - id: 265799 # Preyseeker's Farstrider Bust
+        costs:
+          3392: 400
+
+      - id: 265705 # Preyseeker's Knight-Errant Bust
+        costs:
+          3392: 400
+
+      - id: 265696 # Preyseeker's Magister Bust
+        costs:
+          3392: 400
 
       - id: 265798 # Preyseeker's Ren'dorei Bust
         costs:
-          3392: 800
-
-      - id: 265796 # Preyseeker's Ren'dorei Effigy
-        costs:
-          3392: 1200
+          3392: 400
 
       - id: 265701 # Preyseeker's Rutaani Bust
         costs:
-          3392: 800
-
-      - id: 265686 # Preyseeker's Rutaani Effigy
-        costs:
-          3392: 1200
+          3392: 400
 
       - id: 265707 # Preyseeker's Thornspeaker Bust
         costs:
-          3392: 800
-
-      - id: 265692 # Preyseeker's Thornspeaker Effigy
-        costs:
-          3392: 1200
+          3392: 400
 
       - id: 265697 # Preyseeker's Tinker Bust
         costs:
-          3392: 800
-
-      - id: 265682 # Preyseeker's Tinker Effigy
-        costs:
-          3392: 1200
+          3392: 400
 
       - id: 265708 # Preyseeker's Twilight Bust
         costs:
-          3392: 800
-
-      - id: 265694 # Preyseeker's Twilight Effigy
-        costs:
-          3392: 1200
+          3392: 400
 
       - id: 265702 # Preyseeker's Vindicator Bust
         costs:
-          3392: 800
-
-      - id: 265687 # Preyseeker's Vindicator Effigy
-        costs:
-          3392: 1200
+          3392: 400
 
       - id: 265706 # Preyseeker's Wretched Bust
         costs:
-          3392: 800
+          3392: 400
+
+      - id: 265795 # Preyseeker's Ornate Plinth
+        costs:
+          3392: 600
+
+      - id: 265685 # Preyseeker's Amani Effigy
+        costs:
+          3392: 600
+
+      - id: 265684 # Preyseeker's Breaker Effigy
+        costs:
+          3392: 600
+
+      - id: 265688 # Preyseeker's Consul Effigy
+        costs:
+          3392: 600
+
+      - id: 265689 # Preyseeker's Executor Effigy
+        costs:
+          3392: 600
+
+      - id: 265683 # Preyseeker's Ethereal Effigy
+        costs:
+          3392: 600
+
+      - id: 265797 # Preyseeker's Farstrider Effigy
+        costs:
+          3392: 600
+
+      - id: 265690 # Preyseeker's Knight-Errant Effigy
+        costs:
+          3392: 600
+
+      - id: 265681 # Preyseeker's Magister Effigy
+        costs:
+          3392: 600
+
+      - id: 265796 # Preyseeker's Ren'dorei Effigy
+        costs:
+          3392: 600
+
+      - id: 265686 # Preyseeker's Rutaani Effigy
+        costs:
+          3392: 600
+
+      - id: 265692 # Preyseeker's Thornspeaker Effigy
+        costs:
+          3392: 600
+
+      - id: 265682 # Preyseeker's Tinker Effigy
+        costs:
+          3392: 600
+
+      - id: 265694 # Preyseeker's Twilight Effigy
+        costs:
+          3392: 600
+
+      - id: 265687 # Preyseeker's Vindicator Effigy
+        costs:
+          3392: 600
 
       - id: 265691 # Preyseeker's Wretched Effigy
         costs:
-          3392: 1200
+          3392: 600
+      
+      # Season 2
+
+      - id: 278123 # Sturdy Silvermoon Crate Lid
+        costs:
+          3392: 100
+
+      - id: 278126 # Mysterious Sin'dorei Candlestick
+        costs:
+          3392: 100
+
+      - id: 278130 # Gilded Silvermoon Compass
+        costs:
+          3392: 100
+
+      - id: 278134 # Sturdy Silvermoon Crate
+        costs:
+          3392: 100
+
+      - id: 250870 # Crimson Crystal Fragment
+        costs:
+          3392: 200
+
+      - id: 253449 # Bound Silvermoon Drapes
+        costs:
+          3392: 200
+
+      - id: 278145 # Stonecarved Sin'dorei Jar
+        costs:
+          3392: 200
+
+      - id: 278148 # Adorned Sin'dorei Satchel
+        costs:
+          3392: 100
+
+      - id: 278151 # Blood Knight's Decorative Shield
+        costs:
+          3392: 350
+
+      - id: 250868 # Crimson Crystal Column
+        costs:
+          3392: 350
+
+      - id: 278369 # Preyhunter's Scaled Effigy
+        costs:
+          3392: 600
+
+      - id: 278372 # Preyhunter's Fanged Effigy
+        costs:
+          3392: 600
+
+      - id: 278380 # Preyhunter's Terror Bust
+        costs:
+          3392: 400
+
+      - id: 278376 # Preyhunter's Terror Effigy
+        costs:
+          3392: 600
