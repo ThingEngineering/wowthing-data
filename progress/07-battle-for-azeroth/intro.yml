@@ -52,3 +52,17 @@ groups:
       - id: 53028 # A Dying World
       - id: 51211 # The Heart of Azeroth
       - id: 52428 # Infusing the Heart
+
+- name: "World Quests"
+  icon: "item/141605"
+  iconText: "WQs"
+  lookup: faction
+  type: quest
+  data:
+    alliance:
+      - id: 51918
+        name: "Uniting Kul Tiras"
+    
+    horde:
+      - id: 51916
+        name: "Uniting Zuldazar"
