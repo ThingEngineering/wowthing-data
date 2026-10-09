@@ -1,0 +1,11 @@
+tags:
+  - "event:great-gnomeregan-run"
+
+things:
+  - id: 9000002
+    type: "event"
+    name: "Great Gnomeregan Run"
+
+    contents:
+
+      - id: 267472 # Gnomatic Projector

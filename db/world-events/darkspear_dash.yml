@@ -2,7 +2,7 @@ tags:
   - "event:darkspear-dash"
 
 things:
-  - id: 99999
+  - id: 9000001
     type: "event"
     name: "Darkspear Dash"
 
