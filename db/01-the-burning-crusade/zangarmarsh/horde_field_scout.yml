@@ -1,0 +1,18 @@
+things:
+  - id: 18564
+    type: "vendor"
+    name: "Horde Field Scout"
+
+    locations:
+      here: # zangarmarsh
+        - 33 49 horde
+
+    contents:
+
+      - id: 27930 # Splintermark [bow]
+        costs:
+          1024581: 15
+
+      - id: 27939 # Incendic Rod [wand]
+        costs:
+          1024581: 15

@@ -1,0 +1,73 @@
+things:
+  - id: 18382
+    type: "vendor"
+    name: "Mycah"
+    note: "Sporeggar Quartermaster"
+
+    locations:
+      here: # zangarmarsh
+        - 17.8 51.2
+
+    groups:
+      - name: "Sporeggar"
+        range: -1
+
+    contents:
+
+      - id: 34478 # Tiny Sporebat [pet]
+        costs:
+          1024245: 30
+        requirements:
+          - "reputation 970 exalted"
+
+      - id: 22916 # Recipe: Transmute Primal Earth to Water [alchemy]
+        costs:
+          1024245: 25
+        requirements:
+          - "reputation 970 revered"
+
+      - id: 22906 # Recipe: Shrouding Potion [alchemy]
+        costs:
+          1024245: 30
+        requirements:
+          - "reputation 970 exalted"
+
+      - id: 30156 # Recipe: Clam Bar [cooking]
+        costs:
+          1024245: 1
+
+      - id: 38229 # Pattern: Mycah's Botanical Bag [tailoring]
+        costs:
+          1024245: 25
+        requirements:
+          - "reputation 970 revered"
+
+      - id: 25827 # Muck-Covered Drape [cloak]
+        costs:
+          1024245: 25
+        requirements:
+          - "reputation 970 honored"
+
+      - id: 31775 # Sporeggar Tabard [tabard]
+        costs:
+          1024245: 10
+        requirements:
+          - "reputation 970 exalted"
+
+      - id: 25828 # Petrified Lichen Guard [shield]
+        costs:
+          1024245: 15
+        requirements:
+          - "reputation 970 honored"
+
+      - id: 29150 # Hardened Stone Shard [? dagger]
+        costs:
+          1024245: 45
+        requirements:
+          - "reputation 970 revered"
+
+      - id: 29149 # Sporeling's Firestick [wand]
+        costs:
+          1024245: 20
+        requirements:
+          - "reputation 970 revered"

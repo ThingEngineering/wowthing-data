@@ -1,0 +1,18 @@
+things:
+  - id: 18581
+    type: "vendor"
+    name: "Alliance Field Scout"
+
+    locations:
+      here: # zangarmarsh
+        - 64.4 46.4 alliance
+
+    contents:
+
+      - id: 27931 # Splintermark [bow]
+        costs:
+          1024579: 15
+
+      - id: 27942 # Incendic Rod [wand]
+        costs:
+          1024579: 15
