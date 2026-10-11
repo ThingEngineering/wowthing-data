@@ -1,0 +1,69 @@
+things:
+  - id: 19772
+    type: "vendor"
+    name: "Spirit Sage Gartok"
+
+    locations:
+      here: # terokkar_forest
+        - 49.8 46.4 horde
+
+    groups: &groups
+      - name: "Spirit Shards"
+        range: -1
+
+    contents: &contents
+
+      - id: 28759 # Exorcist's Dreadweave Hood [cloth head]
+        costs:
+          1704: 18
+
+      - id: 28760 # Exorcist's Silk Hood [cloth head]
+        costs:
+          1704: 18
+
+      - id: 28574 # Exorcist's Dragonhide Helm [leather head]
+        costs:
+          1704: 18
+
+      - id: 28561 # Exorcist's Leather Helm [leather head]
+        costs:
+          1704: 18
+
+      - id: 28575 # Exorcist's Wyrmhide Helm [leather head]
+        costs:
+          1704: 18
+
+      - id: 28576 # Exorcist's Chain Helm [mail head]
+        costs:
+          1704: 18
+
+      - id: 28577 # Exorcist's Linked Helm [mail head]
+        costs:
+          1704: 18
+
+      - id: 28758 # Exorcist's Mail Helm [mail head]
+        costs:
+          1704: 18
+
+      - id: 28560 # Exorcist's Lamellar Helm [plate head]
+        costs:
+          1704: 18
+
+      - id: 28559 # Exorcist's Plate Helm [plate head]
+        costs:
+          1704: 18
+
+      - id: 28761 # Exorcist's Scaled Helm [plate head]
+        costs:
+          1704: 18
+
+  - id: 19773
+    type: "vendor"
+    name: "Spirit Sage Zran"
+
+    locations:
+      here: # terokkar_forest
+        - 56 53.6 alliance
+
+    groups: *groups
+    contents: *contents
