@@ -1,0 +1,222 @@
+things:
+  - id: 17657
+    type: "vendor"
+    name: "Logistics Officer Ulrike"
+    note: "Honor Hold Quartermaster"
+
+    locations:
+      here: # hellfire_peninsula
+        - 56.4 62.6 alliance
+
+    groups:
+      - name: "Rep - Honor Hold"
+        range: -1
+        sortKey: "0-rep-honor-hold"
+
+    contents:
+
+      - id: 22905 # Recipe: Elixir of Major Agility [alchemy]
+        costs:
+          0: 5 # Gold
+        requirements:
+          - "reputation 946 honored"
+
+      - id: 25870 # Recipe: Transmute Skyfire Diamond [alchemy]
+        costs:
+          0: 8 # Gold
+        requirements:
+          - "reputation 946 honored"
+
+      - id: 23619 # Plans: Felsteel Shield Spike [blacksmithing]
+        costs:
+          0: 6 # Gold
+        requirements:
+          - "reputation 946 exalted"
+
+      - id: 22531 # Formula: Enchant Bracer - Superior Healing [enchanting]
+        costs:
+          0: 6 # Gold
+        requirements:
+          - "reputation 946 friendly"
+
+      - id: 22547 # Formula: Enchant Chest - Exceptional Stats [enchanting]
+        costs:
+          0: 6 # Gold
+        requirements:
+          - "reputation 946 revered"
+
+      - id: 33150 # Formula: Enchant Cloak - Subtlety [enchanting]
+        costs:
+          0: 10 # Gold
+        requirements:
+          - "reputation 946 exalted"
+
+      - id: 23142 # Design: Regal Deep Peridot [jewelcrafting]
+        costs:
+          0: 6 # Gold
+        requirements:
+          - "reputation 946 friendly"
+
+      - id: 24180 # Design: Dawnstone Crab [jewelcrafting]
+        costs:
+          0: 12 # Gold
+        requirements:
+          - "reputation 946 revered"
+
+      - id: 29213 # Pattern: Felstalker Belt [leatherworking]
+        costs:
+          0: 12 # Gold
+        requirements:
+          - "reputation 946 friendly"
+
+      - id: 29719 # Pattern: Cobrahide Leg Armor [leatherworking]
+        costs:
+          0: 6 # Gold
+        requirements:
+          - "reputation 946 honored"
+
+      - id: 29214 # Pattern: Felstalker Bracers [leatherworking]
+        costs:
+          0: 16 # Gold
+        requirements:
+          - "reputation 946 honored"
+
+      - id: 29215 # Pattern: Felstalker Breastplate [leatherworking]
+        costs:
+          0: 16 # Gold
+        requirements:
+          - "reputation 946 honored"
+
+      - id: 29722 # Pattern: Nethercobra Leg Armor [leatherworking]
+        costs:
+          0: 12 # Gold
+        requirements:
+          - "reputation 946 exalted"
+
+      # Transmog
+
+      - id: 35465 # Evoker's Silk Amice [cloth shoulders] mage
+        costs:
+          0: 13 # Gold
+        requirements:
+          - "reputation 946 honored"
+
+      - id: 35466 # Satin Hood [cloth head] priest
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation 946 honored"
+
+      - id: 35467 # Mooncloth Vestments [cloth chest] priest
+        costs:
+          0: 17 # Gold
+        requirements:
+          - "reputation 946 honored"
+
+      - id: 35464 # Dreadweave Robe [cloth chest] warlock
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation 946 honored"
+
+      - id: 35470 # Kodohide Spaulders [leather shoulders] druid
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation 946 honored"
+
+      - id: 35469 # Dragonhide Robe [leather chest] druid
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation 946 honored"
+
+      - id: 35471 # Wyrmhide Gloves [leather hands] druid
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation 946 honored"
+
+      - id: 35468 # Opportunist's Leather Gloves [leather hands] rogue
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation 946 honored"
+
+      - id: 35475 # Stalker's Chain Gauntlets [mail hands] hunter
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation 946 honored"
+
+      - id: 35474 # Seer's Linked Helm [mail head] shaman
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation 946 honored"
+
+      - id: 35472 # Seer's Mail Armor [mail chest] shaman
+        costs:
+          0: 27 # Gold
+        requirements:
+          - "reputation 946 honored"
+
+      - id: 35473 # Seer's Ringmail Gloves [mail hands] shaman
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation 946 honored"
+
+      - id: 35476 # Crusader's Ornamented Spaulders [plate shoulders] paladin
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation 946 honored"
+
+      - id: 35477 # Crusader's Scaled Gauntlets [plate hands] paladin
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation 946 honored"
+
+      - id: 35478 # Savage Plate Helm [plate head] warrior
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation 946 honored"
+
+      - id: 23999 # Honor Hold Tabard [tabard]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation 946 exalted"
+
+      - id: 25825 # Footman's Longsword [1h ? sword]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation 946 honored"
+
+      - id: 29166 # Hellforged Halberd [polearm]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation 946 revered"
+
+      - id: 29153 # Blade of the Archmage [1h ? sword]
+        costs:
+          0: 214 # Gold
+        requirements:
+          - "reputation 946 exalted"
+
+      - id: 29156 # Honor's Call [1h ? sword]
+        costs:
+          0: 201 # Gold
+        requirements:
+          - "reputation 946 exalted"
+
+      - id: 29151 # Veteran's Musket [gun]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation 946 exalted"
