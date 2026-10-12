@@ -1,0 +1,20 @@
+instanceId: 257
+
+difficulties: DUNGEON_NORMAL_HEROIC
+
+encounters:
+  trash-drops:
+    contents:
+      - itemId: 24172 # Design: Coronet of Verdant Flame [jewelcrafting]
+  
+  high-botanist-freywin:
+    contents:
+      - itemId: 23617 # Plans: Earthpeace Breastplate [blacksmithing]
+
+  thorngrin-the-tender:
+    contents:
+      - itemId: 24310 # Pattern: Battlecast Pants [tailoring]
+
+  warp-splinter:
+    contents:
+      - itemId: 24311 # Pattern: Whitemend Hood [tailoring]
