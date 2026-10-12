@@ -23,6 +23,12 @@ encounters:
 
   chrono-lord-epoch:
     contents:
+      - itemId: 37686 # Cracked Epoch Grasps
+        action: remove
+
+      - itemId: 37687 # Gloves of Distorted Time
+        action: remove
+
       - itemId: 238993 # Cracked Epoch Grasps (screwed up by Duos)
         difficulties: DUNGEON_NORMAL_HEROIC
 

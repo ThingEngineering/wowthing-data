@@ -11,10 +11,22 @@ encounters:
   hydromancer-thespia:
     contents:
       - itemId: 29673 # Pattern: Frost Armor Kit (Leatherworking)
+      - itemId: 238932 # Gauntlets of the Bold
+      - itemId: 238929 # Cloak of Whispering Shells
+
+      - itemId: 27475 # Gauntlets of the Bold
+        action: remove # Duos?
+
+      - itemId: 27789 # Cloak of Whispering Shells
+        action: remove # Duos?
 
   mekgineer-steamrigger:
     contents:
       - itemId: 23887 # Schematic: Rocket Boots Xtreme (Engineering)
+      - itemId: 238988 # Earth Mantle Handwraps
+
+      - itemId: 27793 # Earth Mantle Handwraps
+        action: remove # Duos?
 
   warlord-kalithresh:
     contents:
