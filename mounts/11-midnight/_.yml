@@ -5,13 +5,9 @@ groups:
   things:
     - 2767 # Contained Stormarion Defender (Stormarion Assault)
 
-- name: "PvP"
+- name: "Quests"
   things:
-    - 2794 # Vicious Snaplizard [A]
-    - 2793 # Vicious Snaplizard [H]
-    - 3002 # Vicious Lightbloom Boar [A]
-    - 3003 # Vicious Lightbloom Boar [H]
-    - 2821 # Venomous Gladiator's Goredrake (Gladiator Season 2)
+    - 2980 # Spirit of Tok'jara
 
 - name: "Treasures"
   things:
@@ -21,3 +17,11 @@ groups:
     - 2749 # Echo of Aln'sharan (Harandar)
     - 2713 # Ruddy Sporeglider (Peculiar Cauldron, Harandar)
     - 2747 # Untainted Grove Crawler (Sporespawned Cache, Harandar)
+
+- name: "PvP"
+  things:
+    - 2794 # Vicious Snaplizard [A]
+    - 2793 # Vicious Snaplizard [H]
+    - 3002 # Vicious Lightbloom Boar [A]
+    - 3003 # Vicious Lightbloom Boar [H]
+    - 2821 # Venomous Gladiator's Goredrake (Gladiator Season 2)

@@ -23,5 +23,6 @@ groups:
 
 - name: "Coiled Isle"
   things:
+    - 3031 # Hexflame Reaver (Ral'kala)
     - 3061 # Ruby Writhe (rares)
     - 3051 # Topaz Skyfang (rares)

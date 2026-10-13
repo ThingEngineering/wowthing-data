@@ -3,6 +3,7 @@ groups:
 
 - name: "Harandar"
   things:
+    - 3137 # Sporebearer Fungal Strider (Showena)
     - 2913 # Vivid Chloroceros (Mothkeeper Wew'tam, Harandar)
 
 - name: "Silvermoon City"
@@ -11,6 +12,10 @@ groups:
     - 2769 # Preyseeker's Hubris (Construct V'anore, Silvermoon City)
     - 2770 # Preyseeker's Wrath (Construct V'anore, Silvermoon City)
     - 2840 # Silvermoon's Arcane Defender (Telemancer Astrandis, Silvermoon City)
+
+- name: "Coiled Isle"
+  things:
+    - 3020 # Caustic Venomfang (Skull of Er'inye, Vaults)
 
 - name: "Abundance"
   things:

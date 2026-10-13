@@ -39,3 +39,11 @@ groups:
   things:
     - 3060 # Indigo Coiled Horror (Renown 17)
     - 3054 # Violet-Backed Skyfang (Renown 19)
+
+- name: "{faction:2773}" # Captain Tokka
+  things:
+    - 3019 # Sea-Dwelling Isle Serpent
+
+- name: "{faction:2838}" # Aqir Research Enclave
+  things:
+    - 3066 # Corrupted Swarmer

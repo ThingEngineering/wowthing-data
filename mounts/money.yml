@@ -11,6 +11,8 @@ groups:
     - 1289 # Ensorcelled Everwyrm (Shadowlands Heroic Edition)
     - 1556 # Tangled Dreamweaver (Dragonflight Heroic Edition)
     - 1792 # Algarian Stormrider (The War Within Heroic Edition)
+    - 2732 # Cobalt Phase-Hunter (Burning Crusade Classic)
+    - 2719 # Starspark Netherdrake (Burning Crusade Classic)
     - 1444 # Viridian Phase-Hunter (TBC Classic Deluxe Edition)
     - 1602 # Tuskarr Shoreglider (WotLK Classic Epic Upgrade)
     - 1812 # Runebound Firelord (Cataclysm Classic ??)
@@ -53,18 +55,23 @@ groups:
     - 2931 # Amberback Arboon
     - 2529 # Archmage's Great Raven
     - 544 # Armored Bloodwing
+    - 2632 # Astral Aurochs
     - 2930 # Blossomback Arboon
     - 376 # Celestial Steed
     - 1051 # The Dreadwake
     - 551 # Enchanted Fey Dragon
     - 1797 # Ginormous Grrloc
     - 2948 # Golden Ashened Cataclysm
+    - 2573 # Grandiose Grrloc
     - 594 # Grinning Reaver
     - 2237 # Grizzly Hills Packmaster
     - 446 # Heart of the Aspects
+    - 2982 # Hearthkeeper's Wandering Caravan
     - 1221 # Hogrus, Swine of Good Fortune
     - 571 # Iron Skyreaver
     - 1594 # Jade, Bright Foreseer
+    - 2566 # Lana'thel's Crimson Cascade
+    - 3034 # Living Heartsbane Cauldron
     - 1291 # Lucky Yun
     - 949 # Luminous Starseeker
     - 2717 # Mechanical Prototype Panther MK-0
@@ -76,13 +83,16 @@ groups:
     - 741 # Mystic Runesaber
     - 2525 # Prophet's Great Raven
     - 1456 # Sapphire Skyblazer (6 month sub reward)
+    - 2634 # Scorching Valor
     - 1011 # Shu-zen, the Divine Sentinel
     - 2329 # Silvermoon Sweeper
     - 2331 # Sky Witch's Sweeper
     - 1957 # Soaring Sky Fox
+    - 2972 # Spring Panda
     - 1290 # Squeakers, the Trickster
     - 1346 # Steamscale Incinerator (6 month sub reward))
     - 2718 # Steel Prototype Panther MK-0
+    - 2922 # Stoneforged Sentinel
     - 2743 # Stormgilded Celestial
     - 2977 # Sunflare Driftmoth
     - 1330 # Sunwarmed Furline
