@@ -20,3 +20,7 @@ groups:
 - name: "Naigtal/Val"
   things:
     - 276371 # Lightveil Recall Beacon
+
+- name: "The Coiled Isle"
+  things:
+    - 280201 # Book of Storytime (Strong Heart)

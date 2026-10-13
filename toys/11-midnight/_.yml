@@ -5,7 +5,14 @@ groups:
   things:
     - 264695 # Interdimensional Parcel Signal (Treasures of Voidstorm)
     - 268717 # Pango Plating (Treasures of Zul'Aman)
+    - 280419 # Cursed Badge of the Soulcoilers (Student of Hissstory)
+    - 275825 # Ula'tek's Sssacrificial Rain (Tour of Duty: The Coiled Isle)
+
+- name: "Drops"
+  things:
+    - 276207 # Preyhunter's Masquerade (Ral'kala, The Coiled Isle)
 
 - name: "Professions"
   things:
-    - 248485 # Wormhole Generator: Quel'Thalas
+    - 275683 # G-00 (Engineering)
+    - 248485 # Wormhole Generator: Quel'Thalas (Engineering)

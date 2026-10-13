@@ -9,6 +9,18 @@ groups:
   things:
     - 264805 # Brann-O-Vision 3000
 
+- name: "Venomfall Deeps (Delve)"
+  things:
+    - 275988 # Corrosive Victory (Azta'rec quest)
+
+- name: "Labyrinth (Delve)"
+  things:
+    - 286643 # Kinduru's Spiriting Quill (intro quests)
+    - 280823 # Feathers of Akil'zon (Level 3)
+    - 280825 # Rite of Jan'alai's Flame (Level 5)
+    - 280822 # Nalorakk's Strength Charm (Level 7)
+    - 280821 # Trail of Halazzi (Level 9)
+
 - name: "Murder Row (Dungeon)"
   things:
     - 263975 # Feeling Fielder Mk. 7 (Illicit Rain: Five Stars feat)
@@ -26,3 +38,9 @@ groups:
   things:
     - 264313 # Madcap Redcap
     - 264367 # Mycomancer's Hearthspore
+
+- name: "The Unbinding of Kith'ix (Raid)"
+  things:
+    - 281136 # Hiveborne Hearthstone (quest)
+    - 281615 # Shadeweaver's Hearthstone (drop, any difficulty)
+    - 284159 # Libram of the Matriarch (drop, Mythic)

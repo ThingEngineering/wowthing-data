@@ -22,3 +22,8 @@ groups:
   things:
     - 268456 # Animated Bench
     - 268455 # Enchanted Hourglass
+
+- name: "{faction:2773}" # Captain Tokka
+  things:
+    - 274817 # Gold Starfish (??)
+    - 278557 # Otoola's Recognition (??)

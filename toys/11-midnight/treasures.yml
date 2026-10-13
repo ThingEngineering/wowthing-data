@@ -10,3 +10,12 @@ groups:
   things:
     - 267139 # Hungry Black Hole (Bloody Sack)
     - 250319 # Researcher's Shadowgraft (Forgotten Researcher's Cache)
+
+- name: "The Coiled Isle"
+  things:
+    - 279052 # Ancient Amani Mask (Sunken Diver's Chest)
+    - 279021 # Forgotten Memento (Grave of Someone Forgotten)
+    - 279054 # Idol of Blue Water and Blue Sky (Abandoned Amani Privateer's Cache)
+    - 277954 # Jaktu's Cursed Blade (Jaktu's Cursed Blade)
+    - 268504 # Malfunctioning Staff (Malfunctioning Staff)
+    - 274921 # Pearl of Jubilation (Brine-Crusted Chest)

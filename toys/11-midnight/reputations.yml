@@ -20,3 +20,20 @@ groups:
 - name: "The Singularity"
   things:
     - 263244 # Enigmatic Fountain (Renown 16)
+
+- name: "{faction:2796}" # Delves Season 2
+  things:
+    - 276189 # Effigy of Dundun (Rank 3?)
+
+- name: "{faction:2808}" # Prey Season 2
+  things:
+    - 276258 # Companion Command Crystal (Rank 4)
+    - 276229 # Preyhunter's Trophy Stand (Rank 4)
+
+- name: "{faction:2772}" # Zul'jarra's Forces
+  things:
+    - 276925 # Idol of Ula'tek (Renown 13)
+
+- name: "{faction:2838}" # Aqir Research Enclave
+  things:
+    - 275039 # Curse of the Aqir (Exalted)

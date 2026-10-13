@@ -12,6 +12,7 @@ groups:
     - 163986 # Orgrimmar Hero's War Banner (Blizzcon 2018)
     - 163987 # Stormwind Champion's War Banner (Blizzcon 2018)
     - 210042 # Chilling Celebration Banner (Blizzcon 2023)
+    - 279590 # Venomous Champion's Illustrious Banner (Blizzcon 2026)
     - 206008 # Nightmare Banner (Diablo 4?)
     - 142542 # Tome of Town Portal (Diablo 20th Anniversary)
     - 143543 # Twelve-String Guitar (Diablo 20th Anniversary)
@@ -25,6 +26,7 @@ groups:
     - 202865 # Warcraft Rumble Toy: Whelp Egg
     - 232301 # Tempered Banner of the Algari
     - 254666 # Exodar Replica (TBC Classic)
+    - 272339 # Umbral Champion's Illustrious Banner (Midnight S1/RaiderIO?)
 
 - name: "PvP"
   things:
