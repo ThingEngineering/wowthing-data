@@ -1,0 +1,16 @@
+things:
+  - id: 135804
+    type: "vendor"
+    name: "Hoarder Jena"
+    note: "Voldunai Emissary"
+
+    locations:
+      here: # voldun
+        - 56.6 49.8 horde
+
+    groups:
+      - name: "[Rep] Voldunai"
+        range: -1
+        sortKey: "0-rep-voldunai"
+
+    contents:

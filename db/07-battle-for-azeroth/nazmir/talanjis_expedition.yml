@@ -1,0 +1,16 @@
+things:
+  - id: 135459
+    type: "vendor"
+    name: "Provisioner Lija"
+    note: "Talanji's Expedition Emissary"
+
+    locations:
+      here: # nazmir
+        - 39.0 79.4 horde
+
+    groups:
+      - name: "[Rep] Talanji's Expedition"
+        range: -1
+        sortKey: "0-rep-talanji"
+
+    contents:

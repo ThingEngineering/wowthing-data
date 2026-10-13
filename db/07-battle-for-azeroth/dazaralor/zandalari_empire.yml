@@ -1,0 +1,16 @@
+things:
+  - id: 131287
+    type: "vendor"
+    name: "Natal'hakata"
+    note: "Zandalari Empire Emissary"
+
+    locations:
+      here: # dazaralor
+        - 48 48 horde
+
+    groups:
+      - name: "[Rep] Zandalari Empire"
+        range: -1
+        sortKey: "0-rep-zandalari"
+
+    contents:
