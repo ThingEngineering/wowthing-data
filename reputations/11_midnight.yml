@@ -4,6 +4,17 @@ reputations:
 
 -
   - both:
+      id: 2838 # Aqir Research Enclave
+      icon: "achievement/63657"
+      iconText: "ARE"
+
+  - both:
+      id: 2836 # The Labyrinth of Kindo'jan
+      icon: "achievement/63722"
+      iconText: "Lab"
+
+-
+  - both:
       id: 2772 # Zul'jarra's Forces
       icon: "achievement/62297"
       iconText: "ZJF"
