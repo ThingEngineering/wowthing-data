@@ -1,0 +1,286 @@
+things:
+  - id: 17904
+    type: "vendor"
+    name: "Fedryen Swiftspear"
+    note: "Cenarion Expedition Quartermaster"
+
+    locations:
+      here: # zangarmarsh
+        - 1 48.8
+        - 79.2 63.8
+
+    groups:
+      - name: "Cenarion Expedition"
+        range: -1
+
+    contents:
+
+      # Mounts
+
+      - id: 33999 # Cenarion War Hippogryph
+        costs:
+          0: 1900 # Gold
+        requirements:
+          - "reputation 942 exalted"
+
+      # Professions
+
+      - id: 32070 # Recipe: Earthen Elixir [alchemy]
+        costs:
+          0: 3 # Gold
+        requirements:
+          - "reputation 942 honored"
+
+      - id: 25869 # Recipe: Transmute Earthstorm Diamond [alchemy]
+        costs:
+          0: 7 # Gold
+        requirements:
+          - "reputation 942 honored"
+
+      - id: 22918 # Recipe: Transmute Primal Water to Air [alchemy]
+        costs:
+          0: 7 # Gold
+        requirements:
+          - "reputation 942 revered"
+
+      - id: 31356 # Recipe: Flask of Distilled Wisdom [alchemy]
+        costs:
+          0: 3 # Gold
+        requirements:
+          - "reputation 942 exalted"
+
+      - id: 22922 # Recipe: Major Nature Protection Potion [alchemy]
+        costs:
+          0: 9 # Gold
+        requirements:
+          - "reputation 942 exalted"
+
+      - id: 23618 # Plans: Adamantite Sharpening Stone [blacksmithing]
+        costs:
+          0: 5 # Gold
+        requirements:
+          - "reputation 942 honored"
+
+      - id: 28632 # Plans: Adamantite Weightstone [blacksmithing]
+        costs:
+          0: 5 # Gold
+        requirements:
+          - "reputation 942 honored"
+
+      - id: 25526 # Plans: Greater Rune of Warding [blacksmithing]
+        costs:
+          0: 5 # Gold
+        requirements:
+          - "reputation 942 honored"
+
+      - id: 31392 # Plans: Wildguard Helm [blacksmithing]
+        costs:
+          0: 22 # Gold
+        requirements:
+          - "reputation 942 revered"
+
+      - id: 31391 # Plans: Wildguard Leggings [blacksmithing]
+        costs:
+          0: 22 # Gold
+        requirements:
+          - "reputation 942 revered"
+
+      - id: 31390 # Plans: Wildguard Breastplate [blacksmithing]
+        costs:
+          0: 22 # Gold
+        requirements:
+          - "reputation 942 exalted"
+
+      - id: 28271 # Formula: Enchant Gloves - Precise Strikes [enchanting]
+        costs:
+          0: 7 # Gold
+        requirements:
+          - "reputation 942 revered"
+
+      - id: 33149 # Formula: Enchant Cloak - Stealth [enchanting]
+        costs:
+          0: 9 # Gold
+        requirements:
+          - "reputation 942 exalted"
+
+      - id: 23814 # Schematic: Green Smoke Flare [engineering]
+        costs:
+          0: 5 # Gold
+        requirements:
+          - "reputation 942 friendly"
+
+      - id: 31402 # Design: The Natural Ward [jewelcrafting]
+        costs:
+          0: 11 # Gold
+        requirements:
+          - "reputation 942 exalted"
+
+      - id: 24183 # Design: Nightseye Panther [jewelcrafting]
+        costs:
+          0: 11 # Gold
+        requirements:
+          - "reputation 942 revered"
+
+      - id: 25737 # Pattern: Heavy Clefthoof Boots [leatherworking]
+        costs:
+          0: 13 # Gold
+        requirements:
+          - "reputation 942 friendly"
+
+      - id: 25736 # Pattern: Heavy Clefthoof Leggings [leatherworking]
+        costs:
+          0: 13 # Gold
+        requirements:
+          - "reputation 942 honored"
+
+      - id: 25735 # Pattern: Heavy Clefthoof Vest [leatherworking]
+        costs:
+          0: 15 # Gold
+        requirements:
+          - "reputation 942 honored"
+
+      - id: 29720 # Pattern: Clefthide Leg Armor [leatherworking]
+        costs:
+          0: 5 # Gold
+        requirements:
+          - "reputation 942 honored"
+
+      - id: 29721 # Pattern: Nethercleft Leg Armor [leatherworking]
+        costs:
+          0: 11 # Gold
+        requirements:
+          - "reputation 942 exalted"
+
+      # Transmog
+
+      - id: 29174 # Watcher's Cowl [cloth head]
+        costs:
+          0: 12 # Gold
+        requirements:
+          - "reputation 942 revered"
+
+      - id: 35347 # Evoker's Silk Trousers [cloth legs] mage
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation 942 honored"
+
+      - id: 35336 # Mooncloth Shoulderpads [cloth shoulders] priest
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation 942 honored"
+
+      - id: 35342 # Satin Robe [cloth chest] priest
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation 942 honored"
+
+      - id: 35329 # Dreadweave Hood [cloth head] warlock
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation 942 honored"
+
+      - id: 25838 # Warden's Hauberk [leather chest]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation 942 honored"
+
+      - id: 35374 # Wyrmhide Spaulders [leather shoulders] druid
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation 942 honored"
+
+      - id: 35365 # Kodohide Robe [leather chest] druid
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation 942 honored"
+
+      - id: 35358 # Dragonhide Legguards [leather legs] druid
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation 942 honored"
+
+      - id: 35367 # Opportunist's Leather Helm [leather head] rogue
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation 942 honored"
+
+      - id: 35379 # Stalker's Chain Leggings [mail legs] hunter
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation 942 honored"
+
+      - id: 35385 # Seer's Linked Spaulders [mail shoulders] shaman
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation 942 honored"
+
+      - id: 35387 # Seer's Mail Gauntlets [mail hands] shaman
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation 942 honored"
+
+      - id: 35394 # Seer's Ringmail Legguards [mail legs] shaman
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation 942 honored"
+
+      - id: 35403 # Crusader's Ornamented Gloves [plate hands] paladin
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation 942 honored"
+
+      - id: 35415 # Crusader's Scaled Legguards [plate legs] paladin
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation 942 honored"
+
+      - id: 35408 # Savage Plate Gauntlets [plate hands] warrior
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation 942 honored"
+
+      - id: 31804 # Cenarion Expedition Tabard [tabard]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation 942 exalted"
+
+      - id: 25836 # Preserver's Cudgel [1h ? mace]
+        costs:
+          0: 35 # Gold
+        requirements:
+          - "reputation 942 honored"
+
+      - id: 25835 # Explorer's Walking Stick [staff]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation 942 honored"
+
+      - id: 29171 # Earthwarden [2h ? mace]
+        costs:
+          0: 265 # Gold
+        requirements:
+          - "reputation 942 exalted"
+
+      - id: 29170 # Windcaller's Orb [off-hand]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation 942 exalted"
