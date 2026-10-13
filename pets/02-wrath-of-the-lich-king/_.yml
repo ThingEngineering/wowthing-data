@@ -1,6 +1,10 @@
 name: Wrath of the Lich King
 groups:
 
+- name: "Achievements"
+  things:
+    - 4475 # Webbers (Family Battler of Northrend)
+
 - name: Reputations
   things:
   - 198 # Pengu (Exalted, The Kalu'ak)

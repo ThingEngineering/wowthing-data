@@ -12,6 +12,14 @@ groups:
     - 4954 # Ziorg'pharon
     - 4958 # Ominous Domanus (Nullaeus?)
 
+- name: "Dungeons"
+  things:
+    - 5129 # Slitherfang (Altar of Fangs)
+
+- name: "Raids"
+  things:
+    - 5125 # Soulcoil Remnant (Nek'zali the Soulcoiler, The Venomous Abyss)
+
 - name: "Ritual Sites"
   things:
     - 5019 # Chubs (Broken Throne)

@@ -1,6 +1,10 @@
 name: "Burning Crusade"
 groups:
 
+- name: "Achievements"
+  things:
+    - 5026 # Lil'Kruul (Family Battler of Outland)
+
 - name: Quests
   things:
   - 149 # Miniwing (Skywing, Terrokar Forest)

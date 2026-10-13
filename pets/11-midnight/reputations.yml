@@ -18,3 +18,9 @@ groups:
 - name: "{faction:2773}" # Captain Tokka's Crew
   things:
     - 5070 # Venom Elemental (Venom Trawler)
+
+- name: "{faction:2838}" # Aqir Research Enclave
+  things:
+    - 5068 # Aqir Wingreaver (Friendly)
+    - 5066 # Aqir Scuttler (Honored)
+    - 5100 # Aqir Razorwing (Revered)

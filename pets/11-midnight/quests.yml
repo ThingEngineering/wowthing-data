@@ -23,4 +23,5 @@ groups:
 
 - name: "The Coiled Isle"
   things:
+    - 5134 # Cauldron Concoction (Cauldron bullshit)
     - 5011 # Zan (A Little Kindness)

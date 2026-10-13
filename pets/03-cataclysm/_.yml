@@ -1,6 +1,10 @@
 name: Cataclysm
 groups:
 
+- name: "Achievements"
+  things:
+    - 5027 # Furiostraza (Family Battler of Cataclysm)
+
 - name: Quests
   things:
   - 259 # Blue Mini Jouster
