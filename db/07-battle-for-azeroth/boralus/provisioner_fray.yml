@@ -89,12 +89,6 @@ things:
         requirements:
           - "reputation 2160 revered"
 
-      - id: 161976 # Admiralty Marine's Duffel
-        costs:
-          0: 2850 # Gold
-        requirements:
-          - "reputation 2160 revered"
-
       - id: 162414 # Pattern: Hardened Tempest Knuckles
         costs:
           0: 1330 # Gold

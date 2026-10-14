@@ -37,11 +37,11 @@ things:
         requirements:
           - "reputation 2163 revered"
 
-      - id: 162355 # Recipe: Inked Vessel of Robust Regeneration [alchemy]
-        costs:
-          0: 1200 # Gold
-        requirements:
-          - "reputation 2163 revered"
+      # - id: 162355 # Recipe: Inked Vessel of Robust Regeneration [alchemy]
+      #   costs:
+      #     0: 1200 # Gold
+      #   requirements:
+      #     - "reputation 2163 revered"
 
       - id: 162137 # Recipe: Siren's Alchemist Stone [alchemy]
         costs:
