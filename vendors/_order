@@ -71,16 +71,16 @@
     07-battle-for-azeroth/mechagon.yml
     07-battle-for-azeroth/nazjatar.yml
     -
-    07-battle-for-azeroth/boralus.yml
     07-battle-for-azeroth/drustvar.yml
     07-battle-for-azeroth/stormsong_valley.yml
     07-battle-for-azeroth/tiragarde_sound.yml
     -
-    07-battle-for-azeroth/dazaralor.yml
     07-battle-for-azeroth/nazmir.yml
     07-battle-for-azeroth/voldun.yml
     07-battle-for-azeroth/zuldazar.yml
     -
+    07-battle-for-azeroth/boralus.yml
+    07-battle-for-azeroth/dazaralor.yml
     07-battle-for-azeroth/timewalking.yml
 
 06-legion/_.yml
