@@ -14,3 +14,241 @@ things:
         sortKey: "0-rep-talanji"
 
     contents:
+
+      - id: 161666 # Reins of the Captured Swampstalker [mount]
+        costs:
+          0: 90000 # Gold
+        requirements:
+          - "reputation 2156 exalted"
+
+      - id: 161774 # Reins of the Expedition Bloodswarmer [mount]
+        costs:
+          0: 12500 # Gold
+        requirements:
+          - "reputation 2156 exalted"
+
+      - id: 163501 # Tragg the Curious [pet]
+        costs:
+          1163036: 75
+        requirements:
+          - "reputation 2156 revered"
+
+      # Decor
+
+      - id: 245488 # Zandalari Rickshaw
+        costs:
+          1560: 200
+
+      - id: 245413 # Zandalari Sconce
+        costs:
+          1560: 150
+        requirements:
+          - "reputation 2156 honored"
+
+      - id: 257394 # Zandalari War Torch
+        costs:
+          1560: 150
+        requirements:
+          - "reputation 2156 honored"
+
+      - id: 245495 # Dazar'alor Market Tent
+        costs:
+          1560: 200
+        requirements:
+          - "reputation 2156 revered"
+
+      - id: 245500 # Red Dazar'alor Tent
+        costs:
+          1560: 200
+        requirements:
+          - "reputation 2156 revered"
+
+      # Professions
+
+      - id: 163315 # Recipe: Battle Potion of Intellect [alchemy]
+        costs:
+          0: 1400 # Gold
+        requirements:
+          - "reputation 2156 revered"
+
+      - id: 162703 # Recipe: Coastal Mana Potion [alchemy]
+        costs:
+          0: 1400 # Gold
+        requirements:
+          - "reputation 2156 revered"
+
+      - id: 162697 # Recipe: Flask of the Vast Horizon [alchemy]
+        costs:
+          0: 1400 # Gold
+        requirements:
+          - "reputation 2156 revered"
+
+      - id: 162693 # Recipe: Potion of Bursting Blood [alchemy]
+        costs:
+          0: 1400 # Gold
+        requirements:
+          - "reputation 2156 revered"
+
+      - id: 162718 # Formula: Enchant Ring - Pact of Mastery [enchanting]
+        costs:
+          0: 1400 # Gold
+        requirements:
+          - "reputation 2156 revered"
+
+      - id: 162724 # Formula: Enchant Weapon - Masterful Navigation [enchanting]
+        costs:
+          0: 1400 # Gold
+        requirements:
+          - "reputation 2156 revered"
+
+      - id: 162723 # Formula: Enchant Weapon - Siphoning [enchanting]
+        costs:
+          0: 1400 # Gold
+        requirements:
+          - "reputation 2156 revered"
+
+      - id: 162732 # Schematic: AZ3-R1-T3 Bionic Bifocals [engineering]
+        costs:
+          0: 1100 # Gold
+        requirements:
+          - "reputation 2156 honored"
+
+      - id: 162733 # Schematic: AZ3-R1-T3 Bionic Bifocals [engineering]
+        costs:
+          0: 1400 # Gold
+        requirements:
+          - "reputation 2156 revered"
+
+      - id: 162754 # Technique: Contract: Talanji's Expedition [inscription]
+        costs:
+          0: 1100 # Gold
+        requirements:
+          - "reputation 2156 honored"
+
+      - id: 162762 # Design: Tidal Amethyst Loop [jewelcrafting]
+        costs:
+          0: 1400 # Gold
+        requirements:
+          - "reputation 2156 revered"
+
+      - id: 162768 # Pattern: Hardened Tempest Knuckles [leatherworking]
+        costs:
+          0: 1400 # Gold
+        requirements:
+          - "reputation 2156 revered"
+
+      - id: 162767 # Pattern: Mistscale Knuckles [leatherworking]
+        costs:
+          0: 1400 # Gold
+        requirements:
+          - "reputation 2156 revered"
+
+      # Transmog
+
+      - id: 165234 # Swamp Medic's Gloves [cloth hands]
+        costs:
+          0: 1400 # Gold
+        requirements:
+          - "reputation 2156 revered"
+
+      - id: 161493 # Swamp Medic's Leggings [cloth legs]
+        costs:
+          0: 1400 # Gold
+        requirements:
+          - "reputation 2156 revered"
+
+      - id: 161492 # Zo'bal Spirit Gloves [cloth hands]
+        costs:
+          0: 1900 # Gold
+        requirements:
+          - "reputation 2156 exalted"
+
+      - id: 165237 # Zo'bal Spirit Sash [cloth waist]
+        costs:
+          0: 1900 # Gold
+        requirements:
+          - "reputation 2156 exalted"
+
+      - id: 165239 # Swampstalker Leggings [leather legs]
+        costs:
+          0: 1400 # Gold
+        requirements:
+          - "reputation 2156 revered"
+
+      - id: 161506 # Swampstalker Footpads [leather feet]
+        costs:
+          0: 1400 # Gold
+        requirements:
+          - "reputation 2156 revered"
+
+      - id: 165240 # Hir'eek Hide Cuffs [leather wrists]
+        costs:
+          0: 1900 # Gold
+        requirements:
+          - "reputation 2156 exalted"
+
+      - id: 161520 # Hir'eek Hide Leggings [leather legs]
+        costs:
+          0: 1900 # Gold
+        requirements:
+          - "reputation 2156 exalted"
+
+      - id: 165242 # Bracers of the Swamp Hunter [mail wrists]
+        costs:
+          0: 1400 # Gold
+        requirements:
+          - "reputation 2156 revered"
+
+      - id: 161528 # Grips of the Swamp Hunter [mail hands]
+        costs:
+          0: 1400 # Gold
+        requirements:
+          - "reputation 2156 revered"
+
+      - id: 161536 # Torga Scale Girdle [mail waist]
+        costs:
+          0: 1900 # Gold
+        requirements:
+          - "reputation 2156 exalted"
+
+      - id: 165244 # Torga Scale Boots [mail feet]
+        costs:
+          0: 1900 # Gold
+        requirements:
+          - "reputation 2156 exalted"
+
+      - id: 161538 # Gloomplate Gauntlets [plate hands]
+        costs:
+          0: 1400 # Gold
+        requirements:
+          - "reputation 2156 revered"
+
+      - id: 165248 # Gloomplate Girdle [plate waist]
+        costs:
+          0: 1400 # Gold
+        requirements:
+          - "reputation 2156 revered"
+
+      - id: 165247 # Zul'jan Camp Gauntlets [plate hands]
+        costs:
+          0: 1520 # Gold
+        requirements:
+          - "reputation 2156 exalted"
+
+      - id: 161551 # Zul'jan Camp Stalkers [plate feet]
+        costs:
+          0: 1900 # Gold
+        requirements:
+          - "reputation 2156 exalted"
+
+      - id: 160531 # Drape of the Blood Purge [cloak]
+        costs:
+          0: 1100 # Gold
+        requirements:
+          - "reputation 2156 honored"
+
+      - id: 160547 # Talanji's Expedition Tabard [tabard]
+        costs:
+          0: 625 # Gold
+        requirements:
+          - "reputation 2156 exalted"
