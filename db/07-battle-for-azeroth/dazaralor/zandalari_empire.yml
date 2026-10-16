@@ -14,3 +14,199 @@ things:
         sortKey: "0-rep-zandalari"
 
     contents:
+
+      - id: 161665 # Reins of the Cobalt Pterrordax [mount]
+        costs:
+          0: 10625 # Gold
+        requirements:
+          - "reputation 2103 exalted"
+
+      - id: 161664 # Reins of the Spectral Pterrorwing [mount]
+        costs:
+          0: 72000 # Gold
+        requirements:
+          - "reputation 2103 exalted"
+
+      - id: 163210 # Party Totem [toy]
+        costs:
+          0: 1530 # Gold
+        requirements:
+          - "reputation 2103 revered"
+
+      - id: 162625 # Tome of Polymorph: Direhorn [mage]
+        costs:
+          0: 1800 # Gold
+        requirements:
+          - "reputation 2103 revered"
+
+      - id: 162623 # Tome of Hex: Zandalari Tendonripper [shaman]
+        costs:
+          0: 1530 # Gold
+        requirements:
+          - "reputation 2103 revered"
+
+      # Professions
+
+      - id: 163317 # Recipe: Battle Potion of Stamina [alchemy]
+        costs:
+          0: 1190 # Gold
+        requirements:
+          - "reputation 2103 revered"
+
+      - id: 162704 # Recipe: Coastal Healing Potion [alchemy]
+        costs:
+          0: 1190 # Gold
+        requirements:
+          - "reputation 2103 revered"
+
+      - id: 162696 # Recipe: Flask of Endless Fathoms [alchemy]
+        costs:
+          0: 1190 # Gold
+        requirements:
+          - "reputation 2103 revered"
+
+      - id: 162692 # Recipe: Potion of Replenishment [alchemy]
+        costs:
+          0: 1120 # Gold
+        requirements:
+          - "reputation 2103 revered"
+
+      - id: 162717 # Formula: Enchant Ring - Pact of Haste [enchanting]
+        costs:
+          0: 1190 # Gold
+        requirements:
+          - "reputation 2103 revered"
+
+      - id: 162722 # Formula: Enchant Weapon - Deadly Navigation [enchanting]
+        costs:
+          0: 1190 # Gold
+        requirements:
+          - "reputation 2103 revered"
+
+      - id: 162721 # Formula: Enchant Weapon - Stalwart Navigation [enchanting]
+        costs:
+          0: 1190 # Gold
+        requirements:
+          - "reputation 2103 revered"
+
+      - id: 162730 # Schematic: AZ3-R1-T3 Gearspun Goggles [engineering]
+        costs:
+          0: 880 # Gold
+        requirements:
+          - "reputation 2103 honored"
+
+      - id: 162731 # Schematic: AZ3-R1-T3 Gearspun Goggles [engineering]
+        costs:
+          0: 1190 # Gold
+        requirements:
+          - "reputation 2103 revered"
+
+      - id: 162743 # Schematic: Deployable Attire Rearranger [engineering]
+        costs:
+          0: 1190 # Gold
+        requirements:
+          - "reputation 2103 revered"
+
+      - id: 162742 # Schematic: Interdimensional Companion Repository [engineering]
+        costs:
+          0: 1190 # Gold
+        requirements:
+          - "reputation 2103 revered"
+
+      - id: 162741 # Schematic: Organic Discombobulation Grenade [engineering]
+        costs:
+          0: 1190 # Gold
+        requirements:
+          - "reputation 2103 revered"
+
+      - id: 166736 # Schematic: Unstable Temporal Time Shifter [engineering]
+        costs:
+          0: 1615 # Gold
+        requirements:
+          - "reputation 2103 exalted"
+
+      - id: 162753 # Technique: Contract: Zandalari Empire [inscription]
+        costs:
+          0: 880 # Gold
+        requirements:
+          - "reputation 2103 honored"
+
+      - id: 162764 # Design: Laribole Staff of Alacrity [jewelcrafting]
+        costs:
+          0: 1190 # Gold
+        requirements:
+          - "reputation 2103 revered"
+
+      - id: 162761 # Design: Owlseye Loop [jewelcrafting]
+        costs:
+          0: 1120 # Gold
+        requirements:
+          - "reputation 2103 revered"
+
+      - id: 162765 # Design: Scarlet Diamond Staff of Intuition [jewelcrafting]
+        costs:
+          0: 1400 # Gold
+        requirements:
+          - "reputation 2103 revered"
+
+      # 0
+
+      - id: 161497 # Cord of the Loa Worshippers [cloth waist]
+        costs:
+          0: 1190 # Gold
+        requirements:
+          - "reputation 2103 revered"
+
+      - id: 161500 # Shadraspun Legwraps [cloth legs]
+        costs:
+          0: 1520 # Gold
+        requirements:
+          - "reputation 2103 exalted"
+
+      - id: 161516 # Bindings of the Disparate Tribes [leather wrists]
+        costs:
+          0: 1190 # Gold
+        requirements:
+          - "reputation 2103 revered"
+
+      - id: 161517 # Waistcord of Pa'ku's Flight [leather waist]
+        costs:
+          0: 1520 # Gold
+        requirements:
+          - "reputation 2103 exalted"
+
+      - id: 161526 # Gral Worshipper's Waders [mail feet]
+        costs:
+          0: 1190 # Gold
+        requirements:
+          - "reputation 2103 revered"
+
+      - id: 161524 # Torcali's Grips of the Bounty [mail hands]
+        costs:
+          0: 1520 # Gold
+        requirements:
+          - "reputation 2103 exalted"
+
+      - id: 161546 # Grand Fleet Legplates [plate legs]
+        costs:
+          0: 1190 # Gold
+        requirements:
+          - "reputation 2103 revered"
+
+      - id: 161548 # Gonk Adherents Vambraces [plate wrists]
+        costs:
+          0: 1615 # Gold
+        requirements:
+          - "reputation 2103 exalted"
+
+      - id: 160530 # Dinomancer's Cloak [cloak]
+        costs:
+          0: 880 # Gold
+        requirements:
+          - "reputation 2103 honored"
+
+      - id: 160546 # Tabard of the Zandalari Empire [tabard]
+        costs:
+          0: 531 # Gold
+        requirements:
+          - "reputation 2103 exalted"
