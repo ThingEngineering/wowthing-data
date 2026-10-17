@@ -1,0 +1,48 @@
+name: "[12.1.5] Aqir Invasions"
+groups:
+
+- name: "Aqir Invasions"
+  type: armor
+  sets:
+    - "Event Armor"
+  data:
+    cloth:
+      - name: "Event Cloth"
+        itemsV2:
+          - 277885 # Veilweaver Trousers
+          - 277895 # Veilweaver's Shadowgown
+
+    leather:
+      - name: "Event Leather"
+        itemsV2:
+          - 277888 # Veil of the Feral Rite
+          - 277890 # Wildwarden's Guise
+
+    mail:
+      - name: "Event Mail"
+        itemsV2:
+          - 277896 # Bloodtide Hauberk
+          - 277891 # Leviathan Bracerbands
+
+    plate:
+      - name: "Event Plate"
+        itemsV2:
+          - 277898 # Duskhallow Vanguard Greaves
+          - 284219 # Granite Ritual Cuirass
+
+- name: "Aqir Invasions"
+  type: all
+  sets:
+    - "Event Weapons"
+  data:
+    all:
+      - name: "Event Weapons"
+        itemsV2:
+          - 277883 # Duskmantle Spiteglass
+          - 277893 # Emberveil Ritual Knife
+          - 277889 # Fanged Riftrazor
+          - 277899 # Fangwarden's Shardspine Bow
+          - 277882 # Feral Gloombranch
+          - 277880 # Runic Moonbrand
+          - 277876 # Sacrosanct Thirstspire
+          - 277879 # Whisperthorn Ritual Knife
