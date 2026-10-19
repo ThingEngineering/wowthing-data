@@ -1,4 +1,115 @@
 things:
+  - id: 273403
+    type: "vendor"
+    name: "Jack"
+    note: "Decor Vendor"
+
+    locations:
+      "00-classic/elwynn-forest":
+        - 31.9 50.3
+    
+    contents:
+
+      - id: 284212 # Technique: Apple Bobbing Bucket [inscription]
+        costs:
+          1033226: 20
+
+      - id: 284213 # Pattern: Spidery Witch Hat [tailoring]
+        costs:
+          1033226: 20
+
+      - id: 282194 # Candlelit Ogre Jack-o'-Lantern
+        costs:
+          1033226: 20
+
+      - id: 282192 # Candlelit Shrieking Jack-o'-Lantern
+        costs:
+          1033226: 20
+
+      - id: 282202 # Elaborate Heartsbane Ritual Markings
+        costs:
+          1033226: 15
+
+      - id: 282196 # Filled Candy Bucket
+        costs:
+          1033226: 20
+
+      - id: 282208 # Heartsbane Banner
+        costs:
+          1033226: 25
+
+      - id: 282206 # Heartsbane Stone Circle
+        costs:
+          1033226: 15
+
+      - id: 282289 # Horrific Head of the Horseman
+        costs:
+          1033226: 20
+
+      - id: 282213 # Looming Heartsbane Effigy
+        costs:
+          1033226: 25
+
+      - id: 282204 # Ominous Heartsbane Shrine
+        costs:
+          1033226: 25
+
+      - id: 282200 # Unlit Ogre Jack-o'-Lantern
+        costs:
+          1033226: 20
+
+      - id: 282198 # Unlit Shrieking Jack-o'-Lantern
+        costs:
+          1033226: 20
+
+      - id: 282086 # Buckled Witch Hat
+        costs:
+          0: 250 # Gold
+
+      - id: 282081 # Candlelit Smiling Jack-o'-Lantern
+        costs:
+          0: 500 # Gold
+
+      - id: 282098 # Elaborate Heartsbane Doom Catcher
+        costs:
+          0: 100 # Gold
+
+      - id: 282072 # Enchanted Hallow's End Candle
+        costs:
+          0: 100 # Gold
+
+      - id: 282090 # Eternally Powered Glowskull
+        costs:
+          0: 100 # Gold
+
+      - id: 282075 # Heartsbane Candle
+        costs:
+          0: 100 # Gold
+
+      - id: 282100 # Heartsbane Doom Catcher
+        costs:
+          0: 100 # Gold
+
+      - id: 282092 # Heartsbane Ritual Markings
+        costs:
+          0: 500 # Gold
+
+      - id: 282095 # Ominous Heartsbane Banner
+        costs:
+          0: 500 # Gold
+
+      - id: 282051 # Simple Hallow's End Candle
+        costs:
+          0: 100 # Gold
+
+      - id: 282077 # Spooky Scarecrow
+        costs:
+          0: 500 # Gold
+
+      - id: 282083 # Unlit Smiling Jack-o'-Lantern
+        costs:
+          0: 500 # Gold
+
   - id: 273472
     type: "vendor"
     name: "Cordula Wolfgang"
