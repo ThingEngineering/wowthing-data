@@ -1,0 +1,65 @@
+things:
+  - id: 273472
+    type: "vendor"
+    name: "Cordula Wolfgang"
+    note: "Hallow's End Decor Specialist"
+
+    locations:
+      here: # founders_point
+        - 54.2 32.6
+
+    contents:
+
+      # 0
+
+      - id: 284212 # Technique: Apple Bobbing Bucket [inscription]
+        costs:
+          1033226: 20
+
+      - id: 284213 # Pattern: Spidery Witch Hat [tailoring]
+        costs:
+          1033226: 20
+
+      - id: 282194 # Candlelit Ogre Jack-o'-Lantern
+        costs:
+          1033226: 20
+
+      - id: 282192 # Candlelit Shrieking Jack-o'-Lantern
+        costs:
+          1033226: 20
+
+      - id: 282202 # Elaborate Heartsbane Ritual Markings
+        costs:
+          1033226: 15
+
+      - id: 282196 # Filled Candy Bucket
+        costs:
+          1033226: 20
+
+      - id: 282208 # Heartsbane Banner
+        costs:
+          1033226: 25
+
+      - id: 282206 # Heartsbane Stone Circle
+        costs:
+          1033226: 15
+
+      - id: 282289 # Horrific Head of the Horseman
+        costs:
+          1033226: 20
+
+      - id: 282213 # Looming Heartsbane Effigy
+        costs:
+          1033226: 25
+
+      - id: 282204 # Ominous Heartsbane Shrine
+        costs:
+          1033226: 25
+
+      - id: 282200 # Unlit Ogre Jack-o'-Lantern
+        costs:
+          1033226: 20
+
+      - id: 282198 # Unlit Shrieking Jack-o'-Lantern
+        costs:
+          1033226: 20

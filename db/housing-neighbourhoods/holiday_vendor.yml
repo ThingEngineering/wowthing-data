@@ -1,0 +1,98 @@
+things:
+  - id: 271366
+    type: "vendor"
+    name: "Jolli Maxiboom"
+    note: "Holiday Decor Vendor"
+
+    tags:
+      - "housing:razorwind-shores"
+
+    locations:
+      "housing/razorwind_shores":
+        - 52.4 54.2
+
+    groups: &groups
+
+      - name: "Holidays - Brewfest"
+        range: 2
+
+      - name: "Holidays - Hallow's End"
+        range: -1
+
+    contents: &contents
+
+      # Brewfest
+
+      - id: 280335 # Brewfest Crate
+        costs:
+          0: 100 # Gold
+
+      - id: 248101 # Traditional Brewfest Stein
+        costs:
+          0: 100 # Gold
+
+      # Hallow's End
+
+      - id: 282086 # Buckled Witch Hat
+        costs:
+          0: 250 # Gold
+
+      - id: 282081 # Candlelit Smiling Jack-o'-Lantern
+        costs:
+          0: 500 # Gold
+
+      - id: 282098 # Elaborate Heartsbane Doom Catcher
+        costs:
+          0: 100 # Gold
+
+      - id: 282072 # Enchanted Hallow's End Candle
+        costs:
+          0: 100 # Gold
+
+      - id: 282090 # Eternally Powered Glowskull
+        costs:
+          0: 100 # Gold
+
+      - id: 282075 # Heartsbane Candle
+        costs:
+          0: 100 # Gold
+
+      - id: 282100 # Heartsbane Doom Catcher
+        costs:
+          0: 100 # Gold
+
+      - id: 282092 # Heartsbane Ritual Markings
+        costs:
+          0: 500 # Gold
+
+      - id: 282095 # Ominous Heartsbane Banner
+        costs:
+          0: 500 # Gold
+
+      - id: 282051 # Simple Hallow's End Candle
+        costs:
+          0: 100 # Gold
+
+      - id: 282077 # Spooky Scarecrow
+        costs:
+          0: 500 # Gold
+
+      - id: 282083 # Unlit Smiling Jack-o'-Lantern
+        costs:
+          0: 500 # Gold
+
+  - id: 271604
+    type: "vendor"
+    name: "Holly Twinklebright"
+    note: "Holiday Decor Vendor"
+
+    tags:
+      - "housing:founders-point"
+
+    locations:
+      "housing/founders_point":
+        - 54.4 32.8
+
+    groups: *groups
+
+    contents: *contents
