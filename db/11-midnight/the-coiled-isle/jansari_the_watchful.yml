@@ -1,0 +1,346 @@
+things:
+  - id: 268228
+    type: "vendor"
+    name: "Jan'sari the Watchful"
+    note: "Renown Quartermaster"
+
+    locations:
+      here: # the_coiled_isle
+        - 58.8 46
+
+    groups:
+
+      - name: "{faction:2772} - Misc"
+        range: 4
+        sortKey: "rep-zuljarras-1"
+
+      - name: "{faction:2772} - Decor"
+        range: 15
+        sortKey: "rep-zuljarras-2"
+
+      - name: "{faction:2772} - Professions"
+        range: 21
+        sortKey: "rep-zuljarras-3"
+
+      - name: "{faction:2772} - Transmog"
+        range: -1
+        sortKey: "rep-zuljarras-4"
+
+    contents:
+
+      - id: 276248 # Snek'zali [pet]
+        costs:
+          3316: 2500
+        requirements:
+          - "reputation 2772 renown-12"
+
+      - id: 276925 # Idol of Ula'tek [toy]
+        costs:
+          3316: 4000
+        requirements:
+          - "reputation 2772 renown-13"
+
+      - id: 276802 # Indigo Coiled Horror [mount]
+        costs:
+          3316: 6000
+        requirements:
+          - "reputation 2772 renown-17"
+
+      - id: 276551 # Violet-Backed Skyfang [mount]
+        costs:
+          3316: 8000
+        requirements:
+          - "reputation 2772 renown-19"
+
+      # Decor
+
+      - id: 263316 # Amani Storage Crate
+        costs:
+          3316: 150
+        requirements:
+          - "reputation 2772 renown-3"
+
+      - id: 249765 # Amani Supply Sack
+        costs:
+          3316: 150
+        requirements:
+          - "reputation 2772 renown-3"
+
+      - id: 264331 # Amani Wayfarer's Torch
+        costs:
+          3316: 150
+        requirements:
+          - "reputation 2772 renown-3"
+
+      - id: 269779 # Fanged Scaleskin Pouch
+        costs:
+          3316: 150
+        requirements:
+          - "reputation 2772 renown-7"
+
+      - id: 269778 # Stitched Blisterfang Bag
+        costs:
+          3316: 150
+        requirements:
+          - "reputation 2772 renown-7"
+
+      - id: 277280 # Vilescar Weapon Rack
+        costs:
+          3316: 250
+        requirements:
+          - "reputation 2772 renown-7"
+
+      - id: 277275 # Charmed Blisterfang Urn
+        costs:
+          3316: 150
+        requirements:
+          - "reputation 2772 renown-11"
+
+      - id: 277273 # Cracked Vilescar Urn
+        costs:
+          3316: 150
+        requirements:
+          - "reputation 2772 renown-11"
+
+      - id: 277271 # Wrapped Scaleskin Urn
+        costs:
+          3316: 150
+        requirements:
+          - "reputation 2772 renown-11"
+
+      - id: 276459 # Amani Ritual Candles
+        costs:
+          3316: 150
+        requirements:
+          - "reputation 2772 renown-15"
+
+      - id: 264271 # Amani Ritual Totem
+        costs:
+          3316: 250
+        requirements:
+          - "reputation 2772 renown-15"
+
+      - id: 276457 # Amani Worship Candle
+        costs:
+          3316: 150
+        requirements:
+          - "reputation 2772 renown-15"
+
+      - id: 271177 # Open Serpentine Reliquary
+        costs:
+          3316: 250
+        requirements:
+          - "reputation 2772 renown-18"
+
+      - id: 277323 # Sealed Serpentine Reliquary
+        costs:
+          3316: 250
+        requirements:
+          - "reputation 2772 renown-18"
+
+      - id: 267377 # Ula'tek Ritual Monolith
+        costs:
+          3316: 250
+        requirements:
+          - "reputation 2772 renown-18"
+
+      # Professions
+
+      - id: 271885 # Recipe: Concentrated Silvermoon Health Potion [alchemy]
+        costs:
+          3256: 150
+        requirements:
+          - "reputation 2772 renown-5"
+
+      - id: 275304 # Plans: Amani Forgemaster's Workbench [blacksmithing]
+        costs:
+          3257: 150
+        requirements:
+          - "reputation 2772 renown-5"
+
+      - id: 275300 # Recipe: Loa's Gathering [cooking]
+        costs:
+          3316: 1500
+        requirements:
+          - "reputation 2772 renown-5"
+
+      - id: 275310 # Formula: Keen Hex Mask [enchanting]
+        costs:
+          3258: 150
+        requirements:
+          - "reputation 2772 renown-5"
+
+      - id: 273073 # Formula: Rite of the Hash'ey [enchanting]
+        costs:
+          3258: 150
+        requirements:
+          - "reputation 2772 renown-5"
+
+      - id: 275316 # Schematic: Coiled Amani Hookshot [engineering]
+        costs:
+          3259: 150
+        requirements:
+          - "reputation 2772 renown-5"
+
+      - id: 277820 # Recipe: Ula'tek Snakehead Lure [fishing]
+        costs:
+          3316: 1500
+        requirements:
+          - "reputation 2772 renown-5"
+
+      - id: 277967 # Technique: Contract: Zul'jarra's Forces [inscription]
+        costs:
+          3261: 150
+        requirements:
+          - "reputation 2772 renown-5"
+
+      - id: 272196 # Technique: Vantus Rune: Tides [inscription]
+        costs:
+          3261: 150
+        requirements:
+          - "reputation 2772 renown-5"
+
+      - id: 275332 # Pattern: Flat Snakeskin Canopy [leatherworking]
+        costs:
+          3263: 150
+        requirements:
+          - "reputation 2772 renown-5"
+
+      - id: 274500 # Demystifyin': Alchemy
+        costs:
+          3256: 75
+          3316: 750
+        requirements:
+          - "reputation 2772 renown-6"
+
+      - id: 274515 # Demystifyin': Blacksmithing
+        costs:
+          3257: 75
+          3316: 750
+        requirements:
+          - "reputation 2772 renown-6"
+
+      - id: 274511 # Demystifyin': Enchanting
+        costs:
+          3258: 75
+          3316: 750
+        requirements:
+          - "reputation 2772 renown-6"
+
+      - id: 274516 # Demystifyin': Engineering
+        costs:
+          3259: 75
+          3316: 750
+        requirements:
+          - "reputation 2772 renown-6"
+
+      - id: 274513 # Demystifyin': Herbalism
+        costs:
+          3260: 75
+          3316: 750
+        requirements:
+          - "reputation 2772 renown-6"
+
+      - id: 274514 # Demystifyin': Inscription
+        costs:
+          3261: 75
+          3316: 750
+        requirements:
+          - "reputation 2772 renown-6"
+
+      - id: 274510 # Demystifyin': Jewelcrafting
+        costs:
+          3262: 75
+          3316: 750
+        requirements:
+          - "reputation 2772 renown-6"
+
+      - id: 274507 # Demystifyin': Leatherworking
+        costs:
+          3263: 75
+          3316: 750
+        requirements:
+          - "reputation 2772 renown-6"
+
+      - id: 274509 # Demystifyin': Mining
+        costs:
+          3264: 75
+          3316: 750
+        requirements:
+          - "reputation 2772 renown-6"
+
+      - id: 274508 # Demystifyin': Skinning
+        costs:
+          3265: 75
+          3316: 750
+        requirements:
+          - "reputation 2772 renown-6"
+
+      - id: 274512 # Demystifyin': Tailoring
+        costs:
+          3266: 75
+          3316: 750
+        requirements:
+          - "reputation 2772 renown-6"
+
+      # Transmog
+
+      - id: 276249 # Cloak of the Hash'ura [subclass=5 back]
+        costs:
+          3316: 3000
+        requirements:
+          - "reputation 2772 renown-2"
+
+      - id: 276250 # Tabard of the Hash'ura [tabard]
+        costs:
+          3316: 3000
+        requirements:
+          - "reputation 2772 renown-10"
+
+      - id: 276841 # Arsenal: Armaments of the Loa
+        costs:
+          3316: 5000
+        requirements:
+          - "reputation 2772 renown-15"
+
+      - id: 276251 # Shoulderguards of the Hash'ura [subclass=5 shoulders]
+        costs:
+          3316: 3000
+        requirements:
+          - "reputation 2772 renown-16"
+
+      - id: 276608 # Ensemble: Battlegear of Halazzi's Chosen
+        costs:
+          3316: 5000
+        requirements:
+          - "reputation 2772 renown-18"
+
+      - id: 276609 # Ensemble: Chainmail of Akil'zon's Chosen
+        costs:
+          3316: 5000
+        requirements:
+          - "reputation 2772 renown-18"
+
+      - id: 276607 # Ensemble: Vestments of Jan'alai's Chosen
+        costs:
+          3316: 5000
+        requirements:
+          - "reputation 2772 renown-18"
+
+      - id: 276610 # Ensemble: Warplate of Nalorakk's Chosen
+        costs:
+          3316: 5000
+        requirements:
+          - "reputation 2772 renown-18"
+
+      - id: 277327 # Mantle of Nalorakk [subclass=5 shoulders]
+        costs:
+          3316: 5000
+        requirements:
+          - "reputation 2772 renown-20"
+
+      - id: 277326 # Axe of the Amani [2h ? axe]
+        costs:
+          3316: 5000
+        requirements:
+          - "reputation 2772 renown-20"
