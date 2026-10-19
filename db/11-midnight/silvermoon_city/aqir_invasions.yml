@@ -1,0 +1,91 @@
+things:
+  - id: 266188
+    type: "vendor"
+    name: "Estelia Archtender"
+    note: "Aqir Researcher"
+
+    locations:
+      here: # silvermoon_city
+        - 39.2 80.2
+
+    groups:
+
+      - name: "Aqir Invasions"
+        range: -1
+        sortKey: "aqir"
+
+    contents:
+
+      # 0
+
+      - id: 274923 # Aqir Scuttler [pet]
+        costs:
+          3316: 1000
+        requirements:
+          - "reputation 2838 friendly"
+
+      - id: 274927 # Aqir Wingreaver [pet]
+        costs:
+          3316: 1000
+        requirements:
+          - "reputation 2838 friendly"
+
+      - id: 276927 # Aqir Razorwing [pet]
+        costs:
+          3316: 2000
+        requirements:
+          - "reputation 2838 revered"
+
+      - id: 276926 # Corrupted Swarmer [mount]
+        costs:
+          3316: 2500
+        requirements:
+          - "reputation 2838 exalted"
+
+      - id: 275039 # Curse of the Aqir [toy]
+        costs:
+          3316: 2500
+        requirements:
+          - "reputation 2838 exalted"
+
+      - id: 275873 # Dormant Brood Egg [decor]
+        costs:
+          3316: 250
+        requirements:
+          - "reputation 2838 friendly"
+
+      - id: 275869 # Nourished Brood Eggs [decor]
+        costs:
+          3316: 250
+        requirements:
+          - "reputation 2838 friendly"
+
+      - id: 275879 # Dormant Brood Egg Cluster [decor]
+        costs:
+          3316: 250
+        requirements:
+          - "reputation 2838 honored"
+
+      - id: 275867 # Nourished Brood Egg Cluster [decor]
+        costs:
+          3316: 250
+        requirements:
+          - "reputation 2838 honored"
+
+      - id: 275871 # Dormant Clutch of Brood Eggs [decor]
+        costs:
+          3316: 350
+        requirements:
+          - "reputation 2838 revered"
+
+      - id: 275865 # Nourished Clutch of Brood Eggs [decor]
+        costs:
+          3316: 350
+        requirements:
+          - "reputation 2838 revered"
+
+      - id: 280050 # Aqir Hunter's Trophy [decor]
+        costs:
+          3316: 1000
+        requirements:
+          - "reputation 2838 exalted"
