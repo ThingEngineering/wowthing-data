@@ -1,14 +1,14 @@
 things:
-  - id: 273403
+  - id: 273402
     type: "vendor"
-    name: "Jack"
+    name: "Echo"
     note: "Decor Vendor"
 
     locations:
-      "00-classic/elwynn-forest":
-        - 31.9 50.3
+      "00-classic/ruins-of-lordaeron":
+        - 62.3 66.7 horde
     
-    contents:
+    contents: &capital-contents
 
       - id: 284212 # Technique: Apple Bobbing Bucket [inscription]
         costs:
@@ -109,6 +109,17 @@ things:
       - id: 282083 # Unlit Smiling Jack-o'-Lantern
         costs:
           0: 500 # Gold
+
+  - id: 273403
+    type: "vendor"
+    name: "Jack"
+    note: "Decor Vendor"
+
+    locations:
+      "00-classic/elwynn-forest":
+        - 31.9 50.3 alliance
+    
+    contents: *capital-contents
 
   - id: 273472
     type: "vendor"
