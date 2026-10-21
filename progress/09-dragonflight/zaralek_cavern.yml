@@ -1,66 +1,23 @@
 name: "Zaralek Cavern"
 groups:
   
-- name: "Breaking Ground"
+- name: "Zaralaek Cavern Storyline"
   icon: "achievement/16401"
-  iconText: "ZC1"
+  iconText: "Main"
   lookup: none
-  type: quest
+  type: questline
   data:
     0:
-      - name: "The Land Beneath"
-        id: 72975
-
-      - name: "News From Beneath"
-        id: 75456
-
-      - name: "A Crack in the World"
-        id: 72976
-
-      - name: "Where the Flames Fell"
-        id: 72977
-
-      - name: "Scar of Earth and Fire"
-        id: 72978
-
-      - name: "The Patience of Princes"
-        id: 72981
-
-      - name: "It Was Not Enough"
-        id: 72873
-
-      - name: "Culling the Deep"
-        id: 72872
-
-      - name: "Niffen and Goliath"
-        id: 72970
-
-      - name: "Brother's Keeper"
-        id: 72980
-
-      - name: "Secrets From Our Father"
-        id: 72874
-
-      - name: "The Earth Gives Way"
-        id: 72979
-
-      - name: "Smells Like Loamm"
-        id: 72973
-        description: "Unlocks faction?"
-
-      - name: "Welcome to the City of Smells"
-        id: 72974
-
-      - name: "Orientation: Loamm Niffen"
-        id: 75643
-
-      - name: "Six Hundred Feet Under"
-        id: 75644
-
-- name: separator
+      - id: 1392 # Breaking Ground
+      - id: 1393 # Sundered Legacy
+      - id: 1394 # The Ancient Bargain
+      - id: 1395 # Inherited Sin
+      - id: 1396 # Inevitable Confrontation
+      - id: 1397 # A Flame, Extinguished
 
 - name: "Side Quests"
   icon: "achievement/17766" # Explore Zaralek Cavern
+  iconText: "Side"
   lookup: none
   type: quest
   data:
