@@ -6,11 +6,11 @@ things:
 
     locations:
       "05-warlords-of-draenor/frostwall":
-        - 47.8 38.6
+        - 47.8 38.6 horde
       "05-warlords-of-draenor/lunarfall":
-        - 44.4 51.4
+        - 44.4 51.4 alliance
 
-    groups:
+    groups: &groups
       - name: "Garrison"
         range: -1
 
@@ -35,3 +35,19 @@ things:
       - id: 128663 # Witch's Brew
         costs:
           1128658: 5
+
+  - id: 244568
+    type: object
+    name: "Spooky Pepe"
+
+    locations:
+      "05-warlords-of-draenor/frostwall":
+        - 70.7 90.2 horde
+      "05-warlords-of-draenor/lunarfall":
+        - 40.1 70.0 alliance
+
+    groups: *groups
+
+    contents:
+      - id: 128874 # A Tiny Scarecrow Costume
+      - id: 282287 # Scarecrow Pepe [decor]
