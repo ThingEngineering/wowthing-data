@@ -27,8 +27,14 @@ farms:
   npcId: 150191
   questId: 55584
   drops:
-  - type: pet
-    id: 2706 # Brinestone Algan
+    - type: pet
+      id: 2706 # Brinestone Algan
+
+    - type: item
+      id: 169612 # Recipe: Osmenite Deposit 2
+
+    - type: item
+      id: 169613 # Recipe: Osmenite Seam 2
 
 - name: "Blindlight"
   location: 37.4 82.6
@@ -155,8 +161,14 @@ farms:
   npcId: 150468
   questId: 55603
   drops:
-  - type: pet
-    id: 2709 # Skittering Eel
+    - type: pet
+      id: 2709 # Skittering Eel
+
+    - type: item
+      id: 170067 # Skinning Technique: Cragscale 2
+
+    - type: item
+      id: 170066 # Skinning Technique: Dredged Leather 2
 
 # Quest
 
