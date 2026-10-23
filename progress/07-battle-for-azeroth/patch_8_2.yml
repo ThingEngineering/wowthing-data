@@ -120,8 +120,8 @@ groups:
   type: quest
   data:
     alliance:
-      - name: "The Wolf's Offensive" # 1
-        id: 56031
+      # - name: "The Wolf's Offensive" # 1 (optional breadcrumb)
+      #   id: 56031
 
       - name: "Send the Fleet" # 2
         id: 56043
@@ -198,8 +198,8 @@ groups:
         id: 56350
 
     horde:
-      - name: "The Warchief's Order" # 1
-        id: 56030
+      # - name: "The Warchief's Order" # 1 (optional breadcrumb)
+      #   id: 56030
 
       - name: "Send the Fleet" # 2
         id: 56044
