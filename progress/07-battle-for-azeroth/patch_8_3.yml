@@ -1,4 +1,4 @@
-name: "Black Empire (8.3)"
+name: "[8.3] Black Empire"
 groups:
 
 - name: "Intro"
@@ -72,6 +72,7 @@ groups:
 
       - name: "Time-Lost Warriors"
         id: 56771
+        description: "Unlocks Vale of Eternal Blossoms Assaults"
 
       - name: "Proof of Tenacity"
         id: 56540
@@ -84,7 +85,6 @@ groups:
 
       - name: "Magni's Findings"
         id: 58737
-        description: "Unlocks Vale of Eternal Blossoms Assaults"
   
 - name: "Legendary Cloak"
   icon: "item/169223"
