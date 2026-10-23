@@ -1,4 +1,4 @@
-name: Rise of Azshara (8.2)
+name: "[8.2] Rise of Azshara"
 groups:
 
 - name: "Mechagon Storyline"
@@ -439,6 +439,139 @@ groups:
  
       - name: "The Tide Turns" # 8
         id: 55799
+
+- name: separator
+
+- name: "Friend Quests"
+  icon: "achievement/13638"
+  lookup: faction
+  type: quest
+  data:
+    alliance:
+
+      - id: 56787
+        name: "[Rank  2] Bladesman Inowari"
+
+      - id: 56788
+        name: "[Rank  5] Bladesman Inowari"
+
+      - id: 56789
+        name: "[Rank  7] Bladesman Inowari"
+
+      - id: 56790
+        name: "[Rank  9] Bladesman Inowari"
+
+      - id: 56791
+        name: "[Rank 13] Bladesman Inowari"
+
+      - id: 56218
+        name: "[Rank 20] Bladesman Inowari"
+        description: "Rewards {item:169354} pet"
+
+      - name: separator
+
+      - id: 56782
+        name: "[Rank  2] Farseer Ori"
+
+      - id: 56783
+        name: "[Rank  5] Farseer Ori"
+
+      - id: 56784
+        name: "[Rank  7] Farseer Ori"
+
+      - id: 56785
+        name: "[Rank  9] Farseer Ori"
+
+      - id: 56786
+        name: "[Rank 13] Farseer Ori"
+
+      - id: 56216
+        name: "[Rank 20] Farseer Ori"
+        description: "Rewards {item:170155} toy"
+
+      - name: separator
+      
+      - id: 56777
+        name: "[Rank  2] Hunter Akana"
+
+      - id: 56778
+        name: "[Rank  5] Hunter Akana"
+
+      - id: 56779
+        name: "[Rank  7] Hunter Akana"
+
+      - id: 56780
+        name: "[Rank  9] Hunter Akana"
+
+      - id: 56781
+        name: "[Rank 13] Hunter Akana"
+
+      - id: 56217
+        name: "[Rank 20] Hunter Akana"
+        description: "Rewards {item:169200} mount"
+
+    horde:
+
+      - id: 56813
+        name: "[Rank  2] Neri Sharpfin"
+
+      - id: 56814
+        name: "[Rank  5] Neri Sharpfin"
+
+      - id: 56815
+        name: "[Rank  7] Neri Sharpfin"
+
+      - id: 56816
+        name: "[Rank  9] Neri Sharpfin"
+
+      - id: 56817
+        name: "[Rank 13] Neri Sharpfin"
+
+      - id: 56214
+        name: "[Rank 20] Neri Sharpfin"
+        description: "Rewards {item:169199} mount"
+
+      - name: separator
+      
+      - id: 56808
+        name: "[Rank  2] Poen Gillbrack"
+
+      - id: 56809
+        name: "[Rank  5] Poen Gillbrack"
+
+      - id: 56810
+        name: "[Rank  7] Poen Gillbrack"
+
+      - id: 56811
+        name: "[Rank  9] Poen Gillbrack"
+
+      - id: 56812
+        name: "[Rank 13] Poen Gillbrack"
+
+      - id: 56215
+        name: "[Rank 20] Poen Gillbrack"
+        description: "Rewards {item:169353} pet"
+
+      - name: separator
+      
+      - id: 56803
+        name: "[Rank  2] Vim Brineheart"
+
+      - id: 56804
+        name: "[Rank  5] Vim Brineheart"
+
+      - id: 56805
+        name: "[Rank  7] Vim Brineheart"
+
+      - id: 56806
+        name: "[Rank  9] Vim Brineheart"
+
+      - id: 56807
+        name: "[Rank 13] Vim Brineheart"
+
+      - id: 56219
+        name: "[Rank 20] Vim Brineheart"
+        description: "Rewards {item:170154} toy"
 
 - name: separator
 
