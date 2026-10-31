@@ -95,11 +95,17 @@ groups:
   icon: "item/122457"
   minimumLevel: 35
   requiredQuestId: 36615 36614 # My Very Own Castle/My Very Own Fortress
+  lookup: faction
   type: quest
   data:
-    0:
+    alliance:
       - name: "Unearthed Magic"
         id: 38241
+        description: "Rewards an Ultimate Battle-Training Stone"
+
+    horde:
+      - name: "Unearthed Magic"
+        id: 38242
         description: "Rewards an Ultimate Battle-Training Stone"
 
 - name: "Shipyard Level"
