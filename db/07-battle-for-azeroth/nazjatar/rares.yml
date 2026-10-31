@@ -1,0 +1,33 @@
+things:
+
+  - id: 150191
+    type: "npc"
+    name: "Avarius"
+    trackingQuestId: 55584
+
+    locations:
+      here:
+        - 36.9 11.2
+
+    contents:
+      - id: 169373 # Brinestone Algan [pet]
+
+      - id: 169612 # Recipe: Osmenite Deposit 2 [mining]
+
+      - id: 169613 # Recipe: Osmenite Seam 2 [mining]
+
+  - id: 150468
+    type: "npc"
+    name: "Vor'koth"
+    trackingQuestId: 55603
+    
+    locations:
+      here:
+        - 48.0 24.3
+    
+    contents:
+      - id: 169376 # Skittering Eel
+
+      - id: 170067 # Skinning Technique: Cragscale 2 [skinning]
+
+      - id: 170066 # Skinning Technique: Dredged Leather 2 [skinning]
