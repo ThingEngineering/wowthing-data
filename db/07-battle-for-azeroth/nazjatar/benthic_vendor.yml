@@ -19,50 +19,42 @@ things:
       - name: "Benthic - Shoulders"
         range: 4
         sortKey: "token-02"
-        bonusIds: &rng
-          - 999999 # RNG
+        bonusIds: *rng
 
       - name: "Benthic - Back"
         range: 4
         sortKey: "token-03"
-        bonusIds: &rng
-          - 999999 # RNG
+        bonusIds: *rng
 
       - name: "Benthic - Chest"
         range: 4
         sortKey: "token-04"
-        bonusIds: &rng
-          - 999999 # RNG
+        bonusIds: *rng
 
       - name: "Benthic - Wrists"
         range: 24
         sortKey: "token-05"
-        bonusIds: &rng
-          - 999999 # RNG
+        bonusIds: *rng
 
       - name: "Benthic - Hands"
         range: 20
         sortKey: "token-06"
-        bonusIds: &rng
-          - 999999 # RNG
+        bonusIds: *rng
 
       - name: "Benthic - Waist"
         range: 8
         sortKey: "token-07"
-        bonusIds: &rng
-          - 999999 # RNG
+        bonusIds: *rng
 
       - name: "Benthic - Legs"
         range: 12
         sortKey: "token-08"
-        bonusIds: &rng
-          - 999999 # RNG
+        bonusIds: *rng
 
       - name: "Benthic - Feet"
         range: -1
         sortKey: "token-09"
-        bonusIds: &rng
-          - 999999 # RNG
+        bonusIds: *rng
 
     contents: &contents
 
