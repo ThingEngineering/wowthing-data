@@ -1,0 +1,386 @@
+things:
+  - id: 153510
+    type: "vendor"
+    name: "Artisan Itanu"
+    note: "Vaultkeeper of the Ankoan"
+
+    locations:
+      here: # nazjatar
+        - 37.8 55.6 alliance
+
+    groups: &groups
+
+      - name: "Benthic - Head"
+        range: 4
+        sortKey: "token-01"
+        bonusIds: &rng
+          - 999999 # RNG
+
+      - name: "Benthic - Shoulders"
+        range: 4
+        sortKey: "token-02"
+        bonusIds: &rng
+          - 999999 # RNG
+
+      - name: "Benthic - Back"
+        range: 4
+        sortKey: "token-03"
+        bonusIds: &rng
+          - 999999 # RNG
+
+      - name: "Benthic - Chest"
+        range: 4
+        sortKey: "token-04"
+        bonusIds: &rng
+          - 999999 # RNG
+
+      - name: "Benthic - Wrists"
+        range: 24
+        sortKey: "token-05"
+        bonusIds: &rng
+          - 999999 # RNG
+
+      - name: "Benthic - Hands"
+        range: 20
+        sortKey: "token-06"
+        bonusIds: &rng
+          - 999999 # RNG
+
+      - name: "Benthic - Waist"
+        range: 8
+        sortKey: "token-07"
+        bonusIds: &rng
+          - 999999 # RNG
+
+      - name: "Benthic - Legs"
+        range: 12
+        sortKey: "token-08"
+        bonusIds: &rng
+          - 999999 # RNG
+
+      - name: "Benthic - Feet"
+        range: -1
+        sortKey: "token-09"
+        bonusIds: &rng
+          - 999999 # RNG
+
+    contents: &contents
+
+      # Head
+
+      - id: 167754 # Shirakess Headdress [cloth]
+        costs: &costs
+          1721: 5 # Prismatic Manapearl
+
+      - id: 167762 # Fathomstalker Headcover [leather]
+        costs: *costs
+
+      - id: 167770 # Azsh'iri Stormsurger Helm [mail]
+        costs: *costs
+
+      - id: 167778 # Zanj'ir Scaleguard Faceguard [plate]
+        costs: *costs
+
+      # Shoulders
+
+      - id: 167756 # Shirakess Mantle [cloth]
+        costs: *costs
+
+      - id: 167764 # Fathomstalker Shoulderpads [leather]
+        costs: *costs
+
+      - id: 167772 # Azsh'iri Stormsurger Shoulderguards [mail]
+        costs: *costs
+
+      - id: 167781 # Zanj'ir Scaleguard Shoulderplates [plate]
+        costs: *costs
+
+      # Back
+
+      - id: 169486 # Shirakess Drape
+        costs: *costs
+
+      - id: 169487 # Fathomstalker Cloak
+        costs: *costs
+
+      - id: 169489 # Azsh'iri Stormsurger Cape
+        costs: *costs
+
+      - id: 169488 # Zanj'ir Scaleguard Greatcloak
+        costs: *costs
+
+      # Chest
+
+      - id: 167779 # Shirakess Wraps [cloth]
+        costs: *costs
+
+      - id: 167759 # Fathomstalker Wraps [leather]
+        costs: *costs
+
+      - id: 167767 # Azsh'iri Stormsurger Vest [mail]
+        costs: *costs
+
+      - id: 167775 # Zanj'ir Scaleguard Chestplate [plate]
+        costs: *costs
+
+      # Wrists
+
+      - id: 170103 # Shirakess Armwraps [cloth]
+        costs: *costs
+
+      - id: 170123 # Shirakess Bracelets [cloth]
+        costs: *costs
+
+      - id: 169812 # Shirakess Cuffs [cloth]
+        costs: *costs
+
+      - id: 167758 # Shirakess Wristwraps [cloth]
+        costs: *costs
+
+      - id: 170331 # Neri's Wavebreaker Cuffs [cloth]
+        costs: *costs
+
+      - id: 170306 # Waveblade Farseer's Bindings [cloth]
+        costs: *costs
+
+      - id: 169813 # Fathomstalker Armbands [leather]
+        costs: *costs
+
+      - id: 170104 # Fathomstalker Bindings [leather]
+        costs: *costs
+
+      - id: 170122 # Fathomstalker Coils [leather]
+        costs: *costs
+
+      - id: 167766 # Fathomstalker Wristwraps [leather]
+        costs: *costs
+
+      - id: 170330 # Neri's Wavebreaker Bindings [leather]
+        costs: *costs
+
+      - id: 170305 # Ori's Tidal Wristwraps [leather]
+        costs: *costs
+
+      - id: 170121 # Azsh'iri Stormsurger Armwraps [mail]
+        costs: *costs
+
+      - id: 170105 # Azsh'iri Stormsurger Bindings [mail]
+        costs: *costs
+
+      - id: 169814 # Azsh'iri Stormsurger Bracers [mail]
+        costs: *costs
+
+      - id: 167774 # Azsh'iri Stormsurger Vambraces [mail]
+        costs: *costs
+
+      - id: 170329 # Neri's Chain Manacles [mail]
+        costs: *costs
+
+      - id: 170304 # Ori's Tidal Bracers [mail]
+        costs: *costs
+
+      - id: 167783 # Zanj'ir Scaleguard Armguards [plate]
+        costs: *costs
+
+      - id: 170111 # Zanj'ir Scaleguard Coils [plate]
+        costs: *costs
+
+      - id: 169815 # Zanj'ir Scaleguard Vambraces [plate]
+        costs: *costs
+
+      - id: 170106 # Zanj'ir Scaleguard Wristguards [plate]
+        costs: *costs
+
+      - id: 170328 # Neri's Heavy Manacles [plate]
+        costs: *costs
+
+      - id: 170303 # Waveblade Farseer's Armguards [plate]
+        costs: *costs
+
+      # Hands
+
+      - id: 169790 # Shirakess Gloves [cloth]
+        costs: *costs
+
+      - id: 170133 # Shirakess Grips [cloth]
+        costs: *costs
+
+      - id: 167753 # Shirakess Handwraps [cloth]
+        costs: *costs
+
+      - id: 170375 # Inowari's Waterdancer Handwraps [cloth]
+        costs: *costs
+
+      - id: 170333 # Poen's Deepsea Gloves [cloth]
+        costs: *costs
+
+      - id: 169791 # Fathomstalker Gloves [leather]
+        costs: *costs
+
+      - id: 167761 # Fathomstalker Grips [leather]
+        costs: *costs
+
+      - id: 170134 # Fathomstalker Handwraps [leather]
+        costs: *costs
+
+      - id: 170376 # Inowari's Waterdancer Grips [leather]
+        costs: *costs
+
+      - id: 170334 # Poen's Deepsea Grips [leather]
+        costs: *costs
+
+      - id: 169792 # Azsh'iri Stormsurger Gloves [mail]
+        costs: *costs
+
+      - id: 167769 # Azsh'iri Stormsurger Handguards [mail]
+        costs: *costs
+
+      - id: 170135 # Azsh'iri Stormsurger Handwraps [mail]
+        costs: *costs
+
+      - id: 170377 # Inowari's Waterdancer Handguards [mail]
+        costs: *costs
+
+      - id: 170335 # Poen's Deepsea Handgrips [mail]
+        costs: *costs
+
+      - id: 167777 # Zanj'ir Scaleguard Crushers [plate]
+        costs: *costs
+
+      - id: 170136 # Zanj'ir Scaleguard Fists [plate]
+        costs: *costs
+
+      - id: 169793 # Zanj'ir Scaleguard Gauntlets [plate]
+        costs: *costs
+
+      - id: 170378 # Inowari's Waterdancer Gauntlets [plate]
+        costs: *costs
+
+      - id: 170336 # Poen's Deepsea Handguards [plate]
+        costs: *costs
+
+      # Waist
+
+      - id: 167757 # Shirakess Cinch [cloth]
+        costs: *costs
+
+      - id: 170367 # Vim's Scalecrusher Belt [cloth]
+        costs: *costs
+
+      - id: 167765 # Fathomstalker Waistband [leather]
+        costs: *costs
+
+      - id: 170368 # Vim's Scalecrusher Clasp [leather]
+        costs: *costs
+
+      - id: 167773 # Azsh'iri Stormsurger Links [mail]
+        costs: *costs
+
+      - id: 170369 # Vim's Scalecrusher Chain [mail]
+        costs: *costs
+
+      - id: 167782 # Zanj'ir Scaleguard Greatbelt [plate]
+        costs: *costs
+
+      - id: 170370 # Vim's Scalecrusher Girdle [plate]
+        costs: *costs
+
+      # Legs
+
+      - id: 167755 # Shirakess Leggings [cloth]
+        costs: *costs
+
+      - id: 169808 # Shirakess Legwraps [cloth]
+        costs: *costs
+
+      - id: 170107 # Shirakess Pants [cloth]
+        costs: *costs
+
+      - id: 170108 # Fathomstalker Breeches [leather]
+        costs: *costs
+
+      - id: 169809 # Fathomstalker Leggings [leather]
+        costs: *costs
+
+      - id: 167763 # Fathomstalker Legwraps [leather]
+        costs: *costs
+
+      - id: 167771 # Azsh'iri Stormsurger Legguards [mail]
+        costs: *costs
+
+      - id: 169810 # Azsh'iri Stormsurger Legs [mail]
+        costs: *costs
+
+      - id: 170109 # Azsh'iri Stormsurger Striders [mail]
+        costs: *costs
+
+      - id: 169811 # Zanj'ir Scaleguard Legguards [plate]
+        costs: *costs
+
+      - id: 170110 # Zanj'ir Scaleguard Legplates [plate]
+        costs: *costs
+
+      - id: 167780 # Zanj'ir Scaleguard Wargreaves [plate]
+        costs: *costs
+
+      # Feet
+
+      - id: 167752 # Shirakess Footwraps [cloth]
+        costs: *costs
+
+      - id: 169894 # Shirakess Sandals [cloth]
+        costs: *costs
+
+      - id: 170371 # Shirakess Slippers [cloth]
+        costs: *costs
+
+      - id: 170140 # Akana's Reefstrider Soles [cloth]
+        costs: *costs
+
+      - id: 169893 # Fathomstalker Boots [leather]
+        costs: *costs
+
+      - id: 167760 # Fathomstalker Footpads [leather]
+        costs: *costs
+
+      - id: 170372 # Fathomstalker Footwraps [leather]
+        costs: *costs
+
+      - id: 170141 # Akana's Reefstrider Footwraps [leather]
+        costs: *costs
+
+      - id: 169892 # Azsh'iri Stormsurger Boots [mail]
+        costs: *costs
+
+      - id: 170373 # Azsh'iri Stormsurger Striders [mail]
+        costs: *costs
+
+      - id: 167768 # Azsh'iri Stormsurger Treads [mail]
+        costs: *costs
+
+      - id: 170142 # Akana's Reefstrider Treads [mail]
+        costs: *costs
+
+      - id: 167776 # Zanj'ir Scaleguard Stompers [plate]
+        costs: *costs
+
+      - id: 170374 # Zanj'ir Scaleguard Waders [plate]
+        costs: *costs
+
+      - id: 169891 # Zanj'ir Scaleguard Warboots [plate]
+        costs: *costs
+
+      - id: 170143 # Akana's Reefstrider Boots [plate]
+        costs: *costs
+
+  - id: 153514
+    type: "vendor"
+    name: "Finder Palta"
+    note: "Treasures of the Unshackled"
+
+    locations:
+      here: # nazjatar
+        - 49.2 62.0 horde
+
+    groups: *groups
+    contents: *contents
