@@ -1,0 +1,182 @@
+things:
+  - type: vendor
+    name: "2026-11"
+    id: 1202611
+
+    groups:
+      - name: "2026-11"
+        range: -1
+        sortKey: "tp-7401" # (100-YY)(12-MM)
+
+    contents:
+      - id: 250928 # Aubergine Warturkey [mount]
+        costs:
+          2032: 500
+
+      - id: 250926 # Highlands Gobbler [mount]
+        costs:
+          2032: 500
+
+      - id: 282648 # Hot Motocross Bunmover 4400 [mount]
+        costs:
+          2032: 500
+
+      - id: 229368 # Gill'el [pet]
+        costs:
+          2032: 250
+
+      - id: 281212 # Ensemble: Executive Chef's Uniform
+        costs:
+          2032: 700
+
+      - id: 281220 # Ensemble: Head Chef's Uniform
+        costs:
+          2032: 700
+
+      - id: 249939 # Ensemble: Villager's Country Attire
+        costs:
+          2032: 440
+
+      - id: 250904 # Ensemble: Villager's Country Collection
+        costs:
+          2032: 440
+
+      - id: 257994 # Ensemble: Sorcerer's Carrot Garb
+        costs:
+          2032: 100
+
+      - id: 279438 # Carrot Gloomcap [head]
+        costs:
+          2032: 50
+
+      - id: 270290 # Crown of Carrot Springflowers [head]
+        costs:
+          2032: 50
+
+      - id: 270291 # Crown of Rosy Springflowers [head]
+        costs:
+          2032: 50
+
+      - id: 274631 # Gunslinger's Rosy Lid [head]
+        costs:
+          2032: 50
+
+      - id: 279439 # Rosy Gloomcap [head]
+        costs:
+          2032: 50
+
+      - id: 273133 # Stylish Crimson Top Hat [head]
+        costs:
+          2032: 50
+
+      - id: 284237 # Baker's Citrine Tray [back]
+        costs:
+          2032: 150
+
+      - id: 284235 # Baker's Morganite Tray [back]
+        costs:
+          2032: 150
+
+      - id: 250290 # Ready-Warm Portable Bakery [back]
+        costs:
+          2032: 95
+
+      - id: 262866 # Carrot Dunecloth Vest [chest]
+        costs:
+          2032: 35
+
+      - id: 262865 # Rosy Dunecloth Vest [chest]
+        costs:
+          2032: 35
+
+      - id: 262847 # Carrot Dunecloth Belt [waist]
+        costs:
+          2032: 30
+
+      - id: 262848 # Rosy Dunecloth Belt [waist]
+        costs:
+          2032: 30
+
+      - id: 262829 # Carrot Dunecloth Skirt [legs]
+        costs:
+          2032: 35
+
+      - id: 262830 # Rosy Dunecloth Skirt [legs]
+        costs:
+          2032: 35
+
+      - id: 274060 # Bandit's Carrot Highboot [feet]
+        costs:
+          2032: 40
+
+      - id: 274061 # Bandit's Rosy Highboot [feet]
+        costs:
+          2032: 40
+
+      - id: 283472 # Steel-Plated Cushion Boots [feet]
+        costs:
+          2032: 40
+
+      - id: 248721 # Chef's Apron [tabard]
+        costs:
+          2032: 70
+
+      - id: 248726 # Smoked Rib Rack [1h axe]
+        costs:
+          2032: 95
+
+      - id: 251854 # Bunch of Green Chiles [1h mace]
+        costs:
+          2032: 95
+
+      - id: 251656 # Bunch of Orange Carrots [1h mace]
+        costs:
+          2032: 95
+
+      - id: 251800 # Ears of Yellow Corn [1h mace]
+        costs:
+          2032: 95
+
+      - id: 248926 # Stale Thirteen Grain Loaf [dagger]
+        costs:
+          2032: 95
+
+      - id: 283991 # Cotton Candy Lollibop [2h mace]
+        costs:
+          2032: 150
+
+      - id: 283990 # Orange Lollibop [2h mace]
+        costs:
+          2032: 150
+
+      - id: 283485 # Baker's Enchanted Cookbook [stave]
+        costs:
+          2032: 150
+
+      - id: 283484 # Baker's Fiery Cookbook [stave]
+        costs:
+          2032: 150
+
+      - id: 248731 # Copper Pot of Stew [off-hand]
+        costs:
+          2032: 60
+
+      - id: 251869 # Offhand Bunch of Green Chiles [off-hand]
+        costs:
+          2032: 60
+
+      - id: 251663 # Offhand Bunch of Orange Carrots [off-hand]
+        costs:
+          2032: 60
+
+      - id: 251804 # Offhand Ears of Yellow Corn [off-hand]
+        costs:
+          2032: 60
+
+      - id: 285225 # Baker's Citrine Bulwark [shield]
+        costs:
+          2032: 150
+
+      - id: 285223 # Baker's Morganite Bulwark [shield]
+        costs:
+          2032: 150
