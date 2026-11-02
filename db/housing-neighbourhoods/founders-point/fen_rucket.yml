@@ -8,6 +8,10 @@ things:
       here: # founders_point
         - 61.4 79.6
 
+    groups:
+      - name: ":horde: Plans"
+        range: -1
+
     contents:
 
       # 0

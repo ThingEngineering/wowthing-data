@@ -1,0 +1,63 @@
+things:
+  - id: 255104
+    type: "vendor"
+    name: "Jorvan Longmoor"
+    note: "General Contractor"
+
+    locations:
+      here: # founders_point
+        - 54.0 39.6
+
+    groups:
+      - name: ":alliance: Plans"
+        range: -1
+
+    contents:
+
+      - id: 282340 # Autumnal Westfall Barn Facade Plans [house?]
+        costs:
+          3363: 200
+
+      - id: 282343 # Springtime Westfall Barn Facade Plans [house?]
+        costs:
+          3363: 200
+
+      - id: 274668 # Bel'ameth Meeting Room Plans
+        costs:
+          3363: 50
+
+      - id: 274671 # Bel'ameth Nestled Bedroom Plans
+        costs:
+          3363: 50
+
+      - id: 274670 # Bel'ameth Temple Room Plans
+        costs:
+          3363: 50
+
+      - id: 274669 # Bel'ameth Theater Plans
+        costs:
+          3363: 50
+
+      - id: 272997 # Stormwind Armory Plans
+        costs:
+          3363: 50
+
+      - id: 274666 # Stormwind Display Room Plans
+        costs:
+          3363: 50
+
+      - id: 274665 # Stormwind Grand Hall Plans
+        costs:
+          3363: 50
+
+      - id: 274667 # Stormwind Kitchen Plans
+        costs:
+          3363: 50
+
+      - id: 276243 # Autumnal Westfall Barn Plans
+        costs:
+          3363: 75
+
+      - id: 276244 # Springtime Westfall Barn Plans
+        costs:
+          3363: 75

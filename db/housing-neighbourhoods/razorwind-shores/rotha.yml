@@ -8,6 +8,10 @@ things:
       here: # razorwind_shores
         - 53.4 56.6
 
+    groups:
+      - name: ":horde: Rooms"
+        range: -1
+
     contents:
 
       # 0
