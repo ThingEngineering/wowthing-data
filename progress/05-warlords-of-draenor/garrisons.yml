@@ -2,6 +2,68 @@ name: "Garrisons"
 minimumLevel: 10
 groups:
 
+- name: "Garrison Upgrades"
+  icon: "achievement/9096" # Master Builder
+  iconText: "Up"
+  lookup: faction
+  type: quest
+  data:
+    alliance:
+
+      - id: 35176
+        name: "Keeping it Together"
+
+      - id: 35174
+        name: "Pale Moonlight"
+
+      - id: 35166
+        name: "Ship Salvage"
+
+      - id: 34587
+        name: "Build Your Barracks"
+
+      - id: 34646
+        name: "Qiana Moonshadow"
+
+      - id: 34692
+        name: "Delegating on Draenor"
+
+      - id: 36592
+        name: "Bigger is Better"
+        description: "Rank 2 - {price:200|824}"
+
+      - id: 36615
+        name: "My Very Own Castle"
+        description: "Rank 3 - {price:2000|824}"
+
+    horde:
+
+      - id: 34823
+        name: "The Ogron Live?"
+
+      - id: 34824
+        name: "What We Got"
+
+      - id: 34822
+        name: "What We Need"
+
+      - id: 34461
+        name: "Build Your Barracks"
+
+      - id: 34462
+        name: "Winds of Change"
+
+      - id: 34775
+        name: "Mission Probable"
+
+      - id: 36567
+        name: "Bigger is Better"
+        description: "Rank 2 - {price:200|824}"
+
+      - id: 36614
+        name: "My Very Own Fortress"
+        description: "Rank 3 - {price:2000|824}"
+
 - name: "Garrison Campaign"
   icon: "achievement/9492"
   lookup: faction
