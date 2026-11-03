@@ -20,62 +20,63 @@ groups:
     - ":alliance: Void Elf"
   data:
     all:
-    - transmogSetId: 3346 # Embrace of Lost Embaari [Draenei 1]
-      questId: 78083 # Our Path Forward # Draenei
-      wowheadSetId:
+      - transmogSetId: 3346 # Embrace of Lost Embaari [Draenei 1]
+        questId: 78083 # Our Path Forward # Draenei
+        wowheadSetId:
 
-    - transmogSetId: 3347 # Endurance of Temple Telhamat [Draenei 2]
-      questId: 78083 # Our Path Forward # Draenei
-      wowheadSetId:
+      - transmogSetId: 3347 # Endurance of Temple Telhamat [Draenei 2]
+        questId: 78083 # Our Path Forward # Draenei
+        wowheadSetId:
 
-    - transmogSetId: 1803 # Heritage of the Bronzebeard [Dwarf]
-      questId: 53846 # Legacy of the Bronzebeard
-      wowheadSetId: 2897
+      - transmogSetId: 1803 # Heritage of the Bronzebeard [Dwarf]
+        questId: 53846 # Legacy of the Bronzebeard
+        wowheadSetId: 2897
 
-    - transmogSetId: 1828 # Heritage of Gnomeregan [Gnome]
-      questId: 54642 # G.E.A.R. Up
-      wowheadSetId: 2995
+      - transmogSetId: 1828 # Heritage of Gnomeregan [Gnome]
+        questId: 54642 # G.E.A.R. Up
+        wowheadSetId: 2995
 
-    - transmogSetId: 2830 # Lion's Heritage [Human 1]
-      questId: 72452 # Go with Honor, Friend
-      wowheadSetId:
+      - transmogSetId: 2830 # Lion's Heritage [Human 1]
+        questId: 72452 # Go with Honor, Friend
+        wowheadSetId:
 
-    - transmogSetId: 2831 # Lion's Heritage [Human 2]
-      questId: 72452 # Go with Honor, Friend
-      wowheadSetId:
+      - transmogSetId: 2831 # Lion's Heritage [Human 2]
+        questId: 72452 # Go with Honor, Friend
+        wowheadSetId:
 
-    - transmogSetId: 2832 # Lion's Heritage [Human 3]
-      questId: 72452 # Go with Honor, Friend
-      wowheadSetId:
+      - transmogSetId: 2832 # Lion's Heritage [Human 3]
+        questId: 72452 # Go with Honor, Friend
+        wowheadSetId:
 
-    - transmogSetId: 3121 # Kaldorei Protector's Adornment [Night Elf]
-      questId: 76213 # Honor of the Goddess
-      wowheadSetId:
+      - transmogSetId: 3121 # Kaldorei Protector's Adornment [Night Elf]
+        questId: 76213 # Honor of the Goddess
+        wowheadSetId:
 
-    - transmogSetId: 1976 # Heritage of Gilneas [Worgen]
-      questId: 54990 # The New Guard
-      wowheadSetId:
+      - transmogSetId: 1976 # Heritage of Gilneas [Worgen]
+        questId: 54990 # The New Guard
+        wowheadSetId:
 
-    # Allied Races
-    - transmogSetId: 1679 # Heritage of the Dark Iron [Dark Iron Dwarf]
-      achievementId: 13076
-      wowheadSetId: 2765
+      # Allied Races
 
-    - transmogSetId: 1741 # Heritage of Kul Tiras [Kul Tiran]
-      achievementId: 13504
-      wowheadSetId: 2950
+      - transmogSetId: 1679 # Heritage of the Dark Iron [Dark Iron Dwarf]
+        questId: 51483 # Heritage o' the Dark Iron
+        wowheadSetId: 2765
 
-    - transmogSetId: 1525 # Heritage of the Lightforged [Lightforged Draenei]
-      achievementId: 12414
-      wowheadSetId: 2780
+      - transmogSetId: 1741 # Heritage of Kul Tiras [Kul Tiran]
+        questId: 53722 # Heritage of the Kul Tiran
+        wowheadSetId: 2950
 
-    - transmogSetId: 1980 # Heritage of the Mechagnome [Mechagnome]
-      achievementId: 14014
-      wowheadSetId: 11976
+      - transmogSetId: 1525 # Heritage of the Lightforged [Lightforged Draenei]
+        questId: 49782 # Heritage of the Lightforged
+        wowheadSetId: 2780
 
-    - transmogSetId: 1524 # Heritage of the Ren'dorei [Void Elf]
-      achievementId: 12291
-      wowheadSetId: 2782
+      - transmogSetId: 1980 # Heritage of the Mechagnome [Mechagnome]
+        questId: 58436 # Heritage of the Mechagnome
+        wowheadSetId: 11976
+
+      - transmogSetId: 1524 # Heritage of the Ren'dorei [Void Elf]
+        questId: 49928 # Heritage of the Void
+        wowheadSetId: 2782
 
 - name: "Horde"
   type: all
@@ -98,68 +99,69 @@ groups:
     - ":horde: Zandalari Troll"
   data:
     all:
-    - transmogSetId: 1804 # Heritage of the Sin'dorei [Blood Elf]
-      questId: 54096 # The Fall of the Sunwell
-      wowheadSetId:
+      - transmogSetId: 1804 # Heritage of the Sin'dorei [Blood Elf]
+        questId: 54096 # The Fall of the Sunwell
+        wowheadSetId:
 
-    - transmogSetId: 1977 # Heritage of Kezan [Goblin]
-      questId: 57080 # A Fitting Reward
-      wowheadSetId:
+      - transmogSetId: 1977 # Heritage of Kezan [Goblin]
+        questId: 57080 # A Fitting Reward
+        wowheadSetId:
 
-    - transmogSetId: 2833 # Heritage of Draenor [Orc 1]
-      questId: 72479 # Aka'magosh
-      wowheadSetId:
+      - transmogSetId: 2833 # Heritage of Draenor [Orc 1]
+        questId: 72479 # Aka'magosh
+        wowheadSetId:
 
-    - transmogSetId: 2834 # Heritage of Draenor [Orc 2]
-      questId: 72479 # Aka'magosh
-      wowheadSetId:
+      - transmogSetId: 2834 # Heritage of Draenor [Orc 2]
+        questId: 72479 # Aka'magosh
+        wowheadSetId:
 
-    - transmogSetId: 2835 # Heritage of Draenor [Orc 3]
-      questId: 72479 # Aka'magosh
-      wowheadSetId:
+      - transmogSetId: 2835 # Heritage of Draenor [Orc 3]
+        questId: 72479 # Aka'magosh
+        wowheadSetId:
 
-    - transmogSetId: 1829 # Heritage of the Shu'halo [Tauren]
-      questId: 54765 # Thank Your Guide
-      wowheadSetId: 2952
+      - transmogSetId: 1829 # Heritage of the Shu'halo [Tauren]
+        questId: 49783 # Heritage of Highmountain
+        wowheadSetId: 2952
 
-    - transmogSetId: 3350 # Covenant of the Darkspear [Troll 1]
-      wowheadSetId:
+      - transmogSetId: 3350 # Covenant of the Darkspear [Troll 1]
+        wowheadSetId:
 
-    - transmogSetId: 3515 # Loyalty of the Darkspear [Troll 2]
-      wowheadSetId:
+      - transmogSetId: 3515 # Loyalty of the Darkspear [Troll 2]
+        wowheadSetId:
 
-    - transmogSetId: 3086 # Forsaken Champion's Attire [Undead]
-      questId: 72867 # I Am Forsaken
-      wowheadSetId:
+      - transmogSetId: 3086 # Forsaken Champion's Attire [Undead]
+        questId: 72867 # I Am Forsaken
+        wowheadSetId:
 
-    # Allied Races
-    - transmogSetId: 1522 # Highmountain's Heritage [Highmountain Tauren]
-      achievementId: 12415
-      wowheadSetId: 2779
+      # Allied Races
 
-    - transmogSetId: 1681 # Heritage of the Blackrock [Mag'har Orc 1]
-      achievementId: 13077 # Mag'har Orc
-      wowheadSetId: 2778
+      - transmogSetId: 1522 # Highmountain's Heritage [Highmountain Tauren]
+        questId: 49783 # Heritage of Highmountain
+        wowheadSetId: 2779
 
-    - transmogSetId: 1682 # Heritage of the Frostwolves [Mag'har Orc 2]
-      achievementId: 13077 # Mag'har Orc
-      wowheadSetId: 2777
+      - transmogSetId: 1681 # Heritage of the Blackrock [Mag'har Orc 1]
+        questId: 51484 # Heritage of the Mag'har
+        wowheadSetId: 2778
 
-    - transmogSetId: 1680 # Heritage of the Warsong [Mag'har Orc 3]
-      achievementId: 13077 # Mag'har Orc
-      wowheadSetId: 2766
+      - transmogSetId: 1682 # Heritage of the Frostwolves [Mag'har Orc 2]
+        questId: 51484 # Heritage of the Mag'har
+        wowheadSetId: 2777
 
-    - transmogSetId: 1523 # Heritage of the Shal'dorei [Nightborne]
-      achievementId: 12413
-      wowheadSetId: 2781
+      - transmogSetId: 1680 # Heritage of the Warsong [Mag'har Orc 3]
+        questId: 51484 # Heritage of the Mag'har
+        wowheadSetId: 2766
 
-    - transmogSetId: 1981 # Heritage of the Vulpera [Vulpera]
-      achievementId: 14002 # Vulpera
-      wowheadSetId: 11977
+      - transmogSetId: 1523 # Heritage of the Shal'dorei [Nightborne]
+        questId: 49784 # Heritage of the Nightborne
+        wowheadSetId: 2781
 
-    - transmogSetId: 1742 # Heritage of the Zandalari [Zandalari Troll]
-      achievementId: 13503 # Zandalari Troll
-      wowheadSetId: 2951
+      - transmogSetId: 1981 # Heritage of the Vulpera [Vulpera]
+        questId: 58435 # Heritage of the Vulpera
+        wowheadSetId: 11977
+
+      - transmogSetId: 1742 # Heritage of the Zandalari [Zandalari Troll]
+        questId: 53721 # Heritage of the Zandalari
+        wowheadSetId: 2951
 
 - name: "Horde"
   type: class
@@ -169,4 +171,49 @@ groups:
     paladin:
       - transmogSetId: 2481 # Blood Knight's Dedication [Blood Elf Paladin]
         questId: 63490 # Blood Knight
+        wowheadSetId:
+
+- name: "Both"
+  type: all
+  sets:
+    - "Earthen [1]"
+    - "Earthen [2]"
+    - "Earthen [3]"
+    - "Haranir [1]"
+    - "Haranir [2]"
+    - "Pandaren [1]"
+    - "Pandaren [2]"
+    - "Pandaren [3]"
+  data:
+    all:
+      - transmogSetId: 3700 # Heritage of Khaz Algar [Earthen 1]
+        questId: 82771
+        wowheadSetId:
+
+      - transmogSetId: 3701 # Heritage of Khaz Algar [Earthen 2]
+        questId: 82771
+        wowheadSetId:
+
+      - transmogSetId: 3702 # Heritage of Khaz Algar [Earthen 3]
+        questId: 82771
+        wowheadSetId:
+
+      - transmogSetId: 5381 # Heritage of Harandar [Haranir 1]
+        questId: 94464
+        wowheadSetId:
+
+      - transmogSetId: 5382 # Heritage of Harandar [Haranir 2]
+        questId: 94464
+        wowheadSetId:
+
+      - transmogSetId: 5367 # Huojin [Pandaren 1]
+        questId: 92030 # A New Tradition
+        wowheadSetId:
+
+      - transmogSetId: 5366 # Tushui [Pandaren 2]
+        questId: 92030 # A New Tradition
+        wowheadSetId:
+
+      - transmogSetId: 5368 # Wandering Isle [Pandaren 3]
+        questId: 92030 # A New Tradition
         wowheadSetId:
