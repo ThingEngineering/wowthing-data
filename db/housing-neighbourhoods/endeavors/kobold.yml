@@ -1,0 +1,81 @@
+things:
+  - id: 271173
+    type: "vendor"
+    name: "Timicky"
+    note: "Endeavor Vendor"
+
+    locations:
+      "housing/razorwind_shores":
+        - 54.8 57.2
+      "housing/founders_point":
+        - 53 38.2
+
+    groups:
+      - name: "Endeavors - Kobold"
+        range: -1
+
+    contents:
+
+      - id: 280513 # Color-Curious Candle
+        costs:
+          3363: 20
+
+      - id: 280267 # Bold Kobold Kabin
+        costs:
+          3363: 30
+
+      - id: 280263 # Candle Cage
+        costs:
+          3363: 20
+
+      - id: 280269 # Cozy Kobold Crate
+        costs:
+          3363: 10
+
+      - id: 280273 # Droopy Longwick Rope
+        costs:
+          3363: 10
+
+      - id: 280275 # Hanging Longwick Rope
+        costs:
+          3363: 10
+
+      - id: 280253 # Highlighting High Light
+        costs:
+          3363: 20
+
+      - id: 280265 # Hot Kobold Treasure
+        costs:
+          3363: 25
+
+      - id: 280249 # Kobold Dig-Thing
+        costs:
+          3363: 10
+
+      - id: 280251 # Kobold Sit-Thing
+        costs:
+          3363: 10
+
+      - id: 280261 # Large Threedium Warrens Candle
+        costs:
+          3363: 25
+
+      - id: 280259 # Large Warrens Candle
+        costs:
+          3363: 20
+
+      - id: 280271 # Longwick Rope
+        costs:
+          3363: 10
+
+      - id: 280257 # Medium Warrens Candle
+        costs:
+          3363: 15
+
+      - id: 280255 # Small Warrens Candle
+        costs:
+          3363: 10
+
+      - id: 280246 # Warrens Candlecooker
+        costs:
+          3363: 30

@@ -1,0 +1,79 @@
+things:
+  - id: 265551
+    type: "vendor"
+    name: "Roshai Lightstep"
+    note: "Endeavor Trader"
+
+    locations:
+      "housing/razorwind_shores":
+        - 54.2 56
+      "housing/founders_point":
+        - 52.8 37.6
+
+    groups:
+      - name: "Endeavors - Maruukai"
+        range: -1
+
+    contents:
+
+      # 0
+
+      - id: 276675 # Bakar's Dinner
+        costs:
+          3363: 5
+
+      - id: 276654 # Bakar's Favorite Ball
+        costs:
+          3363: 5
+
+      - id: 276663 # Bakar's Napping Rug
+        costs:
+          3363: 10
+
+      - id: 276673 # Bakar's Snack
+        costs:
+          3363: 5
+
+      - id: 276667 # Large Ornate Khanam's Rug
+        costs:
+          3363: 10
+
+      - id: 276650 # Maruukai Barricade
+        costs:
+          3363: 10
+
+      - id: 276661 # Maruukai Chef's Stove
+        costs:
+          3363: 15
+
+      - id: 276658 # Maruukai Feast Table
+        costs:
+          3363: 10
+
+      - id: 276669 # Maruukai Storage Basket
+        costs:
+          3363: 5
+
+      - id: 276656 # Maruukai Wooden Table
+        costs:
+          3363: 10
+
+      - id: 276671 # Open Maruukai Storage Basket
+        costs:
+          3363: 5
+
+      - id: 276665 # Ornate Khanam's Rug
+        costs:
+          3363: 10
+
+      - id: 276677 # Pet Food and Water Tray
+        costs:
+          3363: 10
+
+      - id: 276652 # Tapered Maruukai Barricade
+        costs:
+          3363: 10
+
+      - id: 276626 # Wide Maruukai Barricade
+        costs:
+          3363: 10
