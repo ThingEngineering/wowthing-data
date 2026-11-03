@@ -122,6 +122,20 @@ class/_.yml
 
 race/_.yml
     race/dark_iron_dwarf.yml
+    race/dwarf.yml
+    race/gnome.yml
+    race/human.yml
+    race/night_elf.yml
+    race/worgen.yml
+    -
+    race/blood_elf.yml
+    race/goblin.yml
+    race/orc.yml
+    race/tauren.yml
+    race/troll.yml
+    race/undead.yml
+    -
+    race/pandaren.yml
 
 -
 

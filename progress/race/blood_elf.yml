@@ -1,0 +1,10 @@
+name: ":horde: Blood Elf"
+groups:
+
+- name: "Blood Elf Heritage"
+  icon: "achievement/5171"
+  lookup: race
+  type: questline
+  data:
+    blood-elf:
+      - id: 811

@@ -1,0 +1,10 @@
+name: "Pandaren"
+groups:
+
+- name: "Pandaren Heritage"
+  icon: "achievement/6533"
+  lookup: race
+  type: questline
+  data:
+    pandaren:
+      - id: 5682

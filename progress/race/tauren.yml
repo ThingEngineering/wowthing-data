@@ -1,0 +1,10 @@
+name: ":horde: Tauren"
+groups:
+
+- name: "Tauren Heritage"
+  icon: "achievement/1411"
+  lookup: race
+  type: questline
+  data:
+    tauren:
+      - id: 860

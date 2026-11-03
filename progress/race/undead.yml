@@ -1,0 +1,10 @@
+name: ":horde: Undead"
+groups:
+
+- name: "Forsaken Heritage"
+  icon: "achievement/6531"
+  lookup: race
+  type: questline
+  data:
+    undead:
+      - id: 1391

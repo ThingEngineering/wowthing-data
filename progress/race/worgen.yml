@@ -1,0 +1,10 @@
+name: ":alliance: Worgen"
+groups:
+
+- name: "Worgen Heritage"
+  icon: "spell/406087"
+  lookup: race
+  type: questline
+  data:
+    worgen:
+      - id: 957

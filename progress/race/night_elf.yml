@@ -1,0 +1,10 @@
+name: ":alliance: Night Elf"
+groups:
+
+- name: "Night Elf Heritage"
+  icon: "achievement/7992"
+  lookup: race
+  type: questline
+  data:
+    night-elf:
+      - id: 5399

@@ -1,0 +1,10 @@
+name: ":alliance: Human"
+groups:
+
+- name: "Human Heritage"
+  icon: "item/20565"
+  lookup: race
+  type: questline
+  data:
+    human:
+      - id: 1379

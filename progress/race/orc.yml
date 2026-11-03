@@ -1,0 +1,10 @@
+name: ":horde: Orc"
+groups:
+
+- name: "Orc Heritage"
+  icon: "item/20569"
+  lookup: race
+  type: questline
+  data:
+    orc:
+      - id: 5357

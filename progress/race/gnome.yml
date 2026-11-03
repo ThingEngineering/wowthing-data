@@ -1,0 +1,10 @@
+name: ":alliance: Gnome"
+groups:
+
+- name: "Gnome Heritage"
+  icon: "item/20392"
+  lookup: race
+  type: questline
+  data:
+    gnome:
+      - id: 858

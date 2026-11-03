@@ -1,0 +1,10 @@
+name: ":horde: Troll"
+groups:
+
+- name: "Darkspear Troll Heritage"
+  icon: "achievement/9522"
+  lookup: race
+  type: questline
+  data:
+    troll:
+      - id: 5504

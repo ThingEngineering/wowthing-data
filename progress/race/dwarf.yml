@@ -1,0 +1,10 @@
+name: ":alliance: Dwarf"
+groups:
+
+- name: "Dwarven Heritage"
+  icon: "item/20562"
+  lookup: race
+  type: questline
+  data:
+    dwarf:
+      - id: 804
