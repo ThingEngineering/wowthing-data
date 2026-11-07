@@ -1,0 +1,143 @@
+things:
+  - id: 16365
+    type: "vendor"
+    name: "Master Craftsman Omarion"
+    note: "Brotherhood of the Light"
+
+    locations:
+      here: # eastern_plaguelands
+        - 75.6 52
+
+    contents:
+
+      - id: 206422 # Plans: Icebane Bracers [blacksmithing]
+        costs:
+          1012844: 3
+
+      - id: 206421 # Plans: Icebane Breastplate [blacksmithing]
+        costs:
+          1012844: 3
+
+      - id: 206419 # Plans: Icebane Coif [blacksmithing]
+        costs:
+          1012844: 3
+
+      - id: 206423 # Plans: Icebane Gauntlets [blacksmithing]
+        costs:
+          1012844: 3
+
+      - id: 206425 # Plans: Icebane Leggings [blacksmithing]
+        costs:
+          1012844: 3
+
+      - id: 206420 # Plans: Icebane Mantle [blacksmithing]
+        costs:
+          1012844: 3
+
+      - id: 206426 # Plans: Icebane Trudgers [blacksmithing]
+        costs:
+          1012844: 3
+
+      - id: 206424 # Plans: Icebane Waistguard [blacksmithing]
+        costs:
+          1012844: 3
+
+      - id: 206414 # Pattern: Icy Scale Bracers [leatherworking]
+        costs:
+          1012844: 3
+
+      - id: 206413 # Pattern: Icy Scale Breastplate [leatherworking]
+        costs:
+          1012844: 3
+
+      - id: 206411 # Pattern: Icy Scale Crown [leatherworking]
+        costs:
+          1012844: 3
+
+      - id: 206415 # Pattern: Icy Scale Gauntlets [leatherworking]
+        costs:
+          1012844: 3
+
+      - id: 206417 # Pattern: Icy Scale Leggings [leatherworking]
+        costs:
+          1012844: 3
+
+      - id: 206412 # Pattern: Icy Scale Shoulderpads [leatherworking]
+        costs:
+          1012844: 3
+
+      - id: 206418 # Pattern: Icy Scale Stompers [leatherworking]
+        costs:
+          1012844: 3
+
+      - id: 206416 # Pattern: Icy Scale Waistwrap [leatherworking]
+        costs:
+          1012844: 3
+
+      - id: 206408 # Pattern: Polar Belt [leatherworking]
+        costs:
+          1012844: 3
+
+      - id: 206406 # Pattern: Polar Bracers [leatherworking]
+        costs:
+          1012844: 3
+
+      - id: 206410 # Pattern: Polar Footwarmers [leatherworking]
+        costs:
+          1012844: 3
+
+      - id: 206407 # Pattern: Polar Gloves [leatherworking]
+        costs:
+          1012844: 3
+
+      - id: 206403 # Pattern: Polar Helm [leatherworking]
+        costs:
+          1012844: 3
+
+      - id: 206409 # Pattern: Polar Leggings [leatherworking]
+        costs:
+          1012844: 3
+
+      - id: 206404 # Pattern: Polar Spaulders [leatherworking]
+        costs:
+          1012844: 3
+
+      - id: 206405 # Pattern: Polar Tunic [leatherworking]
+        costs:
+          1012844: 3
+
+      - id: 206395 # Pattern: Glacial Chapeau [tailoring]
+        costs:
+          1012844: 3
+
+      - id: 206393 # Pattern: Glacial Cloak [tailoring]
+        costs:
+          1012844: 3
+
+      - id: 206396 # Pattern: Glacial Epaulets [tailoring]
+        costs:
+          1012844: 3
+
+      - id: 206402 # Pattern: Glacial Footwear [tailoring]
+        costs:
+          1012844: 3
+
+      - id: 206399 # Pattern: Glacial Gloves [tailoring]
+        costs:
+          1012844: 3
+
+      - id: 206401 # Pattern: Glacial Leggings [tailoring]
+        costs:
+          1012844: 3
+
+      - id: 206400 # Pattern: Glacial Tether [tailoring]
+        costs:
+          1012844: 3
+
+      - id: 206397 # Pattern: Glacial Vest [tailoring]
+        costs:
+          1012844: 3
+
+      - id: 206398 # Pattern: Glacial Wrists [tailoring]
+        costs:
+          1012844: 3
