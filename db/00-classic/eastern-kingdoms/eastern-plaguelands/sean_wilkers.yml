@@ -1,0 +1,26 @@
+things:
+  - id: 150987
+    type: "vendor"
+    name: "Sean Wilkers"
+
+    locations:
+      here: # eastern_plaguelands
+        - 43.2 19.8
+
+    contents:
+
+      - id: 169678 # Ziggy [pet]
+        costs:
+          1169665: 1
+
+      - id: 169677 # Crypt Fiend [pet]
+        costs:
+          1169665: 2
+
+      - id: 169676 # Contained Banshee Wail [pet]
+        costs:
+          1169665: 3
+
+      - id: 169679 # Smelly Cleaver [pet]
+        costs:
+          1169665: 3
