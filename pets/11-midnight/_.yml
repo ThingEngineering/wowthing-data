@@ -18,6 +18,10 @@ groups:
     - 4983 # Kai (Stormarion)
     - 5092 # Vibrant Venomfang (Curse Surges)
 
+- name: "Professions"
+  things:
+    - 4951 # Bubbly Snapling (Fishing)
+
 - name: "Secrets"
   things:
     - 5164 # J'imothy

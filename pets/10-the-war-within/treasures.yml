@@ -9,6 +9,7 @@ groups:
 
 - name: "Hallowfall"
   things:
+    - 4467 # Hallowed Glowfly (kinda)
     - 4534 # Nightfarm Growthling
     - 4472 # Shadowbog Hopper
 

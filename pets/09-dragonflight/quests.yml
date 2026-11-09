@@ -24,6 +24,7 @@ groups:
 
 - name: "Thaldraszus"
   things:
+    - 3596 # Kabluey (By Time Fire be Purged!)
     - 3405 # Living Mud Mask (Special Treatment)
     - 3350 # Lord Basilton (Carry On, Basilton)
 
@@ -31,6 +32,7 @@ groups:
   things:
     - 3316 # Lubbins (Oh WEhere, Oh Where Can He Be?)
     - 3286 # Mister Toots (So How Did It Go?)
+    - 3553 # Nelthara (Augmenting a Dragon)
 
 - name: "Waking Shores"
   things:

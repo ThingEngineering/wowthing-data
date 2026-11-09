@@ -26,6 +26,7 @@ groups:
 - name: "Classic?"
   things:
     - 4316 # Lil' Wrathion (Cataclysm Classic Blazing Heroic Pack)
+    - 4733 # Merriment (MoP Classic, Sha-Infused Heroic Pack)
 
 - name: "Other Games"
   things:

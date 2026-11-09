@@ -17,6 +17,7 @@ groups:
 
 - name: "{faction:2773}" # Captain Tokka's Crew
   things:
+    - 3526 # Three-Eyed Fish (Tipping the Scaled quest)
     - 5070 # Venom Elemental (Venom Trawler)
 
 - name: "{faction:2838}" # Aqir Research Enclave

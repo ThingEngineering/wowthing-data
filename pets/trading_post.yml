@@ -16,6 +16,7 @@ groups:
     - 179 # Spirit of Competition (2023-08)
     - 4253 # Slyvy (2023-09)
     - 249 # Lil' K.T. (2023-10)
+    - 3244 # Drazka'zet the Wrathful (2023-11)
     - 3255 # Buttercup (2023-12)
     - 4311 # Mitzy (2023-12)
     - 3297 # Time-Lost Salamanther (2024-01)
@@ -33,36 +34,37 @@ groups:
     - 4669 # Bluedoo (2024-12)
     - 4719 # Wind-Up Woofer (2025-01)
     - 4718 # Wind-Up Wuffi (2025-01)
+    - 4729 # Fullbelly Rollingpaw (2025-02)
+    - 4728 # Teatuft Tamer (2025-02)
     - 4757 # Frumpy Softpaw (2025-05)
+    - 168 # Rocket Chicken (2025-05)
+    - 4853 # Rustyroot Fel Snooter (2025-10)
+    - 4900 # Bundled-Up Bob (2025-12)
+    - 4963 # Grumpy Mandrake (2026-04)
+    - 4595 # Lil' Flameo (2026-05)
+    - 4615 # Parrlok (2026-05)
+    - 665 # Sand Scarab (2026-06)
+    - 4618 # Chillbot 9000 (2026-07)
+    - 4617 # Thrillbot 9000 (2026-07)
+    - 4616 # Gummi (2026-09)
+    - 5115 # Archmage's Familiar (2026-10)
+    - 3254 # Watcher of the Huntress (2026-10)
+    - 4630 # Gill'el (2026-11)
 
 - name: "NYI"
   things:
     - 4792 # Ada the Sweetest
-    - 4410 # Beetriz
-    - 3244 # Drazka'zet the Wrathful
-    - 4729 # Fullbelly Rollingpaw
     - 3242 # Lil' Maka'jin
-    - 297 # Lil' Ragnaros
-    - 4615 # Parrlok
     - 4761 # Pascal the Wonder Pup
-    - 4728 # Teatuft Tamer
-    - 3254 # Watcher of the Huntress
-    - 4854 # Duskytooth Fel Snooter
     - 4855 # Mustyfur Fel Snooter
-    - 4853 # Rustyroot Fel Snooter
     - 4856 # Scruffyhorn Fel Snooter
     - 4895 # Lil' Chompers
     - 4896 # Slippery Saul
-    - 4897 # Fishmonger May
-    - 4898 # Fishstick Keith
     - 4899 # Festive Eve
-    - 4900 # Bundled-Up Bob
-    - 4963 # Grumpy Mandrake
     - 4964 # Plump Mandrake
     - 4965 # Chirpy Mandrake
     - 4966 # Screechy Mandrake
     - 5114 # Kirin Tor Kitty
-    - 5115 # Archmage's Familiar
     - 5116 # Catsramas
     - 5117 # Cat'Thuzad
     - 5118 # Mewkahen

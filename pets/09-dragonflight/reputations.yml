@@ -11,6 +11,10 @@ groups:
     - 3326 # Backswimmer Timbertooth (Renown 9)
     - 3284 # Whiskuk (Renown 9)
 
+- name: "Loamm Niffen"
+  things:
+    - 3578 # Newsy (Renown 20 quests?)
+
 - name: "Maruuk Centaur"
   things:
     - 3317 # Hoofhelper

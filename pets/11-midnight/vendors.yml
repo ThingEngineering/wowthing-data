@@ -36,6 +36,10 @@ groups:
   things:
     - 5065 # Ka'bubb
 
+- name: "Naigtal/Val"
+  things:
+    - 4898 # Fishstick Keith
+
 - name: "Coiled Isle"
   things:
     - 5071 # Corrosive Writhling (Skull of Er'inye)

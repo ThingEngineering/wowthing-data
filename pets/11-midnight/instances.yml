@@ -14,6 +14,7 @@ groups:
 
 - name: "Dungeons"
   things:
+    - 4967 # Gortham (Nexus-Point Xenas)
     - 5129 # Slitherfang (Altar of Fangs)
 
 - name: "Raids"

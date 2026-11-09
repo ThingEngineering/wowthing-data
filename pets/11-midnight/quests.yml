@@ -9,6 +9,7 @@ groups:
 - name: "Harandar"
   things:
     - 4947 # Assistant Botanist Leafy (Re-Hydra-ted)
+    - 4942 # Distorted Memory (The Empty Cradle)
     - 4946 # Linda the Lucky (OK Bloomer)
 
 - name: "Voidstorm"
