@@ -1,0 +1,12 @@
+name: "Miscellaneous"
+groups:
+
+- name: "Talon's Vengeance"
+  icon: "item/142369"
+  iconText: "Talon"
+  type: quest
+  lookup: none
+  data:
+    0:
+      - id: 45029
+        name: "Talon's Vengeance Unlock"
