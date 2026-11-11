@@ -1,0 +1,9 @@
+instanceId: 1316
+
+encounters:
+  secrets:
+    addBefore: "chief-corewright-kasreth"
+    name: "Secrets"
+    contents:
+      - itemId: 262774 # Gortham [pet]
+        difficulties: DUNGEON_NORMAL_HEROIC_MYTHIC

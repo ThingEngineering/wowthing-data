@@ -1,0 +1,7 @@
+instanceId: 1030
+
+encounters:
+  merektha:
+    contents:
+      - itemId: 160702 # Spawn of Merektha [pet]
+        difficulties: DUNGEON_MYTHIC

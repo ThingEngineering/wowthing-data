@@ -1,0 +1,9 @@
+instanceId: 1309
+
+encounters:
+  secrets:
+    addBefore: "lightblossom-trinity"
+    name: "Secrets"
+    contents:
+      - itemId: 251903 # Potatoad Egg [toy]
+        difficulties: DUNGEON_NORMAL_HEROIC_MYTHIC

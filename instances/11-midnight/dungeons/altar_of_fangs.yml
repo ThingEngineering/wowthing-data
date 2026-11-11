@@ -1,0 +1,9 @@
+instanceId: 1322
+
+encounters:
+  secrets:
+    addBefore: "ravi"
+    name: "Secrets"
+    contents:
+      - itemId: 279197 # Slitherfang [pet]
+        difficulties: DUNGEON_MYTHIC
