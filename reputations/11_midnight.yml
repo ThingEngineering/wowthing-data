@@ -42,6 +42,12 @@ reputations:
 
 -
   - both:
+      id: 2792 # Ritual Sites
+      icon: "achievement/62622"
+      iconText: "Rit"
+
+-
+  - both:
       id: 2696 # Amani Tribe
       icon: "achievement/62263"
       iconText: "Amani"
@@ -105,16 +111,13 @@ reputations:
 
 -
   - both:
-      id: 2792 # Ritual Sites
-      icon: "achievement/62622"
-      iconText: "Rit"
-
-  - both:
       id: 2742 # Delves: Season 1
       icon: "achievement/61797" # My Shady Nemesis
       iconText: "Delv1"
+    unavailable: true
 
   - both:
       id: 2764 # Prey: Season 1
       icon: "achievement/61387"
       iconText: "Prey1"
+    unavailable: true
