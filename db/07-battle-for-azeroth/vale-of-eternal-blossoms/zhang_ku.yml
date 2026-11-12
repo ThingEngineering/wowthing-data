@@ -1,0 +1,39 @@
+things:
+  - id: 160711
+    type: "vendor"
+    name: "Zhang Ku"
+    note: "Rajani Provisioner"
+
+    locations:
+      here: # vale_of_eternal_blossoms
+        - 44.4 75.2
+
+    contents:
+
+      - id: 174649 # Rajani Warserpent [mount]
+        costs:
+          1174230: 1
+
+      - id: 174480 # Windfeather Quill [pet]
+        costs:
+          1163036: 300
+        requirements:
+          - "reputation 2415 exalted"
+
+      - id: 174905 # Troop Requisition: Rajani Sparkcaller
+        costs:
+          1560: 500
+        requirements:
+          - "reputation 2415 revered"
+
+      - id: 172009 # Technique: Contract: Rajani
+        costs:
+          0: 1400 # Gold
+        requirements:
+          - "reputation 2415 revered"
+
+      - id: 174647 # Rajani Tabard [tabard]
+        costs:
+          0: 240 # Gold
+        requirements:
+          - "reputation 2415 exalted"
