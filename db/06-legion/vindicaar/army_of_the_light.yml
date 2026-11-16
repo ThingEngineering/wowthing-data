@@ -1,0 +1,136 @@
+things:
+  - id: 127120
+    type: "vendor"
+    name: "Vindicator Jaelaana"
+    note: "Army of the Light Emissary"
+
+    locations:
+      here: # unknown
+        - 43.2 74.7
+
+    groups:
+      - name: "Army of the Light"
+        range: -1
+        sortKey: "rep-army"
+
+    contents:
+
+      # 0
+
+      - id: 152399 # Army of the Light Tabard [tabard]
+        costs:
+          0: 240 # Gold
+        requirements:
+          - "reputation 2165 exalted"
+
+      - id: 152788 # Lightforged Warframe
+        costs:
+          0: 500000 # Gold
+        requirements:
+          - "reputation 2165 exalted"
+
+      - id: 151741 # Pattern: Fiendish Shoulderguards
+        costs:
+          0: 1600 # Gold
+        requirements:
+          - "reputation 2165 revered"
+
+      - id: 151744 # Pattern: Fiendish Spaulders
+        costs:
+          0: 1600 # Gold
+        requirements:
+          - "reputation 2165 revered"
+
+      - id: 151747 # Pattern: Lightweave Breeches
+        costs:
+          0: 1600 # Gold
+        requirements:
+          - "reputation 2165 revered"
+
+      - id: 151712 # Plans: Empyrial Breastplate
+        costs:
+          0: 1600 # Gold
+        requirements:
+          - "reputation 2165 revered"
+
+      - id: 151725 # Design: Empyrial Cosmic Crown
+        costs:
+          0: 1600 # Gold
+        requirements:
+          - "reputation 2165 revered"
+
+      - id: 151728 # Design: Empyrial Deep Crown
+        costs:
+          0: 1600 # Gold
+        requirements:
+          - "reputation 2165 revered"
+
+      - id: 151731 # Design: Empyrial Elemental Crown
+        costs:
+          0: 1600 # Gold
+        requirements:
+          - "reputation 2165 revered"
+
+      - id: 151734 # Design: Empyrial Titan Crown
+        costs:
+          0: 1600 # Gold
+        requirements:
+          - "reputation 2165 revered"
+
+      - id: 152400 # Embroidered Lightforged Drape [cloak]
+        costs:
+          0: 400 # Gold
+        requirements:
+          - "reputation 2165 honored"
+
+      - id: 152726 # Design: Mass Prospect Empyrium
+        costs:
+          0: 7 # Gold
+        requirements:
+          - "reputation 2165 friendly"
+
+      - id: 153032 # Technique: Glyph of the Lightspawn
+        costs:
+          0: 80 # Gold
+        requirements:
+          - "reputation 2165 friendly"
+
+      - id: 282134 # Argunite Crystal Storage
+        costs:
+          0: 700 # Gold
+          1220: 300
+
+      - id: 282128 # Argunite Sconce
+        costs:
+          0: 500 # Gold
+          1220: 250
+
+      - id: 282122 # Gilded Stonework Altar
+        costs:
+          0: 1000 # Gold
+          1220: 500
+
+      - id: 282142 # Gleaming Lightforged Grindstone
+        costs:
+          0: 500 # Gold
+          1220: 250
+
+      - id: 282111 # Hanging Lightforged Standard
+        costs:
+          0: 1000 # Gold
+          1220: 500
+
+      - id: 282146 # Lightforged Control Console
+        costs:
+          0: 700 # Gold
+          1220: 300
+
+      - id: 282156 # Reinforced Empyrium Tile
+        costs:
+          0: 300 # Gold
+          1220: 200
+
+      - id: 282130 # Standing Argunite Lamp
+        costs:
+          0: 300 # Gold
+          1220: 200

@@ -1,0 +1,12 @@
+things:
+  - id: 126196
+    type: "npc"
+    name: "Radix"
+    
+    locations:
+      here:
+        - 72.5 67.5
+    
+    contents:
+      - id: 212778 # Grimoire of the Vile Tyrant
+        description: "Only drops if you're the one to click and activate him?"

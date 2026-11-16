@@ -1,0 +1,122 @@
+things:
+  - id: 127151
+    type: "vendor"
+    name: "Toraan the Revered"
+    note: "Argussian Reach Emissary"
+
+    locations:
+      here: # unknown
+        - 68.1 56.9
+
+    groups:
+      - name: "Argussian Reach"
+        range: -1
+        sortKey: "rep-argussian"
+
+    contents:
+
+      # 0
+
+      - id: 152669 # Argussian Reach Tabard [tabard]
+        costs:
+          0: 240 # Gold
+        requirements:
+          - "reputation 2170 exalted"
+
+      - id: 151708 # Recipe: Astral Alchemist Stone
+        costs:
+          0: 2400 # Gold
+        requirements:
+          - "reputation 2170 exalted"
+
+      - id: 152618 # Recipe: Astral Healing Potion
+        costs:
+          0: 2400 # Gold
+        requirements:
+          - "reputation 2170 exalted"
+
+      - id: 152794 # Reins of the Amethyst Ruinstrider
+        costs:
+          0: 8000 # Gold
+        requirements:
+          - "reputation 2170 exalted"
+
+      - id: 152795 # Reins of the Beryl Ruinstrider
+        costs:
+          0: 8000 # Gold
+        requirements:
+          - "reputation 2170 exalted"
+
+      - id: 152797 # Reins of the Cerulean Ruinstrider
+        costs:
+          0: 8000 # Gold
+        requirements:
+          - "reputation 2170 exalted"
+
+      - id: 152793 # Reins of the Russet Ruinstrider
+        costs:
+          0: 8000 # Gold
+        requirements:
+          - "reputation 2170 exalted"
+
+      - id: 152791 # Reins of the Sable Ruinstrider
+        costs:
+          0: 8000 # Gold
+        requirements:
+          - "reputation 2170 exalted"
+
+      - id: 152796 # Reins of the Umber Ruinstrider
+        costs:
+          0: 8000 # Gold
+        requirements:
+          - "reputation 2170 exalted"
+
+      - id: 152964 # Krokul Flute
+        costs:
+          0: 400 # Gold
+        requirements:
+          - "reputation 2170 revered"
+
+      - id: 151707 # Recipe: Astral Alchemist Stone
+        costs:
+          0: 1600 # Gold
+        requirements:
+          - "reputation 2170 revered"
+
+      - id: 153039 # Crystalline Campfire
+        costs:
+          0: 60 # Gold
+        requirements:
+          - "reputation 2170 honored"
+
+      - id: 153027 # Orphaned Marsuul
+        costs:
+          0: 400 # Gold
+        requirements:
+          - "reputation 2170 honored"
+
+      - id: 153290 # Krokul Mining Pick
+        costs:
+          0: 200 # Gold
+        requirements:
+          - "reputation 2170 honored"
+
+      - id: 152658 # Formula: Chaos Shatter
+        costs:
+          0: 13 # Gold
+        requirements:
+          - "reputation 2170 friendly"
+
+      - id: 152725 # Technique: Mass Mill Astral Glory
+        costs:
+          0: 13 # Gold
+        requirements:
+          - "reputation 2170 friendly"
+
+      - id: 245422 # Draenic Bookcase
+        costs:
+          0: 640 # Gold
+
+      - id: 251480 # Draenic Wooden Wall Shelf
+        costs:
+          0: 240 # Gold

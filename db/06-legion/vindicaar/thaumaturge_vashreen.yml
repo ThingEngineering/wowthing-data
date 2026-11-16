@@ -1,0 +1,47 @@
+things:
+  - id: 121589
+    type: "vendor"
+    name: "Thaumaturge Vashreen"
+    note: "Purveyor of Exquisite Furnishings"
+
+    locations:
+      here: # unknown
+        - 44.4 62.2
+
+    contents:
+
+      - id: 153206 # Relinquished Bracers
+        costs:
+          1508: 650
+
+      - id: 153208 # Relinquished Chestguard
+        costs:
+          1508: 650
+
+      - id: 153209 # Relinquished Cloak
+        costs:
+          1508: 650
+
+      - id: 153210 # Relinquished Gauntlets
+        costs:
+          1508: 650
+
+      - id: 153205 # Relinquished Girdle
+        costs:
+          1508: 650
+
+      - id: 153211 # Relinquished Hood
+        costs:
+          1508: 650
+
+      - id: 153212 # Relinquished Leggings
+        costs:
+          1508: 650
+
+      - id: 153215 # Relinquished Spaulders
+        costs:
+          1508: 650
+
+      - id: 153207 # Relinquished Treads
+        costs:
+          1508: 650

@@ -1,0 +1,67 @@
+things:
+  - id: 127518
+    type: "vendor"
+    name: "Adjutant Vortus"
+    note: "Decor Specialist"
+
+    locations:
+      here: # unknown
+        - 32.4 65
+
+    contents:
+
+      # 0
+
+      - id: 282154 # Amethyst Argunite Crystal
+        costs:
+          1220: 150
+
+      - id: 282138 # Carved Argunite Supply
+        costs:
+          1220: 150
+
+      - id: 282152 # Celadon Argunite Crystal
+        costs:
+          1220: 150
+
+      - id: 282162 # Ceremonial Lightforged Standard
+        costs:
+          0: 1000 # Gold
+          1220: 500
+
+      - id: 282024 # Decorative Lightforged Holo-Screen
+        costs:
+          1220: 200
+
+      - id: 282150 # Golden Argunite Crystal
+        costs:
+          1220: 150
+
+      - id: 282115 # Lightforged Holo-Barricade
+        costs:
+          1220: 200
+
+      - id: 282117 # Lightforged Holo-Parapet
+        costs:
+          1220: 200
+
+      - id: 282119 # Lightforged Holo-Shield
+        costs:
+          1220: 200
+
+      - id: 282113 # Lightforged Holo-Tower
+        costs:
+          1220: 200
+
+      - id: 282136 # Raw Argunite Supply
+        costs:
+          1220: 150
+
+      - id: 282148 # Replica Crown of the Triumvirate
+        costs:
+          1220: 500
+
+      - id: 281682 # Shielded Lightforged Pylon
+        costs:
+          0: 700 # Gold
+          1220: 300
