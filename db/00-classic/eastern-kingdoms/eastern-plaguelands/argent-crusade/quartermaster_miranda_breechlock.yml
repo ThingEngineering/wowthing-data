@@ -1,0 +1,91 @@
+things:
+  - id: 11536
+    type: "vendor"
+    name: "Quartermaster Miranda Breechlock"
+    note: "The Argent Crusade"
+
+    locations:
+      here: # eastern_plaguelands
+        - 75.8 54
+    
+    groups:
+      - name: "Rep - {faction:529}"
+        range: -1
+
+    contents:
+
+      # Paladin
+
+      - id: 136801 # Divine Tome: Contemplation [ability?]
+        costs:
+          0: 40 # Gold
+
+      # Priest
+
+      - id: 136928 # Thaumaturgist's Orb [toy]
+        costs:
+          0: 50 # Gold
+
+      - id: 19442 # Recipe: Powerful Anti-Venom [alchemy]
+        costs:
+          0: 9 # Gold
+        requirements:
+          - "reputation 529 honored"
+
+      - id: 13482 # Recipe: Transmute Air to Fire [alchemy]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation 529 honored"
+
+      - id: 19203 # Plans: Girdle of the Dawn [blacksmithing]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation 529 honored"
+
+      - id: 19205 # Plans: Gloves of the Dawn [blacksmithing]
+        costs:
+          0: 3 # Gold
+        requirements:
+          - "reputation 529 revered"
+
+      - id: 19446 # Formula: Enchant Bracer - Argent Versatility [enchanting]
+        costs:
+          0: 3 # Gold
+        requirements:
+          - "reputation 529 honored"
+
+      - id: 19447 # Formula: Enchant Bracer - Healing Power [enchanting]
+        costs:
+          0: 6 # Gold
+        requirements:
+          - "reputation 529 revered"
+
+      - id: 19328 # Pattern: Dawn Treaders [leatherworking]
+        costs:
+          0: 2 # Gold
+        requirements:
+          - "reputation 529 honored"
+
+      - id: 19329 # Pattern: Golden Mantle of the Dawn [leatherworking]
+        costs:
+          0: 4 # Gold
+        requirements:
+          - "reputation 529 revered"
+
+      - id: 19216 # Pattern: Argent Boots [tailoring]
+        costs:
+          0: 1 # Gold
+        requirements:
+          - "reputation 529 honored"
+
+      - id: 19217 # Pattern: Argent Shoulders [tailoring]
+        costs:
+          0: 3 # Gold
+        requirements:
+          - "reputation 529 revered"
+
+      # - id: 206584 # Archived Crafting Techniques
+      #   costs:
+      #     1012844: 6
