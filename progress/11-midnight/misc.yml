@@ -55,6 +55,28 @@ groups:
       - id: 93427
         name: "Delver's Call: Sunkiller Sanctum"
 
+- name: "Labyrinth"
+  icon: ""
+  iconText: "Lab"
+  lookup: none
+  type: quest
+  data:
+    0:
+      - id: 98951
+        name: "Akil'zon's Roost"
+      
+      - id: 98963
+        name: "Halazzi's Lair"
+      
+      - id: 98962
+        name: "The Cave Towers"
+      
+      - id: 98961
+        name: "Jan'alai's Refuge"
+
+      - id: 98960
+        name: "Nalorakk's Rest"
+
 - name: "Legends Never Die"
   icon: "achievement/61574"
   iconText: "Relic"
