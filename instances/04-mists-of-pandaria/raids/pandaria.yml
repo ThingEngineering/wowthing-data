@@ -1,0 +1,39 @@
+instanceId: 322
+
+difficulties: RAID_NORMAL
+
+encounters:
+  # copied out of ATT
+  chi-ji-the-red-crane: # august celestials is weird
+    contents:
+      - itemId: 105838 # Aeth's Swiftcinder Cloak
+      - itemId: 105830 # Brave Niunai's Cloak
+      - itemId: 105826 # Cape of the Alpha
+      - itemId: 105832 # Crimson Gauntlets of Death
+      - itemId: 105829 # Drape of the Omega
+      - itemId: 105837 # Gauntlets of Discarded Time
+      - itemId: 105827 # Kalaena's Arcane Handwraps
+      - itemId: 105833 # Keengrip Arrowpullers
+      - itemId: 105834 # Marco's Crackling Gloves
+      - itemId: 105835 # Romy's Reliable Grips
+      - itemId: 105814 # Seebo's Sainted Touch
+      - itemId: 105831 # Siid's Silent Stranglers
+      - itemId: 105839 # Turtleshell Greatcloak
+      - itemId: 105836 # Zoid's Molten Gauntlets
+
+  ordos-fire-god-of-the-yaungol:
+    contents:
+      - itemId: 105838 # Aeth's Swiftcinder Cloak
+      - itemId: 105830 # Brave Niunai's Cloak
+      - itemId: 105826 # Cape of the Alpha
+      - itemId: 105832 # Crimson Gauntlets of Death
+      - itemId: 105829 # Drape of the Omega
+      - itemId: 105837 # Gauntlets of Discarded Time
+      - itemId: 105827 # Kalaena's Arcane Handwraps
+      - itemId: 105833 # Keengrip Arrowpullers
+      - itemId: 105834 # Marco's Crackling Gloves
+      - itemId: 105835 # Romy's Reliable Grips
+      - itemId: 105831 # Siid's Silent Stranglers
+      - itemId: 105839 # Turtleshell Greatcloak
+      - itemId: 105836 # Zoid's Molten Gauntlets
+      - itemId: 87522 # Star-Carrier Bracers
