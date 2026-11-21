@@ -120,41 +120,20 @@ groups:
 
 - name: "Suramar Storylines"
   icon: achievement/11124 # Good Suramaritan
-  type: quest
+  type: questline
   data:
     0:
-    - name: "An Ancient Gift"
-      id: 42230
-
-    - name: "The Waning Crescent"
-      id: 42488
-
-    - name: "Blood and Wine"
-      id: 44052
-
-    - name: "Statecraft"
-      id: 43318
-
-    - name: "A Growing Crisis"
-      id: 43362
-
-    - name: "A Change of Seasons"
-      id: 43568
-
-    - name: "Azoran Must Die"
-      id: 40412
-
-    - name: "Moon Guard Stronghold"
-      id: 40972
-
-    - name: "Tidying Tel'anor"
-      id: 40321
-
-    - name: "Eminent Grow-main"
-      id: 41494
-
-    - name: "Jandvik's Jarl"
-      id: 40336
+      - id: 152 # Nightfall
+      - id: 154 # The Telemancer
+      - id: 153 # Kel'danath's Legacy
+      - id: 156 # Masquerade
+      - id: 155 # Feeding Shal'Aran
+      - id: 158 # An Ancient Gift
+      - id: 200 # The Waning Crescent
+      - id: 201 # Blood and Wine
+      - id: 202 # Statecraft
+      - id: 203 # A Growing Crisis
+      - id: 204 # A Change of Seasons
 
 - name: separator
 
